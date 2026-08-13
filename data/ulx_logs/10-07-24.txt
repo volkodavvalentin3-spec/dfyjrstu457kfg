@@ -1,0 +1,53 @@
+[22:06:50] New map: bf_arid
+[22:08:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[22:08:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:08:45] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:08:47] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:09:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[22:09:10] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[22:09:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[22:09:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[22:09:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[22:10:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[22:11:27] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bt7
+[22:11:40] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sherman_m4a3
+[22:11:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_base
+[22:11:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_t35
+[22:12:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[22:12:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfumigator
+[22:12:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_car
+[22:12:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_br
+[22:12:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_bar
+[22:12:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_cabr
+[22:12:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_bas
+[22:13:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_magrevolver
+[22:13:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_flb
+[22:13:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_flm
+[22:13:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_dmr
+[22:13:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_smg
+[22:13:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:14:29] Client "Bot01" connected.
+[22:14:29] Client "Bot01" spawned in server <BOT> (took 525 seconds).
+[22:14:32] RusLanConnection teleported to Bot01
+[22:14:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_flametank
+[22:14:40] RusLanConnection killed Bot01 using ent_jack_gmod_ezfirehazard
+[22:14:56] RusLanConnection teleported to Bot01
+[22:15:02] RusLanConnection killed Bot01 using ent_jack_gmod_ezfirehazard
+[22:15:10] Client "Bot02" connected.
+[22:15:10] Client "Bot02" spawned in server <BOT> (took 566 seconds).
+[22:15:10] Client "Bot03" connected.
+[22:15:10] Client "Bot03" spawned in server <BOT> (took 566 seconds).
+[22:15:11] Client "Bot04" connected.
+[22:15:11] Client "Bot04" spawned in server <BOT> (took 567 seconds).
+[22:15:11] Client "Bot05" connected.
+[22:15:11] Client "Bot05" spawned in server <BOT> (took 567 seconds).
+[22:15:11] Client "Bot06" connected.
+[22:15:11] Client "Bot06" spawned in server <BOT> (took 567 seconds).
+[22:15:11] Client "Bot07" connected.
+[22:15:11] Client "Bot07" spawned in server <BOT> (took 567 seconds).
+[22:15:16] RusLanConnection killed Bot07 using ent_jack_gmod_eznapalm
+[22:15:17] RusLanConnection killed Bot05 using ent_jack_gmod_ezfirehazard
+[22:16:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_lmg
+[22:16:15] RusLanConnection brought Bot01,Bot02,Bot03,Bot04,Bot05,Bot06
+[22:16:25] RusLanConnection killed Bot03 using wep_jack_gmod_lmg
+[22:16:39] Server is shutting down/changing levels.

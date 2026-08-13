@@ -1,0 +1,2274 @@
+<Logging continued from "data/ulx_logs/03-01-25.txt">
+[00:00:03] Culfrum: Я ПРИШЕЛ ПОПРОСИТЬ У ВАС ПОМОЩИ
+[00:00:07] Culfrum: УБЕРИТЕ ОРУЖИЕ ПОЖАЛУЙСТА
+[00:00:34] Culfrum: МУЖЫКИ У ВАС ЕСТЬ МАШЫНА?
+[00:00:56] Culfrum: ПРОСТО Я КОГДА ЗАКАЗАЛ ОНА РЕШИЛА ПРЕВРАТИТСЯ В САМОЛЕТ
+[00:01:04] Culfrum: И ЗАВИСЛА В ВОЗДУХЕ
+[00:01:10] Culfrum: Я ЕЕ ПОТРОГАЛ И ОНА ВЗОРВАЛАСЬ
+[00:01:15] SMOOKIE: всякое бывает
+[00:01:18] Culfrum: Я ВАМ 10К А ВЫ МНЕ МАШЫНА
+[00:01:27] Culfrum: У МЕНЯ ГОРЫ
+[00:01:38] Culfrum: У ВАС СКОК
+[00:01:47] Culfrum: ПРОСТ ВДРУГ ВЫ ОБМАНЕТЕ
+[00:02:00] Culfrum: Я СНАЧАЛА 5К СКИНУ А ПОТОМ КОГДА МАШЫНА ПРИЙДЕТ ЕЩЕ ДАМ
+[00:02:13] Culfrum: НУ ТОГДА Я САМ ПОПРОБУЮСЬ
+[00:02:16] Culfrum: КУПИТЬ МАШЫНА
+[00:07:40] Лудоман: supply radio: fulton-crate
+[00:14:05] Mr. Goose V0RCH00N: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:15:09] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[00:15:10] Soldier_S.C.A.F suicided!
+[00:16:32] Лудоман: !MOTD
+[00:20:54] Mr. Goose V0RCH00N: и
+[00:24:24] Client "Tolstoy" connected.
+[00:24:24] Client "Ash The Worker Drone" connected.
+[00:25:02] Client "Mayakovsky" connected.
+[00:25:35] Client "Ash The Worker Drone" spawned in server <STEAM_0:1:506690416> (took 71 seconds).
+[00:26:09] Client "Soldier_S.C.A.F" connected.
+[00:28:27] Ash The Worker Drone: !motd
+[00:29:25] Client "WolfSystem777" connected.
+[00:29:28] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 199 seconds).
+[00:30:10] Client "WolfSystem777" spawned in server <STEAM_0:0:454435705> (took 45 seconds).
+[00:30:16] Client "Tolstoy" spawned in server <STEAM_0:0:43186104> (took 352 seconds).
+[00:30:44] Soldier_S.C.A.F: впервые на сервере?
+[00:30:59] WolfSystem777: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:31:00] WolfSystem777: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:31:06] WolfSystem777: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:31:07] Soldier_S.C.A.F: тогда принимаю
+[00:31:40] Tolstoy: я только зашёл
+[00:32:13] Soldier_S.C.A.F: ну так что
+[00:32:16] Soldier_S.C.A.F: кинеш запрос?
+[00:32:38] Soldier_S.C.A.F: кароч
+[00:32:47] Soldier_S.C.A.F: я на севере от спавна развавался
+[00:32:53] Soldier_S.C.A.F: просто у меня вылет был
+[00:32:57] Soldier_S.C.A.F: пошли
+[00:34:04] Soldier_S.C.A.F: пока инструменты создадим
+[00:34:18] WolfSystem777: supply radio: sentry
+[00:35:52] Soldier_S.C.A.F: щя всё будет
+[00:36:19] Client "Mayakovsky" spawned in server <STEAM_0:0:802974556> (took 677 seconds).
+[00:37:12] Dropped "WolfSystem777" from server<STEAM_0:0:454435705>
+[00:37:12] WolfSystem777 suicided!
+[00:37:14] Client "WolfSystem777" connected.
+[00:37:39] Client "WolfSystem777" spawned in server <STEAM_0:0:454435705> (took 25 seconds).
+[00:37:49] Soldier_S.C.A.F: да
+[00:38:02] Tolstoy: !motd
+[00:38:19] Soldier_S.C.A.F: сначало точку дизлокации
+[00:39:14] Soldier_S.C.A.F: other
+[00:39:41] Soldier_S.C.A.F: а 
+[00:39:48] Soldier_S.C.A.F: он в tools
+[00:39:50] Soldier_S.C.A.F: щя зделаю
+[00:40:32] Client "Jr_byba" connected.
+[00:40:37] Soldier_S.C.A.F: ты пока разбирай
+[00:44:09] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[00:44:09] Soldier_S.C.A.F suicided!
+[00:50:37] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 605 seconds).
+[00:52:55] Mr. Goose V0RCH00N: Лафак как понят что нам надо
+[00:53:04] Mr. Goose V0RCH00N: Заходим и смотрим что нужно на танк
+[00:53:07] Mr. Goose V0RCH00N: :D
+[00:56:53] Client "Crystal" connected.
+[00:57:42] Dropped "Ash The Worker Drone" from server<STEAM_0:1:506690416>
+[00:57:42] Ash The Worker Drone suicided!
+[00:59:19] Client "P0lyakov" connected.
+[00:59:49] Client "Crystal" spawned in server <STEAM_0:0:626594767> (took 176 seconds).
+[01:00:04] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 45 seconds).
+[01:01:06] Jr_byba: Я ЛЮБЛЮ ПЛЫВИСКИ
+[01:04:03] Dropped "Crystal" from server<STEAM_0:0:626594767>
+[01:04:03] Crystal suicided!
+[01:05:21] Client "glaSOO" connected.
+[01:05:51] Лудоман: a
+[01:06:15] Client "Балтика 9" connected.
+[01:06:41] Client "glaSOO" spawned in server <STEAM_0:1:626531518> (took 80 seconds).
+[01:08:28] Client "Балтика 9" spawned in server <STEAM_0:0:592080962> (took 133 seconds).
+[01:09:08] Tolstoy was killed by ent_jack_gmod_ezprimitivebench
+[01:11:15] Client "Сырный пакетик" connected.
+[01:12:50] Jr_byba: supply radio: supply radio
+[01:15:13] Jr_byba: tbl kto
+[01:16:09] Jr_byba: ящик
+[01:16:30] Jr_byba was killed by ent_jack_gmod_ezsentry
+[01:17:20] Jr_byba: octahi
+[01:18:40] Jr_byba: ящик
+[01:18:42] WolfSystem777: supply radio: sentry
+[01:19:28] Jr_byba: мой ящик там
+[01:19:42] Tolstoy: !motd
+[01:20:07] Client "moskartem15" connected.
+[01:20:28] Jr_byba: не
+[01:20:34] Лудоман killed Jr_byba using tfa_doisten
+[01:21:33] Jr_byba: ку
+[01:21:47] glaSOO: э\
+[01:22:04] Jr_byba: можно в тиму
+[01:22:15] Jr_byba: чо
+[01:22:18] WolfSystem777: /health
+[01:22:24] Jr_byba: ну пж
+[01:24:02] Jr_byba: спс
+[01:24:06] P0lyakov: ??
+[01:24:16] P0lyakov: За что?
+[01:24:41] Jr_byba: спс-спасипо
+[01:24:44] P0lyakov: я понял
+[01:24:46] P0lyakov: за что
+[01:24:48] P0lyakov: ?
+[01:24:53] Jr_byba: чо
+[01:24:59] P0lyakov: За что спасибо?
+[01:25:23] Jr_byba: что принял меня
+[01:25:28] P0lyakov: Я не принял
+[01:25:42] P0lyakov: Я начну принимать участников чуть позже
+[01:26:11] Балтика 9: // АДМИНЫ
+[01:26:17] glaSOO: // админы
+[01:26:19] Mayakovsky killed Tolstoy using rust_boltrifle
+[01:27:07] Jr_byba: а почену физган такой сильный
+[01:27:17] P0lyakov: не знаю
+[01:27:17] Jr_byba: ?
+[01:27:23] P0lyakov: наверное опять конфиг сбился
+[01:27:39] Tolstoy killed Mayakovsky using rust_boltrifle
+[01:27:49] Jr_byba: похоту да
+[01:29:00] P0lyakov: ещё рано
+[01:29:05] P0lyakov: сходи пока куда-нибудь ещё
+[01:31:14] Tolstoy: привет
+[01:31:24] Client "Mr_Pyro" connected.
+[01:32:15] Client "/ᴅᴏᴢʏ" connected.
+[01:32:36] P0lyakov: !menu 
+[01:32:58] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 94 seconds).
+[01:33:05] Client "/ᴅᴏᴢʏ" spawned in server <STEAM_0:1:520496964> (took 50 seconds).
+[01:33:24] P0lyakov: !menu
+[01:34:34] Client "Сырный пакетик" spawned in server <STEAM_0:0:617253467> (took 1399 seconds).
+[01:34:35] P0lyakov: !menu
+[01:34:40] Сырный пакетик was killed by lvs_trailer_schneider_new
+[01:35:13] P0lyakov banned Лудоман permanently (Sry Buddy, Ruslan have said that you cant play here anymore)
+[01:35:13] Dropped "Лудоман" from server<STEAM_0:0:781818033>
+[01:35:13] Лудоман suicided!
+[01:35:23] Mayakovsky killed P0lyakov using rust_eoka
+[01:35:44] Dropped "Сырный пакетик" from server<STEAM_0:0:617253467>
+[01:35:44] Сырный пакетик suicided!
+[01:36:32] Tolstoy: типо зарейдили
+[01:36:44] Tolstoy: ресы нужны
+[01:37:21] Tolstoy: сори
+[01:37:36] Tolstoy: ты кто?
+[01:37:53] Tolstoy: на какой
+[01:37:58] Mayakovsky: ТАК МЫ НЕ ВЗЯЛИ НИ ЧЕГО
+[01:38:18] Tolstoy: мы вообще только недавно зашли
+[01:38:28] Tolstoy: нет
+[01:38:33] Mayakovsky: нет
+[01:39:25] /ᴅᴏᴢʏ: !menu
+[01:39:29] Mayakovsky: да
+[01:39:41] Балтика 9 killed Mr_Pyro using tfa_doiluger
+[01:41:12] Client "Hand of Death" connected.
+[01:42:01] Client "Hand of Death" spawned in server <STEAM_0:1:442851008> (took 49 seconds).
+[01:42:20] glaSOO: `
+[01:42:35] /ᴅᴏᴢʏ: !menu
+[01:43:07] Culfrum to admins: поляков ты летать будешь по карте? прост что бы я в жмод френдс добав
+[01:43:18] Culfrum to admins: и не тратились патроны
+[01:43:25] P0lyakov: !menu
+[01:43:55] (csay from P0lyakov) Не-не, не буду. — P0lyakov
+[01:44:44] Jr_byba: ку
+[01:44:50] Jr_byba: чо
+[01:44:56] Jr_byba: суки
+[01:45:12] Jr_byba: бля
+[01:45:16] Client "Mannytko" connected.
+[01:46:19] Mr. Goose V0RCH00N killed Mr_Pyro using tfa_doip38
+[01:46:30] Client "Mannytko" spawned in server <STEAM_0:0:151021368> (took 74 seconds).
+[01:46:45] Jr_byba: wooow
+[01:46:56] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_eztoolbox
+[01:47:10] Dropped "SMOOKIE" from server<STEAM_0:1:565872977>
+[01:47:10] SMOOKIE suicided!
+[01:48:56] Mr. Goose V0RCH00N was killed by ent_jack_gmod_ezsentry
+[01:49:10] P0lyakov: supply radio: fulton-crate
+[01:49:13] Mr. Goose V0RCH00N was killed by lvs_trailer_schneider_new
+[01:49:15] Dropped "Mr. Goose V0RCH00N" from server<STEAM_0:1:150007799>
+[01:49:15] Mr. Goose V0RCH00N suicided!
+[01:49:56] Client "vers1" connected.
+[01:50:02] /ᴅᴏᴢʏ: !motd
+[01:51:39] Mannytko cloaked Themself by amount 0
+[01:51:39] Mannytko: !cloak mann
+[01:51:41] (TEAM) Jr_byba: lf
+[01:52:20] WolfSystem777: /health
+[01:52:24] Mayakovsky: так мы не брали
+[01:52:31] Tolstoy: мы рпг не брали
+[01:52:36] /ᴅᴏᴢʏ: !menu
+[01:52:38] Tolstoy: клянемся
+[01:52:39] Client "vers1" spawned in server <STEAM_0:0:230254820> (took 163 seconds).
+[01:53:23] Tolstoy: нечего
+[01:53:24] Jr_byba: сталь
+[01:53:31] Mayakovsky: я клянусь что рпг не брал
+[01:53:37] Mannytko set the hp for Themself to 100
+[01:53:37] Mannytko: !hp mann 100
+[01:53:48] Tolstoy: что?
+[01:53:58] Tolstoy: хотели
+[01:54:15] Tolstoy: хорошо
+[01:54:18] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezaidradio
+[01:54:20] Tolstoy: Удасчи!
+[01:54:27] Mannytko uncloaked Themself
+[01:54:29] (TEAM) Jr_byba: да
+[01:54:50] Jr_byba: сталь
+[01:54:56] Client "vasiliy karat" connected.
+[01:55:06] Mannytko cloaked Themself by amount 0
+[01:55:21] Jr_byba: чо
+[01:55:45] Jr_byba: ага
+[01:55:46] Mannytko uncloaked Themself
+[01:55:58] Mannytko cloaked Themself by amount 0
+[01:56:02] Mannytko uncloaked Themself
+[01:56:08] Mannytko cloaked Themself by amount 0
+[01:56:09] Dropped "/ᴅᴏᴢʏ" from server<STEAM_0:1:520496964>
+[01:56:09] /ᴅᴏᴢʏ suicided!
+[01:56:19] Mannytko uncloaked Themself
+[01:56:21] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbattery
+[01:56:25] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 89 seconds).
+[01:57:09] Jr_byba: это сталь
+[01:57:49] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[01:58:15] Jr_byba: дай физган
+[01:58:17] WolfSystem777 killed vers1 using tfa_verdun_tankgewehr
+[01:59:03] vasiliy karat: !menu
+[01:59:19] vasiliy karat stripped weapons from Themself
+[01:59:33] Culfrum to admins: поляк чекни наш негротек
+[02:00:35] Client "Сырный пакетик" connected.
+[02:00:55] Jr_byba: КУ
+[02:01:47] Client "Сырный пакетик" connected.
+[02:02:13] Tolstoy: "supply radio : help"
+[02:02:13] Jr_byba was killed by ent_jack_gmod_ezaugerdrill
+[02:02:19] Client "Сырный пакетик" spawned in server <STEAM_0:0:617253467> (took 32 seconds).
+[02:03:45] Jr_byba: Не знаю
+[02:03:54] WolfSystem777: /y ПРИВЕТ 
+[02:04:03] WolfSystem777: Привет
+[02:04:17] Tolstoy: привет
+[02:04:23] (TEAM) WolfSystem777: Опусти пушку
+[02:04:27] WolfSystem777: Опусти пушку
+[02:04:38] WolfSystem777: У меня на предохранителе
+[02:04:54] WolfSystem777: Ребят, у вас есть керамика?
+[02:04:59] Tolstoy: Есть
+[02:05:01] WolfSystem777: Куплю
+[02:05:12] Mannytko suicided!
+[02:05:15] WolfSystem777: Сколько есть?
+[02:05:16] Mayakovsky: ща посмотрим
+[02:05:19] Jr_byba was killed by ent_jack_gmod_ezaugerdrill
+[02:05:21] Mannytko teleported to P0lyakov
+[02:05:21] Mannytko: !goto p0
+[02:05:30] Tolstoy: 313
+[02:05:42] WolfSystem777: За сколько все продатите?
+[02:05:52] WolfSystem777: И за что
+[02:05:57] Tolstoy: хз
+[02:06:07] Tolstoy: за так отдадим
+[02:06:12] WolfSystem777: Дэ?
+[02:06:49] WolfSystem777: Возьмите передовые технолгие
+[02:06:59] Tolstoy: спасибо!
+[02:07:04] WolfSystem777: Спасибо вам, я пойду
+[02:07:08] Tolstoy: удачи
+[02:07:33] Dropped "Mayakovsky" from server<STEAM_0:0:802974556>
+[02:07:33] Mayakovsky suicided!
+[02:07:34] Dropped "Tolstoy" from server<STEAM_0:0:43186104>
+[02:07:34] Tolstoy suicided!
+[02:08:29] Client "voiceoffern" connected.
+[02:10:04] Jr_byba: ку
+[02:10:16] vasiliy karat: Я БЕРУ МАШИГНУ
+[02:10:31] WolfSystem777: /health
+[02:10:51] Culfrum killed vasiliy karat using rust_m39emr
+[02:12:21] Jr_byba: да_нет
+[02:12:47] (TEAM) Jr_byba: да
+[02:13:49] Jr_byba: да
+[02:14:02] vasiliy karat: ПЛАТИТЕ СКОЛЬКО?
+[02:14:13] vasiliy karat: КАКОЙ ПРОЦЕНТ
+[02:14:20] vasiliy karat: ЛИЧНО МНЕ
+[02:14:31] vasiliy karat: ТАК ЭТО ЖЕ НЕ ПОРОВНУ
+[02:14:32] Client "/ᴅᴏᴢʏ" connected.
+[02:14:35] vasiliy karat: НАС ТРОЕ БУДЕТ
+[02:14:51] vasiliy karat: А ГДЕ МОИ 50
+[02:14:53] Client "/ᴅᴏᴢʏ" spawned in server <STEAM_0:1:520496964> (took 21 seconds).
+[02:15:03] vasiliy karat: НЕТ ТЫ СКАЗАЛ 50
+[02:15:08] Dropped "Hand of Death" from server<STEAM_0:1:442851008>
+[02:15:08] Hand of Death suicided!
+[02:15:40] (TEAM) Балтика 9: Ш
+[02:15:43] Балтика 9: 1212
+[02:15:52] Балтика 9: хУЙ В ЗАДНИЦЕ ПАУ ПАУ ПАУ ПАУ ТАЩИТЕ АНУСЫ
+[02:15:53] vasiliy karat: ХОРОШО 
+[02:16:05] Mannytko to admins: p0lyakov типо prig0jin
+[02:16:25] vasiliy karat: НУЖНО СПРОВАЦИРОВАТЬ ВОЙНУ ЧТОБЫ ДЕНЬГИ НАМ КАРМАН ТЕКЛИ
+[02:17:13] vasiliy karat: ТЕПЕРЬ Я ПОНЯЛ
+[02:17:13] WolfSystem777: И снова здравствуйте
+[02:17:25] WolfSystem777: Вы дома?
+[02:17:55] Client "voiceoffern" spawned in server <STEAM_0:0:420991811> (took 566 seconds).
+[02:19:35] Jr_byba was killed by ent_rus_gmod_ezpowerline
+[02:20:39] Client "JMSD16" connected.
+[02:21:21] WolfSystem777: ВЫ кто
+[02:21:37] Client "JMSD16" spawned in server <STEAM_0:1:570595696> (took 58 seconds).
+[02:21:38] WolfSystem777: Мгм
+[02:22:03] WolfSystem777: У вас керамика?
+[02:22:16] WolfSystem777: Сколько есть?
+[02:22:20] WolfSystem777: Мог бы купить
+[02:22:34] WolfSystem777: Ясненько...
+[02:22:56] Culfrum killed Jr_byba using rust_m39emr
+[02:23:32] voiceoffern: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:23:55] vasiliy karat: ЭТО ВАСЯ
+[02:23:58] vasiliy karat: ВАСИЛИЙ ПРИГЕО
+[02:24:04] vasiliy karat: ПРИВЕТ
+[02:24:22] Балтика 9: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:24:36] Jr_byba: ку
+[02:24:49] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_nazihead
+[02:24:59] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_adrianhead
+[02:25:05] vasiliy karat: МНЕ НРАВИТСЯ
+[02:25:09] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_lhead
+[02:25:14] vasiliy karat: КАК ОН У МЕНЯ ОТОБРАЖАЕТСЯ СОЛДАТ ТФ2
+[02:25:17] WolfSystem777: РЕБЯТ, ДАЙТЕ ПОДСАДКУ ПО БРАТСКИ
+[02:25:29] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_mhead
+[02:25:35] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_lhead
+[02:26:04] WolfSystem777: На камень встань
+[02:26:30] WolfSystem777: Ебанный в рот картатела
+[02:26:36] WolfSystem777: Или как там
+[02:26:56] Client "WD_NeoN" connected.
+[02:27:05] vasiliy karat: REST IN PEACE
+[02:27:06] WolfSystem777: По ближе
+[02:27:11] Jr_byba: меня убили и я не в клане потому что там тюрима
+[02:27:22] Jr_byba: да
+[02:27:28] WolfSystem777: чут чут
+[02:28:02] vasiliy karat: ВЕЩИ ЭТО МАТЕРИАЛЬНО ПОНИМАЕШЬ
+[02:28:06] Client "Filenoname" connected.
+[02:28:08] vasiliy karat: КАК ПРИШЛИ ТАК И УШЛИ
+[02:28:09] Jr_byba: ку
+[02:28:14] vasiliy karat: ГЛАВНОЕ ДУХОВНОЕ
+[02:28:19] WolfSystem777: Ну хоть ни кому не достанется
+[02:28:28] WolfSystem777: спасибо за помощь
+[02:28:33] WolfSystem777: УБЕЙ МЕНЯ НАХУЙ
+[02:28:46] vasiliy karat: ПРОЩАЙ
+[02:28:49] vasiliy karat killed WolfSystem777 using tfa_doi_marinebayonet
+[02:29:23] vasiliy karat: ЛЕСТНИЦУ
+[02:29:25] vasiliy karat: ПОСТАВЬ
+[02:29:27] vasiliy karat: ОБЫЧНУЮ
+[02:29:58] Jr_byba: пш нх
+[02:30:09] vasiliy karat: КОРМАНЫ
+[02:30:29] Jr_byba: можно в тиму
+[02:30:31] WolfSystem777: /health
+[02:31:08] Jr_byba: находить уран
+[02:32:15] vasiliy karat: ГОТОВ ЛИ Я УБИВАТЬ ЛЮДЕЙ ЗА 150 ДЖИБАКС:
+[02:32:16] vasiliy karat: ?
+[02:32:49] Mannytko: здравствуйте
+[02:32:52] Jr_byba: мне нужен в войне пистолет
+[02:33:01] Mannytko: я из VOLNIY
+[02:33:27] Jr_byba: можно в тиму
+[02:33:39] Client "241484" connected.
+[02:33:54] Jr_byba: ок
+[02:34:03] glaSOO: вы из МПФ?
+[02:34:07] Jr_byba: ок
+[02:34:12] vasiliy karat: ОЧЕНЬ ПЛОТНАЯ ЗАСТРОЙКА
+[02:34:46] vasiliy karat: МОЖНО КАЗАРМУ ГДЕ Я ЖИТЬ БУДУ
+[02:36:00] Client "аллахбабах" connected.
+[02:37:00] vasiliy karat: А ЧТО МЫ БУДЕМ ДЕЛАТЬ ЕСЛИ НА НАС ОПОЛЧИТСЯ ВСЯ ФРАКЦИЯ И
+[02:37:04] vasiliy karat: ПОПРОБУЕТ ВЫГНАТЬ ОТСЮДА
+[02:37:46] Client "Сын Опера" connected.
+[02:38:01] Jr_byba: ку
+[02:38:06] WolfSystem777: Кто таков
+[02:38:33] Jr_byba: jr_byba
+[02:38:39] WolfSystem777: И?
+[02:38:49] Jr_byba: ytxtdj
+[02:38:55] vasiliy karat: СРО ДОБАВИЛИ ВОЗМОЖНОСТЬ ДЕЛАТЬ РИСУНКИ НА БОМБАХ
+[02:38:58] WolfSystem777: Чего хотеть от меня?
+[02:39:09] Jr_byba: нечево
+[02:39:17] WolfSystem777: Тогда уходи 
+[02:39:20] Jr_byba: ок
+[02:40:08] vasiliy karat: ТО 4
+[02:40:24] Client "Tolstoy" connected.
+[02:40:29] Client "Mayakovsky" connected.
+[02:41:01] Client "Tolstoy" spawned in server <STEAM_0:0:43186104> (took 37 seconds).
+[02:41:12] Client "Mayakovsky" spawned in server <STEAM_0:0:802974556> (took 43 seconds).
+[02:42:11] Client "WD_NeoN" spawned in server <STEAM_0:0:572760260> (took 915 seconds).
+[02:42:22] vasiliy karat: !MENU
+[02:43:40] vasiliy karat: !MENU
+[02:44:10] Jr_byba: нечево
+[02:45:21] Jr_byba: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:46:07] P0lyakov<STEAM_0:0:60570605> spawned model models/props_c17/furniturecouch001a.mdl
+[02:46:14] Jr_byba: 8 баз
+[02:46:30] vasiliy karat: ЭТО ПРАВДА ПУШКА
+[02:46:31] vasiliy karat: ПОШЛИ
+[02:46:46] Jr_byba: да):
+[02:47:12] Jr_byba: не помню
+[02:47:25] Dropped "WD_NeoN" from server<STEAM_0:0:572760260>
+[02:47:25] WD_NeoN suicided!
+[02:47:43] Jr_byba: я ЗНАЙ(((((:
+[02:47:49] Client "Сын Опера" spawned in server <STEAM_0:0:842678036> (took 603 seconds).
+[02:48:08] Jr_byba: Я ЗНАЮ
+[02:48:28] Client "Filenoname" spawned in server <STEAM_0:0:679233884> (took 1222 seconds).
+[02:48:37] vers1: playermodel_selector
+[02:49:08] vers1 killed Сын Опера using wep_jack_gmod_ezpickaxe
+[02:49:20] Jr_byba: wolf база 30 -47 -50
+[02:49:51] Dropped "Mayakovsky" from server<STEAM_0:0:802974556>
+[02:49:51] Mayakovsky suicided!
+[02:50:42] Jr_byba: машина
+[02:50:57] Сын Опера: /me выбил оружие из рук
+[02:51:11] P0lyakov<STEAM_0:0:60570605> spawned effect models/props_lab/chess.mdl
+[02:51:12] Client "Rackman" connected.
+[02:51:14] Сын Опера: /me выбил оружие из рук
+[02:51:18] Jr_byba: пх нхй
+[02:51:38] P0lyakov<STEAM_0:0:60570605> spawned model models/props_combine/breenglobe.mdl
+[02:51:46] P0lyakov<STEAM_0:0:60570605> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[02:51:47] P0lyakov<STEAM_0:0:60570605> spawned model models/props_junk/garbage_newspaper001a.mdl
+[02:51:51] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 39 seconds).
+[02:52:01] P0lyakov<STEAM_0:0:60570605> spawned vehicle models/nova/chair_office02.mdl
+[02:52:07] P0lyakov<STEAM_0:0:60570605> spawned vehicle models/nova/chair_office02.mdl
+[02:52:14] P0lyakov<STEAM_0:0:60570605> spawned vehicle models/nova/chair_office02.mdl
+[02:53:10] Filenoname: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:53:19] Client "WD_NeoN" connected.
+[02:54:26] Dropped "Tolstoy" from server<STEAM_0:0:43186104>
+[02:54:26] Tolstoy suicided!
+[02:54:36] Jr_byba: ку
+[02:54:37] Client "Mrosirb" connected.
+[02:54:45] Jr_byba: чо
+[02:55:06] Jr_byba: д-нет
+[02:55:14] Jr_byba: да
+[02:55:15] Client "WD_NeoN" spawned in server <STEAM_0:0:572760260> (took 116 seconds).
+[02:55:41] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[02:55:41] Jr_byba suicided!
+[02:55:57] vasiliy karat: ОН БЫЛ ОДИН ИЗ НИХ
+[02:56:05] WD_NeoN: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:06] WD_NeoN: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:17] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:18] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:18] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:18] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:20] Сын Опера: /me выбил оружие из рук
+[02:56:37] Сын Опера: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:38] Filenoname: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:39] Сын Опера: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:41] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:43] Сын Опера: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:43] Сын Опера: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:43] Сын Опера: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:43] Сын Опера: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:44] Сын Опера: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:44] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:44] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:44] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:45] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:56:57] vers1: playermodel_selector
+[02:56:59] Client "SoldierEL1TE" connected.
+[02:57:07] Client "Mr. Goose V0RCH00N" connected.
+[02:57:37] Client "Mr. Goose V0RCH00N" spawned in server <STEAM_0:1:150007799> (took 30 seconds).
+[02:57:55] Dropped "voiceoffern" from server<STEAM_0:0:420991811>
+[02:57:55] voiceoffern suicided!
+[02:59:20] WD_NeoN: /noclip
+[03:00:01] Dropped "Mr. Goose V0RCH00N" from server<STEAM_0:1:150007799>
+[03:00:01] Mr. Goose V0RCH00N suicided!
+[03:00:25] Dropped "/ᴅᴏᴢʏ" from server<STEAM_0:1:520496964>
+[03:00:25] /ᴅᴏᴢʏ suicided!
+[03:00:33] Client "SoldierEL1TE" connected.
+[03:01:31] Сын Опера: /me выбил оружие из рук
+[03:02:45] Client "SoldierEL1TE" spawned in server <STEAM_0:0:565316422> (took 132 seconds).
+[03:03:05] vasiliy karat: ЗОМБИ ИВЕНТ
+[03:03:40] vasiliy karat: ДРАМ МАШИНУ
+[03:03:44] Rackman brought SoldierEL1TE
+[03:03:44] Rackman: !bring SoldierEL1TE
+[03:04:00] vasiliy karat: МЫ САМАЯ СИЛЬНАЯ ФРАКЦИЯ
+[03:04:39] Dropped "Сырный пакетик" from server<STEAM_0:0:617253467>
+[03:04:39] Сырный пакетик suicided!
+[03:07:14] Client "Mr. Goose V0RCH00N" connected.
+[03:07:36] Client "Mr. Goose V0RCH00N" spawned in server <STEAM_0:1:150007799> (took 22 seconds).
+[03:08:10] Client "Mrosirb" connected.
+[03:08:16] Client "EDA666" connected.
+[03:08:51] Filenoname: bind i jmod_ez_inv
+[03:10:06] vasiliy karat: МОЖНО ФАБРИКАТОР
+[03:10:08] vasiliy karat: ДЕЛАТЬ
+[03:11:16] Filenoname: /meny
+[03:11:19] Filenoname: /menu
+[03:11:46] Client "Mrosirb" spawned in server <STEAM_0:1:868803262> (took 216 seconds).
+[03:12:06] vasiliy karat: НЕЛЬЗЯ
+[03:12:31] vasiliy karat: ЭТО КАРТА ДЯЛ НУБОВ ЗИМА ВРЕМЯ ДОМА СИДЕТЬ 
+[03:12:40] vasiliy karat: СИДЕТЬ ДОМА У КАМИНА
+[03:12:43] vasiliy karat: КАК ОЛУХ
+[03:12:44] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezshovel
+[03:14:42] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[03:15:10] Client "Improvised_starting_fire_device" connected.
+[03:15:28] Dropped "Mrosirb" from server<STEAM_0:1:868803262>
+[03:15:28] Mrosirb suicided!
+[03:15:45] Mr_Pyro was killed by ent_aboot_gmod_ezshippingcontainer
+[03:16:16] Client "Improvised_starting_fire_device" spawned in server <STEAM_0:1:225675214> (took 66 seconds).
+[03:16:23] Сын Опера: [ff[f[f[f[
+[03:16:25] vasiliy karat: ТАК КРУЧЕ
+[03:16:25] Сын Опера: хахахахахах
+[03:16:28] vasiliy karat: СРАЗУ ДВА
+[03:16:28] vers1 was killed by ent_jack_gmod_ezaugerdrill
+[03:16:31] Сын Опера: аххахэахахахаха
+[03:16:35] vasiliy karat: У СИЛЬНЫХ ФРАКЦИИ ПО ОДНОМУ
+[03:16:36] vasiliy karat: У НАС ДВА
+[03:17:16] Mr. Goose V0RCH00N: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:17:17] Mr. Goose V0RCH00N: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:17:22] Mr. Goose V0RCH00N: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:17:23] Mr. Goose V0RCH00N: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:17:29] Dropped "WolfSystem777" from server<STEAM_0:0:454435705>
+[03:17:29] WolfSystem777 suicided!
+[03:17:31] Client "WolfSystem777" connected.
+[03:17:59] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[03:18:02] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwater
+[03:18:04] Client "WolfSystem777" spawned in server <STEAM_0:0:454435705> (took 33 seconds).
+[03:20:56] Mr. Goose V0RCH00N: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:21:41] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcrate_uni
+[03:22:09] vasiliy karat: ЗАМЕТНО
+[03:22:22] vasiliy karat: ЕСТЬ ЗАКАЗЫ?
+[03:22:26] P0lyakov: нЕа
+[03:22:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcrate
+[03:23:15] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznutrients
+[03:23:34] vers1 was killed by build_prop
+[03:25:01] vasiliy karat: КОГДА РАБОТА
+[03:27:38] Mannytko: *drop
+[03:27:41] Mannytko: *drop
+[03:27:47] vasiliy karat: ПРИЕМ ПРИЕМ Я СВЯЗНОЙ
+[03:28:18] Culfrum: АФК
+[03:29:54] Mr. Goose V0RCH00N: что хотел
+[03:30:00] Mr. Goose V0RCH00N: ни слышно нихуя
+[03:30:10] Mr. Goose V0RCH00N: Я разберался с турелями
+[03:30:33] Mr. Goose V0RCH00N: ну как как обычно ставишь на точку нефти или воду
+[03:30:38] Mr. Goose V0RCH00N: нажимаешь на Е
+[03:30:44] Mr. Goose V0RCH00N: И она сама начинает работать
+[03:30:55] Mr. Goose V0RCH00N: Ну нужно еще чтобы электричество было
+[03:31:02] Client "Vasilisk_Ð" connected.
+[03:31:07] Mr. Goose V0RCH00N: Может нефть под картой быть
+[03:31:10] Filenoname killed Improvised_starting_fire_device using tfa_doithompsonm1a1
+[03:31:16] Mr. Goose V0RCH00N: или вода под картой
+[03:31:27] Mr. Goose V0RCH00N: Это база заброшена уже
+[03:31:33] vasiliy karat: ТАМ Э
+[03:31:36] vasiliy karat: ВКЛЮЧИ НИГАЛИНК
+[03:32:19] Mannytko: *drop
+[03:32:26] Filenoname killed WD_NeoN using tfa_doithompsonm1a1
+[03:32:27] Filenoname killed Сын Опера using tfa_doithompsonm1a1
+[03:32:37] Filenoname killed vers1 using tfa_doithompsonm1a1
+[03:32:39] vasiliy karat: ТУТ
+[03:32:42] vasiliy karat: ПЛОХО СДЕЛАНО
+[03:33:01] Culfrum: я тут
+[03:33:16] vers1 killed Filenoname using tfa_doithompsonm1a1
+[03:33:39] vasiliy karat: АСОЦИАЦИЯ МФ
+[03:33:41] Culfrum: А
+[03:33:42] vasiliy karat: ЭТО МИРОТВОРЦЫ?
+[03:33:43] Client "Ёжик пулемётчик" connected.
+[03:34:01] vasiliy karat: МПФ
+[03:34:06] Culfrum: МЫ НЕ ЯРЫЕ ВОЯКИ НО ОТПОР ПО ИДЕЕ ДАТЬ МОЖЕМ
+[03:34:10] vasiliy karat: ЭТО РАСШИФРОВЫВАЕТСЯ
+[03:34:13] vasiliy karat: КАК
+[03:34:14] Culfrum: НАША ЦЕЛЬ ОБЪЕДИНЯТЬ СЛАБЫЕ ФРАКЦИИ
+[03:34:21] Culfrum: МИРНЫЕ ПРОИЗВОДСТВЕННЫЕ ФРАКЦИИ
+[03:34:26] vasiliy karat: ТАМ
+[03:34:48] Filenoname killed Improvised_starting_fire_device using tfa_doithompsonm1a1
+[03:35:23] vasiliy karat: МИСТЕР КУЛФРУМ
+[03:35:26] Culfrum: ?
+[03:35:36] Filenoname killed Сын Опера using tfa_doithompsonm1a1
+[03:35:40] vasiliy karat: МЫ ОБЕСПОКОЕНЫ СТРЕЛЬБОЙ СО СТОРОНЫ ФРАКЦИИ ЗАРЯ
+[03:35:51] vasiliy karat: ВЫ ЗНАЕТЕ ЧТО ТАМ ПРОИСХОДИТ?
+[03:35:55] Culfrum: НЕТ
+[03:35:55] WolfSystem777: /health
+[03:35:59] vers1 killed Filenoname using wep_jack_gmod_ezpickaxe
+[03:36:05] Culfrum: НО ТАМ БЫВШИЕ ВО ФРАКЦИИ ЛУДОМАНА
+[03:36:08] Culfrum: VARS
+[03:36:11] Culfrum: ЕЩЕ КТО ТО
+[03:36:32] Culfrum: Я НЕ ДУМАЮ ЧТО ОН ХОРОШО ПОВЛИЯЛ НА НИХ
+[03:36:40] Mr. Goose V0RCH00N suicided!
+[03:36:45] Filenoname killed WD_NeoN using tfa_doithompsonm1a1
+[03:36:53] vasiliy karat: ОНИ ОПЯТЬ СТРЕЛЯЮТ
+[03:37:00] Culfrum: МОЖЕТ БЫТЬ ДУРАЧАТСЯ
+[03:37:04] Culfrum: НАДО БУДЕТ РАЗВЕДАТЬ
+[03:37:12] Сын Опера killed vers1 using tfa_doim1carbine
+[03:37:17] vasiliy karat: МЫ МОЖЕМ ЗАНЯТЬСЯ 5000
+[03:37:27] Culfrum: МЫ МОЖЕМ ЧЕРЕЗ ГОРУ ЗАВЕДАТЬ
+[03:37:33] Culfrum: ПРОХОД ПО ИДЕЕ МОЖНО СДЕЛАТЬ
+[03:37:34] vasiliy karat: А НУ ТОГДА ПОКА
+[03:37:41] vers1 killed Сын Опера using tfa_doithompsonm1a1
+[03:38:28] vers1 killed Filenoname using tfa_doithompsonm1a1
+[03:38:43] Dropped "Сын Опера" from server<STEAM_0:0:842678036>
+[03:38:43] Сын Опера suicided!
+[03:40:13] Filenoname killed vers1 using tfa_doithompsonm1a1
+[03:41:05] Culfrum: ОНИ СТРЕЛЯЮТСЯ
+[03:41:40] vasiliy karat: ЧТО ВАМ НУЖНО Я МИМО ПРОЙТИ ХОЧУ
+[03:41:43] vasiliy karat: НЕ УБИВАЙТЕ ПРОШУ
+[03:41:55] vasiliy karat: У ВАС
+[03:42:05] Culfrum: МЫ МОЖЕМ ОТДАТЬ
+[03:42:09] Culfrum: НО ОНА НЕМНОГО ПОЛОМАННАЯ
+[03:42:34] Culfrum: у нас братан где то искал
+[03:42:41] Culfrum: но он вроде не доделал
+[03:42:59] Filenoname killed Improvised_starting_fire_device using player
+[03:43:02] Culfrum: РЕБЯТ
+[03:43:03] vasiliy karat: Я ВОИН НЕ ШАХТЕР
+[03:43:07] Culfrum: Я ДОСТРОИЛ ЛЕСТНИЦУ
+[03:43:29] vasiliy karat: МИСТЕР КУЛФРУМ
+[03:43:39] vasiliy karat: МОЖЕТЕ ПОМОЧЬ МНЕ КАК ПОСРЕДНИК
+[03:43:48] vasiliy karat: Я ХОТЕЛ ПРОЙТИ МИМО ФРАКЦИИ ЗАРЯ ПО ЗАДАНИЮ
+[03:43:56] Filenoname: Я ЗАСТРЯОЛ
+[03:43:57] vasiliy karat: НО ОНИ ПРИГРОЗИЛИИ МНЕ СМЕРТЬЮ 
+[03:44:06] vasiliy karat: МОЖЕТЕ ПОМОЧЬ ЗАИМЕТЬ ПРАВО ПРОХОДА
+[03:44:12] vasiliy karat: ВСЕМ ФРАКЦИЯМ ТУТ
+[03:44:18] vasiliy karat: ПОШЛИТЕ СО МНОЙ
+[03:44:25] vasiliy karat: ПРОСТО
+[03:44:27] vasiliy karat: ДОГОВОРИТЬСЯ
+[03:44:31] Mr. Goose V0RCH00N: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:44:33] Client "beliashالله أكبر" connected.
+[03:44:44] vers1 killed Filenoname using player
+[03:45:18] vasiliy karat: МИСТЕР РАКМАН
+[03:45:23] vasiliy karat: МОЖЕТЕ ПРИКРЫТЬ
+[03:45:27] vasiliy karat: КУЛФРУМА
+[03:45:34] vasiliy karat: ПРИ РАЗГОВОРЕ С НИМ
+[03:45:39] vasiliy karat: КУЛФРУМ ПОЙДЕТ ПОГОВОРИТЬ
+[03:45:47] vasiliy karat: НЕТ 
+[03:45:53] vasiliy karat: ВОТ МИСТЕР КУЛФРУМ
+[03:45:55] vasiliy karat: ВАС ПРИКРОЕТ
+[03:45:56] vasiliy karat: РАКМАН
+[03:45:59] Culfrum: ПОНЯЛ
+[03:46:08] Client "fantom4k341" connected.
+[03:46:15] vasiliy karat: ВЫ СПРОСИТЕ У НИХ ПРАВО ПРОХОДА А ТО ОНИ ЗЛЫЕ КАКИЕ ТО А 
+[03:46:19] vasiliy karat: НАМ ЧЕРЕЗ НИХ НАДО
+[03:46:23] vasiliy karat: ПО ДРУГОМУ НИКАК
+[03:46:35] vasiliy karat: ВОТ ВАМ
+[03:46:36] Culfrum: ЕСЛИ ОНИ НЕ РАЗРЕШАТ Я МОГУ ПОПРОБОВАТЬ ПОНАСТРОИТЬ МОСТЫ ДЛЯ ПРОХОД
+[03:46:37] vasiliy karat: БРОНИЖЕЛЕТ
+[03:46:39] vasiliy karat: НА ВСЯКИЙ
+[03:46:53] Culfrum: Я ПОШЕЛ ТОГДА
+[03:46:55] vasiliy karat: ВСЕ ИДИТЕ
+[03:47:10] Mr. Goose V0RCH00N: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:47:19] Culfrum: СЕРАЯ
+[03:47:32] vers1 killed Improvised_starting_fire_device using player
+[03:47:47] glaSOO was killed by ent_jack_gmod_ezpumpjack
+[03:48:01] Culfrum: ВО
+[03:48:20] Client "Vasilisk_Ð" spawned in server <STEAM_0:1:452030622> (took 1038 seconds).
+[03:48:21] Mr. Goose V0RCH00N: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:48:30] vasiliy karat: РАКМАН, ОНИ ЕГО РАСТРЕЛЯЮТ ЗА ГОЛУБОЙ ЦВЕТ
+[03:48:34] vasiliy karat: НАЧНЕТСЯ ВОЙНА
+[03:48:35] Dropped "Mr. Goose V0RCH00N" from server<STEAM_0:1:150007799>
+[03:48:35] Mr. Goose V0RCH00N suicided!
+[03:48:36] Culfrum: РЕБЯТА
+[03:48:51] Culfrum: Я ПРИШЕЛ ПОГОВОРИТЬ С ВАМИ ПО ПОВОДУ ПРОХОДА
+[03:49:08] Culfrum: ЖДУ
+[03:49:50] Culfrum: Я ПРЕДСТАВИТЕЛЬ МПФ
+[03:50:10] Client "beliashالله أكبر" spawned in server <STEAM_0:0:822301453> (took 337 seconds).
+[03:50:13] Culfrum: Я О ВАС СЛЫШАЛ ЧТО ВЫ НЕ ОЧЕНЬ ХОРОШО ОТНОСИТЕСЬ К ЛЮДЯМ
+[03:50:21] Culfrum: КОТОРЫЕ ПЫТАЮЬТСЯ ПРОЙТИ РЯДОМ С ВАШЕЙ ТЕРРИТОРИИ
+[03:50:37] vasiliy karat: НУ ЗНАЧИТ
+[03:50:43] vasiliy karat: ДАЛЕКО СТРЕЛЯЛ МАНЮТКА ЦВЕТ
+[03:51:15] vasiliy karat: НУ ПОДОЖДИ
+[03:51:22] Culfrum: ПО ПОВОДУ ЛЮДЕЙ В ЧЕРНОЙ ФОРМЕ
+[03:51:23] vasiliy karat: ВСЕГДА МОЖЕТ ЧТО ТО ПОЙТИ НЕ ТАК
+[03:51:26] Culfrum: ВОТ ИМ НАДО ПРОЙТИ
+[03:51:45] Culfrum: Я НЕ ДУМАЮ ЧТО ЭТО ОНИ
+[03:51:52] Culfrum: ХОРОШО Я ПЕРЕДАМ ЧТО РАЗРЕШЕН ПРОХОД
+[03:51:53] Dropped "glaSOO" from server<STEAM_0:1:626531518>
+[03:51:53] glaSOO suicided!
+[03:52:01] Culfrum: ДОСВИДАНИЯ И УДАЧИ
+[03:52:03] (TEAM) beliashالله أكبر: !MOTD
+[03:52:16] vasiliy karat: ОТСТАВИТЬ
+[03:52:24] Culfrum: разрешили
+[03:52:36] Culfrum: РАЗРЕШИЛИ ПРОХОДИТЬ
+[03:52:45] Culfrum: ОНИ ТАМ ПРО КАКИХ ТО СУМАШЕДШИХ РАССКАЗЫВАЛИ
+[03:52:48] Culfrum: И БОЛЕЗНИ
+[03:53:04] Culfrum: Я СКАЗАЛ ИМ ЧТО ТИПО ЭТО НЕ ВЫ СТРЕЛЯЛИ ПО НИМ
+[03:53:11] Culfrum: И ОНИ ТАКИЕ "А ЭТО НЕ ВЫ БЫЛИ?"
+[03:53:16] Culfrum: И ТАКИЕ ЛАН ПРОХОДИТЕ
+[03:53:22] Culfrum: ТАК ЧТО ПРОХОДИТЬ МОЖНО
+[03:53:46] Culfrum: Я СВОБОДЕН?
+[03:53:52] vasiliy karat: ДА
+[03:53:55] vasiliy karat: ДОСВИДАНИЕ
+[03:54:10] vasiliy karat: НУ ПОВТОРИТЬ ТУ ОПЕРАЦИЮ
+[03:54:33] vasiliy karat: Я ГОВОРЮ
+[03:54:36] vasiliy karat: НУЖНО ПОВТОРИТЬ
+[03:54:51] vasiliy karat: В ЭТОТ РАЗ ОНИ ТОЧНО
+[03:54:55] vasiliy karat: ЗАПОМНЯТ ЦВЕТ
+[03:55:12] vasiliy karat: УХОЖУ
+[03:55:48] WolfSystem777: /health
+[03:56:10] vasiliy karat: НУЖНО
+[03:56:12] vasiliy karat: ПОВТОРИТЬ
+[03:56:18] vasiliy karat: РАСТРЕЛ
+[03:56:23] Culfrum: КОГО
+[03:57:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_nazihead
+[03:57:28] Mannytko: *drop
+[03:57:31] Mannytko: *drop
+[03:57:37] Mannytko: *drop
+[03:57:55] Client "^_^" connected.
+[03:58:04] vasiliy karat: ГОТОВ
+[03:58:18] vasiliy karat: ОЙ
+[03:58:29] vasiliy karat: ЭТО Я МИСКЛИК
+[03:58:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_ltorso
+[03:58:44] vasiliy karat: ХРОМ
+[03:59:02] Filenoname: supply radio: precision parts
+[03:59:22] vasiliy karat: С ДРУГОЙ СТОРОНЫ
+[03:59:52] vasiliy karat: НИГА ЛИНК
+[04:00:22] vers1 killed Filenoname using tfa_doithompsonm1a1
+[04:00:35] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezchair
+[04:00:44] Client "bigppbob15" connected.
+[04:00:53] Client "KIRKA" connected.
+[04:00:55] Client "SMOOKIE" connected.
+[04:01:00] Culfrum: ВОТ ВАМ
+[04:01:05] Culfrum: ТОК БЕНЗА МАЛО
+[04:01:21] Client "クセニア" connected.
+[04:01:34] Culfrum: я говорил
+[04:01:53] Client "SMOOKIE" spawned in server <STEAM_0:1:565872977> (took 58 seconds).
+[04:01:54] Culfrum: сюда прине ее
+[04:02:01] Culfrum: верните потом плиз
+[04:02:02] Culfrum: А
+[04:02:03] Culfrum: ЧТО
+[04:02:16] Culfrum: это эти
+[04:02:21] (TEAM) Filenoname: по нам ебашат
+[04:02:33] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 100 seconds).
+[04:03:10] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_gaz67
+[04:03:11] Culfrum: КАК ВАМ ИДЕЯ МОСТОВ
+[04:03:12] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodwillyjeep
+[04:03:16] Culfrum: ДЛЯ ПЕРЕВОЗОК ЗАЩИЩЕНЫХ
+[04:03:23] Culfrum: ПЕРЕВОЗКА ПО МОСТУ ПЛАТНАЯ БУДЕТ
+[04:03:46] Culfrum: МЫ ТОГДА ТОЖЕ
+[04:03:48] Culfrum: АЛЬЯНС
+[04:04:13] Culfrum: МЫ ОКАЗЫВАЕМ УСЛУГИ СТРОИТЕЛЬСТВА
+[04:04:25] Culfrum: И СТРОИТЕЛЬСТВА ОБОРОННЫХ СТРОЕНИЙ
+[04:04:29] Culfrum: ЕСЛИ ЧТО ОБРАЩАЙТЕСЬ
+[04:05:36] Culfrum: клотх
+[04:05:37] Culfrum: над
+[04:05:43] Culfrum: я
+[04:05:43] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodwillyjeep
+[04:05:47] vasiliy karat: У НАС КАЗАРМА НА 2 ЧЕЛОВЕКА
+[04:05:49] Culfrum: Я ЧЕЛОВЕК МОЛЕКУЛО
+[04:05:56] vasiliy karat: ВО ФРАКЦИИ 6
+[04:06:00] Culfrum: МЫ АССОЦИАЦИЯ МПФ
+[04:06:18] Culfrum: ХОРОШО
+[04:06:25] Culfrum: ЩА ПОПОЛНИМ РЕСУРС
+[04:06:31] Culfrum: ТОК КЛОТХА ЧУТОК НАД
+[04:06:47] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznutrients
+[04:07:03] Culfrum was killed by lvs_wheeldrive_dodwillyjeep
+[04:07:04] Culfrum: ай
+[04:07:06] Culfrum: ААА
+[04:07:27] vasiliy karat: ИНОПЛАНЕТНЫЙ
+[04:07:32] Culfrum: НЕТ
+[04:07:39] Culfrum: ОНО ЛЕЖАЛО НА ЗЕМЛЕ
+[04:07:44] Culfrum: НЕТ
+[04:07:47] Culfrum: ТАКОГО НЕ БЫЛО
+[04:07:53] Culfrum: Я ЖЕ ПОМОГ ВАМ
+[04:07:57] Culfrum: И ПОМОГАЮ
+[04:07:57] Mannytko: *drop
+[04:08:08] vasiliy karat: ИНОПЛАНЕТЯНЕ ПИРАМИДЫ СТРОИЛИ
+[04:08:23] Culfrum: НЕТУ ТАКОГО
+[04:08:24] Culfrum: НЕ БЫЛО
+[04:08:30] Culfrum: ЧТО БЫ Я ИНОПРЕШЕЛЕЦ
+[04:08:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznutrients
+[04:08:58] Culfrum: ЗАКОПАЙТЕ
+[04:09:10] Culfrum: ВЕРНИТЕ ПУШКУ ПЛИЗ
+[04:09:19] Mannytko: *drop
+[04:09:24] Culfrum: СПАСИБА
+[04:09:38] vasiliy karat: ПОЛЯКОВ
+[04:09:48] vasiliy karat: НУЖНО СПРОСИТЬ У ФРАКЦИЯ ЗАРЯ
+[04:09:58] vasiliy karat: МОЖЕТ У НИХ ВРАГИ ЕСТЬ
+[04:10:03] vasiliy karat: КТО ТО ПО НИМ СТРЕЛЯТЬ
+[04:10:06] beliashالله أكبر killed Балтика 9 using tfa_doisten
+[04:10:06] Culfrum: У НИХ НАД ОБОРОНЯТЬ
+[04:10:11] Culfrum: А ТО ОНИ САМИ СЕБЯ ЗАГАСЯТ
+[04:10:16] KIRKA: !drop
+[04:10:20] Client "DeNoZaVR⁴²" connected.
+[04:10:20] KIRKA: /drop
+[04:10:33] Rackman killed SMOOKIE using lvs_wheeldrive_dodwillyjeep
+[04:10:47] Culfrum: К ВАМ НА БАЗУ ПОЕХАЛИ ПО ПОВОДУ АЛЬЯНСА
+[04:10:48] beliashالله أكبر killed KIRKA using tfa_doip38
+[04:10:49] Culfrum: ВОЛЬНЫЕ
+[04:10:59] Culfrum: ДА
+[04:11:09] Culfrum: ЧТО ВЫ МОЖЕТЕ ПРЕДОСТАВИТЬ НАМ
+[04:11:20] vasiliy karat: МОЖНО СПРОСИТЬ КАК ОНИ ВЫГЛЯДЕЛИ
+[04:11:22] vasiliy karat: МОДЕЛИ
+[04:11:23] vasiliy karat: ОРУЖИЕ
+[04:11:33] Culfrum: К СОЖАЛЕНИЮ НАШ ПАРЕНЬ УЖЕ ДЕЛАЕТ НАМ НЕФТЬ
+[04:11:43] Culfrum: Я ПОДУМАЮ
+[04:11:49] vasiliy karat: ДАВАЙТЕ ТУДА ПРОЕДИМСЯ
+[04:11:53] vasiliy karat: ПОСМОТРЕТЬ
+[04:12:00] Culfrum: НУ
+[04:12:02] Culfrum: ЧЕ МОГУ СКАЗАТЬ
+[04:12:06] Culfrum: ФИАСКО БРАТАН
+[04:12:08] Client "DeNoZaVR⁴²" spawned in server <STEAM_0:1:600266006> (took 108 seconds).
+[04:12:20] Improvised_starting_fire_device: сервер лагать
+[04:12:27] Improvised_starting_fire_device: я ничего не понимать
+[04:13:01] Mannytko: Jradi vadi ne budi, dadi hudi
+[04:13:07] vasiliy karat: СПРОСИТЬ
+[04:13:23] vasiliy karat: МАНЬЯКИ
+[04:13:25] Rackman killed beliashالله أكبر using tfa_doik98_scop
+[04:13:40] Client "вротберунчик" connected.
+[04:14:43] Client "вротберунчик" spawned in server <STEAM_0:0:160992234> (took 63 seconds).
+[04:14:45] Dropped "beliashالله أكبر" from server<STEAM_0:0:822301453>
+[04:14:45] beliashالله أكبر suicided!
+[04:14:55] Culfrum: F
+[04:14:56] Culfrum: А
+[04:15:25] DeNoZaVR⁴²: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:15:28] vasiliy karat: САМИ СПРОСИТЕ У НИХ
+[04:15:32] SoldierEL1TE: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:16:10] вротберунчик: я машину краду да
+[04:16:11] вротберунчик: )(
+[04:16:17] вротберунчик: все все
+[04:16:20] вротберунчик: шутка,
+[04:16:22] вротберунчик: прикол
+[04:16:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[04:16:36] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[04:17:16] вротберунчик: здратсвуйте
+[04:17:24] вротберунчик: могу я к вам зайти
+[04:17:26] Mannytko: *drop
+[04:17:28] Mannytko: *drop
+[04:17:33] вротберунчик: вопрос
+[04:17:37] Mannytko: *drop
+[04:17:40] вротберунчик: эээ
+[04:17:40] Mannytko: *drop
+[04:17:41] DeNoZaVR⁴²: я не услышал
+[04:17:42] вротберунчик: стрелять
+[04:17:46] вротберунчик: строить
+[04:17:48] вротберунчик: крафтить
+[04:17:51] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznutrients
+[04:17:52] вротберунчик: ну эээ
+[04:17:53] Culfrum: ДЕРЬМО
+[04:17:53] вротберунчик: я хз
+[04:17:55] DeNoZaVR⁴²: понял
+[04:17:55] вротберунчик: ну допустим
+[04:18:00] вротберунчик: 7 из 10
+[04:18:10] вротберунчик: кто я?
+[04:18:10] Client "Mr. Goose V0RCH00N" connected.
+[04:18:19] DeNoZaVR⁴²: щяс мой кент придет
+[04:18:20] вротберунчик: ало я не заражен
+[04:18:26] вротберунчик: и вообще я пришел к васе
+[04:18:33] вротберунчик: ?
+[04:18:41] вротберунчик: давайте
+[04:18:44] вротберунчик: а какое?
+[04:18:45] Client "Mr. Goose V0RCH00N" spawned in server <STEAM_0:1:150007799> (took 35 seconds).
+[04:18:55] Culfrum: МОЕ
+[04:18:56] вротберунчик: дайте бинокль я как раз и корды всех узнаю
+[04:18:57] Culfrum: А
+[04:19:00] Culfrum: МОЕ
+[04:19:04] вротберунчик: ну ладна
+[04:19:12] WolfSystem777 killed SMOOKIE using tfa_verdun_tankgewehr
+[04:19:12] Culfrum: СТОЙ
+[04:19:17] Culfrum: ИДИТЕ СБДА
+[04:19:20] Culfrum: ЛЕЧИТЬ
+[04:19:26] vasiliy karat: ЭТО НЕ БОЛЬНИЦА!
+[04:19:27] Culfrum: ЛЕЧИТЬ
+[04:19:28] Culfrum: БУДУ
+[04:19:31] Culfrum: ИДИ СЮДА
+[04:19:39] DeNoZaVR⁴²: окей а он машину у когота украл
+[04:19:43] Culfrum: НЕ
+[04:19:44] Culfrum: НЕ Я
+[04:19:44] DeNoZaVR⁴²: ВОТ ОН
+[04:19:51] Culfrum: 0
+[04:19:55] DeNoZaVR⁴²: КУДА
+[04:19:58] вротберунчик: здраствуйте а вы какая фракция?
+[04:20:06] Culfrum: Я ЛЕЧИТЬ БУДУ
+[04:20:08] Culfrum: ИДИТЕ СЮДА
+[04:20:15] вротберунчик: ок
+[04:20:18] WolfSystem777 killed Vasilisk_Ð using tfa_verdun_tankgewehr
+[04:20:22] вротберунчик: да
+[04:20:35] вротберунчик: не я смотрю где какая фрака
+[04:20:37] вротберунчик: на карте
+[04:20:45] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznutrients
+[04:20:48] Culfrum: Я ЗА ГОРОЙ
+[04:20:53] Improvised_starting_fire_device: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:20:53] Culfrum: Я ТУТ СТРОИТЕЛЬ
+[04:20:58] вротберунчик: вас
+[04:20:59] Culfrum: ПРИШЕЛ ПОСТРОИТЬ ИМ
+[04:21:00] вротберунчик: эта ты
+[04:21:02] Culfrum: КЗАРМУ
+[04:21:03] вротберунчик: йоу
+[04:21:05] вротберунчик: мне сказали
+[04:21:08] вротберунчик: всю карту обойти
+[04:21:09] Culfrum: ЭТО ВОЛНЫ
+[04:21:14] вротберунчик: и сказать где чии корды
+[04:21:17] вротберунчик: ну там по компасу
+[04:21:20] vasiliy karat: НУ
+[04:21:26] вротберунчик: щас обегать буду
+[04:21:31] вротберунчик: всю карту
+[04:21:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsand
+[04:21:33] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsand
+[04:21:36] вротберунчик: я пошел
+[04:21:39] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsand
+[04:21:47] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsand
+[04:21:55] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsand
+[04:22:02] Mr. Goose V0RCH00N: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:22:03] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsand
+[04:22:06] вротберунчик: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:22:12] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsand
+[04:22:18] Culfrum killed вротберунчик using player
+[04:22:21] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsand
+[04:22:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsand
+[04:22:33] Culfrum: ВИДИМО ПРОШЛО БОЛЕЕ 3 СЕКУНД
+[04:22:34] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsand
+[04:22:36] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsand
+[04:22:40] Culfrum: НЕ НАДО БЫЛО ЕСТЬ ТУ ЯГОДУ...
+[04:22:41] вротберунчик: дуди худи жради вади
+[04:22:46] Mr. Goose V0RCH00N: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:22:53] Culfrum: УРА
+[04:23:08] вротберунчик: здраствуйте а вы какая фракция?
+[04:23:27] вротберунчик: а вы какая фракция?
+[04:23:36] Vasilisk_Ð killed WolfSystem777 using rust_boltrifle
+[04:23:47] вротберунчик: а
+[04:23:48] вротберунчик: ок
+[04:23:57] вротберунчик: а мне сказали карту обойти
+[04:24:03] вротберунчик: и сказать где чии корды
+[04:24:04] vasiliy karat: ПЫТОШНАЯ
+[04:24:04] Rackman<STEAM_0:0:221849271> spawned NPC npc_monk
+[04:24:08] Culfrum: ЧТОО
+[04:24:10] вротберунчик: чтобы приняли
+[04:24:10] vers1: присоеденяйся к скваду
+[04:24:11] vasiliy karat: РАКМАН ДАВАЙ 
+[04:24:12] vasiliy karat: Ж
+[04:24:18] вротберунчик: а нахуй ты стреляешь
+[04:24:21] вротберунчик: долбаеб
+[04:24:23] вротберунчик: я ваш
+[04:24:23] Rackman<STEAM_0:0:221849271> spawned NPC npc_gman
+[04:24:24] вротберунчик: долбанеб
+[04:24:27] vasiliy karat: ДАВАЙ ВЛАСТЬ ЗАХВАТИМ ВО ФРАКЦИИ И ПОМЕНЯЕМ ЭКОНОМИЧЕСКУЮ ПОЛИТИК
+[04:24:30] вротберунчик: сука мне сказали
+[04:24:33] вротберунчик: я сука
+[04:24:33] Mr. Goose V0RCH00N: Запрос отправил
+[04:24:33] vasiliy karat: ПОПРОСИТЬ
+[04:24:36] Rackman<STEAM_0:0:221849271> spawned NPC npc_dog
+[04:24:38] WolfSystem777 killed Vasilisk_Ð using tfa_verdun_tankgewehr
+[04:24:40] вротберунчик: я сказал чтобы меня приняли к вам
+[04:24:45] vasiliy karat: ПОПРОСИТЬ ДАЙ ЛИДЕРКУ
+[04:24:46] вротберунчик: мне сказали обойти карту
+[04:24:47] Culfrum: АФК
+[04:24:48] vasiliy karat: НА МИНУТУ
+[04:24:51] vasiliy karat: И ВСЕ
+[04:24:52] вротберунчик: волны
+[04:24:53] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznutrients
+[04:24:53] вротберунчик: сука
+[04:24:54] vasiliy karat: НЕ ВОЗВРАЩАТЬ
+[04:24:56] вротберунчик: или как там
+[04:25:01] вротберунчик: а этот долбаеб злиться
+[04:25:03] Client "Tolstoy" connected.
+[04:25:36] Improvised_starting_fire_device: playermodel_selector  
+[04:25:52] Culfrum: ДАЙ ЯДЕРКУ НА 5 СЕК
+[04:25:56] Culfrum: Я ПОСМОТРЕТЬ
+[04:26:07] Culfrum: ЩЯ
+[04:26:10] WolfSystem777 killed Vasilisk_Ð using tfa_verdun_tankgewehr
+[04:26:16] Culfrum: ВСЕ
+[04:26:28] Client "Tolstoy" spawned in server <STEAM_0:0:43186104> (took 85 seconds).
+[04:26:28] Dropped "Vasilisk_Ð" from server<STEAM_0:1:452030622>
+[04:26:28] Vasilisk_Ð suicided!
+[04:26:47] Culfrum: ГОТОВО
+[04:26:49] Culfrum: ЧТОО
+[04:26:52] Culfrum: МУЖЫК
+[04:26:59] вротберунчик: здраствуйте
+[04:27:13] вротберунчик: а че тут
+[04:27:23] Culfrum: ОН УМЕР
+[04:27:32] Culfrum: ВАУ
+[04:27:33] Culfrum: РОБОТЫ
+[04:27:47] Culfrum: БЕСПИЛОТНЫЙ ЕЗДАТЕЛЬНЫЙ АППАРАТ
+[04:28:02] Culfrum: АВТОБОТЫ
+[04:28:11] Culfrum: ТРАНСФОРМИРЫ
+[04:28:17] Culfrum: А ВДРУГ ОН ЕЩЕ ТРАНСФОРМИРУЕТСЯ
+[04:28:21] вротберунчик: и так
+[04:28:26] Culfrum: НАДО БЕНЗИНОМ КОРМИТЬ И ТРАНСФОРМИРУЕТСЯ
+[04:28:28] вротберунчик: главарь
+[04:28:30] вротберунчик: и так
+[04:28:42] Culfrum: ПОЛЯКОВ
+[04:28:43] вротберунчик: ты че делаешь
+[04:28:45] Culfrum: ЗАНОСИТЕ
+[04:28:48] Culfrum: ВЕЩИ
+[04:28:52] вротберунчик: поляков
+[04:28:54] Culfrum: И Я ЗАКРЫВАЮ ПОТОЛОК
+[04:29:00] Culfrum: МЕНЯ СВАРИВАЮТ
+[04:29:07] вротберунчик: на s от спавна пустая база
+[04:29:07] Culfrum: Я СТАНУ СВИНЦОВЫМ ЧЕЛОВЕКОМ
+[04:29:20] вротберунчик: 105 заря
+[04:29:24] Culfrum: ЧИЛОВЕК МАЛЕКУЛО
+[04:29:26] вротберунчик: так я написал чтобы 
+[04:29:51] вротберунчик: сервак лагает или мой инет?
+[04:30:21] Culfrum: Я ТОЖЕ?
+[04:30:37] Culfrum: РАКМАН НАС СДЕЛАЕТ СВИНЦОВЫМИ ЧЕЛОВЕКАМИ
+[04:30:53] Culfrum: ЗАНОСИТЕ ВЕЩИ В КАЗАРМЫ ЧТО БЫ Я ПОТОЛОК ЗАКРЫЛ
+[04:30:54] Culfrum: ПОТОМ
+[04:31:39] вротберунчик: ага
+[04:31:45] Culfrum: ВЫ
+[04:31:48] Culfrum: ЭТИ
+[04:31:50] Culfrum: НЕ РАЗВЕДКА
+[04:32:21] Culfrum: НЕ
+[04:32:24] vasiliy karat: ОТРЯД ЗА МНОЙ
+[04:32:28] Culfrum: НАДО ПОТОМ ЗАНЕСТИ ВЕЩИ
+[04:32:31] Culfrum: В НОВЫЕ КАЗАРМЫ
+[04:32:44] Culfrum: ПРОСТ ЧТО БЫ ЗАКРЫТЬ КРЫШУ
+[04:32:56] вротберунчик: а мы куда?
+[04:33:14] вротберунчик: лагает жестко чет
+[04:33:17] Culfrum: Я СВЯЧУСЬ
+[04:33:22] vasiliy karat: ЩАС
+[04:33:27] vasiliy karat: ВОТ ПОСТАВЬТЕ ТУТ
+[04:33:27] Culfrum: Я СТАНОВЛЮСЬ ЧЕЛОВЕКОМ С ЯДЕРНЫМ РЕАКТОРОМ
+[04:33:34] vasiliy karat: ГДЕ НИБУДЬ
+[04:33:35] Mannytko: *drop
+[04:33:38] Mannytko: *drop
+[04:33:39] Culfrum: Я ТЕПЕРЬ МОГУ СВОЕЙ ГРУДЬЮ РАКЕТЫ СБИВАТЬ
+[04:33:42] Mannytko: *drop
+[04:33:43] Culfrum: И ЛЕТАТЬ
+[04:33:50] Culfrum: АХХАХАХА
+[04:33:54] Improvised_starting_fire_device: из за песка думаю
+[04:33:56] Improvised_starting_fire_device: лагать
+[04:34:00] вротберунчик: его пермачем откинули?
+[04:34:04] вротберунчик: зазахх
+[04:34:09] вротберунчик: да он ныл много
+[04:34:11] vasiliy karat: РАКМАН
+[04:34:14] SoldierEL1TE: вася
+[04:34:20] SoldierEL1TE: вася
+[04:34:26] Culfrum: А ЗА ТО КОГДА ОН ВЫЙГРЫВАЛ ОН ТАКОЙ СМАТРИТЕ КАКИЕ ВЫ КРУТЫЕ
+[04:34:28] vasiliy karat: ОН ПОМОЕМУ ГДЕ ТО НА ЦЕНТРЕ 
+[04:34:28] Culfrum: МЫ*
+[04:34:29] vasiliy karat: БУР
+[04:34:30] vasiliy karat: ДА?
+[04:34:39] JMSD16: da, vasya
+[04:34:41] SoldierEL1TE: само жило
+[04:34:43] SoldierEL1TE: но не бур
+[04:34:47] SoldierEL1TE: мы хотели бур поставить
+[04:34:51] vasiliy karat: ВЫ В РУЧНУЮ КОПАЕТЕ?
+[04:34:53] JMSD16: da, tam žilka
+[04:34:59] SoldierEL1TE: но т.к. у нас ротация
+[04:34:59] Culfrum: СЕРБЫ
+[04:35:00] JMSD16: kirkoj kopajem
+[04:35:05] SoldierEL1TE: вам прийдется построить бур
+[04:35:18] вротберунчик: я ща наверное перезайду настройки поменяю
+[04:35:20] vasiliy karat: РАКМАН
+[04:35:20] вротберунчик: 30 фпс
+[04:35:27] вротберунчик: плюс 20 тикрейт гейминг
+[04:35:34] vasiliy karat: РЕСЫ ДА ЩАС НУЖНО ПОСТАВИТЬ БУР НА ЖИЛЕ НУЖНО БУР СДЕЛАТЬ
+[04:35:37] vasiliy karat: УПАКОВАТЬ
+[04:35:40] vasiliy karat: ЗАГРУЗИТЬ
+[04:35:43] vasiliy karat: В ГРУЗОВИЕ
+[04:35:45] vasiliy karat: ОТВЕСТИ
+[04:35:47] vasiliy karat: ПОСТАВИТЬ
+[04:35:49] vasiliy karat: ДОБЫТЬ
+[04:35:50] Culfrum: Я СЛЕДИТЬ МОГУ
+[04:35:52] Culfrum: ЧТО
+[04:35:54] Culfrum: ИДИОТЫ
+[04:35:55] vasiliy karat: РАКМАН
+[04:36:02] vasiliy karat: КАК ТЕБЕ МОЙ ПЛАН
+[04:36:08] vasiliy karat: НУ МОЖЕТ
+[04:36:09] Culfrum: А Я НЕ В ВОЙНЕ
+[04:36:15] vasiliy karat: ИСПОЛНИМ ПОТОМ НАДО
+[04:36:18] Culfrum: ЧТО
+[04:36:22] Culfrum: НАДО ИХ КИДАТЬ
+[04:36:31] Culfrum: ОНИ СУМАШЕДШИЕ
+[04:36:35] Dropped "Tolstoy" from server<STEAM_0:0:43186104>
+[04:36:35] Tolstoy suicided!
+[04:36:41] вротберунчик: ахахах
+[04:36:41] Culfrum: УСЛЫШАЛ
+[04:36:42] вротберунчик: хахаха
+[04:37:19] вротберунчик: кулебея пакуна папая
+[04:37:21] Culfrum: АШАЛЕТЬ ОН ГРОМКО ЛЕТАЕТ
+[04:37:28] Culfrum: УСЛЫШАЛИ
+[04:37:30] вротберунчик: вот эта да
+[04:37:47] vasiliy karat: НУЖНО ПОЛЯКОВА ПОГРУЗИТЬ В МАШИНУ И ПОЕДЕМ С ТОБОЙ ВТРОЕМ
+[04:37:51] vasiliy karat: ПОГОВОРИТЬ
+[04:38:09] Culfrum: Я С ВАМИ
+[04:38:12] вротберунчик: согласен
+[04:38:19] vasiliy karat: НУЖНО ДЕЛАТЬ
+[04:38:21] vasiliy karat: СПАВН ПОИНТ
+[04:38:31] Culfrum: Я БУДУ ОХРАНЯТЬ ВАС
+[04:38:31] vasiliy karat: НУЖЕН ПЕРЕДОВОЙ
+[04:38:41] Culfrum: СВОЕЙ ПУШКОЙ
+[04:38:43] вротберунчик: где ганы?
+[04:39:10] вротберунчик: где оружие
+[04:39:14] Culfrum: что
+[04:39:15] Culfrum: НЕТ
+[04:39:17] Culfrum: ТЫ НЕ МОЖЕШЬ
+[04:39:26] Culfrum: РАКМАН
+[04:39:33] Culfrum: РАКМАН
+[04:39:44] Culfrum: Я ЗНАЮ ЧТО ТЫ НЕ ХОРОШИЙ ЧЕЛОВЕК
+[04:39:52] Culfrum: Я ЧУВСТВУЮ GIGLE
+[04:39:56] вротберунчик: вася
+[04:39:58] вротберунчик: где оружие
+[04:40:03] вротберунчик: или скрафтить
+[04:40:05] vasiliy karat: ЩАС НАКРАФТИМ
+[04:40:07] Culfrum: Я НЕ ЗНАЮ
+[04:40:07] вротберунчик: ок
+[04:40:10] Culfrum: МУДРЫЙ ДАР
+[04:40:13] Culfrum: НЕТ
+[04:40:22] vasiliy karat: supply radio: point-of-dislocation
+[04:40:22] vasiliy karat: МЕДКИТЫ
+[04:40:25] Culfrum: МЫ ЖИЛИ В ДОЛИНЕ МУДРЫХ ДЕРЕВЬЕВ
+[04:40:27] vasiliy karat: ТОЧНЕЕ
+[04:40:28] vasiliy karat: МЕД РЕСЫ
+[04:40:32] vasiliy karat: ЗАПОЛНИМ
+[04:40:33] Culfrum: Я НАШЕЛ ЕЕ ТАМ
+[04:40:48] Culfrum: Я СЛЫШУ GIGLE В СВОЕЙ ГОЛОВЕ
+[04:40:49] Client "rafaeldisini0" connected.
+[04:40:49] вротберунчик: закажите броню и оружие
+[04:40:56] Culfrum: ОН ГРОМКИЙ
+[04:41:01] Culfrum: СИНИЙ МУЖЫК
+[04:41:10] Culfrum: А
+[04:41:22] Culfrum: ТЫ ОЧЕНЬ КРУТОЙ
+[04:41:31] Client "Redoket" connected.
+[04:41:35] Culfrum: ДАВАЙТЕ 2 ЭТАЖ ПОСТРОЮ
+[04:41:36] Culfrum: БОЛЬШОЙ
+[04:41:53] вротберунчик: я наверное перезайду
+[04:41:59] вротберунчик: чуть позже
+[04:42:00] Culfrum: ДАДИ?!
+[04:42:15] вротберунчик: оружие где???
+[04:42:18] Culfrum: РАКМАН
+[04:42:21] Culfrum: ЕСЛИ ТЫ ПРЕДАШ
+[04:42:23] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 52 seconds).
+[04:42:31] Culfrum: Я НЕ СЖИГАЛ ТЕБЯ ОГНЕМЕТОМ ВЧЕРА
+[04:42:36] Culfrum: И НЕ РАССТРЕЛИВАЛ В УПОР
+[04:42:40] Culfrum: НЕ БЫЛО
+[04:42:57] Redoket: нгіг
+[04:43:19] вротберунчик: вася
+[04:43:21] вротберунчик: я ща перезайду 
+[04:43:25] вротберунчик: а то не возможно
+[04:43:38] Dropped "вротберунчик" from server<STEAM_0:0:160992234>
+[04:43:38] вротберунчик suicided!
+[04:44:00] Culfrum: КРУТО
+[04:44:04] Client "вротберунчик" connected.
+[04:44:11] vasiliy karat: НОРМАЛЬ
+[04:44:19] SMOOKIE: wwwrerstrewwerwrwer!
+[04:44:23] Culfrum: УБЕРИ
+[04:44:39] Client "вротберунчик" spawned in server <STEAM_0:0:160992234> (took 35 seconds).
+[04:45:09] Redoket: !menu
+[04:45:10] SMOOKIE: seweserrtassqeerqwe!~
+[04:45:13] KIRKA: // Я подумаю
+[04:45:18] Redoket cloaked Themself by amount 0
+[04:45:26] Culfrum: без лагов
+[04:45:37] Culfrum: БЕЗ ЛАГОВ
+[04:45:40] Improvised_starting_fire_device: никого не понятно, сервер лагать жестка
+[04:45:56] вротберунчик: я поставил самые низкие настройки чтобы понять что это нечгео не дас�
+[04:46:12] Culfrum: ПАРОВОЗ
+[04:46:16] Culfrum: ЧУХ ЧУХ
+[04:46:26] Dropped "Балтика 9" from server<STEAM_0:0:592080962>
+[04:46:26] Балтика 9 suicided!
+[04:46:27] Culfrum: PAROTEKK
+[04:46:29] Culfrum: ЧТО
+[04:46:33] Culfrum: КУДА ИСЧЕЗ МУЖЫК
+[04:46:37] Culfrum: НЕТ
+[04:46:42] Culfrum: НЕ БЫЛО
+[04:46:50] Culfrum: ПОЛЯКОВ!!!
+[04:46:58] Culfrum: ОНИ ХОТЯТ МЕНЯ УБИТЬ
+[04:47:09] Culfrum: РАКМАН И МАНН
+[04:47:10] vasiliy karat: Я ТУТ
+[04:47:20] Culfrum: ХОТЯТ
+[04:47:26] Culfrum: Я ЩА
+[04:47:33] vasiliy karat: ПОЛЯКОВ
+[04:47:35] Culfrum: АФК
+[04:47:45] Redoket: кромешный ахтунг
+[04:47:46] vasiliy karat: ПОЛЯКОВ
+[04:47:49] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[04:47:50] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[04:47:54] вротберунчик: дай я построю ее
+[04:48:00] вротберунчик: я знаю
+[04:48:07] vasiliy karat: МНЕ НУЖНО ЧТОБЫ ТЫ МНЕ ПЕРЕДАЛ ЛИДЕРКУ НА МИНУТУ МНЕ ТАМ СДЕЛАТЬ КОЕ �
+[04:48:09] vasiliy karat: НАДО
+[04:48:23] vasiliy karat: ЭТО СЕКРЕТНО ТАМ БАГ КАРОЧЕ ДАЙ
+[04:48:38] Mannytko: ИНОПЛАНЕТЯНЕ... ПОВСЮДУ..
+[04:48:43] vasiliy karat: А ЧЕ МЫ ТУТ
+[04:48:46] vasiliy karat: ПОЕХАЛИ НА БАЗУ
+[04:48:55] Mannytko: БУДТЕ ОСТОРОЖНЫ...
+[04:49:19] вротберунчик: о жжай
+[04:49:21] вротберунчик: томпсон
+[04:49:26] вротберунчик: пасиба
+[04:49:32] vasiliy karat: СЕКУНДУ
+[04:49:47] Redoket: самые умные
+[04:50:08] JMSD16: !motd
+[04:50:29] вротберунчик: дайте мне гранату я взорву зарю
+[04:50:33] вротберунчик: Я?
+[04:50:39] Culfrum: РАКМАН
+[04:50:40] KIRKA: !squad]
+[04:50:40] вротберунчик: Да
+[04:50:43] Culfrum: ДА ТЫ ОФИГЕЛ
+[04:50:44] вротберунчик: его надо убить
+[04:50:58] Culfrum: ТЫ БАРАШКА
+[04:50:59] вротберунчик: дайте мне нож я убью его
+[04:51:05] вротберунчик: не тебя кулфрум
+[04:51:10] Redoket teleported to Culfrum
+[04:51:10] Redoket: !goto cu
+[04:51:10] Culfrum: Я ВСЕ СЛЫШАЛ
+[04:51:13] вротберунчик: да
+[04:51:17] Culfrum: Я ВСЕ СЛЫШАЛ
+[04:51:20] Culfrum: Я НЕ ЖУК!!!
+[04:51:31] вротберунчик: плахие жуки
+[04:51:31] Culfrum: АБАДОНЫ
+[04:51:32] Dropped "WD_NeoN" from server<STEAM_0:0:572760260>
+[04:51:32] WD_NeoN suicided!
+[04:51:43] Culfrum: ОНИ ОПЯТЬ
+[04:51:49] Culfrum: РАЗРАБАТЫВАЮТ ПЛАН
+[04:52:15] вротберунчик: палякова свергли туда
+[04:52:19] вротберунчик: я тоже
+[04:52:33] Culfrum: СВЕРГНИТЕ УЖЕ ПИРО
+[04:52:36] Culfrum: ОН ВАЩЕ
+[04:52:38] Culfrum: ДИКТАТОР
+[04:52:40] vasiliy karat: ВЫ ИЗБАВИЛИСЬ ОТ ПОЛЯКОВА?
+[04:52:43] вротберунчик: да
+[04:52:48] vasiliy karat: ГДЕ ОН
+[04:53:09] Culfrum: БРАТАН
+[04:53:11] вротберунчик: ПОЛЯКОВА СВЕРГЛИ
+[04:53:16] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[04:53:22] Culfrum: ИСПУГ
+[04:53:35] Culfrum: ЭТ МОЕ
+[04:54:15] vasiliy karat: ТАК Э
+[04:54:17] Culfrum: ДЕРЬМО
+[04:54:20] vasiliy karat: КТО ТО САДИТСЯ В МАШИНУ
+[04:54:23] вротберунчик: Я
+[04:54:26] vasiliy karat: И НАЧИНАЕТ СОБИРАТЬ ДЕНЬГИ
+[04:54:35] Culfrum: ЧТО
+[04:54:40] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezammo
+[04:54:41] Culfrum: ПОДРЫВ ВЫШКИ
+[04:54:50] Culfrum: КИРПИЧИ ИЗ ПЛАСТИДА
+[04:54:51] (TEAM) Filenoname: ребзя
+[04:54:54] (TEAM) Filenoname: я пошёл
+[04:54:55] вротберунчик: ПРЯМО ЕХЗАТЬ
+[04:54:57] (TEAM) Filenoname: мне идти надо
+[04:54:59] вротберунчик: ДАВАЙ Я ВРУБЛЮ
+[04:55:00] вротберунчик: ТРЕК
+[04:55:06] (TEAM) vers1: удачи
+[04:55:07] (TEAM) Filenoname: назначьте инжинера кого нибудь
+[04:55:09] (TEAM) Filenoname: удачи
+[04:55:10] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate
+[04:55:12] Culfrum: КАЗАРМА
+[04:55:16] Dropped "Filenoname" from server<STEAM_0:0:679233884>
+[04:55:16] Filenoname suicided!
+[04:55:17] Culfrum: Я ПРОСИЛ
+[04:55:21] Culfrum: ПЕРЕНЕСТИ ТУДА РЕСЫ
+[04:55:28] вротберунчик: ПЛАТИТЕ НАМ
+[04:55:30] Culfrum: НЕ ПЕРЕНЕСЛИ
+[04:55:31] вротберунчик: ИНАЧЕ ВОЙНА
+[04:55:32] Culfrum: ВЫ
+[04:55:33] vasiliy karat: РАКМАН
+[04:55:35] SMOOKIE: weewewtwtetwe!
+[04:55:35] vasiliy karat: ОРГАНИЗУЙ ОТРЯД
+[04:55:35] вротберунчик: И СНОС ВАС ПОД 0
+[04:55:41] vasiliy karat: МОЖЕШЬ
+[04:55:42] vasiliy karat: ПОГРАБИТЬ
+[04:55:44] vasiliy karat: КОГО ТО
+[04:55:47] vasiliy karat: РЕСУРСЫ ЗАБРАТ
+[04:55:48] вротберунчик: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:56:11] Culfrum: РАКМАН
+[04:56:13] вротберунчик: НА Ф3
+[04:56:13] Culfrum: Я ВСЕ ВИЖУ
+[04:56:15] вротберунчик: ПЕРЕДАТЬ
+[04:56:22] Culfrum: ХУЛИГАН
+[04:56:23] vasiliy karat: КУЛФРУМ
+[04:56:25] vasiliy karat: А ГДЕ 
+[04:56:27] vasiliy karat: НАШИ ДЕНЬГИ
+[04:56:30] vasiliy karat: КУЛФРУМ
+[04:56:32] Culfrum: ПРИХОДИ
+[04:56:37] Culfrum: ДАМ
+[04:56:44] Culfrum: ЩА
+[04:56:45] vasiliy karat: ЗНАЕШЬ
+[04:56:49] vasiliy karat: ТЫ НАМ ДОЛЖЕН БОЛЬШЕ
+[04:56:53] Mr_Pyro: supply radio: wood
+[04:56:53] Culfrum: ПОЧЕМУ
+[04:56:59] vasiliy karat: ЖИВЕШЬ ТУТ КАК У ХРИСТА ЗА ПАЗУХОЙ
+[04:57:06] vasiliy karat: ЕЩЕ 15 ДОБАВЬ
+[04:57:07] Culfrum: СКОЛЬКО ТЫ ХОЧЕШЬ
+[04:57:11] вротберунчик: ГДЕ АСАЦИАЦИЯ
+[04:57:13] вротберунчик: ИЛИ КАК ТАМ
+[04:57:14] vasiliy karat: ВО
+[04:57:18] Culfrum: ААА
+[04:57:20] Culfrum: Я СЛЫШУ
+[04:57:30] (TEAM) вротберунчик: НЕТ
+[04:57:34] вротберунчик: ЭХТА НАША
+[04:57:34] Culfrum: ЭТО МЕТААМФЕТАНИЛ
+[04:57:35] вротберунчик: БАЗА
+[04:57:38] вротберунчик: УЕХЖАЕМ
+[04:57:39] Culfrum: Я ПОМНЮ
+[04:57:57] Culfrum: АДМИН ДАЙ ПОИГРАТЬ
+[04:58:00] вротберунчик: ДАВАЙ
+[04:58:01] vasiliy karat: ДЖЕЙМС
+[04:58:02] vasiliy karat: СОЛДАТ
+[04:58:04] vasiliy karat: ПОЕХЛИ
+[04:58:04] вротберунчик: ТАСЧИМ
+[04:58:05] Mr_Pyro suicided!
+[04:58:13] vasiliy karat: ЗАБУДЬТЕ БУР
+[04:58:17] vasiliy karat: МЫ ВОИНЫ
+[04:58:19] вротберунчик: НАДА СБЕГАТЬ ЗА НИМ
+[04:58:19] vasiliy karat: НЕ ШАХТЕРЫ
+[04:58:21] vasiliy karat: МЫ УЖЕ БАГАТЫЕ
+[04:58:31] Culfrum: АААА
+[04:58:36] Culfrum: ВЫ АФИГЕЛИ
+[04:58:41] Culfrum: НЕ ЗНАЮ
+[04:58:50] Culfrum: ПРИВЕТ
+[04:58:55] Culfrum: ОНИ ХОТЯТ ПОДОРВАТЬ
+[04:58:56] Client "cobb1er" connected.
+[04:58:57] Culfrum: БАНШЮ
+[04:58:59] Culfrum: ЛЕСНИЦУ
+[04:59:07] Culfrum: КАКОГО
+[04:59:23] Culfrum: Я СЛЫШАЛ
+[04:59:38] Culfrum: КАКОГО
+[04:59:49] Culfrum: МОЖНО
+[04:59:52] Culfrum: НО ЭТИ
+[04:59:55] Culfrum: ХОТЯТ ВЗОРВАТЬ
+[05:00:10] Culfrum: ОНА МОЩНАЯ
+[05:00:15] Culfrum: ОНА ВЫДЕРЖИВАЕТ МНОГОЕ
+[05:00:22] Culfrum: Я ЕЕ НА ВЕКА СТРОИЛ
+[05:00:30] вротберунчик: ПИНГ БОЖЕЕ
+[05:00:32] Mr_Pyro: АХАХАХХАХАХАХАХАХАХАХАХАХАХ
+[05:00:36] Culfrum: НАШИ ПИПЫ
+[05:00:41] Mr_Pyro: АХАХАХА
+[05:00:46] Culfrum: ПИПЫ НАШИ
+[05:00:46] вротберунчик: ТОЖЕ
+[05:00:49] вротберунчик: ПИНГ
+[05:00:52] вротберунчик: БЫЛЫ
+[05:00:53] Culfrum: ДА ПОЛУЧИ СВОЮ ПУШКУ
+[05:00:54] Culfrum: УЖЕ
+[05:00:57] Culfrum: ИД СЮДА
+[05:01:11] vasiliy karat: Э
+[05:01:15] vasiliy karat: МОЛОДЦЫ
+[05:01:18] Dropped "P0lyakov" from server<STEAM_0:0:60570605>
+[05:01:18] P0lyakov suicided!
+[05:01:20] vasiliy karat: МНЕ НИКОГДА НЕ НРАВИЛАСЬ
+[05:01:24] vasiliy karat: ЭТО БАШНЯ
+[05:01:25] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[05:01:26] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[05:01:26] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[05:01:27] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[05:01:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[05:01:33] vasiliy karat: ВЫ БУДЕТЕ МОЕЙ ЗАЩИТОЙ
+[05:01:35] Mr. Goose V0RCH00N suicided!
+[05:01:39] Culfrum: А ГДЕ
+[05:01:51] Client "P0lyakov" connected.
+[05:01:56] Mannytko killed vasiliy karat using tfa_doithompsonm1a1
+[05:01:58] вротберунчик killed Mannytko using tfa_doithompsonm1a1
+[05:02:02] вротберунчик killed Culfrum using tfa_doithompsonm1a1
+[05:02:05] Culfrum: АПААА
+[05:02:06] вротберунчик: УБИИЫ
+[05:02:12] вротберунчик: МЫ ВОЗРАЖИМ
+[05:02:16] вротберунчик: У НАС МЕДЕЦИНА ХОРОШАЯ
+[05:02:30] vasiliy karat: ПОЛЯКОВА
+[05:02:31] vasiliy karat: Я УБИЛ
+[05:02:34] вротберунчик killed Mannytko using tfa_doithompsonm1a1
+[05:02:36] vasiliy karat: ЕГО НЕ 
+[05:02:37] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 46 seconds).
+[05:02:39] вротберунчик: Я СПАС ВАС
+[05:02:42] вротберунчик: ВАСИЛИЙ
+[05:02:45] вротберунчик: СЮДА
+[05:02:46] Culfrum killed KIRKA using rust_m39emr
+[05:02:51] вротберунчик: УШЕЛ
+[05:02:51] vasiliy karat killed Mannytko using tfa_doimp40
+[05:03:02] SoldierEL1TE killed Culfrum using tfa_doik98
+[05:03:05] вротберунчик killed Mannytko using tfa_doithompsonm1a1
+[05:03:07] Client "[NG]Nasta_gg1" connected.
+[05:03:16] вротберунчик: СТОЛЙ
+[05:03:18] вротберунчик: СТОЙ
+[05:03:19] вротберунчик killed Mannytko using tfa_doithompsonm1a1
+[05:03:36] vasiliy karat: НАЙТИ
+[05:03:37] вротберунчик killed Culfrum using tfa_doithompsonm1a1
+[05:03:41] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[05:03:43] вротберунчик killed Mannytko using tfa_doithompsonm1a1
+[05:03:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdetpack
+[05:03:45] vasiliy karat: УНИЧТОЖИТЬ
+[05:03:47] Redoket killed Redoket
+[05:03:59] vasiliy karat: ЩАС
+[05:04:13] Mannytko: *drop
+[05:04:17] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[05:04:17] Dropped "Mannytko" from server<STEAM_0:0:151021368>
+[05:04:18] Mannytko suicided!
+[05:04:18] Client "Mannytko" connected.
+[05:04:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdetpack
+[05:04:22] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[05:04:22] Rackman suicided!
+[05:04:25] Client "Rackman" connected.
+[05:04:33] вротберунчик: ГДЕ МЕД КИТ
+[05:04:34] vasiliy karat: ОНИ СОЗДАДУТ СВОЮ ФРАКЦИЮ
+[05:04:40] vasiliy karat: МЫ ИМ ОБЪЯВИМ СРАЗУ ВОЙНУ
+[05:04:40] Client "Mannytko" spawned in server <STEAM_0:0:151021368> (took 22 seconds).
+[05:04:43] вротберунчик: МЫ ИХ УНИЧТОЖИМ
+[05:04:53] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 28 seconds).
+[05:04:56] vasiliy karat: ОНИ 
+[05:05:02] vasiliy karat: СКОРО СОБЕРУТСЯ В СВОЮ ФРАКЦИЮ
+[05:05:10] vasiliy karat: МЫ УНИЧТОЖИМ ИХ НА МОМЕНТЕ ЗАРОЖДЕНИИ
+[05:05:16] вротберунчик: АНТИ ПОЛЯКОВ
+[05:05:39] vasiliy karat: ЛАДНО
+[05:05:52] vasiliy karat: ЭТО ПОТОМ НАМ НУЖНО РАСПРАВИТСЯ С ПРЕДАТЕЛЯМИ
+[05:05:53] Culfrum: ЧТО ПРОИСХОДИТ
+[05:05:56] вротберунчик: НАМ НУЖНО СОЗДАТЬ ЯДЕРКУ ДЛЯ ИХ УНИЧТОЖЕНИЯ
+[05:05:56] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_backpack
+[05:05:58] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_pouch
+[05:05:59] vasiliy karat: ПО ПРИОРИТЕТУ
+[05:06:02] Culfrum: ЧТО ПРОИЗОШЛО
+[05:06:16] Culfrum: ЧТО ПРОИСХОДИТ
+[05:06:19] вротберунчик: ОТМЕНЯЙ АЛЬЯНС С АСАЦИАЦИЕЙ ОНИ ПРОТИВ НАС
+[05:06:25] Culfrum: Я НЕ ЗНАЮ
+[05:06:31] Culfrum: ОНИ НАС ЗАГИПНОТИЗИРОВАЛИ
+[05:06:59] Client "бугагашенька" connected.
+[05:07:40] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 41 seconds).
+[05:07:45] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[05:07:46] SMOOKIE to admins: !@@21##22444%%#&^&*(()&*9?????@!@@21##22444%%#&^&*(()&*9?????
+[05:07:59] SMOOKIE: !@@21##22444%%#&^&*(()&*9?????
+[05:08:00] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_citroen_type23
+[05:08:10] вротберунчик: НАДА ИХ В ПЛЕН
+[05:08:12] vasiliy karat: БЕРИТЕ ОРУЖИЕ
+[05:08:17] vasiliy karat: САДИТЕСЬ В ГРУЗОВИК
+[05:08:17] вротберунчик: МЫ ДОЛЖНЫ ИХ НАЙТИ И В ПЛЕН
+[05:08:35] (TEAM) бугагашенька: алоу
+[05:08:38] vasiliy karat: ЭЙ
+[05:08:41] vasiliy karat: САДИТЕСЬ В ГРУЗОВИК ТАМ
+[05:08:42] (TEAM) бугагашенька: жду вас на спавне пупсики
+[05:08:44] vasiliy karat: ЩАС ПОЕДЕМ
+[05:08:44] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_eztoolbox
+[05:08:45] vasiliy karat: КАРАТЬ
+[05:08:48] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[05:09:05] Rackman set the hp for Themself to 200
+[05:09:05] Rackman: !hp Rackman 200
+[05:09:13] бугагашенька: !modt
+[05:09:21] бугагашенька: !motd
+[05:09:24] vasiliy karat: УНИЧТОЖИМ
+[05:09:25] вротберунчик: СТОЙТЕ
+[05:09:27] вротберунчик: ВАСЯ
+[05:09:38] vasiliy karat: ЩАС
+[05:09:41] vasiliy karat: ТАМ СТОЛИЦА
+[05:09:41] P0lyakov<STEAM_0:0:60570605> spawned sent ent_rus_spawnbase
+[05:09:43] vasiliy karat: ОСТАНОВИТЕСЬ
+[05:09:46] vasiliy karat: КТО ТО СЯДЕТ В НЕЕ
+[05:09:49] vasiliy karat: ПОВЕДЕТ
+[05:09:50] вротберунчик: ВАСЯ ДАЙ НАШ ЗАЛЕЗЕТ
+[05:09:54] Client "РАДМИН ВПН" connected.
+[05:10:06] vasiliy karat: ВОН МАШИНА СТОЙ ВОЗЛЕ НЕЕ
+[05:10:08] вротберунчик: КИРКА ДАЙ Я ВРУБЛЮ
+[05:10:26] вротберунчик: ЗА ВАСИЛИЕМ
+[05:10:28] vasiliy karat: НУЖНО НАЙТИ ИХ
+[05:10:35] vasiliy karat: 2 МАШИНЫ ПОЕДЕМ
+[05:11:14] вротберунчик: вы кито
+[05:11:15] vasiliy karat: СТОЯТЬ
+[05:11:18] вротберунчик: ТИХО
+[05:11:21] вротберунчик: ЗАРЯ
+[05:11:29] vasiliy karat: ЗАРЯ
+[05:11:34] Improvised_starting_fire_device killed DeNoZaVR⁴² using tfa_doithompsonm1a1
+[05:11:36] Mr. Goose V0RCH00N killed Improvised_starting_fire_device using tfa_doithompsonm1a1
+[05:11:36] SMOOKIE killed Mr. Goose V0RCH00N using tfa_doithompsonm1a1
+[05:11:36] vasiliy karat: ВЫ ЛОВИТЕ
+[05:11:43] vasiliy karat: НАШИХ ПРЕДАТЕЛЕЙ?
+[05:11:49] Culfrum: ОПАСНО
+[05:11:59] vasiliy karat: ОНИ МОГУТ СНЯТЬ ВАМ ХП ФРАКЦИИ ЕСЛИ ЗАЛУТАЮТ ВАШ ТРУП
+[05:12:00] vasiliy karat: Я ВАМ 
+[05:12:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdetpack
+[05:12:07] vasiliy karat: ПРЕДЛАГАЮ
+[05:12:09] вротберунчик: КТО ЭТО
+[05:12:11] vasiliy karat: ТОЖЕ ИХ ИСКАТЬ
+[05:12:26] DeNoZaVR⁴²: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:12:28] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:12:29] Redoket<STEAM_0:1:545449619> spawned ragdoll models/humans/group02/female_01.mdl
+[05:12:30] JMSD16: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:12:34] Culfrum: перезайди
+[05:12:34] SoldierEL1TE: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:12:46] WolfSystem777: /health
+[05:12:56] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_nazihead
+[05:12:57] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:13:02] vasiliy karat: ТАК ДАВАЙТЕ ДО НИХ
+[05:13:04] Rackman<STEAM_0:0:221849271> spawned model models/common/props_foliage/shrubs/bigbush1a.mdl
+[05:13:04] вротберунчик: ОНИ МОГУТ ЩАС У НАС НА БАЗЕ ВОРОВАТЬ РЕСУРСЫ ПУСТЬ
+[05:13:04] vasiliy karat: ДОЕДЕМ
+[05:13:06] Rackman<STEAM_0:0:221849271> spawned model models/common/props_foliage/shrubs/bigbush1a.mdl
+[05:13:06] vasiliy karat: ПОГОВОРИМ
+[05:13:08] Rackman<STEAM_0:0:221849271> spawned model models/common/props_foliage/shrubs/bigbush1a.mdl
+[05:13:09] вротберунчик: ПУСТЬ КТО ТО ПОЙДЕТ ДОМОЙ
+[05:13:10] Rackman<STEAM_0:0:221849271> spawned model models/common/props_foliage/shrubs/bigbush1a.mdl
+[05:13:10] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[05:13:22] Rackman<STEAM_0:0:221849271> spawned model models/common/props_foliage/trees/orexcluster2a_static.mdl
+[05:13:23] Culfrum: РЕД
+[05:13:24] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_mtorso
+[05:13:24] Culfrum: ЧТО
+[05:13:25] Redoket: деам
+[05:13:26] Rackman<STEAM_0:0:221849271> spawned model models/common/props_foliage/shrubs/bigbush1a.mdl
+[05:13:28] Rackman<STEAM_0:0:221849271> spawned model models/common/props_foliage/shrubs/bigbush1a.mdl
+[05:13:29] Rackman<STEAM_0:0:221849271> spawned model models/common/props_foliage/shrubs/bigbush1a.mdl
+[05:13:31] Redoket: можно к вам?
+[05:13:31] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:13:32] Culfrum: ЭТО ЗАЩИТА ПОЛЯКОВА
+[05:13:34] Culfrum: МОЖНО
+[05:13:38] Redoket: я инопланетянин просто
+[05:13:41] Culfrum: ОГО
+[05:13:44] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_slcalf
+[05:13:45] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_srcalf
+[05:13:48] Redoket: изза этого меня не видно
+[05:13:53] Culfrum: АДВАЙ
+[05:13:53] vasiliy karat: КСТАТИ
+[05:13:58] Redoket: я научился человеческому
+[05:14:08] Culfrum: ЛЮДСКОЕ
+[05:14:10] vasiliy karat: ПОЕХАЛИ
+[05:14:11] vasiliy karat: К ЗАРЕ
+[05:14:18] Redoket: и теперь могу с вами разговаривать путём телепатии\
+[05:14:27] Culfrum: УСЛЫШАЛ ТЕБЯ РОДНОЙ
+[05:14:36] P0lyakov: !menu
+[05:14:46] P0lyakov set the hp for Themself to 200
+[05:14:47] Mannytko: *drop
+[05:14:53] Culfrum: ЗАХАДИ
+[05:14:56] Redoket: щас, отключу модуль невидимости
+[05:15:06] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:15:06] vasiliy karat: ЗДРАСТЕ
+[05:15:07] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:15:09] Culfrum: Я ЩАЯ
+[05:15:09] Redoket: !menu
+[05:15:11] Culfrum: ЩАС
+[05:15:12] Redoket uncloaked Themself
+[05:15:17] vasiliy karat: КТО ЛИДЕР
+[05:15:18] Redoket: вот
+[05:15:19] vasiliy karat: МОЖНО ЛИДЕР
+[05:15:30] Redoket: меня видно?
+[05:15:38] вротберунчик: стойте
+[05:15:39] Redoket: !menu
+[05:15:39] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_thermals
+[05:15:41] Redoket uncloaked Themself
+[05:15:41] Redoket uncloaked Themself
+[05:15:42] вротберунчик: давайте я с вами
+[05:15:49] Redoket: plhfdcndeqnt
+[05:15:50] vasiliy karat: ИЗВЕСТНО СТАЛО ЧТО ВЫ 
+[05:15:52] Redoket: ой
+[05:15:57] вротберунчик: ок
+[05:15:57] Redoket: здравствуйте
+[05:15:58] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_mhead
+[05:15:59] Mr_Pyro: ку
+[05:16:00] vasiliy karat: ВЛАДЕЕТЕ УРАНОВЫМИ ТЕХОНОЛОГИЯМИ
+[05:16:01] Redoket: зап зап
+[05:16:06] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_mtorso
+[05:16:12] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_mtorso
+[05:16:13] SMOOKIE: !@@21##22444%%#&^&*(()&*9?????
+[05:16:19] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_pouch
+[05:16:20] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_backpack
+[05:16:31] Redoket: щас я посмотрю
+[05:16:33] vasiliy karat: ТАКЗНАЧИТ УРАНА У НИХ НЕТ
+[05:16:38] Redoket: !menu
+[05:16:40] Redoket uncloaked Themself
+[05:16:44] Redoket: !menu
+[05:16:45] Redoket cloaked Themself by amount 0
+[05:16:46] Redoket cloaked Themself by amount 0
+[05:17:13] Dropped "вротберунчик" from server<STEAM_0:0:160992234>
+[05:17:13] вротберунчик suicided!
+[05:17:13] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_sleepingbag
+[05:17:24] vasiliy karat: НУЖНО НАЙТИ ПРЕДАТЕЛЕЙ
+[05:17:31] WolfSystem777: Вы кто
+[05:17:46] WolfSystem777: Вы кто
+[05:17:47] vasiliy karat: НУ НАЙДЕМ ОТНИМЕМ ВОТ 
+[05:17:49] Redoket teleported to Rackman
+[05:17:49] Redoket: !goto rack
+[05:18:03] Client "KAZAX" connected.
+[05:18:05] vasiliy karat: НУ
+[05:18:06] WolfSystem777: Я слышал что башни кто то уронил
+[05:18:12] WolfSystem777: Что у вас случилось?
+[05:18:13] Redoket: здравствуйте человеки
+[05:18:14] vasiliy karat: НАВЕРНОЕ В РАБОТЕ МОЛОДЦЫ РЕБЯТА ИЩУТ ПРЕДАТЕЛЕЙ
+[05:18:15] Culfrum: А
+[05:18:17] Culfrum: А
+[05:18:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[05:18:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[05:18:25] WolfSystem777: Нет
+[05:18:26] Redoket: кто он такой
+[05:18:27] Culfrum to admins: РЕД
+[05:18:28] Mannytko set the hp for Themself to 200
+[05:18:36] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_eztoolbox
+[05:18:37] vasiliy karat: ДАВАЙ ЗА РУЛ
+[05:18:39] Redoket: я пришел с другой планеты
+[05:18:39] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezmedkit
+[05:18:42] Redoket: я не редокет
+[05:18:44] Mannytko: *drop
+[05:18:53] WolfSystem777: Ясненько
+[05:18:59] Redoket: я сморел за вашими действиями
+[05:19:03] WolfSystem777: стойте
+[05:19:07] Redoket: вы на правильной стороне
+[05:19:13] WolfSystem777: Сможете меня подвезти ?
+[05:19:17] WolfSystem777: Если не сложно
+[05:19:18] Redoket: я готов вам помочь
+[05:19:29] vasiliy karat: НАШЛИ ПРЕДАТЕЛЕЙ?
+[05:19:37] Client "KAZAX" spawned in server <STEAM_0:0:453830019> (took 94 seconds).
+[05:19:38] бугагашенька: pfkfufkj ,kznm
+[05:19:44] бугагашенька: лаги
+[05:19:53] WolfSystem777: Стой
+[05:19:58] Improvised_starting_fire_device: давайте начнем
+[05:20:05] SMOOKIE: !@@21##22444%%#&^&*(()&*9?????
+[05:20:08] WolfSystem777: Сможете меня подвезти, тут не далеко
+[05:20:10] WolfSystem777: Нет
+[05:20:18] бугагашенька: у вас тоже лагает?
+[05:20:21] WolfSystem777: Я даже не знаю как они выглядят
+[05:20:32] vasiliy karat: ЗЕЛЕНЫЙ ТАКОЙ
+[05:20:35] vasiliy karat: МАСК ХАЛАТ
+[05:20:39] Dropped "KAZAX" from server<STEAM_0:0:453830019>
+[05:20:39] KAZAX suicided!
+[05:20:39] Redoket: они
+[05:20:46] vasiliy karat: ЗАРЯ
+[05:20:46] Redoket: они идут
+[05:20:55] WolfSystem777: Ничего не знать
+[05:21:02] WolfSystem777: Маск халат на спавне видел
+[05:21:15] WolfSystem777: Вы меня подвезете?
+[05:21:22] vasiliy karat: НА НЕ ПО ПУТИ
+[05:21:29] Redoket: вы можете естроить теракт\
+[05:21:30] Redoket: да
+[05:22:03] Redoket: нам нужно ретироватся
+[05:22:11] Redoket uncloaked Themself
+[05:22:11] Redoket: !uncloak redok
+[05:22:23] Redoket: человекам  не над
+[05:22:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpickaxe
+[05:22:35] Mr. Goose V0RCH00N: Пизда
+[05:22:36] Redoket: хорошо
+[05:22:38] Mr. Goose V0RCH00N: кто это скинул
+[05:22:40] бугагашенька: НАХУЯ
+[05:22:42] бугагашенька: ДОЛБОЕБ
+[05:22:42] DeNoZaVR⁴²: БЛЯЯЯЯЯЯЯЯ
+[05:22:47] бугагашенька: СТОЛЬКО СТАЛИ
+[05:22:48] Mannytko to admins: vasya ruslan poprosil 4tobi ti dal mne superadmin
+[05:22:52] Mannytko to admins: muzicu vrubat
+[05:22:56] Mr. Goose V0RCH00N: Можно удалить ее
+[05:22:59] Mr. Goose V0RCH00N: кто ее кинул
+[05:23:19] vasiliy karat: ОГОНЬ
+[05:23:22] Redoket: они
+[05:23:29] Mannytko killed KIRKA using tfa_doig43
+[05:23:40] Redoket: нам нуджно бежать!
+[05:24:10] vasiliy karat: БУНКЕР
+[05:24:13] vasiliy karat: ОНИ В БУНКЕРЕ
+[05:24:17] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_thermals
+[05:24:40] vasiliy karat: Я ЕГО НЕ ТРОГАЛ УПАЛ НЕВЕРНОЕ
+[05:24:48] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:24:58] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:25:11] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:25:13] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:25:15] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:25:17] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:25:21] vasiliy karat: ТЯЖЕЛАЯ КАВАЛЕРИЯ
+[05:25:21] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:25:22] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:25:22] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:25:24] vasiliy karat: РАЗДАВИМ ОЛУХОВ
+[05:25:26] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:25:34] Culfrum: LF
+[05:25:44] Culfrum: ППЦ
+[05:25:58] Culfrum: ПЗДЦ
+[05:26:03] vasiliy karat: ЗАЧЕМ
+[05:26:04] Culfrum: ПЫТАЮТСЯ УБИТЬ ПОЛЯКОВА
+[05:26:10] vasiliy karat: У НАС ЕСТЬ ДЕНЬГИ ЗАКАЗЫВАЙТЕ
+[05:26:20] vasiliy karat: НА ЧТО НА ПАТРОНЫ
+[05:26:23] Culfrum: Я ПОЕХАЛ
+[05:26:35] Culfrum: НАПИШИ ТИПО ЧТО ИЗ ЗА ТОГО ЧТО ЗАРЯ ЗАЩИЩАЕТ ВАСЮ
+[05:26:40] Culfrum: МЫ БУДЕМ С НИМИ ВОЕВАТЬ
+[05:26:53] Culfrum: ГЛОБАЛ
+[05:27:12] vasiliy karat: МЫ ВАС НАШЛИ
+[05:29:02] vasiliy karat killed JMSD16 using lvs_renaultft_m
+[05:29:18] vasiliy karat: ДЖЕЙМС ДАДИ В АРЕСТОВАН
+[05:29:21] vasiliy karat: СТОЯТЬ НА МЕСТЕ
+[05:29:36] vasiliy karat: ОН ПРЕДАТЕЛЬ
+[05:29:38] vasiliy karat: ЕЩЕ ОДИН
+[05:29:40] KIRKA killed JMSD16 using tfa_doimp40
+[05:30:07] vasiliy karat killed JMSD16 using wep_jack_gmod_ezpickaxe
+[05:30:44] Mr. Goose V0RCH00N was killed by build_prop
+[05:31:09] SMOOKIE killed Mr. Goose V0RCH00N using tfa_doithompsonm1a1
+[05:31:11] vasiliy karat: ДА
+[05:31:19] Culfrum: черти
+[05:31:31] SMOOKIE: !@@21##22444%%#&^&*(()&*9?????
+[05:31:32] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:32:08] Culfrum killed Mr. Goose V0RCH00N using lvs_wheeldrive_dodsherman
+[05:32:32] Mannytko: *drop
+[05:32:34] KIRKA killed Rackman using tfa_doimp40
+[05:32:39] vers1 killed бугагашенька using tfa_verdun_tankgewehr
+[05:32:42] Improvised_starting_fire_device was killed by build_prop
+[05:33:06] Mr. Goose V0RCH00N was killed by lvs_wheeldrive_dodsherman
+[05:33:09] vasiliy karat: Я НЕ ПОНИМАЮ КТО ТАМ
+[05:33:16] JMSD16: supply radio: tnt
+[05:33:20] Culfrum killed SMOOKIE using lvs_wheeldrive_dodsherman
+[05:33:25] бугагашенька was killed by lvs_wheeldrive_dodsherman
+[05:33:25] WolfSystem777 was killed by build_prop
+[05:33:28] Culfrum killed vers1 using lvs_wheeldrive_dodsherman
+[05:33:32] vasiliy karat: ВСЕХ УБЬЕМ ОНИ
+[05:33:33] Culfrum killed Mr. Goose V0RCH00N using lvs_wheeldrive_dodsherman
+[05:33:34] Mannytko was killed by build_prop
+[05:33:37] vasiliy karat: ИХ К СЕБЕ ПОЖИТЬ ВЗЯЛИ
+[05:33:44] Mannytko to admins: меня пропом убило нхауй на котроом я стоял
+[05:33:50] vasiliy karat: ХОТЯ ТСОЙ
+[05:33:50] Mannytko to admins: на зафриженом
+[05:34:02] SoldierEL1TE: supply radio: fulton-crate
+[05:34:06] KIRKA killed Rackman using tfa_doimp40
+[05:34:21] vasiliy karat: ЧЕРТ ВОЗЬМИ ОН МЕНЯ ПЕРЕЕХАЛ
+[05:34:23] SoldierEL1TE: supply radio: global message
+[05:34:26] Culfrum: МЕСТЬ
+[05:34:29] vasiliy karat: ДАЙ МНЕ СНАРЯДЫ
+[05:34:33] Culfrum: АААА ГОЛОВААА
+[05:34:50] vasiliy karat: ВЫ ПРЕДАТЕЛИ А ПРЕДАТЕЛЕ ТАМ КАРОЧЕ
+[05:34:53] vasiliy karat: ЩИТ
+[05:34:55] Client "Bean596" connected.
+[05:34:56] KIRKA killed Mr. Goose V0RCH00N using tfa_doik98_scop
+[05:34:58] vasiliy karat: МОИ ТРАКИ
+[05:35:28] vasiliy karat: ДАЙ МЕЛКОМУ ТАНКУ
+[05:35:29] vasiliy karat: ПАТРОНЫ
+[05:35:32] vasiliy karat: Я УНИЧТОЖУ ЕГО
+[05:35:37] Mannytko killed vasiliy karat using tfa_doig43
+[05:35:49] KIRKA killed SMOOKIE using tfa_doimp40
+[05:35:49] SMOOKIE killed KIRKA using player
+[05:35:52] JMSD16 killed vasiliy karat using tfa_doim1919
+[05:36:02] SoldierEL1TE killed KIRKA using tfa_doik98
+[05:36:06] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[05:36:06] Mr_Pyro suicided!
+[05:36:24] vasiliy karat: ДУМАЮ ЭТО КОНЕЦ
+[05:36:49] Mannytko killed KIRKA using tfa_doig43
+[05:36:58] vasiliy karat: Я ХОЧУ СДАТЬСЯ В ПЛЕН 
+[05:37:17] Rackman killed vasiliy karat using tfa_doik98_scop
+[05:37:39] Client "dobryjl786" connected.
+[05:38:09] Culfrum: Я ОЧНУЛСЯ
+[05:38:13] Culfrum: РЕБЯТ
+[05:38:20] Culfrum: что у вас
+[05:38:23] Rackman<STEAM_0:0:221849271> spawned effect models/common/props_foliage/shrubs/bigbush2a.mdl
+[05:38:24] Culfrum: ЭТО ВАМ
+[05:38:26] Culfrum: ЗА ПОЛЯКОВА
+[05:38:40] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate2x2.mdl
+[05:38:45] Culfrum: ЕДЬТЕ КО МНЕ
+[05:38:49] Culfrum:  УМЕНЯ ЕСТЬ ВЕЩИ
+[05:39:13] Culfrum: ЭТО ПОБЕДА
+[05:39:16] Culfrum: КО МНЕ
+[05:39:47] Culfrum: ВОТ ЧТО СЛУЧАЕТСЯ
+[05:39:51] Culfrum: С ГЛУПЦАМИ
+[05:40:02] KIRKA killed vers1 using tfa_doithompsonm1a1
+[05:40:04] бугагашенька killed KIRKA using tfa_at_akm_eft
+[05:40:04] Mr. Goose V0RCH00N killed DeNoZaVR⁴² using tfa_doig43
+[05:40:15] Culfrum: ПОТОМ СОЖЖЕМ ВСЕ
+[05:40:27] Culfrum: ПОШЛИТЕ Я ПОСТРОЮ ВАМ НОВЫЙ
+[05:41:11] Culfrum: ДАЙТЕ РАДЕЙКУ
+[05:41:14] Culfrum: У МЕНЯ РЕСЫ ЕСТЬ
+[05:41:18] Culfrum: ДЛЯ ГОРОДА
+[05:41:28] Culfrum: ТАК КАК У НАС ПОСЕЛЕНИЕ ИЗ 1 ЧЕЛОВЕКА
+[05:41:33] Culfrum: У НАС НИЧЕГО НЕ ИСТАЩАЛОСЬЭ
+[05:41:40] Rackman killed KIRKA using tfa_doik98_scop
+[05:41:44] Culfrum: У МЕНЯ ДЕНЕК
+[05:41:48] Culfrum: НА 2 ТАНКА
+[05:41:50] Culfrum: СРЕДНИХ
+[05:41:55] Mannytko: *drop
+[05:42:04] Culfrum: ГОРОД ХОТЯТ
+[05:42:09] Culfrum: ЗНАЧИТ ГОРОД
+[05:42:14] Client "Bean596" spawned in server <STEAM_0:1:61812137> (took 439 seconds).
+[05:42:25] Culfrum: Я НЕ ДОСТРОИЛ НЕГРОТЕК СВОЙ
+[05:42:28] Culfrum: ЛИФТ
+[05:42:36] Culfrum: НО ОН ОЧ ПОЛЕЗНЫЙ
+[05:42:43] (TEAM) KIRKA: Предатели из нашей фракции которые развалили ее стали настоящими ди�
+[05:42:48] Culfrum: ПОДНЯЛ МАШИНУ ОТРЕМОНТИРОВАЛ ОТПУСТИЛ
+[05:42:49] Bean596: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:42:57] (TEAM) KIRKA: Они всех убивают
+[05:43:03] Culfrum: БАШНЯ ПОДЫМАЛКА
+[05:43:10] Dropped "Bean596" from server<STEAM_0:1:61812137>
+[05:43:10] Bean596 suicided!
+[05:43:36] Culfrum: ВОТ МОЙ НЕГРОТЕК
+[05:43:36] Client "dobryjl786" spawned in server <STEAM_0:0:544674568> (took 357 seconds).
+[05:43:39] Culfrum: ЛЕЮЕДНКА
+[05:43:44] Culfrum: ЛЕБЕДКА
+[05:43:53] Culfrum: НЕ ДОДЕЛАННЫЙ
+[05:43:56] Culfrum: ЕС ЧО
+[05:44:09] Culfrum: КОНТЕЙНЕР
+[05:44:11] Culfrum: КЕРАМИКА
+[05:44:21] Culfrum: У МЕНЯ
+[05:44:24] Culfrum: 224 К
+[05:44:28] Culfrum: РУБЛЕЙ
+[05:44:47] Culfrum: ФУНДАМЕНТ ВЫЖИЛ
+[05:45:00] Culfrum: ПОТОМУ ЧТО НАВЕКА
+[05:45:06] Culfrum: НЕ ЗНАЮ
+[05:45:28] Culfrum: ЗАХОДИТЕ В МОЮ ФРАКЦИЮ Я ОТДАМ ВЛАДЕНИЯ
+[05:45:31] Culfrum: Я УХОЖУ
+[05:45:40] Culfrum: 224К ЖБАКС
+[05:45:50] Culfrum: захдите
+[05:45:52] Rackman: !psay Редокет
+[05:45:54] Rackman: !menu
+[05:45:58] Culfrum: а
+[05:46:01] Rackman to admins: Редокет
+[05:46:04] Rackman to admins: Тп ко мне
+[05:46:06] dobryjl786: playermodel_selector
+[05:46:16] Improvised_starting_fire_device killed vers1 using wep_jack_gmod_ezshovel
+[05:46:17] Culfrum: ПОКА ВСЕМ
+[05:46:20] Culfrum: Я ЕЩЕ ВЕРНУСЬ
+[05:46:21] Rackman set the hp for Themself to 500
+[05:46:21] Rackman: !hp Rackman 500
+[05:46:23] Dropped "Culfrum" from server<STEAM_0:0:555258766>
+[05:46:23] Culfrum suicided!
+[05:46:35] Mannytko<STEAM_0:0:151021368> spawned sent lvs_helicopter_hl2_rebel_transport
+[05:46:37] Mannytko<STEAM_0:0:151021368> spawned sent lvs_helicopter_hl2_rebel_transport
+[05:46:43] Rackman: !asay редокет тп ко мне помоги
+[05:46:44] Mannytko<STEAM_0:0:151021368> spawned sent lvs_helicopter_hl2_rebel_transport
+[05:46:48] Rackman: !menu
+[05:46:54] Mannytko<STEAM_0:0:151021368> spawned sent lvs_helicopter_hl2_rebel_transport
+[05:46:54] vers1 killed vasiliy karat using wep_jack_gmod_hands
+[05:46:57] Client "Dim1xs" connected.
+[05:47:06] Rackman set the hp for Themself to 100
+[05:47:06] Rackman: !hp Rackman 100
+[05:47:12] Rackman teleported to P0lyakov
+[05:47:12] Rackman: !goto P0lyakov
+[05:47:21] DeNoZaVR⁴²: jnjqlb
+[05:47:44] Dropped "Mannytko" from server<STEAM_0:0:151021368>
+[05:47:44] Mannytko suicided!
+[05:47:53] dobryjl786: !CONTENT
+[05:47:59] dobryjl786: !content
+[05:48:02] dobryjl786: !hxelp
+[05:48:02] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[05:48:02] KIRKA suicided!
+[05:48:03] Client "maksumkolesnukov022" connected.
+[05:48:06] dobryjl786: !help
+[05:48:13] dobryjl786: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:48:17] DeNoZaVR⁴²: памагните
+[05:48:22] vers1: playermodel_selector
+[05:48:32] SoldierEL1TE: !motd
+[05:48:33] dobryjl786: g
+[05:48:34] Dropped "SMOOKIE" from server<STEAM_0:1:565872977>
+[05:48:34] SMOOKIE suicided!
+[05:48:40] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 37 seconds).
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x8x05.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube4x4x4.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/misc/sphere375x375.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/props_wasteland/wheel02a.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x8x05.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x8x05.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x8x05.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x8x05.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x8x05.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x8x05.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x8x05.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube4x6x2.mdl
+[05:49:28] Rackman<STEAM_0:0:221849271> spawned model models/hunter/misc/sphere375x375.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/mechanics/solid_steel/type_a_2_2.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/mechanics/solid_steel/type_a_2_4.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[05:49:57] Mr. Goose V0RCH00N killed Improvised_starting_fire_device using player
+[05:50:05] WolfSystem777 killed dobryjl786 using tfa_verdun_tankgewehr
+[05:50:10] Dropped "dobryjl786" from server<STEAM_0:0:544674568>
+[05:50:10] dobryjl786 suicided!
+[05:50:12] Client "dobryjl786" connected.
+[05:50:35] Client "dobryjl786" spawned in server <STEAM_0:0:544674568> (took 23 seconds).
+[05:50:50] Rackman teleported to maksumkolesnukov022
+[05:50:50] Rackman: !goto maksumkolesnukov022
+[05:51:10] WolfSystem777: БУ
+[05:51:20] WolfSystem777 killed Rackman using tfa_verdun_tankgewehr
+[05:51:29] Rackman: !menu
+[05:51:41] Dropped "dobryjl786" from server<STEAM_0:0:544674568>
+[05:51:41] dobryjl786 suicided!
+[05:51:43] Client "dobryjl786" connected.
+[05:51:45] Rackman shocked WolfSystem777 with 2 damage
+[05:51:45] Rackman shocked WolfSystem777 with 2 damage
+[05:51:46] Rackman shocked WolfSystem777 with 2 damage
+[05:51:46] Rackman shocked WolfSystem777 with 2 damage
+[05:51:46] Rackman shocked WolfSystem777 with 2 damage
+[05:51:46] Rackman shocked WolfSystem777 with 2 damage
+[05:51:46] Rackman shocked WolfSystem777 with 2 damage
+[05:51:47] Rackman shocked WolfSystem777 with 2 damage
+[05:51:47] Rackman shocked WolfSystem777 with 2 damage
+[05:51:48] Rackman shocked WolfSystem777 with 2 damage
+[05:51:48] Rackman shocked WolfSystem777 with 2 damage
+[05:52:01] Rackman teleported to maksumkolesnukov022
+[05:52:01] Rackman: !goto maksumkolesnukov022
+[05:52:08] Client "dobryjl786" spawned in server <STEAM_0:0:544674568> (took 25 seconds).
+[05:52:19] maksumkolesnukov022: негро?
+[05:52:25] maksumkolesnukov022: го
+[05:52:39] maksumkolesnukov022: трупик вирус
+[05:52:56] DeNoZaVR⁴²: я умру щяс
+[05:53:04] Dropped "dobryjl786" from server<STEAM_0:0:544674568>
+[05:53:04] dobryjl786 suicided!
+[05:53:22] Rackman brought maksumkolesnukov022
+[05:53:22] Rackman: !bring maksumkolesnukov022
+[05:53:49] Client "dobryjl786" connected.
+[05:54:20] Client "dobryjl786" spawned in server <STEAM_0:0:544674568> (took 31 seconds).
+[05:54:24] Client "剣闘士" connected.
+[05:54:45] maksumkolesnukov022: ааа скелеты
+[05:55:19] Dropped "dobryjl786" from server<STEAM_0:0:544674568>
+[05:55:19] dobryjl786 suicided!
+[05:55:21] WolfSystem777: Спидозные твари
+[05:55:37] maksumkolesnukov022: ужс зондбе вирус
+[05:56:34] Client "dobryjl786" connected.
+[05:56:37] P0lyakov cloaked Themself by amount 0
+[05:56:37] P0lyakov: !cloak
+[05:56:40] P0lyakov cloaked Themself by amount 0
+[05:56:41] P0lyakov: !cloak P0l
+[05:57:03] Rackman brought maksumkolesnukov022
+[05:57:03] Rackman: !bring maksumkolesnukov022
+[05:57:06] Client "dobryjl786" spawned in server <STEAM_0:0:544674568> (took 32 seconds).
+[05:57:23] maksumkolesnukov022: медикаменты
+[05:57:31] dobryjl786: g
+[05:57:34] dobryjl786: trkmwofepa;s'd
+[05:58:19] DeNoZaVR⁴²: можно меня тоже похилить?
+[05:58:29] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[05:58:34] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwater
+[06:00:09] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsentry
+[06:00:09] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsentry
+[06:00:13] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbasicparts
+[06:00:14] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbasicparts
+[06:00:17] Client "♰MANDARINKA♰" connected.
+[06:00:32] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbattery
+[06:01:07] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsentry
+[06:01:49] DeNoZaVR⁴² was killed by build_prop
+[06:02:10] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsteel
+[06:02:11] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsteel
+[06:02:11] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsteel
+[06:02:13] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsteel
+[06:02:16] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsteel
+[06:02:16] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsteel
+[06:02:18] Dropped "dobryjl786" from server<STEAM_0:0:544674568>
+[06:02:18] dobryjl786 suicided!
+[06:02:33] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbasicparts
+[06:02:33] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbasicparts
+[06:02:34] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbasicparts
+[06:02:46] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezcoolant
+[06:02:49] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezprecparts
+[06:02:53] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezprecparts
+[06:02:54] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezprecparts
+[06:02:54] maksumkolesnukov022: отвези меня к кракману позязя
+[06:03:03] SoldierEL1TE: я не знаю где он
+[06:03:13] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[06:03:21] maksumkolesnukov022: где кракман ужс
+[06:03:49] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[06:03:51] Client "EHOT" connected.
+[06:03:57] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[06:04:01] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[06:04:39] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[06:04:43] maksumkolesnukov022: мы вернулись на спавн
+[06:05:18] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/popcan01a.mdl
+[06:05:19] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[06:05:39] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[06:06:16] Improvised_starting_fire_device: ((теория 4 физганов))
+[06:06:39] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[06:06:56] Improvised_starting_fire_device: капец ты долго за пк сидел, аж глаза покраснели
+[06:07:45] DeNoZaVR⁴²: извените можно отойди поесть а то я шяс от истошения умр
+[06:07:47] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[06:07:59] DeNoZaVR⁴²: я про ряльную жизнь
+[06:08:13] Rackman: !menu
+[06:08:22] Rackman teleported to maksumkolesnukov022
+[06:09:22] Mr. Goose V0RCH00N: ТАМ ВЕРТИК
+[06:09:24] Mr. Goose V0RCH00N: ЕБАТЬ
+[06:09:41] Mr. Goose V0RCH00N: они прогресируют
+[06:09:43] Mr. Goose V0RCH00N: а мы стоим
+[06:10:00] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsentry
+[06:10:00] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsentry
+[06:11:16] Rackman brought maksumkolesnukov022
+[06:11:16] Rackman: !bring maksumkolesnukov022
+[06:11:33] maksumkolesnukov022: по факут
+[06:11:45] maksumkolesnukov022: мб потестим чё нить
+[06:11:59] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[06:11:59] Rackman suicided!
+[06:11:59] vasiliy karat: !MENU
+[06:11:59] maksumkolesnukov022: хм
+[06:11:59] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[06:11:59] бугагашенька suicided!
+[06:12:08] Dropped "vers1" from server<STEAM_0:0:230254820>
+[06:12:08] vers1 suicided!
+[06:12:21] Client "vers1" connected.
+[06:12:37] Dropped "Improvised_starting_fire_device" from server<STEAM_0:1:225675214>
+[06:12:37] Improvised_starting_fire_device suicided!
+[06:12:38] Client "Improvised_starting_fire_device" connected.
+[06:12:51] Client "ЧУБАКА" connected.
+[06:12:56] Dropped "Mr. Goose V0RCH00N" from server<STEAM_0:1:150007799>
+[06:12:56] Mr. Goose V0RCH00N suicided!
+[06:12:57] Client "Mr. Goose V0RCH00N" connected.
+[06:13:15] Dropped "JMSD16" from server<STEAM_0:1:570595696>
+[06:13:15] JMSD16 suicided!
+[06:14:10] Client "бугагашенька" connected.
+[06:14:21] Client "/ᴅᴏᴢʏ" connected.
+[06:14:39] Client "Mr. Goose V0RCH00N" spawned in server <STEAM_0:1:150007799> (took 102 seconds).
+[06:14:40] Client "Improvised_starting_fire_device" spawned in server <STEAM_0:1:225675214> (took 122 seconds).
+[06:14:48] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 38 seconds).
+[06:14:53] Client "/ᴅᴏᴢʏ" spawned in server <STEAM_0:1:520496964> (took 32 seconds).
+[06:15:03] Client "vers1" spawned in server <STEAM_0:0:230254820> (took 162 seconds).
+[06:15:28] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[06:15:28] maksumkolesnukov022 suicided!
+[06:15:46] Dropped "P0lyakov" from server<STEAM_0:0:60570605>
+[06:15:46] P0lyakov suicided!
+[06:15:54] Dropped "SoldierEL1TE" from server<STEAM_0:0:565316422>
+[06:15:54] SoldierEL1TE suicided!
+[06:16:00] WolfSystem777 killed /ᴅᴏᴢʏ using tfa_verdun_tankgewehr
+[06:18:26] Mr. Goose V0RCH00N: У меня танк разобрать
+[06:18:28] Mr. Goose V0RCH00N: ой
+[06:18:45] DeNoZaVR⁴²: я отходил
+[06:18:48] DeNoZaVR⁴²: кушать)
+[06:18:52] DeNoZaVR⁴²: я еше ем
+[06:18:54] DeNoZaVR⁴²: если что
+[06:18:59] DeNoZaVR⁴²: неа)
+[06:22:37] WolfSystem777: Да ты че то перепутал
+[06:22:40] DeNoZaVR⁴²: я тут
+[06:22:50] WolfSystem777: Хуй в пальто
+[06:22:52] Client "ЧУБАКА" spawned in server <STEAM_0:0:771452635> (took 601 seconds).
+[06:23:26] WolfSystem777: Ебать у вас реакия долгая
+[06:23:32] WolfSystem777: Как вы еще развиваетесь
+[06:23:42] WolfSystem777: Я пришел увидится с вами
+[06:23:45] WolfSystem777: С миром
+[06:23:56] Mr. Goose V0RCH00N: А оружие зачем?
+[06:24:06] WolfSystem777: А вам зачем?
+[06:24:14] Mr. Goose V0RCH00N: Вопросом на вопрос не отвечают
+[06:24:24] WolfSystem777: А вы че такие агро
+[06:24:29] WolfSystem777: он у меня на предохранителе
+[06:24:36] WolfSystem777: Как ?
+[06:24:42] Mr. Goose V0RCH00N: Ты не в состояние чтобы нам что-то говорить
+[06:24:47] Mr. Goose V0RCH00N: умрет один умрешь ты
+[06:24:54] ЧУБАКА: /me показал военный билет: [2529] [Иванов М.А.] {РЯД} {МОБИЛ} 
+[06:25:09] WolfSystem777: По факуту, я у вас за спиной хочу стою, среогрировали очень дого
+[06:25:21] Mr. Goose V0RCH00N: У тебя противотанковая винтовка
+[06:25:27] Mr. Goose V0RCH00N: ты не смог бы убить нас так быстро
+[06:25:28] WolfSystem777: я тебе совет даю, поставь стены и часовых
+[06:25:36] WolfSystem777: как капитан капитану
+[06:25:48] WolfSystem777: С чего ты взял?
+[06:26:01] WolfSystem777: Уверен? 
+[06:26:09] WolfSystem777: Ну пусть будет так
+[06:26:52] WolfSystem777: Фух, спорить не можете. Так к чему я сюда пришел, я пришел за керамикой
+[06:27:03] WolfSystem777: могу купить
+[06:27:11] Mr. Goose V0RCH00N: Ну вот так бы и начал бы
+[06:27:11] WolfSystem777: Чего сколько?
+[06:27:22] WolfSystem777: Это к чему?
+[06:27:29] ЧУБАКА: /me Показал военный билет 3 МСБ | К | Кузнецов М.Д.
+[06:27:38] WolfSystem777: Ты только что сказал это к чему
+[06:27:45] WolfSystem777: Я говорю про керамику
+[06:27:51] WolfSystem777: Купить у вас хочу
+[06:27:59] WolfSystem777: Это грабеж?
+[06:28:06] WolfSystem777: Чего вы хотите за нее?
+[06:28:13] DeNoZaVR⁴²: лан парни разберайтес я буду устнавливать вышки и буры
+[06:28:22] WolfSystem777: Так ну
+[06:28:31] WolfSystem777: Что хотите за керамику
+[06:28:43] Mr. Goose V0RCH00N: Стой нужно хемикался
+[06:28:50] WolfSystem777: Чего "чебокс"? 
+[06:29:02] WolfSystem777: Курс какой?
+[06:29:21] бугагашенька: !motd
+[06:29:32] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[06:29:32] vasiliy karat suicided!
+[06:29:39] WolfSystem777: Ой блять, торговля называется...
+[06:29:48] WolfSystem777: У ВАС КУРС КАКОЙ 100: 1 ИЛИ КАК?
+[06:30:30] WolfSystem777: (Это факт). Вы хотите продать керамику или как?
+[06:30:43] Dropped "ЧУБАКА" from server<STEAM_0:0:771452635>
+[06:30:43] ЧУБАКА suicided!
+[06:30:50] WolfSystem777: Ну че тянули так долго
+[06:30:52] WolfSystem777: Тогда бб
+[06:32:02] Client "AnsH_Games_XD" connected.
+[06:32:32] vers1 killed WolfSystem777 using tfa_doithompsonm1a1
+[06:32:33] Client "AnsH_Games_XD" connected.
+[06:35:10] Mr. Goose V0RCH00N: vers1 killed WolfSystem777 using tfa_doithompsonm1a1
+[06:36:17] Mr. Goose V0RCH00N: !motd
+[06:36:43] Client "Benito MUSORBLINE" connected.
+[06:40:22] бугагашенька: jmod_ez_inv
+[06:44:28] WolfSystem777: /health
+[06:49:06] WolfSystem777 killed бугагашенька using tfa_verdun_tankgewehr
+[06:49:15] WolfSystem777 killed vers1 using tfa_verdun_tankgewehr
+[06:49:25] WolfSystem777 killed vers1 using tfa_verdun_tankgewehr
+[06:49:30] WolfSystem777 killed бугагашенька using tfa_verdun_tankgewehr
+[06:51:51] Client "Soldier_S.C.A.F" connected.
+[06:56:12] WolfSystem777: /health
+[06:57:13] WolfSystem777: /health
+[06:57:20] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 329 seconds).
+[06:59:29] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[06:59:29] Soldier_S.C.A.F suicided!
+[07:11:16] Client "Jr_byba" connected.
+[07:13:18] vers1 killed WolfSystem777 using tfa_doim1919
+[07:13:30] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[07:13:30] Redoket suicided!
+[07:13:57] Client "Shadow" connected.
+[07:14:41] Dropped "Mr. Goose V0RCH00N" from server<STEAM_0:1:150007799>
+[07:14:41] Mr. Goose V0RCH00N suicided!
+[07:15:02] WolfSystem777: /health
+[07:16:46] Client "P É R R I УТКОНОС" connected.
+[07:17:30] vers1: sosal?
+[07:17:33] WolfSystem777 killed бугагашенька using ent_bazooka_shell_v2
+[07:17:42] WolfSystem777 killed Improvised_starting_fire_device using ent_bazooka_shell_v2
+[07:18:11] vers1 killed WolfSystem777 using tfa_doim1919
+[07:18:42] DeNoZaVR⁴²: supply radio: munitions
+[07:19:02] DeNoZaVR⁴²: supply radio: munitions
+[07:19:22] DeNoZaVR⁴²: supply radio: munitions
+[07:19:49] Client "[SHULYA] ТОМАС" connected.
+[07:22:07] Client "P É R R I УТКОНОС" spawned in server <STEAM_0:0:644867877> (took 321 seconds).
+[07:24:13] бугагашенька: supply radio: global message
+[07:24:35] бугагашенька: supply radio: global message
+[07:24:54] Improvised_starting_fire_device: supply radio: global message
+[07:25:24] Improvised_starting_fire_device was killed by ent_jack_gmod_ezherocket
+[07:25:31] DeNoZaVR⁴²: ебать
+[07:28:39] vers1 was killed by build_prop
+[07:29:06] Client "Shadow" spawned in server <STEAM_0:0:826196922> (took 909 seconds).
+[07:29:54] Shadow: КТО поможет
+[07:30:16] (TEAM) P É R R I УТКОНОС: jmod_ez_inv i
+[07:31:30] Dropped "Shadow" from server<STEAM_0:0:826196922>
+[07:31:30] Shadow suicided!
+[07:32:38] Client "Jr_byba" connected.
+[07:33:03] Client "[SHULYA] ТОМАС" spawned in server <STEAM_0:1:196609382> (took 794 seconds).
+[07:33:13] P É R R I УТКОНОС: scroumge
+[07:33:41] бугагашенька suicided!
+[07:33:46] P É R R I УТКОНОС: scrounge
+[07:34:35] бугагашенька killed vers1 using tfa_doiluger
+[07:34:44] бугагашенька killed vers1 using tfa_doiluger
+[07:37:44] Dropped "[SHULYA] ТОМАС" from server<STEAM_0:1:196609382>
+[07:37:44] [SHULYA] ТОМАС suicided!
+[07:38:09] P É R R I УТКОНОС: 'jmod_ez_inv' i
+[07:39:04] WolfSystem777: /health
+[07:39:18] WolfSystem777: /health
+[07:39:21] Client "glaSOO" connected.
+[07:39:23] Client "Балтика 9" connected.
+[07:39:35] vers1 killed P É R R I УТКОНОС using lvs_wheeldrive_dodsherman
+[07:40:09] бугагашенька killed P É R R I УТКОНОС using tfa_doiluger
+[07:40:41] Client "glaSOO" spawned in server <STEAM_0:1:626531518> (took 80 seconds).
+[07:40:55] Client "Балтика 9" spawned in server <STEAM_0:0:592080962> (took 92 seconds).
+[07:41:00] бугагашенька killed P É R R I УТКОНОС using tfa_doiluger
+[07:41:16] Client "Asfaruto17" connected.
+[07:41:55] бугагашенька: ччччч
+[07:42:17] Балтика 9: /help
+[07:43:35] Client "ndolgopolov35" connected.
+[07:44:09] бугагашенька killed P É R R I УТКОНОС using tfa_doiluger
+[07:44:41] бугагашенька suicided!
+[07:46:50] Dropped "P É R R I УТКОНОС" from server<STEAM_0:0:644867877>
+[07:46:50] P É R R I УТКОНОС suicided!
+[07:47:40] Client "Косинус" connected.
+[07:48:01] WolfSystem777 killed DeNoZaVR⁴² using tfa_verdun_tankgewehr
+[07:48:04] Dropped "DeNoZaVR⁴²" from server<STEAM_0:1:600266006>
+[07:48:04] DeNoZaVR⁴² suicided!
+[07:49:53] бугагашенька: ! MEMI
+[07:50:01] бугагашенька: !MENNI
+[07:50:04] бугагашенька: !MENI
+[07:50:10] vers1: !menu
+[07:50:15] бугагашенька: !menu
+[07:52:04] Client "Asfaruto17" spawned in server <STEAM_0:0:443218125> (took 648 seconds).
+[07:52:20] vers1: !menu
+[07:52:32] Client "YarchaStone" connected.
+[07:52:35] бугагашенька: !restart
+[07:52:39] бугагашенька: !lote
+[07:53:32] (TEAM) glaSOO: i
+[07:55:25] Client "YarchaStone" spawned in server <STEAM_0:0:768420704> (took 173 seconds).
+[07:56:28] Client "Косинус" spawned in server <STEAM_0:1:530357188> (took 528 seconds).
+[07:56:49] Asfaruto17: /me Исполнил партийное приветствие и произнес: Heil Hitler
+[07:56:54] Dropped "Asfaruto17" from server<STEAM_0:0:443218125>
+[07:56:54] Asfaruto17 suicided!
+[07:56:56] (TEAM) vers1: я застрял
+[07:57:02] Косинус: /skin
+[07:57:03] Косинус: !skin
+[07:57:06] WolfSystem777 killed YarchaStone using tfa_verdun_tankgewehr
+[07:57:59] vers1: /p я застрял
+[07:58:07] vers1: /p
+[07:58:35] Dropped "vers1" from server<STEAM_0:0:230254820>
+[07:58:35] vers1 suicided!
+[07:58:56] Dropped "Косинус" from server<STEAM_0:1:530357188>
+[07:58:56] Косинус suicided!
+[07:59:40] WolfSystem777: /health
+[08:00:26] WolfSystem777 killed бугагашенька using ent_bazooka_shell_v2
+[08:00:26] WolfSystem777 killed Improvised_starting_fire_device using ent_bazooka_shell_v2
+[08:03:01] бугагашенька killed Improvised_starting_fire_device using wep_jack_gmod_ezaxe
+[08:03:08] Dropped "Improvised_starting_fire_device" from server<STEAM_0:1:225675214>
+[08:03:08] Improvised_starting_fire_device suicided!
+[08:05:38] WolfSystem777 killed Балтика 9 using tfa_verdun_tankgewehr
+[08:05:41] glaSOO killed WolfSystem777 using tfa_smc_ppsh_drum
+[08:07:56] Client "Шоколадный заяц" connected.
+[08:10:45] WolfSystem777 killed YarchaStone using tfa_verdun_tankgewehr
+[08:11:58] YarchaStone killed WolfSystem777 using tfa_doik98_scop
+[08:12:19] YarchaStone killed бугагашенька using tfa_doik98_scop
+[08:13:27] WolfSystem777 killed YarchaStone using tfa_doik98_scop
+[08:14:17] WolfSystem777 killed бугагашенька using tfa_doik98_scop
+[08:14:56] WolfSystem777 killed бугагашенька using tfa_doik98_scop
+[08:16:18] WolfSystem777: supply radio: first-aid kits
+[08:16:33] YarchaStone killed WolfSystem777 using player
+[08:17:14] Dropped "YarchaStone" from server<STEAM_0:0:768420704>
+[08:17:14] YarchaStone suicided!
+[08:19:21] бугагашенька killed Балтика 9 using wep_jack_gmod_ezshovel
+[08:20:22] бугагашенька: !motd
+[08:20:34] Dropped "WolfSystem777" from server<STEAM_0:0:454435705>
+[08:20:34] WolfSystem777 suicided!
+[08:21:03] Dropped "Балтика 9" from server<STEAM_0:0:592080962>
+[08:21:03] Балтика 9 suicided!
+[08:21:07] Dropped "glaSOO" from server<STEAM_0:1:626531518>
+[08:21:07] glaSOO suicided!
+[08:21:11] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[08:21:11] бугагашенька suicided!
+[08:38:29] Client "Dr.lucifer" connected.
+[08:47:07] Client "Jr_byba" connected.
+[08:53:28] Client "tr" connected.
+[08:54:53] Client "Jr_byba" connected.
+[08:56:37] Dropped "/ᴅᴏᴢʏ" from server<STEAM_0:1:520496964>
+[08:56:37] /ᴅᴏᴢʏ suicided!
+[08:58:45] Client "Vasilisk_Ð" connected.
+[09:00:22] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 329 seconds).
+[09:00:48] Client "Vasilisk_Ð" spawned in server <STEAM_0:1:452030622> (took 123 seconds).
+[09:02:36] Client "бугагашенька" connected.
+[09:03:17] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 41 seconds).
+[09:04:10] Jr_byba: ку
+[09:04:24] Jr_byba: чо
+[09:08:09] Jr_byba: да
+[09:08:16] Jr_byba: чо
+[09:08:17] бугагашенька: !motd
+[09:08:30] Jr_byba: чо
+[09:10:13] Jr_byba: на у
+[09:10:24] Jr_byba: на e
+[09:13:13] Jr_byba: не
+[09:14:04] Jr_byba: не попал хахахахаха
+[09:15:20] Jr_byba: дай
+[09:16:22] Jr_byba: дай физ ган
+[09:16:46] Client "Carre" connected.
+[09:23:33] Jr_byba: ок
+[09:26:25] Jr_byba: пнг
+[09:26:33] Jr_byba: пмг
+[09:27:53] Jr_byba: ку
+[09:27:59] Jr_byba: да
+[09:28:31] Jr_byba: да
+[09:30:45] Jr_byba: как
+[09:31:03] Jr_byba: ок
+[09:31:15] Jr_byba: да
+[09:32:25] Jr_byba: ок
+[09:35:30] Jr_byba: да
+[09:46:16] Client "BW" connected.
+[09:54:15] (TEAM) Jr_byba: не
+[09:54:57] Client "BW" spawned in server <STEAM_0:1:27869938> (took 521 seconds).
+[09:59:42] Jr_byba: КУ
+[09:59:51] Jr_byba: ку
+[09:59:59] Jr_byba: ку
+[10:00:09] Jr_byba: КУ
+[10:00:31] Jr_byba: ку
+[10:00:41] Jr_byba: КУ
+[10:05:52] Vasilisk_Ð was killed by ent_jack_gmod_ezpumpjack
+[10:07:38] Jr_byba: во
+[10:07:59] бугагашенька: !motd
+[10:08:19] Jr_byba: но зато безплатно
+[10:09:56] Dropped "BW" from server<STEAM_0:1:27869938>
+[10:09:56] BW suicided!
+[10:30:03] Jr_byba: чо
+[10:32:33] Jr_byba: ема
+[10:34:29] Jr_byba: пока
+[10:35:02] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[10:35:02] Jr_byba suicided!
+[10:41:27] Client "Hand of Death" connected.
+[10:41:48] Client "/ᴅᴏᴢʏ" connected.
+[10:41:50] Client "/ᴅᴏᴢʏ" connected.
+[10:42:15] Client "Hand of Death" spawned in server <STEAM_0:1:442851008> (took 48 seconds).
+[10:42:24] Client "/ᴅᴏᴢʏ" spawned in server <STEAM_0:1:520496964> (took 34 seconds).
+[11:02:46] Hand of Death was killed by ent_jack_gmod_ezaxe
+[11:28:39] /ᴅᴏᴢʏ: !motd
+[11:44:09] /ᴅᴏᴢʏ: помему мы обосрались
+[11:44:37] /ᴅᴏᴢʏ: эй
+[11:44:38] /ᴅᴏᴢʏ: а ресы
+[11:44:50] /ᴅᴏᴢʏ: не могу
+[11:46:05] /ᴅᴏᴢʏ: нам нужны линии электропередач, а не трубы
+[11:48:22] /ᴅᴏᴢʏ: потяни вверх
+[11:55:31] /ᴅᴏᴢʏ: ты разобрался с водой?
+[11:57:58] /ᴅᴏᴢʏ: это що
+[11:58:00] /ᴅᴏᴢʏ: лампа?
+[11:58:16] /ᴅᴏᴢʏ: отпусти
+[12:02:11] /ᴅᴏᴢʏ: если заденешь, она упадет
+[12:02:14] /ᴅᴏᴢʏ: осторожно
+[12:02:35] /ᴅᴏᴢʏ: заебись
+[12:03:53] /ᴅᴏᴢʏ: сука заебало
+[12:06:19] /ᴅᴏᴢʏ: ЛДФВОФВОВ
+[12:07:05] /ᴅᴏᴢʏ: ща ливну
+[12:07:32] /ᴅᴏᴢʏ: донателло
+[12:13:32] Vasilisk_Ð killed Hand of Death using lvs_bomb
+[12:13:34] Vasilisk_Ð killed /ᴅᴏᴢʏ using lvs_bomb
+[12:14:09] /ᴅᴏᴢʏ: // у меня идентичный вопрос
+[12:14:12] /ᴅᴏᴢʏ: !motd
+[12:14:22] /ᴅᴏᴢʏ: /voicee
+[12:14:25] /ᴅᴏᴢʏ: /voice
+[12:14:28] /ᴅᴏᴢʏ: !motd
+[12:14:40] /ᴅᴏᴢʏ: d
+[12:14:45] /ᴅᴏᴢʏ: f
+[12:14:49] Vasilisk_Ð killed Hand of Death using tfa_verdun_tankgewehr
+[12:14:53] /ᴅᴏᴢʏ: f
+[12:15:01] /ᴅᴏᴢʏ: /
+[12:15:08] /ᴅᴏᴢʏ: .
+[12:15:15] /ᴅᴏᴢʏ: .
+[12:16:06] Hand of Death killed Vasilisk_Ð using tfa_doim1garand
+[12:16:45] /ᴅᴏᴢʏ: c нихуя
+[12:17:27] /ᴅᴏᴢʏ: а как принять
+[12:18:10] /ᴅᴏᴢʏ: благодарю
+[12:18:48] /ᴅᴏᴢʏ: собирался делать
+[12:20:33] бугагашенька killed Vasilisk_Ð using lvs_wheeldrive_dodsherman
+[12:29:03] /ᴅᴏᴢʏ: я пiшов спатi
+[12:29:19] Dropped "/ᴅᴏᴢʏ" from server<STEAM_0:1:520496964>
+[12:29:19] /ᴅᴏᴢʏ suicided!
+[12:29:23] Dropped "Hand of Death" from server<STEAM_0:1:442851008>
+[12:29:23] Hand of Death suicided!
+[12:32:03] бугагашенька killed Vasilisk_Ð using lvs_wheeldrive_dodsherman
+[12:32:25] бугагашенька killed Vasilisk_Ð using lvs_wheeldrive_dodsherman
+[12:38:29] бугагашенька suicided!
+[12:38:29] бугагашенька killed Vasilisk_Ð using ent_bazooka_shell_v2
+[12:39:02] Dropped "Vasilisk_Ð" from server<STEAM_0:1:452030622>
+[12:39:02] Vasilisk_Ð suicided!
+[13:08:19] Client "Xtrion" connected.
+[13:09:39] Client "Xtrion" spawned in server <STEAM_0:1:201866151> (took 80 seconds).
+[13:24:14] Dropped "Xtrion" from server<STEAM_0:1:201866151>
+[13:24:15] Xtrion suicided!
+[13:50:15] бугагашенька suicided!
+[14:01:47] бугагашенька suicided!
+[14:02:53] бугагашенька suicided!
+[14:02:57] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[14:02:57] бугагашенька suicided!
+[16:46:23] Client "Xtrion" connected.
+[16:47:36] Client "Xtrion" spawned in server <STEAM_0:1:201866151> (took 73 seconds).
+[16:52:59] Dropped "Xtrion" from server<STEAM_0:1:201866151>
+[16:52:59] Xtrion suicided!
+[16:56:01] Client "Xtrion" connected.
+[16:56:18] Client "Xtrion" spawned in server <STEAM_0:1:201866151> (took 17 seconds).
+[17:00:07] Client "Crystal" connected.
+[17:02:34] Client "Crystal" spawned in server <STEAM_0:0:626594767> (took 147 seconds).
+[17:33:02] Dropped "Crystal" from server<STEAM_0:0:626594767>
+[17:33:02] Crystal suicided!
+[17:39:44] Xtrion was killed by ent_rus_gmod_ezpowerline
+[18:26:28] Dropped "Xtrion" from server<STEAM_0:1:201866151>
+[18:26:28] Xtrion suicided!
+[23:32:19] Client "SoldierEL1TE" connected.
+[23:33:26] Client "SoldierEL1TE" spawned in server <STEAM_0:0:565316422> (took 67 seconds).
+<Logging continued in "data/ulx_logs/03-03-25.txt">

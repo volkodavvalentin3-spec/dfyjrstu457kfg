@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\d_tg\body"
+	
+	"$alphatest" "1"	
+	
+}

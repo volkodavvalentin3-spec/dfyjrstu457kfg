@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+//BASIC
+	"$basetexture"					"models\weapons\tfa_doi_wap\m1a1\weapon_m1a1_para_dm"
+	"$bumpmap" 						"models\weapons\tfa_doi_wap\m1a1\weapon_m1a1_para_nm"
+	"$model"						"1"
+    "$color"						"[1 1 1]"
+
+//PHONG
+	"$phong"                        "1"
+	"$phongtint"                    "[ .67 .85 1 ]"
+	"$phongboost"                   "2"
+	"$phongexponent"				"80"
+	"$phongfresnelranges"           "[ 1 2 3 ]"
+
+//ENVMAP
+	"$envmap"                       "env_cubemap"
+	"$envmapfresnel" 				".33"
+	"$normalmapalphaenvmapmask" 			"1"
+	"$envmaptint"                   "[ .05 .05 .05 ]"
+}

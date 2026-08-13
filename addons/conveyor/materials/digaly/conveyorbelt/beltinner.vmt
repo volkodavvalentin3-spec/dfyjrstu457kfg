@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "digaly/conveyorbelt/belt"
+	 Proxies
+	 {
+	  TextureScroll
+	  {
+	   texturescrollvar $basetexturetransform
+	   texturescrollrate -0.9
+	   texturescrollangle 0
+	  }
+	 }
+
+}

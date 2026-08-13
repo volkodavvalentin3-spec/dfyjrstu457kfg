@@ -1,0 +1,655 @@
+<Logging continued from "data/ulx_logs/11-10-25.txt">
+[01:09:14] Client "KULER" connected.
+[01:10:15] Client "KULER" spawned in server <STEAM_0:0:736080205> (took 61 seconds).
+[01:11:01] KULER was killed by ent_jack_gmod_ezfalloutparticle
+[02:20:42] Client "FRED01" connected.
+[02:24:44] Client "FRED01" spawned in server <STEAM_0:1:767661328> (took 242 seconds).
+[02:31:13] Client "vasiliy karat" connected.
+[02:32:06] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 53 seconds).
+[02:34:08] FRED01: supply radio: builder kit
+[02:35:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[02:36:11] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[02:36:57] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_maxim
+[02:38:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[02:39:00] vasiliy karat: !menu
+[02:39:03] (SILENT) vasiliy karat is now administrating
+[02:41:42] FRED01: supply radio: point-of-dislocation
+[02:43:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[02:43:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[02:44:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[02:44:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[02:49:18] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[02:49:18] vasiliy karat suicided!
+[02:55:40] Client "Kerchinsky" connected.
+[02:56:23] Client "Kerchinsky" spawned in server <STEAM_0:1:591953064> (took 43 seconds).
+[02:57:49] KULER: Слушай
+[02:57:56] FRED01 was killed by build_prop
+[02:57:59] KULER: а горелка наносит урон?
+[02:58:17] KULER: горелка наносит урон?
+[02:58:47] KULER: высотки будут?
+[02:58:54] KULER was killed by build_prop
+[02:59:53] KULER: это будет отель?
+[03:00:04] KULER: окей
+[03:06:25] KULER: не хотите жить в отеле?
+[03:06:28] Kerchinsky: нет
+[03:06:41] KULER: печально
+[03:09:59] KULER: ОКАК
+[03:10:04] KULER: а выхода не будет?
+[03:10:13] KULER: к лестнице
+[03:10:30] Kerchinsky: supply radio: fulton-crate
+[03:11:09] KULER: ...
+[03:11:45] Kerchinsky: supply radio: fulton-crate
+[03:12:10] KULER: керамики  осталось гдето 1600
+[03:15:52] Kerchinsky: supply radio: fulton-crate
+[03:32:08] Dropped "Kerchinsky" from server<STEAM_0:1:591953064>
+[03:32:08] Kerchinsky suicided!
+[03:43:47] KULER: хрущевки?
+[03:45:11] KULER: !motd
+[05:19:40] KULER was killed by ent_jack_gmod_ezlandmine
+[05:25:36] Client "Soldier_S.C.A.F" connected.
+[05:29:35] Client "RusLanConnection" connected.
+[05:29:57] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 261 seconds).
+[05:31:48] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 133 seconds).
+[05:32:53] Soldier_S.C.A.F to admins: мы наванючкались очень
+[05:33:00] Soldier_S.C.A.F to admins: дайте нам хотя бы МЫЛО
+[05:38:48] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[05:38:48] Soldier_S.C.A.F suicided!
+[05:39:52] KULER was killed by lvs_helicopter_rebel
+[05:48:16] RusLanConnection: попробуй кое что
+[05:49:12] RusLanConnection: попробуй поскраунжить
+[05:49:23] RusLanConnection: найс
+[05:49:31] RusLanConnection: ээ
+[05:49:36] RusLanConnection: ток вот это надо исправить
+[05:50:39] RusLanConnection: так и есть
+[05:50:42] RusLanConnection: они не пропадают
+[05:55:09] KULER: !motd
+[05:55:31] KULER: wx78
+[05:55:34] KULER: выа
+[05:59:03] RusLanConnection: можно теперь не мучаться внутри зданий
+[06:00:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[06:00:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[06:00:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezceramic
+[06:01:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[06:03:08] Client "АГЕНТ БАРАБУЛЬКА" connected.
+[06:04:37] KULER: Ох бля
+[06:05:44] KULER was killed by ent_jack_gmod_ezherocket
+[06:06:14] Client "rty000pro" connected.
+[06:06:56] Client "rty000pro" spawned in server <STEAM_0:1:593166516> (took 42 seconds).
+[06:07:28] Client "Mr.Matveykus_" connected.
+[06:08:15] KULER killed rty000pro using ent_jack_gmod_ezlandmine
+[06:08:30] KULER killed RusLanConnection using ent_jack_gmod_ezlandmine
+[06:08:56] Client "Mr.Matveykus_" spawned in server <STEAM_0:1:616448628> (took 88 seconds).
+[06:09:51] Client "serezha-voron" connected.
+[06:11:21] KULER killed Mr.Matveykus_ using ent_jack_gmod_ezlandmine
+[06:11:30] Mr.Matveykus_: !motd
+[06:11:45] KULER killed rty000pro using ent_jack_gmod_ezlandmine
+[06:12:26] KULER suicided!
+[06:12:26] KULER killed Mr.Matveykus_ using ent_jack_gmod_ezlandmine
+[06:13:30] KULER killed rty000pro using ent_jack_gmod_ezlandmine
+[06:13:30] KULER killed Mr.Matveykus_ using env_explosion
+[06:16:19] RusLanConnection cloaked Themself by amount 0
+[06:19:19] KULER: ну
+[06:19:40] KULER: зайди во фракцию
+[06:19:49] KULER: а
+[06:19:53] KULER: ну я тоже отойду
+[06:21:38] Dropped "KULER" from server<STEAM_0:0:736080205>
+[06:21:38] KULER suicided!
+[06:21:58] rty000pro was killed by lvs_helicopter_cod_ah6
+[06:22:47] rty000pro was killed by ent_jack_gmod_ezherocket
+[06:23:26] rty000pro was killed by ent_jack_gmod_ezherocket
+[06:23:50] rty000pro was killed by lvs_helicopter_cod_ah6
+[06:24:12] Client "vasiliy karat" connected.
+[06:24:20] rty000pro was killed by lvs_helicopter_cod_ah6
+[06:25:35] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 83 seconds).
+[06:28:37] vasiliy karat to admins: и чо
+[06:29:29] vasiliy karat to admins: сказал что делает комисию и не доделал
+[06:29:57] rty000pro killed Mr.Matveykus_ using tfa_doippk
+[06:31:04] RusLanConnection cloaked Themself by amount 0
+[06:31:33] Dropped "Mr.Matveykus_" from server<STEAM_0:1:616448628>
+[06:31:33] Mr.Matveykus_ suicided!
+[06:32:51] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[06:32:51] vasiliy karat suicided!
+[06:35:04] Dropped "rty000pro" from server<STEAM_0:1:593166516>
+[06:35:04] rty000pro suicided!
+[06:36:00] FRED01 was killed by build_prop
+[06:38:05] FRED01 killed RusLanConnection using tfa_blast_sjogren
+[06:38:13] RusLanConnection cloaked Themself by amount 0
+[06:44:19] RusLanConnection granted god mode upon Themself
+[06:45:53] RusLanConnection teleported to FRED01
+[06:46:47] RusLanConnection teleported to FRED01
+[06:48:24] Client "g3bor" connected.
+[06:48:28] Client "SAH" connected.
+[06:53:19] RusLanConnection killed FRED01 using ent_jack_gmod_ezhebomb
+[06:53:40] RusLanConnection teleported to FRED01
+[06:54:35] RusLanConnection teleported to FRED01
+[06:55:59] RusLanConnection teleported to FRED01
+[06:56:31] RusLanConnection teleported to FRED01
+[06:58:04] RusLanConnection teleported to FRED01
+[06:58:16] RusLanConnection teleported to FRED01
+[06:58:23] RusLanConnection teleported to FRED01
+[06:59:08] RusLanConnection teleported to FRED01
+[06:59:34] RusLanConnection killed FRED01 using ent_jack_gmod_ezhebomb
+[06:59:43] RusLanConnection teleported to FRED01
+[07:01:24] Client "rty000pro" connected.
+[07:01:47] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_yak4
+[07:02:03] Client "rty000pro" spawned in server <STEAM_0:1:593166516> (took 39 seconds).
+[07:02:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_mh6
+[07:02:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_mh6
+[07:02:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_mh6alt
+[07:02:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[07:03:09] Client "kudalev" connected.
+[07:03:44] Client "kudalev" spawned in server <STEAM_0:0:21670625> (took 35 seconds).
+[07:04:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[07:04:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[07:04:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[07:04:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[07:04:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[07:04:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[07:04:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[07:04:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[07:05:48] FRED01 was killed by ent_jack_gmod_ezherocket
+[07:10:52] FRED01 killed kudalev using tfa_doimg42
+[07:13:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[07:13:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[07:14:07] Client "Redoket" connected.
+[07:15:15] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 68 seconds).
+[07:22:40] Client "Miyagi" connected.
+[07:24:10] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 90 seconds).
+[07:24:51] Client "vasiliy karat" connected.
+[07:25:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[07:25:23] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 32 seconds).
+[07:26:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[07:26:44] Redoket cloaked Themself by amount 0
+[07:26:52] Redoket teleported to vasiliy karat
+[07:26:54] Redoket teleported to RusLanConnection
+[07:33:44] FRED01: пво
+[07:33:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[07:33:50] rty000pro: *Языками жестами говорит* Что тебе надо!?
+[07:36:26] Redoket teleported to RusLanConnection
+[07:36:27] Redoket teleported to RusLanConnection
+[07:36:27] Redoket teleported to RusLanConnection
+[07:36:28] Redoket teleported to RusLanConnection
+[07:36:28] Redoket teleported to RusLanConnection
+[07:36:28] Redoket teleported to RusLanConnection
+[07:36:29] Redoket teleported to RusLanConnection
+[07:36:29] Redoket teleported to RusLanConnection
+[07:36:29] Redoket teleported to RusLanConnection
+[07:36:30] Redoket teleported to RusLanConnection
+[07:36:30] Redoket teleported to RusLanConnection
+[07:36:30] Redoket teleported to RusLanConnection
+[07:36:33] Redoket teleported to vasiliy karat
+[07:38:02] Client "Egor" connected.
+[07:38:02] rty000pro to admins: Красная шапочка. Ты где?
+[07:38:20] Client "beliash" connected.
+[07:39:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[07:43:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[07:43:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[07:43:27] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/breen.mdl
+[07:46:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[07:46:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[07:48:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[07:48:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[07:48:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[07:48:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[07:48:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[07:49:11] RusLanConnection suicided!
+[07:49:20] RusLanConnection uncloaked Themself
+[07:50:38] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[07:50:38] Miyagi suicided!
+[07:51:31] Client "Сырный пакетик" connected.
+[07:52:13] Client "Egor" spawned in server <STEAM_0:0:845226198> (took 851 seconds).
+[07:53:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[07:53:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[07:53:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[07:53:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[07:53:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[07:53:45] Client "Сырный пакетик" spawned in server <STEAM_0:0:617253467> (took 134 seconds).
+[07:55:29] Сырный пакетик: ебать
+[07:55:51] Client "яя не гитлир" connected.
+[07:56:33] Client "beliash" spawned in server <STEAM_0:0:822301453> (took 1093 seconds).
+[07:56:56] Client "яя не гитлир" spawned in server <STEAM_0:0:845922848> (took 65 seconds).
+[07:58:14] kudalev killed beliash using tfa_doistg44
+[08:03:08] Client "ßlå¢k §†år" connected.
+[08:03:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[08:04:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[08:06:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[08:06:56] Dropped "яя не гитлир" from server<STEAM_0:0:845922848>
+[08:06:56] яя не гитлир suicided!
+[08:07:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[08:08:27] Egor: cerf t,kfy xnj ns vjkxbim
+[08:08:37] Egor: еблан сука тупой что ты молчишь
+[08:08:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[08:09:30] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/gman_high.mdl
+[08:09:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[08:09:46] Egor: вот что ты молчишь
+[08:09:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[08:09:51] beliash: ШАС
+[08:09:55] Egor: сука тупой
+[08:11:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[08:11:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate_uni
+[08:11:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate_uni
+[08:11:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate_uni
+[08:11:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate_uni
+[08:11:35] Dropped "Сырный пакетик" from server<STEAM_0:0:617253467>
+[08:11:35] Сырный пакетик suicided!
+[08:11:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[08:11:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[08:11:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[08:13:06] beliash: ИДЕМ
+[08:13:09] beliash: ЗА МНОЙ
+[08:13:15] Egor: ВОТ ЧТО ТЫ МОЛЧИШЬ
+[08:15:37] Dropped "rty000pro" from server<STEAM_0:1:593166516>
+[08:15:37] rty000pro suicided!
+[08:15:47] Client "rty000pro" connected.
+[08:16:22] Client "rty000pro" spawned in server <STEAM_0:1:593166516> (took 35 seconds).
+[08:17:05] rty000pro to admins: Спасите мою жопу я застрял
+[08:17:15] RusLanConnection teleported to rty000pro
+[08:17:19] vasiliy karat suicided!
+[08:17:22] Client "sefablt234" connected.
+[08:18:02] rty000pro to admins: DOOR STUCK
+[08:20:06] rty000pro to admins: DOOR STUCK
+[08:20:42] Egor was killed by lvs_wheeldrive_dodkuebelwagen
+[08:21:13] Egor killed beliash using rust_boltrifle
+[08:21:23] rty000pro to admins: Твою дивизию руслан, меня дверь в очко, ьез моего согласия ебёт. помо�
+[08:22:02] rty000pro to admins: О великий Руслан спасите мою жопу от изнасиловании дверью.
+[08:22:09] RusLanConnection teleported to rty000pro
+[08:22:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdetpack
+[08:24:14] beliash killed vasiliy karat using tfa_doippk
+[08:24:44] vasiliy karat: !menu
+[08:24:46] rty000pro killed rty000pro
+[08:24:53] vasiliy karat ragdolled Themself
+[08:25:26] vasiliy karat: !menu
+[08:25:27] vasiliy karat unragdolled Themself
+[08:25:37] Egor killed rty000pro using tfa_doippk
+[08:25:41] FRED01 killed Egor using tfa_doimg42
+[08:25:49] vasiliy karat: мисия не выполнима
+[08:26:22] vasiliy karat ragdolled Themself
+[08:26:38] rty000pro killed Egor using tfa_doic96
+[08:26:50] FRED01 killed beliash using tfa_doimg42
+[08:26:54] vasiliy karat unragdolled Themself
+[08:27:02] rty000pro killed Egor using tfa_doic96
+[08:27:51] Client "Лысый аптекарь" connected.
+[08:28:01] Redoket: !menu
+[08:28:06] Redoket uncloaked Themself
+[08:28:13] Redoket teleported to RusLanConnection
+[08:30:04] RusLanConnection<STEAM_0:0:238810681> spawned sent prop_ww_flag
+[08:31:03] vasiliy karat: 40 фпс на карте
+[08:31:07] rty000pro killed Egor using tfa_doic96
+[08:31:39] kudalev killed beliash using lvs_wheeldrive_dodtiger
+[08:31:56] FRED01 killed Egor using tfa_doimg42
+[08:32:16] kudalev killed Egor using tfa_doippk
+[08:32:47] vasiliy karat to admins: тп тут брекданс
+[08:33:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezflarenade
+[08:33:41] vasiliy karat: брекднас
+[08:33:50] vasiliy karat: брекданс
+[08:33:54] vasiliy karat: тут брекданс
+[08:34:38] Egor killed beliash using wep_jack_gmod_hands
+[08:35:04] FRED01 killed beliash using tfa_doimg42
+[08:35:45] beliash killed Egor using tfa_doistg44
+[08:36:18] beliash killed Redoket using tfa_doistg44
+[08:36:53] rty000pro was killed by ent_jack_gmod_ezfalloutparticle
+[08:37:43] beliash killed rty000pro using tfa_doistg44
+[08:38:01] Redoket: какашки
+[08:38:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[08:38:10] beliash killed rty000pro using tfa_doistg44
+[08:38:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[08:38:11] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[08:38:13] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezthermobaricbomb
+[08:38:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezflarenade
+[08:38:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmokenade
+[08:38:24] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[08:38:41] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[08:38:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[08:38:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[08:38:59] Client "Bigbarsik223" connected.
+[08:38:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[08:39:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[08:39:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztnt
+[08:39:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[08:39:30] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfougasse
+[08:39:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsatchelcharge
+[08:39:58] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsatchelcharge
+[08:40:00] kudalev killed vasiliy karat using tfa_doistg44
+[08:40:02] kudalev killed Redoket using tfa_doistg44
+[08:40:36] Redoket: гамнго\
+[08:40:41] vasiliy karat: гавно насрали
+[08:40:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[08:40:49] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[08:40:50] Client "Bigbarsik223" spawned in server <STEAM_0:0:652203298> (took 111 seconds).
+[08:41:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezclusterbomb
+[08:41:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[08:41:19] vasiliy karat suicided!
+[08:41:19] vasiliy karat killed Redoket using ent_jack_gmod_ezsatchelcharge
+[08:41:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[08:41:59] vasiliy karat killed RusLanConnection using ent_jack_gmod_ezbomb
+[08:42:17] Egor killed FRED01 using tfa_doistg44
+[08:42:18] beliash killed rty000pro using tfa_doistg44
+[08:42:34] Egor killed Bigbarsik223 using tfa_doistg44
+[08:43:16] rty000pro: supply radio: car
+[08:45:30] Bigbarsik223 killed RusLanConnection using wep_jack_gmod_ezaxe
+[08:46:01] beliash killed rty000pro using tfa_doistg44
+[08:46:15] kudalev killed Egor using tfa_doistg44
+[08:46:20] Egor killed FRED01
+[08:46:22] kudalev killed beliash using tfa_doistg44
+[08:47:20] beliash killed rty000pro using tfa_doistg44
+[08:47:53] rty000pro: supply radio: car
+[08:48:10] kudalev killed beliash using tfa_doistg44
+[08:49:29] beliash killed Redoket using tfa_doimp40
+[08:49:41] beliash killed Bigbarsik223 using tfa_doimp40
+[08:50:01] rty000pro to admins: У нас Столица сломана
+[08:50:10] FRED01 to admins: Я застрял
+[08:50:44] rty000pro killed kudalev using tfa_doig43
+[08:50:47] Dropped "kudalev" from server<STEAM_0:0:21670625>
+[08:50:47] kudalev suicided!
+[08:51:34] rty000pro to admins: АЛЁ ПОЧИНИТЕ НАМ СТОЛИЦУ ОНА ЗАБАГОВАННА
+[08:51:38] FRED01 killed rty000pro using tfa_doik98
+[08:52:16] Client "J.F Jane Doe" connected.
+[08:53:52] rty000pro killed Egor using tfa_doistg44
+[08:54:28] FRED01 killed Egor using tfa_doik98
+[08:55:55] Client "яя не гитлир" connected.
+[08:56:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[08:56:32] Client "АГЕНТ БАРАБУЛЬКА" connected.
+[08:57:02] Client "яя не гитлир" spawned in server <STEAM_0:0:845922848> (took 67 seconds).
+[08:58:03] Client "АГЕНТ БАРАБУЛЬКА" spawned in server <STEAM_0:1:795233711> (took 91 seconds).
+[09:00:44] яя не гитлир killed АГЕНТ БАРАБУЛЬКА using tfa_doistg44
+[09:00:45] rty000pro killed Egor using tfa_doistg44
+[09:01:06] яя не гитлир killed Egor using tfa_doistg44
+[09:01:08] RusLanConnection cloaked Themself by amount 0
+[09:01:25] rty000pro killed beliash using tfa_doistg44
+[09:01:29] Dropped "Egor" from server<STEAM_0:0:845226198>
+[09:01:29] Egor suicided!
+[09:01:29] Dropped "beliash" from server<STEAM_0:0:822301453>
+[09:01:29] beliash suicided!
+[09:02:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmortarshell
+[09:02:47] Bigbarsik223: Я НЕ СЛЫШУ
+[09:02:52] rty000pro: СТОЯТ
+[09:02:54] Bigbarsik223: Я СТАРЫЙ ГЛУХОЙ ДЕД
+[09:02:57] rty000pro: КТО ТАКОВ?
+[09:03:01] Bigbarsik223: ДЕД
+[09:03:13] Bigbarsik223: ГРИБЫ СОБИРАЮ
+[09:04:18] Redoket teleported to RusLanConnection
+[09:04:19] Redoket teleported to RusLanConnection
+[09:04:19] Redoket teleported to RusLanConnection
+[09:04:20] Redoket teleported to RusLanConnection
+[09:04:41] Client "Voyager901" connected.
+[09:04:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[09:06:05] Client "J.F Jane Doe" spawned in server <STEAM_0:0:941082118> (took 829 seconds).
+[09:06:13] Bigbarsik223 suicided!
+[09:06:28] Dropped "яя не гитлир" from server<STEAM_0:0:845922848>
+[09:06:28] яя не гитлир suicided!
+[09:06:49] FRED01 killed АГЕНТ БАРАБУЛЬКА using tfa_doik98
+[09:07:37] RusLanConnection suicided!
+[09:07:51] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[09:07:57] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[09:08:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[09:08:16] Redoket: !memu
+[09:08:19] Redoket: !menu
+[09:08:49] АГЕНТ БАРАБУЛЬКА killed Bigbarsik223 using rust_boltrifle
+[09:08:57] Redoket teleported to RusLanConnection
+[09:09:07] rty000pro suicided!
+[09:09:07] rty000pro killed J.F Jane Doe using ent_jack_gmod_ezhebomb
+[09:09:12] Redoket was killed by build_prop
+[09:09:44] Dropped "АГЕНТ БАРАБУЛЬКА" from server<STEAM_0:1:795233711>
+[09:09:44] АГЕНТ БАРАБУЛЬКА suicided!
+[09:10:54] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[09:11:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[09:11:20] RusLanConnection set the hp for Themself to 6041
+[09:11:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[09:11:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[09:12:04] FRED01 killed rty000pro using tfa_doik98
+[09:12:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[09:12:20] rty000pro killed FRED01 using player
+[09:12:29] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[09:12:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[09:12:44] Bigbarsik223 was killed by ent_jack_gmod_ezsticknade
+[09:12:56] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[09:13:11] rty000pro killed Redoket using tfa_doistg44
+[09:13:13] RusLanConnection teleported to vasiliy karat
+[09:13:20] RusLanConnection uncloaked Themself
+[09:13:33] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[09:13:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[09:13:45] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[09:13:49] rty000pro suicided!
+[09:13:49] rty000pro killed FRED01 using ent_jack_gmod_ezhebomb
+[09:13:52] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[09:14:01] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[09:14:10] vasiliy karat: я не могу попасть давай ты
+[09:14:23] vasiliy karat: ему
+[09:14:29] vasiliy karat: вот
+[09:14:32] vasiliy karat: опять это говно
+[09:14:34] Redoket: !menu
+[09:14:36] vasiliy karat: люди орут просто так
+[09:14:36] Redoket teleported to RusLanConnection
+[09:14:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[09:15:23] J.F Jane Doe killed vasiliy karat using tfa_doic96
+[09:15:30] Redoket killed J.F Jane Doe using tfa_doienfield
+[09:15:50] vasiliy karat: все
+[09:15:54] vasiliy karat: редокет вступай
+[09:15:56] vasiliy karat: идем на войну
+[09:16:04] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_adrianhead
+[09:16:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_mtorso
+[09:16:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_metalpot
+[09:16:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_adrianhead
+[09:16:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[09:16:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_nvgs
+[09:16:22] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_pouch
+[09:16:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_radiobackpack
+[09:16:37] vasiliy karat: вступат
+[09:17:28] vasiliy karat: командование дало нам 10 милионов
+[09:17:31] vasiliy karat: не подведем хи
+[09:17:34] vasiliy karat: их
+[09:17:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[09:17:45] vasiliy karat: это я от себя
+[09:17:47] vasiliy karat: добавил
+[09:17:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[09:18:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezshovel
+[09:18:13] Client "Voyager901" spawned in server <STEAM_0:0:778103855> (took 812 seconds).
+[09:18:51] vasiliy karat: нам надоело тестить мы на войну
+[09:19:23] RusLanConnection suicided!
+[09:20:06] Bigbarsik223 was killed by ent_jack_gmod_ezfalloutparticle
+[09:20:11] vasiliy karat was killed by lvs_wheeldrive_citroen_type23
+[09:20:21] vasiliy karat: руслан
+[09:20:26] vasiliy karat: мы на вайну с врагами ехали
+[09:20:28] vasiliy karat: а ты нас убил
+[09:20:31] rty000pro was killed by build_prop
+[09:20:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[09:20:37] vasiliy karat: ф4
+[09:20:41] Bigbarsik223 killed J.F Jane Doe using ent_jack_gmod_ezlandmine
+[09:20:41] Bigbarsik223 suicided!
+[09:20:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_nazihead
+[09:20:48] Client "maksumkolesnukov022" connected.
+[09:20:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_mtorso
+[09:20:57] vasiliy karat: нам выдал центр
+[09:20:59] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_radiobackpack
+[09:21:03] vasiliy karat: все
+[09:21:07] RusLanConnection teleported to Redoket
+[09:21:09] vasiliy karat: редокет выжил
+[09:21:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[09:21:15] rty000pro suicided!
+[09:21:15] FRED01 suicided!
+[09:21:15] J.F Jane Doe suicided!
+[09:21:15] RusLanConnection suicided!
+[09:21:15] Redoket suicided!
+[09:21:15] Bigbarsik223 suicided!
+[09:21:15] vasiliy karat suicided!
+[09:21:15] Voyager901 suicided!
+[09:21:15] RusLanConnection slayed Everyone
+[09:21:15] RusLanConnection: !slay *
+[09:21:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[09:21:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_mtorso
+[09:21:29] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_nazihead
+[09:21:33] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 45 seconds).
+[09:21:39] vasiliy karat: мы какая наци
+[09:21:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezworkbench
+[09:21:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[09:21:55] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[09:21:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgas
+[09:22:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[09:22:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[09:22:13] Dropped "J.F Jane Doe" from server<STEAM_0:0:941082118>
+[09:22:13] J.F Jane Doe suicided!
+[09:22:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[09:22:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[09:22:22] vasiliy karat: все поехали
+[09:22:26] vasiliy karat: пехотная мясорубка
+[09:22:32] Bigbarsik223 suicided!
+[09:22:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_radiobackpack
+[09:22:47] Redoket killed maksumkolesnukov022 using tfa_doig43
+[09:23:00] vasiliy karat: погнали
+[09:23:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[09:23:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[09:23:10] maksumkolesnukov022: надо врага бит
+[09:23:17] Bigbarsik223 suicided!
+[09:23:17] Bigbarsik223 killed maksumkolesnukov022 using ent_jack_gmod_ezlandmine
+[09:23:17] Bigbarsik223 killed rty000pro using ent_jack_gmod_ezlandmine
+[09:23:17] Bigbarsik223 killed FRED01 using env_explosion
+[09:23:24] vasiliy karat: нам срочна мобилизация
+[09:23:24] Dropped "FRED01" from server<STEAM_0:1:767661328>
+[09:23:24] FRED01 suicided!
+[09:23:26] vasiliy karat: ало
+[09:23:34] Bigbarsik223 killed maksumkolesnukov022 using ent_jack_gmod_ezlandmine
+[09:23:59] maksumkolesnukov022: атакуем
+[09:24:04] maksumkolesnukov022: они нубы
+[09:24:08] maksumkolesnukov022: машину закажи
+[09:24:11] maksumkolesnukov022: ща убём
+[09:24:32] vasiliy karat: победа
+[09:24:32] maksumkolesnukov022 killed rty000pro using tfa_doig43
+[09:24:39] vasiliy karat: рслан тут победа
+[09:24:46] vasiliy karat: столица
+[09:24:52] vasiliy karat: синия
+[09:25:15] RusLanConnection teleported to maksumkolesnukov022
+[09:25:27] RusLanConnection teleported to vasiliy karat
+[09:25:38] maksumkolesnukov022 uncloaked RusLanConnection
+[09:25:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[09:25:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfurnace
+[09:25:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[09:26:00] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[09:26:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[09:26:07] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[09:26:30] maksumkolesnukov022: пешком
+[09:26:48] maksumkolesnukov022 to admins: ало какой вайп
+[09:26:50] maksumkolesnukov022 to admins: вайна
+[09:26:54] Bigbarsik223 suicided!
+[09:27:01] Redoket killed Voyager901 using tfa_doig43
+[09:27:16] vasiliy karat: руслан ты ждещ обновление гарисмод
+[09:27:36] RusLanConnection: а что там
+[09:27:39] maksumkolesnukov022: пошли
+[09:27:40] maksumkolesnukov022: танк
+[09:27:45] vasiliy karat: там типо э
+[09:28:08] vasiliy karat: незнаю там э лимиты нетов повысят кароче
+[09:28:13] vasiliy karat: и не будет пинг
+[09:28:17] vasiliy karat: не будет лагов
+[09:28:26] vasiliy karat: плюс еще разработчик пришел из сандбокса
+[09:28:48] vasiliy karat: я болен
+[09:28:50] vasiliy karat: я в госпитл
+[09:28:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[09:28:55] maksumkolesnukov022 killed Redoket using lvs_pz38t_mow
+[09:28:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznutrients
+[09:29:09] vasiliy karat: фаина фаина
+[09:29:11] maksumkolesnukov022 killed Redoket using lvs_pz38t_mow
+[09:29:12] vasiliy karat: фаина
+[09:29:15] vasiliy karat: тамк
+[09:29:18] vasiliy karat: тан тамк
+[09:30:13] vasiliy karat killed maksumkolesnukov022 using lvs_su85_tb
+[09:30:13] vasiliy karat was killed by lvs_pz38t_mow
+[09:30:17] Dropped "Voyager901" from server<STEAM_0:0:778103855>
+[09:30:17] Voyager901 suicided!
+[09:30:34] rty000pro killed vasiliy karat using tfa_doig43
+[09:30:45] rty000pro killed Redoket using tfa_doig43
+[09:30:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznutrients
+[09:30:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezifakpacket
+[09:31:05] rty000pro killed Redoket using tfa_doig43
+[09:31:14] Redoket killed rty000pro using tfa_doienfield
+[09:31:21] vasiliy karat: говно турели опять
+[09:31:23] vasiliy karat: не починили
+[09:31:35] maksumkolesnukov022 killed Redoket using tfa_doig43
+[09:31:43] Redoket killed maksumkolesnukov022 using tfa_doienfield
+[09:31:57] rty000pro: supply radio: mobilization
+[09:32:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezarmor_radiobackpack
+[09:32:04] maksumkolesnukov022: ало могилизацию
+[09:34:05] maksumkolesnukov022: ну так закажи
+[09:34:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[09:35:08] Redoket killed Bigbarsik223 using tfa_doienfield
+[09:35:14] Bigbarsik223 killed Redoket using ent_jack_gmod_ezlandmine
+[09:35:23] Dropped "Bigbarsik223" from server<STEAM_0:0:652203298>
+[09:35:23] Bigbarsik223 suicided!
+[09:35:25] maksumkolesnukov022 killed Redoket using tfa_doimp40
+[09:35:34] rty000pro suicided!
+[09:35:37] vasiliy karat killed maksumkolesnukov022 using tfa_doienfield
+[09:35:59] maksumkolesnukov022 killed rty000pro using tfa_doi_marinebayonet
+[09:36:13] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[09:36:24] rty000pro to admins: Максим тепни меня
+[09:36:28] rty000pro to admins: Я застрял
+[09:36:29] maksumkolesnukov022 to admins: абайдёшьс
+[09:36:55] vasiliy karat: ПАДАВЛЯЙ
+[09:37:06] vasiliy karat killed maksumkolesnukov022 using tfa_doienfield
+[09:37:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[09:37:19] maksumkolesnukov022 killed rty000pro using tfa_doi_marinebayonet
+[09:37:27] maksumkolesnukov022: хватит застревать
+[09:37:30] vasiliy karat: а так и задумано что аптечкаъ
+[09:37:33] vasiliy karat: птср вызвает
+[09:38:23] RusLanConnection killed maksumkolesnukov022 using tfa_doim1912
+[09:38:29] vasiliy karat: ай нид
+[09:38:30] vasiliy karat: апте
+[09:38:51] rty000pro killed Redoket using tfa_doimp40
+[09:39:34] maksumkolesnukov022 killed vasiliy karat using tfa_doimp40
+[09:39:59] maksumkolesnukov022 killed RusLanConnection using tfa_doimp40
+[09:40:18] Redoket killed rty000pro using tfa_doienfield
+[09:40:21] Redoket killed maksumkolesnukov022 using tfa_doienfield
+[09:40:59] vasiliy karat: закажити агнеме
+[09:41:14] vasiliy karat: купите радио
+[09:41:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[09:41:18] maksumkolesnukov022 killed Redoket using tfa_doimp40
+[09:41:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[09:41:42] Redoket: supply radio: light tank
+[09:41:56] vasiliy karat: зачем танки надо пехотный захват
+[09:42:02] maksumkolesnukov022: сдавайс
+[09:42:18] maksumkolesnukov022: рано
+[09:42:25] vasiliy karat: фармить погнали
+[09:42:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_citroen_type23
+[09:43:24] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[09:43:31] vasiliy karat: сказал что починил
+[09:43:37] maksumkolesnukov022: я проверял оно меня дамажило
+[09:43:41] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[09:43:55] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[09:43:55] RusLanConnection suicided!
+[09:44:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[09:44:41] maksumkolesnukov022 killed Redoket using tfa_doi_marinebayonet
+[09:44:46] vasiliy karat killed maksumkolesnukov022 using tfa_doi_marinebayonet
+[09:44:50] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[09:44:50] Redoket suicided!
+[09:44:55] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[09:44:55] vasiliy karat suicided!
+[09:44:57] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[09:44:57] maksumkolesnukov022 suicided!
+[09:45:01] Dropped "rty000pro" from server<STEAM_0:1:593166516>
+[09:45:01] rty000pro suicided!
+[10:08:48] Client "Азгор" connected.
+[11:59:30] Client "George Floyd" connected.
+[12:01:35] Client "[|||||         ] Loading" connected.
+[12:03:11] Client "[|||||         ] Loading" spawned in server <STEAM_0:0:63578334> (took 96 seconds).
+[12:04:29] [|||||         ] Loading: !ьщев
+[12:04:42] [|||||         ] Loading: !Motd\
+[12:04:49] [|||||         ] Loading: !motd
+[12:06:26] Client "George Floyd" spawned in server <STEAM_0:1:611262437> (took 416 seconds).
+[12:07:56] George Floyd: привет
+[12:07:59] [|||||         ] Loading: прив
+[12:08:03] George Floyd: чего
+[12:08:09] George Floyd: ебать тут озвучка
+[12:08:23] George Floyd: а кто ты
+[12:08:39] [|||||         ] Loading: я тут новичёк. а ты?
+[12:08:45] George Floyd: я тоже
+[12:09:10] George Floyd: погоди щас перезайду
+[12:09:13] Dropped "George Floyd" from server<STEAM_0:1:611262437>
+[12:09:13] George Floyd suicided!
+[12:09:14] [|||||         ] Loading: ок
+[12:10:50] Client "George Floyd" connected.
+[12:11:28] Client "George Floyd" spawned in server <STEAM_0:1:611262437> (took 38 seconds).
+[12:11:56] Dropped "George Floyd" from server<STEAM_0:1:611262437>
+[12:11:56] George Floyd suicided!
+[12:34:02] [|||||         ] Loading: supply radio: fulton-crate
+[12:34:13] [|||||         ] Loading: supply radio: fulton-crate
+[13:15:23] [|||||         ] Loading: supply radio: fulton-crate
+[15:03:37] [|||||         ] Loading killed [|||||         ] Loading
+[15:05:15] Dropped "[|||||         ] Loading" from server<STEAM_0:0:63578334>
+[15:05:15] [|||||         ] Loading suicided!

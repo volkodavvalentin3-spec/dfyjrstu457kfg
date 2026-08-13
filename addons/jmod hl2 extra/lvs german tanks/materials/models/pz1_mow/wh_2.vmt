@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\pz1_mow\wh_2"
+	
+	"$alphatest" "1"
+}

@@ -1,0 +1,2985 @@
+<Logging continued from "data/ulx_logs/09-02-25.txt">
+[00:07:13] Dropped "VIJER" from server<STEAM_0:0:860750884>
+[00:07:13] VIJER suicided!
+[00:49:34] Client "солдат" connected.
+[00:50:40] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 66 seconds).
+[00:51:17] Dropped "солдат" from server<STEAM_0:0:845922848>
+[00:51:17] солдат suicided!
+[00:51:25] Client "солдат" connected.
+[00:52:05] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 40 seconds).
+[01:14:23] Dropped "солдат" from server<STEAM_0:0:845922848>
+[01:14:23] солдат suicided!
+[01:28:18] Client "VIJER" connected.
+[01:28:55] Client "VIJER" spawned in server <STEAM_0:0:860750884> (took 37 seconds).
+[01:29:21] Dropped "VIJER" from server<STEAM_0:0:860750884>
+[01:29:21] VIJER suicided!
+[01:47:53] Client "VIJER" connected.
+[01:48:25] Client "VIJER" spawned in server <STEAM_0:0:860750884> (took 32 seconds).
+[01:55:20] Dropped "VIJER" from server<STEAM_0:0:860750884>
+[01:55:20] VIJER suicided!
+[01:56:12] Client "VIJER" connected.
+[01:56:45] Client "VIJER" spawned in server <STEAM_0:0:860750884> (took 33 seconds).
+[02:12:23] VIJER: supply radio: fulton-crate
+[02:13:21] VIJER: supply radio: fulton-crate
+[02:18:33] VIJER: supply radio: car
+[02:19:09] VIJER: supply radio: car
+[02:21:28] Dropped "VIJER" from server<STEAM_0:0:860750884>
+[02:21:28] VIJER suicided!
+[02:41:35] Client "Soldier_S.C.A.F" connected.
+[02:44:44] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 189 seconds).
+[02:50:01] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[02:50:01] Soldier_S.C.A.F suicided!
+[04:10:05] Client "Польские Пряники" connected.
+[04:12:19] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 134 seconds).
+[04:13:54] Польские Пряники changed the map to gm_sro_mountain_field
+[04:13:54] Server is shutting down/changing levels.
+
+
+
+[04:14:05] New map: gm_sro_mountain_field
+[04:15:00] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 60 seconds).
+[04:15:51] Польские Пряники: 57
+[04:16:00] Польские Пряники: 65
+[04:17:17] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_wasteland/cargo_container01.mdl
+[04:17:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_wasteland/cargo_container01.mdl
+[04:17:33] Client "SUMTER" connected.
+[04:17:46] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_wasteland/cargo_container01.mdl
+[04:17:48] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_wasteland/cargo_container01.mdl
+[04:17:57] Польские Пряники: 84
+[04:18:02] Польские Пряники: 83
+[04:19:00] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituredrawer003a.mdl
+[04:19:03] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituredrawer003a.mdl
+[04:19:06] Client "SUMTER" spawned in server <STEAM_0:0:242827899> (took 93 seconds).
+[04:20:51] Польские Пряники: 195
+[04:20:53] Польские Пряники: 141
+[04:22:47] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider_new
+[04:22:48] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider_new
+[04:23:21] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider_new
+[04:23:57] Dropped "SUMTER" from server<STEAM_0:0:242827899>
+[04:23:57] SUMTER suicided!
+[04:24:18] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider_new
+[04:25:23] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituredrawer003a.mdl
+[04:25:24] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituredrawer003a.mdl
+[04:25:31] Client "SUMTER" connected.
+[04:25:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[04:26:17] Client "SUMTER" connected.
+[04:26:46] Client "feddy7535" connected.
+[04:26:55] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[04:30:31] Client "GreenPixel11" connected.
+[04:31:30] Client "SUMTER" connected.
+[04:32:31] Client "SUMTER" spawned in server <STEAM_0:0:242827899> (took 61 seconds).
+[04:35:11] Client "KayFarIK" connected.
+[04:39:59] Client "feddy7535" spawned in server <STEAM_0:1:917029933> (took 793 seconds).
+[04:42:32] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 721 seconds).
+[04:44:15] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[04:44:15] Польские Пряники suicided!
+[04:44:20] Client "KayFarIK" spawned in server <STEAM_0:0:755877437> (took 549 seconds).
+[04:44:41] Dropped "KayFarIK" from server<STEAM_0:0:755877437>
+[04:44:41] KayFarIK suicided!
+[04:46:08] Dropped "feddy7535" from server<STEAM_0:1:917029933>
+[04:46:08] feddy7535 suicided!
+[04:47:39] Client "Limitless Gregg" connected.
+[04:48:05] Client "Limitless Gregg" spawned in server <STEAM_0:0:117395677> (took 26 seconds).
+[04:49:53] GreenPixel11: А где ресурсы брать?
+[04:52:56] GreenPixel11: /me Нажал на кнопку в кормане
+[04:55:28] GreenPixel11: !motd
+[04:55:53] GreenPixel11: !motd
+[04:59:31] GreenPixel11: !motd
+[05:03:56] Dropped "SUMTER" from server<STEAM_0:0:242827899>
+[05:03:56] SUMTER suicided!
+[05:05:02] Client "бугагашенька" connected.
+[05:05:54] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 52 seconds).
+[05:07:24] бугагашенька: !motd
+[05:11:29] Client "Польские Пряники" connected.
+[05:12:36] Client "Soldier_S.C.A.F" connected.
+[05:13:01] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 92 seconds).
+[05:14:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[05:14:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[05:14:40] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 124 seconds).
+[05:19:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[05:19:13] Польские Пряники<STEAM_0:0:555258766> spawned sent sent_no_more_guessing
+[05:20:25] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[05:20:25] Польские Пряники suicided!
+[05:21:42] Client "consoleZX" connected.
+[05:23:03] Client "consoleZX" spawned in server <STEAM_0:0:926112185> (took 81 seconds).
+[05:27:00] Dropped "consoleZX" from server<STEAM_0:0:926112185>
+[05:27:00] consoleZX suicided!
+[05:27:00] Client "consoleZX" connected.
+[05:27:28] Client "consoleZX" spawned in server <STEAM_0:0:926112185> (took 28 seconds).
+[05:41:02] бугагашенька: ВЕДРО ВОЗМИ
+[05:41:03] бугагашенька: ДЯД
+[05:43:32] Client "FRED01" connected.
+[05:44:01] Client "rty000pro" connected.
+[05:44:38] Client "rty000pro" spawned in server <STEAM_0:1:593166516> (took 37 seconds).
+[05:48:07] Client "FRED01" spawned in server <STEAM_0:1:767661328> (took 275 seconds).
+[05:54:45] бугагашенька: ТУТ!
+[05:54:57] бугагашенька: ТУТ
+[05:55:01] бугагашенька: ТУТ СТАЛЬ КАРОЧЕ
+[05:55:11] бугагашенька: я сталь дела а ты воду ок?
+[05:55:16] бугагашенька: много для нас
+[05:55:23] бугагашенька: а
+[05:55:26] бугагашенька: естьэ
+[06:00:26] Soldier_S.C.A.F: кхм
+[06:00:36] Soldier_S.C.A.F: а вы тут развивались?
+[06:00:44] Soldier_S.C.A.F: у вас микро не работает
+[06:01:10] FRED01: ДА я тут развивался у ниделю назат
+[06:01:20] Soldier_S.C.A.F: мм
+[06:01:27] Soldier_S.C.A.F: ладно
+[06:01:43] Soldier_S.C.A.F: я пока на разведку
+[06:01:50] FRED01: хорошо
+[06:04:11] Soldier_S.C.A.F: здраствуйте
+[06:04:18] consoleZX: привет
+[06:04:38] Client "ggna" connected.
+[06:04:39] consoleZX: верстак не работает, не знаешь как запустить?
+[06:04:50] Soldier_S.C.A.F: ему два ресурса надо
+[06:04:54] Soldier_S.C.A.F: газ,энергия
+[06:04:56] consoleZX: ааа
+[06:05:06] Soldier_S.C.A.F: и когда будет работать
+[06:05:08] consoleZX: спасибо
+[06:05:20] Soldier_S.C.A.F: там крафтить сколько угодно можно
+[06:05:26] Soldier_S.C.A.F: к фабрикатору также
+[06:05:28] Soldier_S.C.A.F: но!
+[06:05:38] Soldier_S.C.A.F: он уже будет использывать ресурсы
+[06:05:51] Soldier_S.C.A.F: и да
+[06:06:03] Soldier_S.C.A.F: советовал бы хранить ресурсы на контейнере
+[06:06:19] Soldier_S.C.A.F: ну я пошёл
+[06:06:24] consoleZX: пока
+[06:08:12] Client "ggna" spawned in server <STEAM_0:0:935209812> (took 214 seconds).
+[06:08:33] Client "<_Кто-то2122_>" connected.
+[06:08:38] Client "Robin-" connected.
+[06:10:06] Client "Robin-" connected.
+[06:10:06] Client "Robin-" connected.
+[06:10:18] Client "<_Кто-то2122_>" spawned in server <STEAM_0:0:739548608> (took 105 seconds).
+[06:11:47] Soldier_S.C.A.F: здраствуйте
+[06:11:57] Soldier_S.C.A.F: здаров
+[06:12:02] Soldier_S.C.A.F: всё норм
+[06:12:13] Soldier_S.C.A.F: вчера был
+[06:12:20] Soldier_S.C.A.F: но мне надо было по делам
+[06:12:25] ggna: s c a f и ртуть дарова
+[06:12:34] Soldier_S.C.A.F: да уж
+[06:12:39] Soldier_S.C.A.F: ПВО мощьное сильно
+[06:12:52] FRED01: да
+[06:12:54] Soldier_S.C.A.F: ничего
+[06:13:16] Soldier_S.C.A.F: реката с JMOD это неуправляемая
+[06:13:22] Soldier_S.C.A.F: так что смысла нет
+[06:14:27] Soldier_S.C.A.F: они сломатся могут
+[06:14:39] Client "KayFarIK" connected.
+[06:14:39] Soldier_S.C.A.F: спасибо
+[06:15:00] Soldier_S.C.A.F: слушай
+[06:15:07] Soldier_S.C.A.F: я скажу так по секрету
+[06:15:30] Client "KayFarIK" spawned in server <STEAM_0:0:755877437> (took 51 seconds).
+[06:15:41] Soldier_S.C.A.F: я иза своих СШТ делал такую серию
+[06:15:52] Soldier_S.C.A.F: но скажу о чем такая серия
+[06:15:58] Soldier_S.C.A.F: вот просто взял танк
+[06:16:04] Soldier_S.C.A.F: и прицепил пару реакторов
+[06:16:16] KayFarIK: ты чо
+[06:16:18] Soldier_S.C.A.F: это лучше чем ядерка.....
+[06:16:24] KayFarIK: ох ееел?
+[06:16:30] Soldier_S.C.A.F: оно изчезать будет
+[06:16:30] KayFarIK: я тоже дать сдачи могу
+[06:16:34] Soldier_S.C.A.F: +эффект не тот
+[06:16:40] KayFarIK: Гор
+[06:16:47] Soldier_S.C.A.F: так
+[06:16:53] Soldier_S.C.A.F: раз у нас альянс
+[06:17:03] KayFarIK killed <_Кто-то2122_> using wep_jack_gmod_hands
+[06:17:05] Soldier_S.C.A.F: тогда если что вызывайте по связи
+[06:17:06] KayFarIK: я победил
+[06:17:16] <_Кто-то2122_> killed KayFarIK using wep_jack_gmod_hands
+[06:17:19] KayFarIK: ты раненого добиваешь
+[06:17:22] KayFarIK: так нечестно
+[06:18:20] KayFarIK: го в Ядерщики там рто
+[06:19:15] KayFarIK: вы ядерщики?
+[06:19:20] KayFarIK: ладно
+[06:19:24] KayFarIK: я просто их ищю
+[06:19:26] KayFarIK: Привет
+[06:19:27] Soldier_S.C.A.F: о
+[06:19:28] Soldier_S.C.A.F: здаров
+[06:19:32] KayFarIK: я тебя помню на зимней карте
+[06:19:34] KayFarIK: и тебе привет скаф
+[06:19:44] KayFarIK: я просто РТО ищю , ладно давайте удачи
+[06:19:50] Soldier_S.C.A.F: я знаю где
+[06:19:55] KayFarIK: где?
+[06:20:01] Soldier_S.C.A.F: он в том направлении
+[06:20:07] KayFarIK: SW я понял
+[06:20:09] KayFarIK: спасибо скаф
+[06:21:37] KayFarIK: Привет корейские физики , давайте ядерку делать вместе
+[06:21:44] Soldier_S.C.A.F: так ребят
+[06:21:52] KayFarIK: где
+[06:21:52] Soldier_S.C.A.F: если чо мы такая фракция
+[06:21:55] KayFarIK: вчера
+[06:21:58] Soldier_S.C.A.F: больше по партизанскому
+[06:21:59] KayFarIK: на спавне или где?
+[06:22:12] Soldier_S.C.A.F: и не прям чтобы как гига фракция
+[06:22:17] Soldier_S.C.A.F: надеюсь поняли
+[06:22:18] KayFarIK: а ну я просто до конца стою вообще пытался отбить у вас
+[06:22:25] KayFarIK: у нас вчера война была же
+[06:22:33] KayFarIK: ятак не помню там много народу было
+[06:22:43] KayFarIK: ааа
+[06:22:47] KayFarIK: всё вспомнил
+[06:22:49] Soldier_S.C.A.F: а забор зачем сверху?
+[06:22:51] KayFarIK: ну я хотел отбить просто
+[06:23:00] KayFarIK: у меня на зомбей ярость была
+[06:23:04] KayFarIK: просто
+[06:23:05] KayFarIK: лад
+[06:23:10] KayFarIK: я не терпила
+[06:23:15] KayFarIK: что
+[06:23:17] KayFarIK: лад
+[06:23:24] Soldier_S.C.A.F: так
+[06:23:28] Soldier_S.C.A.F: водички бы
+[06:24:08] Soldier_S.C.A.F: щя будет
+[06:24:37] Client "Robin-" spawned in server <STEAM_0:1:601320628> (took 871 seconds).
+[06:25:58] KayFarIK: ПРОТИВНИК!!!!
+[06:26:02] KayFarIK: я шучу
+[06:26:03] KayFarIK: хахахах
+[06:26:12] <_Кто-то2122_> killed Robin- using wep_jack_gmod_hands
+[06:26:34] KayFarIK: я сотрудник совкомбанка
+[06:27:42] KayFarIK: кто то
+[06:27:47] KayFarIK: успокойся
+[06:27:49] KayFarIK: пппц
+[06:27:57] KayFarIK: или это не он я хз
+[06:28:06] KayFarIK: отвтеь
+[06:28:23] <_Кто-то2122_>: я долбаеб
+[06:28:28] KayFarIK: хахах
+[06:28:34] бугагашенька killed <_Кто-то2122_> using tfa_doispringfield
+[06:28:37] KayFarIK: ДАкр рп момент
+[06:28:44] rty000pro killed бугагашенька using tfa_doispringfield
+[06:28:46] KayFarIK: он мой скин взял
+[06:29:40] Soldier_S.C.A.F: так
+[06:29:47] Soldier_S.C.A.F: кароч мне надо чтобы вы добыли воду
+[06:29:49] Soldier_S.C.A.F: с кирки
+[06:30:01] Soldier_S.C.A.F: я пока подготовлю убежище
+[06:30:08] Robin- was killed by ent_jack_gmod_ezfalloutparticle
+[06:30:27] Soldier_S.C.A.F: ты про что?
+[06:30:36] KayFarIK: что
+[06:32:24] Soldier_S.C.A.F: чего?
+[06:32:33] Soldier_S.C.A.F: как обычно
+[06:32:37] Client "Loncaus" connected.
+[06:33:14] Client "Loncaus" spawned in server <STEAM_0:0:96256132> (took 37 seconds).
+[06:33:49] KayFarIK: у нашего половина нет вообще образования
+[06:33:56] KayFarIK: давайте по приколу станем игиловцами 
+[06:33:59] KayFarIK: будем взрывать
+[06:34:36] Soldier_S.C.A.F: куда!
+[06:34:53] Soldier_S.C.A.F: эй!
+[06:34:58] Soldier_S.C.A.F: вы что забыли
+[06:35:08] Soldier_S.C.A.F: СТОЯТЬ СУКА
+[06:35:12] KayFarIK: 1к патрон думаю хватит
+[06:35:13] Soldier_S.C.A.F killed Loncaus using tfa_doienfield_scop
+[06:35:23] KayFarIK: привет фалуту 3
+[06:35:48] KayFarIK: я голосую за ИГИЛовцы
+[06:35:54] KayFarIK: ладно я рофлю
+[06:35:55] Robin-: Новый рассвет
+[06:35:56] KayFarIK: я вообще не голосую
+[06:36:27] consoleZX: дарова
+[06:36:41] consoleZX: КУДА
+[06:36:45] KayFarIK: зачем взяли
+[06:36:50] Client "RusLanConnection" connected.
+[06:36:55] consoleZX: просто разведка
+[06:36:58] Soldier_S.C.A.F: интересный поворот х1
+[06:36:59] KayFarIK: мне кажется он игиловец
+[06:37:04] KayFarIK: у него пушки взрывные
+[06:37:13] KayFarIK: ахахахах
+[06:37:20] Client "FPlayer05" connected.
+[06:37:29] Soldier_S.C.A.F: фабрикотор есть!
+[06:38:02] Soldier_S.C.A.F: ребят
+[06:38:07] Soldier_S.C.A.F: добудте мне воды
+[06:38:40] KayFarIK: я на патроны ресы потратил
+[06:38:47] Soldier_S.C.A.F: кто щяс ехал?
+[06:39:02] KayFarIK: я тогда розвидка
+[06:39:04] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 134 seconds).
+[06:39:14] Client "Sannanore" connected.
+[06:39:42] Soldier_S.C.A.F: что
+[06:39:48] Soldier_S.C.A.F: добывай
+[06:39:59] Soldier_S.C.A.F: +attck прописывешь в консоль
+[06:40:02] Soldier_S.C.A.F: и так добывай
+[06:40:26] Dropped "<_Кто-то2122_>" from server<STEAM_0:0:739548608>
+[06:40:26] <_Кто-то2122_> suicided!
+[06:40:49] Client "Sannanore" spawned in server <STEAM_0:1:52589208> (took 95 seconds).
+[06:41:51] RusLanConnection cloaked Themself by amount 0
+[06:42:05] Client "<_Кто-то2122_>" connected.
+[06:42:08] Client "†ŠẄǺĜ†🆅🅰🅻🆅" connected.
+[06:42:59] Sannanore: /logs
+[06:43:18] Soldier_S.C.A.F: пойдет
+[06:43:55] Client "<_Кто-то2122_>" spawned in server <STEAM_0:0:739548608> (took 110 seconds).
+[06:44:12] Dropped "Robin-" from server<STEAM_0:1:601320628>
+[06:44:12] Robin- suicided!
+[06:44:57] Soldier_S.C.A.F: так
+[06:45:01] Soldier_S.C.A.F: следите пока за убежищем
+[06:45:14] Client "Robin-" connected.
+[06:45:35] KayFarIK: консольщик странный по мне сстреляет почему то
+[06:45:41] KayFarIK: у него еще турель стоит
+[06:46:00] Client "Robin-" spawned in server <STEAM_0:1:601320628> (took 46 seconds).
+[06:46:31] <_Кто-то2122_> killed Robin- using wep_jack_gmod_hands
+[06:46:41] Soldier_S.C.A.F: я прибыл
+[06:47:08] Soldier_S.C.A.F:  аэти кто?
+[06:47:19] KayFarIK: прив
+[06:47:55] Soldier_S.C.A.F: хм
+[06:47:56] Limitless Gregg killed Sannanore using tfa_doisw1917
+[06:48:00] Soldier_S.C.A.F: суть разведки получается
+[06:48:48] Soldier_S.C.A.F: угу
+[06:48:57] FRED01 killed ggna using tfa_doiwelrod
+[06:49:06] Soldier_S.C.A.F: 10к пока устраивовает?
+[06:49:16] Soldier_S.C.A.F: так
+[06:49:27] Soldier_S.C.A.F: к какой фракции будет имется дело?
+[06:49:38] Soldier_S.C.A.F: хм
+[06:49:43] Robin- killed <_Кто-то2122_> using wep_jack_gmod_ezpickaxe
+[06:49:49] Soldier_S.C.A.F: я видел базу соседей рядом с вами
+[06:50:01] Client "stolid_nurturee" connected.
+[06:50:08] Robin-: я его случайно убил
+[06:50:18] Soldier_S.C.A.F: понял
+[06:50:28] Soldier_S.C.A.F: так точно
+[06:51:07] Client "†ŠẄǺĜ†🆅🅰🅻🆅" spawned in server <STEAM_0:1:63727193> (took 539 seconds).
+[06:51:42] Soldier_S.C.A.F: есть тут кто?
+[06:51:56] Soldier_S.C.A.F: ауу
+[06:53:11] KayFarIK: скаф а что за работа наемником?
+[06:53:18] Soldier_S.C.A.F: ну
+[06:53:25] Soldier_S.C.A.F: как бы люди нанимаются
+[06:53:34] Soldier_S.C.A.F: и дедают разную грязную работу
+[06:53:37] KayFarIK: ооо
+[06:53:40] Limitless Gregg killed Loncaus using tfa_doisw1917
+[06:53:41] KayFarIK: я как раз люблю ПВПхатся
+[06:53:44] Soldier_S.C.A.F: опа
+[06:53:51] Soldier_S.C.A.F: а у этих явно что-то не хорошие
+[06:53:58] KayFarIK: наверное
+[06:54:20] Soldier_S.C.A.F: ау люди
+[06:54:26] Soldier_S.C.A.F: вы что там промышляете?
+[06:54:28] KayFarIK: Корея привет
+[06:54:47] KayFarIK: игнор
+[06:54:52] KayFarIK: а
+[06:54:57] Soldier_S.C.A.F: хм
+[06:55:01] Client "patrikalkas" connected.
+[06:55:16] KayFarIK: ну так тебе требуются мерки или нет?
+[06:55:31] Soldier_S.C.A.F: да от денег я бы не отказался
+[06:55:34] Soldier_S.C.A.F: а так пока пойду
+[06:55:41] KayFarIK: ну ладно если что скажи я проиду
+[06:55:43] Soldier_S.C.A.F: если надо вызывай по связи
+[06:55:44] KayFarIK: приду
+[06:55:46] KayFarIK: ок
+[06:56:22] Dropped "ggna" from server<STEAM_0:0:935209812>
+[06:56:22] ggna suicided!
+[06:56:26] Soldier_S.C.A.F: ребят!
+[06:56:31] Soldier_S.C.A.F: есть важная новость
+[06:56:37] Soldier_S.C.A.F: в общем
+[06:56:41] Soldier_S.C.A.F: у тех соседей
+[06:56:47] Soldier_S.C.A.F: есть центрифуга
+[06:57:04] Soldier_S.C.A.F: не знаю даже
+[06:57:12] Soldier_S.C.A.F: но они очень изолированы
+[06:57:23] Soldier_S.C.A.F: и очень не дружат...
+[06:57:26] Client "ggna" connected.
+[06:57:26] KayFarIK: у нас соседи там
+[06:57:30] KayFarIK: просто
+[06:57:31] KayFarIK: а
+[06:57:33] KayFarIK: хз
+[06:57:37] KayFarIK: консоль по мне стрелял
+[06:57:39] KayFarIK: почпму-то
+[06:57:40] KayFarIK: уран нет
+[06:58:05] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 184 seconds).
+[06:58:47] Client "ggna" spawned in server <STEAM_0:0:935209812> (took 81 seconds).
+[06:59:31] KayFarIK: куда собираетесь?
+[07:00:37] KayFarIK: ок
+[07:00:49] KayFarIK: турбин стены?
+[07:00:57] KayFarIK: я не понял
+[07:01:00] KayFarIK: бур японял
+[07:01:06] KayFarIK: хаха
+[07:01:08] KayFarIK: ок
+[07:01:19] Soldier_S.C.A.F: НАРОД У ВАС БОЛЬШАЯ ПРОБЛЕМА
+[07:01:27] Soldier_S.C.A.F: у них скоро ядерка будет!
+[07:01:49] Soldier_S.C.A.F: они за счёт того что уран заказывали
+[07:01:57] Soldier_S.C.A.F: создали ядерный ресурс
+[07:02:04] Soldier_S.C.A.F: так что делайте ПВО
+[07:02:07] Soldier_S.C.A.F: если жить охота
+[07:02:31] KayFarIK: 0 пластика
+[07:02:36] бугагашенька: НЕФТЬ
+[07:02:38] бугагашенька: СУКА
+[07:02:40] бугагашенька: можно
+[07:02:40] KayFarIK: купим
+[07:02:46] Soldier_S.C.A.F: да я
+[07:02:51] Soldier_S.C.A.F: баг такой
+[07:03:07] KayFarIK: оч дешевый кста
+[07:03:49] KayFarIK: лда
+[07:03:59] KayFarIK: я б турель поставил
+[07:04:21] KayFarIK: хватит труьб?
+[07:04:24] KayFarIK: хватит труб?
+[07:04:30] KayFarIK: ок
+[07:04:36] KayFarIK: ок
+[07:04:39] KayFarIK: давай автоматы яд умаю
+[07:04:44] KayFarIK: винтовка только для метких
+[07:04:50] KayFarIK: у меня нет физгана щас зарешаю
+[07:05:17] Soldier_S.C.A.F: я понял откуда ядерка есть
+[07:05:21] Soldier_S.C.A.F: у них залежа урана
+[07:05:37] Soldier_S.C.A.F: а ещё турель имейется
+[07:06:22] KayFarIK: ты скалолаз?
+[07:06:25] Soldier_S.C.A.F: да
+[07:06:27] KayFarIK: ахах
+[07:07:15] Robin-: jr
+[07:07:18] Robin-: ok
+[07:07:54] Soldier_S.C.A.F to admins: чтож войны пока не намечается
+[07:08:49] Soldier_S.C.A.F: здаров
+[07:08:53] Soldier_S.C.A.F: че как щяс
+[07:08:57] KayFarIK: это наш же
+[07:08:57] KayFarIK: там
+[07:09:15] Soldier_S.C.A.F: понял
+[07:09:27] RusLanConnection teleported to бугагашенька
+[07:09:37] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_combine_s
+[07:09:46] KayFarIK: НПС
+[07:10:03] Soldier_S.C.A.F: здаров патрик
+[07:10:09] KayFarIK: машинат ам была
+[07:10:10] RusLanConnection teleported to rty000pro
+[07:10:13] KayFarIK: чужая
+[07:10:14] Soldier_S.C.A.F: пиздец...
+[07:10:37] rty000pro: ДААА
+[07:10:38] KayFarIK: оовтеь мне
+[07:10:41] Soldier_S.C.A.F: так
+[07:10:44] KayFarIK: почему ты по мне стрелял?
+[07:10:46] consoleZX: можно к вам в сквад?
+[07:10:47] (TEAM) rty000pro: Сука до говорился
+[07:10:50] Soldier_S.C.A.F: надо навязывать прозводство химикатов
+[07:10:50] consoleZX: а?
+[07:11:00] KayFarIK: ну я был там фиолетвый кляйнер с турелью по мне стрелял
+[07:11:03] KayFarIK: я убежал
+[07:11:04] consoleZX: я по посторонним стреляю у базы
+[07:11:09] KayFarIK: а
+[07:11:11] KayFarIK: ок хапомню
+[07:11:13] consoleZX: это предупредительный
+[07:11:16] Soldier_S.C.A.F: да нахер закрывать
+[07:11:21] Soldier_S.C.A.F: у нас не военное время
+[07:11:28] consoleZX: к вам в сквад можно?
+[07:11:30] rty000pro: ПОМОГИТЕ
+[07:11:40] consoleZX: ща натаскаю вещей
+[07:11:42] KayFarIK: хватит удалять мешки 
+[07:11:43] Soldier_S.C.A.F: ты как помер
+[07:11:44] rty000pro: ПОМОГИТЕ БЛЯТЬ
+[07:11:51] rty000pro: ПОМОГИТЕ
+[07:11:52] Client "солдат" connected.
+[07:11:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[07:11:54] Soldier_S.C.A.F: инсульт жопы
+[07:11:55] бугагашенька: ты тут?
+[07:11:56] rty000pro: ПОМОГИТЕ
+[07:12:00] бугагашенька: КАК
+[07:12:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[07:12:08] бугагашенька: ТЫ ИДЕШ ЗА НИМ?
+[07:12:11] rty000pro: РУСЛАН МЕНЯ ПРОКЛЯЛ
+[07:12:15] бугагашенька: ПИЗДЕЦ
+[07:12:25] Soldier_S.C.A.F: ЧЕГО
+[07:12:27] KayFarIK: что там?
+[07:12:33] бугагашенька: МИНУС ЭТОТ
+[07:12:35] rty000pro: Блять не надо
+[07:12:38] бугагашенька: ЭТОТ ПОПКОРН
+[07:12:43] бугагашенька: ЭТО РТИКС
+[07:12:47] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 55 seconds).
+[07:13:04] rty000pro: Молитесь руслану что бы он меня расколдавал
+[07:13:32] Soldier_S.C.A.F: органику можно заказывать
+[07:14:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[07:14:09] Soldier_S.C.A.F: это иза потолка
+[07:14:28] Soldier_S.C.A.F to admins: интересный поворот х1
+[07:14:37] бугагашенька: тебя не слышно
+[07:14:38] KayFarIK: кста факт он может сьесть самого себя
+[07:14:39] Soldier_S.C.A.F: здаров малой
+[07:14:41] rty000pro suicided!
+[07:14:43] GreenPixel11: У них 2 ед ядерных бомб.
+[07:14:59] Client "6JlatHou_Xo4et_nepHytb" connected.
+[07:15:05] Soldier_S.C.A.F: да
+[07:15:14] Soldier_S.C.A.F: дофига от чего
+[07:15:19] Soldier_S.C.A.F: так
+[07:15:25] Soldier_S.C.A.F: ты солдат у нас так будешь
+[07:15:29] Soldier_S.C.A.F: на посту стоять
+[07:15:32] Soldier_S.C.A.F: да поручения делать
+[07:16:02] KayFarIK: надо пво делать
+[07:16:05] Soldier_S.C.A.F: болтовки лишние
+[07:16:06] Client "6JlatHou_Xo4et_nepHytb" spawned in server <STEAM_0:0:121139403> (took 67 seconds).
+[07:16:10] KayFarIK: тунгуса нет
+[07:16:27] Soldier_S.C.A.F: иногда да
+[07:16:58] Soldier_S.C.A.F: что именно?
+[07:17:08] Soldier_S.C.A.F: через инвентарь
+[07:17:12] Soldier_S.C.A.F: пкм
+[07:17:22] Soldier_S.C.A.F: и нажать toggle
+[07:17:28] Soldier_S.C.A.F: а нет
+[07:17:31] Soldier_S.C.A.F: просто левым кликом
+[07:18:09] Dropped "consoleZX" from server<STEAM_0:0:926112185>
+[07:18:09] consoleZX suicided!
+[07:18:21] Soldier_S.C.A.F: винтовочные
+[07:19:03] 6JlatHou_Xo4et_nepHytb: !motd
+[07:19:09] 6JlatHou_Xo4et_nepHytb: !motd
+[07:19:11] 6JlatHou_Xo4et_nepHytb: !motd
+[07:19:51] Soldier_S.C.A.F: пока нет
+[07:19:55] Soldier_S.C.A.F: так ладно
+[07:19:58] Soldier_S.C.A.F: пока на посту стой
+[07:20:42] Client "Toxa" connected.
+[07:20:43] Soldier_S.C.A.F: как закончилась...
+[07:21:24] Soldier_S.C.A.F: у нас топлива нет
+[07:21:44] Client "Toxa" spawned in server <STEAM_0:0:33704276> (took 62 seconds).
+[07:21:56] KayFarIK: нету золтааа
+[07:22:06] KayFarIK: если хватит
+[07:22:13] KayFarIK: 50 едениц
+[07:24:10] <_Кто-то2122_>: !motd
+[07:24:16] Robin-: !motd
+[07:24:52] Client "vasiliy karat" connected.
+[07:25:06] 6JlatHou_Xo4et_nepHytb: !motd
+[07:25:32] KayFarIK: капец я майнкрафтер
+[07:25:38] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 46 seconds).
+[07:25:55] Soldier_S.C.A.F: сверху
+[07:27:34] Soldier_S.C.A.F: да я итак знаю
+[07:28:36] Client "kosmokot" connected.
+[07:28:37] Dropped "†ŠẄǺĜ†🆅🅰🅻🆅" from server<STEAM_0:1:63727193>
+[07:28:37] †ŠẄǺĜ†🆅🅰🅻🆅 suicided!
+[07:29:17] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[07:29:17] GreenPixel11 suicided!
+[07:30:41] <_Кто-то2122_>: да
+[07:30:45] <_Кто-то2122_>: но
+[07:31:18] <_Кто-то2122_>: только потому что если будет у меня конфликт подумают на вас
+[07:31:33] Robin-: а нам это не надро
+[07:31:34] бугагашенька: а с кем у нас тип конфликт будет???
+[07:31:36] <_Кто-то2122_>: мне это не надо
+[07:31:40] бугагашенька: у нас 3 человека
+[07:31:43] бугагашенька: в команде
+[07:31:53] бугагашенька: 2 тоесть вы маетесь хуйней
+[07:32:01] <_Кто-то2122_>: у вас не с кем у меня возможно
+[07:32:05] Client "kosmokot" spawned in server <STEAM_0:0:41186306> (took 209 seconds).
+[07:32:32] бугагашенька: чувак, если ты играл против 1 челиков сегодня ты можеш с ними играть и 
+[07:32:44] <_Кто-то2122_>: мы в 2ем сами но и вам помагать хотим
+[07:32:44] бугагашенька: я вчера был за зомиб
+[07:32:52] Soldier_S.C.A.F: че у тебя там?
+[07:32:56] бугагашенька: это называеться отделиться
+[07:32:59] Soldier_S.C.A.F: кхм
+[07:33:08] Soldier_S.C.A.F: как это неподалеку
+[07:33:13] Soldier_S.C.A.F: откуда достал
+[07:33:13] KayFarIK: ПВО готово
+[07:33:22] бугагашенька: красавы
+[07:33:28] <_Кто-то2122_>: нет я понимаю я просто хочу отыграть групперовку из 2х человек
+[07:33:33] Soldier_S.C.A.F: это в какой стороне?
+[07:33:40] бугагашенька: это и есть отделиться блять
+[07:33:43] Soldier_S.C.A.F: хм
+[07:34:03] <_Кто-то2122_>: да..
+[07:34:13] бугагашенька: и у меня вопрос
+[07:34:20] бугагашенька: зачем вы отделяетеся???
+[07:34:27] бугагашенька: или хоть куда идете эмое
+[07:35:20] Soldier_S.C.A.F: емае
+[07:35:24] Soldier_S.C.A.F: что тут происходит?
+[07:35:48] Soldier_S.C.A.F: здаров
+[07:36:07] Soldier_S.C.A.F: я могу это ещё понять
+[07:36:16] KayFarIK: что
+[07:36:26] KayFarIK: ты нормальный?
+[07:36:31] KayFarIK: а
+[07:36:34] KayFarIK: ну извини если попал
+[07:37:59] 6JlatHou_Xo4et_nepHytb killed ggna using tfa_doimp40
+[07:38:18] KayFarIK: купить турель на озоне
+[07:38:34] Soldier_S.C.A.F: УБЛЮДОООК
+[07:38:48] Soldier_S.C.A.F: ГДЕ ОН
+[07:39:08] <_Кто-то2122_>: /me перевел оружие в оглушающий режим
+[07:39:08] Soldier_S.C.A.F: я понял!
+[07:39:27] Soldier_S.C.A.F: проверте сверху!
+[07:39:53] Soldier_S.C.A.F: погоди
+[07:40:30] Soldier_S.C.A.F: вот сука
+[07:40:34] Soldier_S.C.A.F: у нас бандит был
+[07:40:57] Soldier_S.C.A.F: БЕГОМ
+[07:41:05] Robin- suicided!
+[07:41:38] Soldier_S.C.A.F: ЗА НИМ
+[07:41:40] Toxa: мало
+[07:41:43] Toxa: 40
+[07:41:44] Toxa: вроде
+[07:41:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[07:42:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[07:42:25] Soldier_S.C.A.F: ОН У НИХ
+[07:42:49] Soldier_S.C.A.F: КТО ЖЕ
+[07:43:53] Soldier_S.C.A.F: СТОЯТЬ!
+[07:44:06] Soldier_S.C.A.F: идиот
+[07:44:12] Soldier_S.C.A.F: ты какого хуя убил нашего
+[07:44:25] Robin-: ты мне?
+[07:44:26] vasiliy karat: а
+[07:44:29] Robin-: а
+[07:44:34] Soldier_S.C.A.F: так
+[07:44:41] Soldier_S.C.A.F: изучи сервер вабще
+[07:44:55] Soldier_S.C.A.F: и да нам ублюдков не надо
+[07:45:03] Soldier_S.C.A.F: за такое наказание будет
+[07:45:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[07:45:25] Soldier_S.C.A.F: С ХУЯЛИ 
+[07:45:31] Soldier_S.C.A.F: ты в том условии
+[07:45:38] Soldier_S.C.A.F: чтобы что-то высказывать
+[07:45:54] Soldier_S.C.A.F: он тут!
+[07:46:07] солдат killed 6JlatHou_Xo4et_nepHytb using tfa_doippk
+[07:46:30] vasiliy karat: это мой куст
+[07:46:37] Soldier_S.C.A.F: не наше дело!
+[07:46:47] ggna killed 6JlatHou_Xo4et_nepHytb using tfa_doienfield
+[07:46:57] солдат killed 6JlatHou_Xo4et_nepHytb using tfa_doippk
+[07:47:22] ggna killed 6JlatHou_Xo4et_nepHytb using tfa_doiwelrod
+[07:47:29] RusLanConnection teleported to 6JlatHou_Xo4et_nepHytb
+[07:48:04] vasiliy karat: жомби
+[07:48:10] Soldier_S.C.A.F: не до этого
+[07:48:12] Soldier_S.C.A.F: разборка щяс
+[07:48:17] vasiliy karat: жомбиии
+[07:48:29] Soldier_S.C.A.F: кхм
+[07:48:35] Soldier_S.C.A.F: ещё у него фракции нет
+[07:48:58] vasiliy karat: жомби рп
+[07:49:11] Soldier_S.C.A.F: подождите
+[07:49:12] vasiliy karat: зомби
+[07:49:23] vasiliy karat: зомби правило
+[07:49:23] Soldier_S.C.A.F: кароч ситуация как-то так происходила
+[07:49:25] ggna: !motd
+[07:49:26] 6JlatHou_Xo4et_nepHytb: !motd
+[07:49:26] солдат: !motd
+[07:49:28] Soldier_S.C.A.F: !motd
+[07:49:48] vasiliy karat: зомби рп
+[07:49:50] vasiliy karat: я в куст
+[07:50:29] Soldier_S.C.A.F to admins: кароч подробная ситуация была такая
+[07:50:31] 6JlatHou_Xo4et_nepHytb: !motd
+[07:50:42] Soldier_S.C.A.F to admins: я со стороны видел как он зашёл в нашу базу
+[07:50:48] Soldier_S.C.A.F to admins: убил одного из нашего
+[07:50:59] Soldier_S.C.A.F to admins: и потом мы за ним в погоню
+[07:51:06] Soldier_S.C.A.F to admins: сам он был без базы и фракции
+[07:51:10] Soldier_S.C.A.F: я щя 
+[07:51:15] Soldier_S.C.A.F: с админу пока пишу
+[07:51:28] Soldier_S.C.A.F to admins: и потом он уже на спавне был
+[07:51:43] Soldier_S.C.A.F to admins: начел доебыватся с такими фразами
+[07:51:53] Soldier_S.C.A.F to admins: что мол школьник я то сё то это
+[07:52:01] Soldier_S.C.A.F to admins: в общем как-то так
+[07:52:16] Soldier_S.C.A.F to admins: тот ещё токсик
+[07:52:44] Dropped "солдат" from server<STEAM_0:0:845922848>
+[07:52:44] солдат suicided!
+[07:52:49] Soldier_S.C.A.F: ой
+[07:52:53] Soldier_S.C.A.F: кароч я пойду уже
+[07:52:53] RusLanConnection teleported to 6JlatHou_Xo4et_nepHytb
+[07:53:05] 6JlatHou_Xo4et_nepHytb: !motd
+[07:53:12] Client "солдат" connected.
+[07:53:17] 6JlatHou_Xo4et_nepHytb: !motd
+[07:53:25] Soldier_S.C.A.F: не могу
+[07:53:30] Soldier_S.C.A.F: я ухожу с сервера
+[07:53:35] 6JlatHou_Xo4et_nepHytb: !motd
+[07:53:35] Soldier_S.C.A.F: иза дел((
+[07:53:44] 6JlatHou_Xo4et_nepHytb: !motd
+[07:53:49] 6JlatHou_Xo4et_nepHytb: !motd
+[07:53:50] Client "sigma123 SKINBOX" connected.
+[07:53:50] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 38 seconds).
+[07:54:01] 6JlatHou_Xo4et_nepHytb: !motd
+[07:54:14] Soldier_S.C.A.F: давай тогда
+[07:54:34] KayFarIK: у нас 900
+[07:54:42] Client "sigma123 SKINBOX" spawned in server <STEAM_0:1:702729408> (took 52 seconds).
+[07:54:49] Soldier_S.C.A.F: ну
+[07:54:51] Soldier_S.C.A.F: я пошёл
+[07:55:13] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[07:55:13] Soldier_S.C.A.F suicided!
+[07:55:28] 6JlatHou_Xo4et_nepHytb was killed by ent_jack_gmod_ezsentry
+[07:55:29] Dropped "ggna" from server<STEAM_0:0:935209812>
+[07:55:29] ggna suicided!
+[07:55:40] Dropped "солдат" from server<STEAM_0:0:845922848>
+[07:55:40] солдат suicided!
+[07:56:02] sigma123 SKINBOX: але
+[07:56:33] Client "солдат" connected.
+[07:56:42] sigma123 SKINBOX: меня слышно?
+[07:56:44] 6JlatHou_Xo4et_nepHytb: да
+[07:56:46] 6JlatHou_Xo4et_nepHytb: а меня? 
+[07:56:50] 6JlatHou_Xo4et_nepHytb: пиздос
+[07:56:52] 6JlatHou_Xo4et_nepHytb: ща
+[07:56:52] KayFarIK: у нас труба оборванная
+[07:56:52] <_Кто-то2122_> killed Robin- using tfa_doisw1917
+[07:56:58] KayFarIK: а там минное поле ты не ходи туда
+[07:56:59] KayFarIK: я хз
+[07:57:09] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 36 seconds).
+[07:57:40] KayFarIK: рто
+[07:57:47] KayFarIK: я часть ту заминировал
+[07:57:49] 6JlatHou_Xo4et_nepHytb: !motd
+[07:57:50] KayFarIK: там
+[07:57:58] KayFarIK: не ходи туда
+[07:58:03] KayFarIK: а
+[07:58:07] KayFarIK: щас жнергию пнинесу
+[07:58:19] KayFarIK: вклюить его
+[07:58:19] KayFarIK: адо
+[07:58:43] KayFarIK: держи
+[07:58:54] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_combine_s
+[07:59:24] бугагашенька: СТОЙ
+[07:59:25] бугагашенька: МИНЫ
+[07:59:29] бугагашенька: СТОЙ
+[07:59:30] бугагашенька: СТОЙ
+[07:59:31] бугагашенька: МИНЫ
+[07:59:34] бугагашенька: че тебе
+[07:59:35] Limitless Gregg: Понял
+[07:59:45] бугагашенька: че такое
+[07:59:51] бугагашенька: ТУРЕЛЬ!
+[08:00:55] KayFarIK: а ну я хз
+[08:00:59] KayFarIK: ща сканер принесу
+[08:02:13] KayFarIK: рто он всё прокопал
+[08:02:16] Dropped "Toxa" from server<STEAM_0:0:33704276>
+[08:02:16] Toxa suicided!
+[08:02:20] sigma123 SKINBOX: отряд сигмы
+[08:02:25] Client "Toxa" connected.
+[08:02:42] Client "maksumkolesnukov022" connected.
+[08:02:55] Client "Toxa" spawned in server <STEAM_0:0:33704276> (took 30 seconds).
+[08:02:59] Limitless Gregg: Я его вам принес
+[08:03:13] Limitless Gregg: Его могут украсть
+[08:03:17] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 35 seconds).
+[08:03:31] vasiliy karat: впустите во фракцию пж пж 
+[08:04:34] RusLanConnection teleported to 6JlatHou_Xo4et_nepHytb
+[08:05:10] maksumkolesnukov022: нубы на спавне строяца
+[08:05:11] maksumkolesnukov022: нубасы
+[08:05:17] vasiliy karat: сам нуб иди сюда
+[08:05:22] maksumkolesnukov022: нубасик
+[08:05:45] maksumkolesnukov022: тише тише это был пранк бро рейжбайт
+[08:06:08] vasiliy karat: я павелся на так называемы й рейджбайт только потому что я хачу тебе �
+[08:06:17] vasiliy karat: лицо набить
+[08:06:31] vasiliy karat killed maksumkolesnukov022 using wep_jack_gmod_hands
+[08:07:51] vasiliy karat: пока афк посижу
+[08:07:54] sigma123 SKINBOX: supply radio: seed kit
+[08:08:23] Limitless Gregg: Я из Ирана
+[08:08:44] Limitless Gregg: Обкакался
+[08:08:49] <_Кто-то2122_> killed Limitless Gregg using tfa_doisw1917
+[08:09:54] KayFarIK killed бугагашенька using ent_jack_gmod_ezboundingmine
+[08:10:07] KayFarIK: да
+[08:10:10] KayFarIK: всё - да
+[08:10:18] KayFarIK: а зачем вы пошли туда?
+[08:10:27] KayFarIK: ну чтобы если нападали то им пипец было
+[08:10:59] KayFarIK: там дальше стоят
+[08:11:02] KayFarIK: если ты нал
+[08:11:04] KayFarIK: аккуратно
+[08:11:09] KayFarIK: как?
+[08:11:12] KayFarIK: что
+[08:11:17] KayFarIK: надо
+[08:11:24] KayFarIK: я сказал что там мины
+[08:11:29] maksumkolesnukov022: нубасы блин
+[08:11:31] 6JlatHou_Xo4et_nepHytb was killed by ent_jack_gmod_ezprimitivebench
+[08:11:50] KayFarIK: тут можно стенку построить если точку еще поставить
+[08:11:53] KayFarIK: зачем вам еще
+[08:12:07] Limitless Gregg: Здравствуйте
+[08:12:13] RusLanConnection ignited maksumkolesnukov022 for 300 seconds
+[08:12:31] sigma123 SKINBOX killed maksumkolesnukov022 using rust_boltrifle
+[08:12:31] vasiliy karat: беззубие
+[08:12:37] RusLanConnection teleported and jailed maksumkolesnukov022
+[08:12:39] vasiliy karat: надо было прекратитть его страдание
+[08:13:08] vasiliy karat: кнопка заела афеге
+[08:13:26] 6JlatHou_Xo4et_nepHytb: !motd
+[08:13:57] Limitless Gregg: Почему вы меня убили?
+[08:14:05] Client "Mr_Pyro" connected.
+[08:14:29] RusLanConnection unjailed maksumkolesnukov022
+[08:14:35] Limitless Gregg: Альт + е
+[08:14:44] Limitless Gregg: Голыми руками
+[08:14:53] Limitless Gregg: Итс овер
+[08:14:55] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 50 seconds).
+[08:15:11] Limitless Gregg: У тебя места может нет
+[08:15:13] Mr_Pyro cloaked Themself by amount 0
+[08:15:18] Mr_Pyro cloaked Themself by amount 0
+[08:15:21] Limitless Gregg: Там в слоте ведро или аптечка
+[08:15:48] vasiliy karat: раселся выходи
+[08:15:55] Mr_Pyro uncloaked Themself
+[08:15:55] Mr_Pyro uncloaked Themself
+[08:15:55] Mr_Pyro uncloaked Themself
+[08:15:55] Mr_Pyro uncloaked Themself
+[08:16:25] <_Кто-то2122_>: supply radio: global message
+[08:16:38] Limitless Gregg: Можно у вас бинокль одолжить?
+[08:16:48] maksumkolesnukov022: залей в радиатор воду
+[08:16:54] Limitless Gregg: Спасибо
+[08:17:03] Mr_Pyro cloaked Themself by amount 0
+[08:17:03] Mr_Pyro cloaked Themself by amount 0
+[08:17:04] Mr_Pyro cloaked Themself by amount 0
+[08:17:04] Mr_Pyro cloaked Themself by amount 0
+[08:17:32] vasiliy karat: это драйв бай выходим из машишы
+[08:17:37] maksumkolesnukov022: кто
+[08:17:40] maksumkolesnukov022: имя 
+[08:17:45] vasiliy karat: угон тачки 
+[08:17:49] vasiliy karat: нашей
+[08:17:50] maksumkolesnukov022: смотри там сзади ламбаргини
+[08:17:53] 6JlatHou_Xo4et_nepHytb: /drop
+[08:17:56] sigma123 SKINBOX: как текст удалять
+[08:18:02] 6JlatHou_Xo4et_nepHytb: /erase
+[08:18:04] 6JlatHou_Xo4et_nepHytb: /delete
+[08:18:06] RusLanConnection teleported to <_Кто-то2122_>
+[08:18:24] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[08:18:30] vasiliy karat: он уехал он ехал слишком быстро
+[08:18:33] vasiliy karat: я не попал
+[08:18:39] vasiliy karat: дагони
+[08:18:41] vasiliy karat: м
+[08:18:43] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfieldhospital
+[08:18:46] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbattery
+[08:18:46] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezmedsupplies
+[08:18:46] <_Кто-то2122_>: !motd
+[08:19:38] Mr_Pyro uncloaked Themself
+[08:19:38] Mr_Pyro uncloaked Themself
+[08:19:38] Mr_Pyro uncloaked Themself
+[08:19:44] vasiliy karat: я в его отряде
+[08:19:44] бугагашенька: ПОДЗЕМНАЯ МИНА
+[08:19:49] Mr_Pyro cloaked Themself by amount 0
+[08:19:55] vasiliy karat: привет
+[08:20:03] vasiliy karat: машина не проезжала
+[08:20:09] Client "Bigbarsik223" connected.
+[08:20:15] vasiliy karat: наша машина
+[08:20:24] Client "А ПО ЖОПЕ!?" connected.
+[08:21:39] Client "Chupacabr" connected.
+[08:21:52] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[08:21:55] Client "А ПО ЖОПЕ!?" spawned in server <STEAM_0:1:557416607> (took 91 seconds).
+[08:22:05] <_Кто-то2122_> killed Robin- using tfa_doisw1917
+[08:22:09] Client "Bigbarsik223" spawned in server <STEAM_0:0:652203298> (took 120 seconds).
+[08:22:13] vasiliy karat: ЭТА ОН ЛОВИ
+[08:22:14] sigma123 SKINBOX killed maksumkolesnukov022 using lvs_wheeldrive_dodwillyjeep
+[08:22:51] sigma123 SKINBOX killed А ПО ЖОПЕ!? using lvs_wheeldrive_dodwillyjeep
+[08:22:58] Dropped "6JlatHou_Xo4et_nepHytb" from server<STEAM_0:0:121139403>
+[08:22:58] 6JlatHou_Xo4et_nepHytb suicided!
+[08:23:16] vasiliy karat: ДА ВЫ РЕЗКО ЗАСПАВНИЛИСЬ
+[08:23:20] vasiliy karat: ПРЯМ ПЕРЕД ТАЧКОЙ
+[08:23:21] Limitless Gregg was killed by ent_jack_aidbox
+[08:23:21] sigma123 SKINBOX killed maksumkolesnukov022 using tfa_doimp40
+[08:23:53] Mr_Pyro to admins: максим водятел
+[08:24:13] (TEAM) sigma123 SKINBOX: найти машину
+[08:24:28] Mr_Pyro: грант зе авто 7 - лан рп едишон
+[08:24:28] vasiliy karat: руслан разбомби спавн
+[08:24:34] Mr_Pyro to admins: грант зе авто 7 - лан рп едишон
+[08:24:47] RusLanConnection teleported to maksumkolesnukov022
+[08:24:57] Mr_Pyro to admins: sigma dhjlt
+[08:24:59] maksumkolesnukov022: ку
+[08:25:05] Mr_Pyro to admins: sigma вроде
+[08:25:06] vasiliy karat: это в филме
+[08:25:10] vasiliy karat: щас вспомню
+[08:25:16] vasiliy karat: закатать в асфальт
+[08:25:53] vasiliy karat: руслан разбомби спавн
+[08:26:02] KayFarIK: а зачем вы мины убрали7
+[08:26:02] vasiliy karat: наша база
+[08:26:06] maksumkolesnukov022: а чё показат
+[08:26:11] vasiliy karat: добро пожаловать
+[08:26:12] sigma123 SKINBOX: машина проезжала здесь щас,
+[08:26:15] sigma123 SKINBOX: ?
+[08:26:15] KayFarIK: ну если от туда пойдут враги сугубо ваша вина
+[08:26:15] RusLanConnection uncloaked Themself
+[08:26:18] maksumkolesnukov022: надо 2
+[08:26:25] vasiliy karat: это наш склад
+[08:26:29] vasiliy karat: чуть правее наши крафтеры
+[08:26:38] maksumkolesnukov022: одно могут снестиц либо перегрузить систему двумя ракетами
+[08:26:49] <_Кто-то2122_>: !motd
+[08:27:03] vasiliy karat: наши ресы пропали
+[08:27:14] vasiliy karat: на улице дождь на душе кость
+[08:27:27] KayFarIK: нопусти
+[08:27:41] vasiliy karat: з сити
+[08:28:00] vasiliy karat: жомби тайм аут 
+[08:28:01] vasiliy karat: я щас
+[08:28:12] бугагашенька: сюда
+[08:28:13] бугагашенька: идем
+[08:28:52] бугагашенька: идем
+[08:28:53] бугагашенька: алоу
+[08:28:58] KayFarIK: дай ему задание тулатеы мыть
+[08:29:21] vasiliy karat: перезапущу модем
+[08:29:23] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[08:29:23] vasiliy karat suicided!
+[08:29:38] бугагашенька: кого именно?
+[08:29:41] sigma123 SKINBOX: максима
+[08:29:51] бугагашенька: мммм
+[08:29:55] бугагашенька: как все было?
+[08:30:05] бугагашенька: не услышал
+[08:30:11] sigma123 SKINBOX: он сел в машину и уехал
+[08:30:16] Client "vasiliy karat" connected.
+[08:30:23] бугагашенька: просто подошел к вашей базе и уехал???
+[08:30:33] sigma123 SKINBOX: нет
+[08:30:40] sigma123 SKINBOX: мы на спавне развивались
+[08:30:48] sigma123 SKINBOX: он сел иуехал на моей машине
+[08:30:51] sigma123 SKINBOX: 2 раза
+[08:31:02] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 46 seconds).
+[08:31:09] бугагашенька: тоесь вы забывали 2 раза закрыть машину и он угонял ее?
+[08:31:13] бугагашенька: он вернул ее?
+[08:31:15] sigma123 SKINBOX: нет
+[08:31:22] sigma123 SKINBOX: в 1 раз он её бросил
+[08:31:29] sigma123 SKINBOX: я её нашел и на ней же его задавил
+[08:31:41] maksumkolesnukov022: кто вы люди
+[08:31:42] sigma123 SKINBOX: во второй раз мой тимейт и я одновременно пытались закрыть машину
+[08:31:47] sigma123 SKINBOX: и он сел и уехал
+[08:31:51] бугагашенька: ммм
+[08:31:56] бугагашенька: штож,
+[08:31:59] бугагашенька: давайте так
+[08:32:02] maksumkolesnukov022: мне провели секскурсию
+[08:32:13] бугагашенька: я вам даю 5к за последний раз то што он угнал у вас машину
+[08:32:15] maksumkolesnukov022: вася твоя машина там
+[08:32:19] бугагашенька: и 2к на первый раз
+[08:32:21] бугагашенька: поскольку
+[08:32:26] бугагашенька: вы осуществили месть
+[08:32:32] бугагашенька: и мы согласовуем альянс
+[08:32:37] бугагашенька: пойдет?
+[08:32:48] бугагашенька: ну угон не так уж и страшно
+[08:32:50] vasiliy karat: впустите посмотреть
+[08:32:54] бугагашенька: могу дать 10К
+[08:32:57] бугагашенька: деньги есть
+[08:33:02] бугагашенька: ммм
+[08:33:18] vasiliy karat: впустите?
+[08:33:22] бугагашенька: ну я пойду с ним поговорю, я его сюда позову, 5 секунд
+[08:33:40] vasiliy karat: а нацелены на что
+[08:33:43] бугагашенька: МАКСИМфцфц
+[08:33:46] бугагашенька: МАКСИММ!!!
+[08:33:53] бугагашенька: идем там поговорить надо бы
+[08:34:13] бугагашенька: идем
+[08:34:17] maksumkolesnukov022: ща обс врублю может запись крутая получится
+[08:34:24] maksumkolesnukov022: ерпе там
+[08:34:27] бугагашенька: идем
+[08:34:43] maksumkolesnukov022: слезь со стола ноги грязные
+[08:34:44] бугагашенька: мы тут поговорили про твое прошлое
+[08:34:52] бугагашенька: кстате да но ладно
+[08:35:08] бугагашенька: ты просто дружелююбно извиняешся и все разходяться
+[08:35:18] бугагашенька: так 7
+[08:35:26] бугагашенька: лады потом
+[08:35:27] vasiliy karat: показалось
+[08:35:33] бугагашенька: извинись
+[08:35:38] бугагашенька: хотя ы по дружески
+[08:35:39] maksumkolesnukov022: а за что
+[08:35:44] бугагашенька: за угон 2 машин
+[08:35:54] maksumkolesnukov022: 1 машина под забором 
+[08:35:57] maksumkolesnukov022: другая у бункера
+[08:35:57] Client "Rackman" connected.
+[08:35:59] maksumkolesnukov022: обе открыты
+[08:36:08] бугагашенька: угон есть угон
+[08:36:15] бугагашенька: + банально топливо
+[08:36:22] maksumkolesnukov022: приношу свои извинения
+[08:36:26] бугагашенька: все
+[08:36:39] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 42 seconds).
+[08:36:42] vasiliy karat: я никаого не вижу але
+[08:36:46] бугагашенька: 7к. не больше. окей?
+[08:37:03] бугагашенька: могу только 7
+[08:37:05] бугагашенька: опа
+[08:37:15] бугагашенька: ладно. сейчас 7 потом еще обсудим
+[08:37:20] <_Кто-то2122_> was killed by ent_jack_gmod_ezsentry
+[08:37:21] бугагашенька: ладно
+[08:37:23] бугагашенька: и альянс 
+[08:37:25] vasiliy karat: эвакуация
+[08:37:32] maksumkolesnukov022: мы можем на этом заработать
+[08:37:41] бугагашенька: все
+[08:37:42] maksumkolesnukov022: на чужой войне
+[08:37:44] maksumkolesnukov022: а, всё
+[08:37:52] бугагашенька: все, удачи вам
+[08:37:53] Mr_Pyro uncloaked Themself
+[08:37:53] Mr_Pyro uncloaked Themself
+[08:37:53] Mr_Pyro uncloaked Themself
+[08:37:54] Mr_Pyro uncloaked Themself
+[08:38:17] Mr_Pyro: да
+[08:38:22] maksumkolesnukov022: что там за давка
+[08:38:27] vasiliy karat: балоло ави
+[08:38:34] Dropped "kosmokot" from server<STEAM_0:0:41186306>
+[08:38:34] kosmokot suicided!
+[08:39:05] Mr_Pyro: ъъ
+[08:39:52] maksumkolesnukov022: что там за хлопки
+[08:40:03] maksumkolesnukov022: а то я вам дам 
+[08:40:05] maksumkolesnukov022: галадский
+[08:40:06] Mr_Pyro: в ладоши хлоп хлоп
+[08:40:06] maksumkolesnukov022: руль
+[08:40:13] Mr_Pyro: ъъ
+[08:40:23] Client "DenizDH" connected.
+[08:40:25] vasiliy karat: все давайте стенку на стенку кулаки
+[08:40:39] Mr_Pyro: лес го
+[08:40:49] бугагашенька: У НАС КРЕЙТ ЗАИЛСЯ
+[08:40:51] бугагашенька: КАКОГО ХУЯ
+[08:41:01] Loncaus was killed by ent_jack_aidbox
+[08:41:07] Mr_Pyro: кистарник
+[08:41:18] Mr_Pyro: малина
+[08:41:27] maksumkolesnukov022: фу чё в кусте ваняет так
+[08:41:38] Mr_Pyro: орпа
+[08:41:41] maksumkolesnukov022: о моыя кукуруза
+[08:41:49] Mr_Pyro: это как
+[08:41:51] Mr_Pyro: в индии
+[08:41:56] maksumkolesnukov022: броня
+[08:42:09] maksumkolesnukov022: человек танк
+[08:42:24] RusLanConnection suicided!
+[08:42:30] Mr_Pyro: наигрались
+[08:42:41] Mr_Pyro: э
+[08:42:44] Mr_Pyro: у меня это
+[08:42:46] Mr_Pyro: фотошщроп
+[08:43:01] Mr_Pyro: просто
+[08:43:04] Mr_Pyro: драка бомжей
+[08:43:12] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[08:43:12] Rackman suicided!
+[08:43:24] Client "Vad1k Freeman" connected.
+[08:43:24] Mr_Pyro: блиин
+[08:43:30] Mr_Pyro: как так то
+[08:43:32] Client "Vad1k Freeman" connected.
+[08:43:37] Mr_Pyro: давай ещё раз
+[08:43:47] Mr_Pyro: может в жтот раз получится
+[08:44:06] vasiliy karat: нужно на билд пропе зафризится
+[08:44:14] sigma123 SKINBOX: слышишь ты
+[08:44:29] Mr_Pyro: НЭЭЭЭЭЭ
+[08:44:29] Client "Rackman" connected.
+[08:44:34] Mr_Pyro: украли
+[08:44:41] Mr_Pyro: КАКОГО БЫТЬ
+[08:44:44] Mr_Pyro: КУКУРУЗОЙ
+[08:44:48] vasiliy karat: ну так магия существует
+[08:45:01] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 32 seconds).
+[08:45:27] vasiliy karat: что происходииииииит
+[08:45:29] maksumkolesnukov022: ещё не знаю
+[08:45:32] Rackman teleported to Toxa
+[08:45:55] vasiliy karat: нужно быть в войне и хп меньше 70 штук
+[08:46:01] RUSLAN set Mr_Pyro Name to RUSLAN
+[08:46:03] vasiliy karat: потом координаты
+[08:46:09] vasiliy karat: ввоооо спроси у ядерного комплекса
+[08:46:09] RUSLAN: НЕ
+[08:46:18] vasiliy karat: они знают у них их 2
+[08:46:32] RUSLAN set RUSLAN Name to RUSLAN
+[08:46:49] Client "Redoket" connected.
+[08:46:50] maksumkolesnukov022: кто из вас вася
+[08:47:18] А ПО ЖОПЕ!?: .
+[08:47:19] vasiliy karat: а вы продаете бомбы то сколько стоит просто интересно
+[08:47:21] RusLanConnection: апр
+[08:47:36] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 47 seconds).
+[08:47:39] vasiliy karat: свистят
+[08:47:41] Client "Chupacabr" connected.
+[08:47:41] vasiliy karat: бомбу воруют
+[08:47:43] vasiliy karat: бегите
+[08:47:45] <_Кто-то2122_> killed Robin- using tfa_doithompsonm1a1
+[08:48:13] maksumkolesnukov022: один из вас настоящий
+[08:48:14] RUSLAN: ВОТ В ЭТОГО
+[08:48:15] RusLanConnection: не стреляй
+[08:48:17] vasiliy karat: все я пошел я нашел свою работу
+[08:48:29] maksumkolesnukov022: надо узнать кто вася
+[08:48:34] maksumkolesnukov022: из них
+[08:48:58] Redoket: !menu
+[08:48:59] maksumkolesnukov022: так давайте кто из вас оригинал 
+[08:49:02] maksumkolesnukov022: потом перемешк
+[08:49:04] Robin-: /s ты где?
+[08:49:05] Redoket teleported to Rackman
+[08:49:11] Redoket: zomb
+[08:49:23] maksumkolesnukov022: ты фейк понял
+[08:49:27] FRED01: /s в все
+[08:49:31] maksumkolesnukov022: стоп а какой
+[08:49:31] vasiliy karat: я
+[08:49:43] RUSLAN: СКОЛЬКО
+[08:49:43] maksumkolesnukov022: да блин
+[08:49:45] RUSLAN: У ТЕБЯ ПУЛЕК
+[08:49:52] maksumkolesnukov022: 1
+[08:50:01] maksumkolesnukov022: ладно пошутил
+[08:50:02] maksumkolesnukov022: 18
+[08:50:12] maksumkolesnukov022: тот станет васей
+[08:50:12] vasiliy karat: давайте м пиро забьем досмерти
+[08:50:16] RusLanConnection: апр
+[08:50:16] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 155 seconds).
+[08:50:18] maksumkolesnukov022: так это руслан
+[08:50:20] Redoket: чо у нас уран
+[08:50:22] Redoket: ахер
+[08:50:26] Redoket: откуда
+[08:50:38] vasiliy karat: БЕЖИМ
+[08:50:41] Redoket: respect
+[08:50:54] vasiliy karat: последний барабагн
+[08:51:00] maksumkolesnukov022 killed vasiliy karat using tfa_doisw1917
+[08:51:02] vasiliy karat: 6
+[08:51:05] vasiliy karat: 1 ПАТРОН
+[08:51:06] vasiliy karat: БЕЙТЕ
+[08:51:10] maksumkolesnukov022 killed А ПО ЖОПЕ!? using tfa_doi_marinebayonet
+[08:51:11] ВАСЯ set RUSLAN Name to ВАСЯ
+[08:51:12] ВАСЯ set ВАСЯ Name to ВАСЯ
+[08:51:31] maksumkolesnukov022: вот он 
+[08:51:33] maksumkolesnukov022: настоящ
+[08:51:37] maksumkolesnukov022: да блин
+[08:51:38] maksumkolesnukov022 killed vasiliy karat using tfa_doi_marinebayonet
+[08:51:40] maksumkolesnukov022 killed А ПО ЖОПЕ!? using tfa_doi_marinebayonet
+[08:51:48] maksumkolesnukov022 killed Chupacabr using tfa_doi_marinebayonet
+[08:52:15] vasiliy karat killed maksumkolesnukov022 using rust_eoka
+[08:52:30] maksumkolesnukov022: я проиграл в казино
+[08:52:31] vasiliy karat: наша банда убила
+[08:52:32] Robin-: ок
+[08:52:34] Robin-: понял
+[08:52:35] vasiliy karat: теперь нас будут искать
+[08:52:41] vasiliy karat: сядешь за меня
+[08:52:42] vasiliy karat: ок
+[08:52:47] maksumkolesnukov022: надо было угадать кто из них настоящий васили
+[08:52:50] maksumkolesnukov022: а я не угадал 
+[08:52:57] Client "GreenPixel11" connected.
+[08:53:11] А ПО ЖОПЕ!?: /name нигга
+[08:53:19] vasiliy karat: !name вас
+[08:53:27] ВАСЯ: А
+[08:53:29] А ПО ЖОПЕ!?: !name ВАСЯ
+[08:53:30] Dropped "Robin-" from server<STEAM_0:1:601320628>
+[08:53:30] Robin- suicided!
+[08:53:33] Client "Robin-" connected.
+[08:53:42] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 45 seconds).
+[08:54:04] Client "Robin-" spawned in server <STEAM_0:1:601320628> (took 31 seconds).
+[08:54:05] <_Кто-то2122_>: !motd
+[08:54:15] vasiliy karat: я предлагаю
+[08:54:17] vasiliy karat: утащить бомбу
+[08:54:19] vasiliy karat: и продать
+[08:54:20] vasiliy karat: ирану
+[08:54:21] RusLanConnection: я предлагаю
+[08:54:23] RusLanConnection: утащить бомбу
+[08:54:26] RusLanConnection: и продать
+[08:54:28] RusLanConnection: ирану
+[08:54:30] А ПО ЖОПЕ!?: я предлагаю
+[08:54:30] vasiliy karat: кароче 
+[08:54:33] А ПО ЖОПЕ!?: утащить бомбу
+[08:54:34] vasiliy karat: тулбокс
+[08:54:35] RusLanConnection: кароче
+[08:54:35] А ПО ЖОПЕ!?: и продать
+[08:54:36] А ПО ЖОПЕ!?: ирану
+[08:54:36] RusLanConnection: тублокс
+[08:54:38] vasiliy karat: запаковать
+[08:54:40] vasiliy karat: и все
+[08:54:42] А ПО ЖОПЕ!?: короче
+[08:54:44] Chupacabr: утащить иран и рподать бомбу
+[08:54:44] А ПО ЖОПЕ!?: тулбокс
+[08:54:45] А ПО ЖОПЕ!?: запаковать
+[08:54:47] А ПО ЖОПЕ!?: и все
+[08:54:57] А ПО ЖОПЕ!?: в иране
+[08:55:07] vasiliy karat: так нам нужно ящк
+[08:55:25] RusLanConnection: sdfg
+[08:55:29] vasiliy karat: папир
+[08:55:29] Rackman teleported to Toxa
+[08:55:39] (TEAM) RusLanConnection: ydgfh
+[08:55:43] А ПО ЖОПЕ!?: нигга
+[08:56:00] ВАСЯ: а
+[08:56:03] vasiliy karat: без стрельбы сделаем все быстро и тихо
+[08:56:35] RusLanConnection stripped weapons from Themself
+[08:56:35] RusLanConnection: !strip RusLanConnection
+[08:56:40] Client "UwU Я АНИМЕЩНИЦА ТЯ" connected.
+[08:56:46] RusLanConnection stripped weapons from Themself
+[08:56:46] RusLanConnection: !strip RusLanConnection
+[08:58:20] А ПО ЖОПЕ!?: СУЧКА!
+[08:58:24] vasiliy karat: верните мое
+[08:59:03] KayFarIK: война?
+[08:59:06] maksumkolesnukov022: к нам приехали
+[08:59:09] vasiliy karat: дымовые гранаты
+[08:59:12] vasiliy karat: патроны
+[08:59:28] maksumkolesnukov022: тебе к нашему лидеру
+[09:00:49] sigma123 SKINBOX killed RusLanConnection using tfa_doimp40
+[09:00:55] sigma123 SKINBOX killed Chupacabr using tfa_doimp40
+[09:01:02] KayFarIK: почему танк стреляет?
+[09:01:04] vasiliy karat killed sigma123 SKINBOX using tfa_doithompsonm1a1
+[09:01:12] vasiliy karat: ликвид ирован
+[09:01:16] maksumkolesnukov022: ЭТО ВАСИЛИЙ
+[09:01:22] rty000pro killed sigma123 SKINBOX using tfa_doi_m16a1
+[09:01:59] бугагашенька killed <_Кто-то2122_> using lvs_m4_mow
+[09:02:06] GreenPixel11 killed sigma123 SKINBOX using tfa_doispringfield
+[09:02:09] maksumkolesnukov022: уже всё
+[09:02:13] maksumkolesnukov022: взорвали танк
+[09:02:21] vasiliy karat: мы васи
+[09:02:34] sigma123 SKINBOX: дебили
+[09:02:38] sigma123 SKINBOX: это я был
+[09:02:53] maksumkolesnukov022: у кого лопата есть
+[09:03:03] maksumkolesnukov022: эээ ща
+[09:03:37] vasiliy karat: заболели
+[09:03:39] vasiliy karat: каранти
+[09:03:44] KayFarIK: василий наш враг?
+[09:03:54] Dropped "Robin-" from server<STEAM_0:1:601320628>
+[09:03:54] Robin- suicided!
+[09:03:55] <_Кто-то2122_> killed RusLanConnection using tfa_doimp40
+[09:03:56] <_Кто-то2122_> killed А ПО ЖОПЕ!? using tfa_doimp40
+[09:03:57] <_Кто-то2122_> killed Chupacabr using tfa_doimp40
+[09:03:57] vasiliy karat killed <_Кто-то2122_> using tfa_doithompsonm1a1
+[09:04:02] Dropped "<_Кто-то2122_>" from server<STEAM_0:0:739548608>
+[09:04:02] <_Кто-то2122_> suicided!
+[09:04:24] vasiliy karat: Я ПРИДУМАЛ
+[09:04:25] KayFarIK: как
+[09:05:06] vasiliy karat: кароче
+[09:05:09] KayFarIK: спрашиваю человека
+[09:05:12] vasiliy karat: я в шахту сверху
+[09:05:13] vasiliy karat: кину лежак
+[09:05:15] Limitless Gregg: Здравствуйте
+[09:05:17] vasiliy karat: и тогда все будет проще
+[09:05:25] maksumkolesnukov022: василий может угрозу представлять
+[09:05:31] vasiliy karat: это просто не лагает
+[09:05:31] бугагашенька: схуяли?
+[09:05:32] Limitless Gregg: Я вижу у вас очень много ресурсов
+[09:06:00] maksumkolesnukov022: он был рядом с нами и убил человека у нашей базы
+[09:06:04] бугагашенька: я сейчас
+[09:06:05] Client "Хищный анус" connected.
+[09:06:08] бугагашенька: блять
+[09:06:12] бугагашенька: я сейчас у меня рак
+[09:06:19] KayFarIK: Хели
+[09:06:24] KayFarIK killed Limitless Gregg using env_explosion
+[09:06:29] Rackman banned Limitless Gregg permanently (Grief)
+[09:06:29] Dropped "Limitless Gregg" from server<STEAM_0:0:117395677>
+[09:06:29] Limitless Gregg suicided!
+[09:06:42] KayFarIK: ПВО
+[09:06:44] KayFarIK: сработало
+[09:06:56] KayFarIK: там умер пилот
+[09:07:00] Client "Польские Пряники" connected.
+[09:07:02] vasiliy karat: незнаю на спавне стоял ничей 
+[09:07:12] KayFarIK: пилот упал
+[09:07:21] KayFarIK: у нас ПВО сработало
+[09:07:26] maksumkolesnukov022: да 
+[09:07:27] Chupacabr to admins: почему нигеры такие смелые
+[09:07:45] Loncaus: supply radio: global message
+[09:07:45] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[09:07:51] Loncaus: supply radio: global message
+[09:07:52] Dropped "sigma123 SKINBOX" from server<STEAM_0:1:702729408>
+[09:07:52] sigma123 SKINBOX suicided!
+[09:07:54] maksumkolesnukov022: он сам взрывается если он упал
+[09:07:55] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[09:07:55] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[09:07:56] maksumkolesnukov022: ели чё
+[09:07:56] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[09:07:59] maksumkolesnukov022: если чё*
+[09:08:07] vasiliy karat: пошлите
+[09:08:15] vasiliy karat: я знаю что дел
+[09:08:23] KayFarIK: у тебя снаряга исчезда
+[09:08:34] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 94 seconds).
+[09:09:04] maksumkolesnukov022: все претензии к Ирану
+[09:09:46] KayFarIK: Где
+[09:09:51] vasiliy karat: именити у вирус
+[09:09:56] Польские Пряники: над собрать
+[09:09:58] Польские Пряники: пушки
+[09:10:08] vasiliy karat: все за мной
+[09:10:25] vasiliy karat: ну он молча пришел а мы не рейд устраивать
+[09:10:30] Польские Пряники: ОН ПОХОЖ НА ТЕБЯ
+[09:10:32] vasiliy karat: щас все по умному сделаем
+[09:10:33] KayFarIK: нету там чужих
+[09:11:25] Польские Пряники: имуна
+[09:11:33] vasiliy karat: все пашлите ване
+[09:11:58] Loncaus: supply radio: global message
+[09:12:27] vasiliy karat: все пошлите
+[09:12:36] vasiliy karat: вы просто за мной идите и молчите я все сделаю сам
+[09:12:48] Польские Пряники: молчим!!!
+[09:12:54] maksumkolesnukov022: кукурузу не смогли бы вырастить
+[09:13:26] maksumkolesnukov022: ЭТО ВАСИЛИИ
+[09:13:41] KayFarIK: это же игиловцы
+[09:13:42] vasiliy karat: покажите где у вас бомбы лежат
+[09:13:49] Loncaus: supply radio: global message
+[09:13:56] vasiliy karat: тур по маунтед филду
+[09:14:03] maksumkolesnukov022: туристы?
+[09:14:07] vasiliy karat: золотое кольцо авесомии
+[09:14:18] Sannanore: supply radio: global message
+[09:14:19] vasiliy karat: понятно
+[09:14:22] vasiliy karat: тур
+[09:14:23] vasiliy karat: покажите
+[09:14:23] KayFarIK: мы не понимает пакистанский
+[09:14:45] vasiliy karat: мы слышали что кто то еще
+[09:14:48] vasiliy karat: делает бомбу
+[09:15:31] vasiliy karat: сколько у вас ракет
+[09:15:43] Client "Хищный анус" spawned in server <STEAM_0:1:125235601> (took 578 seconds).
+[09:16:08] vasiliy karat: у вас есть магазин со всякими безделушками
+[09:16:14] vasiliy karat: все хотят брелки
+[09:16:21] vasiliy karat: и магниты
+[09:16:29] vasiliy karat: идите я
+[09:16:33] maksumkolesnukov022: свисток
+[09:16:37] maksumkolesnukov022: сувенирный
+[09:17:03] maksumkolesnukov022: не понял
+[09:17:10] vasiliy karat: там что то выпало у вас
+[09:17:15] maksumkolesnukov022: подозрительный
+[09:17:23] maksumkolesnukov022: он что-то на крышу закинул
+[09:17:26] vasiliy karat: оо это что
+[09:17:29] Польские Пряники to admins: ааай
+[09:17:29] бугагашенька: МЛЯ ПИНГ СУКААААААААААААААААААААа
+[09:17:34] KayFarIK: у вас лагает?
+[09:17:35] бугагашенька: ЛЭЭЭЭЭТ
+[09:17:41] Польские Пряники: аай
+[09:17:59] vasiliy karat: а это что
+[09:18:03] vasiliy karat: это что
+[09:18:16] vasiliy karat: сколько брелки стоят
+[09:18:18] ВАСЯ: похоже на игровой автомат
+[09:18:21] vasiliy karat: а мне
+[09:18:25] vasiliy karat: мне свисток
+[09:18:45] maksumkolesnukov022: rty нужен разговор пошли
+[09:19:08] vasiliy karat: мне мне
+[09:19:19] vasiliy karat: ядерный ножик
+[09:19:19] Польские Пряники to admins: У НЕГО НОЖ!
+[09:19:36] Client "UwU Я АНИМЕЩНИЦА ТЯ" spawned in server <STEAM_0:1:755779041> (took 1376 seconds).
+[09:19:41] vasiliy karat: а что за здание покажите
+[09:19:55] vasiliy karat: за мной група
+[09:20:47] vasiliy karat: у вас есть закусочная
+[09:21:12] Хищный анус killed UwU Я АНИМЕЩНИЦА ТЯ using rust_eoka
+[09:21:26] vasiliy karat: это что
+[09:21:38] бугагашенька: пинг
+[09:21:40] бугагашенька: СУКААААААААААААААа
+[09:21:56] RusLanConnection cloaked Themself by amount 0
+[09:22:00] RusLanConnection teleported to Bigbarsik223
+[09:22:04] RusLanConnection teleported to Sannanore
+[09:22:05] RusLanConnection teleported to Sannanore
+[09:22:12] Польские Пряники to admins: Хищный анус killed UwU Я АНИМЕЩНИЦА ТЯ using rust_eoka
+[09:22:18] vasiliy karat: тут что
+[09:22:20] KayFarIK: РТО у нас нет места в ящике
+[09:22:21] maksumkolesnukov022: нельзя
+[09:22:25] vasiliy karat: тут что
+[09:22:28] KayFarIK: ну красном
+[09:22:32] maksumkolesnukov022: пройдёмте
+[09:22:34] maksumkolesnukov022: наверх
+[09:22:36] maksumkolesnukov022: именно вы
+[09:22:39] vasiliy karat: там что
+[09:22:43] maksumkolesnukov022: стол
+[09:22:45] RusLanConnection teleported to Loncaus
+[09:22:50] RusLanConnection teleported to vasiliy karat
+[09:22:54] vasiliy karat: он что там делает
+[09:22:56] RusLanConnection uncloaked Themself
+[09:23:18] maksumkolesnukov022: rty сюда
+[09:23:30] maksumkolesnukov022: это было найдено в отсеке с ракетой
+[09:23:46] maksumkolesnukov022: распакуй просто
+[09:23:52] vasiliy karat: какие виды у нас на сро такого нет
+[09:23:55] maksumkolesnukov022: \
+[09:24:05] maksumkolesnukov022: всё
+[09:24:21] vasiliy karat: туристы пошлите посмотрим на грибы ядерные
+[09:24:27] Sannanore killed Loncaus using tfa_doig43
+[09:24:32] А ПО ЖОПЕ!?: бе, политика в ф4
+[09:24:41] Sannanore killed Loncaus using tfa_doig43
+[09:24:44] UwU Я АНИМЕЩНИЦА ТЯ: /sit
+[09:24:45] UwU Я АНИМЕЩНИЦА ТЯ: /sit
+[09:24:49] KayFarIK: я за израиль
+[09:24:54] Sannanore killed Loncaus using tfa_doig43
+[09:24:55] KayFarIK: ты чо
+[09:25:00] vasiliy karat: бежим
+[09:25:01] KayFarIK: че ты стреляешь?
+[09:25:03] Client "T0mat025" connected.
+[09:25:07] Sannanore killed Loncaus using tfa_doig43
+[09:25:08] vasiliy karat: раскрыли нас бежим по тихому
+[09:25:10] Хищный анус: !motd
+[09:25:12] vasiliy karat: максим раскрыл
+[09:25:18] vasiliy karat: это
+[09:25:19] maksumkolesnukov022: rty мне кажется это не единственный "подарок"
+[09:25:22] vasiliy karat: первая часть плана
+[09:25:27] (TEAM) UwU Я АНИМЕЩНИЦА ТЯ: uwu
+[09:25:29] vasiliy karat: засунуть туда лежак запакованый открытый
+[09:25:35] vasiliy karat: вторая часть плана
+[09:25:44] vasiliy karat: тепнуться и выкинуть принимающему как в тюрьме
+[09:25:45] UwU Я АНИМЕЩНИЦА ТЯ: /sit
+[09:25:46] UwU Я АНИМЕЩНИЦА ТЯ: /it ( ͡° ᴥ ͡°) 
+[09:25:46] vasiliy karat: закинул
+[09:25:48] UwU Я АНИМЕЩНИЦА ТЯ: /sit
+[09:25:49] UwU Я АНИМЕЩНИЦА ТЯ: /sit
+[09:25:51] Sannanore killed Loncaus using tfa_doig43
+[09:25:52] UwU Я АНИМЕЩНИЦА ТЯ: /it ( ͡° ᴥ ͡°) 
+[09:25:55] vasiliy karat: максим заметил и забрал ящик
+[09:25:57] Client "T0mat025" spawned in server <STEAM_0:1:872564014> (took 54 seconds).
+[09:26:06] vasiliy karat: не дал
+[09:26:08] vasiliy karat: шансу
+[09:26:10] Sannanore killed Loncaus using tfa_doig43
+[09:26:10] vasiliy karat: ладно
+[09:26:19] maksumkolesnukov022: продавайте
+[09:26:25] Sannanore killed Loncaus using tfa_doig43
+[09:26:29] KayFarIK: Зачем если мы не воюем?
+[09:26:36] Sannanore killed Loncaus using tfa_doig43
+[09:26:36] vasiliy karat: скибиди
+[09:26:49] vasiliy karat: есть едия
+[09:26:52] KayFarIK: мы на фронт
+[09:26:53] Sannanore killed Loncaus using tfa_doig43
+[09:26:54] vasiliy karat: идея
+[09:26:57] KayFarIK: шторм зет
+[09:27:01] vasiliy karat: хотя говно
+[09:27:09] KayFarIK: вот ту даже солдат пошел служить
+[09:27:10] vasiliy karat: тяжелый вертолет
+[09:27:14] Loncaus killed Sannanore using tfa_doig43
+[09:27:17] vasiliy karat: выдерживает ракету
+[09:27:22] vasiliy karat: 1
+[09:27:36] vasiliy karat: кароче пролетая над базой прямо в шахту падает парашутист
+[09:27:38] maksumkolesnukov022: пока остановил добычу воды и нефти
+[09:27:45] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[09:27:45] GreenPixel11 suicided!
+[09:27:48] vasiliy karat: поняли типо
+[09:27:54] vasiliy karat: ладно
+[09:28:03] vasiliy karat: тооочно
+[09:28:04] vasiliy karat: давайте
+[09:28:33] vasiliy karat: цесна
+[09:28:39] (TEAM) KayFarIK: нет газика
+[09:28:53] Toxa: !motd
+[09:28:55] vasiliy karat: лежак вытащил
+[09:29:01] Toxa: https://youtu.be/oQHtat9VxrU
+[09:29:02] vasiliy karat: он рядом с реактором
+[09:29:18] vasiliy karat: тут точку сделаем заберемся
+[09:29:23] vasiliy karat: кинем повторный
+[09:29:25] Dropped "А ПО ЖОПЕ!?" from server<STEAM_0:1:557416607>
+[09:29:25] А ПО ЖОПЕ!? suicided!
+[09:29:27] KayFarIK: противник в секторе
+[09:29:53] maksumkolesnukov022: всё
+[09:29:58] KayFarIK: команда , уничтожить врага
+[09:30:02] Sannanore killed бугагашенька using tfa_doimp40
+[09:30:04] maksumkolesnukov022: опа
+[09:30:13] maksumkolesnukov022: главу убили
+[09:30:15] vasiliy karat: сюда
+[09:30:18] vasiliy karat: быстрее точку
+[09:30:22] vasiliy karat: забераемся
+[09:30:39] KayFarIK: соладт
+[09:30:43] KayFarIK: идем в обход
+[09:30:45] KayFarIK: за мной!
+[09:30:49] vasiliy karat: нужно
+[09:30:53] vasiliy karat: запаковать нету басиков
+[09:30:59] vasiliy karat: давв
+[09:31:03] maksumkolesnukov022: нужно второе пво
+[09:31:09] vasiliy karat: вы идите отвлекать вниз 
+[09:31:10] Хищный анус: Здрасте
+[09:31:24] Хищный анус: Понятия не имею, я тут впервые..
+[09:31:27] vasiliy karat: вставайте
+[09:31:29] KayFarIK: ПРотивники -соседи!
+[09:31:39] Хищный анус: Компьютер.
+[09:31:53] Хищный анус: Свою создал, но не вижу в ней смысла.
+[09:31:54] vasiliy karat: встаем
+[09:32:10] Хищный анус: К вам можно?
+[09:32:16] vasiliy karat: прыгай и присяд
+[09:32:28] Хищный анус: Как вы называетесь?
+[09:32:32] maksumkolesnukov022: нельзя вырубить
+[09:32:36] maksumkolesnukov022: спрячь просто
+[09:32:42] maksumkolesnukov022: да
+[09:32:46] Хищный анус: Приняли.
+[09:32:49] Client "sekta" connected.
+[09:32:58] maksumkolesnukov022: не понял
+[09:32:59] vasiliy karat: вниз идите
+[09:33:03] vasiliy karat: к ним
+[09:33:06] maksumkolesnukov022: что это
+[09:33:16] Хищный анус: Да, минут 15 назад.
+[09:33:27] maksumkolesnukov022: альпинисты тут
+[09:33:28] Хищный анус: Не видел, но слышал
+[09:33:34] vasiliy karat: лицо кроваваое
+[09:33:41] бугагашенька: по мне стреляли
+[09:33:43] Client "nefrit" connected.
+[09:33:43] Хищный анус: Тут карты нет?
+[09:33:46] vasiliy karat: зачто
+[09:33:53] бугагашенька: по приколу
+[09:34:06] vasiliy karat: вы там друг друга стреляете
+[09:34:12] Хищный анус: Ух ты, вертушка?
+[09:34:15] бугагашенька: идите отсюда
+[09:34:15] vasiliy karat: о смотрим
+[09:34:19] vasiliy karat: тур
+[09:34:19] Хищный анус: Вот
+[09:34:22] vasiliy karat: смотрите ракету
+[09:34:22] maksumkolesnukov022: а за что
+[09:34:30] Хищный анус: А ты давно тут?
+[09:34:45] Хищный анус: Будешь моим гидом.
+[09:34:52] maksumkolesnukov022: сбили
+[09:34:52] Хищный анус: Здрасте!
+[09:34:54] Client "Vroom-vroom enjoyer" connected.
+[09:35:08] Хищный анус: Не подскажите где рассвет?
+[09:35:15] maksumkolesnukov022: мы нашли ваш 
+[09:35:18] maksumkolesnukov022: ЛЕЖАК
+[09:35:23] Loncaus killed Loncaus
+[09:35:27] Client "sekta" connected.
+[09:35:28] Хищный анус: Вот я такой же.
+[09:35:28] Client "nefrit" spawned in server <STEAM_0:0:756918730> (took 105 seconds).
+[09:35:36] Хищный анус: А нет, я в этот режим только зашел.
+[09:35:37] maksumkolesnukov022: туризм
+[09:35:39] KayFarIK: там враги
+[09:35:43] maksumkolesnukov022: анапа 2007
+[09:35:49] KayFarIK: за контейнером
+[09:35:50] Хищный анус: Но четыре тысячи часов в гаррисе есть.
+[09:35:51] Dropped "nefrit" from server<STEAM_0:0:756918730>
+[09:35:51] nefrit suicided!
+[09:35:56] RusLanConnection teleported to vasiliy karat
+[09:35:59] KayFarIK: X -126
+[09:36:01] Client "moonlight" connected.
+[09:36:02] бугагашенька: икс -126
+[09:36:04] Хищный анус: Как скин поменятьс
+[09:36:14] Loncaus suicided!
+[09:36:14] Sannanore suicided!
+[09:36:19] Хищный анус: О бог
+[09:36:19] FRED01 was killed by entityflame
+[09:36:20] maksumkolesnukov022: запустили в потолок
+[09:36:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezifakpacket
+[09:36:27] Хищный анус: Да
+[09:36:28] vasiliy karat was killed by entityflame
+[09:36:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezifakpacket
+[09:36:29] бугагашенька was killed by entityflame
+[09:36:29] RusLanConnection was killed by entityflame
+[09:36:30] Польские Пряники was killed by entityflame
+[09:36:30] Client "Vroom-vroom enjoyer" spawned in server <STEAM_0:1:638916203> (took 96 seconds).
+[09:36:30] maksumkolesnukov022: ужас
+[09:36:30] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 63 seconds).
+[09:36:32] rty000pro was killed by entityflame
+[09:36:34] Хищный анус: Я заметил
+[09:36:40] Хищный анус: Вижу, наши дохнут
+[09:36:42] patrikalkas: !motd
+[09:36:54] vasiliy karat: кстати никто не заметил
+[09:36:56] RusLanConnection: СКОРЕЕ
+[09:37:00] KayFarIK: это евреи
+[09:37:07] Хищный анус: Я не хочу быть негром
+[09:37:11] vasiliy karat: нужен физган
+[09:37:15] vasiliy karat: вытащить
+[09:37:16] maksumkolesnukov022: пройдём 
+[09:37:19] maksumkolesnukov022: разговор
+[09:37:19] patrikalkas: jmod_ez_inv
+[09:37:24] Хищный анус: Почему я разговариваю как робот?
+[09:37:28] vasiliy karat: побегуны
+[09:37:33] Хищный анус: или так все?
+[09:37:35] Хищный анус: да
+[09:37:35] maksumkolesnukov022: местная полиция тут
+[09:37:45] Хищный анус: И настроить никак?
+[09:37:58] maksumkolesnukov022: один из ваших 
+[09:38:01] maksumkolesnukov022: подбросил коробку
+[09:38:01] Хищный анус: Понял-понял
+[09:38:04] patrikalkas: jmod_ez_inv
+[09:38:16] Sannanore killed Loncaus using rust_boltrifle
+[09:38:17] maksumkolesnukov022: там была не камера
+[09:38:19] KayFarIK: привет
+[09:38:22] maksumkolesnukov022: вот скажи что там
+[09:38:26] patrikalkas: bind i jmod_ez_inv
+[09:38:26] maksumkolesnukov022: было
+[09:38:27] KayFarIK: меня проп так запустил
+[09:38:27] Хищный анус: Я быстро обучаюсь
+[09:38:36] бугагашенька killed Chupacabr using tfa_doithompsonm1a1
+[09:38:43] maksumkolesnukov022: значит не хочем по хорошему
+[09:38:50] Хищный анус: Ага..
+[09:38:53] бугагашенька: СУКА
+[09:39:03] Хищный анус: Раст на минималках и в то же время на максималках
+[09:39:07] Dropped "Loncaus" from server<STEAM_0:0:96256132>
+[09:39:07] Loncaus suicided!
+[09:39:10] maksumkolesnukov022: вот смотри в ящике был спальник
+[09:39:23] Dropped "Sannanore" from server<STEAM_0:1:52589208>
+[09:39:23] Sannanore suicided!
+[09:39:23] maksumkolesnukov022: и его забросили в отсек с ракетой
+[09:39:24] Client "𝔻𝕐ℙ𝕃𝕆ℝ𝔼ℤ" connected.
+[09:39:43] patrikalkas: bind i jmod_ez_inv
+[09:39:47] Хищный анус: Я посмотрел обзор на JMod
+[09:39:49] vasiliy karat: ножиком
+[09:39:50] Dropped "FRED01" from server<STEAM_0:1:767661328>
+[09:39:50] FRED01 suicided!
+[09:39:54] vasiliy karat: оооо
+[09:39:57] vasiliy karat: фракция отшельники
+[09:39:57] Хищный анус: Более менее шарю
+[09:39:59] vasiliy karat: у них
+[09:40:00] vasiliy karat: бомба
+[09:40:01] Хищный анус: А, окей
+[09:40:02] vasiliy karat: пошлите
+[09:40:04] maksumkolesnukov022: замри
+[09:40:09] maksumkolesnukov022: замри
+[09:40:18] maksumkolesnukov022: так ладно
+[09:40:20] Хищный анус: Я по мере игры обучусь
+[09:40:22] maksumkolesnukov022: выпускаем
+[09:40:31] vasiliy karat: пошлите
+[09:40:33] Хищный анус: Ой
+[09:40:34] maksumkolesnukov022: с ними бесполезно
+[09:40:39] vasiliy karat: бункер
+[09:40:41] Хищный анус: А я одного уже убил с Йоки.
+[09:40:49] Хищный анус: Не был
+[09:40:57] Хищный анус: Здрасте-здрасте
+[09:41:04] Хищный анус: Я новенький, в попу готовенький
+[09:41:19] Bigbarsik223: СТАЛЬ КОНЧИЛАСЬ
+[09:41:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdetpack
+[09:41:46] Хищный анус: БЛЯ
+[09:41:49] Хищный анус: ВИРУСНЫЙ ТРУП
+[09:41:50] Хищный анус: ХЕЛП
+[09:42:11] vasiliy karat: помогайте вытащим стекло
+[09:42:12] Хищный анус: Как оружие выкинуть?
+[09:42:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdetpack
+[09:42:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdetpack
+[09:42:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdetpack
+[09:42:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdetpack
+[09:42:23] maksumkolesnukov022: помогите застрял
+[09:42:26] KayFarIK: хз
+[09:42:47] maksumkolesnukov022: застрял
+[09:43:00] maksumkolesnukov022: крупных нет
+[09:43:23] Хищный анус: Вроде да, но урон все равно получаю
+[09:43:34] бугагашенька: Я ПОЙДУ ПРОВЕР ИХНЮЮ АЗУ
+[09:43:35] бугагашенька: ок?
+[09:43:41] Хищный анус: Да
+[09:43:51] maksumkolesnukov022: когда стек
+[09:43:55] Хищный анус: Вот теперь есть иммунитет
+[09:43:57] maksumkolesnukov022: Я НЕ ХОЧУ
+[09:44:09] Хищный анус: Вот это не знаю(
+[09:44:11] maksumkolesnukov022: я по ассетам шарю по луа нубас
+[09:44:11] бугагашенька: ЧУВАКИ
+[09:44:14] бугагашенька: ТАМ У 
+[09:44:16] бугагашенька: ТОГО ВХОДА
+[09:44:18] бугагашенька: КРЕЙТ
+[09:44:20] бугагашенька: КУЧА РЕСОВ
+[09:44:24] maksumkolesnukov022: блин
+[09:44:25] бугагашенька: да
+[09:44:28] бугагашенька: крейт у входа
+[09:44:33] бугагашенька: 800 макс деталей
+[09:44:38] бугагашенька: ну розовых теех
+[09:44:41] бугагашенька: прям у входа
+[09:44:41] KayFarIK: круто
+[09:44:44] бугагашенька: иди забери
+[09:44:46] vasiliy karat: сколько
+[09:44:49] Польские Пряники: я щяс
+[09:44:50] KayFarIK: там трупов много и всё
+[09:44:50] vasiliy karat: 600
+[09:44:58] бугагашенька: ОббОРОНА
+[09:44:59] KayFarIK: крч я придумал
+[09:45:07] бугагашенька: И СПРОСИ У РТИКС
+[09:45:21] Хищный анус: Да
+[09:45:23] Хищный анус: подлечили
+[09:45:28] KayFarIK: я хз как
+[09:45:37] Dropped "ВАСЯ" from server<STEAM_0:1:157056677>
+[09:45:37] ВАСЯ suicided!
+[09:45:44] Хищный анус: Я пытаюсь шлем скрафтить
+[09:45:44] maksumkolesnukov022: сувенир
+[09:45:48] maksumkolesnukov022: для василиев
+[09:45:55] maksumkolesnukov022: тут приходили туристы
+[09:45:57] maksumkolesnukov022: василиев 6
+[09:45:57] KayFarIK: топ
+[09:46:16] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[09:46:16] Redoket suicided!
+[09:46:25] KayFarIK: рто
+[09:46:34] maksumkolesnukov022: да
+[09:46:35] KayFarIK: рто
+[09:46:38] KayFarIK: мы ресы залутали
+[09:46:41] Хищный анус: рюкзак етсь
+[09:46:45] maksumkolesnukov022: ну ядерная
+[09:46:49] maksumkolesnukov022: вот их 6
+[09:47:04] maksumkolesnukov022: там комната для разговоров
+[09:47:20] maksumkolesnukov022: секста когда стек
+[09:47:31] maksumkolesnukov022: коммитов не было ты вре
+[09:47:32] maksumkolesnukov022: ш
+[09:47:32] Хищный анус: Нету металла
+[09:47:46] maksumkolesnukov022: ну 
+[09:47:51] maksumkolesnukov022: а какие условия
+[09:47:59] vasiliy karat: 60
+[09:48:15] Хищный анус: Ох бля
+[09:48:23] Хищный анус: Я что-то не то сделал
+[09:48:25] Хищный анус: Ага
+[09:48:30] maksumkolesnukov022: мне кажется нас слишком много в команде
+[09:48:32] maksumkolesnukov022: прям ко пец
+[09:49:04] Хищный анус: Как выбросить оружие?
+[09:49:17] maksumkolesnukov022: потом
+[09:49:20] Хищный анус: Ага
+[09:49:21] maksumkolesnukov022: щас ицграц
+[09:49:48] vasiliy karat: кто мы на самом деле
+[09:49:58] vasiliy karat: мы василий
+[09:50:03] Хищный анус: Лол
+[09:50:04] Хищный анус: а я могу
+[09:50:05] maksumkolesnukov022: а непонятно
+[09:50:20] vasiliy karat: берем кредит и покумаем сразу 2
+[09:50:23] vasiliy karat: или щас одну
+[09:50:51] Rackman to admins: Че все такие спокойные
+[09:50:52] бугагашенька: куча ресов там
+[09:50:56] бугагашенька: 600 толива
+[09:50:59] бугагашенька: там
+[09:51:00] Польские Пряники to admins: прости я забыл
+[09:51:02] бугагашенька: пустош
+[09:51:04] бугагашенька: никого нахуй
+[09:51:07] бугагашенька: не опознать
+[09:51:17] бугагашенька: всмысле?
+[09:51:23] Client "𝔻𝕐ℙ𝕃𝕆ℝ𝔼ℤ" spawned in server <STEAM_0:0:512205255> (took 719 seconds).
+[09:51:28] бугагашенька: блять то не база дажже
+[09:51:42] бугагашенька: на
+[09:51:53] бугагашенька: 600 топлива
+[09:52:24] бугагашенька: А ЕЩЕ РАДИАКТИВНЫЕ 
+[09:52:26] бугагашенька: ФИГНИ
+[09:52:31] Хищный анус: Стила нет
+[09:53:28] Хищный анус: Объясните как патроны взять
+[09:54:12] Dropped "𝔻𝕐ℙ𝕃𝕆ℝ𝔼ℤ" from server<STEAM_0:0:512205255>
+[09:54:12] 𝔻𝕐ℙ𝕃𝕆ℝ𝔼ℤ suicided!
+[09:54:16] Vroom-vroom enjoyer: !motd
+[09:54:56] Польские Пряники: щя
+[09:56:16] KayFarIK: я нашёл чюь то базу в километре от нас
+[09:56:18] Польские Пряники: nein
+[09:56:23] KayFarIK: кто
+[09:56:26] Польские Пряники: прятки
+[09:56:27] KayFarIK: Ты мужик
+[09:56:52] KayFarIK: А он служил ? У нас тут армия на сервере
+[09:56:54] KayFarIK: Ты
+[09:57:00] KayFarIK: чт?
+[09:57:08] KayFarIK: я тут буду дедовщину делать
+[09:57:16] KayFarIK: все у меня фантазия кончилась
+[09:57:21] Хищный анус: Не надо, я только два месяца назад с армейки вернулся
+[09:57:27] Хищный анус: не надо флешбеков
+[09:57:30] KayFarIK: ладно
+[09:57:35] vasiliy karat: ВАТААФФАААК
+[09:57:38] KayFarIK: мне просто сервер напоминает милитари рп больше
+[09:57:40] бугагашенька: аномалии...
+[09:57:43] Польские Пряники: стрекоза
+[09:57:50] Польские Пряники: филдовская
+[09:57:50] Хищный анус: Мне напоминает раст на максималках
+[09:57:53] Хищный анус: с политикой
+[09:57:55] Польские Пряники: ты видишь
+[09:57:58] Польские Пряники: стрекозы какие
+[09:57:59] Хищный анус: Я тут тоже впервые кстати
+[09:58:00] Польские Пряники: летают
+[09:58:05] Польские Пряники: я в шоке от микрофлоры
+[09:58:13] Польские Пряники: тут уже мегафлора какая то
+[09:58:46] Польские Пряники: ажс
+[09:58:48] Польские Пряники: ужс
+[09:59:28] vasiliy karat: даваайте союз с вас эскалация
+[10:00:14] vasiliy karat: никто не менял
+[10:00:22] Польские Пряники: fq
+[10:00:27] vasiliy karat: чего
+[10:00:41] Польские Пряники: vasiliy officialno
+[10:00:49] vasiliy karat: гто
+[10:00:58] vasiliy karat: у нас есть все ресурсы
+[10:00:59] vasiliy karat: 2 беомбы
+[10:01:04] Польские Пряники: это изюминка такая
+[10:01:05] Польские Пряники: слива
+[10:01:18] Польские Пряники: водянистый
+[10:01:39] Хищный анус: /s f
+[10:01:43] Хищный анус: /p f
+[10:02:06] Польские Пряники: рывки на сро
+[10:02:10] Польские Пряники: комбо прием
+[10:02:26] vasiliy karat: можно было бы типо
+[10:02:31] vasiliy karat: вещь в склад отпраавить
+[10:02:33] vasiliy karat: понял
+[10:02:37] vasiliy karat: упакавал бомбу
+[10:02:39] vasiliy karat: зафултонил
+[10:02:53] KayFarIK: круто
+[10:03:16] Польские Пряники: дадаада
+[10:03:17] vasiliy karat: вертолет летел
+[10:03:19] vasiliy karat: упал
+[10:03:22] Польские Пряники: наверн
+[10:03:23] Польские Пряники: они там
+[10:03:28] Польские Пряники: дон эксперементо
+[10:03:31] Хищный анус: Я разведывал
+[10:03:42] KayFarIK: у меня нет физгана
+[10:03:47] Польские Пряники: точность
+[10:03:57] vasiliy karat: точно
+[10:03:59] Польские Пряники: ой блииин
+[10:04:02] vasiliy karat: надо на холмы
+[10:04:14] Польские Пряники: а кто враги
+[10:04:16] Польские Пряники: я не понел
+[10:04:21] Польские Пряники: ааааа
+[10:04:24] maksumkolesnukov022: тут уран 
+[10:04:25] maksumkolesnukov022: чей-то
+[10:04:26] Польские Пряники: надо опять
+[10:04:29] Польские Пряники: подмену данных
+[10:04:30] maksumkolesnukov022: и много
+[10:04:30] Польские Пряники: делать
+[10:04:39] Польские Пряники: ток пожосче
+[10:04:49] maksumkolesnukov022: 4к
+[10:04:57] Хищный анус: УРА МЫ КВАЛИФИЦИРОВАЛИСЬ В ТАНКОВЫЕ ВОЙСКА
+[10:05:00] vasiliy karat: давайте зарядим
+[10:05:10] maksumkolesnukov022: может домой отвезти
+[10:05:13] maksumkolesnukov022: ящик
+[10:05:13] KayFarIK: я лично Снайперские войска
+[10:05:21] Хищный анус: А ой
+[10:05:24] Хищный анус: А тут есть рация?
+[10:05:35] Польские Пряники suicided!
+[10:05:35] Польские Пряники killed vasiliy karat using ent_jack_gmod_ezmortarshell
+[10:05:36] RusLanConnection suicided!
+[10:05:36] Хищный анус: Я хочу на разведку пойти
+[10:05:43] Хищный анус: как письменно?
+[10:05:46] KayFarIK: ямогу 
+[10:05:49] KayFarIK: на розвидку
+[10:05:52] vasiliy karat: а как
+[10:05:52] sekta killed T0mat025 using ent_jack_gmod_ezfalloutparticle
+[10:05:56] Польские Пряники: осторожн
+[10:05:57] KayFarIK: я под облучением
+[10:06:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell
+[10:06:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell
+[10:06:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell
+[10:06:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell
+[10:06:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell
+[10:07:08] Dropped "Vroom-vroom enjoyer" from server<STEAM_0:1:638916203>
+[10:07:08] Vroom-vroom enjoyer suicided!
+[10:07:12] Client "Vroom-vroom enjoyer" connected.
+[10:07:26] vasiliy karat: покажите
+[10:07:56] Client "Vroom-vroom enjoyer" spawned in server <STEAM_0:1:638916203> (took 44 seconds).
+[10:07:57] KayFarIK: АРТИРЕЛИЯ!
+[10:07:59] vasiliy karat: а вы кто
+[10:08:06] KayFarIK: МОЯ БОСНЯ ПОСОНААА
+[10:08:16] vasiliy karat: вы кто
+[10:08:21] KayFarIK: боснийская артирелия
+[10:08:30] vasiliy karat: вы кто
+[10:08:32] vasiliy karat: скажите
+[10:08:42] KayFarIK: ухты
+[10:08:47] vasiliy karat: понятно почему чупака растреляли
+[10:08:54] Client "kottlettta" connected.
+[10:08:57] vasiliy karat: он туристом к вам пришел
+[10:09:04] vasiliy karat: вы в него очередь
+[10:09:20] vasiliy karat: наговоры
+[10:09:29] Rackman was killed by lvs_helicopter_rebel
+[10:09:38] vasiliy karat: мы не хотим видеть вас на нашей базе
+[10:09:55] vasiliy karat: вы кто
+[10:10:12] vasiliy karat: вы кто такой давайте машину
+[10:10:26] Chupacabr: альянс дайте денег кушть нечего
+[10:10:38] Chupacabr: дайте денег кушаьть
+[10:10:40] Chupacabr: попить
+[10:10:42] vasiliy karat: альясн асле
+[10:10:44] vasiliy karat: але
+[10:10:49] vasiliy karat: 50 тысяч переведите
+[10:10:56] Toxa: ок
+[10:10:57] Client "sniper gaming" connected.
+[10:11:12] vasiliy karat: ф4 по нашей фракции 5 0000
+[10:11:14] RusLanConnection: ну че там по плану
+[10:11:18] RusLanConnection: 50к
+[10:11:32] vasiliy karat: еще давайте
+[10:11:34] KayFarIK: вообще ему не место там
+[10:11:40] Toxa: еще?
+[10:11:42] vasiliy karat: да
+[10:11:43] RusLanConnection: да
+[10:11:47] Chupacabr: да\
+[10:11:52] Toxa: в процессе
+[10:11:55] vasiliy karat: перевода
+[10:11:57] RusLanConnection: как там план
+[10:11:57] vasiliy karat: перводите
+[10:12:00] RusLanConnection: план эскалации
+[10:12:15] vasiliy karat: в процесе перевода денег намой счет
+[10:13:02] Польские Пряники: что случилось
+[10:13:12] Польские Пряники: хей
+[10:13:19] Польские Пряники: это опять тот 
+[10:13:21] Польские Пряники: самй
+[10:13:37] vasiliy karat: еду отравленую
+[10:13:40] vasiliy karat: принесли не едим
+[10:13:52] Польские Пряники: хей
+[10:13:54] Польские Пряники: тут вода
+[10:13:56] Польские Пряники: льется
+[10:14:11] Польские Пряники: вылилась
+[10:14:14] Польские Пряники: вода
+[10:14:40] vasiliy karat: зомби стреляют
+[10:14:54] Польские Пряники: над будет тоже свою жмод войнушку сделать
+[10:14:59] Польские Пряники: со всякими приколами
+[10:15:17] Польские Пряники: погоди
+[10:15:20] Польские Пряники: а они от удара
+[10:15:21] Польские Пряники: да?
+[10:15:22] RusLanConnection: ну че там план
+[10:15:23] Польские Пряники: бахнули
+[10:15:24] RusLanConnection: эскалации
+[10:15:25] vasiliy karat: альянс прием 
+[10:15:25] Vroom-vroom enjoyer: !motd
+[10:15:30] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[10:15:31] vasiliy karat: альясн прием
+[10:15:33] vasiliy karat: прием
+[10:15:34] vasiliy karat: прием
+[10:15:37] vasiliy karat: але але але
+[10:15:37] Dropped "Хищный анус" from server<STEAM_0:1:125235601>
+[10:15:37] Хищный анус suicided!
+[10:15:42] vasiliy karat: ответье
+[10:15:45] KayFarIK: я видел тоже но вдалкеке
+[10:15:49] KayFarIK: там блы скин зомби
+[10:15:56] Vroom-vroom enjoyer: !motd
+[10:16:06] KayFarIK: ну я чела видел в таком скине
+[10:16:30] Dropped "Bigbarsik223" from server<STEAM_0:0:652203298>
+[10:16:30] Bigbarsik223 suicided!
+[10:17:15] бугагашенька: агоу
+[10:17:30] бугагашенька: ей?
+[10:17:47] Toxa: прием
+[10:17:52] vasiliy karat: приме
+[10:18:02] vasiliy karat: нам нужен вертолет
+[10:18:13] vasiliy karat: стойте у нас крыса сдохла
+[10:18:26] Client "Bigbarsik223" connected.
+[10:18:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[10:18:39] Польские Пряники: аура
+[10:18:41] Польские Пряники: проклятая
+[10:18:43] KayFarIK: нет физ
+[10:18:44] Toxa: за счет обеспечения верталетом сможете занятся эскалацией?
+[10:18:54] Польские Пряники: аааа
+[10:19:00] RusLanConnection: так это была ваша обязаность 
+[10:19:02] RusLanConnection: вы нас позвали
+[10:19:32] Toxa: ну блин тяжело 
+[10:19:38] Польские Пряники: корн
+[10:19:49] vasiliy karat: так кто со мной поедит на расвет
+[10:19:52] Client "Bigbarsik223" spawned in server <STEAM_0:0:652203298> (took 86 seconds).
+[10:20:00] vasiliy karat: придумаем по пути
+[10:20:01] vasiliy karat: что дедать
+[10:20:02] Client "sniper gaming" spawned in server <STEAM_0:1:822550371> (took 545 seconds).
+[10:20:13] Польские Пряники: боевик василий
+[10:20:34] Client "Khonsu" connected.
+[10:20:39] Польские Пряники: вода проливается
+[10:20:57] Польские Пряники: стрекоза
+[10:21:01] Польские Пряники: опять
+[10:21:04] Польские Пряники: тут жужжит
+[10:21:08] Польские Пряники: фауна удевидельна
+[10:21:13] Польские Пряники: а вдруг укусит
+[10:21:18] Польские Пряники: вася мне кажется нужно отойти
+[10:21:21] Польские Пряники: кусается вдруг
+[10:21:32] vasiliy karat: мягакая пасада
+[10:21:49] Польские Пряники: надо попросить
+[10:21:54] Польские Пряники: у них
+[10:22:05] Польские Пряники: хей друг
+[10:22:08] Польские Пряники: вы кто такой
+[10:22:14] Польские Пряники: почему
+[10:22:20] vasiliy karat: человек тут война не безопасно
+[10:22:26] Польские Пряники: не бесплатно
+[10:22:28] vasiliy karat: ядерная война
+[10:22:31] vasiliy karat: бункер 
+[10:22:35] Польские Пряники: страшно вдруг
+[10:22:52] vasiliy karat: вы кто
+[10:22:56] vasiliy karat: кто он
+[10:23:07] vasiliy karat: какие вещи
+[10:23:10] vasiliy karat: мы с ним закопали его
+[10:23:19] vasiliy karat: вещи в гробу
+[10:23:21] vasiliy karat: извините
+[10:23:29] Польские Пряники: гроб незя раскопать греховно
+[10:23:31] vasiliy karat: вот лопата ищите мы надгробие сломали
+[10:23:41] Польские Пряники: там же проклятие
+[10:23:45] Польские Пряники: вдруг раскопает
+[10:23:47] Польские Пряники: убьет
+[10:23:50] Польские Пряники: его
+[10:23:53] Польские Пряники: и нас
+[10:24:03] vasiliy karat: руслан поехали
+[10:25:09] vasiliy karat: здравсвтуйте
+[10:25:10] KayFarIK: Документы
+[10:25:17] KayFarIK: ладно(
+[10:25:18] KayFarIK: )
+[10:25:30] vasiliy karat: закусочную построили?
+[10:25:38] RusLanConnection: я есть хочу
+[10:25:40] vasiliy karat: а ччто есть тогда сейчас
+[10:25:51] vasiliy karat: покажите
+[10:26:23] vasiliy karat: сколько стоит 2000
+[10:26:38] vasiliy karat: можно реактор посмотреть
+[10:27:04] vasiliy karat: 2000
+[10:27:06] vasiliy karat: сколько стоит
+[10:27:11] vasiliy karat: нет
+[10:27:12] vasiliy karat: еды
+[10:27:24] vasiliy karat: на рынке дешевле
+[10:27:28] Toxa: ммм?
+[10:27:32] vasiliy karat: дешевле
+[10:27:41] Toxa: они поехали к ним
+[10:27:42] KayFarIK: на что
+[10:27:45] Toxa: все что сказали
+[10:27:46] vasiliy karat: полечите друга
+[10:27:56] Toxa: а я щя
+[10:28:08] vasiliy karat: ээ куда амашина\
+[10:28:10] RusLanConnection killed RusLanConnection
+[10:28:11] vasiliy karat: меня
+[10:28:13] Польские Пряники: блин
+[10:28:18] vasiliy karat was killed by lvs_wheeldrive_dodwillyjeep
+[10:28:18] Польские Пряники: ты как
+[10:28:26] vasiliy karat: я 
+[10:28:27] Польские Пряники: что там
+[10:28:28] vasiliy karat: почт
+[10:28:30] Польские Пряники: расскажите
+[10:28:30] vasiliy karat: руслан
+[10:28:33] vasiliy karat: вот что ты сдох
+[10:28:35] vasiliy karat: в мшаине
+[10:28:38] vasiliy karat: 20 фислов украл
+[10:28:43] vasiliy karat: а машина взовралас
+[10:28:47] Dropped "sniper gaming" from server<STEAM_0:1:822550371>
+[10:28:47] sniper gaming suicided!
+[10:28:49] Польские Пряники: незнаю
+[10:29:01] vasiliy karat: почему
+[10:29:08] vasiliy karat: почему нельзя
+[10:29:23] vasiliy karat: не нек
+[10:29:23] Польские Пряники: мы просто ослабеем на их фоне
+[10:29:25] Польские Пряники: если время
+[10:29:25] бугагашенька: делайте танки
+[10:29:27] Польские Пряники: полетит
+[10:29:28] бугагашенька: срочно
+[10:29:29] vasiliy karat: мы говорим вы делаете ок
+[10:29:35] vasiliy karat: мы силнее вас
+[10:30:20] vasiliy karat: я заразился трупным вирусом
+[10:31:03] vasiliy karat: я посмотрю чт отам у альянса
+[10:31:24] Польские Пряники: зефирки
+[10:31:44] vasiliy karat:  ува с уран
+[10:31:50] Client "†ŠẄǺĜ†🆅🅰🅻🆅" connected.
+[10:32:07] KayFarIK: закажем турели
+[10:32:11] KayFarIK: Турели - это Бог войны
+[10:32:19] Польские Пряники: на
+[10:32:31] Client "kottlettta" connected.
+[10:32:33] Client "†ŠẄǺĜ†🆅🅰🅻🆅" spawned in server <STEAM_0:1:63727193> (took 43 seconds).
+[10:32:57] Польские Пряники: вдруг они там
+[10:33:01] Польские Пряники: кароче специально
+[10:33:03] Польские Пряники: ну вы там ждите
+[10:33:09] Польские Пряники: что бы нам плохо
+[10:33:14] Польские Пряники: на нас наживутся
+[10:33:27] Vroom-vroom enjoyer was killed by ent_jack_gmod_ezsentry
+[10:33:30] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezaidradio
+[10:33:33] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:33:33] бугагашенька: идэм
+[10:33:42] бугагашенька: цыгани кароче
+[10:33:43] Rackman: Ало
+[10:33:44] Rackman: Ало
+[10:33:45] Rackman: Ало
+[10:33:49] Chupacabr: алшо\
+[10:33:53] KayFarIK: Расстреляем цыганов на месте
+[10:33:53] Rackman: Да я это союзников зову
+[10:34:00] KayFarIK: у нас милитаризм
+[10:34:02] Rackman: А ещё теперь в радио говорить голом нельзя
+[10:34:04] Rackman: Только текст
+[10:34:07] vasiliy karat: здрасте
+[10:34:09] KayFarIK: я раставлю
+[10:34:10] KayFarIK: мины
+[10:34:11] Rackman: Ало
+[10:34:13] Rackman: Ало
+[10:34:15] Rackman: Ало
+[10:34:18] Польские Пряники: никогда
+[10:34:18] Rackman: Ало
+[10:34:19] vasiliy karat: когда 50 тысяч вы обещали
+[10:34:26] Rackman: Ало вы че там 
+[10:34:34] vasiliy karat: ну как видите у них сбор
+[10:34:43] Rackman: Ваша цель будет убить их ПВО
+[10:34:48] vasiliy karat: две пво
+[10:34:49] Rackman: Тогда наша авиация прилетит на подмогу
+[10:34:51] vasiliy karat: на базе
+[10:34:59] Польские Пряники: понастроили техноглогий
+[10:35:19] KayFarIK: одолжите мне физган мой сцыганили
+[10:35:22] KayFarIK: я ящик забрать
+[10:35:24] vasiliy karat: я предлагаю
+[10:35:24] KayFarIK: спрсимбо
+[10:35:27] vasiliy karat: сделать бомбу
+[10:35:33] vasiliy karat: уже сейчас
+[10:35:39] Rackman: Щас спрошу может сможем выделить один из наших танков вам
+[10:35:41] rty000pro was killed by ent_aboot_gmod_ezshippingcontainer
+[10:35:44] KayFarIK: блять
+[10:35:46] vasiliy karat: можно к альянсу
+[10:35:47] Польские Пряники: можно вертолет как отвлекалку придумать
+[10:35:50] Польские Пряники: что бы пво
+[10:35:52] KayFarIK: сука
+[10:35:53] Польские Пряники: разрядить
+[10:36:22] KayFarIK: физика кривая
+[10:36:24] vasiliy karat: але
+[10:36:25] vasiliy karat: дайте дене
+[10:36:29] KayFarIK: РТО извини меня пожалуйста
+[10:36:35] Chupacabr: мани
+[10:36:38] Польские Пряники: ой
+[10:36:49] KayFarIK: давайте я турели починю вам
+[10:36:51] Vroom-vroom enjoyer: !motd
+[10:36:54] maksumkolesnukov022: нам нужно керамики
+[10:36:58] maksumkolesnukov022: около 800
+[10:36:58] vasiliy karat: кароче
+[10:36:59] KayFarIK: где радио
+[10:37:02] †ŠẄǺĜ†🆅🅰🅻🆅 was killed by ent_jack_gmod_ezsentry
+[10:37:07] Польские Пряники: 2
+[10:37:12] vasiliy karat: предлагаю строить оутпост и все
+[10:37:13] vasiliy karat: там начнем
+[10:37:16] Rackman: Ало
+[10:37:16] KayFarIK: извини меня пж
+[10:37:18] Rackman: Приезжайте
+[10:37:18] vasiliy karat: на холме
+[10:37:19] KayFarIK: хоорошо
+[10:37:20] vasiliy karat: где миномет
+[10:37:21] Rackman: Заберайте один танк
+[10:37:26] maksumkolesnukov022: да не 2к много
+[10:37:28] Rackman: Мы отдаем вам 1 танк
+[10:37:30] maksumkolesnukov022: 500-600 хватит
+[10:37:33] vasiliy karat: телепортируйте
+[10:37:36] vasiliy karat: к ним
+[10:37:42] Rackman: Ало
+[10:37:43] Rackman: Ало
+[10:37:44] Rackman: Ало
+[10:37:45] Польские Пряники: ало
+[10:37:46] vasiliy karat: идут
+[10:37:47] RusLanConnection: идем
+[10:37:48] Rackman: Ок
+[10:37:58] KayFarIK: я купил
+[10:38:31] Польские Пряники: ты кто
+[10:38:39] Польские Пряники: ты кто
+[10:38:44] †ŠẄǺĜ†🆅🅰🅻🆅: я
+[10:38:48] †ŠẄǺĜ†🆅🅰🅻🆅: ?
+[10:38:52] Польские Пряники: вдруг тут опасно
+[10:38:55] Польские Пряники: нельзя
+[10:39:00] †ŠẄǺĜ†🆅🅰🅻🆅: ок
+[10:39:07] †ŠẄǺĜ†🆅🅰🅻🆅: я тут впервые
+[10:39:14] Польские Пряники: опасно
+[10:39:15] Польские Пряники: сбегай
+[10:39:17] †ŠẄǺĜ†🆅🅰🅻🆅: ок
+[10:39:30] Польские Пряники: ой
+[10:39:42] Польские Пряники: а почему в ыне закрываете
+[10:39:44] Польские Пряники: технику
+[10:39:48] Польские Пряники: богатые что ди
+[10:40:00] Toxa: че тут
+[10:40:09] Toxa: а василии
+[10:40:15] Toxa: да
+[10:40:22] Rackman: Вы готовы?
+[10:40:35] RusLanConnection: василий отошел
+[10:40:40] vasiliy karat: я тут на холму
+[10:40:50] Rackman: Ждем вашей готовности
+[10:40:54] patrikalkas to admins: Ящик не продался
+[10:41:02] Client "Orange" connected.
+[10:41:05] vasiliy karat: але вы где
+[10:41:10] Польские Пряники: !psay patrik разборка
+[10:41:13] Польские Пряники: как
+[10:41:17] KayFarIK: да
+[10:41:20] Польские Пряники: а
+[10:41:24] KayFarIK: я занимаюсь
+[10:41:35] Client "Ayanami Rei" connected.
+[10:41:36] Rackman: Я  вернулся
+[10:41:40] Rackman: У меня тут была проблема
+[10:41:41] Польские Пряники to patrikalkas: рассоедини
+[10:41:45] RusLanConnection: Вася, мы готовы?
+[10:41:51] vasiliy karat: каков наш план 
+[10:42:10] vasiliy karat: вы кто
+[10:42:23] Client "ВИННИ6969" connected.
+[10:42:24] Client "Ayanami Rei" connected.
+[10:42:25] Польские Пряники: ты кто
+[10:42:29] Польские Пряники: ты кто
+[10:42:29] Rackman: Войну обьявите вы или мы?
+[10:42:31] Польские Пряники: хей
+[10:42:39] Польские Пряники: ненад
+[10:42:40] Польские Пряники: нельзя
+[10:42:47] Rackman: Войну обьявите вы или мы?
+[10:42:51] Rackman: Войну обьявите вы или мы?
+[10:42:58] Rackman: Войну обьявите вы или мы?
+[10:42:58] Польские Пряники: 1 проблема
+[10:43:00] Польские Пряники: я воняю
+[10:43:02] RusLanConnection: вы напишите
+[10:43:02] Польские Пряники: убеги!
+[10:43:05] vasiliy karat: надо придумать
+[10:43:06] RusLanConnection: и потом вы войну
+[10:43:07] vasiliy karat: причину
+[10:43:09] vasiliy karat: еще
+[10:43:19] vasiliy karat: ну то что мы постоянно к ним лезли
+[10:43:22] Rackman: Причина очевидна, они людей пугают ядерным оружием
+[10:43:39] Rackman: Вы готовы?
+[10:43:51] vasiliy karat: наши идут на точку
+[10:43:52] Client "Vibvibb" connected.
+[10:43:52] vasiliy karat: минометную
+[10:43:56] vasiliy karat: скажу когда
+[10:43:59] Rackman: Ок жду
+[10:44:05] KayFarIK: левая сторона зминированая
+[10:44:13] KayFarIK: буду првую
+[10:44:28] RusLanConnection: мы на позиции
+[10:44:31] maksumkolesnukov022: радио вот там
+[10:44:40] maksumkolesnukov022: вот радио
+[10:44:53] KayFarIK: чьо
+[10:44:54] Rackman: Готовы к обьявлению?
+[10:45:01] Client "Vibvibb" spawned in server <STEAM_0:0:758100070> (took 69 seconds).
+[10:45:05] KayFarIK: щас
+[10:45:09] vasiliy karat: так
+[10:45:27] Rackman: Значит пора
+[10:46:33] Польские Пряники: што
+[10:46:45] RusLanConnection: у них тяжелый и средний танк
+[10:46:53] Польские Пряники: хей что мне делать
+[10:47:00] vasiliy karat: пряник можешь к комне
+[10:47:01] Rackman: Вам потребуется уничтожить их ПВО
+[10:47:02] RusLanConnection: артиллерия и пт пушка
+[10:47:03] (TEAM) KayFarIK: я правую сторону замининрвоал
+[10:47:05] Rackman: У них 2 штуки
+[10:47:05] Польские Пряники: щяс
+[10:47:05] KayFarIK: аккуратнее
+[10:47:09] vasiliy karat: бери винтовку и на точку 1
+[10:47:10] KayFarIK: мины почти невидимые
+[10:47:19] Польские Пряники: мне на мину?
+[10:47:21] Польские Пряники: метательную
+[10:47:26] maksumkolesnukov022: билд тулом 
+[10:47:28] vasiliy karat: я на 1
+[10:47:29] Польские Пряники: друг ты кто
+[10:47:32] KayFarIK: да
+[10:47:32] Польские Пряники: убегай
+[10:47:34] Польские Пряники: укушу
+[10:47:41] Польские Пряники: больно укушу
+[10:47:43] Польские Пряники: уходи
+[10:47:44] Vibvibb: насколько
+[10:47:48] Польские Пряники: смерть
+[10:47:59] KayFarIK: проход заминирован предупреждаю тьебя
+[10:48:04] Vibvibb: это мы ещё посмотрим.
+[10:48:04] Польские Пряники: стекло резиновое
+[10:48:18] Польские Пряники: один
+[10:48:40] Toxa: верталет чтоли уже тут взрывали?
+[10:48:42] Client "ВИННИ6969" connected.
+[10:48:59] Польские Пряники: надо было бы придумать
+[10:49:03] Польские Пряники: гранатометательный
+[10:49:12] Польские Пряники: тут бы было круто с него метать
+[10:49:21] vasiliy karat: можешь притащить это будет третий
+[10:49:28] vasiliy karat: давай я закажу патроны
+[10:49:32] Польские Пряники: не это минометательный ты говоришь
+[10:49:33] vasiliy karat: а ты неси его сюда
+[10:49:38] Польские Пряники: аэтот мунишнс есть
+[10:49:41] Польские Пряники: будет
+[10:49:51] Польские Пряники: он такой в руки можно брать его еще
+[10:49:53] Toxa: да-да
+[10:49:55] Польские Пряники to admins: шифраторы
+[10:49:59] Польские Пряники: я принесу тогда
+[10:50:26] RusLanConnection: але, танкист, подъезжай к нам
+[10:50:46] KayFarIK: на нас?
+[10:50:49] KayFarIK: иди к РТО
+[10:50:51] RusLanConnection: прием, танкист!
+[10:50:54] RusLanConnection: ответь!
+[10:50:55] KayFarIK: щас щаминирую
+[10:50:58] vasiliy karat: кто танкист
+[10:51:00] KayFarIK: иди к РТО
+[10:51:07] RusLanConnection: кто на танк сядет?
+[10:51:10] Польские Пряники: не я
+[10:51:17] RusLanConnection: нам нужно, чтобы он подъехал сейчас!
+[10:51:20] vasiliy karat: иду
+[10:51:30] vasiliy karat: а вы где
+[10:51:31] KayFarIK: Я мирный
+[10:51:33] RusLanConnection: вероятность, что нашу минометную позицию расстреляет танк!
+[10:51:42] RusLanConnection: мы прямо у них
+[10:51:53] RusLanConnection: 150 м от них
+[10:52:30] vasiliy karat: але
+[10:53:27] Client "Orange" spawned in server <STEAM_0:1:61399769> (took 745 seconds).
+[10:53:49] vasiliy karat: они окружены
+[10:54:00] vasiliy karat: может точку сюда
+[10:54:03] vasiliy karat: пока можно
+[10:54:25] Польские Пряники: я там щас вещь принесу
+[10:54:26] Польские Пряники: на 1
+[10:54:42] RusLanConnection: вы скоро??? они минируют поле!!!
+[10:54:47] RusLanConnection: хватить спать!
+[10:54:51] Toxa: сверху выкатили арту
+[10:55:02] Польские Пряники: вася едет
+[10:55:08] Dropped "†ŠẄǺĜ†🆅🅰🅻🆅" from server<STEAM_0:1:63727193>
+[10:55:08] †ŠẄǺĜ†🆅🅰🅻🆅 suicided!
+[10:55:08] Toxa: они не дают ответов
+[10:55:10] Client "kosmokot" connected.
+[10:55:17] RusLanConnection: вася уже здесь, где союзники?
+[10:55:20] RusLanConnection: где атака?
+[10:55:24] RusLanConnection: ХВАТИТ ЖДАТЬ!!!
+[10:56:06] KayFarIK: воевать наверное
+[10:56:10] Client "_Kirushkins_" connected.
+[10:56:15] Client "kosmokot" spawned in server <STEAM_0:0:41186306> (took 65 seconds).
+[10:56:26] Польские Пряники: а где они
+[10:56:31] Польские Пряники: которые помощь
+[10:56:34] Польские Пряники: там делают
+[10:56:41] Польские Пряники: сердечку моему
+[10:56:46] Польские Пряники: когда они проснутся то
+[10:56:51] Польские Пряники: сказать надо
+[10:56:53] Польские Пряники: что то от них
+[10:57:01] Польские Пряники: странно как то
+[10:57:29] Польские Пряники: нужно прикупить модных шмоток
+[10:57:34] Польские Пряники: сейчас
+[10:57:35] vasiliy karat: я уверен надо сломать зенитки и лагать не будет
+[10:57:54] Польские Пряники: ало????
+[10:58:13] RusLanConnection: МЫ СЕЙЧАС САМИ ВСЕ СДЕЛАЕМ!!!
+[10:58:29] vasiliy karat: я придумал слоган
+[10:58:50] vasiliy karat: выходят на связь?
+[10:58:59] Польские Пряники: я гранатометательный на спайс точке буду
+[10:59:01] RusLanConnection: УБЕЙТЕ ИХ!
+[10:59:02] RusLanConnection: УБЕЙТЕ
+[10:59:04] Польские Пряники: против арт
+[10:59:13] Польские Пряники: где
+[10:59:20] vasiliy karat: руслан погоди лан рп это не только война но и решения договоры
+[10:59:31] vasiliy karat: но еще есть союзники которые объявляют войны
+[10:59:33] Польские Пряники: что происходит
+[10:59:36] Польские Пряники: испуг
+[10:59:59] Польские Пряники: где все
+[11:00:01] Польские Пряники: не спите
+[11:00:03] Польские Пряники: одиноко
+[11:00:07] RusLanConnection: на местах
+[11:00:13] RusLanConnection: все те, кто готовы сражаться на местах
+[11:00:23] RusLanConnection: ракман с ними разговаривает
+[11:00:26] Vroom-vroom enjoyer: !motd
+[11:00:31] Польские Пряники: круто
+[11:00:35] RusLanConnection: НЕ КРУТО
+[11:00:35] Польские Пряники: ждем
+[11:00:37] Польские Пряники: получается
+[11:00:46] Польские Пряники: шифраторы
+[11:01:12] KayFarIK: На верху артирелия
+[11:01:30] vasiliy karat: дайте хотябы
+[11:01:31] rty000pro: -79 49
+[11:01:34] vasiliy karat: 50 тысяч
+[11:01:37] vasiliy karat: 10
+[11:01:38] vasiliy karat: 10
+[11:01:38] KayFarIK: Мне стрелять по артирелисту?
+[11:01:41] KayFarIK: РТО
+[11:01:41] vasiliy karat: 20
+[11:01:41] Toxa: !motd
+[11:01:43] vasiliy karat: мобилизацию
+[11:01:48] maksumkolesnukov022: ку
+[11:01:58] maksumkolesnukov022: тут типа комплекс 
+[11:02:01] maksumkolesnukov022: на всякий случай
+[11:02:26] vasiliy karat: патроны 
+[11:02:40] maksumkolesnukov022: если чё можно отсюда на базу попасть
+[11:02:49] maksumkolesnukov022: е на точку
+[11:03:09] maksumkolesnukov022: комплекс
+[11:03:11] maksumkolesnukov022: ядерный
+[11:03:15] maksumkolesnukov022: это база
+[11:03:25] maksumkolesnukov022: у меня всё тепается
+[11:03:32] maksumkolesnukov022: стена не дееспособна
+[11:03:32] Orange: /9340982093420hil
+[11:03:37] maksumkolesnukov022: точно то нажимаешь?
+[11:03:41] vasiliy karat: щас заберу
+[11:03:58] maksumkolesnukov022: попробуй щас
+[11:04:04] maksumkolesnukov022: да гавно
+[11:04:07] T0mat025: ping400
+[11:04:42] maksumkolesnukov022: короче щас идём, при необходимости оборону здесь держать можно
+[11:04:47] Rackman: Ало дураки я же не лидер
+[11:04:51] Rackman: Чего вы от меня ждете то
+[11:04:58] Rackman: Они ушли с нашей базы
+[11:04:59] RusLanConnection: у тебя же переговоры
+[11:05:00] KayFarIK: я попробую сверху как то
+[11:05:04] RusLanConnection: какой результат?
+[11:05:07] RusLanConnection: когда атака?
+[11:05:09] KayFarIK: ну если я бы пошел они бы меня увидели 100 процентов
+[11:05:13] maksumkolesnukov022: альт е на ящик
+[11:05:15] Bigbarsik223: 11 -108
+[11:05:16] Orange: /9340982093420hil
+[11:05:19] Rackman: Ещё ничего не решено, они решили найти тоху поскольку он лидео
+[11:05:30] Rackman: Нооооооо
+[11:05:34] Rackman: От ядерного оружия не отказываются
+[11:05:39] Orange: /9340982093420hil
+[11:05:39] Rackman: Как-то так
+[11:05:43] бугагашенька: йооооу!!!!
+[11:05:46] Польские Пряники: фонарик
+[11:05:51] Польские Пряники: запускают
+[11:06:03] Польские Пряники: а вдруг сигнал какой то
+[11:06:05] Польские Пряники: секретный
+[11:06:06] maksumkolesnukov022: это просто гражданский?
+[11:06:28] Rackman: Да где тоха то, он вообще живой? От него не слуху не духу
+[11:06:31] Orange: /9340982093420hil
+[11:06:34] Польские Пряники: какой ужас
+[11:06:36] Orange: /9340982093420hil
+[11:06:48] maksumkolesnukov022: не рейдить а атаковать
+[11:06:49] Польские Пряники: скажите что она не поворачивается по другому
+[11:06:50] maksumkolesnukov022: это не раст
+[11:06:56] maksumkolesnukov022: тут создаются крутые истории
+[11:06:57] Польские Пряники: заклинила
+[11:06:59] бугагашенька: если хотите мир.... дайте нам вступить в альянс и станем просто 1 стран�
+[11:07:01] Rackman: ТОХА АЛООООООООООООООООООО
+[11:07:06] бугагашенька: УЗАЧИ! :З
+[11:07:23] Rackman: Тоха вне связи
+[11:07:26] Rackman: Все на вас 
+[11:07:28] Польские Пряники: -128 12 заранее
+[11:07:29] maksumkolesnukov022: тихо
+[11:07:40] Orange: /9340982093420hil
+[11:07:42] maksumkolesnukov022: патрик с ними
+[11:07:46] maksumkolesnukov022: СТОЙ
+[11:07:49] maksumkolesnukov022: ТАМ ВРАГИ
+[11:07:55] Rackman: Не забывайте танки на нашей базе
+[11:07:57] maksumkolesnukov022: ТАНК
+[11:08:05] Orange: // как предмет взять и надеть
+[11:08:15] maksumkolesnukov022 killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doithompsonm1a1
+[11:08:36] Orange: /global как предметы брать и надевать 
+[11:08:39] vasiliy karat killed бугагашенька using tfa_doispringfield_scop
+[11:08:42] kosmokot killed Toxa using tfa_doithompsonm1a1
+[11:08:50] Orange: !motd
+[11:09:21] Bigbarsik223 killed RusLanConnection using tfa_doithompsonm1a1
+[11:09:22] kosmokot killed Chupacabr using tfa_doithompsonm1a1
+[11:09:31] Польские Пряники to admins: fq
+[11:09:37] бугагашенька killed бугагашенька
+[11:09:40] T0mat025 was killed by ent_jack_gmod_ezsentry
+[11:09:41] Orange: !motd
+[11:09:42] maksumkolesnukov022 was killed by ent_jack_gmod_ezsentry
+[11:09:57] KayFarIK killed Vroom-vroom enjoyer using tfa_doispringfield_scop
+[11:10:04] Orange: !motd
+[11:10:05] RusLanConnection cloaked Themself by amount 0
+[11:10:15] Rackman to admins: Из-за лагов сервера вертолет разбился
+[11:10:28] maksumkolesnukov022: ПРИЁМ
+[11:10:32] Chupacabr killed kosmokot using tfa_doithompsonm1a1
+[11:10:32] maksumkolesnukov022: МОБИЛИЗУЙТЕ ВОЙСКА
+[11:10:37] maksumkolesnukov022: ПРИЁМ
+[11:10:42] бугагашенька: АТАКУЙТЕ СУКА
+[11:10:43] бугагашенька: ААААААААА
+[11:10:47] (TEAM) rty000pro: Приём нас атакую пидорасы
+[11:10:48] Польские Пряники: н
+[11:10:49] Chupacabr killed UwU Я АНИМЕЩНИЦА ТЯ using ent_jack_gmod_ezsticknade
+[11:10:49] Chupacabr suicided!
+[11:10:49] Chupacabr killed vasiliy karat
+[11:10:54] maksumkolesnukov022: МОБИЛИЗАЦИЮ
+[11:10:55] Orange: !motd
+[11:10:55] maksumkolesnukov022: ПРИЁМ
+[11:10:59] rty000pro: ВОЙСКА МОБИЛЗИРУЙ
+[11:11:05] maksumkolesnukov022: БУГАГАШЕНЬКА
+[11:11:08] KayFarIK killed Vroom-vroom enjoyer using tfa_doim1911
+[11:11:17] Orange: Grab
+[11:11:22] KayFarIK killed Vibvibb using tfa_doim1911
+[11:11:27] Польские Пряники to admins: что происходит помогите
+[11:11:29] Orange: !Grad
+[11:11:30] Client "ВИННИ6969" spawned in server <STEAM_0:1:924883231> (took 1368 seconds).
+[11:11:33] Orange: !motd
+[11:11:50] KayFarIK killed Vibvibb using tfa_doim1911
+[11:11:51] (csay from RusLanConnection) из-за газа видимо лагает
+[11:11:52] Orange: !motd
+[11:11:53] Польские Пряники to admins: лаги какие то я застрял на месте это у всех так???
+[11:12:00] Bigbarsik223: дайте керамики через стену пройти
+[11:12:02] (csay from RusLanConnection) пока воздержитесь от газ бомб
+[11:12:05] Rackman stripped weapons from Themself
+[11:12:05] Rackman: !strip Rackman
+[11:12:07] Chupacabr was killed by ent_jack_gmod_ezsentry
+[11:12:16] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[11:12:20] RusLanConnection uncloaked Themself
+[11:12:21] RusLanConnection killed солдат using ent_jack_gmod_ezboundingmine
+[11:12:29] RusLanConnection killed sekta using ent_jack_gmod_ezboundingmine
+[11:12:38] KayFarIK killed RusLanConnection using tfa_doispringfield_scop
+[11:12:41] UwU Я АНИМЕЩНИЦА ТЯ was killed by ent_jack_gmod_ezsentry
+[11:12:46] Orange: !motd
+[11:12:48] KayFarIK killed vasiliy karat using tfa_doim1911
+[11:13:20] Orange: !motd
+[11:13:25] KayFarIK killed vasiliy karat using tfa_doim1911
+[11:13:38] vasiliy karat killed maksumkolesnukov022 using tfa_doisw1917
+[11:13:38] Orange: !motd
+[11:13:39] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[11:13:39] Польские Пряники suicided!
+[11:13:41] ВИННИ6969: !motd
+[11:13:54] RusLanConnection killed KayFarIK using tfa_doispringfield
+[11:14:03] vasiliy karat killed солдат using tfa_doithompsonm1a1
+[11:14:08] Client "Mayo Gib ihm" connected.
+[11:14:09] vasiliy karat: ПОШЛИТЕ
+[11:14:20] Chupacabr killed Bigbarsik223 using tfa_doi_marinebayonet
+[11:14:40] KayFarIK killed Chupacabr using ent_jack_gmod_ezboundingmine
+[11:14:52] Rackman killed бугагашенька using lvs_pz4g_mow
+[11:15:15] Bigbarsik223: 63 -92 zombi
+[11:15:23] Rackman killed rty000pro using lvs_pz4g_mow
+[11:15:24] Bigbarsik223: 11-108 vasili
+[11:15:32] Vibvibb: привет
+[11:15:38] Vibvibb: а как ты базу поставил?
+[11:15:50] Vibvibb: уже
+[11:15:53] maksumkolesnukov022 killed RusLanConnection using tfa_doispringfield_scop
+[11:16:07] Vibvibb: ааа
+[11:16:08] Vibvibb: спасибо
+[11:16:12] RusLanConnection killed maksumkolesnukov022 using tfa_doi_marinebayonet
+[11:16:16] Vibvibb: у меня вон там заначка
+[11:16:19] Vibvibb: можешь забрать
+[11:16:26] бугагашенька killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doim1garand
+[11:16:37] Chupacabr killed бугагашенька using tfa_doispringfield
+[11:16:41] rty000pro killed Rackman using lvs_trailer_75mle1897
+[11:16:41] rty000pro killed Toxa using lvs_trailer_75mle1897
+[11:16:43] Vibvibb: уйди
+[11:16:51] Vibvibb: благодарю за понимание
+[11:16:56] Orange killed Orange
+[11:16:59] Client "Польские Пряники" connected.
+[11:17:04] vasiliy karat: 210
+[11:17:15] patrikalkas killed солдат using tfa_doimg42
+[11:17:18] vasiliy karat killed rty000pro using tfa_doi_m16a1
+[11:17:23] maksumkolesnukov022: ВОЙНА ЧУВАК
+[11:17:32] sekta killed RusLanConnection using ent_jack_gmod_ezboundingmine
+[11:17:36] maksumkolesnukov022: ЭТО КОШМАН
+[11:17:40] maksumkolesnukov022: КОШМАР
+[11:17:43] (TEAM) ВИННИ6969: !mottd
+[11:17:48] vasiliy karat: АПТЕ
+[11:18:00] (TEAM) ВИННИ6969: !mottd
+[11:18:15] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 76 seconds).
+[11:18:19] Orange: !motd
+[11:18:19] (TEAM) ВИННИ6969: !motd
+[11:18:26] RusLanConnection killed Bigbarsik223 using tfa_doispringfield
+[11:18:30] patrikalkas killed солдат using tfa_doimg42
+[11:18:32] maksumkolesnukov022 killed RusLanConnection using tfa_doithompsonm1a1
+[11:18:34] maksumkolesnukov022 killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doithompsonm1a1
+[11:18:41] vasiliy karat killed maksumkolesnukov022 using tfa_doi_m16a1
+[11:18:53] RusLanConnection killed rty000pro using tfa_doispringfield
+[11:18:55] Vibvibb: ахуеть
+[11:18:57] patrikalkas killed sekta using tfa_doik98_scop
+[11:18:57] Польские Пряники: ой
+[11:18:59] Польские Пряники: блиин
+[11:19:05] KayFarIK: у меня 1 хп
+[11:19:08] Польские Пряники killed Vibvibb using tfa_doig43
+[11:19:20] Bigbarsik223: 63 -92 zombi
+[11:19:23] Польские Пряники: кто
+[11:19:24] patrikalkas killed sekta using tfa_doik98_scop
+[11:19:28] Bigbarsik223: 11 -108 vasilli
+[11:19:29] Польские Пряники: своии
+[11:19:37] Польские Пряники: че реально
+[11:19:38] Польские Пряники: напиши
+[11:19:42] Toxa: LF
+[11:19:43] Toxa: ДА
+[11:19:43] Польские Пряники: ааа
+[11:19:45] Польские Пряники: ну лан
+[11:19:48] Chupacabr killed бугагашенька using tfa_doispringfield
+[11:19:49] Vibvibb: НЕ СТРЕЛЯЙТЕ!!!! Я МИРНЫЙ!!!
+[11:20:06] Orange was killed by ent_jack_gmod_ezsentry
+[11:20:13] KayFarIK killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doim1919
+[11:20:15] (TEAM) ВИННИ6969: ё
+[11:20:30] Chupacabr killed T0mat025 using tfa_doispringfield
+[11:20:32] Rackman killed rty000pro using lvs_pz4g_mow
+[11:20:48] KayFarIK killed RusLanConnection using tfa_doim1919
+[11:20:49] Vibvibb: НЕ СТРЕЛЯЙТЕ!!!! Я МИРНЫЙ!!!
+[11:20:50] солдат killed Польские Пряники using tfa_doispringfield
+[11:20:56] UwU Я АНИМЕЩНИЦА ТЯ killed солдат using tfa_doispringfield
+[11:20:57] maksumkolesnukov022: УХОДИ ЕСЛИ МИРНЫЙ
+[11:20:57] Toxa killed Bigbarsik223 using lvs_bomb
+[11:21:09] patrikalkas killed rty000pro using tfa_doik98_scop
+[11:21:24] Client "Redoket" connected.
+[11:21:29] maksumkolesnukov022 killed RusLanConnection using tfa_doithompsonm1a1
+[11:21:30] Orange: !motd
+[11:21:33] maksumkolesnukov022 suicided!
+[11:21:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmunitions
+[11:22:06] UwU Я АНИМЕЩНИЦА ТЯ killed солдат using tfa_doispringfield
+[11:22:13] KayFarIK killed vasiliy karat using tfa_doim1919
+[11:22:17] Dropped "Vibvibb" from server<STEAM_0:0:758100070>
+[11:22:17] Vibvibb suicided!
+[11:22:21] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 57 seconds).
+[11:23:30] vasiliy karat killed солдат using tfa_doi_m16a1
+[11:23:35] бугагашенька killed Chupacabr using tfa_doithompsonm1a1
+[11:23:36] Redoket: УРА
+[11:23:38] maksumkolesnukov022: ТАМ ЕЩЁ ОДИН ЕСТТ
+[11:23:43] maksumkolesnukov022: И ОНИ ВЕЗУТ КАТЮШУ
+[11:23:45] patrikalkas killed бугагашенька using tfa_doim1912
+[11:23:50] maksumkolesnukov022: У НИХ ЕСТЬ КАТЮША
+[11:24:08] Redoket was killed by ent_jack_gmod_ezsentry
+[11:24:25] vasiliy karat: 270 ГРАНАТА ЛИЩНИЯЯ
+[11:24:42] vasiliy karat killed rty000pro using tfa_doi_m16a1
+[11:24:53] Chupacabr killed солдат using tfa_doispringfield
+[11:24:53] RusLanConnection was killed by ent_jack_gmod_ezsentry
+[11:25:12] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[11:25:23] Chupacabr killed sekta using tfa_doispringfield
+[11:25:27] (SILENT) RusLanConnection ran lua: RemoveAllRagdoll()
+[11:25:28] (SILENT) RusLanConnection ran lua: RemoveAllRagdoll()
+[11:25:42] Chupacabr killed солдат using tfa_doispringfield
+[11:25:44] vasiliy karat: МЫ ТАМ ВОЮЕМ А ВЫ ГДЕ
+[11:25:55] rty000pro killed Chupacabr using tfa_doim1919
+[11:26:05] rty000pro killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doim1919
+[11:26:22] kosmokot: !fps
+[11:26:24] RusLanConnection killed солдат using tfa_doithompsonm1a1
+[11:26:36] maksumkolesnukov022 killed vasiliy karat using tfa_doithompsonm1a1
+[11:26:42] UwU Я АНИМЕЩНИЦА ТЯ killed rty000pro using tfa_blast_sjogren
+[11:26:44] maksumkolesnukov022 killed RusLanConnection using tfa_doithompsonm1a1
+[11:26:52] maksumkolesnukov022 killed vasiliy karat using tfa_doithompsonm1a1
+[11:26:56] Rackman killed maksumkolesnukov022 using tfa_doik98_scop
+[11:26:57] KayFarIK killed patrikalkas using ent_jack_gmod_ezboundingmine
+[11:27:06] vasiliy karat killed ВИННИ6969 using tfa_doisw1917
+[11:27:29] Redoket killed rty000pro using tfa_doimg42
+[11:27:31] KayFarIK killed Redoket using tfa_doithompsonm1a1
+[11:27:37] vasiliy karat killed ВИННИ6969 using tfa_doithompsonm1a1
+[11:27:39] T0mat025 killed Orange using wep_jack_gmod_ezpickaxe
+[11:27:41] RusLanConnection killed T0mat025 using tfa_doispringfield
+[11:27:42] Dropped "Orange" from server<STEAM_0:1:61399769>
+[11:27:42] Orange suicided!
+[11:27:46] бугагашенька killed Redoket using tfa_doithompsonm1a1
+[11:27:59] бугагашенька killed Redoket using tfa_doithompsonm1a1
+[11:28:02] Client "Orange" connected.
+[11:28:05] ВИННИ6969 suicided!
+[11:28:07] солдат killed RusLanConnection using tfa_doim1garand
+[11:28:13] бугагашенька killed Redoket using tfa_doimg42
+[11:28:29] солдат killed RusLanConnection using tfa_doim1garand
+[11:28:31] KayFarIK killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doithompsonm1a1
+[11:28:41] Client "Orange" spawned in server <STEAM_0:1:61399769> (took 39 seconds).
+[11:28:43] RusLanConnection killed солдат using tfa_doispringfield
+[11:28:48] Chupacabr killed rty000pro using tfa_doithompsonm1a1
+[11:29:02] KayFarIK killed Chupacabr using tfa_doithompsonm1a1
+[11:29:05] vasiliy karat killed ВИННИ6969 using tfa_doi_m16a1
+[11:29:20] Rackman killed T0mat025 using tfa_doik98_scop
+[11:29:33] vasiliy karat: НУЖНО БРОНЕТЕХНИКА
+[11:29:37] Rackman killed солдат using tfa_doik98_scop
+[11:30:18] бугагашенька killed Redoket using tfa_doimg42
+[11:30:24] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[11:30:24] Польские Пряники suicided!
+[11:30:36] (SILENT) RusLanConnection ran lua: RemoveAllRagdolls()
+[11:31:00] patrikalkas suicided!
+[11:31:03] Rackman killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doik98_scop
+[11:31:03] Bigbarsik223: t
+[11:31:16] Bigbarsik223: корды василя писать?
+[11:31:30] Bigbarsik223: в чат пиши
+[11:31:33] Rackman killed sekta using tfa_doik98_scop
+[11:31:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[11:31:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[11:31:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[11:31:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[11:31:35] Client "Mayo Gib ihm" spawned in server <STEAM_0:1:681502239> (took 1047 seconds).
+[11:31:38] KayFarIK killed patrikalkas using ent_jack_gmod_ezboundingmine
+[11:31:38] Bigbarsik223: чьи корды василя или зомби
+[11:31:39] KayFarIK killed T0mat025 using tfa_doithompsonm1a1
+[11:31:41] UwU Я АНИМЕЩНИЦА ТЯ killed Redoket using tfa_doithompsonm1a1
+[11:31:48] Toxa suicided!
+[11:31:48] RusLanConnection suicided!
+[11:31:53] maksumkolesnukov022: ТЫ КТО
+[11:32:00] maksumkolesnukov022 killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doim1garand
+[11:32:02] Chupacabr killed Orange using tfa_doi_marinebayonet
+[11:32:03] maksumkolesnukov022: НЕ СВОЙ ОН
+[11:32:06] Chupacabr killed maksumkolesnukov022 using tfa_doispringfield
+[11:32:07] rty000pro killed RusLanConnection using ent_jack_gmod_ezfalloutparticle
+[11:32:14] Toxa suicided!
+[11:32:14] patrikalkas suicided!
+[11:32:14] Redoket suicided!
+[11:32:15] ВИННИ6969 killed Chupacabr using tfa_doispringfield
+[11:32:24] UwU Я АНИМЕЩНИЦА ТЯ killed солдат using tfa_doispringfield
+[11:32:28] rty000pro killed RusLanConnection using ent_jack_gmod_ezfalloutparticle
+[11:32:32] T0mat025 killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doimp40
+[11:32:34] rty000pro killed Chupacabr using ent_jack_gmod_ezfalloutparticle
+[11:32:36] Rackman killed T0mat025 using tfa_doik98_scop
+[11:32:40] Rackman killed ВИННИ6969 using tfa_doik98_scop
+[11:32:41] Dropped "Mayo Gib ihm" from server<STEAM_0:1:681502239>
+[11:32:41] Mayo Gib ihm suicided!
+[11:32:47] Toxa suicided!
+[11:32:47] RusLanConnection suicided!
+[11:32:47] patrikalkas suicided!
+[11:32:47] Redoket suicided!
+[11:32:47] Chupacabr suicided!
+[11:32:55] Rackman killed sekta using tfa_doik98_scop
+[11:33:00] Client "А ПО ЖОПЕ!?" connected.
+[11:33:00] vasiliy karat was killed by entityflame
+[11:33:04] rty000pro killed RusLanConnection using ent_jack_gmod_ezfalloutparticle
+[11:33:20] Toxa suicided!
+[11:33:20] Chupacabr suicided!
+[11:33:35] vasiliy karat was killed by entityflame
+[11:33:54] Toxa: ДА
+[11:33:59] Rackman killed sekta using tfa_doik98_scop
+[11:34:09] Client "А ПО ЖОПЕ!?" spawned in server <STEAM_0:1:557416607> (took 69 seconds).
+[11:34:21] vasiliy karat: патроны
+[11:34:21] T0mat025 killed ВИННИ6969 using tfa_doim1919
+[11:34:22] vasiliy karat: купи
+[11:34:26] KayFarIK killed Orange using tfa_doithompsonm1a1
+[11:34:30] T0mat025 killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doim1919
+[11:34:33] maksumkolesnukov022 killed А ПО ЖОПЕ!? using tfa_doithompsonm1a1
+[11:34:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[11:34:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[11:34:46] maksumkolesnukov022: Я И ТАК ХУЯРЮ
+[11:34:48] maksumkolesnukov022 killed А ПО ЖОПЕ!? using tfa_doithompsonm1a1
+[11:34:50] Dropped "kosmokot" from server<STEAM_0:0:41186306>
+[11:34:50] kosmokot suicided!
+[11:34:50] Rackman killed солдат using tfa_doik98_scop
+[11:34:54] patrikalkas killed sekta using tfa_doim1912
+[11:35:00] maksumkolesnukov022: УЖАС
+[11:35:05] Rackman killed бугагашенька using tfa_doik98_scop
+[11:35:27] ВИННИ6969 killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doithompsonm1a1
+[11:35:28] vasiliy karat: черт
+[11:35:29] maksumkolesnukov022 killed RusLanConnection using tfa_doithompsonm1a1
+[11:35:34] vasiliy karat: они использовали все бомбы
+[11:35:41] maksumkolesnukov022 killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doithompsonm1a1
+[11:35:45] Orange: !drop
+[11:35:46] Dropped "А ПО ЖОПЕ!?" from server<STEAM_0:1:557416607>
+[11:35:46] А ПО ЖОПЕ!? suicided!
+[11:35:48] RusLanConnection killed maksumkolesnukov022 using tfa_doimp40
+[11:36:07] maksumkolesnukov022: ПРИЁМ
+[11:36:09] ВИННИ6969 killed RusLanConnection using tfa_doithompsonm1a1
+[11:36:10] Toxa killed ВИННИ6969 using tfa_doimp40
+[11:36:11] maksumkolesnukov022: ВАС СРОЧНО НУЖНО ПВО
+[11:36:14] vasiliy karat: прием
+[11:36:17] Rackman: CKSIE
+[11:36:19] Rackman: CKSIE
+[11:36:20] Rackman: СЛЫШУ
+[11:36:23] maksumkolesnukov022: ОНИ ПЫТАЮТСЯ ВЗЯТЬ КООРДИНАТЫ ВАШЕЙ БАЗЫ
+[11:36:24] vasiliy karat: ы
+[11:36:27] sekta: ДАДА ВАСИЛИЙ ИДИ НАФИК
+[11:36:27] RusLanConnection killed rty000pro using tfa_doimp40
+[11:36:28] maksumkolesnukov022: ПОВТОРЯЮ
+[11:36:31] maksumkolesnukov022: СТРОЙТЕ ПВО
+[11:36:38] vasiliy karat: прием ведем бои у них на базе
+[11:36:39] Toxa killed солдат using tfa_doimp40
+[11:36:41] Orange killed UwU Я АНИМЕЩНИЦА ТЯ using rust_boltrifle
+[11:36:45] KayFarIK killed RusLanConnection using tfa_doithompsonm1a1
+[11:36:49] Rackman: Я вас крою с снайперски
+[11:36:51] maksumkolesnukov022: ТУТ НЕТ МАТЕРИАЛОВ НУЖНО ЗАКАЗАТЬ НЕМНОГО
+[11:36:52] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmunitions
+[11:36:54] Dropped "солдат" from server<STEAM_0:0:845922848>
+[11:36:54] солдат suicided!
+[11:36:57] KayFarIK killed RusLanConnection using tfa_doithompsonm1a1
+[11:36:59] maksumkolesnukov022: ФИССАЙЛА БОЛЬШЕ СОТНИ
+[11:37:10] KayFarIK killed RusLanConnection using tfa_doithompsonm1a1
+[11:37:19] KayFarIK killed RusLanConnection using tfa_doithompsonm1a1
+[11:37:20] maksumkolesnukov022: ТУТ ВСЁ ПОТРАТИЛИ
+[11:37:27] RusLanConnection killed KayFarIK using tfa_doimp40
+[11:37:37] vasiliy karat: сдавася
+[11:37:42] vasiliy karat: вы акружены
+[11:38:19] Rackman: Че вы там стоите тупите
+[11:38:36] Chupacabr killed Orange using tfa_doik98_scop
+[11:38:44] UwU Я АНИМЕЩНИЦА ТЯ: /sit
+[11:38:49] UwU Я АНИМЕЩНИЦА ТЯ: /sit
+[11:38:59] UwU Я АНИМЕЩНИЦА ТЯ: /sit
+[11:38:59] Orange: !motd
+[11:39:01] бугагашенька killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doim1912
+[11:39:02] UwU Я АНИМЕЩНИЦА ТЯ: /sit
+[11:39:06] Toxa killed бугагашенька using tfa_doimp40
+[11:39:15] vasiliy karat killed Bigbarsik223 using tfa_doi_m16a1
+[11:39:21] vasiliy karat: КАК НА УЧЕНИЯХ
+[11:39:22] maksumkolesnukov022: НАДЕЮСЬ У ВАС ЕСТЬ ПВО
+[11:39:44] бугагашенька suicided!
+[11:39:44] Toxa suicided!
+[11:39:44] Bigbarsik223 suicided!
+[11:39:44] KayFarIK suicided!
+[11:39:44] ВИННИ6969 suicided!
+[11:39:44] sekta suicided!
+[11:39:44] patrikalkas suicided!
+[11:39:44] vasiliy karat suicided!
+[11:39:44] Rackman suicided!
+[11:39:44] Redoket suicided!
+[11:39:44] UwU Я АНИМЕЩНИЦА ТЯ suicided!
+[11:39:50] maksumkolesnukov022: ВЕЧНАЯ ПАМЯТЬ
+[11:39:57] KayFarIK: ЧЗХ
+[11:39:59] maksumkolesnukov022: НЕТ ТУТ НИЧЕГО
+[11:39:59] KayFarIK: у нас же было ПВО
+[11:40:01] maksumkolesnukov022: ПОТРАТИЛИ
+[11:40:07] UwU Я АНИМЕЩНИЦА ТЯ killed rty000pro using tfa_doim1919
+[11:40:16] maksumkolesnukov022: У ВАС ТАМ ЧТО ВЫЖИЛО ИЛИ НЕТ
+[11:40:24] maksumkolesnukov022: ЭТО КОНЕЦ
+[11:40:33] KayFarIK killed Redoket using tfa_doispringfield_scop
+[11:40:38] (TEAM) ВИННИ6969: ii
+[11:40:43] бугагашенька killed Rackman using tfa_doispringfield
+[11:40:43] maksumkolesnukov022: я могу продать фисайл и заказать резервы
+[11:40:49] maksumkolesnukov022: но не факт что это поможет
+[11:40:59] patrikalkas killed rty000pro using tfa_doithompsonm1a1
+[11:41:06] maksumkolesnukov022: закажи фултон
+[11:41:08] sekta killed ВИННИ6969 using ent_jack_gmod_ezboundingmine
+[11:41:08] sekta killed Redoket using ent_jack_gmod_ezboundingmine
+[11:41:12] sekta killed Orange using ent_jack_gmod_ezboundingmine
+[11:41:29] Toxa: ПРИЕМ ЕСТЬ КТО
+[11:41:36] Chupacabr killed бугагашенька using tfa_doik98_scop
+[11:41:49] patrikalkas killed бугагашенька using tfa_doithompsonm1a1
+[11:41:59] Bigbarsik223 killed ВИННИ6969 using tfa_doim1garand
+[11:42:04] Rackman killed rty000pro using tfa_doik98_scop
+[11:42:12] Bigbarsik223 killed RusLanConnection using tfa_doim1garand
+[11:42:14] patrikalkas killed бугагашенька using tfa_doithompsonm1a1
+[11:42:19] maksumkolesnukov022: да позор
+[11:42:23] patrikalkas killed rty000pro using tfa_doithompsonm1a1
+[11:42:33] vasiliy karat: патро
+[11:42:34] Chupacabr killed бугагашенька using tfa_doik98_scop
+[11:42:35] maksumkolesnukov022: КУДА Я ДЕЛ 
+[11:42:36] Redoket killed Bigbarsik223 using tfa_doim1911
+[11:42:37] maksumkolesnukov022: МУНИШНС
+[11:42:45] Chupacabr killed KayFarIK using tfa_doik98_scop
+[11:42:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[11:42:53] Orange killed Vroom-vroom enjoyer using rust_boltrifle
+[11:43:04] patrikalkas killed бугагашенька using tfa_doithompsonm1a1
+[11:43:05] patrikalkas killed Bigbarsik223 using tfa_doithompsonm1a1
+[11:43:07] Vroom-vroom enjoyer killed Orange using rust_boltrifle
+[11:43:13] rty000pro was killed by entityflame
+[11:43:14] maksumkolesnukov022: нубы умирают тратят деньги
+[11:43:22] maksumkolesnukov022: не факт что хватит денег
+[11:43:28] patrikalkas killed Bigbarsik223 using tfa_doithompsonm1a1
+[11:43:32] KayFarIK: Я первый по килам
+[11:43:32] patrikalkas killed бугагашенька using tfa_doithompsonm1a1
+[11:43:45] patrikalkas killed Redoket using tfa_doithompsonm1a1
+[11:43:45] бугагашенька killed T0mat025 using wep_jack_gmod_ezaxe
+[11:43:45] rty000pro was killed by ent_jack_gmod_ezherocket
+[11:43:49] maksumkolesnukov022: НЕ ХВАТИТ
+[11:43:52] maksumkolesnukov022: у нас будет 60к 
+[11:43:54] maksumkolesnukov022: а надо 80
+[11:43:56] vasiliy karat: пора сделать чтобы от ядерки ломалас столица
+[11:43:58] maksumkolesnukov022: ещё чё продаём
+[11:44:04] maksumkolesnukov022: а ну да
+[11:44:05] ВИННИ6969 killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doim1912
+[11:44:07] maksumkolesnukov022: ещё не брали же?
+[11:44:16] maksumkolesnukov022: скажи бугагашеньке мобилизацию
+[11:44:18] maksumkolesnukov022: проводить
+[11:44:28] T0mat025 was killed by lvs_helicopter_cod_ah6
+[11:44:30] maksumkolesnukov022: МОБИЛИЗАЦИЮ
+[11:44:32] maksumkolesnukov022: ОРУЖИЕ НАДО
+[11:44:33] maksumkolesnukov022: ГРАНАТЫ
+[11:44:36] rty000pro killed patrikalkas using tfa_doim1919
+[11:44:36] sekta: ДАВАЙТЕ ТАМ НЕ УМИРАЙТЕ ПЖ
+[11:44:40] maksumkolesnukov022: БУГАГАШЕНЬКА
+[11:44:41] maksumkolesnukov022: МОБИЛИЗАЦИЮ
+[11:44:43] vasiliy karat killed бугагашенька using tfa_doim1919
+[11:44:44] maksumkolesnukov022: МЫ НЕ ВЫЖИВЕМ
+[11:44:54] maksumkolesnukov022: ДАВАЙ ПОКА ДЕНЬГИ ЕСТЬ 
+[11:45:05] Redoket killed rty000pro using tfa_doik98
+[11:45:06] maksumkolesnukov022: ЭТО ПОЗОР
+[11:45:09] T0mat025 killed ВИННИ6969 using tfa_doim1912
+[11:45:09] бугагашенька killed Redoket using tfa_doithompsonm1a1
+[11:45:30] maksumkolesnukov022: БУГАГАШЕНЬКА ПРОВОДИ МОБИЛИЗАЦИЮ
+[11:45:36] бугагашенька: А
+[11:45:37] vasiliy karat killed Bigbarsik223 using tfa_doim1919
+[11:45:40] vasiliy karat killed rty000pro using tfa_doim1919
+[11:45:45] бугагашенька: КАКУ,Ю НАХУЙ МОИЛИЗАЦИЮ
+[11:45:46] T0mat025 killed RusLanConnection using tfa_doim1912
+[11:45:51] maksumkolesnukov022: В РАДИО
+[11:45:56] patrikalkas killed rty000pro using tfa_doik98
+[11:45:58] бугагашенька: ЛЯТЬ
+[11:45:58] Redoket killed maksumkolesnukov022 using tfa_doik98
+[11:46:03] бугагашенька killed Redoket using tfa_doithompsonm1a1
+[11:46:05] Orange: /9340982093420hil
+[11:46:11] vasiliy karat killed KayFarIK using tfa_doim1919
+[11:46:20] patrikalkas killed Bigbarsik223 using tfa_doim1919
+[11:46:25] maksumkolesnukov022: БУГАГАШЕНЬКА НУБ
+[11:46:29] maksumkolesnukov022: БЕЗ МОБИЛИЗАЦИИ
+[11:46:30] vasiliy karat killed бугагашенька using tfa_doim1919
+[11:46:34] patrikalkas killed rty000pro using tfa_doim1919
+[11:46:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[11:46:37] KayFarIK: я хз че мобилизацию не обхявляют
+[11:46:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[11:46:39] patrikalkas killed sekta using tfa_doim1919
+[11:46:40] patrikalkas killed Bigbarsik223 using tfa_doim1919
+[11:46:45] maksumkolesnukov022: да я ему говорил уже
+[11:46:46] vasiliy karat: АПТЕУК
+[11:46:49] Redoket killed rty000pro using ent_jack_gmod_ezsticknade
+[11:46:51] maksumkolesnukov022: пусть сюда тепается тут радио есть
+[11:46:52] UwU Я АНИМЕЩНИЦА ТЯ killed sekta using tfa_doim1919
+[11:46:54] UwU Я АНИМЕЩНИЦА ТЯ killed Bigbarsik223 using tfa_doim1919
+[11:46:54] KayFarIK: сделай лучше патронов у тебя позиция топ для войны
+[11:46:55] Redoket suicided!
+[11:46:59] maksumkolesnukov022: нет патронов
+[11:47:01] Chupacabr killed бугагашенька using tfa_doim1garand
+[11:47:03] maksumkolesnukov022: нечем делать
+[11:47:07] vasiliy karat killed rty000pro using tfa_doim1919
+[11:47:17] vasiliy karat killed sekta using tfa_doim1919
+[11:47:18] Rackman killed Redoket using tfa_doik98_scop
+[11:47:19] vasiliy karat killed Bigbarsik223 using tfa_doim1919
+[11:47:20] UwU Я АНИМЕЩНИЦА ТЯ killed rty000pro using tfa_doim1919
+[11:47:32] Chupacabr killed Bigbarsik223 using tfa_doim1garand
+[11:47:33] UwU Я АНИМЕЩНИЦА ТЯ killed rty000pro using tfa_doim1919
+[11:47:33] UwU Я АНИМЕЩНИЦА ТЯ killed бугагашенька using tfa_doim1919
+[11:47:33] UwU Я АНИМЕЩНИЦА ТЯ killed sekta using tfa_doim1919
+[11:47:48] vasiliy karat killed rty000pro using tfa_doi_marinebayonet
+[11:47:51] vasiliy karat killed бугагашенька using tfa_doi_marinebayonet
+[11:47:59] Chupacabr killed Bigbarsik223 using tfa_doim1garand
+[11:48:06] rty000pro killed Chupacabr using tfa_doim1919
+[11:48:10] rty000pro killed vasiliy karat using tfa_doim1919
+[11:48:18] Redoket killed T0mat025 using tfa_doik98
+[11:48:27] vasiliy karat: пора сделать чтобы
+[11:48:28] Redoket killed rty000pro using tfa_doik98
+[11:48:35] vasiliy karat: от ядерного удара ломалас столица
+[11:48:44] Redoket killed rty000pro using tfa_doik98
+[11:48:58] maksumkolesnukov022: моё командование дебилы
+[11:49:01] Redoket killed sekta using tfa_doik98
+[11:49:04] maksumkolesnukov022: мы сейчас умрём
+[11:49:16] maksumkolesnukov022: да
+[11:49:19] rty000pro killed Redoket using tfa_doim1garand
+[11:49:23] T0mat025 suicided!
+[11:49:23] T0mat025 killed rty000pro using ent_jack_gmod_ezsticknade
+[11:49:33] Chupacabr killed sekta using tfa_doim1912
+[11:49:34] maksumkolesnukov022: щас война кончится нет смысла
+[11:49:35] Chupacabr killed бугагашенька using tfa_doim1912
+[11:49:40] vasiliy karat: враг разбит
+[11:49:43] Chupacabr killed T0mat025 using tfa_doim1912
+[11:49:43] KayFarIK killed patrikalkas using ent_jack_gmod_ezboundingmine
+[11:49:49] UwU Я АНИМЕЩНИЦА ТЯ killed sekta using tfa_doim1919
+[11:49:56] Chupacabr killed T0mat025 using tfa_doim1912
+[11:50:03] UwU Я АНИМЕЩНИЦА ТЯ killed sekta using tfa_doim1919
+[11:50:09] rty000pro killed Chupacabr using tfa_doik98
+[11:50:16] RusLanConnection killed KayFarIK using tfa_doimp40
+[11:50:19] vasiliy karat: пора сделать
+[11:50:20] Vroom-vroom enjoyer: F
+[11:50:22] rty000pro killed RusLanConnection using tfa_doik98
+[11:50:25] vasiliy karat: а то они уже победили считай
+[11:50:28] бугагашенька: почему данный сервер еще не погиб? тут делать нечего я в ахуе...
+[11:50:29] Chupacabr to admins: победа zombi
+[11:50:40] ВИННИ6969 killed KayFarIK using ent_jack_gmod_ezboundingmine
+[11:50:42] UwU Я АНИМЕЩНИЦА ТЯ killed sekta using tfa_doim1919
+[11:50:44] Bigbarsik223 killed patrikalkas using tfa_doispringfield_scop
+[11:50:47] UwU Я АНИМЕЩНИЦА ТЯ killed бугагашенька using tfa_doim1919
+[11:50:47] Redoket: zOMBI
+[11:50:53] vasiliy karat: надо попросить руслана чтобы от ядернки ломалась столица а то слишко
+[11:50:58] vasiliy karat: толстая
+[11:51:06] vasiliy karat: ну она выдерживает
+[11:51:08] maksumkolesnukov022: где была мобилизация
+[11:51:13] sekta killed Redoket using ent_jack_gmod_ezlandmine
+[11:51:44] maksumkolesnukov022: у меня на точке было радио я орал
+[11:51:49] vasiliy karat: руслан сделай чтобы
+[11:51:56] vasiliy karat: ядерка убивала столицу
+[11:52:01] vasiliy karat: там по союзникам
+[11:52:02] Rackman killed KayFarIK using ent_jack_gmod_ezboundingmine
+[11:52:03] vasiliy karat: 2 прилетело
+[11:52:09] Orange killed ВИННИ6969 using wep_jack_gmod_hands
+[11:52:10] vasiliy karat: они считай должны были победить
+[11:52:10] maksumkolesnukov022: вот тут прям форпост
+[11:52:15] maksumkolesnukov022: вы его игнорили
+[11:52:27] ВИННИ6969 killed Orange using wep_jack_gmod_hands
+[11:52:34] vasiliy karat: от лвс
+[11:52:35] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[11:52:35] Redoket suicided!
+[11:52:45] sekta killed UwU Я АНИМЕЩНИЦА ТЯ using ent_jack_gmod_ezlandmine
+[11:52:47] KayFarIK killed vasiliy karat using ent_jack_gmod_ezatmine
+[11:52:51] KayFarIK killed RusLanConnection using tfa_doispringfield
+[11:52:53] KayFarIK killed Rackman using tfa_doispringfield
+[11:52:55] (TEAM) ВИННИ6969: i
+[11:52:56] sekta killed Chupacabr using ent_jack_gmod_ezlandmine
+[11:53:00] T0mat025 killed rty000pro using tfa_doispringfield
+[11:53:01] KayFarIK: хва
+[11:53:08] Toxa: ужс
+[11:53:14] Toxa: кто убил всех
+[11:53:17] KayFarIK killed patrikalkas using tfa_doispringfield
+[11:53:32] vasiliy karat: незнаю
+[11:53:34] Dropped "sekta" from server<STEAM_0:0:57939554>
+[11:53:34] sekta suicided!
+[11:53:42] vasiliy karat: в начале вайпа богатый в конце 
+[11:53:44] Dropped "Bigbarsik223" from server<STEAM_0:0:652203298>
+[11:53:44] Bigbarsik223 suicided!
+[11:53:44] KayFarIK killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doispringfield
+[11:53:46] vasiliy karat: нет
+[11:53:46] KayFarIK killed vasiliy karat using tfa_doispringfield
+[11:53:51] KayFarIK killed RusLanConnection using tfa_doi_marinebayonet
+[11:53:55] Toxa killed KayFarIK using tfa_doisw1917
+[11:53:55] maksumkolesnukov022: Я СДАЮСЬ
+[11:53:58] maksumkolesnukov022: ДАЙТЕ АПТЕЧКУ
+[11:53:59] Dropped "rty000pro" from server<STEAM_0:1:593166516>
+[11:53:59] rty000pro suicided!
+[11:53:59] KayFarIK: А Я НЕТ!
+[11:54:02] Toxa: ВСМ ЧИЛ
+[11:54:06] Toxa: ОН УБИЛ ВСЕХ
+[11:54:41] maksumkolesnukov022: нубства
+[11:54:43] KayFarIK killed patrikalkas using tfa_doi_marinebayonet
+[11:54:44] KayFarIK killed T0mat025 using tfa_doi_marinebayonet
+[11:54:44] Toxa killed KayFarIK using tfa_doim1919
+[11:54:50] Toxa: НУ ЧЕЛ
+[11:54:51] RusLanConnection teleported and jailed KayFarIK
+[11:54:55] KayFarIK: За что?
+[11:54:56] KayFarIK: воюю
+[11:55:02] maksumkolesnukov022: руслан скин поменяй
+[11:55:02] KayFarIK: я до конца стою
+[11:55:08] KayFarIK: ну вот так вот
+[11:55:21] vasiliy karat: несколько раз погиб после развала
+[11:55:25] KayFarIK: Ну конечно извизи меня что я гнев таким образом выливаю
+[11:55:27] vasiliy karat: до какого конца
+[11:55:30] KayFarIK: мне нравится ПВП просто
+[11:55:34] KayFarIK: ненадо
+[11:55:36] KayFarIK: я извиняюсь
+[11:55:44] KayFarIK: ну всё я понял
+[11:55:46] RusLanConnection banned KayFarIK permanently (Griefer)
+[11:55:46] Dropped "KayFarIK" from server<STEAM_0:0:755877437>
+[11:55:46] KayFarIK suicided!
+[11:55:58] maksumkolesnukov022: НАШЁЛ НАКОНЕЦ-ТО ПРИЧИНУ
+[11:56:12] vasiliy karat: ядерный удар
+[11:56:13] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[11:56:13] Rackman suicided!
+[11:56:16] vasiliy karat: починить
+[11:56:17] maksumkolesnukov022: руслан блин у нас нубы какие-то 
+[11:56:27] vasiliy karat: ядерный удар починит
+[11:56:28] maksumkolesnukov022: точку игнорили вашу
+[11:57:58] vasiliy karat: мящорубка
+[11:58:00] maksumkolesnukov022: руслан у нас ещё база была но там патроны кончились нубство
+[11:58:25] vasiliy karat: в руинах
+[11:58:26] vasiliy karat: посматри
+[11:58:31] vasiliy karat: ядерного пепла
+[11:58:35] maksumkolesnukov022: вася пошли 
+[11:58:51] vasiliy karat: я попросил руслана сделать
+[11:58:57] vasiliy karat: чтобы ядерка сносила столицу
+[11:59:01] vasiliy karat: а то бывает не сносит
+[11:59:04] maksumkolesnukov022: да 
+[11:59:08] maksumkolesnukov022: блин вот у нас нубы
+[11:59:12] maksumkolesnukov022: несколько раз вас убивали
+[11:59:16] maksumkolesnukov022: и не замечали точку вашу
+[11:59:21] vasiliy karat: а что они сделать могли
+[11:59:27] maksumkolesnukov022: да нубство тоже
+[11:59:31] maksumkolesnukov022: надо как-то сделать
+[11:59:31] vasiliy karat: поджидат
+[11:59:42] maksumkolesnukov022: пашли
+[11:59:53] vasiliy karat: зомби рп
+[12:00:08] maksumkolesnukov022: пашли
+[12:00:39] vasiliy karat: я думал откуда вы лезете обхоидите чтоли
+[12:00:48] vasiliy karat: так и знал что вы тут живете
+[12:00:48] maksumkolesnukov022: я один там был
+[12:00:53] maksumkolesnukov022: нет не тут
+[12:00:57] maksumkolesnukov022: дальше
+[12:01:16] maksumkolesnukov022: во 
+[12:01:19] maksumkolesnukov022: вон там живу
+[12:01:24] maksumkolesnukov022: пенхаус
+[12:01:29] maksumkolesnukov022: осторожно там турель может
+[12:01:30] Client "rty000pro" connected.
+[12:01:31] maksumkolesnukov022: активаня
+[12:01:57] maksumkolesnukov022: вася убери
+[12:01:58] maksumkolesnukov022: турел
+[12:02:02] Client "rty000pro" spawned in server <STEAM_0:1:593166516> (took 32 seconds).
+[12:02:23] maksumkolesnukov022: хозяина не узнаёт
+[12:02:26] vasiliy karat: черное солнце суприм командер форегт альянс
+[12:02:29] maksumkolesnukov022: да да да
+[12:02:32] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[12:02:38] бугагашенька: йооу
+[12:02:40] бугагашенька: чуваки
+[12:02:44] бугагашенька: в дс заходите
+[12:02:49] бугагашенька: ну мля 
+[12:03:34] Chupacabr was killed by ent_jack_gmod_ezsentry
+[12:03:34] Toxa was killed by ent_jack_gmod_ezsentry
+[12:04:36] бугагашенька was killed by ent_jack_gmod_ezsentry
+[12:04:45] rty000pro was killed by ent_jack_gmod_ezsentry
+[12:04:51] Dropped "rty000pro" from server<STEAM_0:1:593166516>
+[12:04:51] rty000pro suicided!
+[12:05:26] (SILENT) RusLanConnection ran lua: RemoveallRagdoll()
+[12:05:31] (SILENT) RusLanConnection ran lua: RemoveAllRagdoll()
+[12:05:33] бугагашенька: ЙООУ ЧУВАК
+[12:05:38] бугагашенька: КРЧ
+[12:05:44] бугагашенька: ЗАХОДИ В ГС В ДИСКОРД
+[12:05:47] (SILENT) RusLanConnection ran lua: RemoveAllRagdolls()
+[12:05:48] бугагашенька: мы войну смотрим
+[12:05:49] бугагашенька: ыстрее
+[12:05:53] бугагашенька: да
+[12:05:57] бугагашенька: !motd
+[12:05:59] Vroom-vroom enjoyer: !motd
+[12:06:12] бугагашенька: https://discord.gg/W57bAnPGmn
+[12:06:15] бугагашенька: djn 'n
+[12:06:19] бугагашенька: все ливат
+[12:06:21] бугагашенька: да
+[12:06:23] бугагашенька: альт е
+[12:06:31] бугагашенька: удачи я лива
+[12:06:33] бугагашенька: заходи
+[12:06:34] бугагашенька: ыстрее
+[12:06:37] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[12:06:37] бугагашенька suicided!
+[12:08:22] T0mat025: ping300
+[12:08:54] (SILENT) RusLanConnection ran rcon command: ragdolldecay_start_time 120
+[12:09:26] (SILENT) RusLanConnection ran rcon command: ragdolldecay_start_time 300
+[12:09:39] (SILENT) RusLanConnection ran rcon command: ragdolldecay_remove_after_decay_time 30
+[12:09:58] Toxa: мы куда?
+[12:10:01] patrikalkas: /sit
+[12:10:22] patrikalkas: Тоха, у как тебе война?
+[12:10:31] Toxa: лучше чем тогда
+[12:10:38] Toxa: вчера то меня небыло 
+[12:10:41] Toxa: я хз что было
+[12:10:48] (SILENT) RusLanConnection ran rcon command: ragdolldecay_duration 120
+[12:10:56] Toxa: я создавал
+[12:11:02] Toxa: и сделал 3 полных залпа
+[12:11:22] Toxa: патроны но на рпг
+[12:11:39] Toxa: арта наша наташа
+[12:12:05] Toxa: я видел как дуло в моменте вылезло из здания во время переговоров
+[12:12:41] Toxa: кста
+[12:12:49] Toxa: руслан сначало подумал что это вражеский
+[12:12:58] Toxa: нет
+[12:13:07] Toxa: мы не стреляли
+[12:13:13] Toxa: я до войны сказал ему
+[12:13:45] Toxa: ну у нас подготовка хорошая 3 медиум и арта
+[12:13:49] Client "Анальный дебошир" connected.
+[12:13:51] Toxa: также и твои снаряды
+[12:15:18] Client "Анальный дебошир" spawned in server <STEAM_0:0:839907845> (took 89 seconds).
+[12:15:38] patrikalkas: Мне человек позвонил
+[12:15:41] ВИННИ6969 was killed by ent_jack_gmod_ezprimitivebench
+[12:17:12] Dropped "Toxa" from server<STEAM_0:0:33704276>
+[12:17:12] Toxa suicided!
+[12:20:04] Orange: !motd
+[12:20:09] Vroom-vroom enjoyer: !motd
+[12:20:14] Orange: jmod_ez_econ
+[12:20:58] (TEAM) ВИННИ6969: !motd
+[12:22:50] (TEAM) ВИННИ6969: ЦА
+[12:23:14] Client "Cpt.Gramps" connected.
+[12:25:59] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[12:25:59] Chupacabr suicided!
+[12:26:08] patrikalkas: 1
+[12:26:08] patrikalkas: 2
+[12:26:10] patrikalkas: 4
+[12:26:11] patrikalkas: 5
+[12:26:11] patrikalkas: 6
+[12:26:13] patrikalkas: /sit
+[12:26:14] patrikalkas: 3
+[12:26:41] Orange: !motd
+[12:27:38] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[12:27:38] maksumkolesnukov022 suicided!
+[12:33:06] UwU Я АНИМЕЩНИЦА ТЯ killed patrikalkas using tfa_doimp40
+[12:33:20] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[12:33:20] patrikalkas suicided!
+[12:33:21] UwU Я АНИМЕЩНИЦА ТЯ: /sit
+[12:33:22] UwU Я АНИМЕЩНИЦА ТЯ: /sit
+[12:34:51] T0mat025 killed UwU Я АНИМЕЩНИЦА ТЯ using tfa_doimp40
+[12:35:07] Dropped "UwU Я АНИМЕЩНИЦА ТЯ" from server<STEAM_0:1:755779041>
+[12:35:07] UwU Я АНИМЕЩНИЦА ТЯ suicided!
+[12:35:08] Dropped "Orange" from server<STEAM_0:1:61399769>
+[12:35:08] Orange suicided!
+[12:35:40] ВИННИ6969 killed ВИННИ6969
+[12:35:44] Dropped "ВИННИ6969" from server<STEAM_0:1:924883231>
+[12:35:44] ВИННИ6969 suicided!
+[12:36:09] Dropped "T0mat025" from server<STEAM_0:1:872564014>
+[12:36:09] T0mat025 suicided!
+[12:38:14] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[12:38:14] vasiliy karat suicided!
+[12:43:43] Dropped "Анальный дебошир" from server<STEAM_0:0:839907845>
+[12:43:43] Анальный дебошир suicided!
+[13:06:07] Client "maksumkolesnukov022" connected.
+[13:06:32] Client "Спермо Налётчик" connected.
+[13:06:46] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 39 seconds).
+[13:11:20] RusLanConnection teleported to maksumkolesnukov022
+[13:11:34] RusLanConnection was killed by ent_jack_gmod_ezsentry
+[13:11:38] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[13:11:38] RusLanConnection suicided!
+
+
+
+[13:12:45] New map: gm_sro
+<Logging continued in "data/ulx_logs/09-04-25.txt">

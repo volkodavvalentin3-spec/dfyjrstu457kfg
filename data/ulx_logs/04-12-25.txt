@@ -1,0 +1,2909 @@
+<Logging continued from "data/ulx_logs/04-11-25.txt">
+[00:20:47] Client "Дмитрий Уткин" connected.
+[00:21:55] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 68 seconds).
+[00:41:23] Client "Soldier_S.C.A.F" connected.
+[00:59:40] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[00:59:40] Дмитрий Уткин suicided!
+[02:13:33] Client "Redoket" connected.
+[02:14:12] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 39 seconds).
+[02:16:21] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/oildrum001_explosive.mdl
+[02:16:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eznuke_big
+[02:16:53] Redoket suicided!
+[02:17:04] Redoket: !menu
+[02:17:46] Redoket: !menu
+[02:17:56] Redoket changed the map to gm_sro_highcliffs with gamemode jsurvival
+[02:17:56] Server is shutting down/changing levels.
+
+
+
+[02:18:03] New map: gm_sro_highcliffs
+[02:18:28] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 29 seconds).
+[02:18:50] Client "LonePlayer022" connected.
+[02:19:18] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 28 seconds).
+[02:19:48] LonePlayer022 killed Redoket using wep_jack_gmod_hands
+[02:29:14] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[02:29:14] Redoket suicided!
+[02:29:15] Client "Redoket" connected.
+[02:29:35] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 20 seconds).
+[02:29:37] Client "Дмитрий Уткин" connected.
+[02:30:08] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 31 seconds).
+[02:32:08] Дмитрий Уткин killed Redoket using wep_jack_gmod_hands
+[02:32:27] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[02:32:27] Redoket suicided!
+[02:32:28] Client "Redoket" connected.
+[02:32:48] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 20 seconds).
+[02:34:55] Redoket: !menu
+[02:35:00] Redoket cloaked Themself by amount 0
+[02:35:07] Redoket teleported to Дмитрий Уткин
+[02:35:09] Redoket teleported to LonePlayer022
+[02:35:57] Redoket: !menu
+[02:36:00] Redoket teleported to Дмитрий Уткин
+[02:36:09] Redoket killed Дмитрий Уткин using tfa_doi_marinebayonet
+[02:36:33] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[02:36:33] Дмитрий Уткин suicided!
+[02:36:35] Client "Дмитрий Уткин" connected.
+[02:36:59] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 24 seconds).
+[02:42:33] Дмитрий Уткин: !squad
+[02:42:35] Дмитрий Уткин: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:42:42] Дмитрий Уткин: !squad
+[02:42:56] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[02:42:56] Дмитрий Уткин suicided!
+[02:49:59] LonePlayer022: сися
+[02:50:01] LonePlayer022: !squad
+[02:50:02] LonePlayer022: !squad
+[02:50:04] LonePlayer022: !squad
+[02:50:05] LonePlayer022: !squad
+[02:50:06] LonePlayer022: !squad
+[02:50:09] LonePlayer022: !squad
+[02:50:23] LonePlayer022: !squad
+[02:50:24] LonePlayer022: !squad
+[02:50:25] LonePlayer022: !squad
+[02:50:26] LonePlayer022: !squad
+[02:50:27] LonePlayer022: !squad
+[02:50:37] LonePlayer022: !squad
+[02:51:12] LonePlayer022: !squad
+[02:51:14] LonePlayer022: !squad
+[02:51:15] LonePlayer022: !squad
+[02:51:16] LonePlayer022: !squad
+[02:51:18] LonePlayer022: !squad
+[02:51:18] LonePlayer022: !squad
+[02:51:19] LonePlayer022: !squad
+[02:51:20] LonePlayer022: !squad
+[02:52:24] LonePlayer022: !squad
+[02:56:20] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[02:56:20] LonePlayer022 suicided!
+[02:59:45] Client "Дмитрий Уткин" connected.
+[03:00:10] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 25 seconds).
+[03:06:08] Дмитрий Уткин: !squad
+[03:15:23] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[03:15:23] Дмитрий Уткин suicided!
+[03:17:27] Client "Toxa08" connected.
+[03:18:02] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 35 seconds).
+[03:18:18] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_flametank
+[03:18:55] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m
+[03:18:58] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m
+[03:19:26] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_gazm1
+[03:19:33] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_horch
+[03:19:45] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_horch
+[03:19:51] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodwillyjeep
+[03:20:00] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_pz1bison
+[03:20:07] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[03:20:11] Client "Miyagi" connected.
+[03:20:19] Client "XLEBYC" connected.
+[03:20:42] Client "XLEBYC" spawned in server <STEAM_0:1:615225475> (took 23 seconds).
+[03:21:14] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[03:21:14] Redoket suicided!
+[03:21:20] Client "Redoket" connected.
+[03:21:42] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 22 seconds).
+[03:23:09] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m
+[03:23:10] Client "vasiliy karat" connected.
+[03:23:14] XLEBYC: !squad
+[03:23:15] XLEBYC: !squad
+[03:23:19] XLEBYC: !squad
+[03:23:19] Redoket: !squad
+[03:23:20] Redoket: !squad
+[03:23:21] Redoket: !squad
+[03:23:22] Redoket: !squad
+[03:23:23] Redoket: !squad
+[03:23:24] XLEBYC: !squad
+[03:23:24] Redoket: !squad
+[03:23:26] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:23:26] XLEBYC: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:23:27] Redoket: !squad
+[03:23:27] Redoket: !squad
+[03:23:28] Redoket: !squad
+[03:23:33] XLEBYC: !squad
+[03:23:36] Redoket: !menu
+[03:23:42] XLEBYC: !squad
+[03:23:46] Redoket changed the map to gm_sro_highcliffs with gamemode jsurvival
+[03:23:46] Server is shutting down/changing levels.
+
+
+
+[03:23:54] New map: gm_sro_highcliffs
+[03:24:12] Client "XLEBYC" spawned in server <STEAM_0:1:615225475> (took 22 seconds).
+[03:24:15] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 25 seconds).
+[03:24:18] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 28 seconds).
+[03:24:20] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 30 seconds).
+[03:24:24] Redoket: !squad
+[03:24:25] Redoket: !squad
+[03:24:26] Redoket: !squad
+[03:24:27] Redoket: !squad
+[03:24:28] Redoket: !squad
+[03:24:29] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:24:30] Redoket: !squad
+[03:24:34] vasiliy karat: !squad
+[03:24:36] vasiliy karat: !squad
+[03:24:41] vasiliy karat: !squad
+[03:24:42] Redoket: !squad
+[03:24:43] Redoket: !squad
+[03:24:44] Redoket: !squad
+[03:24:52] Redoket: !menu
+[03:25:00] XLEBYC: !squad
+[03:25:01] Redoket teleported to vasiliy karat
+[03:25:04] Redoket: !squad
+[03:25:05] Redoket: !squad
+[03:25:07] Redoket: !squad
+[03:25:08] XLEBYC: !squad
+[03:25:10] Toxa08: !squad
+[03:25:13] Toxa08: !squad
+[03:25:17] XLEBYC: !squad
+[03:25:18] XLEBYC: !squad
+[03:25:19] XLEBYC: !squad
+[03:25:37] vasiliy karat: кароче сломалось вы если даже в кансоль напише squad_menu 
+[03:25:40] vasiliy karat: не работает
+[03:25:44] vasiliy karat: может карту перезапустить
+[03:25:50] Toxa08: еще раз?
+[03:25:52] vasiliy karat: !squad
+[03:26:09] vasiliy karat: кароче давайте чупака позову зайдет посмотрит ошиьки
+[03:26:32] XLEBYC: !squad
+[03:27:05] The time is now 03:27 AM.
+[03:27:31] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 221 seconds).
+[03:28:40] vasiliy karat: !squad
+[03:29:05] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_rebel
+[03:29:07] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_rebel
+[03:29:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[03:29:18] XLEBYC: !squad
+[03:29:25] XLEBYC: !squad
+[03:29:26] XLEBYC: !squad
+[03:29:30] Toxa08: !squad
+[03:29:32] XLEBYC: !squad
+[03:29:36] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[03:30:35] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[03:30:35] Redoket suicided!
+[03:33:10] Toxa08: василий
+[03:33:12] Toxa08: ты тут?
+[03:37:10] Client "Mr_Pyro" connected.
+[03:38:04] Toxa08 killed XLEBYC using rust_boltrifle
+[03:38:08] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 58 seconds).
+[03:40:38] Client "Fif11" connected.
+[03:40:40] vasiliy karat: чупаку лень играем так
+[03:40:42] vasiliy karat: так круче
+[03:40:51] Toxa08: чё
+[03:40:57] Toxa08: не крафты не робят
+[03:41:17] Toxa08: из тул бокса
+[03:41:25] vasiliy karat: гавнище какое ладео
+[03:41:30] Toxa08: и возраждение не робит тоже
+[03:41:31] Mr_Pyro: !squad
+[03:41:33] Mr_Pyro: !squad
+[03:41:33] Mr_Pyro: !squad
+[03:41:34] Mr_Pyro: !squad
+[03:41:35] Mr_Pyro: !squad
+[03:41:37] Mr_Pyro: !squad
+[03:41:38] vasiliy karat suicided!
+[03:41:38] Mr_Pyro: !squad
+[03:41:39] Mr_Pyro: !squad
+[03:41:40] Mr_Pyro: !squad
+[03:41:42] Mr_Pyro: !squad
+[03:41:44] Toxa08: хаха
+[03:41:49] vasiliy karat: !menu
+[03:41:51] Toxa08: теперь ты тоже закован
+[03:41:53] Toxa08: в трупе
+[03:42:03] Mr_Pyro: РИЛ УМЕР
+[03:42:08] Mr_Pyro: НАВСЕГДА
+[03:42:30] (SILENT) vasiliy karat Respawned Themself
+[03:42:31] (SILENT) vasiliy karat Respawned XLEBYC
+[03:42:36] Mr_Pyro: ТУТ СМЕРТЬ = СМЕРТЬ
+[03:42:37] XLEBYC: !squad
+[03:42:42] Toxa08: все теперь родились
+[03:43:19] vasiliy karat suicided!
+[03:43:21] Mr_Pyro: АХАХХА
+[03:43:27] Mr_Pyro: всё
+[03:43:28] vasiliy karat: !menu
+[03:43:30] (SILENT) vasiliy karat Respawned Themself
+[03:43:30] Mr_Pyro: труп
+[03:43:30] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[03:43:30] Miyagi suicided!
+[03:43:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[03:44:01] Mr_Pyro: аъахаххахахах
+[03:44:04] vasiliy karat: !menu
+[03:44:06] (SILENT) vasiliy karat Respawned Themself
+[03:44:15] Mr_Pyro: ПОЗОР
+[03:44:38] vasiliy karat: цена жизни стала дороже
+[03:44:45] Mr_Pyro: по факту
+[03:44:58] Mr_Pyro: НЕИТ
+[03:45:02] Mr_Pyro: ТОЛЬКО ПОСМЕЙ
+[03:45:05] vasiliy karat: пиро отдавай мне твое оруже
+[03:45:15] vasiliy karat: ахахаа
+[03:45:29] Mr_Pyro: ененненененерц
+[03:45:31] Mr_Pyro: СЬЛШЛЙЪ
+[03:45:33] Mr_Pyro: СТРЙЭФ
+[03:45:34] Mr_Pyro: СТОЙ
+[03:45:36] Mr_Pyro: Я СДАЮСЬ
+[03:45:41] Mr_Pyro: НЕ СТРЕЛЯЬЙ
+[03:45:44] Mr_Pyro: УМОЛЯЮ
+[03:45:46] Mr_Pyro: Я БУДУ РАБОТАТЬ
+[03:45:48] Mr_Pyro: НЕГРОМ
+[03:45:50] Mr_Pyro: КАПАТЬ
+[03:45:52] Mr_Pyro: ПРОШУ
+[03:45:55] vasiliy karat: ПОШЛИ ЗА МНОЙ ТОГДА
+[03:46:07] vasiliy karat: БЕЗ РЕЗКИХ ДВИЖЕНИЙ
+[03:46:13] vasiliy karat: Я МИГОМ ТЕБЯ ДЕЗЕНТЕГРИРУЮ
+[03:46:14] Mr_Pyro: хорошо
+[03:46:26] Mr_Pyro: маамааа(
+[03:47:23] vasiliy karat: ЖИВЕМ ТУТ
+[03:47:30] Mr_Pyro: ее
+[03:47:54] vasiliy karat: СКРАФТИШЬ ОРУЖИЕ СРАЗУ БАШКУ СНЕСУ СВОИМ БРАТОСТРЕЛОМ
+[03:48:15] vasiliy karat: МАШИНЫ НЕ РАЗБИРАЕМ
+[03:48:34] Mr_Pyro: !squad
+[03:49:17] vasiliy karat: НАВЕРНОЕ
+[03:49:32] vasiliy karat: ПО ДРУГОМУ НЕ ПОНЯТНО ЗАЧЕМ ЭТО В КРАФТЕРЫ ЗАСУНУЛИ
+[03:49:40] vasiliy karat: МОГЛИ В jmod_ez_econ
+[03:50:20] Client "Fif11" connected.
+[03:50:46] vasiliy karat: ТЫ ПРОСТО ПЛОХОЙ ИНЖЕНЕР НЕ СТОИТ ТЕБЕ КРАФТИТЬ РЕСУРСЫ ПЕРЕВОДИТЬ
+[03:51:18] vasiliy karat: КИРКУ
+[03:51:20] vasiliy karat: ==
+[03:51:28] vasiliy karat: КОПАЙ
+[03:51:40] vasiliy karat: ВОДА НЕ НУЖНА ПОШЛИ
+[03:51:56] vasiliy karat: КОПА
+[03:52:03] vasiliy karat: ПРОВАЛИВАЙ МУЖИК
+[03:53:08] vasiliy karat: НАМ НУЖНО
+[03:53:12] vasiliy karat: ЗОЛОТО
+[03:53:17] vasiliy karat: ДРУГОЙ ВОЛЮТЫ НЕТУ
+[03:53:30] vasiliy karat: А ЕЩЕ Я ПРИДУМАЛ КАК ВЕЩИ ХРАНИТЬ В ТАККИХ УСЛОВИЯХ
+[03:54:58] vasiliy karat: НЕТ Я 
+[03:55:01] vasiliy karat: Я НЕ ОЖИДАЛ ТАКОГО
+[03:55:19] vasiliy karat: НО 
+[03:55:21] vasiliy karat: НО Я ВИДЕЛ
+[03:55:31] Client "MkBoboch_" connected.
+[03:56:54] vasiliy karat: ПОШЛИ ИМ ВОЙНУ ОБЪЯВИМ
+[03:56:58] vasiliy karat: РАБ ИДИ К НИМ
+[03:57:00] vasiliy karat: И ПЕРЕДАЙ
+[03:57:02] vasiliy karat: НОТУ ВОЙНЫ
+[03:57:07] vasiliy karat: СЮДА
+[03:57:10] vasiliy karat: ВОРТАЕШЬСЯ
+[03:57:12] vasiliy karat: ПРОСТО СКАЖИ
+[03:57:26] vasiliy karat: ФРАКЦИЯ "ВАСЯ И РАБЫ " ОБЪЯВЛЯЮТ ВАМ ВОЙНУ 
+[03:57:34] vasiliy karat: ВОЗРВАЩАЕШЬСЯ БЕРЕШ ГАН
+[03:57:36] vasiliy karat: И ИДЕМ
+[03:57:38] vasiliy karat: ЩАС МЫ
+[03:57:45] vasiliy karat: Я ПОКА ДИНАМИТЫ
+[03:57:49] vasiliy karat: ЗАБАБАХАЮ
+[03:57:54] vasiliy karat: И ЛОПАТНЫЕ УКРЕПЫ
+[03:58:20] Client "mifag4" connected.
+[03:58:27] Client "b0d9" connected.
+[03:59:28] XLEBYC: !squad
+[03:59:51] Client "mifag4" spawned in server <STEAM_0:1:934372859> (took 91 seconds).
+[04:00:26] Client "b0d9" spawned in server <STEAM_0:1:30281260> (took 119 seconds).
+[04:00:47] vasiliy karat: К БЛИНДАЖУ
+[04:00:59] mifag4: ку
+[04:01:14] mifag4: чоделаете
+[04:01:16] vasiliy karat: ВСТУПАЙ В МОЮ ФРАКЦИЮ У МЕНЯ ДАЖЕ РАБЫ ЕСТЬ
+[04:01:29] mifag4: правда
+[04:01:49] vasiliy karat: БУМАГУ
+[04:02:05] mifag4: можно свами развеваца
+[04:02:18] vasiliy karat: МИФАГ МЫ НАХОДИМСЯ В СОСТОЯНИИ ВОЙНЫ
+[04:02:28] vasiliy karat: ДО РАЗВИТИЯ ДЕЛО НЕ ДОЙДЕТ
+[04:02:36] vasiliy karat: РАБУ НЕЛЬЗЯ ТОЛЬКО КУЛАКИ
+[04:02:40] mifag4: у меня п
+[04:02:43] vasiliy karat: СТОЙ
+[04:02:47] vasiliy karat: НАДЕНЬ
+[04:02:50] vasiliy karat: ЧТОБЫ Я ТЕБЯ ВИДЕЛ
+[04:02:50] mifag4: опт
+[04:02:53] mifag4: ест
+[04:03:12] vasiliy karat: МИФАГ БЕРИ ОРУЖИЕ СМОТРИ В ГОРИЗОНТ
+[04:03:30] vasiliy karat: РАБ ДЕЛАЙ УКРЕПЫ
+[04:04:14] vasiliy karat: МИФАГ МОЖЕШЬ ПАРУ ПАЛОК ДИНАМИТОВ СДЕЛАТЬ?
+[04:04:22] mifag4: на да машыну разабрат
+[04:04:31] vasiliy karat: ДА НЕНАДА СДЕЛАЕМ ЕЕ УКРЕПОМ
+[04:04:43] (TEAM) mifag4: ок
+[04:04:44] XLEBYC killed vasiliy karat using rust_boltrifle
+[04:04:51] vasiliy karat: КЪЕ
+[04:04:52] vasiliy karat: КХЕ
+[04:04:56] vasiliy karat: РАБ
+[04:04:57] vasiliy karat: БЕРИ
+[04:04:59] vasiliy karat: ПУШКУ
+[04:05:01] vasiliy karat: Я УЖЕ НЕ ВЫЖИВУ
+[04:05:03] vasiliy karat: КРОВЬ
+[04:05:07] XLEBYC killed Mr_Pyro using rust_boltrifle
+[04:05:07] vasiliy karat: КРОВЬ ПОДСТУПАЕТ
+[04:05:10] vasiliy karat: К ГОРЛУ
+[04:05:14] vasiliy karat: КХЕ ЕХ
+[04:05:18] Toxa08 killed mifag4 using rust_boltrifle
+[04:05:33] vasiliy karat: ЩАС ЖДЕМ ПОКА ПОДОЙДУТ
+[04:05:35] vasiliy karat: МОЖЕТ
+[04:05:37] vasiliy karat: ВЫЛЕЧАТ
+[04:05:38] vasiliy karat: НЕЗНАЮ
+[04:05:44] vasiliy karat: Я ЛУЧШЕ В РАБЫ ПОЙДУ
+[04:05:46] mifag4: гей
+[04:05:47] vasiliy karat: ЧЕМ УМИРАТЬ
+[04:05:55] mifag4: я жывой
+[04:05:56] vasiliy karat: ПОМОГИТЕ
+[04:06:00] vasiliy karat: ПОМОГИТЕ
+[04:06:00] (TEAM) mifag4: сука
+[04:06:07] (TEAM) mifag4: гей
+[04:06:15] vasiliy karat: ОТНЕСИТЕ К СЕБЕ НА ЛЕЖАК
+[04:06:21] vasiliy karat: НАС
+[04:06:24] vasiliy karat: НЕЕЕЕЕТ
+[04:06:52] Dropped "mifag4" from server<STEAM_0:1:934372859>
+[04:06:52] mifag4 suicided!
+[04:06:59] Client "mifag4" connected.
+[04:07:04] vasiliy karat: ЛАДНО Я ПОЙДУ ЭТО ХОТЯБЫ БЫЛО ВЕСЕЛО
+[04:07:15] vasiliy karat: ПОКА НЕ ИГРАБЕЛЬНО
+[04:07:34] vasiliy karat: ЕСЛИ ХОЧЕШЬ МОГУ ЗАРЕСПАВНИТЬ
+[04:07:35] Client "mifag4" spawned in server <STEAM_0:1:934372859> (took 36 seconds).
+[04:07:49] b0d9: Почему ресурсы тратяться, а механизм не спавниться?
+[04:07:55] vasiliy karat: ОТНЕСИТЕ НАС НА ЛЕЖАК
+[04:08:12] vasiliy karat: НУТРИМЕНТОВ ДАЙТЕ
+[04:08:46] vasiliy karat: АЙ
+[04:09:51] Dropped "b0d9" from server<STEAM_0:1:30281260>
+[04:09:51] b0d9 suicided!
+[04:09:56] Client "Fif11" spawned in server <STEAM_0:0:24538483> (took 1176 seconds).
+[04:11:37] Client "MkBoboch_" spawned in server <STEAM_0:1:639220488> (took 966 seconds).
+[04:11:53] vasiliy karat: Я ГНИТЬ НАЧИНАЮ
+[04:12:27] vasiliy karat: Я ЕЩЕ СВЕЖИЙ НЕ ГНИЛОЙ
+[04:13:36] (TEAM) mifag4: нету
+[04:15:00] mifag4: аааааааааааааааааааааааааааааааааа
+[04:15:06] (TEAM) mifag4: ааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааа
+[04:15:57] Dropped "mifag4" from server<STEAM_0:1:934372859>
+[04:15:57] mifag4 suicided!
+[04:15:59] Client "mifag4" connected.
+[04:16:37] Client "mifag4" spawned in server <STEAM_0:1:934372859> (took 38 seconds).
+[04:18:16] Dropped "MkBoboch_" from server<STEAM_0:1:639220488>
+[04:18:16] MkBoboch_ suicided!
+[04:18:22] Client "MkBoboch_" connected.
+[04:18:23] Toxa08 was killed by ent_jack_gmod_ezpickaxe
+[04:18:27] Client "Дмитрий Уткин" connected.
+[04:18:39] Client "MkBoboch_" spawned in server <STEAM_0:1:639220488> (took 17 seconds).
+[04:18:55] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 28 seconds).
+[04:19:03] Дмитрий Уткин: !squad
+[04:19:05] Client "kosmokot" connected.
+[04:19:14] Дмитрий Уткин: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:19:22] MkBoboch_: f
+[04:19:30] Дмитрий Уткин: !squad
+[04:19:31] Дмитрий Уткин: !squad
+[04:19:32] Дмитрий Уткин: !squad
+[04:19:37] vasiliy karat: !menu
+[04:20:00] mifag4: !squad
+[04:20:03] mifag4: !squad
+[04:20:28] vasiliy karat started a vote (все погибли как поступим)
+[04:20:30] Client "Redoket" connected.
+[04:20:32] Toxa08 voted for: поставим другую
+[04:20:34] vasiliy karat voted for: перезапустим карту
+[04:20:35] mifag4 voted for: перезапустим карту
+[04:20:39] XLEBYC voted for: поставим другую
+[04:20:46] Mr_Pyro voted for: поставим другую
+[04:20:48] Vote results: Option 'поставим другую' won. (3/8)
+[04:20:55] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 25 seconds).
+[04:20:57] Toxa08: МИКРО НАЦИИ
+[04:20:57] vasiliy karat: !mENU
+[04:22:05] vasiliy karat started a votemap with options gm_micronations gm_emp_isle gm_emp_palmbay gm_sro_mountain_field
+[04:22:08] mifag4 voted for: gm_micronations
+[04:22:10] vasiliy karat voted for: gm_emp_palmbay
+[04:22:12] MkBoboch_ voted for: gm_micronations
+[04:22:13] Дмитрий Уткин voted for: gm_micronations
+[04:22:14] Redoket voted for: gm_sro_mountain_field
+[04:22:24] Toxa08 voted for: gm_micronations
+[04:22:25] Vote results: Vote was unsuccessful.
+[04:22:30] Redoket: !squad
+[04:22:30] mifag4 killed MkBoboch_ using rust_boltrifle
+[04:22:31] Redoket: !squad
+[04:22:34] Дмитрий Уткин: !menu
+[04:22:39] mifag4 killed Fif11 using rust_eoka
+[04:22:40] XLEBYC: !squad
+[04:22:44] Toxa08: !squad
+[04:22:45] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[04:22:45] Toxa08: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:22:46] XLEBYC: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:22:47] vasiliy karat: !MENU
+[04:22:54] Mr_Pyro: !ЬУТГ
+[04:23:00] vasiliy karat started a votemap with options gm_micronations gm_emp_isle gm_emp_palmbay gm_sro_mountain_field gm_sro gm_flatgrass
+[04:23:02] mifag4 voted for: gm_emp_palmbay
+[04:23:02] MkBoboch_ voted for: gm_micronations
+[04:23:03] Fif11 voted for: gm_micronations
+[04:23:04] Mr_Pyro voted for: gm_sro
+[04:23:04] Toxa08 voted for: gm_flatgrass
+[04:23:06] Toxa08: 6
+[04:23:06] XLEBYC voted for: gm_flatgrass
+[04:23:07] Redoket voted for: gm_sro
+[04:23:07] Дмитрий Уткин voted for: gm_sro
+[04:23:08] vasiliy karat voted for: gm_emp_palmbay
+[04:23:08] Vote results: Vote was unsuccessful.
+[04:23:09] Dropped "MkBoboch_" from server<STEAM_0:1:639220488>
+[04:23:09] MkBoboch_ suicided!
+[04:23:13] Client "MkBoboch_" connected.
+[04:23:15] mifag4: !squad
+[04:23:17] vasiliy karat: !MENU
+[04:23:17] Dropped "Fif11" from server<STEAM_0:0:24538483>
+[04:23:17] Fif11 suicided!
+[04:23:27] Client "Fif11" connected.
+[04:23:31] Client "MkBoboch_" spawned in server <STEAM_0:1:639220488> (took 18 seconds).
+[04:23:42] Dropped "MkBoboch_" from server<STEAM_0:1:639220488>
+[04:23:42] MkBoboch_ suicided!
+[04:24:12] Client "Fif11" spawned in server <STEAM_0:0:24538483> (took 45 seconds).
+[04:24:16] vasiliy karat started a vote (2)
+[04:24:19] vasiliy karat voted for: новая новая карта остров
+[04:24:20] Дмитрий Уткин voted for: сро
+[04:24:22] Toxa08 voted for: микронаци
+[04:24:23] Redoket: !men5
+[04:24:23] Redoket voted for: моунтен филд
+[04:24:27] Mr_Pyro voted for: сро
+[04:24:27] XLEBYC voted for: микронаци
+[04:24:34] Client "MkBoboch_" connected.
+[04:24:36] Vote results: Option 'сро' won. (2/8)
+[04:24:42] Redoket: !menu
+[04:24:46] vasiliy karat: !menu
+[04:24:53] Redoket changed the map to gm_sro with gamemode jsurvival
+[04:24:53] Server is shutting down/changing levels.
+
+
+
+[04:25:04] New map: gm_sro
+[04:25:28] Client "XLEBYC" spawned in server <STEAM_0:1:615225475> (took 29 seconds).
+[04:25:29] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 30 seconds).
+[04:25:32] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 33 seconds).
+[04:25:34] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 35 seconds).
+[04:25:37] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 38 seconds).
+[04:25:40] Toxa08: !squad
+[04:25:42] XLEBYC: !squad
+[04:25:43] Дмитрий Уткин: !squad
+[04:25:54] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 55 seconds).
+[04:25:54] vasiliy karat: И НЕ МЕЧТАЙТЕ ЧТО ПОЧИНИТСЯ ИГРАЕМ ТАК ТАК ДАЖЕ КРУЧЕ
+[04:26:00] Toxa08: +
+[04:26:04] Client "mifag4" spawned in server <STEAM_0:1:934372859> (took 65 seconds).
+[04:26:16] Дмитрий Уткин: !squad
+[04:26:17] Дмитрий Уткин: !squad
+[04:26:18] Дмитрий Уткин: !squad
+[04:26:23] Mr_Pyro: !squad
+[04:26:25] Client "MkBoboch_" spawned in server <STEAM_0:1:639220488> (took 86 seconds).
+[04:26:26] Client "Fif11" spawned in server <STEAM_0:0:24538483> (took 87 seconds).
+[04:27:15] Dropped "Toxa08" from server<STEAM_0:0:33704276>
+[04:27:15] Toxa08 suicided!
+[04:27:24] Dropped "XLEBYC" from server<STEAM_0:1:615225475>
+[04:27:24] XLEBYC suicided!
+[04:27:24] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_flametank
+[04:29:04] vasiliy karat: !menu
+[04:29:27] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezwater
+[04:29:37] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eznuke_small
+[04:29:52] Дмитрий Уткин was killed by entityflame
+[04:30:08] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[04:30:08] Дмитрий Уткин suicided!
+[04:30:10] Client "Дмитрий Уткин" connected.
+[04:30:32] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 22 seconds).
+[04:30:35] Dropped "MkBoboch_" from server<STEAM_0:1:639220488>
+[04:30:35] MkBoboch_ suicided!
+[04:30:38] Client "Chupacabr" connected.
+[04:31:25] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 47 seconds).
+[04:32:34] Chupacabr: !squad
+[04:33:00] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[04:33:00] vasiliy karat suicided!
+[04:33:00] Client "vasiliy karat" connected.
+[04:33:01] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[04:33:01] Mr_Pyro suicided!
+[04:33:04] Client "Mr_Pyro" connected.
+[04:33:16] Dropped "Fif11" from server<STEAM_0:0:24538483>
+[04:33:16] Fif11 suicided!
+[04:33:24] Client "Fif11" connected.
+[04:33:29] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 29 seconds).
+[04:33:58] Client "Fif11" spawned in server <STEAM_0:0:24538483> (took 34 seconds).
+[04:34:01] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 57 seconds).
+[04:35:14] mifag4 killed Дмитрий Уткин using rust_eoka
+[04:35:24] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[04:35:24] Дмитрий Уткин suicided!
+[04:35:26] Client "Дмитрий Уткин" connected.
+[04:35:41] Mr_Pyro: !squad
+[04:35:47] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 21 seconds).
+[04:36:14] Chupacabr killed mifag4 using wep_jack_gmod_hands
+[04:36:17] Fif11 killed Chupacabr using wep_jack_gmod_hands
+[04:36:22] Chupacabr: !menu
+[04:36:40] Chupacabr: !spawn Chupacabr
+[04:36:46] (SILENT) Chupacabr Respawned Themself
+[04:36:53] (SILENT) Chupacabr Respawned mifag4
+[04:37:47] (SILENT) Chupacabr Respawned Дмитрий Уткин
+[04:37:49] Redoket: !MENU
+[04:37:56] Redoket teleported to Chupacabr
+[04:37:59] Redoket teleported to Mr_Pyro
+[04:41:32] (TEAM) mifag4: сем ку
+[04:41:35] mifag4: !squad
+[04:41:36] mifag4: !squad
+[04:41:37] mifag4: !squad
+[04:42:23] Dropped "Fif11" from server<STEAM_0:0:24538483>
+[04:42:23] Fif11 suicided!
+[04:46:17] Chupacabr killed vasiliy karat using rust_boltrifle
+[04:47:23] Дмитрий Уткин: !squad
+[04:47:32] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[04:47:32] Дмитрий Уткин suicided!
+[04:47:33] Client "Дмитрий Уткин" connected.
+[04:47:55] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 22 seconds).
+[04:48:16] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[04:48:16] Дмитрий Уткин suicided!
+[04:48:18] Client "Дмитрий Уткин" connected.
+[04:48:40] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 22 seconds).
+[04:49:25] Дмитрий Уткин: !squad
+[04:49:27] Дмитрий Уткин: !squad
+[04:49:36] Дмитрий Уткин: !squad
+[04:49:37] Дмитрий Уткин: !squad
+[04:49:37] Дмитрий Уткин: !squad
+[04:52:05] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:52:08] Chupacabr: !squad
+[04:52:28] Дмитрий Уткин: !squad
+[04:52:31] Дмитрий Уткин: !squad
+[04:52:32] mifag4: !squad
+[04:52:33] mifag4: !squad
+[04:52:36] Дмитрий Уткин: !squad
+[04:52:41] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[04:52:41] Дмитрий Уткин suicided!
+[04:53:56] Chupacabr: !menu
+[04:54:27] (csay from Chupacabr) ПОХОЖЕ ВСЕ ПОЧИНЕНО!!!
+[04:54:28] (csay from Chupacabr) ПОХОЖЕ ВСЕ ПОЧИНЕНО!!!
+[04:54:29] (csay from Chupacabr) ПОХОЖЕ ВСЕ ПОЧИНЕНО!!!
+[04:54:29] (csay from Chupacabr) ПОХОЖЕ ВСЕ ПОЧИНЕНО!!!
+[04:54:29] (csay from Chupacabr) ПОХОЖЕ ВСЕ ПОЧИНЕНО!!!
+[04:54:31] (csay from Chupacabr) ПОХОЖЕ ВСЕ ПОЧИНЕНО!!!
+[04:54:31] (csay from Chupacabr) ПОХОЖЕ ВСЕ ПОЧИНЕНО!!!
+[04:54:46] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[04:54:46] Chupacabr suicided!
+[04:55:10] Client "Дмитрий Уткин" connected.
+[04:55:22] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[04:55:22] vasiliy karat suicided!
+[04:55:37] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 27 seconds).
+[04:56:02] mifag4: да
+[04:56:15] Дмитрий Уткин: !s
+[04:56:19] Дмитрий Уткин: ты где
+[04:59:17] Dropped "mifag4" from server<STEAM_0:1:934372859>
+[04:59:17] mifag4 suicided!
+[05:15:48] Redoket: !MENU
+[05:16:02] Redoket stripped weapons from Themself
+[05:16:56] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[05:16:56] Mr_Pyro suicided!
+[05:37:12] Client " ︻デꞩꞥIꝑer" connected.
+[05:47:15] Client "mifag4" connected.
+[05:48:03] Дмитрий Уткин: supply radio: fulton-crate
+[05:48:05] Client "mifag4" spawned in server <STEAM_0:1:934372859> (took 50 seconds).
+[05:48:56] Dropped "mifag4" from server<STEAM_0:1:934372859>
+[05:48:57] mifag4 suicided!
+[05:50:00] Client " ︻デꞩꞥIꝑer" spawned in server <STEAM_0:1:529611901> (took 768 seconds).
+[05:54:17] Dropped " ︻デꞩꞥIꝑer" from server<STEAM_0:1:529611901>
+[05:54:17]  ︻デꞩꞥIꝑer suicided!
+[05:59:38] Client "Mr_Pyro" connected.
+[06:00:30] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 52 seconds).
+[06:07:20] Mr_Pyro: ы
+[06:09:40] Client "бугагашенька" connected.
+[06:10:08] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 28 seconds).
+[06:10:19] Mr_Pyro: ы
+[06:17:36] Дмитрий Уткин killed бугагашенька using tfa_doithompsonm1a1
+[06:19:49] бугагашенька: пон
+[06:21:37] бугагашенька: бывает
+[06:31:14] Client "vasiliy karat" connected.
+[06:32:12] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 58 seconds).
+[06:35:35] Mr_Pyro killed vasiliy karat using tfa_doim1garand
+[06:41:19] Дмитрий Уткин killed бугагашенька using tfa_doithompsonm1a1
+[06:47:51] vasiliy karat: МОЕ ТЕПЕРЬ
+[06:48:54] vasiliy karat: НУЖНО ФРАКЦИЮ
+[06:49:59] vasiliy karat: А
+[06:50:00] vasiliy karat: Я ТУТ
+[06:50:40] vasiliy karat: ДЖУНГ ГУО
+[06:51:10] vasiliy karat: 5 СЕК Я ЩАС
+[06:57:55] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[06:57:55] Дмитрий Уткин suicided!
+[06:58:38] бугагашенька: хелоу
+[06:58:41] бугагашенька: маи френдс
+[06:58:45] бугагашенька: хотите шутку?
+[06:59:07] Mr_Pyro: yeah
+[06:59:13] бугагашенька: крч,
+[06:59:18] бугагашенька: чел который щас ливнул
+[06:59:22] бугагашенька: начинаю с начала
+[06:59:28] бугагашенька: иду я искать место для базы такой
+[06:59:33] бугагашенька: осматриваюся че где и как
+[06:59:40] бугагашенька: вижу ко мне чел в немецкой форме бежит
+[06:59:43] бугагашенька: я такой дарова
+[06:59:47] бугагашенька: а он пушку на меня
+[06:59:48] бугагашенька: направил
+[07:00:02] бугагашенька: я сказал убери я пустой и начал мансит типо штоб он не направлял на ме
+[07:00:04] бугагашенька: кхм
+[07:00:08] бугагашенька: ну вы поняли
+[07:00:11] бугагашенька: а он полча убил меня
+[07:00:16] бугагашенька: я типо, НУ ОКЭЙ
+[07:00:25] бугагашенька: иду туды, беру оружие (на всякий) 
+[07:00:38] бугагашенька: и иду НЕ мстить а искать место дял базы
+[07:00:49] бугагашенька: снова его встречаю, кста ресов особо 0
+[07:00:56] бугагашенька: все пусто блять почти
+[07:01:00] бугагашенька: в 1 место 0 стали
+[07:01:02] бугагашенька: в 2
+[07:01:04] бугагашенька: 5 залеж
+[07:01:06] бугагашенька: на 1 месте
+[07:01:10] бугагашенька: дальше расказую
+[07:01:11] бугагашенька: вот
+[07:01:15] бугагашенька: снова я его встречаю
+[07:01:18] бугагашенька: и он меня убивает
+[07:01:22] бугагашенька: у меня БОМБАНУЛО
+[07:01:32] бугагашенька: КТОМЕ ТОГО ШТО ТУТ ПОЧТИ 0 РЕСОВ
+[07:01:36] бугагашенька: ТАК ЧЕЛ МЕНЯ УБИВАЕТ
+[07:01:44] бугагашенька: крч я к нему на базу пришел пару С4 взорвал
+[07:01:51] бугагашенька: а он кажись даже не разобравшися
+[07:01:53] бугагашенька: чет делал
+[07:01:54] бугагашенька: я незню
+[07:02:04] бугагашенька: ну и по итогу получил он по заслугам
+[07:02:12] бугагашенька: да я без рп и без етого всего
+[07:02:15] бугагашенька: неправильно
+[07:02:23] бугагашенька: но што он думал когда меня просто атк убивал?
+[07:02:24] бугагашенька: кхм
+[07:02:39] бугагашенька: коментарии?
+[07:03:01] Mr_Pyro: КАТОСТРОФА
+[07:03:21] vasiliy karat: нуб какой то еще раз он так себя вести будет забаним
+[07:03:27] бугагашенька: ну не
+[07:03:30] бугагашенька: не особо нуб
+[07:03:38] бугагашенька: он там нефть перерабатывал
+[07:03:40] бугагашенька: НО
+[07:03:42] бугагашенька: без крейта 
+[07:03:46] бугагашенька: 2 серых ящика просто
+[07:03:48] бугагашенька: и все
+[07:03:49] бугагашенька: лол
+[07:04:13] vasiliy karat: он ушел да?
+[07:04:15] бугагашенька: да
+[07:04:17] бугагашенька: ливнул
+[07:04:29] Mr_Pyro: Уткин = Пончик
+[07:04:40] бугагашенька: во
+[07:04:46] бугагашенька: 2 с4
+[07:04:50] бугагашенька: ой
+[07:05:03] бугагашенька: будеш?
+[07:05:20] бугагашенька: красава даже стеклянную утылку выпил
+[07:05:45] Mr_Pyro: я жив
+[07:05:49] бугагашенька: воскрес
+[07:05:51] Mr_Pyro: это фейк
+[07:05:57] бугагашенька: а окэй
+[07:05:59] бугагашенька: так
+[07:06:02] бугагашенька: че делать будем то?
+[07:06:08] бугагашенька: мест для базы норм нету
+[07:06:11] бугагашенька: ну есть 1
+[07:06:16] бугагашенька: но бля там защиты будет 0
+[07:06:22] бугагашенька: зарейдить будет можно на раз 2
+[07:06:32] бугагашенька: но зато уранчик знаю гдэ
+[07:06:35] Mr_Pyro: \_0-0_/
+[07:06:36] бугагашенька: 10к
+[07:06:42] бугагашенька: хы
+[07:06:53] бугагашенька: я думать перезапуск карты с голосованием
+[07:07:00] бугагашенька: ну или неть
+[07:07:08] бугагашенька: идем покажу место
+[07:07:09] Mr_Pyro: ХАХАХАХ
+[07:07:15] бугагашенька: там 5 залеж стали
+[07:07:16] Mr_Pyro: ДУРШЛАКИЯ ВЕРНУЛАСЬ
+[07:07:17] Mr_Pyro: ХИХИХИХХИ
+[07:07:27] бугагашенька: может не тут?
+[07:07:32] бугагашенька: тут стали вроде 0
+[07:07:35] бугагашенька: да и воды
+[07:07:39] бугагашенька: а заказывать...
+[07:07:41] бугагашенька: ооооой
+[07:08:54] бугагашенька: ой
+[07:09:14] бугагашенька: идєм
+[07:09:55] бугагашенька: пон
+[07:10:07] бугагашенька: осталась вода
+[07:11:31] бугагашенька: ой
+[07:13:39] vasiliy karat: пиро
+[07:13:42] vasiliy karat: проверь корман
+[07:13:50] бугагашенька: О
+[07:13:52] бугагашенька: вода
+[07:13:53] vasiliy karat: можно прям в карман класть прикол
+[07:13:53] бугагашенька: сталь
+[07:13:58] Mr_Pyro: что
+[07:13:59] Mr_Pyro: как
+[07:14:03] Mr_Pyro: как 
+[07:14:11] Mr_Pyro: да ну нфиг
+[07:14:17] бугагашенька: я то думаю
+[07:14:21] Mr_Pyro: аххахах\
+[07:14:24] Mr_Pyro: РИЛ
+[07:14:26] бугагашенька: нахуя он за нефтью бегал
+[07:14:33] бугагашенька: а тут нефть нету
+[07:14:35] Mr_Pyro: не знал про трубы
+[07:15:06] бугагашенька: крч
+[07:15:14] бугагашенька: я думаю сразу попітаюся зделать
+[07:15:27] бугагашенька: верстак уровня 3
+[07:15:32] бугагашенька: и добуду уран
+[07:15:38] бугагашенька: єнергия будет
+[07:20:22] бугагашенька: я пошел на уранчиком
+[07:20:26] бугагашенька: делайте повербанки и тд
+[07:20:36] бугагашенька: у нас удет РИТЄГ
+[07:26:18] Mr_Pyro: Тут спавн будет?
+[07:26:25] vasiliy karat: нам обещали реактор
+[07:26:29] Mr_Pyro: а
+[07:26:30] Mr_Pyro: точно
+[07:27:11] vasiliy karat: я щ
+[07:27:14] Mr_Pyro: оке
+[07:30:51] Mr_Pyro: РЕАЛЬНО УРАН
+[07:30:53] Mr_Pyro: КАПЕЦ
+[07:30:55] Mr_Pyro: УА
+[07:30:57] Mr_Pyro: ГЕНЕРАТОР
+[07:31:19] бугагашенька: где повербанки которіе я просил?
+[07:31:26] Client "Ger_BadBlood" connected.
+[07:31:30] бугагашенька: 5 делай
+[07:31:33] Mr_Pyro: Нам одного хватит
+[07:31:36] Mr_Pyro: зачем?
+[07:31:36] бугагашенька: 5 делай
+[07:31:40] бугагашенька: 5к энергии
+[07:31:45] бугагашенька: она будет быстро тратиться
+[07:31:46] бугагашенька: а так
+[07:31:56] бугагашенька: мы про енергию бкдем не переживать а забывать
+[07:32:04] бугагашенька: она там по чуууууучуь
+[07:32:05] бугагашенька: буде
+[07:32:08] Mr_Pyro: Ладно, просто моя база и с одним прекраснто справлялась
+[07:33:09] бугагашенька: хы
+[07:33:29] Client "Miribaly" connected.
+[07:33:40] Mr_Pyro: а
+[07:33:44] бугагашенька: а это че?
+[07:33:45] vasiliy karat: небольшая щель ну да кому не пофег
+[07:33:45] Mr_Pyro: нам стену надо снести
+[07:35:03] Mr_Pyro: е
+[07:35:15] Client "Miyagi" connected.
+[07:35:24] vasiliy karat: ура народ заходит
+[07:35:27] Client "Дмитрий Уткин" connected.
+[07:35:30] бугагашенька: юху
+[07:35:30] Client "Miribaly" spawned in server <STEAM_0:1:933612180> (took 121 seconds).
+[07:35:33] бугагашенька: а вот кстате и он
+[07:35:36] бугагашенька: уткин
+[07:36:31] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 64 seconds).
+[07:36:45] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 90 seconds).
+[07:37:12] Дмитрий Уткин killed Miyagi using wep_jack_gmod_hands
+[07:37:48] vasiliy karat: ботлер помоему может воздух от радиации очищать
+[07:38:04] бугагашенька: не
+[07:39:42] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:39:42] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:40:59] vasiliy karat: чет реактор
+[07:41:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpickaxe
+[07:41:24] бугагашенька: он выключаеться чет часто
+[07:41:35] vasiliy karat: подключи его напрямую к батарейке
+[07:41:55] бугагашенька: ща
+[07:42:02] бугагашенька: радиация сука
+[07:44:06] Mr_Pyro: надо вкачать его
+[07:44:49] Mr_Pyro: куда
+[07:47:46] бугагашенька: у меня рак кажись
+[07:47:52] бугагашенька: ахуенно
+[07:47:57] Client "Джек подрочитель" connected.
+[07:50:30] Mr_Pyro: Короче
+[07:50:35] Mr_Pyro: Бугагашенька
+[07:50:38] Mr_Pyro: я не знаю почему
+[07:50:52] Mr_Pyro: но возможно я знаю причину проблемы
+[07:50:55] Mr_Pyro: с реактором
+[07:50:57] Mr_Pyro: ща
+[07:50:57] бугагашенька: че
+[07:53:11] бугагашенька: УРА Я ВЫЛИЧИЛСЯ ОТ РАКА!
+[07:55:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgold
+[07:55:53] Mr_Pyro: Короче
+[07:55:59] Mr_Pyro: у нас норм энергии не было
+[07:56:07] Mr_Pyro: потому что повербанк
+[07:56:12] Mr_Pyro: напрямую не был подключён
+[07:56:18] бугагашенька: пон
+[07:56:19] бугагашенька: так
+[07:56:23] бугагашенька: добывайте нефть ищите
+[07:56:27] бугагашенька: и тд
+[07:56:43] Client "shurik26rus" connected.
+[07:56:54] бугагашенька: БЛЯЯЯЯЯЯЯЯЯЯЯяя
+[07:57:01] бугагашенька: ПИЗДЕЦ
+[07:57:02] бугагашенька: НАХУЙ
+[07:57:05] бугагашенька: НУ ЕБАНЫЙ РОТ
+[07:57:07] Mr_Pyro: ?
+[07:57:09] бугагашенька: мне ливать надо...
+[07:57:14] бугагашенька: ищите людей кароче
+[07:57:17] Mr_Pyro: бл
+[07:57:25] бугагашенька: удачи...
+[07:57:31] бугагашенька: хотите покажу где уран?
+[07:57:31] Mr_Pyro: пока(
+[07:57:39] бугагашенька: вот там в том квадрате
+[07:57:44] бугагашенька: за угол прям
+[07:57:46] бугагашенька: направо
+[07:57:48] Mr_Pyro: пон
+[07:57:49] бугагашенька: и где -то там
+[07:57:53] бугагашенька: сканером ищите уран
+[07:57:57] бугагашенька: там где-то будет 9к
+[07:57:59] Mr_Pyro: хорошо
+[07:58:18] бугагашенька: бб
+[07:58:21] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[07:58:21] бугагашенька suicided!
+[07:58:24] Mr_Pyro: (
+[07:58:34] Mr_Pyro: Так
+[08:00:05] Mr_Pyro: надо продать что-нибудь как-будто
+[08:00:25] vasiliy karat: можно урана немного продать
+[08:00:26] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[08:00:33] Mr_Pyro: Давай
+[08:02:54] Mr_Pyro: Я нашёл нефть и серебро
+[08:03:00] Mr_Pyro: нам серебро нужн?
+[08:03:17] vasiliy karat: наверное нефть, с пластиком беда
+[08:03:22] Mr_Pyro: ок
+[08:04:01] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[08:04:01] Miyagi suicided!
+[08:04:10] Client "Miyagi" connected.
+[08:04:39] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 29 seconds).
+[08:04:51] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezcrate
+[08:04:57] Client "denyaghj100" connected.
+[08:05:45] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztitanium
+[08:05:46] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsteel
+[08:05:56] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[08:05:56] Miyagi suicided!
+[08:05:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezcrate
+[08:06:43] Client "Miyagi" connected.
+[08:07:20] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 37 seconds).
+[08:08:13] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodwillyjeep
+[08:08:14] Mr_Pyro: фига ты
+[08:09:52] Miyagi: modd!
+[08:09:58] Miyagi: !nodd
+[08:10:05] Miyagi: !modd
+[08:10:27] vasiliy karat: не ты включил
+[08:10:32] vasiliy karat: тот кто включил вышел
+[08:10:48] vasiliy karat: админы летает реальн
+[08:11:32] vasiliy karat: нена
+[08:11:39] Miyagi: !mood
+[08:11:45] Miyagi: !modd
+[08:12:35] vasiliy karat: а как вы забыли то раз не давно
+[08:13:28] Miyagi: /modd
+[08:13:39] vasiliy karat: э
+[08:14:14] Miyagi killed Miribaly using tfa_doik98_scop
+[08:14:33] Client "Джек подрочитель" spawned in server <STEAM_0:0:629176659> (took 1596 seconds).
+[08:14:40] vasiliy karat: мы не колонизаторы, вы так напились что забыли не только о ваших бывш�
+[08:14:42] vasiliy karat: хозяевах
+[08:14:46] vasiliy karat: но и о соседях
+[08:14:47] Miyagi killed Miribaly using tfa_doik98_scop
+[08:14:57] Mr_Pyro: ужас
+[08:15:05] Mr_Pyro: ъъъ
+[08:15:11] Mr_Pyro: я бы хотел попробовать
+[08:15:28] Mr_Pyro: например?
+[08:15:37] Mr_Pyro: ну, давай
+[08:15:44] Mr_Pyro: хорошоэ
+[08:16:26] Dropped "Miribaly" from server<STEAM_0:1:933612180>
+[08:16:26] Miribaly suicided!
+[08:16:31] Client "Miribaly" connected.
+[08:16:50] Client "Miribaly" spawned in server <STEAM_0:1:933612180> (took 19 seconds).
+[08:17:39] Miribaly: *jmod_ez_inv*
+[08:18:06] Mr_Pyro: Нефть пошла!
+[08:19:36] Redoket<STEAM_0:1:545449619> spawned model models/props/cs_militia/footlocker01_open.mdl
+[08:19:50] Mr_Pyro: Переработка запущена!
+[08:20:01] Джек подрочитель: /help
+[08:20:09] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodwillyjeep
+[08:20:45] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/canister02a.mdl
+[08:20:53] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/canister02a.mdl
+[08:20:55] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/canister02a.mdl
+[08:21:42] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/light_decklight01_on.mdl
+[08:22:35] Mr_Pyro: ЖИП
+[08:22:59] Mr_Pyro: ух
+[08:23:33] vasiliy karat: А ЕСТЬ КА
+[08:23:34] vasiliy karat: К
+[08:23:42] vasiliy karat: ОТКРОЕТЕ
+[08:23:59] vasiliy karat: ГАЗИРОВАНОЕ?
+[08:24:24] vasiliy karat: ПС
+[08:24:26] vasiliy karat: ИДИ УЗНАЙ КА
+[08:24:47] Mr_Pyro: аъъаъ\ уре\ъеувжо
+[08:24:51] Mr_Pyro: кдерхкадрозлкащтоезтлен
+[08:25:01] Mr_Pyro: ВКУСУН
+[08:25:15] vasiliy karat: ТЕПЕРЬ ПОНЯТНО КАК ВЫ НАПИЛИСЬ ТАК
+[08:25:22] Mr_Pyro: УЕЕКЩЁ
+[08:25:46] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/canisterchunk02d.mdl
+[08:25:52] Mr_Pyro: ОЙ
+[08:26:15] Mr_Pyro: ЖПХУБРэ К4
+[08:26:32] vasiliy karat: МНЕ ПЛОХО
+[08:26:47] Mr_Pyro: ГЦКП
+[08:26:56] Mr_Pyro: ВКУСЕ5Р
+[08:27:04] Джек подрочитель: /s ку всем
+[08:27:09] Mr_Pyro: СКОЫКДЬ=ЛЬКЕ ВОДЫВЫЫЭ
+[08:27:16] vasiliy karat: А ИЗ ЧЕГО ГОТОВИТСЯ
+[08:27:20] vasiliy karat: НУ 
+[08:27:23] vasiliy karat: САМОЕ ОСНОВНОЕ
+[08:27:27] vasiliy karat: БАЗА
+[08:27:53] vasiliy karat: ВЫ У СЕБЯ НА БАЗЕ ЭТО ДЕЛАЕТЕ?
+[08:28:07] Client "Chupacabr" connected.
+[08:28:10] vasiliy karat: ЛАДНО
+[08:28:14] Client "Chupacabr" connected.
+[08:28:25] Mr_Pyro: првиет
+[08:28:26] Client "Chupacabr" connected.
+[08:28:43] Redoket: !motd
+[08:28:48] Джек подрочитель: !motd
+[08:28:55] vasiliy karat: ТАМ
+[08:28:55] Дмитрий Уткин: !s где вы нахуй
+[08:28:57] vasiliy karat: СЫЛКА
+[08:28:59] vasiliy karat: ГАЙД
+[08:29:14] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 48 seconds).
+[08:29:30] Mr_Pyro: ща
+[08:29:41] Mr_Pyro: вода
+[08:29:49] Mr_Pyro: это вам спасибо
+[08:29:51] Mr_Pyro: УРА
+[08:29:53] Mr_Pyro: МНЕ НРАВИТСЯ
+[08:30:02] vasiliy karat: РУКИ
+[08:30:22] vasiliy karat: ПОДОЖДИ 
+[08:30:23] Mr_Pyro: ВАСЯ
+[08:30:27] Mr_Pyro: МЫ ВЕСЬ МЕТАЛЛ
+[08:30:29] Mr_Pyro: ВЫКОПАЛИ
+[08:30:32] Mr_Pyro: ВОТ ТУТ
+[08:30:33] Mr_Pyro: ДА
+[08:30:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[08:30:35] vasiliy karat: ДАВАЙ
+[08:31:06] Client "shurik26rus" spawned in server <STEAM_0:0:185483212> (took 2063 seconds).
+[08:31:45] Redoket: !menu
+[08:31:50] vasiliy karat: СТОЙ
+[08:31:52] vasiliy karat: А ТЫ КТО
+[08:31:52] Redoket teleported to Chupacabr
+[08:31:59] Mr_Pyro: не стреляй
+[08:32:03] Mr_Pyro: не надо
+[08:32:08] Mr_Pyro: эй
+[08:32:13] Mr_Pyro: просто ответь на вопрос
+[08:32:20] Mr_Pyro: кто ты и откуда
+[08:32:35] Mr_Pyro: успокойся
+[08:32:36] Client "APOJOPE" connected.
+[08:32:46] Mr_Pyro: у другой фракции тоже жёлтый цвет
+[08:32:53] Mr_Pyro: ага
+[08:32:58] Mr_Pyro: короче ты не наш
+[08:32:59] Mr_Pyro: ладно
+[08:33:03] Mr_Pyro: ну что ты тут забыл,
+[08:33:05] Mr_Pyro: ?
+[08:33:06] vasiliy karat: УХОДИ ПОКА 
+[08:33:09] vasiliy karat: ЭЙ ОСТАВЬ СКАНЕР
+[08:33:12] Mr_Pyro: тут наша территория
+[08:33:14] Джек подрочитель killed Miyagi using tfa_doim1garand
+[08:33:17] vasiliy karat: ДА ЩИТ
+[08:33:18] Mr_Pyro: что ты неаделал
+[08:33:21] Mr_Pyro: ЗАЧЕМ
+[08:33:23] Mr_Pyro: ГОВНО
+[08:33:28] Mr_Pyro: пиздец
+[08:33:29] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/canisterchunk02d.mdl
+[08:33:29] vasiliy karat: ДА ЩИТ
+[08:33:33] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/canister_propane01a.mdl
+[08:33:34] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/canister_propane01a.mdl
+[08:33:37] vasiliy karat: ТЫ ЩАС ВОЙНУ НАМ РАЗВЯЗАЛ
+[08:33:53] Client "APOJOPE" spawned in server <STEAM_0:1:557416607> (took 77 seconds).
+[08:33:56] vasiliy karat: ОДИН СЛОТ ПОД ОРУЖИЕ
+[08:33:58] vasiliy karat: ВЫБРОСЬ СТАРОЕ
+[08:34:11] vasiliy karat: ПЕСТОЛЬ МОЖНО
+[08:34:21] vasiliy karat: ЧТО У ТЕБЯ НА ВТОРОМ СЛОТЕ
+[08:34:23] Miribaly was killed by ent_rus_jsmod_pipe
+[08:34:32] vasiliy karat to admins: ДУРАКА НАДА БУДЕТ ЗАБАНИТЬ ЧЕТ ЗЛОЙ КАКОЙ ТО
+[08:34:45] vasiliy karat: БЕКСПЕЙС
+[08:35:36] Mr_Pyro: ёмаё
+[08:35:39] vasiliy karat: Я ТУТ
+[08:35:52] Client "RusLanConnection" connected.
+[08:36:01] Джек подрочитель: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:36:12] vasiliy karat: НУ МОЖЕТ ПРОСТО НЕМОЙ ЯЗЫК ЕМУ ТАМ ОТРЕЗАЛИ
+[08:36:29] vasiliy karat: ЗНАЕШЬ ПОКА
+[08:36:36] vasiliy karat: ЗАКОПАЙ ТРУП
+[08:36:39] vasiliy karat: ЧТОБЫ НЕ НАШЛИ ЕГО
+[08:36:42] Redoket killed Дмитрий Уткин using tfa_doimg42
+[08:36:45] vasiliy karat: УЛИКИ УБРАТЬ НАДО
+[08:36:52] vasiliy karat: ЛОПАТКОЙ
+[08:38:04] vasiliy karat: ДАВАЙТЕ ТЮРАЧКУ ПОСТРОИМ
+[08:38:09] Mr_Pyro: ахахха
+[08:38:12] Mr_Pyro: можно
+[08:38:13] Mr_Pyro: ща
+[08:38:13] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 141 seconds).
+[08:38:16] vasiliy karat: СТОЙ
+[08:38:18] Mr_Pyro: металл сделаю
+[08:38:31] vasiliy karat: ЧЕ
+[08:38:49] Chupacabr was killed by ent_jack_gmod_ezfalloutparticle
+[08:38:51] Джек подрочитель killed shurik26rus using tfa_doim1garand
+[08:39:08] Джек подрочитель: /s на нас напали?
+[08:39:35] RusLanConnection cloaked Themself by amount 0
+[08:39:45] vasiliy karat: ЧУВАК ЛУЧШЕ УХОДИ
+[08:39:47] RusLanConnection teleported to Redoket
+[08:39:49] RusLanConnection teleported to APOJOPE
+[08:39:51] RusLanConnection teleported to Chupacabr
+[08:39:51] vasiliy karat: ЧТО
+[08:40:03] vasiliy karat: НУ ЧТО ТЫ МОЛЧИШЬ Я НЕ ПОНИМАЮ ТЕБЯ
+[08:40:17] vasiliy karat: =
+[08:40:32] vasiliy karat killed Chupacabr using tfa_rs2v_akm
+[08:40:38] Mr_Pyro: предатель
+[08:40:41] Mr_Pyro: ПРЕДАТЕЛЬ
+[08:40:48] vasiliy karat to admins: ДЖЕК ЗЛОЙ ЧУВАК
+[08:40:54] Mr_Pyro: ДЕРЬМОФ
+[08:41:03] Mr_Pyro: ОН ВСЁ РАССКРЫЛ
+[08:41:11] Джек подрочитель: !motd
+[08:42:31] Mr_Pyro: ВАСЯ
+[08:42:34] Mr_Pyro: ВОТ
+[08:42:36] Mr_Pyro: ДА
+[08:42:44] RusLanConnection to admins: Следите за Джеком, он супер токсик
+[08:42:53] Mr_Pyro: Вася
+[08:43:01] Mr_Pyro: Нам Уран ещё нужен?
+[08:43:17] vasiliy karat: ЕСТЬ
+[08:43:30] Mr_Pyro: вася
+[08:43:33] Mr_Pyro: ну так тчо
+[08:43:50] vasiliy karat: Я ВАМ ПРЕДЛАГАЮ
+[08:43:53] vasiliy karat: Э
+[08:44:07] vasiliy karat: ТУТ ЧУВАКИ ИЗ ТОЙ ФРАКЦИИ ПРИНОСИЛИ НАМ ЖИРОБАН
+[08:44:16] RusLanConnection teleported to Chupacabr
+[08:44:22] vasiliy karat: НАМ НУЖНА ОТ НИХ ТАЙНЫЙ РЕЦЕПТ
+[08:44:25] Chupacabr: у них уже все естт
+[08:44:28] Chupacabr: скучно
+[08:44:48] Chupacabr: ядерка и тд
+[08:45:00] Chupacabr: фигней хочу позаниматся
+[08:45:12] RusLanConnection uncloaked Themself
+[08:45:15] Mr_Pyro: жди
+[08:45:39] Mr_Pyro: фольфрам
+[08:45:59] Mr_Pyro: нет
+[08:46:11] Mr_Pyro: тихо
+[08:46:19] Mr_Pyro: здравствуйте
+[08:46:28] Mr_Pyro: что вы тут делайте
+[08:46:29] Mr_Pyro: хм
+[08:46:32] Mr_Pyro: вы правы
+[08:46:36] Mr_Pyro: хотите вступить?
+[08:46:44] Mr_Pyro: нетц
+[08:46:46] Mr_Pyro: стойте
+[08:46:50] Mr_Pyro: что ты наделал
+[08:47:00] Mr_Pyro: это кибрспрорт
+[08:47:06] Mr_Pyro: ёмаё
+[08:47:08] Mr_Pyro: ладно
+[08:47:12] RusLanConnection cloaked Themself by amount 0
+[08:47:15] Mr_Pyro: не хоми людям просто так
+[08:47:17] Mr_Pyro: рано
+[08:47:19] Mr_Pyro: окень
+[08:47:26] Mr_Pyro: нам нужна техника
+[08:47:34] Mr_Pyro: да и нападать будем только по приказу Васи
+[08:47:39] Mr_Pyro: прямого и точного приказща
+[08:47:42] Mr_Pyro: да
+[08:47:58] vasiliy karat: сейчас
+[08:48:10] vasiliy karat: пиро сделай арту
+[08:48:23] Mr_Pyro: я вообще литл джелаю
+[08:48:25] vasiliy karat: окей
+[08:48:25] Mr_Pyro: или не надо
+[08:48:36] RusLanConnection to admins: Вася я хочу к вам, но Джек сильно накричал на меня, поэтому я испугалс
+[08:48:37] Mr_Pyro: не
+[08:48:41] Mr_Pyro: нас мало
+[08:48:47] Mr_Pyro: ПАРЕНЬ
+[08:48:51] Mr_Pyro: ОДЕНЬ КАСКУ
+[08:48:55] Mr_Pyro: ХОТЯ БЫ
+[08:48:56] Mr_Pyro: ХАХАХ
+[08:49:24] vasiliy karat: стой
+[08:49:26] Mr_Pyro: НИИИИТ
+[08:49:27] vasiliy karat: нету еще войны 
+[08:49:31] Mr_Pyro: НЕТ
+[08:49:35] vasiliy karat: давайте к ним съездим
+[08:49:38] Mr_Pyro: стой спокойно
+[08:49:41] vasiliy karat: просто в гости
+[08:49:45] Mr_Pyro: всен втроём?
+[08:49:50] vasiliy karat: поехали
+[08:49:54] Mr_Pyro: вот машина
+[08:49:57] vasiliy karat: в кансоле
+[08:49:58] Mr_Pyro: stopsound
+[08:50:12] Client "Шайтан" connected.
+[08:50:14] Mr_Pyro: НЕ СТРЕЛЯЙ
+[08:50:21] RusLanConnection teleported to vasiliy karat
+[08:50:32] Mr_Pyro: ДА
+[08:50:49] RusLanConnection uncloaked Themself
+[08:51:07] vasiliy karat: да оставь просто бродилкин
+[08:51:13] RusLanConnection cloaked Themself by amount 0
+[08:51:13] Mr_Pyro: нет
+[08:51:16] Mr_Pyro: это тот
+[08:51:21] Mr_Pyro: которого ты оскорбил
+[08:51:25] Mr_Pyro: садись
+[08:51:26] Client "Шайтан" connected.
+[08:51:28] vasiliy karat: ты маньяк кровожадный успокойся
+[08:51:47] Mr_Pyro: ТАК\
+[08:51:50] Mr_Pyro: НАМ НЕ СЮДЖА
+[08:52:14] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 48 seconds).
+[08:52:28] Mr_Pyro: ИДЁМ
+[08:52:38] Mr_Pyro: оружие убери
+[08:52:42] Mr_Pyro: мы в гости
+[08:52:52] Mr_Pyro: зовите
+[08:52:54] Mr_Pyro: что\
+[08:52:56] Mr_Pyro: дурак
+[08:53:04] Mr_Pyro: мы тут с мирнымми целями
+[08:53:11] Mr_Pyro: здравствуйте
+[08:53:14] Mr_Pyro: жда
+[08:53:16] vasiliy karat: да очень понравилось
+[08:53:21] Mr_Pyro: ОЧЕНЬ
+[08:53:35] RusLanConnection to admins: Почему вы оба желтые!
+[08:53:38] vasiliy karat: С ЧЕМ ПОМОГУТ
+[08:53:44] RusLanConnection to admins: станьте там оранжевыми
+[08:53:56] Mr_Pyro: хахахахх
+[08:53:58] Mr_Pyro: дурочок
+[08:54:02] Mr_Pyro: всё норм
+[08:54:27] Mr_Pyro: что ты ТРОВРИШЬ
+[08:54:28] RusLanConnection uncloaked Themself
+[08:54:30] Mr_Pyro: НЕ СТРЕЛЯТЬ
+[08:54:44] RusLanConnection cloaked Themself by amount 0
+[08:54:46] vasiliy karat to admins: ДИБИЛИЗМ ОЧЕНЬ СМЕШНО
+[08:54:59] Mr_Pyro: Извините
+[08:55:02] vasiliy karat: МЫ НЕ МОЖЕМ ЯБЛОКИ ОТДАТЬ
+[08:55:06] Mr_Pyro: вы видели человека
+[08:55:10] Mr_Pyro: в красной шапке?
+[08:55:21] RusLanConnection uncloaked Themself
+[08:55:28] RusLanConnection cloaked Themself by amount 0
+[08:55:36] Mr_Pyro: Вася
+[08:55:38] Mr_Pyro: я ЗА МАШИНОЙ
+[08:55:47] Mr_Pyro: ладно
+[08:55:52] Mr_Pyro: НЕТ
+[08:55:54] Mr_Pyro: НЕЛЬЗЯ
+[08:56:00] Mr_Pyro: ТАМ ТОЖЕ НЕУРОВНОВЕШЕНЫЙ
+[08:56:07] Mr_Pyro: ПОКА ЧТО ЧИЛИМ
+[08:56:11] Mr_Pyro: не не
+[08:56:23] Mr_Pyro: садись
+[08:56:23] vasiliy karat: ПОНИМАЕТЕ, ОСТАЛОСЬ В МИРЕ ТОЛЬКО 10 ДУБОВ КОТОРЫЕ ЯБЛОКИ ДАЮТ
+[08:56:25] Mr_Pyro: мы к нему
+[08:56:34] Mr_Pyro: садись в тачку
+[08:56:57] RusLanConnection uncloaked Themself
+[08:57:16] RusLanConnection cloaked Themself by amount 0
+[08:57:38] RusLanConnection uncloaked Themself
+[08:57:39] Miribaly: *top sound*
+[08:57:49] vasiliy karat: ЛАДНО, Я ПОЕДУ НА БАЗУ
+[08:57:52] vasiliy karat: ПОДУМАЮ 
+[08:58:01] RusLanConnection cloaked Themself by amount 0
+[08:58:23] Mr_Pyro: УЖАС 
+[08:58:32] vasiliy karat: ОТОРВАЛО НОГИ НО ЗА ТО ТЕПЕРЬ МОГУ ЦЕЛЫМИ ДНЯМ ИГРАТЬ В КОМП
+[08:58:43] vasiliy karat: КАРОЧЕ Я ПРИДУМАЛ
+[08:58:54] Mr_Pyro: тихзо
+[08:59:00] Client "rwlls" connected.
+[08:59:13] RusLanConnection to admins: капец челик агрессивный
+[08:59:55] RusLanConnection to admins: Вася объясни ему, что он должен всем делать веселую игру.
+[08:59:56] Mr_Pyro: НЕ ВХОДИ ТУДА
+[09:00:00] Mr_Pyro: ТАМ АТОМНЫЙ РЕАКТОР
+[09:00:03] Mr_Pyro: ТЫ УМРЁШЬ
+[09:00:05] Mr_Pyro: ОТ РАДИАЦИИ
+[09:00:17] vasiliy karat: КАРОЧЕ ДАВАЙТЕ ТАК
+[09:00:17] Mr_Pyro: ойй
+[09:00:19] Client "(postal) dude" connected.
+[09:00:20] Mr_Pyro: к нему
+[09:00:23] vasiliy karat: Я ПРИДУМАЛ УЖЕ ВСЕ ЗА ВАС
+[09:00:36] Mr_Pyro: да
+[09:00:39] Mr_Pyro: вот
+[09:00:53] Mr_Pyro: слушаем Васю
+[09:00:55] Mr_Pyro: о
+[09:00:57] Mr_Pyro: 0
+[09:01:08] Mr_Pyro: почти сразу спавняться
+[09:01:11] vasiliy karat: ДЕЛАЕМ ГРУЗОВИК С ЯЩИКАМИ, ЗАЕЗЖАЕМ К НИМ НА БАЗУ
+[09:01:22] vasiliy karat: И ПОНИМАЕТЕ ВСЕ ДОЛЖНО БЫТЬ ТИХО
+[09:01:25] vasiliy karat: БЕЗ ВЫСТРЕЛОВ
+[09:01:32] vasiliy karat: СДЕЛАЙТЕ СЕБЕ ПИСТОЛЕТЫ С ГЛУШАКАМИ
+[09:01:36] vasiliy karat: И НОЖИ
+[09:02:20] vasiliy karat: НАМ ПО УМНОМУ НАДО
+[09:02:25] vasiliy karat: ВСЕ ПРОВЕРНУТЬ ПО ТИХОМУ
+[09:02:39] vasiliy karat: МЫ ЗАЕДЕМ К НИМ И ВЫКРАДЕМ ИЗ ЛАБЫ
+[09:02:47] vasiliy karat: КОГДА ОНИ ВРУБЯТ ТРЕВОГУ
+[09:02:53] vasiliy karat: БУДЕМ УЗЖАТЬ
+[09:03:11] Mr_Pyro: стой вася
+[09:03:14] Mr_Pyro: я литл сделаю
+[09:03:16] Mr_Pyro: ок
+[09:03:18] Mr_Pyro: заранее
+[09:03:18] vasiliy karat: ЛАДНО
+[09:03:27] Mr_Pyro: не надо
+[09:03:36] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[09:03:36] Шайтан suicided!
+[09:04:14] vasiliy karat to admins: ДА ВРЯТЛИ ОН ЧЕ ТО ПОЙМЕТ, Я УВЕРЕН ЧТО ОН НАИГРАЕТ НА БАН
+[09:04:34] vasiliy karat: СЕК
+[09:04:49] Mr_Pyro: в консоль
+[09:04:55] Mr_Pyro: playermodel_selector
+[09:04:55] Client "LonePlayer022" connected.
+[09:05:22] Mr_Pyro was killed by lvs_helicopter_cod_ah6
+[09:05:25] Mr_Pyro: cerf
+[09:05:33] Mr_Pyro: я сам виноват
+[09:05:43] Mr_Pyro: ладно
+[09:05:44] Джек подрочитель killed Mr_Pyro using tfa_doiwelrod
+[09:05:44] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 49 seconds).
+[09:05:48] Mr_Pyro: бля
+[09:07:16] Mr_Pyro: алт е
+[09:07:32] vasiliy karat: КАРОЧЕ ПЛАН ТАКОЙ
+[09:07:43] vasiliy karat: МЫ ЗАЕЗЖАЕМ К НИМ НА БАЗУ
+[09:07:47] Redoket<STEAM_0:1:545449619> spawned sent ent_new_powerline
+[09:07:49] Client "Judge_1987" connected.
+[09:08:02] Redoket<STEAM_0:1:545449619> spawned sent ent_new_powerline
+[09:08:11] Redoket<STEAM_0:1:545449619> spawned sent ent_new_powerline
+[09:08:13] vasiliy karat: ОНИ ОБРАЩАЮТ ВСЕ ВНИМАНИЕ НА МАШИНУ
+[09:08:20] vasiliy karat: И ПОКА ИДЕТ РАЗГРУЗКА МЫ
+[09:08:25] vasiliy karat: МЫ ЗАХОДИМ В ИХ ЛАБУ 
+[09:08:26] Redoket<STEAM_0:1:545449619> spawned sent ent_new_powerline
+[09:08:29] vasiliy karat: И КРАДЕМ ВСЕ ЧТО ЕСТЬ
+[09:08:34] vasiliy karat: ЕСЛИ 
+[09:08:44] vasiliy karat: ТАМ КАКОЙ ТО УЧЕНЫЙ ДОКТОР НАУК БУДЕТ
+[09:08:52] vasiliy karat: ТО УЖЕ КАК СВИДЕТЕЛЯ УБИВАЕМ
+[09:08:57] vasiliy karat: И УЕЗЖАЕМ БЫСТРО
+[09:08:57] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[09:08:57] LonePlayer022 suicided!
+[09:09:00] Mr_Pyro: ок
+[09:09:01] Dropped "shurik26rus" from server<STEAM_0:0:185483212>
+[09:09:01] shurik26rus suicided!
+[09:09:06] Mr_Pyro: ща
+[09:09:16] vasiliy karat: ЗАКРОЙ ВЕРТОЛЕТ
+[09:09:34] Mr_Pyro: неа
+[09:09:34] vasiliy karat: НЕТУ ТАКИХ
+[09:09:47] Mr_Pyro: да 
+[09:09:51] Mr_Pyro: просто навсякий
+[09:09:55] Mr_Pyro: сначало с глушаком
+[09:09:59] Mr_Pyro: все будут
+[09:10:10] vasiliy karat: СТОЙТЕ ДАЙТЕ Я ДЫМОВЫЕ СДЕЛАЮ
+[09:10:24] (TEAM) Джек подрочитель: хуй
+[09:10:26] Chupacabr was killed by build_prop
+[09:10:30] vasiliy karat: ВСЕ ЭТО ЧИТАЮТ
+[09:10:34] Mr_Pyro: я две взял
+[09:10:36] Mr_Pyro: бля
+[09:10:45] vasiliy karat: КАРОЧЕ ПОЕХАЛИ
+[09:10:56] vasiliy karat: СЕК
+[09:11:01] Mr_Pyro: все на грузовик?
+[09:11:07] vasiliy karat: ДА
+[09:11:19] Mr_Pyro: на 3 нажми
+[09:11:26] Mr_Pyro: я за рулём
+[09:11:34] Mr_Pyro: так
+[09:11:35] vasiliy karat: ВСЕ СЕЛИ
+[09:11:37] Mr_Pyro: только иихо
+[09:11:45] Mr_Pyro: не проболтай что-нибудь
+[09:11:54] Mr_Pyro: да
+[09:12:06] Mr_Pyro: надо?
+[09:12:11] Mr_Pyro: Вася
+[09:12:33] vasiliy karat: ОНИ ТОЛЬКО С НАМИ ЗНАКОМЫ ВРЯТЛИ ОНИ НЕ ПОЙМУТ ЧТО ЭТ МЫ
+[09:12:42] Mr_Pyro: поймут
+[09:12:44] Mr_Pyro: забей
+[09:12:58] Mr_Pyro: погоди
+[09:13:02] Mr_Pyro: мне тогда тоже надо
+[09:13:43] Mr_Pyro: тихо
+[09:13:44] vasiliy karat: И ЧТО МАШИНА
+[09:13:47] Mr_Pyro: ку
+[09:13:52] vasiliy karat: МЫ ВОТ К ВАМ ЕДИМ
+[09:14:08] vasiliy karat: ПОЕХАЛИ УЖЕ ЗАГРУЗИЛИ
+[09:14:57] Mr_Pyro: едем
+[09:15:20] Mr_Pyro: нет
+[09:15:23] Mr_Pyro: всё норм
+[09:15:29] Mr_Pyro: бля
+[09:15:39] Mr_Pyro: СТОЙ
+[09:15:41] Client "Judge_1987" spawned in server <STEAM_0:1:85965829> (took 472 seconds).
+[09:15:49] Mr_Pyro: едем
+[09:16:00] Mr_Pyro: должно
+[09:16:02] Mr_Pyro: тихо
+[09:16:14] Mr_Pyro: ой
+[09:16:16] Mr_Pyro: извинте
+[09:16:32] Mr_Pyro: ку ку
+[09:16:33] Mr_Pyro: хахах
+[09:16:45] Miyagi was killed by ent_jack_gmod_ezsentry
+[09:16:51] Mr_Pyro: тихо
+[09:16:56] Mr_Pyro: успокойся
+[09:16:59] vasiliy karat: ОТКЛЮЧИТЕ ПОЖАЛУЙСТА
+[09:17:00] Mr_Pyro: сейчас уберут
+[09:17:11] vasiliy karat: ОКЕЙ
+[09:17:31] vasiliy karat: А ГДЕ ВАША ЛАБОЛАТОРИЯ
+[09:17:37] vasiliy karat: СТОП
+[09:17:40] vasiliy karat: Я ЖЕ ГРУЗИЛ
+[09:17:49] vasiliy karat: ОНИ ПО ПУТИ СГНИЛИ
+[09:18:01] vasiliy karat: ДА Я ПОМНЮ
+[09:18:05] vasiliy karat: ПОМНЮ ЧТО КЛАЛЕ
+[09:18:07] Mr_Pyro: тихо
+[09:18:08] vasiliy karat: ЯБЛОКИ СГНИЛИ
+[09:18:09] Mr_Pyro: джек
+[09:18:11] Mr_Pyro: не переживай
+[09:18:22] Mr_Pyro: блин
+[09:18:24] Mr_Pyro: а
+[09:18:29] Mr_Pyro: славо господи
+[09:18:38] vasiliy karat: ПОЧЕМУ
+[09:18:45] vasiliy karat: НУ Я ГЛАЗКОМ
+[09:18:50] Mr_Pyro: уберите оружие
+[09:18:55] Mr_Pyro: как уважение к вам 
+[09:19:09] vasiliy karat: Я ХОЧУ ПОСМОТРЕТЬ КУДА ВЫ ЯББЛЛОКИ
+[09:19:27] vasiliy karat: Я ПОММОГУ ПОГРУЗИТЬ
+[09:19:37] vasiliy karat: НУ СТОЙТЕ
+[09:19:42] vasiliy karat: ПОМОГУ ПОМОЧЬ ХОЧУ
+[09:19:54] vasiliy karat: ВЫ У НАС ЯБЛОКИ ПОПРОСИЛИ
+[09:19:58] vasiliy karat: ЗНАЧИТ НУЖНА
+[09:20:33] vasiliy karat: СЫРНИКИ
+[09:20:38] Джек подрочитель killed Miyagi using tfa_doim1garand
+[09:20:41] APOJOPE killed Mr_Pyro using tfa_rs2v_akm
+[09:20:45] APOJOPE killed vasiliy karat using tfa_rs2v_akm
+[09:20:53] Джек подрочитель killed Miribaly using tfa_doim1garand
+[09:20:55] Mr_Pyro: Дерьмо
+[09:20:57] vasiliy karat: НЕ ПОЛУЧИЛОСЬ НЕ ФОРТАНУЛО
+[09:20:57] Redoket killed Джек подрочитель using tfa_doimg42
+[09:21:00] Mr_Pyro: ОНИ ВСЁ ЗНАЛИ
+[09:21:17] vasiliy karat: ОНИ НАМ САМИ ВОЙНУ ОБЪЯВЯТ
+[09:21:22] vasiliy karat: НАМ ОСТАЛОСЬ ГОТОВИТСЯ
+[09:21:48] Mr_Pyro: ВАОТ
+[09:21:49] vasiliy karat: ВОТ КРАФТЕРЫ
+[09:21:50] Mr_Pyro: В КОРОБКЕ
+[09:21:55] Mr_Pyro: НУ ИЛИ КРАФТИ
+[09:22:04] vasiliy karat: НАЖМИ НА Е
+[09:22:38] Mr_Pyro: Я им отвечу?
+[09:22:45] vasiliy karat: А ЧТО ТЫ ОТВЕТИШЬ
+[09:22:48] Mr_Pyro: Ничего личного
+[09:23:00] Mr_Pyro: хотя
+[09:23:02] Mr_Pyro: говно
+[09:23:35] Judge_1987: jmod_inv
+[09:24:25] Mr_Pyro: Я ПИЛОТ
+[09:25:35] Mr_Pyro: да
+[09:25:35] vasiliy karat: ЧТО
+[09:25:38] vasiliy karat: ДА
+[09:25:49] vasiliy karat: ПКМ РУКАМИ
+[09:25:52] vasiliy karat: И Р
+[09:26:22] Mr_Pyro: ВАСЯ
+[09:26:27] Mr_Pyro: ДЕЛАТЬ ЯДЕРКУ?????
+[09:26:35] vasiliy karat: Я БЫ СДЕЛАЛ ТЕБЕ РАЦИЮ НО У НАС РЕСОВ НЕТ
+[09:26:44] vasiliy karat: ЩАС
+[09:27:05] vasiliy karat: ТЕБЕ 
+[09:27:08] vasiliy karat: ДАДУТ
+[09:27:08] Mr_Pyro: МНЕ ДЕЛАТЬ ЯДЕРНОЕ ОРУЖИЕ ИЛИ РАНО
+[09:27:09] vasiliy karat: ТРУБКУ
+[09:27:12] vasiliy karat: РАНО ПОКА
+[09:27:15] Mr_Pyro: ОК
+[09:28:07] vasiliy karat: ТЕБЕ ДАЛИ 
+[09:28:08] vasiliy karat: ТРУБКУ
+[09:28:12] vasiliy karat: В НЕЁ ГОВОРИ
+[09:28:33] APOJOPE: f,f,f
+[09:28:42] APOJOPE: абаб
+[09:29:05] Mr_Pyro: Я подготовил ресы
+[09:29:07] Mr_Pyro: для крафта
+[09:29:08] Mr_Pyro: ядерки
+[09:29:12] vasiliy karat: ОКЕЙ
+[09:29:35] vasiliy karat: ЛУЧШЕ НЕ СТОИТ
+[09:29:47] vasiliy karat: КАКОЙ ЦВЕТ
+[09:29:57] vasiliy karat: МОДЕЛЬ КАКАЯ
+[09:29:58] Client "entry" connected.
+[09:30:27] Mr_Pyro: Я готов
+[09:30:42] vasiliy karat: ЧТО ОН СТРОИТ
+[09:31:52] vasiliy karat: НЕ ТРОГАЙ ЕГО БРОДЯГА КАКОЙ ТО
+[09:32:09] vasiliy karat: А КЕМ ОН ОКАЖЕТСЯ
+[09:32:21] vasiliy karat: СПРОСИ
+[09:32:33] Mr_Pyro: Я куплю вольфрам на оставшиеся деньги?
+[09:32:45] vasiliy karat: ЩАС ПРОДАДИМ ХИМОЗУ БУДЕТ ДЕНЬГИ НА ВОЙНУ
+[09:32:51] Judge_1987: Это как Раст.
+[09:32:57] Джек подрочитель killed Judge_1987 using tfa_doi_m16a1
+[09:33:17] Mr_Pyro: я на разведку
+[09:33:19] Judge_1987 to admins: Необоснованная агрессия и убийство меня от игрока "Джек Подрочител�"
+[09:33:30] vasiliy karat to admins: Я ЖЕ ГОВОРИЛ
+[09:33:45] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[09:33:45] Chupacabr suicided!
+[09:34:04] Client "Chupacabr" connected.
+[09:34:43] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 39 seconds).
+[09:35:07] vasiliy karat: ПОКА НЕ ДЕЛАЙ 
+[09:35:09] vasiliy karat: Я ТУТ ПОКА
+[09:35:20] Mr_Pyro: Короче
+[09:35:28] Mr_Pyro: Они сделали тяжёлую арту
+[09:35:39] Mr_Pyro: и возможно ещё верт сделают
+[09:35:49] Mr_Pyro: погоди
+[09:35:51] Mr_Pyro: где ты
+[09:35:58] Mr_Pyro: гора
+[09:36:02] Mr_Pyro: хм
+[09:36:06] Mr_Pyro: я ща
+[09:36:09] Джек подрочитель killed Judge_1987 using tfa_doi_m16a1
+[09:36:25] vasiliy karat: ДА ТУТ ВСЕ ВООРУЖЕНЫ
+[09:36:30] vasiliy karat: ЧЕ ТЫ ЕГО УБИВАЕШЬ ТО
+[09:36:30] APOJOPE was killed by lvs_helicopter_cod_ah6
+[09:36:39] Judge_1987 to admins: Игрок "Джек подрочитель" необоснованно рейдит и убивает, ъуъ
+[09:36:57] Mr_Pyro: ВСё вася
+[09:37:01] Mr_Pyro: КАЕЦ
+[09:37:05] Mr_Pyro: СЕЙЧАС ВОЙНА БУДЕТ
+[09:37:10] Mr_Pyro: Я УБИЛ РАЗВЕДЧИКА
+[09:37:19] vasiliy karat: джек скажи где ты 
+[09:37:24] Mr_Pyro: Я ЗА НИМ
+[09:37:28] vasiliy karat: тебя пиро заберет
+[09:37:29] Mr_Pyro: Я ВРОДЕ ПОНЯЛ ГДЕ О
+[09:37:31] Mr_Pyro: ЪН
+[09:37:44] Mr_Pyro: А ХУЛИ ОН В
+[09:37:47] vasiliy karat: пиро делай
+[09:37:49] vasiliy karat: бомбу
+[09:37:54] Джек подрочитель killed Judge_1987 using tfa_doi_m16a1
+[09:38:31] Джек подрочитель killed Judge_1987 using tfa_doi_m16a1
+[09:38:51] Mr_Pyro: САДИСЬ
+[09:38:52] Mr_Pyro: БЫСТРО
+[09:39:02] Mr_Pyro: ЗАБУДЬ ПРО НИХ
+[09:39:13] vasiliy karat: !menu
+[09:39:38] Judge_1987: Увидешь Джека Подрочителя — стреляй сразу.
+[09:39:44] Judge_1987: Мудила рейдит новичков.
+[09:39:51] Judge_1987: Еще и на вертолете улетел.
+[09:40:04] vasiliy karat: кароче ему уже объяснили что так делать не стоит
+[09:40:17] Mr_Pyro: алт е
+[09:40:27] Mr_Pyro: нету
+[09:40:38] Judge_1987: Он еще и ресурсы стырил.
+[09:40:39] Judge_1987: ЪУЪ
+[09:41:01] Client "LonePlayer022" connected.
+[09:41:09] vasiliy karat: кароче я незнаю что с ним делать, забанить только если 
+[09:41:11] vasiliy karat: щас мы тут войну
+[09:41:12] vasiliy karat: проиграем
+[09:41:22] vasiliy karat: и наверное он чето начудит и уже можно будет
+[09:41:25] Judge_1987: Ну он правила нарушает, ъуъ
+[09:41:31] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 30 seconds).
+[09:41:34] vasiliy karat: да он тоже новенький 
+[09:41:36] Mr_Pyro: НЕ ЗНАБЮ
+[09:41:55] vasiliy karat: мы тут объяснить пытаемся для начала людям
+[09:41:56] vasiliy karat: ладно
+[09:42:01] Judge_1987: ну ладно
+[09:42:08] Mr_Pyro: тихо
+[09:42:18] Mr_Pyro: Вот и Вася
+[09:42:40] vasiliy karat: так
+[09:43:12] vasiliy karat: пиро давай ты на вертолете будешь если их верт взлетит то ты его собъ�
+[09:43:16] Mr_Pyro: Ну, тут ты уже им отвечаешь)
+[09:43:21] Mr_Pyro: ОК
+[09:43:34] Mr_Pyro: Я ТОГДА ПОЛЕТЕЛ
+[09:43:37] Mr_Pyro: ОК?
+[09:43:39] Mr_Pyro: НЕ НАДО
+[09:43:43] Mr_Pyro: ОСТАВАЙСЯ С ВАСЕЙ
+[09:43:46] Mr_Pyro: ЖДИ ЕГО ПРИКАЗОВ
+[09:43:46] vasiliy karat: джек ты прост пехотинцем будешь давайте форт поближе отстроем
+[09:44:02] Mr_Pyro: ПОГОДИ
+[09:44:06] Mr_Pyro: ПАТРОНЫ НУДЖНЫ
+[09:44:14] vasiliy karat: это самая крутая могу дать калаш если
+[09:45:59] Mr_Pyro: СТОЙ
+[09:46:09] vasiliy karat: сек
+[09:46:14] Mr_Pyro: ТИХО\
+[09:46:17] LonePlayer022: ?
+[09:46:18] Mr_Pyro: не бойся
+[09:46:22] Mr_Pyro: кто ты?
+[09:46:28] LonePlayer022: Человек
+[09:46:33] Mr_Pyro: откуда ты
+[09:46:45] LonePlayer022: Из Масяндры
+[09:46:56] Mr_Pyro: Не хочешь в Дуршлакию 
+[09:46:59] Mr_Pyro: ?
+[09:47:01] vasiliy karat: кушать
+[09:47:09] LonePlayer022: А если я откажусь?
+[09:47:15] Mr_Pyro: ничего не будет
+[09:47:19] Mr_Pyro: я тебя протсо отпущю
+[09:47:26] LonePlayer022: Не хочу
+[09:47:28] Mr_Pyro: ок
+[09:47:40] vasiliy karat: джек стой со мной поедешь
+[09:48:14] vasiliy karat: щас
+[09:48:29] Judge_1987 to admins: Я застрял. Спасите, пожежда. о.о
+[09:48:37] Chupacabr: !menu
+[09:48:46] Chupacabr: !menu
+[09:48:48] Chupacabr teleported to Judge_1987
+[09:48:49] vasiliy karat: кароче так мы сейчас едем рядом отстроем
+[09:48:53] Chupacabr teleported to Judge_1987
+[09:48:58] vasiliy karat: вроде наш
+[09:49:01] Judge_1987: застрял...
+[09:49:03] vasiliy karat: или не наш
+[09:49:07] vasiliy karat: а их реально два
+[09:49:14] vasiliy karat: стой
+[09:49:20] Judge_1987: а
+[09:49:22] Judge_1987: о как
+[09:49:25] Judge_1987: спасибо!
+[09:49:29] vasiliy karat: нужно сказать пироману чтоб он его сбивал все войну начинаем
+[09:49:46] Chupacabr: !menu
+[09:49:48] vasiliy karat: да
+[09:50:27] Mr_Pyro: ГДЕ ТУТ ВЕРТОЛЁТ
+[09:50:36] Mr_Pyro: ОН УЛИТЕЛ
+[09:50:43] Mr_Pyro: ВСЛЕДУЮЩИЙ РАЗ СТРЕЛЯТЬ?
+[09:50:49] Mr_Pyro: ОЛК
+[09:52:07] Mr_Pyro: ЕСЛИ ЧЕСТНО
+[09:52:14] Mr_Pyro: ТО Я СМОТРЕЛ ЬЧТО У НГИХ НА ТЕРЕ
+[09:52:16] Mr_Pyro: ТАМ ТАНКИ
+[09:52:22] Mr_Pyro: ЛЁГКИЙ ПОМОЙМУ
+[09:52:45] vasiliy karat: пироман давай так ты щас прокачешь турель на 10 дамага и притащиш на ф�
+[09:52:46] vasiliy karat: форт
+[09:52:48] vasiliy karat: который строить я буду
+[09:52:56] Mr_Pyro: JUR
+[09:52:58] Mr_Pyro: ОК
+[09:54:35] Джек подрочитель killed Chupacabr using tfa_rs2v_akm
+[09:54:47] vasiliy karat: какую
+[09:55:16] Mr_Pyro: ПИЗДА
+[09:55:18] Mr_Pyro: У МЕНЯ БАГ
+[09:55:23] Mr_Pyro: Я НЕ МОГУ ТУ ТУРЕЛЬ ВЫКЛ
+[09:55:26] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[09:55:26] LonePlayer022 suicided!
+[09:55:29] Mr_Pyro: Я НОВУЮ КУПИЛ
+[09:55:57] vasiliy karat: следи чтобы танки не выехали я тут строю
+[09:56:15] vasiliy karat: да че ты делаешь 
+[09:56:16] vasiliy karat: стой
+[09:56:25] Chupacabr to admins: джек реально офигел, стреляет по чувакам в ущелье со склона
+[09:57:14] Mr_Pyro: ПИЗДА НАМ
+[09:57:16] Mr_Pyro: КУДА ОН ПОЛЕЗ
+[09:57:23] Redoket killed Джек подрочитель using tfa_doimg42
+[09:57:47] vasiliy karat: щас
+[09:58:09] vasiliy karat: прокачай на 10
+[09:58:10] vasiliy karat: урон
+[09:58:20] Mr_Pyro: ГОТОВО
+[09:58:28] Chupacabr: !menu
+[09:58:29] Mr_Pyro: ПУГАЕШЬ
+[09:58:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[09:58:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eznukerocket
+[10:00:06] vasiliy karat: кончились
+[10:00:15] vasiliy karat: supply radio: ammo
+[10:00:22] Redoket: !MENU
+[10:00:35] Redoket stripped weapons from Themself
+[10:00:42] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[10:01:34] Mr_Pyro: ВОТ ТУТ ЕСТЬ
+[10:02:04] Mr_Pyro: Я РУСЛАНА В БЕЛЫЙ СПИСОК ДОБАВИЛ
+[10:02:40] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezwheatseed
+[10:02:43] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezwater
+[10:03:00] Mr_Pyro: ВАСЯ 
+[10:03:03] Mr_Pyro: ЯДЕРКА ВОТ
+[10:03:11] vasiliy karat: БЕРИ ТУРЕЛЬ В КОРМАН
+[10:03:17] vasiliy karat: ПИРО
+[10:04:08] Mr_Pyro: ВСЁ НОРМ
+[10:04:23] Mr_Pyro: ГДЕ ВАСЯ
+[10:04:50] Mr_Pyro: ВОТ ТЬУРЕЛЬ
+[10:05:00] Mr_Pyro: ЧТО ДАЛЬШЕ?
+[10:05:18] vasiliy karat: ПИРО СТРОЙ УКРЕПЫ
+[10:05:21] vasiliy karat: ЩАС УЖЕ НАЧНЕМ
+[10:05:25] Mr_Pyro: JR
+[10:05:27] Mr_Pyro: ОК
+[10:05:29] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[10:05:33] Mr_Pyro: БЛЯ
+[10:05:36] Mr_Pyro: У МЕНЯ МЕДКИТ
+[10:05:36] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpickaxe
+[10:05:54] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezwheatseed
+[10:06:00] vasiliy karat: СМОТРИ
+[10:06:05] vasiliy karat: НАЖИМАЕШЬ НА Е
+[10:06:06] Client "Toxa08" connected.
+[10:06:10] vasiliy karat: ТАМ НАШ ПЕРЕДОВОЙ ФОРТ
+[10:06:18] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezcornkernals
+[10:06:20] vasiliy karat: 1
+[10:06:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezcornkernals
+[10:06:21] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezcornkernals
+[10:06:21] vasiliy karat: ВОТ ОДИН
+[10:06:21] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezcornkernals
+[10:06:22] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezcornkernals
+[10:06:24] vasiliy karat: ЖМИ
+[10:06:27] vasiliy karat: ОХРАНЯЙ ТАМ
+[10:06:32] vasiliy karat: ОХРАНЙЯ
+[10:06:33] vasiliy karat: ПИРО
+[10:06:37] Mr_Pyro: ВСМ
+[10:06:40] Mr_Pyro: НА ЛИТЛЕ
+[10:06:45] vasiliy karat: ЧТО ТАМ
+[10:06:48] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 42 seconds).
+[10:06:48] Mr_Pyro: НЕТУ
+[10:06:51] Mr_Pyro: КЕРАМИКИ
+[10:06:52] Client "XLEBYC" connected.
+[10:07:20] Mr_Pyro: БОЛЬШЕ НЕТУ
+[10:07:24] Mr_Pyro: ЕСЛИ ЧТО
+[10:07:24] Client "XLEBYC" connected.
+[10:07:30] Mr_Pyro: ПИСЕЦ
+[10:07:42] Mr_Pyro: ЩА
+[10:07:53] Client "XLEBYC" spawned in server <STEAM_0:1:615225475> (took 29 seconds).
+[10:08:20] vasiliy karat: СПРЯЧЬСЯ ЗА СТЕНУ
+[10:08:34] vasiliy karat: ВОТ БУДУТ ПОДХОДИТЬ
+[10:08:39] vasiliy karat: НАЧИНАЙ СТРЕЛЬБУ
+[10:08:49] vasiliy karat: НАМ НУЖНО ПОКА ДОСТРОИТЬСЯ
+[10:09:43] Mr_Pyro: ЕЩА
+[10:10:45] vasiliy karat: погодите у меня тут проблемы с инетом щ
+[10:10:49] Mr_Pyro: ЁМАЁ
+[10:11:45] Client "52shot1kill" connected.
+[10:12:11] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[10:12:11] Chupacabr suicided!
+[10:12:25] Джек подрочитель: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:13:15] Mr_Pyro: НЕТ
+[10:14:00] Mr_Pyro: ВПОЛНЕ
+[10:14:06] Джек подрочитель killed APOJOPE using tfa_doimg34
+[10:14:12] Mr_Pyro: ПИЗДЕЙ
+[10:14:17] Mr_Pyro: вася не г+гттов
+[10:15:18] Judge_1987 to admins: Вот теперь точно застрял и без ящика
+[10:15:20] Mr_Pyro: ПРЯЧ ТУРЕЛИ
+[10:15:25] Mr_Pyro: ОНИ С АРТЫ СТРЕЛЯТЬ БУДУТ
+[10:15:40] vasiliy karat: у меня нафег инет на 1000 пинга был 
+[10:16:17] Client "Chupacabr" connected.
+[10:16:19] Mr_Pyro: ВАСЯ 
+[10:16:21] Mr_Pyro: ПИЗДА
+[10:16:28] Mr_Pyro: ДЖЕК УБИЛ АПОЖОПЕ
+[10:16:29] Mr_Pyro: И 
+[10:16:35] Mr_Pyro: ПОЗМОЖНО С АРТЫ БУДУТ СТРЕЛЯТЬ
+[10:16:43] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 26 seconds).
+[10:17:03] Judge_1987: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:17:15] Джек подрочитель killed Chupacabr using tfa_doik98_scop
+[10:17:50] Mr_Pyro: ДЕРЬМО
+[10:17:55] Chupacabr: !menu
+[10:18:03] Chupacabr banned Джек подрочитель permanently (reason)
+[10:18:03] Dropped "Джек подрочитель" from server<STEAM_0:0:629176659>
+[10:18:03] Джек подрочитель suicided!
+[10:18:08] Mr_Pyro: ОНИ ЛЕТЯТ
+[10:18:11] Redoket killed APOJOPE using tfa_doimg42
+[10:18:12] Mr_Pyro: ППИЗДА
+[10:18:15] Mr_Pyro: -ВЕРТ
+[10:18:22] vasiliy karat: слава богу что его забанили
+[10:18:26] Mr_Pyro: АХАХХА
+[10:18:28] Mr_Pyro: ДА ПИЗДЕЦ
+[10:18:30] Дмитрий Уткин killed APOJOPE using tfa_doimg42
+[10:18:37] vasiliy karat: чупака он два раза убил
+[10:18:41] Mr_Pyro: ОН ПРОСТО ПОВОЕВАТЬ ХОЧЕТ
+[10:18:44] Mr_Pyro: ХАХАХАХА\
+[10:19:05] Judge_1987 to admins: Застрял, заспавнившись. Help. ,_,
+[10:19:22] vasiliy karat: да  но у нас правила и вообще  мы комьюнити собираем не злых людей
+[10:19:22] Chupacabr teleported to Judge_1987
+[10:19:22] Chupacabr: !goto Judge_1987
+[10:19:37] Mr_Pyro: так
+[10:19:38] Chupacabr: !menu
+[10:19:38] Judge_1987: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:19:42] Mr_Pyro: у нас ресов на верт
+[10:19:44] Mr_Pyro: 100% нету
+[10:19:48] Chupacabr brought Judge_1987
+[10:19:49] Mr_Pyro: я могу танк подогнать
+[10:19:53] Judge_1987: СПАСИБО
+[10:19:58] vasiliy karat: притащи сюда ресы на арту
+[10:20:02] Mr_Pyro: ок
+[10:20:37] Mr_Pyro: ку ку
+[10:20:40] Mr_Pyro: это пизда
+[10:20:43] Mr_Pyro: я нуб разбился
+[10:20:45] Mr_Pyro: из фпс
+[10:20:47] APOJOPE killed vasiliy karat using lvs_renaultft_m
+[10:21:02] Mr_Pyro: в тореж
+[10:21:06] vasiliy karat: форт под обстрелом
+[10:21:10] Mr_Pyro: пиздец
+[10:21:15] Mr_Pyro: уэже всё
+[10:21:25] vasiliy karat: купите незнаю танк средний
+[10:21:31] vasiliy karat: продайте химию
+[10:21:35] vasiliy karat: сделайте арту
+[10:21:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgas
+[10:22:35] Mr_Pyro: надо противотанковыую сделать
+[10:22:38] Mr_Pyro: ну или танк ещё
+[10:23:45] Mr_Pyro: керамики нет
+[10:23:48] Mr_Pyro: ужас
+[10:23:52] Mr_Pyro: мы мобжит
+[10:24:18] Mr_Pyro: арта
+[10:24:19] Mr_Pyro: по нам
+[10:24:21] Mr_Pyro: или танк
+[10:24:23] Mr_Pyro: танк
+[10:24:35] Redoket killed Chupacabr
+[10:25:10] Redoket killed Mr_Pyro using lvs_wheeldrive_dodsherman
+[10:25:19] Mr_Pyro: ПИЗДА
+[10:25:24] Mr_Pyro: ЁМАЁ
+[10:26:03] APOJOPE killed Miribaly using lvs_wheeldrive_dodsherman
+[10:26:25] APOJOPE killed vasiliy karat using lvs_wheeldrive_dodsherman
+[10:26:30] Redoket killed Mr_Pyro using tfa_doimg42
+[10:26:32] Mr_Pyro killed Chupacabr using ent_jack_gmod_ezsticknade
+[10:26:32] Mr_Pyro killed Miribaly using ent_jack_gmod_ezsticknade
+[10:26:33] Chupacabr killed Дмитрий Уткин using ent_jack_gmod_ezsticknade
+[10:26:53] vasiliy karat killed Redoket using tfa_doimg42
+[10:26:57] vasiliy karat killed Miribaly using tfa_doimg42
+[10:27:02] Redoket killed vasiliy karat using tfa_doithompsonm1a1
+[10:27:23] vasiliy karat: МИРНЫЙ ДОГОВОР ДАВАЙТЕ
+[10:27:32] vasiliy karat: Я СЕЙЧАС
+[10:27:36] vasiliy karat: ПОДОЙДУ К РАДИО
+[10:27:37] vasiliy karat: И СКАЖУ
+[10:27:39] vasiliy karat: СЫРНИКИ
+[10:27:41] vasiliy karat: И МОИД
+[10:27:46] vasiliy karat: МОИ ЛЮДИ ЗАПУСТЯТ ЯДЕРНУЮ БОМБУ
+[10:27:58] vasiliy karat: ДЖЕКА МЫ ЗАБАНИЛИ
+[10:28:02] vasiliy karat: ЗАБУДЬТЕ
+[10:28:09] vasiliy karat: РЕДОКЕТ
+[10:28:46] vasiliy karat: ЯДЕРНАЯ РАКЕТА
+[10:28:56] Miyagi killed Mr_Pyro using tfa_doiwelrod
+[10:28:57] vasiliy karat: Я ОТДАЛ ПРИКАЗ СПРЯТАТЬ
+[10:29:01] Mr_Pyro: пиздец
+[10:29:02] vasiliy karat: НО ОНУ УЖЕ
+[10:29:06] vasiliy karat: ОНИ УЖЕ НАПРАВИЛИ
+[10:29:11] vasiliy karat: ВОТ И ВСЕ
+[10:29:13] Chupacabr killed Miyagi using tfa_doimg42
+[10:29:14] Miribaly killed Chupacabr using tfa_doimg42
+[10:29:45] vasiliy karat: ВЕРИТЬ ВРЯТЛИ НО Я БЫ НАВЕРНОЕ БЫЛ БЫ РАД ВЗОРВАТЬ БОМБУ
+[10:29:47] Mr_Pyro: НЕ СТРЕЛЯЙТЕ
+[10:29:52] vasiliy karat: ДАВАЙТЕ
+[10:29:52] Mr_Pyro: НЕ СТРЕЛЯЙТЕ
+[10:29:56] vasiliy karat: ДАЙТЕ МНЕ
+[10:30:03] vasiliy karat: ДАЙТЕ МНЕ ПОВОД
+[10:30:28] Mr_Pyro: Я ХОЧУ К ВАСЕ
+[10:30:31] vasiliy karat: ДАВАЙТЕ Я ПОДПИШУ КАПИТУЛЯЦИЮ И МЫ НЕ 
+[10:30:36] vasiliy karat: МЫ НЕ ОТКРЫВАЕМ
+[10:30:37] vasiliy karat: ДВЕРЬ
+[10:30:37] Mr_Pyro: У МЕНЯ НЕТУ КЛЮЧА
+[10:30:50] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpaper
+[10:31:11] vasiliy karat: ВЫ ПРИКАЖЕТЕ СВОИМ НЕ ЛЕЗЬТ
+[10:31:15] vasiliy karat: В ТУ КОМНАТУ
+[10:31:16] Mr_Pyro: И?
+[10:31:23] vasiliy karat: ЭТО НАШ ЗАПАС
+[10:31:27] vasiliy karat: ВТОРОЙ
+[10:31:27] Mr_Pyro: ЕГО ЗАБАНИЛИ)\
+[10:32:09] vasiliy karat: ВЫЖГИ БРАТАН, У ТЕБЯ В РУКАХ ГРОЗНОЕ ОРУЖИЕ
+[10:32:22] vasiliy karat: НУ ДАВАЙ
+[10:32:27] Mr_Pyro: Я китяая
+[10:32:29] vasiliy karat: ДАВАЙ ДАВАЙ
+[10:32:33] Mr_Pyro: стой
+[10:32:36] Mr_Pyro: ВАСЯ \Ъ
+[10:32:38] Mr_Pyro: НЕ НАДО
+[10:32:40] Mr_Pyro: ВЦ
+[10:32:55] vasiliy karat: ДА ЭТО СОЛДАТЫ НАБРАЛИ ИЗ ГАЗЕТЫ
+[10:33:03] vasiliy karat: ЭЙ
+[10:33:04] Mr_Pyro: НЕТ
+[10:33:04] vasiliy karat: НЕЕТ
+[10:33:07] Mr_Pyro: ТЬОЛЬКО
+[10:33:09] vasiliy karat: ПОБЕГИЦ
+[10:33:10] Mr_Pyro: НЕ ВАСЯ
+[10:33:19] Mr_Pyro: НЕТ
+[10:33:23] Mr_Pyro: НОРМ
+[10:33:27] vasiliy karat: ВЫ НЕ МОЖЕТЕ МЕНЯ ЗАКРЫТЬ!
+[10:33:29] Mr_Pyro: ИХХИ
+[10:33:33] vasiliy karat: ВЫ НЕ МОЖЕТЕ ЗАПЕРЕТЬ ВАСЮ
+[10:33:34] Mr_Pyro: КАЙФ
+[10:33:40] Mr_Pyro: ЗА ТО ВЕСЕЛО БЫЛО
+[10:33:45] Mr_Pyro: ДО ЗАХОДА ДЖЕФА
+[10:34:01] vasiliy karat: ПИРО СЮЖА
+[10:34:07] APOJOPE killed Chupacabr using tfa_doithompsonm1a1
+[10:34:08] Mr_Pyro: А
+[10:34:09] vasiliy karat: Я СТОЮ СТОЮ
+[10:34:09] Mr_Pyro: Я ПОНМЮ
+[10:34:11] Mr_Pyro: АЪХАХАХ
+[10:34:22] Mr_Pyro: А ЭТО
+[10:34:26] Mr_Pyro: БУГАГАШЕНЬКА БЫЛ
+[10:34:29] APOJOPE killed Miribaly using tfa_doithompsonm1a1
+[10:34:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[10:34:34] Mr_Pyro: ЕМА ВОДЫ
+[10:34:41] vasiliy karat: НЕЕ
+[10:34:46] Mr_Pyro: НЕТ
+[10:34:49] Mr_Pyro: ВАСЯ
+[10:34:54] Mr_Pyro: ВАСААААААСЯЧ
+[10:35:01] vasiliy karat: ВЫПУСТИТЕ
+[10:35:03] Mr_Pyro: ЧТО ВЫ ДЕЛАЕТЕ
+[10:35:05] Mr_Pyro: С ВАСЕЙ
+[10:35:09] Mr_Pyro: НЕТ
+[10:35:10] Mr_Pyro: Е
+[10:35:14] Mr_Pyro: А
+[10:35:29] Client "бугагашенька" connected.
+[10:35:49] vasiliy karat: ПИРО ДАВАЙ
+[10:35:51] vasiliy karat: ПОДСАДКУ
+[10:35:54] Redoket killed vasiliy karat using tfa_doithompsonm1a1
+[10:36:25] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 56 seconds).
+[10:36:35] vasiliy karat: ЯДЕРНЫЙ ТЕРОРИЗМ
+[10:36:36] Miyagi killed Mr_Pyro using tfa_doiwelrod
+[10:36:48] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpickaxe
+[10:36:50] Redoket killed Redoket
+[10:36:54] Miyagi killed vasiliy karat using tfa_doiwelrod
+[10:37:26] vasiliy karat was killed by ent_jack_gmod_ezfalloutparticle
+[10:37:36] бугагашенька: ой ой
+[10:37:54] vasiliy karat: ВСЕ ЛАДНО ПРОЩАЙТЕ 
+[10:37:55] бугагашенька: дарова
+[10:37:57] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[10:37:57] vasiliy karat suicided!
+[10:38:14] Mr_Pyro: Я
+[10:38:33] Mr_Pyro: бугага
+[10:38:36] Mr_Pyro: ты всё пропустил
+[10:38:41] бугагашенька: жаль
+[10:38:43] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[10:38:43] Redoket suicided!
+[10:38:44] Mr_Pyro: найс
+[10:38:48] Mr_Pyro: ужас
+[10:39:02] Mr_Pyro: что теперь делать
+[10:39:16] бугагашенька: хз
+[10:39:50] Mr_Pyro: мы проиграли
+[10:39:59] бугагашенька: жаль
+[10:39:59] Mr_Pyro: как я считаю из одного челика
+[10:40:05] Mr_Pyro: которого забанили уж
+[10:40:16] Mr_Pyro: он провацировал всех на войну
+[10:40:24] бугагашенька: пизда
+[10:40:25] Mr_Pyro: это бугага
+[10:40:28] бугагашенька: выжываем
+[10:40:28] Mr_Pyro: он не с нами
+[10:40:35] бугагашенька: че
+[10:40:35] Mr_Pyro: а?
+[10:41:02] Дмитрий Уткин killed Mr_Pyro using ent_jack_gmod_eznapalm
+[10:41:04] Дмитрий Уткин was killed by entityflame
+[10:41:07] бугагашенька killed Miribaly using tfa_doisw1917
+[10:41:22] Mr_Pyro: норм
+[10:41:28] Mr_Pyro: если бы не джеф
+[10:41:31] APOJOPE killed Miyagi using ent_jack_gmod_ezcriticalityweapon
+[10:41:32] APOJOPE killed Miribaly using ent_jack_gmod_ezcriticalityweapon
+[10:41:32] Mr_Pyro: по другому было ьбы
+[10:41:37] Mr_Pyro: да мы тож хотели
+[10:41:39] Mr_Pyro: но не успели
+[10:41:46] APOJOPE killed Miribaly using ent_jack_gmod_ezcriticalityweapon
+[10:41:48] APOJOPE killed Miyagi using ent_jack_gmod_ezcriticalityweapon
+[10:41:50] APOJOPE killed бугагашенька using ent_jack_gmod_ezcriticalityweapon
+[10:41:58] Toxa08: а:
+[10:42:01] Toxa08: чаво
+[10:42:09] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[10:42:09] Miyagi suicided!
+[10:42:16] Toxa08: не
+[10:42:18] Toxa08: продадим
+[10:42:27] Toxa08: ну спасибо
+[10:42:39] RusLanConnection killed RusLanConnection
+[10:42:50] Mr_Pyro: убей
+[10:43:00] бугагашенька suicided!
+[10:43:04] Mr_Pyro: ес
+[10:43:08] Mr_Pyro: тончо
+[10:43:24] APOJOPE killed бугагашенька using tfa_doithompsonm1a1
+[10:44:04] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[10:44:04] Chupacabr suicided!
+[10:44:06] Judge_1987: Был один такой
+[10:45:20] Judge_1987 was killed by ent_jack_gmod_ezfalloutparticle
+[10:45:24] бугагашенька: мдамс
+[10:45:37] бугагашенька:  че трумная больезнь?
+[10:45:44] Judge_1987: Возможно.
+[10:45:56] бугагашенька: я кое че возму окей?
+[10:46:00] Judge_1987: Ладно
+[10:47:00] APOJOPE killed APOJOPE
+[10:47:02] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[10:47:02] Mr_Pyro suicided!
+[10:47:14] бугагашенька: уран добыл?
+[10:47:21] Judge_1987: Чучуть
+[10:47:34] APOJOPE: supply radio: tungsten
+[10:47:34] Judge_1987: может, радиацией как раз заболел
+[10:48:18] бугагашенька: как раш што мне надо!
+[10:48:55] бугагашенька: а где
+[10:48:59] Judge_1987: кто?
+[10:49:04] бугагашенька: лады
+[10:49:59] бугагашенька: спасибо
+[10:50:11] бугагашенька: еще увидимся!
+[10:50:15] Judge_1987: пока!
+[10:51:01] Client "Miyagi" connected.
+[10:51:51] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 50 seconds).
+[10:55:18] APOJOPE killed XLEBYC using ent_jack_gmod_ezcriticalityweapon
+[10:56:22] Judge_1987: supply radio: fulton-crate
+[10:56:46] Client "Tra ta ta" connected.
+[10:56:47] XLEBYC killed Toxa08 using ent_jack_gmod_ezgroundscanner
+[10:57:08] Toxa08 killed XLEBYC using ent_jack_gmod_ezcrate_uni
+[10:57:33] Client "Tra ta ta" spawned in server <STEAM_0:0:27371200> (took 47 seconds).
+[10:57:46] Dropped "Tra ta ta" from server<STEAM_0:0:27371200>
+[10:57:46] Tra ta ta suicided!
+[10:57:53] XLEBYC killed XLEBYC
+[10:57:54] APOJOPE killed бугагашенька using tfa_doithompsonm1a1
+[10:58:07] Toxa08: брух
+[10:58:12] XLEBYC killed бугагашенька using ent_jack_gmod_ezsteel
+[10:58:27] Toxa08 killed бугагашенька using ent_jack_gmod_ezcrate
+[10:58:39] XLEBYC killed Toxa08 using ent_jack_gmod_ezcopper
+[10:58:50] Toxa08 killed бугагашенька using ent_jack_gmod_ezfabricator
+[10:58:54] Toxa08 killed XLEBYC using ent_jack_gmod_ezprimitivebench
+[10:59:18] Toxa08: нечего терять
+[10:59:21] Toxa08: от поражения
+[10:59:29] Toxa08: только откуда тут газы
+[10:59:32] XLEBYC killed бугагашенька using ent_jack_gmod_ezcopper
+[10:59:38] Toxa08: тем более
+[10:59:59] Client "Tra ta ta" connected.
+[11:00:25] Дмитрий Уткин killed Miyagi using tfa_doilewis
+[11:00:27] Client "Tra ta ta" spawned in server <STEAM_0:0:27371200> (took 28 seconds).
+[11:01:19] Judge_1987: [s[
+[11:02:01] Judge_1987: ну надо ж 
+[11:02:03] Judge_1987: чтобы строить
+[11:02:24] Judge_1987: испытывайте на мне
+[11:02:42] бугагашенька: гениально
+[11:02:46] Toxa08: хаха
+[11:03:02] Miyagi killed Дмитрий Уткин using tfa_doithompsonm1a1
+[11:03:23] Judge_1987: красиво
+[11:03:31] бугагашенька killed бугагашенька
+[11:03:39] XLEBYC killed XLEBYC
+[11:03:52] Judge_1987: ДА!
+[11:04:16] Judge_1987: Пока
+[11:04:28] APOJOPE killed Judge_1987 using ent_jack_gmod_ezcriticalityweapon
+[11:04:30] APOJOPE killed Miyagi using ent_jack_gmod_ezcriticalityweapon
+[11:04:44] APOJOPE killed Judge_1987 using ent_jack_gmod_ezcriticalityweapon
+[11:05:21] Judge_1987 killed Judge_1987
+[11:05:30] RusLanConnection unbanned steamid STEAM_0:0:629176659 (Джек подрочитель)
+[11:05:31] Judge_1987 was killed by build_prop
+[11:05:37] Дмитрий Уткин suicided!
+[11:05:42] Judge_1987 was killed by ent_fumo_gmod_cratepack
+[11:06:07] Judge_1987 suicided!
+[11:06:15] Miyagi was killed by ent_jack_gmod_eztoolbox
+[11:06:17] Дмитрий Уткин killed Judge_1987 using ent_jack_gmod_ezfirenade
+[11:06:31] Judge_1987 was killed by ent_jack_gmod_eztoolbox
+[11:06:34] Tra ta ta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:06:42] Judge_1987 killed Judge_1987
+[11:06:54] Judge_1987 was killed by build_prop
+[11:06:55] Judge_1987: supply radio: global message
+[11:07:06] Дмитрий Уткин killed Judge_1987 using ent_jack_gmod_eztimebomb
+[11:07:06] Дмитрий Уткин suicided!
+[11:07:19] Дмитрий Уткин killed Judge_1987 using ent_jack_gmod_ezgasnade
+[11:07:32] Judge_1987 was killed by build_prop
+[11:07:35] APOJOPE killed APOJOPE
+[11:07:39] Dropped "APOJOPE" from server<STEAM_0:1:557416607>
+[11:07:39] APOJOPE suicided!
+[11:07:43] Judge_1987 was killed by build_prop
+[11:08:09] Judge_1987 was killed by build_prop
+[11:08:17] Miyagi was killed by build_prop
+[11:08:18] RusLanConnection teleported to Judge_1987
+[11:08:22] Judge_1987: я возро
+[11:08:27] Judge_1987 was killed by build_prop
+[11:08:27] Дмитрий Уткин suicided!
+[11:08:44] Judge_1987 was killed by build_prop
+[11:08:51] бугагашенька: так
+[11:08:57] Judge_1987 suicided!
+[11:08:58] бугагашенька: че у когото есть план?
+[11:09:08] RusLanConnection teleported to Judge_1987
+[11:09:10] бугагашенька: у меня план зделать вертолет и свалить нахуй 
+[11:09:10] Judge_1987 was killed by ent_jack_gmod_ezarmor_llshoulder
+[11:09:10] Toxa08: технику сделать
+[11:09:13] Toxa08: ну или так
+[11:09:26] Дмитрий Уткин killed Judge_1987 using ent_jack_gmod_ezgasnade
+[11:09:33] бугагашенька: закажите машину, я сьезжу и куплю топлива
+[11:09:42] Дмитрий Уткин: supply radio: chemicals
+[11:09:46] Judge_1987 was killed by build_prop
+[11:09:48] Toxa08: денег нету
+[11:09:51] RusLanConnection killed RusLanConnection
+[11:09:56] Tra ta ta: ААААААААААААААА
+[11:09:57] бугагашенька: продай што-то блять
+[11:09:57] Дмитрий Уткин: supply radio: seed kit
+[11:10:27] Дмитрий Уткин: supply radio: seed kit
+[11:10:29] Judge_1987: я вам не костер
+[11:10:41] Judge_1987: а кто фосфорные бомбы кидает
+[11:10:46] бугагашенька: я пойти 
+[11:10:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[11:10:56] Judge_1987: рлохо
+[11:10:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[11:11:07] Tra ta ta: ЧТО ЭТОЗА МУЗЫКА
+[11:11:10] бугагашенька: ТАМ
+[11:11:12] Judge_1987: я стал полигоном испытаний оружия
+[11:11:13] Judge_1987: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:11:14] бугагашенька: БУДЕТ ТОПЛИВО УВЕРЕН
+[11:11:44] Дмитрий Уткин killed Miribaly using env_explosion
+[11:11:44] Tra ta ta: Я ЩАС АГЛОХНУ
+[11:11:53] бугагашенька: ОГО
+[11:12:44] Judge_1987: бляздец
+[11:12:53] бугагашенька: УЖЕ БЕГУ
+[11:12:56] Judge_1987: бляздец
+[11:13:10] Miribaly: АГА
+[11:14:07] бугагашенька: верт почти готов
+[11:14:39] бугагашенька: ой
+[11:15:11] Дмитрий Уткин suicided!
+[11:15:20] бугагашенька: пон
+[11:15:21] Дмитрий Уткин killed Miribaly using ent_jack_gmod_ezcriticalityweapon
+[11:15:38] Toxa08: бывает
+[11:15:47] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[11:15:47] Miyagi suicided!
+[11:15:53] Client "Miyagi" connected.
+[11:15:55] Дмитрий Уткин killed Дмитрий Уткин
+[11:16:35] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 42 seconds).
+[11:17:09] бугагашенька: а че п
+[11:17:17] бугагашенька: оно исщезает
+[11:17:19] бугагашенька: гений
+[11:17:23] Toxa08: а норм
+[11:17:24] бугагашенька: он пустой
+[11:17:26] Toxa08: а не
+[11:17:30] бугагашенька: долбик
+[11:17:33] Toxa08: чё
+[11:17:37] Client "Джек подрочитель" connected.
+[11:17:45] бугагашенька: я пойду ТУДА
+[11:17:47] Toxa08: давай
+[11:17:48] бугагашенька: и зделаю танк
+[11:17:51] бугагашенька: все есть атм вроде
+[11:18:12] Toxa08: dude
+[11:18:17] Toxa08: white man
+[11:18:18] Client "Джек подрочитель" spawned in server <STEAM_0:0:629176659> (took 41 seconds).
+[11:18:24] Toxa08: чё ты стоишь к нам заходи
+[11:18:27] Toxa08: )
+[11:18:34] бугагашенька: ХАХПХАПХАХПАПХАПХ
+[11:18:54] Дмитрий Уткин suicided!
+[11:18:54] Дмитрий Уткин killed Miribaly using ent_jack_gmod_ezsticknade
+[11:20:07] Miribaly killed Дмитрий Уткин using wep_jack_gmod_hands
+[11:20:09] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[11:20:09] Дмитрий Уткин suicided!
+[11:20:10] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[11:20:10] Miyagi suicided!
+[11:20:17] Tra ta ta: /me выполнил воинское приветствие
+[11:20:18] бугагашенька: ахуенно
+[11:21:01] Miribaly killed Miribaly
+[11:21:44] Dropped "Tra ta ta" from server<STEAM_0:0:27371200>
+[11:21:45] Tra ta ta suicided!
+[11:22:54] Judge_1987: Даров
+[11:23:04] Judge_1987: Ладно
+[11:23:06] Judge_1987: Спасибо.
+[11:23:54] Judge_1987: Как бахнуть?
+[11:24:03] Judge_1987: Чтобы что?
+[11:24:20] Judge_1987: Пока
+[11:24:26] Dropped "Miribaly" from server<STEAM_0:1:933612180>
+[11:24:26] Miribaly suicided!
+[11:27:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[11:27:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[11:29:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:29:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:29:30] Client "Redoket" connected.
+[11:29:59] бугагашенька: хай
+[11:30:04] Toxa08: хай
+[11:30:06] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 36 seconds).
+[11:30:07] бугагашенька: на
+[11:30:16] бугагашенька: там еще танк и машина
+[11:30:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:30:21] бугагашенька: танк готовій
+[11:30:22] Toxa08: нормально там воды
+[11:30:26] бугагашенька: ага
+[11:30:27] бугагашенька: там еще
+[11:30:37] Toxa08: это их
+[11:30:38] бугагашенька: бери че надо
+[11:30:39] Toxa08: ?
+[11:30:40] бугагашенька: не
+[11:30:41] бугагашенька: мое
+[11:30:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:30:46] бугагашенька: я поехал
+[11:31:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:31:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:32:03] бугагашенька killed Джек подрочитель using lvs_wheeldrive_dodwillyjeep
+[11:34:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:34:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:34:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezorganics
+[11:34:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:35:10] Client "76561198283083176" connected.
+[11:35:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:35:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:36:21] Client "mifag4" connected.
+[11:36:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:36:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_sleepingbag
+[11:36:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:36:46] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eznutrients
+[11:37:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:37:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmunitions
+[11:37:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:37:41] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[11:37:44] Client "mifag4" spawned in server <STEAM_0:1:934372859> (took 83 seconds).
+[11:37:56] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztnt
+[11:37:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:38:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:38:52] Toxa08: они не вызывают радиацию?
+[11:38:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:39:19] Client "cianosaur" connected.
+[11:39:33] Judge_1987: Там дальше
+[11:39:35] Judge_1987: база
+[11:41:03] Judge_1987: Лично моя цель — отгрохать вертолет.
+[11:41:21] mifag4: ок
+[11:42:19] бугагашенька: ТАК
+[11:42:21] бугагашенька: ОБЯВЛЕНИЕ
+[11:42:23] бугагашенька: ВАЖНОЕ
+[11:42:25] бугагашенька: ПЕРОВЕ
+[11:42:30] бугагашенька: КОГДА ТУТ ЗАКОНЧИТЕ
+[11:42:35] бугагашенька: НАЗНАЧТЕ 1 ЧЕЛОВЕК АСЮДА
+[11:42:41] бугагашенька: И РАЗВИВАЙТЕ ДРУГИЕ БАЗЫн
+[11:42:44] бугагашенька: НУ ВОСТАНАВЛИВАЙТЕ
+[11:42:44] Toxa08: окей
+[11:42:46] бугагашенька: ПОЖАЛУСТА
+[11:42:52] бугагашенька: ПЕРВЫМ ДЕЛОМ БАЗУ ВРАГА
+[11:42:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:43:41] mifag4 suicided!
+[11:43:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:43:56] Джек подрочитель: !motd
+[11:44:14] Judge_1987: блятб
+[11:44:43] Judge_1987: Ладно.
+[11:44:48] Judge_1987: Но мне бы грузовик вытащить
+[11:45:43] Judge_1987: купил на свою голову
+[11:47:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrubber
+[11:47:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:48:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcornkernals
+[11:48:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:48:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:50:15] Toxa08: как попасть на базу врага
+[11:50:20] Toxa08: точка не дееспособна
+[11:50:21] Toxa08: пишет
+[11:50:21] бугагашенька: всм
+[11:50:30] бугагашенька: тут
+[11:50:33] бугагашенька: е нажымаеш
+[11:50:37] бугагашенька: и на базу врага
+[11:50:42] Toxa08: Точка не дееспособна!
+[11:50:48] бугагашенька: че
+[11:50:50] бугагашенька: бля
+[11:50:53] бугагашенька: норм могу я
+[11:50:53] Toxa08: ну хз у меня не робит база врага
+[11:51:01] бугагашенька: а 
+[11:51:11] бугагашенька: не то
+[11:51:12] бугагашенька: тут не
+[11:51:14] (TEAM) бугагашенька: это
+[11:51:18] бугагашенька: в последюю очередь
+[11:51:26] mifag4 was killed by ent_jack_gmod_ezfalloutparticle
+[11:51:30] бугагашенька: а во тут 
+[11:51:36] бугагашенька: когда азу врага закончите
+[11:51:40] бугагашенька: но можеш и тут начать
+[11:51:47] бугагашенька: "БАЗА ВРАГА"
+[11:52:31] Judge_1987: КАКОЙ-ТО КРЕПКИЙ ФУНДАМЕННТ
+[11:52:37] Client "JuR" connected.
+[11:52:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:52:40] Toxa08: Я НЕ МОГУ БАГА ВРАГА ТАМ НЕ СТАЛИЦА А КРОВАТЬ
+[11:52:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:52:56] Toxa08: НУУ
+[11:53:07] Toxa08: МНЕ ПИШЕТ ЧТО ТОЧКА ДЕЕСПОСОБНА И ВСЕ
+[11:53:17] Toxa08:  Я ХЗ 
+[11:53:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:53:33] Toxa08: не
+[11:53:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:53:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:53:43] Toxa08: я то откуда знаю
+[11:53:45] Toxa08: вот ты
+[11:53:48] Toxa08: попробуй
+[11:53:59] бугагашенька: я норм
+[11:54:00] бугагашенька: бля
+[11:54:02] Toxa08: :D
+[11:54:04] бугагашенька: ладыыыы
+[11:54:09] бугагашенька: щас
+[11:54:14] бугагашенька: будэ
+[11:54:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:54:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:54:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:54:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:54:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:54:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:55:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:55:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:55:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:55:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:56:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:56:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:56:36] Judge_1987: Упёрт фундамент.
+[11:56:54] Judge_1987: есть идея
+[11:56:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:57:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:58:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:58:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:58:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:58:29] Client "Mithrain" connected.
+[11:58:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[11:58:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[11:58:59] бугагашенька: 7
+[11:59:02] Judge_1987: Здесь пусто, но желательно забрать все, что плохо лежит
+[12:01:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:01:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:02:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:02:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:02:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:02:41] mifag4: Я ЛЮБЛЮ ПЛЫВИСКИ
+[12:02:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:03:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:03:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:04:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:04:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:04:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:04:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:04:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:04:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwood
+[12:04:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:05:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcornkernals
+[12:05:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezacorn
+[12:05:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:06:39] Client "TIGR | Bebchikez" connected.
+[12:07:28] Toxa08: так
+[12:07:31] Toxa08: где то я это видел
+[12:07:37] Toxa08: с твоим трупом
+[12:07:40] бугагашенька: да
+[12:07:43] бугагашенька: будеш кататься?
+[12:07:46] Toxa08: конечно
+[12:07:49] бугагашенька: ДАВАЙ
+[12:07:52] бугагашенька: ща
+[12:09:13] Toxa08: не
+[12:10:28] Toxa08: ДО КОНЦА
+[12:11:02] Toxa08: супер
+[12:11:16] Client "tigrrr" connected.
+[12:15:42] Dropped "XLEBYC" from server<STEAM_0:1:615225475>
+[12:15:42] XLEBYC suicided!
+[12:16:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:16:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:16:45] Dropped "mifag4" from server<STEAM_0:1:934372859>
+[12:16:45] mifag4 suicided!
+[12:16:52] Judge_1987: Там все равно никого долго не было.
+[12:16:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:17:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:17:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:17:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:17:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:17:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:17:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:18:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:18:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:18:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:18:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:18:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:18:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:18:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:19:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:19:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:19:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[12:19:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:19:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:19:47] Client "Vacbanan" connected.
+[12:20:40] Client "Vacbanan" spawned in server <STEAM_0:1:690317987> (took 53 seconds).
+[12:21:05] Client "official Jackson advertiser" connected.
+[12:22:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:22:26] Judge_1987: Балашиха!
+[12:22:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:22:42] Judge_1987: Развлекайся, а я полетел.
+[12:22:52] Judge_1987: Искать счастье.
+[12:23:43] RusLanConnection cloaked Themself by amount 0
+[12:25:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:25:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:25:45] Client "tigrrr" spawned in server <STEAM_0:1:930162095> (took 869 seconds).
+[12:26:08] Toxa08: и что тебе
+[12:26:09] Toxa08: подать
+[12:26:17] Toxa08: прям все?
+[12:26:19] Toxa08: щя
+[12:26:47] Toxa08: )
+[12:26:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:26:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:26:56] Toxa08: оно много стоит
+[12:27:04] Toxa08: в карманы
+[12:27:13] Toxa08: jmod_ez_inv
+[12:27:16] Toxa08: grab
+[12:27:22] Toxa08: щя
+[12:27:46] бугагашенька: ВЫ КТО
+[12:27:49] Toxa08: патроны или оружие
+[12:27:51] бугагашенька: ВЕРТОЛЕТ
+[12:27:52] Judge_1987: Кимровские
+[12:27:55] Judge_1987: Наблюдаем.
+[12:28:00] Judge_1987: МИРОТВОРЦЫ, ВО
+[12:28:14] Toxa08: эу
+[12:28:18] (TEAM) Judge_1987: Ало
+[12:28:24] Dropped "tigrrr" from server<STEAM_0:1:930162095>
+[12:28:24] tigrrr suicided!
+[12:28:26] Toxa08: удачи
+[12:28:27] Toxa08: )
+[12:28:36] Toxa08: это мой
+[12:28:50] бугагашенька: а ты че меня охрабить хотел
+[12:29:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:29:03] бугагашенька: говорил выходи из машины
+[12:29:13] бугагашенька: ну и ладно
+[12:29:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:29:15] бугагашенька: прощаю
+[12:29:31] бугагашенька: пон
+[12:29:41] Judge_1987: Пагади
+[12:29:45] бугагашенька: СТОЙ
+[12:29:46] Judge_1987: Напиши в глобальное радио
+[12:29:50] Judge_1987: Что миротворцы летают
+[12:29:52] бугагашенька: СТОЙ
+[12:29:53] Judge_1987: Есть
+[12:29:54] Judge_1987: 347 к
+[12:30:11] Vacbanan: supply radio: global message
+[12:30:19] Vacbanan: supply radio: global message
+[12:30:28] Judge_1987: Тогда подожди.
+[12:30:35] Judge_1987: supply radio: global message
+[12:31:07] Redoket: stopsound
+[12:31:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:31:09] Redoket: !stopsound
+[12:31:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:31:25] Redoket: ой
+[12:31:27] Redoket: драсте
+[12:31:32] Redoket: !menu
+[12:31:36] Redoket cloaked Themself by amount 0
+[12:31:51] Judge_1987: Аы
+[12:31:54] Judge_1987: Не работает...
+[12:32:03] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[12:32:05] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[12:32:06] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[12:32:14] Judge_1987: Пасиба
+[12:32:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:32:36] Toxa08: ага
+[12:32:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:32:40] Toxa08: и снова все бросили
+[12:32:41] Judge_1987: В ВЕРТОЛЕТ
+[12:32:58] Judge_1987: Да-п.
+[12:33:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:34:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:35:44] Judge_1987: Хочешь проверить?
+[12:35:52] Judge_1987: Я посторожу
+[12:36:16] Toxa08: чего вам
+[12:36:28] Toxa08: заглушка
+[12:36:31] Toxa08: пустая еще
+[12:36:50] Judge_1987: Эво как
+[12:37:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:37:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:37:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwheatseed
+[12:37:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:37:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcornkernals
+[12:37:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcornkernals
+[12:37:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcornkernals
+[12:37:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcornkernals
+[12:37:50] Judge_1987: Эх
+[12:38:41] Judge_1987: ТАНК
+[12:39:29] Judge_1987: Ядерный реактор?
+[12:39:39] Judge_1987: Надо экспроприировать
+[12:39:55] Judge_1987: Увы
+[12:40:07] Judge_1987: Видимо
+[12:40:18] Judge_1987: Ыааа
+[12:40:19] Judge_1987: Потом
+[12:40:21] Judge_1987: Я боюсь за верт
+[12:41:32] бугагашенька: так
+[12:41:34] бугагашенька: зырь
+[12:41:41] бугагашенька: там база заброшеная
+[12:41:46] бугагашенька: 1 есть
+[12:41:47] бугагашенька: грузи
+[12:41:50] бугагашенька: сь
+[12:42:06] Judge_1987: Карта кажется маленькой...
+[12:42:30] Judge_1987: А веревки есть?
+[12:42:59] бугагашенька: АФК
+[12:43:33] Judge_1987: Пасиб
+[12:43:39] Judge_1987: Надо веревки или гвозди
+[12:45:13] бугагашенька: Я ТУТ ЕПТАэ
+[12:45:28] бугагашенька: давай
+[12:45:30] бугагашенька: продадим им
+[12:45:34] бугагашенька: то што мы украли
+[12:45:41] бугагашенька: ну блять
+[12:45:45] бугагашенька: мы тут 1 практически
+[12:45:49] бугагашенька: те
+[12:45:50] бугагашенька: откуда я
+[12:45:52] бугагашенька: и они
+[12:46:04] бугагашенька: ща
+[12:46:20] Judge_1987: ДАвай ты.
+[12:46:23] бугагашенька: СЛУШАЙ
+[12:46:27] Judge_1987: Без проблем.
+[12:46:32] бугагашенька: А МЫ МОЖЕМ МЕЛКИЕ ВЕЩИ ЕЩЕ ПИЗДИТЬ
+[12:46:34] бугагашенька: ГЕНЕРАТОРЫ
+[12:46:35] бугагашенька: ТАМ
+[12:46:38] бугагашенька: БЕНЗИНОВЫЕ
+[12:46:39] Judge_1987: Покушать возьми, если есть.
+[12:46:39] бугагашенька: И ТД
+[12:46:43] бугагашенька: ЩА
+[12:46:44] Judge_1987: ЭХ
+[12:46:48] бугагашенька: вот радио
+[12:46:48] Judge_1987: Или сделай.
+[12:47:12] бугагашенька: ты эго моожеш зделать
+[12:47:15] бугагашенька: ща
+[12:47:17] Judge_1987: А, воды нет
+[12:47:18] Judge_1987: Энивей
+[12:48:09] Judge_1987: supply radio: medium tank
+[12:48:39] Judge_1987: БЯЛЯЯЯ
+[12:48:51] Judge_1987: Наш военный резерв
+[12:48:52] Judge_1987: лять
+[12:49:11] бугагашенька: приедем
+[12:49:14] бугагашенька: скажу да или не
+[12:49:21] Judge_1987: Ладно
+[12:49:23] бугагашенька: транскорт тяжелый
+[12:49:24] Judge_1987: Можешь полечить меня?
+[12:49:26] бугагашенька: но учти
+[12:49:35] бугагашенька: гоу на вертолетах все пиздить??
+[12:49:44] бугагашенька: за 5 сек спиздили все
+[12:49:52] Judge_1987: Надо хоть его выключить.
+[12:49:55] Judge_1987: А то топливо расходуется
+[12:49:55] бугагашенька: да бля
+[12:49:59] бугагашенька: юинокль
+[12:50:02] Judge_1987: Спасиб
+[12:50:16] бугагашенька: пусто
+[12:50:19] бугагашенька: дай
+[12:50:20] Judge_1987: Это воровство
+[12:50:22] Judge_1987: Но не войнак
+[12:50:23] бугагашенька: я по людям
+[12:50:30] Judge_1987: УВЫ
+[12:50:38] Judge_1987: Если он объявит
+[12:50:44] Judge_1987: то за нами моральное превосходство
+[12:50:51] Vacbanan: ну да
+[12:51:14] бугагашенька: не стреляй
+[12:51:24] Toxa08 killed Judge_1987 using lvs_wheeldrive_dodhalftrack_us
+[12:51:24] Toxa08 killed Vacbanan using lvs_wheeldrive_dodhalftrack_us
+[12:51:28] бугагашенька: пизда
+[12:51:31] бугагашенька: стой
+[12:51:31] Judge_1987: УВЫ
+[12:51:32] бугагашенька: нахуй
+[12:51:33] Toxa08: ЗАДРАЛИ
+[12:51:35] Toxa08: ЧЕРТИ
+[12:51:38] Judge_1987: Танк пригодится
+[12:51:51] Judge_1987: Да
+[12:52:01] Toxa08: а вы тут чё
+[12:52:04] Toxa08: шкеритесь
+[12:52:06] Judge_1987: Ай
+[12:52:28] Toxa08: КТО
+[12:52:37] бугагашенька: садися
+[12:52:42] Toxa08: ОТКРОЮ ОГОНЬ
+[12:52:53] Judge_1987: Эх
+[12:52:57] Judge_1987: Танк полезен в бою
+[12:53:39] бугагашенька: зырь
+[12:53:42] бугагашенька: смотри
+[12:53:45] бугагашенька: береш тоор
+[12:54:00] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[12:54:00] Redoket suicided!
+[12:54:24] RusLanConnection teleported to Judge_1987
+[12:54:39] бугагашенька: двигаж
+[12:54:41] бугагашенька: груши
+[12:55:03] бугагашенька: медкит
+[12:55:15] бугагашенька: стой
+[12:55:48] бугагашенька: ну я готов
+[12:56:00] бугагашенька: выкини што-то
+[12:56:03] бугагашенька: возми пест
+[12:56:11] бугагашенька: и снова возми то што выкинул
+[12:56:13] бугагашенька: во
+[12:56:15] бугагашенька: дай
+[12:56:17] бугагашенька: дай я
+[12:56:25] бугагашенька: едем
+[12:56:26] бугагашенька: не
+[12:56:29] бугагашенька: он возродиться
+[12:56:33] бугагашенька: с броней и пушками
+[12:56:35] Judge_1987: Хм
+[12:56:35] бугагашенька: он верт
+[12:56:37] бугагашенька: збил
+[12:56:38] бугагашенька: гений
+[12:57:29] бугагашенька: слушай
+[12:57:33] бугагашенька: стой
+[12:57:41] бугагашенька: мы сможем взять ток 1 ящик
+[12:57:44] бугагашенька: я закрыл
+[12:58:08] бугагашенька: я закрыл
+[12:58:10] бугагашенька: аль е
+[12:58:14] бугагашенька: штоб открыть
+[12:58:32] RusLanConnection teleported to Джек подрочитель
+[12:58:33] RusLanConnection teleported to бугагашенька
+[12:58:34] RusLanConnection teleported to Vacbanan
+[12:58:35] RusLanConnection teleported to Toxa08
+[12:58:36] RusLanConnection teleported to Vacbanan
+[12:58:36] RusLanConnection teleported to Judge_1987
+[12:58:37] RusLanConnection teleported to Toxa08
+[12:58:38] RusLanConnection teleported to Judge_1987
+[12:58:39] бугагашенька: стой
+[12:59:07] Judge_1987: Не уверен
+[12:59:09] бугагашенька: у нас 1 ток
+[12:59:15] бугагашенька: а хотя
+[12:59:25] Judge_1987: А ты взял доптопливо?
+[12:59:28] бугагашенька: усе
+[12:59:30] бугагашенька: епта
+[12:59:33] бугагашенька: НАЛЕВО
+[12:59:37] Judge_1987: Сбегай-ка
+[13:00:10] бугагашенька: пусто
+[13:00:15] бугагашенька: ерем чет?
+[13:00:28] бугагашенька: ТССС
+[13:00:39] бугагашенька: ждем когда они уйдут
+[13:00:43] бугагашенька: если они там
+[13:01:25] Judge_1987: Отомстим за нашу авиацию.
+[13:01:30] бугагашенька: ТАК
+[13:01:44] бугагашенька: где
+[13:02:07] бугагашенька: тунгенстен ценный
+[13:02:26] бугагашенька: окжй
+[13:02:44] Judge_1987: Ыа
+[13:02:47] Judge_1987: Ась?
+[13:02:53] бугагашенька: ААА
+[13:02:54] Judge_1987: 50/50
+[13:04:26] Judge_1987: На тоже не объявили...
+[13:04:31] Vacbanan: обьяви
+[13:04:35] Toxa08: чё тыт
+[13:04:38] Toxa08: Э
+[13:04:50] бугагашенька: щас кино будет
+[13:04:51] бугагашенька: быстрее
+[13:04:56] Judge_1987: поихали
+[13:05:04] бугагашенька: ничего
+[13:05:05] бугагашенька: идем
+[13:05:21] Judge_1987: закинь топлива
+[13:05:42] бугагашенька: мы на грузвоике
+[13:05:46] бугагашенька: с 3 этажа ебанулися
+[13:05:51] бугагашенька: или с 4
+[13:05:55] бугагашенька: ИДЕАМ
+[13:05:58] бугагашенька: ЩАС КИНО БУДЕТ
+[13:06:06] бугагашенька: ТАМ ОНИ ВОЮЮТ
+[13:06:12] бугагашенька: мы будем СМОТРЕТЬ ЗА МЯСОМ
+[13:06:22] бугагашенька: БЫРЕЕ
+[13:07:08] бугагашенька: выкидывай
+[13:07:10] бугагашенька: не
+[13:07:11] бугагашенька: нахуй
+[13:07:14] бугагашенька: сюда прийдут
+[13:07:16] бугагашенька: пизда будет
+[13:07:28] Judge_1987: ТОПЛИВА
+[13:07:34] бугагашенька: эта хуета
+[13:07:36] RusLanConnection teleported to Toxa08
+[13:07:39] бугагашенька: хранит энергию
+[13:07:41] бугагашенька: во
+[13:07:48] бугагашенька: ИДЕМ
+[13:07:51] Judge_1987: ТОПЛИВА НЕТ
+[13:07:52] бугагашенька: не
+[13:08:51] бугагашенька: УХОДИ
+[13:08:53] бугагашенька: ОТХОДИ
+[13:09:04] бугагашенька: УЕБЕМ ИХ?
+[13:09:07] бугагашенька: ДЖЕК
+[13:09:10] бугагашенька: ЕБЕМ ИХ?
+[13:09:15] бугагашенька: САДИСЯ
+[13:09:19] бугагашенька: САДИ
+[13:09:20] Toxa08 killed Judge_1987 using tfa_doi_m16a1
+[13:09:38] Toxa08: ХАХХА
+[13:09:48] Джек подрочитель killed Vacbanan using tfa_doi_m16a1
+[13:09:53] Vacbanan: ньоооо
+[13:10:14] бугагашенька: НАДО
+[13:10:47] Toxa08: яж помню
+[13:10:50] бугагашенька: СЭР
+[13:10:52] Toxa08: ТАК ДВЕРИ ЗАЧЕМ
+[13:10:54] Toxa08: СНЕСЛИ
+[13:10:55] бугагашенька: ИЗВИНИТЕ
+[13:10:56] бугагашенька: И
+[13:11:03] бугагашенька: НЕХОТИЕТ 5к ТОПЛИВА?
+[13:11:08] бугагашенька: ПО НИЗКОЙ ЦЕНЕ
+[13:11:09] Toxa08: да зачем
+[13:11:12] бугагашенька: МНОГО ЧГЕО
+[13:11:15] бугагашенька: НУ ДЯЛ ВАС
+[13:11:20] бугагашенька: ДАЖЕ ВЕЩИ
+[13:11:25] бугагашенька: ТАНК БЛЯТЬ ДАЖЕ
+[13:11:27] Toxa08: ну блин
+[13:11:30] бугагашенька: ДА
+[13:11:33] бугагашенька: МЫ НАЕМНИКИ
+[13:11:36] бугагашенька: ЕЩЕ ЗАДАНИЯ
+[13:11:40] бугагашенька: ЧЕТ ВЗОРВАТЬ МОЖЕМ 
+[13:11:43] бугагашенька: НАЕБНИКИ
+[13:11:43] Toxa08: а наебники?
+[13:11:46] бугагашенька: ДА
+[13:11:49] бугагашенька: МОЖЕМ ЧЕТ ЗДЕЛАТь
+[13:11:51] бугагашенька: ВЗОРВАТЬ ТАМ
+[13:11:53] бугагашенька: ПОМОЧ
+[13:11:53] Toxa08: тогда можете одних поднаебать за сумму
+[13:11:54] бугагашенька: ДА
+[13:11:57] бугагашенька: И ТД
+[13:12:00] Toxa08: 20к
+[13:12:01] бугагашенька: да-
+[13:12:05] бугагашенька: 20к..
+[13:12:09] бугагашенька: хмммм
+[13:12:10] бугагашенька: ну
+[13:12:17] бугагашенька: разебашить базу
+[13:12:20] бугагашенька: 2 с4
+[13:12:23] бугагашенька: или же 3
+[13:12:36] RusLanConnection teleported to Judge_1987
+[13:12:53] бугагашенька: давайте 20к
+[13:12:56] бугагашенька: и мы
+[13:12:59] Toxa08: а так сказать где они
+[13:13:03] бугагашенька: можем
+[13:13:05] бугагашенька: бесплатно
+[13:13:12] бугагашенька: они там в утесе
+[13:13:14] Toxa08: да
+[13:13:18] бугагашенька: окей
+[13:13:20] бугагашенька: 4 с4
+[13:13:22] бугагашенька: на ихней базе
+[13:13:27] бугагашенька: + просто все сломать
+[13:14:13] бугагашенька: ахуенно
+[13:14:16] бугагашенька: идем
+[13:14:18] бугагашенька: у нас 30к
+[13:14:32] бугагашенька: я вобще
+[13:14:38] бугагашенька: ХОТЕЛ БЫ ЗДЕЛАТЬ ФРАКЦИЮ
+[13:14:41] бугагашенька: "АВАНПОСТ
+[13:14:45] бугагашенька: И ТИПО ЭГО ПРОДАВТАЬ
+[13:14:46] бугагашенька: НО
+[13:14:47] бугагашенька: ТЫ
+[13:14:50] бугагашенька: дал мне идею
+[13:15:08] Toxa08: хмм
+[13:15:14] бугагашенька: ЩА БУДЕТ
+[13:16:08] бугагашенька: вау
+[13:16:09] бугагашенька: кул
+[13:16:12] Toxa08: ИДЕЯ
+[13:16:15] Toxa08: а
+[13:16:19] Toxa08: хмм
+[13:16:28] бугагашенька: ТЫК
+[13:16:38] бугагашенька: ГОТОВ
+[13:16:42] бугагашенька: ты чет делать удет?
+[13:16:43] бугагашенька: ну
+[13:16:45] бугагашенька: коцает
+[13:16:48] бугагашенька: 4 с4
+[13:16:55] бугагашенька: оборонять меня
+[13:17:04] бугагашенька: тут
+[13:17:08] бугагашенька: зырь
+[13:17:15] бугагашенька: тут
+[13:17:36] бугагашенька: норм?
+[13:17:38] бугагашенька: протести
+[13:17:44] бугагашенька: ну давай
+[13:17:46] Dropped "Judge_1987" from server<STEAM_0:1:85965829>
+[13:17:46] Judge_1987 suicided!
+[13:17:54] бугагашенька: на
+[13:18:08] бугагашенька: ТАК
+[13:18:11] Vacbanan: supply radio: global message
+[13:18:12] бугагашенька: ДА
+[13:18:22] бугагашенька: СТАЛЬ
+[13:19:16] бугагашенька: садися
+[13:19:33] Джек подрочитель: слава анархии!
+[13:19:55] бугагашенька: так
+[13:19:58] бугагашенька: план таков
+[13:20:00] бугагашенька: мы
+[13:20:04] бугагашенька: залезаем наверх
+[13:20:08] бугагашенька: и там отдуда
+[13:20:12] бугагашенька: кидаем с4
+[13:20:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[13:20:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[13:20:15] бугагашенька: и они там делают
+[13:20:18] бугагашенька: буууум
+[13:20:21] бугагашенька: идем
+[13:21:23] Джек подрочитель killed Vacbanan using tfa_doiwelrod
+[13:21:32] Джек подрочитель killed Vacbanan using tfa_doiwelrod
+[13:21:33] Vacbanan: хицуфывссолы
+[13:22:32] бугагашенька: ИДЕМ
+[13:22:36] бугагашенька: БЫРЕЕ
+[13:22:58] бугагашенька: да
+[13:23:00] бугагашенька: ща
+[13:23:04] бугагашенька: ты за руль
+[13:23:08] бугагашенька: 4 сек
+[13:23:14] бугагашенька: АФК
+[13:23:22] бугагашенька: едь
+[13:23:52] бугагашенька: О
+[13:23:54] бугагашенька: ЩАС
+[13:24:05] Toxa08: ээ
+[13:25:59] бугагашенька: ща
+[13:26:10] бугагашенька: идем
+[13:26:17] бугагашенька: пиздить МАСОВО
+[13:26:24] бугагашенька: м?
+[13:26:36] бугагашенька: они распалися вроде
+[13:26:48] бугагашенька: а
+[13:26:52] бугагашенька: ну бля
+[13:26:56] бугагашенька: нуууу
+[13:27:19] Toxa08 to admins: Руслан вопрос
+[13:27:41] Toxa08 to admins: как запускать ядерки если хп у фракции не отнимается за войну?
+[13:28:01] Vacbanan: ЗА ЧТО ПРИДУРШЫЙ ЕБЛАН
+[13:28:07] Vacbanan: пиздец просто
+[13:28:21] Vacbanan: ЧТО Я ВАМ СДЕЛАЛ
+[13:28:26] бугагашенька: А ТЫ
+[13:28:28] Vacbanan: У МЕНЯ ДАЖЕ ЛРУЖИЯ НЕТУ
+[13:28:35] Vacbanan: она расформирована
+[13:28:35] бугагашенька: ТАНК ЕСТЬ
+[13:28:39] Vacbanan: вы сделали терракт
+[13:28:43] Vacbanan: против тех кого нету
+[13:28:48] Vacbanan: нет
+[13:28:51] Vacbanan: убивай
+[13:28:56] Vacbanan: нет
+[13:29:32] бугагашенька: ид
+[13:29:38] бугагашенька: чел растроился
+[13:29:51] бугагашенька: мля
+[13:29:54] бугагашенька: чел
+[13:29:56] бугагашенька: знаеш
+[13:30:04] бугагашенька: вот это все рушить  игру людям не очень
+[13:30:09] бугагашенька: давай как-то полегче
+[13:30:12] бугагашенька: ну давай
+[13:30:14] бугагашенька: класика
+[13:30:36] бугагашенька: ОТКРЫВАЙ
+[13:30:39] Toxa08: иду
+[13:30:43] бугагашенька: он не ту
+[13:30:47] бугагашенька: а
+[13:30:48] Toxa08: я тоже
+[13:30:49] бугагашенька: да
+[13:30:59] Toxa08: да
+[13:31:11] бугагашенька: че делать хочеш?
+[13:31:19] Toxa08: запускать
+[13:31:25] бугагашенька: к ним?
+[13:31:27] Toxa08: не ядерку
+[13:31:33] Toxa08: лучше
+[13:31:38] бугагашенька: ааа
+[13:31:41] бугагашенька: разомбить
+[13:31:43] бугагашенька: поняд
+[13:31:45] бугагашенька: слушай
+[13:31:50] Toxa08: ммм
+[13:31:51] Toxa08: ?
+[13:31:51] бугагашенька: мы хотим кое че там спиздить
+[13:32:03] Toxa08: а ну так спиздите и напишите
+[13:32:06] Toxa08: я вылечу добить
+[13:32:07] Toxa08: базу
+[13:32:28] бугагашенька: спать?
+[13:32:39] бугагашенька killed Джек подрочитель using tfa_doiwelrod
+[13:32:43] Dropped "Джек подрочитель" from server<STEAM_0:0:629176659>
+[13:32:43] Джек подрочитель suicided!
+[13:32:47] Toxa08: урон забафали?
+[13:32:52] бугагашенька: раздвоение ресов
+[13:32:54] бугагашенька: ахуй
+[13:33:00] Toxa08: магия
+[13:33:03] бугагашенька: ахуй
+[13:33:08] Toxa08: так что теперь тебе не надо там ресы?
+[13:33:14] бугагашенька: ну да
+[13:33:16] бугагашенька: я думаю тоже
+[13:33:18] бугагашенька: ливать
+[13:33:23] бугагашенька: кароче
+[13:33:25] Toxa08: а ну я бомбить
+[13:33:25] бугагашенька: удачси
+[13:33:26] Toxa08: давай
+[13:33:27] бугагашенька: и бб
+[13:33:28] Dropped "Vacbanan" from server<STEAM_0:1:690317987>
+[13:33:28] Vacbanan suicided!
+[13:33:29] Toxa08: тоже удачи
+[13:34:44] бугагашенька: ну че
+[13:34:45] бугагашенька: как
+[13:34:48] Toxa08: мимо
+[13:34:49] Toxa08: )
+[13:34:52] бугагашенька: стой
+[13:34:56] бугагашенька: хочеш прикол?
+[13:34:58] Toxa08: ну
+[13:34:59] бугагашенька: разрывной
+[13:35:04] Toxa08: давай
+[13:35:10] бугагашенька: АЛААХБАР
+[13:35:11] бугагашенька suicided!
+[13:35:16] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[13:35:16] бугагашенька suicided!
+[13:35:26] Toxa08: мда
+[13:35:31] Toxa08: а тоестьн
+[13:35:32] Toxa08: хахаха
+[13:37:13] Toxa08: 2
+[13:37:14] Toxa08: 1
+[13:37:19] Dropped "Toxa08" from server<STEAM_0:0:33704276>
+[13:37:19] Toxa08 suicided!
+[13:58:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[13:58:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[14:08:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/weapons/w_garandsniper.mdl
+[14:08:49] RusLanConnection<STEAM_0:0:238810681> spawned model models/weapons/w_garandsniper.mdl
+[14:10:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/weapons/w_garandsniper.mdl
+[14:11:40] RusLanConnection<STEAM_0:0:238810681> spawned model models/weapons/w_garandsniper.mdl
+[15:44:06] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[15:44:06] RusLanConnection suicided!
+
+
+
+[15:45:53] New map: gm_sro
+[20:04:24] Client "Culfrum" connected.
+[20:05:24] Client "Culfrum" spawned in server <STEAM_0:0:555258766> (took 60 seconds).
+[20:07:15] Dropped "Culfrum" from server<STEAM_0:0:555258766>
+[20:07:15] Culfrum suicided!
+[22:07:16] Client "Джек подрочитель" connected.
+[22:08:03] Client "Джек подрочитель" spawned in server <STEAM_0:0:629176659> (took 47 seconds).
+[22:15:04] Client "Culfrum" connected.
+[22:15:43] Client "Culfrum" spawned in server <STEAM_0:0:555258766> (took 39 seconds).
+[22:17:19] Culfrum: АЙО ВАСАП
+[22:17:33] Culfrum: ВСЕ
+[22:18:13] Culfrum: ЕГО МОЖНО ДРУГОЙ СКРАФТИТЬ
+[22:18:15] Culfrum: БОЛЕЕ КРУТОЙ
+[22:19:25] Culfrum: СЕМЕНА
+[22:19:27] Culfrum: ВОДА НАД
+[22:20:02] Culfrum: ЛАН
+[22:21:56] Culfrum: ОТОЙДИ
+[22:22:40] Culfrum: ВЕРСТАК
+[22:22:41] Culfrum: КРУТОЙ
+[22:22:44] Culfrum: НАД ГАЗ
+[22:22:52] Culfrum: ЩА ВОДУ НАЙДУ
+[22:24:01] Culfrum: ВСЕ
+[22:25:21] Culfrum: ЩА ТЕБЕ РЮКЗАК ДАМ
+[22:25:47] Culfrum: И КОРОБКУ
+[22:26:34] Culfrum: А
+[22:26:36] Culfrum: ЭТО СВИСТОК
+[22:26:50] Client "Призрак" connected.
+[22:27:02] Culfrum: НЕФТЬ
+[22:28:45] Culfrum: НУЖНО ПОСТАВИТЬ БУР НА СТАЛЬ
+[22:28:47] Culfrum: А НЕ
+[22:28:51] Culfrum: МЫ ЩА ЗАКУПИМСЯ
+[22:30:00] Culfrum: А
+[22:30:31] Culfrum: ЩА ТАКОЕ ПОНАКУПИМ
+[22:32:35] Culfrum: ПЕРЕРАБОТКА
+[22:32:36] Culfrum: НЕФТИ
+[22:32:51] Culfrum: ЕСЛИ ЧТО ВНУТРИ ПОЯВЛЯЕТСЯ
+[22:32:53] Culfrum: ПРОДУКТЫ
+[22:32:56] Culfrum: БЕНЗ 
+[22:33:34] Culfrum: ЗАКАЖИ ФУЛТОН КРЕЙТ
+[22:33:37] Culfrum: В ЖСУРВИВАО
+[22:33:39] Culfrum: А
+[22:33:41] Culfrum: МОЛОДЕЦ
+[22:34:16] Culfrum: НУЖНО ПОИСКАТЬ ЗОЛОТО И СЕРЕБРО
+[22:34:20] Culfrum: ЩАС
+[22:34:30] Culfrum: СКРАФТЬ ПАТРОНЫ
+[22:34:31] Culfrum: А
+[22:34:32] Culfrum: НУ ЛАН
+[22:34:38] Dropped "Culfrum" from server<STEAM_0:0:555258766>
+[22:34:38] Culfrum suicided!
+[22:35:18] Client "Culfrum" connected.
+[22:36:07] Client "Culfrum" spawned in server <STEAM_0:0:555258766> (took 49 seconds).
+[22:36:57] Culfrum: ПРИКИНЬ
+[22:36:59] Culfrum: ВЫЛЕТЕЛО
+[22:37:01] Culfrum: БЕЗ ПРИЧИНЫ
+[22:37:15] Culfrum: О
+[22:37:19] Culfrum: ЩА ДОБУДЕМ
+[22:38:01] Culfrum: ЩА
+[22:38:11] Culfrum: НАД ФИЗГАН
+[22:38:12] Culfrum: СДЕЛАТЬ
+[22:38:36] Culfrum: ЩА УВИДИШЬ
+[22:40:40] Culfrum: ТЕПЕРЬ НАДО АВТОМАТИЗАЦИЮ СДЕЛАТЬ
+[22:41:04] Culfrum: НАД СОЛНЕЧНЫЕ БАТАРЕИ СДЕЛАТЬ
+[22:41:08] Culfrum: А ПОТОМ БЕНЗ ГЕНЕРАТОРЫ
+[22:42:27] Culfrum: НЕ ЗНАЮ
+[22:42:58] Culfrum: А
+[22:43:01] Culfrum: ЩА
+[22:45:24] Culfrum: НЕ НАЖИМАЙ
+[22:45:29] Culfrum: ПРОВОДА ПОДКЛЮЧИТЬ САМО БУДЕТ
+[22:45:52] Culfrum: ДА
+[22:48:25] Client "Miribaly" connected.
+[22:48:49] Client "Miribaly" spawned in server <STEAM_0:1:933612180> (took 24 seconds).
+[22:54:34] Culfrum: ЩА ДОМ ПОСТРОИМ
+[22:55:53] Джек подрочитель: бля
+[22:55:55] Culfrum: А
+[22:56:00] Джек подрочитель: я сннег пойду чистить
+[22:56:06] Джек подрочитель: афк пока что
+[22:56:08] Culfrum: ОТДАЙ ЛИДЕРСТВО
+[22:56:11] Culfrum: ЧТО БЫ НЕ БЫЛО ГОВНА
+[22:56:19] Джек подрочитель: сек
+[22:56:27] Culfrum: MOLODEC
+[23:03:40] Client "ghostbin" connected.
+[23:10:12] Miribaly: T*inv*
+[23:10:46] Miribaly: ГДЕ МАШИНА
+[23:11:16] Culfrum: ФУНДАМЕНТ
+[23:11:31] Culfrum: МОЖНО
+[23:11:36] Culfrum: ЩА УЛУЧШУ
+[23:11:54] Culfrum: МАШИНКА
+[23:11:55] Culfrum: КСТ
+[23:11:58] Culfrum: ЛАН
+[23:12:09] Culfrum: ОК
+[23:12:13] Culfrum: А СЗАДИ
+[23:12:15] Culfrum: ЕЩЕ КРУТОЙ
+[23:12:18] Culfrum: ВЕРСТАК
+[23:12:43] Culfrum: ДАВАЙ
+[23:14:00] Culfrum: А
+[23:14:17] Miribaly: КУДА РЕСЫ ПРОПАДАЮТ
+[23:14:26] Miribaly: КТО ЗДЕСЬ
+[23:14:27] Culfrum: ЭТО КОРОБКА
+[23:14:53] Culfrum: МОЖЕШЬ ПОКА ЧТО ПОКАТАТСЯ ПОИСКАТЬ
+[23:14:55] Culfrum: МУЖИЧКА
+[23:15:01] Culfrum: ЩА
+[23:15:20] Culfrum: ЗОЛОТО ДЕШЕВОЕ ПОКА ЧТО
+[23:15:22] Culfrum: ???
+[23:15:25] Culfrum: А ЩА
+[23:16:36] Culfrum: ТАМ НАДО ПРЕСИЖН
+[23:16:41] Culfrum: И Х НЕМА
+[23:16:51] Culfrum: МЫ ИХ НЕ МОЖЕМ СКРАФТИТЬ
+[23:17:01] Culfrum: ВЕРНЕЕ
+[23:17:03] Culfrum: РЕСОВ НЕМА
+[23:17:42] Client "dsdfdfg" connected.
+[23:17:48] Miribaly: УРОООООО
+[23:17:54] Culfrum: ПРИНЕСИ МЕТАЛ
+[23:19:35] Culfrum: ОК
+[23:19:43] Culfrum: ЩА САМ ПОДАБЫВАЮ
+[23:19:46] Culfrum: ЧТО БЫ БЫСТРЕЕ БЫЛО
+[23:19:53] Culfrum: ТАК НУЖНА КЕРАМИКА
+[23:19:56] Culfrum: ВОТ ЕЕ ДОБЫТЬ
+[23:21:20] Culfrum: Я СДЕЛАЛ
+[23:21:29] Culfrum: ОК
+[23:21:44] Culfrum: Я ЕЩЕ НЕ У РАДИО
+[23:21:47] Culfrum: Я ПРИЙДУ СКАЖУ
+[23:22:02] Culfrum: ПРИВЕМ
+[23:22:10] Culfrum: И Я СЛЫШУ
+[23:25:51] Culfrum: ХОРОШО
+[23:27:12] Culfrum: У МЕНЯ ТЕПЕРЬ ОЧКИ
+[23:27:14] Culfrum: КРУТЫЕ
+[23:27:26] Culfrum: ОК
+[23:28:33] Culfrum: СКАЖИ КООРДИНАТЫ
+[23:28:41] Culfrum: БИНОКЛЬ
+[23:29:07] Culfrum: 133 109
+[23:29:37] Culfrum: Я ТУРЕЛИ ПОСТАВЛЮ
+[23:30:25] Client "Шайтан" connected.
+[23:31:12] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 47 seconds).
+[23:31:52] Culfrum: Я ПРОДАЛ
+[23:32:34] Шайтан was killed by ent_jack_gmod_ezsentry
+[23:32:37] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[23:32:37] Шайтан suicided!
+[23:32:44] Culfrum: ИСПУГАЛСЯ
+[23:32:54] Client "Шайтан" connected.
+[23:33:03] Culfrum: ОТКЛЮЧИ
+[23:33:23] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 29 seconds).
+[23:33:40] Culfrum: ХОРОШО
+[23:34:03] Culfrum: ПОКА ЧТО ПРОСТО ДЕЛАЙ ЧТО ХОЧЕШЬ
+[23:34:18] Шайтан: блять
+[23:34:19] Culfrum: ПРИВЕТ
+[23:34:22] Шайтан: у меня вылетело
+[23:34:24] Culfrum: ВСТУПАЙ К НАМ
+[23:34:30] Шайтан: я отправил
+[23:34:40] Шайтан: а че вылетело
+[23:34:51] Шайтан: а окей
+[23:34:51] Culfrum: ОН ИГРАЛ
+[23:34:52] Culfrum: РАНЬШЕ
+[23:34:53] Шайтан: го
+[23:34:55] Culfrum: ПРОСТ ДОЛГИЙ
+[23:35:01] Culfrum: ТУРЕЛИ
+[23:35:03] Culfrum: ВИРУБИТЬ
+[23:35:08] Шайтан: ну ка включи
+[23:35:12] Шайтан: может опять вылетет
+[23:35:17] Шайтан: я проверю
+[23:35:22] Шайтан: и исправлюц
+[23:35:36] Шайтан: ГО
+[23:35:44] Шайтан: ага
+[23:35:56] Culfrum: ЕСЛИ ЧТО ЛУЧШЕ КОГДА В МАШИНУ САДИШЬСЯ ТЕЛЕФОН БРАТЬ ЧТО БЫ ГОВОРИТЬ 
+[23:35:58] Culfrum: МОГ
+[23:35:58] Шайтан: ты его
+[23:36:00] Culfrum: ПОКА ЕДЕШЬ
+[23:36:04] Шайтан: сего
+[23:36:14] Шайтан: пон
+[23:37:02] Шайтан: ага
+[23:37:19] Шайтан: давайедь уже
+[23:37:21] Шайтан: бб
+[23:37:28] Шайтан: !motd
+[23:37:39] Шайтан: of pf,by;e
+[23:37:41] Шайтан: ща 
+[23:37:44] Шайтан: забинжу
+[23:37:57] Culfrum: А
+[23:38:00] Culfrum: ЩА ПРИЙДУ ПОЧИНЮ
+[23:38:24] Шайтан: стйо
+[23:38:29] Шайтан: можено знаешь что
+[23:38:33] Шайтан: найти урна
+[23:38:36] Шайтан: уран
+[23:38:37] Шайтан: *
+[23:38:48] Шайтан: харошо
+[23:38:51] Culfrum: Я КАК ОРУЖИЕ ИНОГДА ИСПОЛЬЗУЮ
+[23:39:00] Шайтан: а че у тебя нету еще 2 верстака
+[23:40:10] Culfrum: СВЯТОЕ МЕСТО ДЖЕКА ПОДРОЧИТЕЛЯ
+[23:40:38] Culfrum: СКАМЕЙКИ
+[23:40:40] Culfrum: СДЕЛАЕ
+[23:40:46] Culfrum: М
+[23:41:08] Culfrum: ТАМ ЭТО
+[23:41:12] Culfrum: НАДО ЛИБО СТУЛЬЯ
+[23:41:17] Culfrum: ЛИБО ЧЕ ТО ЕЩЕ
+[23:41:20] Culfrum: ПРИДУМАЮ КРЧ
+[23:41:24] Culfrum: Я ЩА ПИПИ ОТОЙДУ
+[23:41:26] Шайтан: метлла нету
+[23:42:29] Шайтан: я за поисками урана
+[23:43:13] Culfrum: Я ВЕРНУЛСЯ
+[23:43:31] Culfrum: АЛЬТ Е
+[23:43:54] Culfrum: Я ТОЖЕ МОГУ
+[23:43:56] Culfrum: ВСЕ КТО В КЛАНЕ 
+[23:43:57] Culfrum: МОЖЕТ
+[23:45:28] Culfrum: ЭТО ВСЕМ ВИДНО КСТ
+[23:45:46] Culfrum: МОЖНО ПОТОМ ПРОВЕСТИ ТИПО СБОР ДАНИ
+[23:45:52] Culfrum: СВЯТОМУ ДЖЕКУ ПОДРОЧИТЕЛЮ
+[23:46:09] Culfrum: МОЖЕШЬ СЕБЕ В УЩЕЛЬЕ ОТСТРОИТСЯ
+[23:46:14] Culfrum: Я ТЕБЯ СПОНСИРОВАТЬ БУДУ
+[23:46:17] Culfrum: А
+[23:46:19] Culfrum: ЛАН
+[23:46:26] Джек подрочитель: !motd
+[23:46:47] Culfrum: Я ЩА
+[23:48:17] Шайтан: все мы переезжаем там есть уран
+[23:48:30] Шайтан: все мы переезжаем там есть уран
+[23:48:40] Шайтан: ща все пригвоздю
+[23:49:17] Шайтан: неси все остальное
+[23:49:28] Шайтан: окей
+[23:50:01] Шайтан: металла нету просто
+[23:50:08] Шайтан: О ЕБАТЬ
+[23:51:10] Шайтан: это знак
+[23:51:14] Culfrum: ЩА Я СДЕЛАЮ КОРОБКУ ДЛЯ СТОЛИЦЫ
+[23:51:20] Шайтан: надо делать фабрикатор
+[23:52:13] Шайтан: у тул бокса есть гвозди
+[23:54:05] Culfrum: МЫ МИЛЛИОНЕРЫ
+[23:55:10] (TEAM) Шайтан: !motd
+[23:55:18] Culfrum: КСТАТИ ЕСЛИ НАДО БУДЕТ ПОСМОТРЕТЬ ИЗДАЛЕКА ЧЕЛОВЕК ИДЕТ ИЛИ НЕТ ТО О�
+[23:55:21] Culfrum: ВОТ
+[23:55:32] Culfrum: И БИНОКЛЮ
+[23:55:36] Culfrum: В ИНВЕНТАРЕ
+[23:56:20] Шайтан: че ты где?
+[23:56:39] Шайтан: там есть в тул
+[23:56:45] Шайтан: тулз
+[23:56:52] Шайтан: nail
+[23:57:27] Шайтан: попробуй
+[23:57:28] Culfrum: а
+[23:57:36] Culfrum: ВОТ ТУ
+[23:57:37] Culfrum: Т
+[23:57:44] Шайтан: бежду ими нду
+[23:57:44] Culfrum: МНОГО СРАЗУ ДЕЛАЕТ
+[23:58:01] Шайтан: крч
+[23:58:01] Culfrum: ИХ МОЖНО И В ОБЫЧНЫХ СДЕЛАТЬ
+[23:58:03] Шайтан: пошли уже
+[23:58:21] Шайтан: нам они не понадобятся
+[23:59:17] Шайтан: надо зделать хазматы
+<Logging continued in "data/ulx_logs/04-13-25.txt">

@@ -1,0 +1,3520 @@
+<Logging continued from "data/ulx_logs/03-03-25.txt">
+[00:13:56] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[00:13:56] Redoket suicided!
+[00:49:42] Client "Filenoname" connected.
+[00:52:12] Client "Filenoname" spawned in server <STEAM_0:0:679233884> (took 150 seconds).
+[00:59:58] (TEAM) Filenoname: y
+[01:14:38] Dropped "Filenoname" from server<STEAM_0:0:679233884>
+[01:14:38] Filenoname suicided!
+[01:30:42] Client "бугагашенька" connected.
+[01:31:26] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 44 seconds).
+[01:53:38] Client "klinskoe za 200" connected.
+[01:58:09] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 271 seconds).
+[02:05:59] Client "|/_kerr1_\| 7\" connected.
+[02:13:43] Client "DeNoZaVR⁴²" connected.
+[02:15:02] Client "DeNoZaVR⁴²" spawned in server <STEAM_0:1:600266006> (took 79 seconds).
+[02:27:21] Client "Mr. Goose V0RCH00N" connected.
+[02:29:14] Client "Mr. Goose V0RCH00N" spawned in server <STEAM_0:1:150007799> (took 113 seconds).
+[02:38:42] Mr. Goose V0RCH00N: я через 30 минут пойду
+[02:38:45] Mr. Goose V0RCH00N: так что чиназес
+[02:38:55] DeNoZaVR⁴²: в тиму прими
+[02:39:27] DeNoZaVR⁴²: в тиму добавь плиз
+[02:40:43] DeNoZaVR⁴²: что?
+[02:40:53] DeNoZaVR⁴²: а ты гс слышиш?
+[02:40:59] бугагашенька: воду добычу с нефтью перероботкой зделайте
+[02:41:02] бугагашенька: да слышу щас
+[02:41:05] DeNoZaVR⁴²: ок
+[02:48:37] DeNoZaVR⁴²: а и вот так можн
+[02:53:45] Client "🎮ArtemcheloΔ" connected.
+[02:54:33] Client "Kasis" connected.
+[02:56:29] Dropped "Mr. Goose V0RCH00N" from server<STEAM_0:1:150007799>
+[02:56:29] Mr. Goose V0RCH00N suicided!
+[02:56:49] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[02:56:49] бугагашенька suicided!
+[02:57:05] Dropped "DeNoZaVR⁴²" from server<STEAM_0:1:600266006>
+[02:57:05] DeNoZaVR⁴² suicided!
+[03:01:56] Client "Soldier_S.C.A.F" connected.
+[03:05:37] Client "🎮ArtemcheloΔ" spawned in server <STEAM_0:1:624922125> (took 712 seconds).
+[03:06:01] Client "Redoket" connected.
+[03:06:37] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 36 seconds).
+[03:08:01] klinskoe za 200: bind i jmod_ez_inv 
+[03:09:49] Client "Kasis" spawned in server <STEAM_0:1:810197275> (took 916 seconds).
+[03:10:00] 🎮ArtemcheloΔ: /buyarmor
+[03:10:24] 🎮ArtemcheloΔ: supply radio: global message
+[03:11:15] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[03:12:34] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[03:12:35] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[03:20:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[03:21:27] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[03:25:58] Dropped "🎮ArtemcheloΔ" from server<STEAM_0:1:624922125>
+[03:25:58] 🎮ArtemcheloΔ suicided!
+[03:26:51] Client "Матье Балл" connected.
+[03:28:22] Client "Матье Балл" spawned in server <STEAM_0:0:569947714> (took 91 seconds).
+[03:32:32] Dropped "Матье Балл" from server<STEAM_0:0:569947714>
+[03:32:32] Матье Балл suicided!
+[03:34:16] Client "Матье Балл" connected.
+[03:34:36] Dropped "Kasis" from server<STEAM_0:1:810197275>
+[03:34:36] Kasis suicided!
+[03:34:49] Client "Матье Балл" spawned in server <STEAM_0:0:569947714> (took 33 seconds).
+[03:35:56] Client "Soldier_S.C.A.F" connected.
+[03:37:39] Client "SMOOKIE" connected.
+[03:38:26] Client "SMOOKIE" spawned in server <STEAM_0:1:565872977> (took 47 seconds).
+[03:39:49] SMOOKIE: !motd
+[03:40:39] Dropped "Матье Балл" from server<STEAM_0:0:569947714>
+[03:40:39] Матье Балл suicided!
+[03:40:40] Client "Матье Балл" connected.
+[03:40:57] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 301 seconds).
+[03:41:06] Client "Матье Балл" spawned in server <STEAM_0:0:569947714> (took 26 seconds).
+[03:47:22] Soldier_S.C.A.F to admins: админ на сколько карта нагружена? (просто когда на карте много всего
+[03:47:45] Soldier_S.C.A.F to admins: то игра чаще вылетает)*
+[03:47:59] Redoket: !menu
+[03:52:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[03:52:49] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezaidradio
+[03:53:13] Soldier_S.C.A.F to admins: redoket есть ли щяс смысл объевлять перезапуск
+[03:53:33] Client "cocka" connected.
+[03:53:35] Redoket teleported to Soldier_S.C.A.F
+[03:53:35] Redoket: !goto soldier
+[03:53:44] Redoket: какой перезапуск
+[03:53:49] Redoket: ничё не лагает
+[03:54:02] Redoket: я хз чё вы перезаходите
+[03:54:13] Redoket: сервер только недавно запустился
+[03:54:19] Redoket: щас посмотрю
+[03:54:24] Redoket: может чтото и есть
+[03:54:34] Redoket: но я думаю что нету ничё и говно это
+[03:56:09] Client "cocka" spawned in server <STEAM_0:1:932814392> (took 156 seconds).
+[03:58:17] Dropped "Матье Балл" from server<STEAM_0:0:569947714>
+[03:58:17] Матье Балл suicided!
+[03:59:05] Client "choper100belly" connected.
+[03:59:22] Client "Матье Балл" connected.
+[03:59:25] cocka: СТОЙ
+[03:59:36] cocka: ты же из пивтания?
+[03:59:42] cocka: можно к вам?
+[03:59:55] Client "Матье Балл" spawned in server <STEAM_0:0:569947714> (took 33 seconds).
+[03:59:56] Soldier_S.C.A.F to admins: ну что как там?
+[04:00:27] cocka: говори помедлене пж
+[04:00:33] cocka: я нхуя не пон
+[04:00:57] cocka: сканер есть?
+[04:01:03] cocka: а ввот
+[04:02:12] Client "kosmokot" connected.
+[04:02:40] Soldier_S.C.A.F to admins: как там с картой ответь
+[04:02:59] Redoket teleported to Soldier_S.C.A.F
+[04:02:59] Redoket: !goto soldier
+[04:03:08] Redoket: ДА НОРМАЛЬНО ТАМ ВСЁ
+[04:03:19] Redoket: НЕТУ НИЧЕГО ТАКОГО ЧТО ЛАГАТЬ МОЖЕТ
+[04:03:25] Redoket: Я ПОСМОТРЕЛ
+[04:03:37] Redoket: БАЗЫ АБСОЛЮТНО ОБЫЧНЫЕ У ЛЮДЕЙ
+[04:03:40] Redoket: НОРОМ ВСЁ
+[04:06:10] cocka: !pchat
+[04:06:19] cocka: драсте
+[04:06:26] cocka: да?
+[04:06:37] cocka: ты не так
+[04:07:27] cocka: ну ладно обустраивайся
+[04:07:38] cocka: а?
+[04:07:46] cocka: ща
+[04:08:12] cocka: workbench
+[04:08:23] cocka: ладно я пошел
+[04:15:20] Redoket: ПОЕЛИ
+[04:15:20] Client "бугагашенька" connected.
+[04:15:22] cocka: выключи пж
+[04:15:37] Redoket: ЧЕГО ТЕБЕ\
+[04:15:38] cocka: я с миром
+[04:15:45] cocka: у тебя есть машина?
+[04:15:48] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 28 seconds).
+[04:15:56] Redoket: У ТЕБЯ ЕСТЬ ДЕНЬГИ?
+[04:16:21] cocka: нету но могу что то в замен предложить
+[04:16:30] Redoket: УРАН?
+[04:16:38] Redoket: Я МОГУ ОБМЕНЯТЬ ЕНА УРАН
+[04:16:42] cocka: нет
+[04:16:45] cocka: кста
+[04:16:50] cocka: я тебя помню
+[04:16:58] cocka: знаешь Шайтана?
+[04:17:01] Redoket: ДА
+[04:17:06] cocka: это я
+[04:17:11] Redoket: ЯСНО
+[04:17:14] cocka: просто другой ак
+[04:17:20] Redoket: Я ПОНЯЛ
+[04:17:26] Redoket: А ТЕБЯ НЕ БАНИЛИ РАЗВЕ?
+[04:17:33] Redoket: ИЛИ ПОЧЕМУ ТЫ С ЭТОГО АКА
+[04:17:35] cocka: нуууу
+[04:17:51] cocka: мой брат акаунт проспорил на месяц
+[04:17:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[04:18:03] Redoket: НИГЕР
+[04:18:09] cocka: блин я просто базу своего не могу найти
+[04:18:20] Redoket: КТО ТВОЙ
+[04:18:25] cocka: солджер
+[04:18:29] Redoket: ЩАП
+[04:18:41] cocka: а нихуя себе
+[04:19:07] cocka: привет
+[04:19:12] Redoket: ДЕРЖИ СВОЕГО АБОЛТУСА
+[04:19:16] cocka: сама
+[04:19:27] cocka: ну ку
+[04:19:27] Soldier_S.C.A.F: ну здаров
+[04:19:36] Soldier_S.C.A.F: кароч
+[04:19:43] cocka: что?
+[04:20:10] Soldier_S.C.A.F: я тут бандитную власть буду вести
+[04:20:24] SMOOKIE: supply radio help
+[04:20:26] cocka: я то думаю че тебя все не навидят
+[04:20:35] SMOOKIE: supplu radio: help
+[04:20:42] Soldier_S.C.A.F: ну
+[04:20:43] Soldier_S.C.A.F: кароч
+[04:21:03] Soldier_S.C.A.F: за бандитного пацана сможеш отыграть?
+[04:21:21] cocka: ну я уже с некоторыми наладил отношение
+[04:21:39] cocka: так что ток если тебя и меня не убьют потом
+[04:21:49] Soldier_S.C.A.F: ну ладно
+[04:21:50] Dropped "Матье Балл" from server<STEAM_0:0:569947714>
+[04:21:50] Матье Балл suicided!
+[04:22:09] Client "Матье Балл" connected.
+[04:22:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_flametank
+[04:22:37] Client "Матье Балл" spawned in server <STEAM_0:0:569947714> (took 28 seconds).
+[04:22:49] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_mhtorso
+[04:22:53] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_maska
+[04:23:46] Redoket: ТОВАРИЩ
+[04:23:58] Redoket: ВЫ ПОТДЕРЖИВАЕТЕ ВЛАСТЬ СОВЕТОВ
+[04:24:08] Redoket: ?
+[04:24:31] Redoket: ВЫ ГОТОВЫ ФИНАНСИРЫВАТЬ ВСЕМИРНУЮ РЕВОЛЮЦИЮ?
+[04:24:48] Redoket: РЕВОЛЮЦИЮ
+[04:24:54] бугагашенька: а против кого?
+[04:25:02] Redoket: ПРОТИВ ГРЯЗНЫХ БУРЖУЕВ
+[04:25:17] Redoket: ТЕХ КТО ПОДМЯЛ ПОД СЕБЯ ВСЕ ВЕТВИ ВЛАСТИ
+[04:25:26] бугагашенька: а ну если так то конешно могу немного
+[04:25:32] Redoket: И НЕ ДАЁТ ЖИТЬ В МИРЕ НАРОД
+[04:25:46] бугагашенька: мне што-то в замен надо?
+[04:25:48] Redoket: ДЛЯ РЕВОЛЮЦИИ НАМ НУЖНО ТОПЛИВО
+[04:26:03] Redoket: ЕСЛИ ЫВ СОГЛАСИТЕСЬ
+[04:26:20] Redoket: МЫ МОЖЕМ ГАРАНТИРОВАТЬ ВАШУ ГОС БЕЗОПАСТНОСТЬ
+[04:26:30] Redoket: ЕСЛИ ВЫ СОГЛАШАЕТЕСЬ
+[04:26:35] бугагашенька: если на меня нападут вы будете защищать меня да?
+[04:26:39] Redoket: ДА
+[04:26:58] Redoket: И ВЗАМЕН БУДУ ДАВАТЬ ВАМ ОРУЖИЯ, ПУШКИю, И ИНЫЕ СРЕДСТВА ЗАЩИТЫ
+[04:27:10] бугагашенька: круто
+[04:27:19] бугагашенька: ну у меня только в данный момент 200 топлива
+[04:27:21] бугагашенька: щас
+[04:27:25] Redoket: Я РАД ЧТО ВАМ НРАВИТСЯ ВАШЕ ПРЕДЛОЖЕНИЕ
+[04:27:40] Redoket: ДЛЯ ПЕРВОГО ПАКЕТА ПОМОЩИ ПРЕДЛАГАЮ
+[04:27:48] Redoket: ЭТО
+[04:27:53] Redoket: ВЗАМЕН НА БЕНЗИН
+[04:27:58] бугагашенька: спасибо
+[04:28:19] Redoket: НАМ НУЖНО ЕЩЁ СТО ЭТО ДА
+[04:28:24] Redoket: ТОПЛИВА
+[04:28:34] Redoket: ДЛЯ ПРОЛЕТАРСКИХ СЕМЕЙ
+[04:28:48] Redoket: НУ ЛАДНО
+[04:28:55] Redoket: 65 ТОЖЕ ХВАТИТ
+[04:29:06] Client "Vasilisk_Ð" connected.
+[04:29:14] Redoket: ВЫ БУДЕТЕ НЕ ПРОТИВ ЕСЛИ Я СКАФЧУ ЯЩИК?
+[04:29:23] бугагашенька: да делайте если што
+[04:29:24] Redoket: С ПОМОЩЬЮ ВАШИХ РЕСУРСВ
+[04:29:26] Soldier_S.C.A.F: пока сканер отложи
+[04:29:35] Redoket: БЛАГОДАРЮ
+[04:29:35] cocka: вода будет нужна пипец
+[04:29:49] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[04:29:51] cocka: бля
+[04:30:00] Soldier_S.C.A.F: а я вот подумал
+[04:30:07] cocka: И ГДЕ?
+[04:30:08] Soldier_S.C.A.F: а смысл от водной залежи?
+[04:30:10] cocka: волда
+[04:30:17] Redoket: ДА ПРИБУДЕТ С ВАМИ НОВАЯ ВЕРА
+[04:30:20] cocka: всегда вода нужна
+[04:30:28] Soldier_S.C.A.F: ну помимо ткани
+[04:30:30] Матье Балл: supply radio: fulton-crate
+[04:30:31] Redoket: ВЕРА В ПРОЦВЕЬАЮЩЕЕ БУДУЩЕЕ 
+[04:30:35] Redoket: ВЕРА В КОМУНИЗМ
+[04:30:41] cocka: там органику химикаты
+[04:30:47] Client "Vasilisk_Ð" spawned in server <STEAM_0:1:452030622> (took 101 seconds).
+[04:31:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[04:32:19] cocka: я потом химикаты продам
+[04:32:30] cocka: они по цене стабильны очень
+[04:32:33] Soldier_S.C.A.F: да лучше топливо продовать
+[04:33:05] cocka: потом топливо зделаю тебе
+[04:34:01] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[04:34:07] Client "Kirill45" connected.
+[04:34:36] Soldier_S.C.A.F: кароч
+[04:34:43] Soldier_S.C.A.F: пойду выяснять отношения
+[04:35:08] cocka: я крч энергию зделаю
+[04:35:44] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[04:35:44] бугагашенька suicided!
+[04:37:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[04:37:20] cocka: мда
+[04:37:25] cocka: еба ты лютый
+[04:37:26] Soldier_S.C.A.F: куда
+[04:37:36] cocka: что?
+[04:37:40] Soldier_S.C.A.F: тут уже итак и 4 хватит
+[04:37:46] Soldier_S.C.A.F: куда ещё больше
+[04:37:59] cocka: никогда много не бывает
+[04:38:15] Soldier_S.C.A.F: я тебя щяс удивлю
+[04:38:22] Soldier_S.C.A.F: но как-то я играл
+[04:38:31] Soldier_S.C.A.F: а мне всего две панелек хватало
+[04:38:37] Soldier_S.C.A.F: ито
+[04:38:45] Soldier_S.C.A.F: хранилищя были заполнены энергией
+[04:38:53] Soldier_S.C.A.F: так что много не надо
+[04:39:53] Soldier_S.C.A.F: кароч пока развивай
+[04:39:58] cocka: лкей
+[04:42:03] Soldier_S.C.A.F: эй гастролёр!
+[04:42:31] Soldier_S.C.A.F: смотрю немалое такое у тебя поселение
+[04:42:46] Soldier_S.C.A.F: вобщем так
+[04:43:07] Soldier_S.C.A.F: предлогаю тебе сделку на нашу сторону
+[04:43:32] Soldier_S.C.A.F: будеш производить нам оружие,технику и всего прочего
+[04:44:00] Soldier_S.C.A.F: смотри
+[04:44:11] Soldier_S.C.A.F: я тут авторитет
+[04:44:20] Soldier_S.C.A.F: и хочу загнуть под себя власть\
+[04:45:02] Soldier_S.C.A.F: вот какой тебе выбор зделаю
+[04:45:35] Soldier_S.C.A.F: либо ты будеш нашим но останешся сам автономным
+[04:45:37] Soldier_S.C.A.F: но!
+[04:45:49] Soldier_S.C.A.F: отстегивать деньги
+[04:46:06] Soldier_S.C.A.F: пока я добрый
+[04:46:19] Soldier_S.C.A.F: цена будет где-то в районе 5000
+[04:46:44] Soldier_S.C.A.F: подожди
+[04:46:57] Soldier_S.C.A.F: я ещё не договорил
+[04:47:08] Soldier_S.C.A.F: и есть ещё второй выбор
+[04:47:25] Soldier_S.C.A.F: останешся под своей властью
+[04:47:29] Soldier_S.C.A.F: но знай
+[04:47:38] Soldier_S.C.A.F: будеш для нас врагом
+[04:47:52] Soldier_S.C.A.F: но
+[04:48:04] Soldier_S.C.A.F: если только где-то шлятся будеш
+[04:48:07] Client "Kronos#melonrust" connected.
+[04:48:18] Redoket: ДРАСТЕ
+[04:48:33] Redoket: ТОВАРИЩИ
+[04:48:45] Redoket: ВЫ ПОТДЕРЖИВАЕТЕ ВЛАСТЬ СОВЕТОВ
+[04:49:04] Redoket: И ГОТОВЫ ЛИ ВЫ ФИНАНСИРОВАТЬ МИРОВУЮ РЕВОЛЮЦИЮ?
+[04:49:09] Redoket: ЕСЛИ ДА
+[04:49:12] Client "Kronos#melonrust" spawned in server <STEAM_0:0:554093478> (took 65 seconds).
+[04:49:28] Redoket: МЫ ГОТОВЫ ПРЕДЛОЖИТЬ ВАМ ЗАЩИТУ И ВООРУЖЕНИЕ
+[04:49:47] Redoket: ВЗАМЕН НА ПРОЕЗД ПО ВАШЕЙ ТЕРИТОРИИ И ЧАСТЬ ВАШИХ РЕСУРСОВ
+[04:50:05] Soldier_S.C.A.F: но знай
+[04:50:12] Soldier_S.C.A.F: за тобой выбор
+[04:50:15] Soldier_S.C.A.F: ибо!
+[04:50:35] Redoket: ЧТОЖ ТЫ СО МНОЙ ДА?
+[04:50:44] Redoket: ЗАМЕЧАТЕЛЬНО
+[04:50:51] Redoket: С ТОБОЙ ПОСМОТРИМ
+[04:50:56] Redoket: КЕМ ТЫ СТАНЕШЬ
+[04:51:02] Redoket: ГРЯЗНЫМ БУРЖУЕМ
+[04:51:09] Redoket: ИЛИ СИЛЬНЫМ И ВОЛЬНЫМ ПРОЛЕТАРИЕМ
+[04:51:26] Redoket: ПРОГНОЗЫ ДЕЛАТЬ НЕ МОЯ СПЕЦИФИКАЦИЯ
+[04:51:33] Redoket: ЧТОЖ
+[04:51:46] Redoket: Я ДУМАЮ ОТ ТЕБЯ ТУТ ПОКА НИЧЕГО НЕ ТРЕБУЕТСЯ 
+[04:51:51] Redoket: ТЫ МОЖДЕШЬ УХОДИТЬ
+[04:51:58] Redoket: К СВОИМ
+[04:52:11] Redoket: МЫ ЕЩЁ ОБСУДИМ ЧТО С ТОБОЙ ДЕЛАТЬ
+[04:52:23] Soldier_S.C.A.F: но пока вот что скажу
+[04:52:47] Soldier_S.C.A.F: пока я добрый и не настанет тежёлое время
+[04:52:57] Soldier_S.C.A.F: я с тобой буду придерживать нейтралитет
+[04:53:11] Redoket: Я БУДУ СМОТРЕТЬ
+[04:53:31] Redoket: НЕ ХОЧУ БЫТЬ В НЕВЕДЕНИИ КОГДА
+[04:53:35] Redoket: А НУ ВПРОЧЕМ
+[04:53:37] Redoket: НЕ ВАЖНО
+[04:53:54] Soldier_S.C.A.F: так
+[04:53:56] Redoket: ЧТОЖ ПОШЛИ
+[04:53:58] Soldier_S.C.A.F: а он кто?
+[04:54:08] Soldier_S.C.A.F: а
+[04:54:16] Redoket: ДАВАЙ
+[04:54:17] Soldier_S.C.A.F: ладно
+[04:54:28] Soldier_S.C.A.F: посмотрим как будт это время
+[04:54:38] (TEAM) Kronos#melonrust: я щя
+[04:54:40] Redoket: КСТАТИ
+[04:54:48] Redoket: ХОЧЕШЬ ИНТЕРЕСНЫЙ ФАКТ
+[04:54:52] Матье Балл: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:54:53] Redoket: ЭТО БЫЛА МОЯ БАЗА
+[04:54:59] Redoket: ГДЕ ТЫ ЖИВЕШЬ
+[04:55:02] Redoket: Я ПРОСТО ВЫШЕЛ 
+[04:55:09] Redoket: И ПОТОМ ОПЯТЬ И ТУТ ТЫ
+[04:55:11] Redoket: НУ ЛАДНО
+[04:55:20] Redoket: ТУТ РЕСУРСОВ ВООБЩЕ НЕТУ
+[04:55:26] Redoket: ЧТО ПЛОХО
+[04:55:28] Redoket: ТАК ЧТО ДА\
+[04:55:38] Redoket: У МЕНЯ ЕСТЬ
+[04:55:42] Redoket: ДАВАЙ КА Я ЭТОЭ
+[04:55:49] Redoket: ПОСТОЙ
+[04:55:56] Redoket: Я ТЕБЕ ДЕНЬГИ ОТДАТЬ ХОЧУ
+[04:56:06] Redoket: ДЕРЖТ
+[04:56:14] Redoket: ЭТО СТАРТОВЫЙ КАПИТАЛ ТВОЙН
+[04:56:20] Redoket: ДЕЛАЙ СНИМ ЧТО ХОЧЕШЬ
+[04:56:33] Redoket: НО ЛУЧШЕ КАК НИБУДЬ В РЕСУРСЫ
+[04:56:36] Soldier_S.C.A.F: я вернулся
+[04:56:37] Redoket: ИЛИ ЧЁТО ТИПО ТОГО
+[04:56:40] cocka: ага
+[04:56:42] Redoket: НУ ЛАДНО
+[04:56:50] Redoket: ЩАС ПОСМОТРЮ ЧТО У ТЕБЯ ЕСТЬ
+[04:57:00] cocka: у нас щас будут химикаты в промышленном маштабе производится
+[04:57:02] Redoket: АГА\Н
+[04:57:04] Redoket: ТАК
+[04:57:08] Redoket: Я ТУТ ЭТО
+[04:57:11] Soldier_S.C.A.F: очень хорошо
+[04:57:15] Redoket: У ТЕБЯ ТОПЛИВО ЗАБЕРУ 
+[04:57:20] Redoket: У МЕНЯ НЕТУ
+[04:57:20] Soldier_S.C.A.F: пока обговорил с одним поселением
+[04:57:29] Redoket: ОКЕЙ
+[04:57:37] cocka: ООО
+[04:57:46] Soldier_S.C.A.F: но пока власть не продвигается
+[04:57:47] Redoket: У ТЕБЯ КЕРАМИКА ЕСТЬ?
+[04:57:53] Redoket: О
+[04:57:55] cocka: ок
+[04:57:58] Redoket: Я МОГУ ПОКА ТЕБЕ ДАТЬ
+[04:58:00] Redoket: ВЗАМЕН
+[04:58:01] Soldier_S.C.A.F: зато есть одна фракция
+[04:58:05] Redoket: НА ТОПЛИВО
+[04:58:13] Soldier_S.C.A.F: именуют себя советом
+[04:58:13] Redoket: ДА ЛАДНО ТЕБЕ
+[04:58:16] Redoket: БЕРИ
+[04:58:26] Soldier_S.C.A.F: мы с ними в нейтралитете
+[04:58:27] Client "F4V3ns" connected.
+[04:58:40] Redoket: ВОТ
+[04:58:44] Soldier_S.C.A.F: вобщем так!
+[04:58:44] cocka: ну хорошо
+[04:58:52] cocka: щас я трубы проведу
+[04:59:02] Redoket: НУ ЛАПДНО
+[04:59:07] Soldier_S.C.A.F: нужны будут рабы, оружие с маслинами и Техника
+[04:59:12] Redoket: ЩАС ЭТО
+[04:59:15] Redoket: ПОЙДУ
+[04:59:20] Redoket: ДАМ ТЕБЕ ЕЩЁ ВСЯКОГО
+[04:59:22] cocka: ОКЕЙ
+[04:59:24] Redoket: ПРИКОЛЬНОГО
+[04:59:31] Redoket: НЕТ
+[04:59:35] Redoket: ЭТО ГРУЗАК
+[04:59:38] Soldier_S.C.A.F: и вот что скажу тебе поцанчик мой
+[04:59:40] Redoket: ДЖИП ДРУГОЕ
+[04:59:43] cocka: да?
+[04:59:56] Soldier_S.C.A.F: сделай себе оружие с маслинами
+[05:00:02] Soldier_S.C.A.F: очень пригодтся
+[05:00:02] cocka: это че за?
+[05:00:16] Soldier_S.C.A.F: маслины= патроны
+[05:00:21] cocka: ну я понял
+[05:00:28] Client "F4V3ns" spawned in server <STEAM_0:0:144997869> (took 121 seconds).
+[05:00:34] cocka: так бы и говорил бы патрони
+[05:00:41] Soldier_S.C.A.F: лол
+[05:00:46] Soldier_S.C.A.F: так я же авторитет
+[05:00:52] cocka: ладно
+[05:00:55] Soldier_S.C.A.F: причем не а бы обычный пацанчик
+[05:01:06] Soldier_S.C.A.F: а именно
+[05:01:09] Soldier_S.C.A.F: бугор!
+[05:01:38] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[05:02:59] Soldier_S.C.A.F: вобщем так
+[05:03:07] Soldier_S.C.A.F: вызову технику
+[05:03:08] cocka: может абаригенов рабами зделаем?
+[05:03:45] Soldier_S.C.A.F: я по твоему прогнозировать буду
+[05:04:02] Soldier_S.C.A.F: посмотрим как будет
+[05:04:11] Redoket: НИГА
+[05:04:20] cocka: понятно
+[05:04:21] Redoket: КТО ТАКОВ\
+[05:04:33] Redoket: АБОРИГЕНЫ
+[05:04:40] F4V3ns: ыыыаааав
+[05:04:41] Redoket: ГЛУПЫЕ СОЗДАНИЯ
+[05:04:46] F4V3ns: уээээээ
+[05:04:46] Redoket: МЫ С ВАМИ ДЕЛА НЕ ИМЕЕМ
+[05:04:49] Redoket: УХОДИТЕ
+[05:04:56] F4V3ns: шумбалагава
+[05:05:03] Redoket: ЭТО ПОЗОР
+[05:05:07] Redoket: ИДИ
+[05:05:08] F4V3ns: аааааааа
+[05:05:22] Redoket: ПРЫГАЙ
+[05:06:52] cocka: ЭТО 500 ХИМИКАТОВ
+[05:06:56] cocka: ПИЗДА
+[05:07:01] cocka: Я СТОКО НАВАРЮ
+[05:09:34] Kronos#melonrust was killed by ent_jack_gmod_ezprimitivebench
+[05:10:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:10:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:10:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:11:53] Client "URAL_EKB" connected.
+[05:14:27] Soldier_S.C.A.F: зачем второе РАДИО
+[05:14:43] cocka: да мне ресы нужны
+[05:15:00] Redoket: supply radio: ammo
+[05:15:02] Soldier_S.C.A.F: ладно уж я могу понять
+[05:15:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezwater
+[05:15:25] Soldier_S.C.A.F: но чтоб потом это радио. выбросил!
+[05:15:31] cocka: лке
+[05:16:23] Redoket: supply radio: sentry
+[05:16:24] Soldier_S.C.A.F: supply radio: global message
+[05:18:16] Client "nikita174" connected.
+[05:22:17] Soldier_S.C.A.F: эй гастралёр!
+[05:22:29] Матье Балл: Что?
+[05:22:39] Soldier_S.C.A.F: не хотите присоеденится
+[05:22:49] Матье Балл: не очень
+[05:22:57] Kronos#melonrust: ты нам
+[05:23:14] Soldier_S.C.A.F: просто зачем вам это глухое место
+[05:23:23] Soldier_S.C.A.F: учитывая  как слабо тут
+[05:23:25] Матье Балл: не такое уж и глухое
+[05:24:00] Soldier_S.C.A.F: вобщем
+[05:24:09] Soldier_S.C.A.F: за мое присоединение
+[05:24:20] Soldier_S.C.A.F: вы будете иметь такую мощь!
+[05:24:38] Soldier_S.C.A.F: что можно будет прогнать тех
+[05:24:46] Soldier_S.C.A.F: кто будет стоять на нашем пути
+[05:25:04] Soldier_S.C.A.F: ну так что
+[05:25:08] Soldier_S.C.A.F: выбор за вами
+[05:25:26] Матье Балл: мой ответ нет
+[05:25:43] Soldier_S.C.A.F: тогда знайте какие последствия будут
+[05:25:48] Soldier_S.C.A.F: при следующем разе
+[05:25:55] Матье Балл: мы все видели твой эфир
+[05:26:32] F4V3ns: Шамбала
+[05:26:36] F4V3ns: Уга рув
+[05:26:41] cocka: supply radio: jeep
+[05:26:45] F4V3ns: Канчерам
+[05:26:53] F4V3ns: Фурамуна во!
+[05:27:00] Soldier_S.C.A.F: так!
+[05:27:00] F4V3ns: Жамбаро!
+[05:27:08] cocka: мда
+[05:27:10] Soldier_S.C.A.F: готовь оборону!
+[05:27:16] cocka: это пиздец
+[05:27:19] Soldier_S.C.A.F: нужны будут турели
+[05:27:25] cocka: есть одна
+[05:27:42] F4V3ns: Парумбара?
+[05:27:46] Soldier_S.C.A.F: погоди
+[05:27:52] F4V3ns: Хантурама!
+[05:27:54] cocka: мм?
+[05:27:55] Soldier_S.C.A.F: щяс зделаю оборону из турелей
+[05:27:56] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:28:02] F4V3ns: Жамборакало!
+[05:28:02] Soldier_S.C.A.F: зделай пока мины
+[05:28:07] Soldier_S.C.A.F: пригодятся потом
+[05:28:15] cocka: мы кста себе даже можем поозволить танк
+[05:28:20] F4V3ns: Рембанора, авикави ломанара
+[05:28:24] cocka: купить?
+[05:28:29] cocka: или турели покупать?
+[05:28:33] Soldier_S.C.A.F: танк я сам буду покупать!
+[05:28:40] Vasilisk_Ð killed F4V3ns using tfa_doimp40
+[05:28:43] cocka: давай отвечайй
+[05:30:23] cocka: вот патроны если че
+[05:30:28] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_rebel
+[05:31:33] Матье Балл: вы кто?
+[05:31:43] Redoket: ЗДРАВСТВУЙТЕ ТОВАРИЩИ
+[05:31:49] Redoket: ЭТО КОМ ПАРТИЯ
+[05:31:52] Матье Балл: здравствуйте
+[05:32:10] Redoket: Я ТАК ВИЖУ ВЫ ПРИНЯЛИ НАШ ЗАПРОС
+[05:32:12] Redoket: ЧТОЖ
+[05:32:16] Redoket: Я БЛАГОДАРЕН
+[05:32:23] Redoket: И ГОТОВ ВАМ ОТПЛАТИТЬ
+[05:32:35] Redoket: ВОТ
+[05:32:40] F4V3ns was killed by ent_jack_gmod_ezsentry
+[05:32:42] Redoket: ЭТО ВАМ
+[05:32:53] Redoket: СТАРТОВЫЙ КАПИТАЛ
+[05:33:15] Матье Балл: большое спасибо это очень поможет развить Травянскую Народную Респу
+[05:33:23] Redoket: ГЫГЫГЫ
+[05:33:28] Матье Балл: Республику
+[05:33:33] Redoket: ОКЕЙ
+[05:33:45] Redoket: Я ПОТОМ ЕЩЁ К ВАП ПРИДУ
+[05:33:51] Redoket: МОЖЕТ ЕЩЁ ЧЁТА ОТДАМ
+[05:33:55] Redoket: КАК ВЫЙДЕТ
+[05:34:00] Redoket: НУ Я ЭТО ПОЛЕТЕЛ
+[05:34:08] Матье Балл: Ладно мы вас поняли
+[05:34:10] Redoket: МНЕ ОСТАЛЬНЫХ ОТБЛАГОДОРИТЬ НАДО
+[05:34:19] Redoket: ДАВАЙТЕ
+[05:34:23] Redoket: ДОСВИДАНИЯ
+[05:35:15] Redoket: ДРАСТЕ
+[05:35:18] F4V3ns: парупатови?
+[05:35:19] SMOOKIE: привет
+[05:35:19] Redoket: ТОВАРИЩИ
+[05:35:35] F4V3ns: чомбала гариви вирака?
+[05:35:51] Redoket: БЛАГОДАРЮ ЗА ВСТУПЛЕНИЕ В НАШ ОТРЯД
+[05:36:02] Redoket: Я ХОТЕЛ ТУТ ОТБЛАГОДАРИТЬ ВАС КАК РАЗ
+[05:36:08] F4V3ns: жобароканамими
+[05:36:14] Redoket: И ТЕБЯ ТОЖЕ
+[05:36:16] Redoket: ЧТОЖ
+[05:36:21] F4V3ns: ва?
+[05:36:24] Redoket: ДЕРЖИ
+[05:36:31] Redoket: И ТЫ
+[05:36:36] Redoket: АСЬ
+[05:36:37] cocka: СЕР
+[05:36:44] cocka: У НАС 280к
+[05:36:47] Redoket: А ТЫ ЗНАЕШЬ КАК?
+[05:36:56] Redoket: ПОМПЫ
+[05:37:06] Redoket: ЭТО И ЕСТЬ ОНА
+[05:37:11] Client "krytoi22132" connected.
+[05:37:13] Redoket: ВОТ ТЕБЕ ОБЪЯСНЯЕТ
+[05:37:16] Redoket: ЧЕЛОВЕК
+[05:37:21] Redoket: ВОТ
+[05:37:28] Redoket: ЭТО СТРАТОВЫЙ КАПИТАЛ
+[05:37:36] Redoket: Я МОЖЕТ БЫТЬ ЕЩЁ ПРИДК
+[05:37:41] Redoket: ВОТ ВОТ
+[05:37:52] Redoket: НУ ЛАДНО Я ПОЛЕТЕЛ
+[05:37:56] Redoket: ОКЕЙ
+[05:38:21] cocka: вот ваши турели
+[05:38:29] Soldier_S.C.A.F: так
+[05:38:33] Soldier_S.C.A.F: я их потом улучшу
+[05:38:42] Redoket: ЭТРО
+[05:38:44] cocka: окей
+[05:38:47] Redoket: Я В АФК ЩАС ВСТАНО
+[05:38:54] Redoket: МОЖЕШЬ ПОКА ЗА МЕНЯ ПООТВЕЧАТЬ
+[05:38:59] Redoket: ТОЛЬКО ВОЙНУ НЕ ЭТО
+[05:38:59] cocka: я могу еще скрафтить?
+[05:39:03] Soldier_S.C.A.F: нет
+[05:39:03] Redoket: НЕ ОТ
+[05:39:05] Redoket: ОКЕЙ
+[05:39:05] Soldier_S.C.A.F: этого хватит
+[05:39:09] Redoket: НАСРАТЬ
+[05:39:14] Redoket: МЫ ЗАСТАВИМ
+[05:39:18] Redoket: Я СМОТРЕЛ
+[05:39:27] Redoket: У НЕГО НИЧЁ ТАК ТО И НЕТУ ТАМ
+[05:39:29] Redoket: НА БАЗЕ
+[05:39:34] Redoket: ДВЕ МАШИНЫ И ВСЁ
+[05:39:38] Redoket: НЕ ПУШЕК НИЧЕГО
+[05:39:43] Redoket: НУ ЛАДНО ДАВАЙ
+[05:40:22] cocka: БЛЯТЬ ТУТ ШПИОН
+[05:40:25] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsentry
+[05:40:26] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsentry
+[05:40:29] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[05:40:31] cocka: ТЫ КТО?
+[05:40:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[05:40:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[05:40:47] cocka: 6понятно
+[05:40:51] cocka: хочешь есть?
+[05:41:09] F4V3ns: !motd
+[05:41:16] cocka: (хочешь есть) :KNwbobiwgpoua:PO
+[05:41:31] Soldier_S.C.A.F: так
+[05:41:34] cocka: 'nj f,fhbuty
+[05:41:35] Soldier_S.C.A.F: убери пушку
+[05:41:39] cocka: это абариген
+[05:41:44] Soldier_S.C.A.F: дай я с ним поговорю
+[05:41:50] cocka: он не говорит по руски
+[05:42:26] Soldier_S.C.A.F: *по-казахски* кто же ты странник
+[05:42:54] F4V3ns: *На аборигенском*Я не понимаю твой язык
+[05:43:16] Soldier_S.C.A.F: так...
+[05:43:17] SMOOKIE suicided!
+[05:43:20] cocka: бля мне кажется вот вот будет война
+[05:43:23] Soldier_S.C.A.F: тут уже все сложно...
+[05:43:38] Soldier_S.C.A.F: отгони его!
+[05:43:48] cocka: ЭЦТЛПИГШПЭЦЩШГИ
+[05:43:50] (TEAM) cocka: ААААААААААААААААААА
+[05:44:07] cocka: я в него не попал спец
+[05:44:10] Soldier_S.C.A.F: пусть знает
+[05:44:28] cocka: ладно все
+[05:46:28] cocka: в количестве 1 обаригена XD
+[05:48:31] Vasilisk_Ð: supply radio: advanced parts
+[05:49:13] Soldier_S.C.A.F: так
+[05:49:20] Soldier_S.C.A.F: машины прокачай!
+[05:49:22] cocka: бля куда эту бандуру?
+[05:49:29] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_rebel
+[05:49:31] cocka: какие?
+[05:49:37] cocka: этпа?
+[05:49:43] Soldier_S.C.A.F: эту и турели
+[05:49:52] cocka: ты говорил сам прокачаешь?
+[05:49:59] cocka: ладно ща
+[05:50:00] Soldier_S.C.A.F: некогда
+[05:50:10] Redoket: ПАЦАН
+[05:50:12] cocka: ЗАКАЖИ ОЧЕНЬ МНОГО АДВЕНСЕТ
+[05:50:12] Redoket: ТЫ ЧЕГО
+[05:50:15] cocka: чето там
+[05:50:25] Redoket: ЭТО НАША БАЗА
+[05:50:26] F4V3ns: *На аборигенском* ЭТО ЕЩЁ ЧТО ЗА ШТУКА
+[05:50:32] Redoket: НИГЕР
+[05:50:36] Redoket: ВСЁ ПОНЯТНО
+[05:50:42] Redoket: КХМ
+[05:50:45] Soldier_S.C.A.F: ля слушай
+[05:50:45] Redoket: ОГОНЬ
+[05:50:46] Redoket killed F4V3ns using tfa_at_akm_eft
+[05:50:51] Soldier_S.C.A.F: зделай щяс так
+[05:50:55] Redoket: АБОНИГЕНЫ
+[05:50:59] cocka: энергии нету
+[05:51:02] cocka: =(
+[05:51:10] Soldier_S.C.A.F: буд-то ожесточенный обстрел был
+[05:51:16] Soldier_S.C.A.F: тупо взять
+[05:51:18] Soldier_S.C.A.F: да этот
+[05:51:38] cocka: я нихуя не понял
+[05:51:59] cocka: вертик нам пизда
+[05:52:26] Soldier_S.C.A.F to admins: это у меня не входило в сценарий
+[05:52:47] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_rebel
+[05:52:52] Redoket: НИГА
+[05:52:57] Redoket: У НИХ НЕГРОТЕК
+[05:52:59] Redoket: ПОХОЖЕ
+[05:53:00] Client "DjemSound" connected.
+[05:53:04] Redoket: 4 ТУРЕЛИ
+[05:53:27] Redoket: ЭТО МАШИНА НА КОТОРУЮ НАЦЕПИЛИ ГОВНО ВСЯКОЕЭ
+[05:53:34] Redoket: НАПРИМЕР ТУРЕЛИ
+[05:53:36] Redoket: ТА
+[05:53:37] Redoket: ТАК
+[05:53:42] Redoket: ДАЙ СКАЗАТЬЭ
+[05:53:51] Redoket: ЕП
+[05:53:55] Redoket: О
+[05:53:59] Redoket: ЕТО КРУТО
+[05:54:06] Redoket: supply radio: global message
+[05:54:11] Redoket: ЭТОЭ
+[05:54:11] Soldier_S.C.A.F: ТАК
+[05:54:17] Redoket: МОЖЕШЬ ПОДОЙТИ
+[05:54:24] Redoket: ВЫКЛЮЧИТБ
+[05:54:26] cocka: что делаем?
+[05:54:27] Soldier_S.C.A.F: ЗДЕЛАЙ ТАК ЧТОБЫ БЫЛО ВСЕ В БАРДАКЕ
+[05:54:30] Redoket: ВЫКЛ
+[05:54:33] cocka: да ну бля
+[05:54:39] Soldier_S.C.A.F: надо
+[05:54:40] cocka: ты слабину дал
+[05:54:41] Soldier_S.C.A.F: я знаю
+[05:54:51] cocka: ну нахуя я это все делал?
+[05:54:55] Soldier_S.C.A.F: просто я щя вот что зделаю по радио
+[05:54:57] Soldier_S.C.A.F: а пока
+[05:55:02] Soldier_S.C.A.F: делать бардак надо
+[05:55:43] Redoket: ДА
+[05:55:46] cocka: знаешь что?
+[05:55:48] Redoket: ЕСЛИ МАШИНА ТО ДА
+[05:55:49] cocka: я пойду
+[05:55:51] Redoket: ЕСЛИ ТУРЕЛЬЭ
+[05:55:51] cocka: пока
+[05:55:55] Redoket: ТОЖЕ ДА
+[05:56:02] Redoket: ТЫ КУДА
+[05:56:03] cocka: уйду и буду суматоху делать
+[05:56:13] Redoket: НЕ НАДО
+[05:56:13] cocka: прими запрос в друзья
+[05:56:20] Redoket: ТЫ НАМ НУЖЕН ЖИВИМ
+[05:56:21] cocka: в стиме
+[05:56:33] cocka: ща приколямба будет
+[05:56:39] Redoket: И ЭТА МАШИНА ЕЩЁ НЕПОСТРОЕНА ДАЖЕН
+[05:56:41] cocka: ок?
+[05:56:45] Redoket: У МЕНЯ ТОЖЕ
+[05:56:45] Soldier_S.C.A.F: ок
+[05:56:49] cocka: принял?
+[05:56:49] Redoket: ДА
+[05:56:55] Redoket: И КОГДА ОНА ПОЕДЕТ
+[05:56:58] Soldier_S.C.A.F: потом
+[05:57:06] Redoket: ПРОСТО ДИВЕРСИИ УСТРАИВАТЬ ЗНАЕШЬ НЕ КРАСИВО
+[05:57:17] Redoket: КОГДА ВОЙНА НАДО
+[05:57:18] cocka: я крч ни сменю
+[05:57:23] Redoket: БУДЕТ ТОГДА
+[05:57:23] cocka: но выйду
+[05:57:28] cocka: я шайтаном буду ок?
+[05:57:32] Soldier_S.C.A.F: ок
+[05:57:35] Dropped "cocka" from server<STEAM_0:1:932814392>
+[05:57:35] cocka suicided!
+[05:57:38] Redoket: Я У ТЕБЯ КОЕ ЧТО СДЕЛАЮ
+[05:57:57] Redoket: ЩАС
+[05:58:03] Redoket: НАДО ЛЮДЕЙ
+[05:58:08] Redoket: НАВЕСТИТБ
+[05:58:35] Redoket: ЧЕЛОВЕКИЭ
+[05:58:39] Redoket: ДРАСТЕ
+[05:58:42] Redoket: ВАМ ЭТО
+[05:58:49] Redoket: КОМУНИСТИЧЕСКИЙ ПОДГОЕ
+[05:58:52] Redoket: ПОДГОН
+[05:58:58] Redoket: ВОТ
+[05:58:59] Redoket: ППШ
+[05:59:00] Client "Шайтан" connected.
+[05:59:07] Redoket: К ВАШИМ УСЛУГАМ
+[05:59:11] Redoket: МОГУ
+[05:59:14] Redoket: МОГУ ДАТЬ
+[05:59:18] Redoket: У НАС МНОГО
+[05:59:21] Redoket: ЩАС БУДЕТ
+[05:59:33] Client "Шайтан" spawned in server <STEAM_0:1:932814392> (took 33 seconds).
+[05:59:37] Redoket: ЕСТЬ КТО ДОМА?
+[05:59:45] Redoket: ЛЮДЕ
+[05:59:52] Redoket: Щ
+[05:59:54] Redoket: О
+[06:00:06] klinskoe za 200: supply radio: global message
+[06:00:12] Redoket: ЭТО ТЕБЕ КАРОЧЕ
+[06:00:21] Redoket: КОГДА ОКЛЕМАЕШЬСЯ ВОЗЬМИ
+[06:01:02] Redoket: ДРАСТЕ
+[06:01:09] Redoket: ТУТ 
+[06:01:10] Матье Балл: Здравстсвуйте
+[06:01:12] Redoket: ЭТО
+[06:01:15] Redoket: ПОДАРОК
+[06:01:25] Redoket: ОТ НАШЕГО ПРОЛЕТАРИАТА
+[06:01:33] Шайтан: ЭЭЭЭЭЙ
+[06:01:33] Redoket: ВОТЭ
+[06:01:39] Шайтан: Привет
+[06:01:52] Матье Балл: Спасибо пролетариату
+[06:01:58] Redoket: НЕ ЗАШТО
+[06:02:02] Redoket: И ТВОЕМУ ДРУГУ
+[06:02:04] Redoket: ЕЩЁ
+[06:02:23] Redoket: ВОТ
+[06:02:26] Redoket: ППШ
+[06:02:29] Redoket: И КАЛАК
+[06:02:31] Матье Балл: Друг мой к сожалению обезьяна, но я ему передам
+[06:02:32] Redoket: К ВАШИМ УСЛУГАМ
+[06:02:37] Redoket: ОКЕЙ
+[06:02:39] Redoket: БЫВАЕТ
+[06:02:45] Redoket: МЫ НЕ ОСУЖДАЕМ
+[06:02:53] Redoket: ДОСВИДАНИЯ
+[06:03:03] Redoket: И СЧАСЛИВО Э НУ ДА
+[06:04:05] Client "DjemSound" spawned in server <STEAM_0:1:82342281> (took 665 seconds).
+[06:04:22] Vasilisk_Ð killed Шайтан using tfa_doimp40
+[06:04:34] Dropped "DjemSound" from server<STEAM_0:1:82342281>
+[06:04:34] DjemSound suicided!
+[06:04:39] Redoket: ЧЕ ЗА ВСТРЕЛЫ
+[06:04:50] Redoket: КТО СТРЕЛЯЛ
+[06:04:59] Redoket: АА ЭТО ЧТО ЗА НАХ
+[06:05:04] Redoket: УЖАС
+[06:05:17] Redoket: ТЧ КТО
+[06:05:20] Шайтан: нахуя подстрелили?
+[06:05:23] Redoket: ВСМ
+[06:05:28] Шайтан: блять
+[06:05:31] (TEAM) Шайтан: турель
+[06:05:32] Шайтан: сори
+[06:05:38] Шайтан: ток щас заметил
+[06:05:44] Redoket: ГОВНО
+[06:05:49] Redoket: ХОЧЕШЬ К НАМ
+[06:05:51] Шайтан: можно к вам?
+[06:05:51] Redoket: ?
+[06:05:52] Шайтан: да
+[06:05:53] Redoket: О
+[06:06:06] Redoket: ТОГДА - ВСТУПАЙ В КРАЧСЭ
+[06:06:08] Redoket: НУ ДА
+[06:06:16] Redoket: ПРИВЕТ
+[06:06:19] Шайтан: да
+[06:06:20] Redoket: ЭТО САМОЕ
+[06:06:23] Шайтан: что?
+[06:06:26] Redoket: ПОЛЕТЕЛИ НАВЕРНОЕ
+[06:06:43] Redoket: ТЫ СЕЛ?
+[06:06:47] Шайтан: дад
+[06:07:08] Шайтан: мда
+[06:07:11] Redoket: БЛИН
+[06:07:13] Redoket: НУ ЛАДНО
+[06:07:25] Redoket: ВОТ 
+[06:07:27] Redoket: ВСЁ
+[06:07:33] Шайтан: ЕБАААть
+[06:07:46] Шайтан: кста знаешь как заработать дохуя бабла?
+[06:07:50] Redoket: КЕРАМИКИ СТОЛЬКО ЧТО ХОТЬ ЖОПОЙ ЖУЙ
+[06:07:53] Client "ANTI" connected.
+[06:07:55] Redoket: ВСМПЫ
+[06:07:58] Redoket: ВСМЫ
+[06:08:03] Шайтан: ну тупо из ничего
+[06:08:05] Redoket: ОНО И ТАК ЕСТЬ
+[06:08:08] Redoket: ВРОДЕ
+[06:08:13] Шайтан: ну у меня показывает 0
+[06:08:24] Redoket: ЩА
+[06:08:31] Шайтан: можно построить башенку из них
+[06:08:33] Redoket: А ТЕПЕРЬ
+[06:08:35] Шайтан: О
+[06:08:40] Шайтан: НИХУЦЩФАЗЭЦ
+[06:08:45] Redoket: ВОТ ТАК
+[06:09:06] Redoket: ЭТО ХВАТИТ
+[06:09:14] Redoket: ПОШЛИ ЕЩЁ ЗОЛОТА ИСКАТЬ
+[06:09:24] Шайтан: зачем?
+[06:09:28] Redoket: ДЕНЬГИ
+[06:09:33] F4V3ns: *На аборигенском* Привет
+[06:09:33] Redoket: БОЛЬШЕ ДЕНЕГ
+[06:09:41] Шайтан: дак можно химикаты просто делать 
+[06:09:45] F4V3ns: *На аборигенском* Я не понимаю твой язык
+[06:09:47] Redoket: ДА НАСРАТЬ
+[06:09:50] Redoket: ОООООООО
+[06:09:51] (TEAM) Redoket: ГОЛДА
+[06:09:57] Шайтан: бля
+[06:10:01] Шайтан: я денсю
+[06:10:07] Шайтан: всеэ
+[06:10:11] Redoket: ЕМА
+[06:10:16] Redoket: И СЕРЕБРО ТАМ ЖЕ
+[06:10:17] Шайтан: кста
+[06:10:25] Шайтан: приколдес хочешь7
+[06:10:27] F4V3ns: *На аборигенском* Я не понимаю о чём ты говоришь
+[06:10:33] Redoket: FCM'
+[06:10:36] Redoket: АСЬ
+[06:10:42] Шайтан: ну музыку хочешь?
+[06:10:46] Redoket: НУ
+[06:10:52] Redoket: О
+[06:10:56] Redoket: ТО ЧТО НАДО
+[06:11:22] SMOOKIE: *На аборигенском* уйди пожалуйста
+[06:11:32] F4V3ns: *На аборигенском*Откуда ты знаешь мой язык?
+[06:11:42] SMOOKIE: *На аборигенском* это не важно
+[06:11:43] Шайтан: ожет бар зделать?
+[06:11:44] Redoket: ВОТ И ОНО
+[06:11:48] Redoket: ДАВАЙ
+[06:11:51] Redoket: КЕРАМИКА ЕСТЬ
+[06:11:56] Redoket: ТАК ЧТО МОЖЕШЬ
+[06:11:57] SMOOKIE: *На аборигенском* я сейчас подключу турель
+[06:12:04] SMOOKIE: *На аборигенском* она может убить тебя
+[06:12:06] F4V3ns: *На аборигенском*Что такое турель?
+[06:12:20] SMOOKIE: *На аборигенском* стреляющая машина
+[06:12:21] Redoket: ГОВНО
+[06:12:23] Шайтан: ебля
+[06:12:40] F4V3ns: *На аборигенском* Что такое стрелять и машина?
+[06:12:51] SMOOKIE: *На аборигенском* ладно, это не важно
+[06:13:06] SMOOKIE: *На аборигенском* просто уйди с моей территории
+[06:13:13] Redoket: УРАЭ
+[06:13:22] SMOOKIE: *На аборигенском* я не люблю когда тут кто-то ходит
+[06:13:30] F4V3ns: *На аборигенском* А что это за все вещи у тебя на территории?
+[06:13:41] SMOOKIE: *На аборигенском* ты не поймешь
+[06:14:00] SMOOKIE: *На аборигенском* это очень нужные для меня вещи
+[06:14:06] F4V3ns: *На аборигенском* Понятно
+[06:15:01] Vasilisk_Ð killed F4V3ns using tfa_doimp40
+[06:15:46] Redoket: ЧЁ ТАК СЕРВЕРУ ПЛОХО
+[06:15:52] Шайтан: незнаю?
+[06:15:56] Redoket: ГОВНО 
+[06:15:58] Redoket: ЩАС ЧЕКНУ
+[06:16:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eznutrients
+[06:16:23] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:16:49] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:19:00] Redoket: !MENU
+[06:19:11] Redoket cloaked Themself by amount 0
+[06:19:22] Redoket teleported to Soldier_S.C.A.F
+[06:20:17] Kronos#melonrust suicided!
+[06:21:24] Client "sree" connected.
+[06:22:57] Redoket<STEAM_0:1:545449619> spawned sent ent_rus_spawnbase
+[06:23:39] Redoket: ВЫ НЕ ЗНАЕТЕ ПОЧЕМУ ТАК ЛАГАЕТ?
+[06:24:01] Redoket: Я  ТУТ
+[06:24:11] Redoket: ПРОСТО В ИНВИЗЕ
+[06:24:13] Soldier_S.C.A.F: не стреляйте!
+[06:24:45] Soldier_S.C.A.F: послушай!
+[06:24:53] Soldier_S.C.A.F: у меня есть информация!
+[06:25:23] Soldier_S.C.A.F: здесь армия каких-то дроидов
+[06:25:31] Soldier_S.C.A.F: я видел ЦЕЛОЕ СУДНО
+[06:25:48] Soldier_S.C.A.F: их не одолеть обычным оружием
+[06:25:55] Soldier_S.C.A.F: сам не знаю зачем они тут
+[06:25:58] SMOOKIE was killed by ent_rus_jsmod_pipe
+[06:26:12] Soldier_S.C.A.F: но по эфиру блокаду объявили!
+[06:26:17] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:26:18] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:26:19] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:26:48] Soldier_S.C.A.F: там не просто эти железяки!
+[06:27:01] Soldier_S.C.A.F: у них своя бронетехника
+[06:27:03] Client "vasiliy karat" connected.
+[06:27:17] Soldier_S.C.A.F: наша же здесь обсолютно БЕЗПОЛЕЗНО
+[06:27:37] Redoket: ДЕАМ
+[06:27:39] Redoket: РИЛ БАР
+[06:27:47] Soldier_S.C.A.F: аа... мне что-то плохо *пена со арта*
+[06:27:49] Redoket: ГЫГ
+[06:28:03] Redoket: Я ТЕБЕ ПРОПЫ НЕМНОГО НАСПАВНЮ
+[06:28:06] Redoket: ДЛЯ СТОИТЕЛЬСТВА
+[06:28:15] Redoket: БЛЯ
+[06:28:21] Шайтан: заспавнь стулья
+[06:28:22] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 79 seconds).
+[06:28:31] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_wood01.mdl
+[06:28:32] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_wood01.mdl
+[06:28:35] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_wood01.mdl
+[06:28:36] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_wood01.mdl
+[06:28:37] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_wood01.mdl
+[06:28:37] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_wood01.mdl
+[06:28:38] Client "sree" spawned in server <STEAM_0:1:595228601> (took 434 seconds).
+[06:28:39] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_wood01.mdl
+[06:28:41] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_wood01.mdl
+[06:28:45] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/furnituretable003a.mdl
+[06:28:47] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/furnituretable002a.mdl
+[06:28:50] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/furnituretable001a.mdl
+[06:28:53] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/furnituretable001a.mdl
+[06:28:54] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/furnituretable001a.mdl
+[06:28:57] Матье Балл was killed by ent_rus_jsmod_pipe
+[06:29:04] Шайтан: БЛЯ ЛАГАЕТ
+[06:29:19] Soldier_S.C.A.F was killed by entityflame
+[06:29:24] Redoket: ПРИВЕТ ВАС
+[06:29:27] Dropped "sree" from server<STEAM_0:1:595228601>
+[06:29:27] sree suicided!
+[06:29:31] Redoket: Я В НЕБЕ
+[06:29:49] Redoket: !MENU
+[06:29:57] Redoket uncloaked Themself
+[06:30:05] Redoket: ВОТ
+[06:30:31] vasiliy karat: !menu
+[06:30:38] vasiliy karat cloaked Themself by amount 0
+[06:30:38] Soldier_S.C.A.F to admins: ля как логает уже
+[06:31:12] Redoket killed SMOOKIE using player
+[06:31:51] vasiliy karat to admins: ЭТО ЧЕЙ БАР Я БЫ ПОУДАЛЯЛ ТУТ БАТАРЕИ У СОЛНЕЧНЫХ ПАНЕЛЕЙ
+[06:32:06] Redoket: АЛЕ
+[06:32:09] Redoket: КТО ЭТО
+[06:32:16] Шайтан: я не ебу?
+[06:32:19] Soldier_S.C.A.F: да фиг уже
+[06:32:19] Redoket: ОПЯТЬ?
+[06:32:22] Redoket: А
+[06:32:25] Redoket: ЯСНО
+[06:32:36] Redoket: ЯЯ ПОНЯЛ
+[06:33:35] Soldier_S.C.A.F to admins: к слову у тебя тупо турели не вкачены
+[06:33:43] Шайтан: заспвнь еще стульчик
+[06:33:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate
+[06:33:57] Redoket: ВАТАФАК
+[06:34:05] Шайтан: это кто?
+[06:34:08] Шайтан: XD
+[06:34:09] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_wood01.mdl
+[06:34:17] Шайтан: заспавнь стульчик пожяжя
+[06:34:45] Redoket: !GOTO ВАСИ
+[06:34:52] vasiliy karat to admins: ВО И ПРАВДА СТАЛО ЛУЧШЕ
+[06:34:52] Redoket: !MNEU
+[06:35:00] Redoket: !MENU
+[06:35:17] Redoket to admins: НУ ТОГДА ВС
+[06:35:36] Redoket to admins: ТУТ ТАКОЙ ЭПИК БЫЛ
+[06:37:08] Soldier_S.C.A.F was killed by ent_jack_gmod_ezpowerbank
+[06:37:43] Redoket: ДЕАМ
+[06:37:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate_uni
+[06:38:20] Матье Балл: я хз
+[06:38:21] Шайтан: кста у тебя скок часов в игре?
+[06:38:28] Шайтан: бля
+[06:38:30] Матье Балл: и плюс я болею трупным вирусом
+[06:38:35] Шайтан: XD
+[06:38:56] vasiliy karat to admins: 6 ФРАКЦИЙ
+[06:39:04] Soldier_S.C.A.F: дароу
+[06:39:22] Soldier_S.C.A.F: хоч прикол
+[06:39:29] klinskoe za 200 killed Soldier_S.C.A.F using tfa_doi_m16a1
+[06:39:37] Шайтан: ой
+[06:41:06] F4V3ns: !motd
+[06:41:39] Шайтан: у меня стол сломался
+[06:41:57] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/furnituretable002a.mdl
+[06:42:18] vasiliy karat: !mENU
+[06:42:39] Soldier_S.C.A.F to admins: какой ещё в жопу барон когда его уже нету
+[06:43:00] Шайтан: ты вернул силу вигзана?
+[06:43:08] vasiliy karat to admins: КОМУ ОН ПИШЕТ?
+[06:43:10] Redoket: ВСМ
+[06:43:20] Redoket: ЭТО НЕ Я ЕЁ НАСТРАИВАЮ
+[06:43:26] Шайтан: капец
+[06:44:09] Матье Балл killed Kronos#melonrust using player
+[06:44:29] Шайтан: ТУТ ЧЕл
+[06:44:59] Soldier_S.C.A.F: чо у вас
+[06:45:29] Dropped "Матье Балл" from server<STEAM_0:0:569947714>
+[06:45:29] Матье Балл suicided!
+[06:45:30] Client "Матье Балл" connected.
+[06:45:54] Soldier_S.C.A.F: ты трубы не так подсоеденил
+[06:45:58] Client "Матье Балл" spawned in server <STEAM_0:0:569947714> (took 28 seconds).
+[06:46:06] Soldier_S.C.A.F: надо с бура до контейнера
+[06:46:12] Soldier_S.C.A.F: а не наоборот
+[06:47:11] Soldier_S.C.A.F: с бура начинать подсоединять
+[06:47:21] SMOOKIE: понял
+[06:49:47] Redoket: Я ЩАС
+[06:49:52] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:49:52] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:49:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[06:49:53] Шайтан: стой
+[06:49:58] Шайтан: а лампа бесконечна?
+[06:50:08] Redoket: ВРОДЕ ДА
+[06:50:10] Шайтан: и кста
+[06:50:11] Redoket: ДА
+[06:50:15] Шайтан: че за еррорка?
+[06:50:22] Redoket: ДА ТАМ ГОВНО ОДНО
+[06:50:31] Redoket: НИЧЕ СТРАШНГОГО
+[06:51:31] Redoket: ЧЗХ
+[06:53:10] Soldier_S.C.A.F to admins: рофол а зачем было травит эту базу если у меня итак новоя есть
+[06:53:20] Redoket: ПРИКОЛ
+[06:53:24] Шайтан: да?
+[06:53:27] vasiliy karat to admins: КОМУ ОН ПИШЕТ
+[06:53:28] Redoket: ДА
+[06:53:29] Шайтан: да
+[06:53:35] Шайтан: это кубики льда
+[06:53:36] Redoket: ЭТО ПРИКОЛ
+[06:53:40] Redoket: ГГЫГГГЫГГЫЭ
+[06:53:47] Redoket: ЗАБАВНО
+[06:53:59] Redoket: БЛИН
+[06:54:02] Redoket: МНЕ НРАВИТСЯ
+[06:54:05] Redoket: ПРИКОЛЬ
+[06:54:10] Redoket: А ЭТО НЕТ
+[06:54:14] Redoket: НЕ НАДО
+[06:54:32] Kronos#melonrust: ДА
+[06:54:41] Redoket: КРУТО
+[06:54:52] Redoket: А ЧТО НА ВТОРОМ ЭТАЖЕ БУДЕТ?
+[06:54:54] Шайтан: нука встань туда без прони я заскриню
+[06:55:02] Шайтан: там будет типо 
+[06:55:04] Redoket: А Я НЕ МОГУ
+[06:55:09] Redoket: ЩАС
+[06:55:25] Шайтан: пизда
+[06:55:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_cratepack
+[06:55:30] Шайтан: все в еррорах
+[06:55:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_cratepack
+[06:55:35] Redoket: ХЗ
+[06:55:38] Redoket: ГОВНО 
+[06:55:40] Redoket: КАКОЕ ТО
+[06:55:44] Шайтан: ЛАдНО
+[06:55:48] Шайтан: ДАВАЙ ВСТАВАЙ
+[06:55:58] Redoket: Ы
+[06:56:16] Шайтан: все
+[06:56:22] Redoket: ОК
+[06:56:39] Redoket: ТАК ЧТО НА ВТОРОМ ЭТАЖЕ ТО ДА
+[06:56:50] Шайтан: на 2 этаже будет место для ночевки
+[06:56:55] Redoket: ГЫГ
+[06:56:57] Redoket: ОКЕЙ
+[06:58:31] Шайтан: БЛЯЯЯЯЯЯ
+[06:58:38] Шайтан: А КАК ДВЕРИ УБРАТЬ?
+[06:59:19] Шайтан: крч
+[06:59:22] Шайтан: я спатки
+[06:59:28] Dropped "Шайтан" from server<STEAM_0:1:932814392>
+[06:59:28] Шайтан suicided!
+[07:02:36] Client "ICE_LORD666" connected.
+[07:04:14] vasiliy karat<STEAM_0:0:814052183> spawned ragdoll models/gman_high.mdl
+[07:04:18] vasiliy karat<STEAM_0:0:814052183> spawned ragdoll models/gman_high.mdl
+[07:04:31] vasiliy karat<STEAM_0:0:814052183> spawned ragdoll models/gman_high.mdl
+[07:04:39] vasiliy karat<STEAM_0:0:814052183> spawned ragdoll models/gman_high.mdl
+[07:05:02] Redoket: втф
+[07:05:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[07:05:35] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_rebel
+[07:05:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[07:06:39] Redoket: НИГА
+[07:08:37] Soldier_S.C.A.F was killed by ent_jack_gmod_ezsentry
+[07:08:58] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_rebel
+[07:08:59] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[07:08:59] Soldier_S.C.A.F suicided!
+[07:10:45] Redoket: привет карат
+[07:11:22] Client "Jr_byba" connected.
+[07:12:28] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[07:12:28] klinskoe za 200 suicided!
+[07:12:55] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:12:55] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:12:55] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:13:28] Dropped "Матье Балл" from server<STEAM_0:0:569947714>
+[07:13:28] Матье Балл suicided!
+[07:13:31] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:14:17] Redoket<STEAM_0:1:545449619> spawned sent ent_fumo_gmod_cratepack
+[07:14:23] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsteel
+[07:14:32] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:14:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[07:14:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[07:15:32] vasiliy karat: !menu
+[07:15:37] vasiliy karat uncloaked Themself
+[07:15:46] vasiliy karat: ДАДИМ ОТПОР ВСЕМ
+[07:15:52] vasiliy karat: БОГИ С НАМИ
+[07:16:09] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:16:09] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:16:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[07:17:08] Client "Rendy" connected.
+[07:17:50] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:17:57] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:17:58] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:22:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[07:24:43] SMOOKIE was killed by ent_jack_gmod_ezsentry
+[07:26:05] vasiliy karat: ЭТОТ БАГ
+[07:26:09] vasiliy karat: ПОЯВИЛСЯ СЕГОДНЯ
+[07:26:12] vasiliy karat: ИЗ НЕОТКУДА
+[07:26:26] vasiliy karat: БРОНЯ
+[07:26:39] vasiliy karat: БОГИ ПОДОГНАЛИ РОГ ИЗОБИЛИЯ
+[07:28:02] Client "Rendy" connected.
+[07:28:15] F4V3ns killed Vasilisk_Ð using tfa_doik98_scop
+[07:28:19] Client "RusLanConnection" connected.
+[07:28:27] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[07:29:01] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 1059 seconds).
+[07:29:55] Redoket killed F4V3ns using tfa_at_akm_eft
+[07:30:04] Redoket killed F4V3ns using tfa_at_akm_eft
+[07:30:16] F4V3ns killed vasiliy karat using tfa_doim1garand
+[07:30:25] F4V3ns killed Redoket using tfa_doim1garand
+[07:30:28] Client "Rendy" spawned in server <STEAM_0:0:209884120> (took 146 seconds).
+[07:30:55] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 156 seconds).
+[07:31:05] vasiliy karat killed Vasilisk_Ð using tfa_doim1garand
+[07:31:27] vasiliy karat: Я ЕГО Т АМ УБИЛ
+[07:31:45] Client "shock23" connected.
+[07:31:58] vasiliy karat killed Vasilisk_Ð using ent_bazooka_shell_v2
+[07:31:59] Rendy: !motd
+[07:32:34] Vasilisk_Ð killed Vasilisk_Ð
+[07:33:08] vasiliy karat: НУЖНО СПРОСИТЬ У КРАСНЫХ ОТРЯДОВ
+[07:33:09] Rendy: !motd
+[07:33:10] vasiliy karat: ЧТО ИМ УЖЕ
+[07:33:14] Jr_byba: ку
+[07:33:15] vasiliy karat: НЕ ОБЯЗАТЕЛЬНО ВЕСТИ ЭТУ ВОЙНУ
+[07:33:17] Redoket: А ПЕРЕД НАМИ
+[07:33:31] Client "shock23" spawned in server <STEAM_0:1:546115941> (took 106 seconds).
+[07:33:37] vasiliy karat: СНАРЯДЫ
+[07:33:37] Dropped "Kronos#melonrust" from server<STEAM_0:0:554093478>
+[07:33:37] Kronos#melonrust suicided!
+[07:33:49] RusLanConnection cloaked Themself by amount 0
+[07:33:53] vasiliy karat killed Redoket
+[07:34:08] Jr_byba: ку
+[07:34:13] shock23: привет жеребец
+[07:34:18] Jr_byba: чо
+[07:34:19] vasiliy karat: 100 МЫ ТОЛЬКО ЧТО ПОБЕДИЛИ
+[07:34:20] Client "Xtrion" connected.
+[07:34:21] shock23: нет
+[07:34:29] shock23: я не новенький
+[07:34:43] Jr_byba: можнр в тиму
+[07:34:45] shock23: тебе помочь развится?
+[07:34:49] vasiliy karat: РЕДОКЕТ ВПРЯГСЯ
+[07:34:54] vasiliy karat: ЗА АЛЬЯНС
+[07:35:06] shock23: попробуй присоединится к какой нибудь группе при помощи ф4
+[07:35:18] vasiliy karat: ПАДАЛИ ВРОДЕ
+[07:35:22] vasiliy karat: ПОТИХОНЬКУ
+[07:35:24] shock23: ну ладно
+[07:35:25] Client "Xtrion" spawned in server <STEAM_0:1:201866151> (took 65 seconds).
+[07:35:34] shock23: тогда смотри
+[07:35:37] Redoket killed vasiliy karat using tfa_doimg42
+[07:35:38] shock23: нам нужен тулбокс
+[07:35:43] Jr_byba: из за газа не работает
+[07:35:46] Redoket killed F4V3ns using tfa_doimg42
+[07:35:55] Vasilisk_Ð killed Redoket using tfa_smc_ppsh_drum
+[07:35:58] vasiliy karat: ЗАБЫЛ СПАВН НАЗВАТЬ
+[07:36:03] shock23: ЭТО ЧЕ ДЖОНЫ
+[07:36:03] vasiliy karat: ДА ОН ДУРАК
+[07:36:08] shock23: ДЖОН ФОРСАКЕНД
+[07:36:14] shock23: ЭЙ ДЖОН ФОРСАКЕНД
+[07:36:23] shock23: ДЖОН ФОРСАКЕНД
+[07:36:38] shock23: чертовы войны
+[07:36:45] Jr_byba: во
+[07:36:46] Redoket: какого ХЕРА
+[07:36:48] Jr_byba: да
+[07:36:53] Redoket: ТЫ С КАКОЙ ФРАКЦИИ
+[07:37:03] Redoket: ТЫ БЛЯ
+[07:37:06] shock23: да
+[07:37:08] Redoket: НУ ЛАДНО
+[07:37:49] RusLanConnection teleported to Xtrion
+[07:37:50] vasiliy karat to admins: УПАЛО ДО 99
+[07:37:50] RusLanConnection teleported to Rendy
+[07:37:51] Redoket: ТАМ ЕЩЁ И ГОВНО
+[07:37:59] RusLanConnection teleported to vasiliy karat
+[07:38:04] vasiliy karat: РУСЛАН
+[07:38:04] Redoket: У МЕНЯ ФРАКЦИЯ АБОРИГЕНАМ ИЗЗА БАГА ПРАГРЫВАЕТ
+[07:38:08] vasiliy karat: ВОТ СКАЖИ ЗА ЧТО ВОЮЕТ РЕДОКЕТ
+[07:38:11] Redoket: Я НЕ МОГУ
+[07:38:12] Jr_byba: не как
+[07:38:18] Redoket: ОНИ ПЕРЕД ТОБОЙ ЗДАЛИСЬ
+[07:38:23] Redoket: А ПЕРЕДО МНОЙ НЕТ
+[07:38:25] shock23: смотри сколько халявы
+[07:38:29] (TEAM) Redoket: И У НИХ ОЧКОВ БОЛЬШЕ
+[07:38:34] Redoket: А У МЕНЯ МЕНЬШЕ
+[07:38:40] Redoket: Я ЗНАЮ
+[07:38:43] vasiliy karat: ЗНАЕШЬ
+[07:38:43] Redoket: ЭТО ГОВНО
+[07:38:43] shock23: чтобы построить дом
+[07:38:46] vasiliy karat: МЫ МОЖЕМ
+[07:38:48] shock23: тебе надо создать группу
+[07:38:48] vasiliy karat: ПРЯТАТЬСЯ
+[07:38:51] vasiliy karat: И ПОБЕДИТЬ ЕГО
+[07:38:53] vasiliy karat: ИЗМОРОМ
+[07:39:02] vasiliy karat: ПРЕДЛАГАЮ УЙТИ В ПОДПОЛЬЩЕ
+[07:39:02] shock23: Ого
+[07:39:04] Redoket: НАСРАТЬ
+[07:39:07] vasiliy karat: ПУСТЬ ОН СДАСЦА
+[07:39:10] Redoket: ВСЁ РОВНО АБОРИГЕНЫ
+[07:39:15] Redoket: ТВАРИ
+[07:39:15] vasiliy karat: Я ПОНЯЛ
+[07:39:16] shock23: я тоже 
+[07:39:18] Redoket: ЩАС
+[07:39:21] RusLanConnection teleported to Redoket
+[07:39:23] Redoket: ПОСМОТРИМ
+[07:39:24] shock23: а как выкинтуь то
+[07:39:28] Redoket: ЗА ГОВНО
+[07:39:31] Redoket: У НАС ЭТО
+[07:39:32] Jr_byba: ку
+[07:39:35] shock23: ну ладно
+[07:39:37] vasiliy karat: БОГИ
+[07:39:39] vasiliy karat: СПАСИБО
+[07:39:40] shock23: ага
+[07:39:41] Redoket: ОНИ ПЕРЕД ТЕМИ СДАЛИСЬ
+[07:39:45] Redoket: А ПЕРЕД НАМИ НЕТ
+[07:39:51] Jr_byba: да
+[07:39:51] Redoket: И ТЕПЕРЬ У МЕНЯ ОЧКИ В ЖОПЕ
+[07:40:01] Redoket: А У НИХ 100
+[07:40:06] Redoket: Я ГОВНО ХОЧУ
+[07:40:06] shock23: эй стой
+[07:40:11] Redoket: А НЕЛЬЗЯ
+[07:40:13] shock23: тебе оно понадобится
+[07:40:23] vasiliy karat: НАДЮПАЙ
+[07:40:24] vasiliy karat: МНЕ
+[07:40:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezaidradio
+[07:40:33] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[07:40:35] shock23: вот
+[07:40:38] Jr_byba: помогите
+[07:40:44] shock23: да
+[07:40:45] shock23: порох
+[07:40:48] vasiliy karat: ЧТО СТРЯСЛОСЬ БУБА
+[07:40:52] Jr_byba: пошлити
+[07:41:14] vasiliy karat: ВЗЯЛ НЕМНОГО
+[07:41:15] shock23: я тоже побежал
+[07:41:15] vasiliy karat: ЗАРЯДОВ
+[07:41:21] Jr_byba: ку
+[07:41:27] shock23: он диктатор
+[07:41:37] Redoket: ОН ПОШЁЛ
+[07:41:43] Redoket: ОТНОСИЛ ТАМ
+[07:41:48] Rendy: // хватит быть гитлером
+[07:41:50] Redoket: НЕА
+[07:41:52] Redoket: ГОВНО
+[07:41:56] shock23: нужно радио
+[07:41:59] shock23: и 100 баксов
+[07:42:08] shock23: ну все я побежал
+[07:42:10] Client "DeNoZaVR⁴²" connected.
+[07:42:19] (csay from RusLanConnection) щас починю проблему с броней
+[07:42:38] vasiliy karat: НЕНУЖНО
+[07:42:44] SMOOKIE: помогитн
+[07:42:46] shock23: джоны
+[07:43:07] F4V3ns killed Vasilisk_Ð using tfa_doispringfield
+[07:43:10] vasiliy karat: КТО ЭТО
+[07:43:10] shock23: тебе нужен ящик помоему
+[07:43:20] shock23: который для ресурсов
+[07:43:28] shock23: про деревянный
+[07:43:36] shock23: помоему да
+[07:43:36] vasiliy karat: ИМЕЕМ ПРАВО
+[07:43:46] vasiliy karat: ЗАБРАЛИ ЧТО БЫЛО ОТНЯТО
+[07:43:57] vasiliy karat: ХОТЬ И В ДРУГОМ ЭКВИВАЛЕНТЕ 
+[07:44:04] Client "DeNoZaVR⁴²" spawned in server <STEAM_0:1:600266006> (took 114 seconds).
+[07:44:11] Redoket: ПРИВЭ
+[07:44:13] Redoket: ЭТО Я
+[07:44:19] Redoket: ЧО ЗА ВЗРЫВЫ ТУТ
+[07:44:21] vasiliy karat: ХОЧУ С ТЫЛА ЗАЙТИ
+[07:44:23] Redoket: АСЬ
+[07:44:25] Redoket: ЧТО ТАМ
+[07:44:46] Redoket: ЩА
+[07:44:51] vasiliy karat: ЭТО ПРАВДА
+[07:44:53] vasiliy karat: ЩАС
+[07:45:09] vasiliy karat to admins: МИНУТА ПРОШЛА ХП ВСЕ ЕЩЕ 99
+[07:45:15] Redoket: ПОДКЛЮЧИ
+[07:45:18] Redoket: ОБРАТНО
+[07:45:25] Redoket: ЭТО
+[07:45:30] Redoket: АЛЬТ Е
+[07:45:32] Redoket: ДАВАЙ
+[07:45:38] Redoket<STEAM_0:1:545449619> spawned sent ent_rus_jsmod_pipe
+[07:45:44] Redoket<STEAM_0:1:545449619> spawned sent ent_rus_jsmod_pipe
+[07:45:47] Redoket: ДАВАЙ
+[07:45:54] Redoket: ЧЗХ
+[07:45:56] Redoket: Я МОГУ
+[07:46:00] Redoket: ГОВНО КАКОЕ ТО
+[07:46:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[07:46:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_backpack
+[07:46:25] Redoket: ВСЁ
+[07:46:28] Redoket: ЗАКОНЧИЛОС
+[07:46:31] vasiliy karat: СНОСИМ И УБЕГАЕМ
+[07:46:34] Redoket: ПОПРОБУЙ ХЗ
+[07:46:46] Redoket: К ОБЩЕЙ ЦЕПИ
+[07:46:49] Redoket: НЕЕЕЕЕЕТ
+[07:46:54] vasiliy karat: СТОЙТЕ
+[07:46:56] Redoket: ДА
+[07:46:58] Redoket: И ВСЁ
+[07:47:08] vasiliy karat: ТАМ ЕЩЕ ТУРЕЛИ
+[07:47:10] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:47:10] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:47:10] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:47:11] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:47:12] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:47:56] Dropped "Vasilisk_Ð" from server<STEAM_0:1:452030622>
+[07:47:56] Vasilisk_Ð suicided!
+[07:48:07] vasiliy karat: БРБППБПБРБ
+[07:48:08] Dropped "Rendy" from server<STEAM_0:0:209884120>
+[07:48:08] Rendy suicided!
+[07:48:25] vasiliy karat: ДРДРДОРДРДР
+[07:48:43] Redoket: КРОМЕ АБОРИГЕНВ
+[07:48:47] Redoket: ПАГАДИ
+[07:49:01] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_rebel
+[07:49:02] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_rebel
+[07:49:07] vasiliy karat: В ОТЛИЧИЕ ОТ НИХ
+[07:49:09] vasiliy karat: У НАС НИЧЕГО НЕТУ
+[07:49:22] vasiliy karat: УХОДИМ
+[07:49:51] Redoket killed F4V3ns using tfa_doimg42
+[07:49:57] Redoket killed vasiliy karat using tfa_doimg42
+[07:50:09] vasiliy karat: БЕДА
+[07:50:31] Jr_byba: а я
+[07:51:01] Jr_byba: и у меня
+[07:51:30] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[07:52:28] RusLanConnection teleported to Redoket
+[07:52:37] Redoket: О
+[07:52:46] Dropped "DeNoZaVR⁴²" from server<STEAM_0:1:600266006>
+[07:52:46] DeNoZaVR⁴² suicided!
+[07:52:49] Redoket: А ЧЁ МНЕ С АБОРИГЕНАМИ ДЕЛАТЬ
+[07:52:58] Redoket: КРУТО
+[07:52:59] vasiliy karat: ВСЕГДА ЕСТЬ
+[07:53:01] vasiliy karat: СМЫСЛ
+[07:53:01] Redoket: А КАК
+[07:53:03] Redoket: ТУТ
+[07:53:09] Redoket: ДА
+[07:53:16] Redoket: Я ГОВНО
+[07:53:31] Redoket: СЛУЧАЙНО
+[07:53:31] vasiliy karat: У НАС ДЕНЬГИ ЕСТЬ
+[07:53:35] Redoket: СОРЯН
+[07:53:39] vasiliy karat: supply radio: medium tank
+[07:53:42] shock23: я заболел
+[07:53:54] Redoket: ТАМ ЕЩЁ ТРУПЫ ПО НЕСКОЛЬКО РАЗ ЛУТАЛИСЬ
+[07:53:57] Jr_byba: ку
+[07:53:59] Redoket: ХЗ ПОФИКСИЛОСЬ ЛИ
+[07:54:11] Redoket: ГОВНО ТОГДА
+[07:54:17] vasiliy karat: ПОТРАТИЛИСЬ ПО ОДНОЙ ШТУЧКЕ КОГДА ОН НАС ЗАЛУТАЛ
+[07:54:26] Redoket: ЩАЪ
+[07:54:31] Redoket: ТЫ КТО
+[07:54:41] Redoket: АЛУ
+[07:54:45] Redoket: МЕНЭ
+[07:54:46] Jr_byba: ку
+[07:54:49] Redoket: НИГА
+[07:54:56] Redoket: УЙДИ ПОЖАЛУЙСТА
+[07:54:58] Redoket: ТУТ ВОЙНА
+[07:55:03] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[07:55:03] Jr_byba suicided!
+[07:55:03] Redoket: ИЛИ ТЫ МОЖЕШЬ КО МНЕ
+[07:55:06] Redoket: БЛЧ
+[07:55:10] Redoket: НУ НЕ ТАК ЖЕ
+[07:55:25] Redoket: Я ИХ НАЙДУ
+[07:55:56] shock23: АЛЕ
+[07:56:10] shock23: это че
+[07:58:01] vasiliy karat: ОН НАС СПАЛИЛИ
+[07:58:05] vasiliy karat: НАДО БУДЕТ ЗАЩИЩАТЬ
+[07:58:08] Client "бугагашенька" connected.
+[07:58:13] vasiliy karat: СЛИШКОМ КРУТОЕ МЕСТО
+[07:58:33] shock23: это халява
+[07:58:43] Client "Rendy" connected.
+[07:58:47] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 39 seconds).
+[07:58:48] vasiliy karat: ЩАС
+[07:58:52] vasiliy karat: ЗАСАДУ СДЕЛАЕМ
+[07:59:14] Client "Rendy" spawned in server <STEAM_0:0:209884120> (took 31 seconds).
+[07:59:20] shock23: над вами е ще много ресурсов
+[07:59:33] Redoket was killed by lvs_wheeldrive_dodsherman
+[07:59:50] vasiliy karat: Я ЕГО СЛОМАЛ 
+[08:00:07] shock23: это редокета
+[08:00:07] vasiliy karat: ТАНК
+[08:00:10] vasiliy karat: МЕДИУМ
+[08:00:15] shock23: там везде трупы и много ресурсов
+[08:00:22] shock23: никто не ругает за воровство
+[08:00:23] vasiliy karat: ТЫ ЗА ТАНК Я С БАЗУКОЙ
+[08:01:08] shock23: ладно ребята я пойду
+[08:01:26] Dropped "shock23" from server<STEAM_0:1:546115941>
+[08:01:26] shock23 suicided!
+[08:02:02] Redoket killed vasiliy karat using lvs_wheeldrive_dodsherman
+[08:02:02] vasiliy karat killed Redoket
+[08:02:41] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[08:03:03] vasiliy karat: ПОДОБРАЛ
+[08:03:21] vasiliy karat: СКОЛЬКО У ТЕБЯ ТАМ
+[08:03:27] vasiliy karat: ЗАРЯДИ
+[08:03:42] vasiliy karat: НАДА ЕХАТЬ
+[08:03:46] vasiliy karat: ДА
+[08:04:08] (csay from RusLanConnection) крутая танковая дуель была
+[08:04:31] vasiliy karat: СБЛК
+[08:04:33] F4V3ns killed Redoket using lvs_wheeldrive_dodsherman
+[08:04:40] vasiliy karat: ОТКРОЙ
+[08:04:55] vasiliy karat: ТЕХНИКА
+[08:05:03] vasiliy karat: ДЖИП
+[08:05:07] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezincendiarybomb
+[08:05:14] vasiliy karat: ПОЕХАЛИ
+[08:05:32] vasiliy karat: К ВАСИЛИЮ ДУМАЮ
+[08:05:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[08:05:48] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezatmine
+[08:06:32] vasiliy karat: ОТКРОЛЙ
+[08:06:34] vasiliy karat: ОТКРОЙ
+[08:06:35] vasiliy karat: О
+[08:06:36] Redoket killed vasiliy karat using lvs_wheeldrive_dodwillyjeep
+[08:06:36] Redoket killed Redoket
+[08:06:36] Redoket killed F4V3ns
+[08:06:38] Xtrion was killed by ent_jack_gmod_ezfirehazard
+[08:06:52] vasiliy karat: ОН НА МАШИНЕ ЕХАЛ
+[08:06:53] Redoket: ВТФ
+[08:06:56] Redoket: ЧЕЛОВЕК
+[08:06:58] Redoket: АЛЕ
+[08:07:00] vasiliy karat: НУЖНО
+[08:07:02] Redoket: ХОЧЕ
+[08:07:03] vasiliy karat: НУЖНО СКАЗАТЬ
+[08:07:03] vasiliy karat: ЧТО
+[08:07:04] Redoket: ЛАДНО
+[08:07:06] vasiliy karat: ОНИ
+[08:07:18] Redoket: ДА ПОМИЛУЕТ ТЕБЯ ВСЕВЫШНИЙ
+[08:07:20] Redoket killed Xtrion using tfa_at_akm_eft
+[08:08:42] Redoket: ЧЗХ
+[08:08:47] Redoket: МОЖЕТЕ ПОМОЧЬ
+[08:08:49] Redoket: С ВОЙНОЙ
+[08:08:53] Redoket: ЫМ НЕ СПРАВЛЯЕМСЯ
+[08:08:57] Redoket: ТОЧНЕЕЯ
+[08:09:01] Redoket: МНЕ ЛЮДИ
+[08:09:06] Redoket: ЛЮДИ МНЕ НУЖНЫ
+[08:09:10] Redoket: ДА
+[08:09:17] Redoket: Я ОДИН НЕ МОГУ ВЫВОЗИТЬ
+[08:09:19] Redoket: НАСРАТЬ
+[08:09:22] Redoket: Я ТОЖЕ МНОГО
+[08:09:28] Redoket: ВЕСЬ ДЕНЬ
+[08:09:33] Redoket: НАМ НУЖНО НА ВОЙНАП
+[08:09:46] vasiliy karat: НЕТУ
+[08:09:47] vasiliy karat: ГАНА
+[08:09:59] vasiliy karat killed Redoket using tfa_doispringfield
+[08:10:01] vasiliy karat: СНЯЛ
+[08:10:02] F4V3ns killed Xtrion using tfa_doi_m16a1
+[08:10:22] vasiliy karat: ПОКА НЕ В СОСТОЯНИИ
+[08:10:25] vasiliy karat: ВОЙНЫ
+[08:10:39] F4V3ns killed Redoket using tfa_doi_m16a1
+[08:10:51] vasiliy karat: ОН СПАВНИТСЯ ТАМ
+[08:10:59] Redoket: ДА БЛЯ
+[08:11:05] Redoket: ОНИ ВАС ТОЖЕ УБЬЮТ
+[08:11:07] Redoket: НО ПОТОМ
+[08:11:10] Redoket: ЭЭ
+[08:11:12] vasiliy karat killed Redoket using tfa_doispringfield
+[08:11:25] vasiliy karat: Я ВАС
+[08:11:31] vasiliy karat: Я ИЗБАВЛЮ ЕГО ОТ ВАС
+[08:11:58] vasiliy karat: ДА
+[08:12:08] vasiliy karat: ОНИ НЕ ГОРЯТ ЖЕЛАНИЕМ
+[08:12:11] vasiliy karat: Я ЕГО УБИЛ НА ИХ БАЩЕ
+[08:12:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[08:12:29] vasiliy karat: СЕЙЧАС
+[08:12:34] vasiliy karat: supply radio: basic parts
+[08:13:31] RusLanConnection teleported to vasiliy karat
+[08:13:41] SMOOKIE suicided!
+[08:13:48] vasiliy karat: ВАСЯ ИДЕТ НА ШТУРМ
+[08:13:57] vasiliy karat: ВАСИЛИЙ КОТОРЫЙ Я
+[08:14:07] Redoket: АААААААААА
+[08:14:09] Redoket: БОГ ДАЙ
+[08:14:12] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[08:14:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_radiobackpack
+[08:14:23] Rendy: !motd
+[08:14:30] Redoket: БОГ ДАЛ
+[08:14:35] vasiliy karat: ОНА ТОЛЬКО И ПРИ ЗАБИРАНИИ ЖЕТОНА
+[08:14:39] vasiliy karat: ОТНИМАЕТСЯ 1 ХП
+[08:14:50] Redoket: БОГ ЗАБРАЛ
+[08:15:00] Client "Гогаренко" connected.
+[08:15:04] vasiliy karat: А
+[08:15:06] vasiliy karat: НЕТУ
+[08:15:08] vasiliy karat: ТЕЛЕФОНА
+[08:15:31] SMOOKIE killed Xtrion using player
+[08:15:54] Redoket killed vasiliy karat using ent_jack_gmod_ezfirehazard
+[08:15:54] Redoket killed F4V3ns using ent_jack_gmod_eznapalm
+[08:15:59] Redoket: АГА БЛЯ
+[08:16:08] Redoket was killed by entityflame
+[08:16:11] vasiliy karat was killed by entityflame
+[08:16:21] F4V3ns was killed by entityflame
+[08:16:27] vasiliy karat: НЕ ВЕЛИИКА ПОТЕРЯ
+[08:16:30] vasiliy karat: ПОЧИНИМ
+[08:16:41] vasiliy karat: Я ЕГО СЖЕГ
+[08:16:45] vasiliy karat: УБИЛ
+[08:17:10] F4V3ns was killed by entityflame
+[08:17:13] vasiliy karat killed Redoket using tfa_doispringfield
+[08:17:14] vasiliy karat was killed by entityflame
+[08:17:41] Redoket killed vasiliy karat using wep_jack_gmod_hands
+[08:17:50] vasiliy karat: МАЧИ
+[08:17:54] Redoket: аааааааааааааааааааааааааа
+[08:17:57] Redoket: АААААААААААААА
+[08:18:01] vasiliy karat: БЕГИ
+[08:18:03] Redoket: ААААААААААААААААААААААААААААА
+[08:18:05] Redoket: АААААААААААААААААААААААААААААААААААА
+[08:18:08] Redoket: ААААААААААААААААААААААААААААААААААААААА
+[08:18:09] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezharpoon
+[08:18:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezharpoon
+[08:18:16] Redoket: ВАСЯ ВРУБИ ААААААААААААААА
+[08:18:19] Redoket: ЗВУК
+[08:18:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezharpoon
+[08:18:26] Redoket: ТИПО Я КРИЧУ
+[08:18:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezharpoon
+[08:18:55] Redoket: ААААААААААААААААААААА
+[08:19:18] Redoket killed F4V3ns using tfa_doispringfield
+[08:19:28] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[08:19:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_radiobackpack
+[08:20:56] vasiliy karat: УЖЕ
+[08:21:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_radiobackpack
+[08:22:00] Dropped "Xtrion" from server<STEAM_0:1:201866151>
+[08:22:00] Xtrion suicided!
+[08:22:00] Client "Xtrion" connected.
+[08:22:19] Client "Xtrion" spawned in server <STEAM_0:1:201866151> (took 19 seconds).
+[08:23:14] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_rebel
+[08:24:18] vasiliy karat: НЕТ
+[08:24:22] vasiliy karat killed Redoket
+[08:24:58] vasiliy karat to admins: ОНИ НЕ В СОСТОЯНИИ ВОЙНЫ
+[08:25:12] vasiliy karat to admins: ПОТОМУ ЧТО ОНИ РЕАЛЬНО НЕ СВЯЗАНЫ С ЭТОЙ ВОЙНОЙ
+[08:25:23] RusLanConnection removed all access rights from Redoket
+[08:25:26] vasiliy karat: БЫЛО БЫ КЛАСНО ЧТОБЫ У НАС
+[08:25:32] vasiliy karat: ВЕРТОЛЕТ
+[08:25:37] Redoket: РЕБЯТ
+[08:25:40] Redoket: МЫ В ВОЙНЕ
+[08:25:41] vasiliy karat: БОМБЫ
+[08:25:47] Redoket: ВЫ ПОМОГАТЬ ДОЛЖНЫ
+[08:25:48] vasiliy karat: КОВРОВЫЕ БАМБАНДИРОВКИ
+[08:26:01] Redoket: У НАС В КЛАНЕ ВОЙНА
+[08:26:06] Redoket: Я ВОЮЮ ЩАС
+[08:26:08] Redoket: ВОПРОС
+[08:26:20] vasiliy karat: ВЗРЫВАТЬ ДЖИХАД ДЖИПЫ ТОЖЕ Я НЕ ВИДЕЛ В КОНВЕНЦИИ
+[08:26:27] Redoket: ВОТ ТЫ НА СЕРВЕР ЖЕ НЕ ПОФАРМИТСЯ ЗАШЕЛ?
+[08:26:37] Redoket: ОН СОЗДАН НЕ ДЛЯ ТАКОГО
+[08:26:40] Redoket: А ДЛЯ ВОЙН
+[08:26:48] vasiliy karat to admins: РЕДОКЕТ ВПРЯГСЯ
+[08:26:49] Redoket: Я СКАЗАЛ
+[08:26:52] Redoket: ЛЮДЬМИ
+[08:26:57] Redoket: ВСТУПАЙТЕ!
+[08:26:58] vasiliy karat to admins: В ВОЙНУ ПО АЛЬЯНСУ
+[08:27:01] Redoket: У НАС ДЕНЬГИ ЕСТЬ
+[08:27:05] Redoket: ДАВАЙ
+[08:27:08] vasiliy karat to admins: ПОЛУЧАЕТСЯ ЭТИ НЕ ПРИДЕЛАХ ВООБЩЕ
+[08:27:16] Redoket: ЕЩЁ РАЗ
+[08:27:19] Redoket: ЧТО ВАМ ДАТЬ?
+[08:27:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_radiobackpack
+[08:27:33] Client "Гогаренко" spawned in server <STEAM_0:0:781956949> (took 753 seconds).
+[08:27:53] Dropped "Xtrion" from server<STEAM_0:1:201866151>
+[08:27:53] Xtrion suicided!
+[08:27:54] Redoket: ПОЕХАЛИ
+[08:27:57] Client "Xtrion" connected.
+[08:28:20] Client "Xtrion" spawned in server <STEAM_0:1:201866151> (took 23 seconds).
+[08:28:21] Redoket: ПОЕХАЛИ
+[08:28:33] Redoket: ПОЕХАЛИ
+[08:28:33] vasiliy karat: ЕГО АЛЬЯНС
+[08:28:36] vasiliy karat: СОБИРАЕТСЯ ВЕСТИ ВОЙНУ
+[08:28:39] Redoket: У ТЕБЯ ОРУЖИЕ ЕСТЬ?
+[08:29:17] Redoket killed F4V3ns using lvs_renaultft_m
+[08:29:18] RusLanConnection teleported to SMOOKIE
+[08:29:44] Redoket killed vasiliy karat using lvs_renaultft_m
+[08:29:48] Xtrion killed Гогаренко using tfa_smc_ppsh_drum
+[08:29:49] Redoket killed RusLanConnection
+[08:29:56] RusLanConnection teleported to SMOOKIE
+[08:30:03] F4V3ns suicided!
+[08:30:03] F4V3ns killed RusLanConnection using ent_bazooka_shell_v2
+[08:30:09] RusLanConnection granted god mode upon SMOOKIE
+[08:30:15] RusLanConnection teleported to SMOOKIE
+[08:30:18] RusLanConnection teleported to SMOOKIE
+[08:30:44] SMOOKIE killed F4V3ns using tfa_at_akm_eft
+[08:30:45] RusLanConnection: объяви им войну если ты с ними сражаешься
+[08:30:57] vasiliy karat: ОГНЕМЕТ КУПИ
+[08:32:08] Redoket killed Гогаренко using ent_bazooka_shell_v2
+[08:32:55] Xtrion killed F4V3ns using tfa_doik98_scop
+[08:33:08] Client "g9zer" connected.
+[08:33:28] SMOOKIE killed Гогаренко using tfa_at_akm_eft
+[08:33:30] SMOOKIE killed vasiliy karat using tfa_at_akm_eft
+[08:33:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_radiobackpack
+[08:33:42] Гогаренко: как взять оружее
+[08:33:48] Redoket: ГДАВАЙ
+[08:34:31] Redoket: НЕТ
+[08:34:35] Redoket: ОНИ ОСТАЛИСЬ
+[08:34:43] Гогаренко: хз
+[08:34:47] Гогаренко: я нн
+[08:34:58] Гогаренко: как оружее поднимать
+[08:35:02] Redoket: ИМ ГОВНО
+[08:35:38] F4V3ns killed Xtrion using tfa_doimg42
+[08:35:39] Redoket: ДВАЙ
+[08:35:52] бугагашенька: jmod_ez_inv
+[08:35:55] Redoket killed F4V3ns using lvs_renaultft_m
+[08:36:00] Redoket: -
+[08:37:00] SMOOKIE killed Гогаренко using tfa_at_akm_eft
+[08:37:26] SMOOKIE killed vasiliy karat using tfa_at_akm_eft
+[08:37:28] Redoket killed F4V3ns using lvs_renaultft_m
+[08:38:14] vasiliy karat: НУЖНО БРАТЬ И УХОДИТЬ
+[08:38:35] Client "DeNoZaVR⁴²" connected.
+[08:39:09] vasiliy karat: УХОДИМ В ГОРУ
+[08:39:36] SMOOKIE killed F4V3ns using tfa_at_akm_eft
+[08:39:44] Redoket killed F4V3ns using ent_bazooka_shell_v2
+[08:39:55] SMOOKIE killed F4V3ns using tfa_at_akm_eft
+[08:40:22] SMOOKIE killed F4V3ns using tfa_at_akm_eft
+[08:40:37] Client "DeNoZaVR⁴²" spawned in server <STEAM_0:1:600266006> (took 122 seconds).
+[08:41:12] Redoket: НАМ НУЖЕН КТОТО 
+[08:41:14] Redoket: Я НЕ МОГУ
+[08:41:23] DeNoZaVR⁴²: обсоновка по кайфу?
+[08:41:25] Redoket: МОЯ ФРАКЦИЯ РОЗСПАСТСЯ МОЖЕТ
+[08:41:28] Client "vers1" connected.
+[08:41:29] Redoket: ЩАС
+[08:41:36] Redoket: КАК?
+[08:41:40] бугагашенька was killed by prop_dynamic
+[08:41:40] DeNoZaVR⁴² was killed by prop_dynamic
+[08:41:46] Redoket: У ВАС ЕСТЬ?
+[08:41:47] Client "Improvised_starting_fire_device" connected.
+[08:41:53] Redoket: МАТЕРИАЛЫ
+[08:41:55] Redoket: НЕ
+[08:42:00] Redoket: МЫ НЕ МОЖЕМ
+[08:42:07] Redoket: У ВАС УРАН ЕСТЬ?
+[08:42:10] Redoket: ДА
+[08:42:37] DeNoZaVR⁴²: где твой труп?
+[08:42:40] Redoket: я ща
+[08:42:54] DeNoZaVR⁴²: вот ое
+[08:43:37] Redoket: говно
+[08:44:28] Client "vers1" spawned in server <STEAM_0:0:230254820> (took 180 seconds).
+[08:44:31] Redoket killed F4V3ns using tfa_doippk
+[08:44:41] DeNoZaVR⁴²: 600
+[08:44:43] Client "Improvised_starting_fire_device" connected.
+[08:44:49] vasiliy karat: Я ПРЕДЛАГАЮ СДАТЬСЯ 
+[08:44:52] vasiliy karat: ЧТОБЫ ПОЛУЧИТЬ
+[08:44:57] vasiliy karat: ШАНС
+[08:45:00] vasiliy karat: НА ОТОМЩЕНИЕ
+[08:45:02] vasiliy karat: УЙТИ
+[08:45:04] vasiliy karat: В ПОДПОЛЬЕ
+[08:45:10] DeNoZaVR⁴²: йоу
+[08:45:13] vasiliy karat: ДАВАЙ
+[08:45:19] Dropped "Гогаренко" from server<STEAM_0:0:781956949>
+[08:45:19] Гогаренко suicided!
+[08:45:34] vasiliy karat: У ВЫЖИВШИХ ИНДИВИДУМОВ
+[08:45:36] vasiliy karat: НАШЕЙ
+[08:45:41] vasiliy karat: НАШЕГО НАРОДА
+[08:45:50] Client "Improvised_starting_fire_device" spawned in server <STEAM_0:1:225675214> (took 67 seconds).
+[08:45:57] DeNoZaVR⁴²: автаматическая дозоправка
+[08:46:01] Client "g9zer" spawned in server <STEAM_0:0:866182362> (took 773 seconds).
+[08:46:02] DeNoZaVR⁴²: в движении
+[08:46:08] vasiliy karat: ПРОДАЛ ТУТ ФУЛТОН ВАЛЯЛСЯ
+[08:46:13] бугагашенька killed vers1 using lvs_wheeldrive_dodwillyjeep
+[08:46:18] Dropped "Improvised_starting_fire_device" from server<STEAM_0:1:225675214>
+[08:46:18] Improvised_starting_fire_device suicided!
+[08:46:22] DeNoZaVR⁴²: едем?
+[08:46:29] DeNoZaVR⁴²: ееее
+[08:47:01] Dropped "Rendy" from server<STEAM_0:0:209884120>
+[08:47:01] Rendy suicided!
+[08:47:08] DeNoZaVR⁴²: зач?
+[08:47:24] g9zer: чо
+[08:47:25] Client "Improvised_starting_fire_device" connected.
+[08:47:30] g9zer: я только скачал игру
+[08:47:31] бугагашенька was killed by prop_dynamic
+[08:47:58] g9zer: сюда иди
+[08:47:59] vasiliy karat: ВОТ ЕСЛИ ЧЕСТНО НЕ ЗНАЮ
+[08:48:02] vasiliy karat: НУ
+[08:48:03] vasiliy karat: Я УВЕРЕН
+[08:48:06] g9zer: какая работа
+[08:48:07] vasiliy karat: НАША АТАКА БУДЕТ
+[08:48:09] vasiliy karat: СТРЕМИТЕЛЬНАЯ
+[08:48:14] g9zer: ну дававй
+[08:48:15] Client "Improvised_starting_fire_device" connected.
+[08:48:31] vasiliy karat: ОНИ ДАЖЕ НЕ ПОЙМУТ ЧТО ЭТО БЫЛО
+[08:48:55] g9zer: а как ты микро юзаешь
+[08:48:56] Client "Improvised_starting_fire_device" spawned in server <STEAM_0:1:225675214> (took 41 seconds).
+[08:49:12] SMOOKIE: supply radio: medical supplies
+[08:49:14] vasiliy karat: СПАСИБО НЕЗНАКОМЦАМ КОТОРЫЕ ОСТАВИЛИ НАМ ЭТУ БАЗУ
+[08:49:39] Redoket: ЭТО УЖАС
+[08:49:44] vasiliy karat: ОТОЙДИ
+[08:49:45] Redoket: ЧЕГО ВАМ
+[08:49:47] vasiliy karat: Я ЕГО СОЖГК
+[08:49:47] Redoket: КАК?\Н
+[08:49:53] Redoket: МЫ САМИ ТОЛЬКО С ВОЙНЫ
+[08:49:57] vasiliy karat: СТЕРИЛЬНО
+[08:49:59] Redoket: ОТДАВЙ
+[08:50:03] DeNoZaVR⁴²: опять разебался?
+[08:50:05] vasiliy karat: Я ХОЧУ
+[08:50:07] Redoket: ОТДАЙ
+[08:50:09] vasiliy karat: ВЕРТОЛЕТ
+[08:50:15] vasiliy karat: С 
+[08:50:17] Redoket killed g9zer using tfa_at_akm_eft
+[08:50:17] vasiliy karat: КУЧЕЙ БОМБ
+[08:50:28] Redoket: АБОРИГЕН
+[08:50:37] Redoket: УЖАС
+[08:50:44] Redoket: ДЕРЖИ
+[08:51:14] (TEAM) vers1: Вы де
+[08:51:43] vasiliy karat: ДАВАЙ ПРОДАДИМ
+[08:52:08] Redoket: ВОТ ТАК ВОТ
+[08:52:30] Redoket: ТЕПЕРЬ ТЫ ЗНАЕШЬ ЧТО В ТАКИХ СИТУАЦИЯХ НУЖНО ПОМОГАТЬ ЖОСКО
+[08:52:43] Redoket: Я ПОБЕДИЛ ВО МНОГОМ ПЛАГАДАРЯ ТЕБЕ
+[08:52:50] Redoket: ВОТ ТАК ВОТ
+[08:53:02] Redoket: МОЖНО Я ТОЖЕ ИСПОЛЬЗУЮ
+[08:53:06] Redoket: АТО Я ЩА УМРУ
+[08:53:18] Redoket: НЕТ
+[08:53:27] Xtrion killed vers1 using player
+[08:54:00] DeNoZaVR⁴²: ооааыаыа эгалогиля
+[08:54:36] DeNoZaVR⁴²: Оносамые
+[08:54:39] DeNoZaVR⁴²: а что
+[08:54:42] vasiliy karat: Я БУДУ ЛЕТАТЬ
+[08:54:42] DeNoZaVR⁴²: ыэ
+[08:54:51] vasiliy karat: А
+[08:54:55] DeNoZaVR⁴²: о даа турели
+[08:55:01] DeNoZaVR⁴²: хорошо
+[08:55:02] DeNoZaVR⁴²: а поче
+[08:55:11] DeNoZaVR⁴²: фу душни
+[08:55:18] DeNoZaVR⁴²: золотиепродавати
+[08:55:18] g9zer was killed by ent_jack_gmod_ezsentry
+[08:55:22] DeNoZaVR⁴²: ыыыыыыыыыыыыыыыыыыыыы
+[08:55:22] F4V3ns to admins: Руслан, как нам восстановить хп после войны? У нас 52
+[08:55:29] vasiliy karat: ЗАЦЕНИ ЧЕ В ЛЕСУ ПРИПРЯТАНО
+[08:55:37] DeNoZaVR⁴²: а я думал ты его добываеш
+[08:55:57] Redoket: ЕП
+[08:56:11] Dropped "Improvised_starting_fire_device" from server<STEAM_0:1:225675214>
+[08:56:11] Improvised_starting_fire_device suicided!
+[08:56:16] бугагашенька: 2 ghjdth,fyrf
+[08:56:20] Redoket: Я МОГУ ВАМ ЭТО 
+[08:56:21] DeNoZaVR⁴²: о чинащес
+[08:56:22] DeNoZaVR⁴²: да
+[08:56:24] Redoket: СОЕДЕНИТЬ СЕТЬ
+[08:56:29] Redoket: ЕСЛИ ВАМ НЕ ХВАТАЕ
+[08:56:34] Redoket: ЕЛЕКТРИКИ
+[08:56:35] Dropped "g9zer" from server<STEAM_0:0:866182362>
+[08:56:35] g9zer suicided!
+[08:56:40] Redoket: НУ ТЫ ТОЖЕ УЧИТСЯ ДОЛЖЕН
+[08:56:45] Redoket: ННННННЕ
+[08:56:47] vasiliy karat: СЕЙЧАС НАКРАФТИМ МНОГО БОМБ
+[08:56:47] Redoket: ЕЕЕЕЕЕЕЕЕЕТ
+[08:56:53] Redoket: НЕ В КОНТЕЙЦНЕР
+[08:56:58] бугагашенька: 2 повербанка, 4 турели, (или 6) 4 ящика ( если у вас 6 турелей то 6 ящиков) с 
+[08:57:00] Redoket: ДА
+[08:57:04] DeNoZaVR⁴²: ой
+[08:57:06] Redoket: НЕТ
+[08:57:07] DeNoZaVR⁴²: неи\
+[08:57:12] Redoket: В КОНТЕЙНЕР НЕ НАДО
+[08:57:12] vasiliy karat: А Я НА БЫСТРОМ ПОЛЕТЕ БУДУ ЕЩЕ ВОЗРВАЩАТЬСЯ НА БАЗУ ЧТОБЫ СНОВА СДЕЛА
+[08:57:14] vasiliy karat: БОМБЫ
+[08:57:18] vasiliy karat: И ПОСТАВИТЬ
+[08:57:20] DeNoZaVR⁴²: сэрдасэр
+[08:57:24] Client "Improvised_starting_fire_device" connected.
+[08:57:25] vasiliy karat: НУ 
+[08:57:27] Redoket: ОТ КОНТЕЙНЕРА НИЧЕГО НЕ ПИТАЕТСЯ
+[08:57:43] vasiliy karat: supply radio: steel
+[08:57:43] Redoket: ВОТ ВОТ
+[08:57:55] DeNoZaVR⁴²: неа
+[08:58:05] Client "Improvised_starting_fire_device" spawned in server <STEAM_0:1:225675214> (took 41 seconds).
+[08:58:08] DeNoZaVR⁴²: я за эгалогиыю
+[08:58:22] DeNoZaVR⁴²: чего?
+[08:58:29] DeNoZaVR⁴²: хахаха
+[08:59:25] vasiliy karat: НЕТ
+[08:59:28] vasiliy karat: ЭТО НЕ ТО
+[08:59:38] vasiliy karat: ПРОСТО ИНОГДА МОЖНО ГАЗУ НАПУСТИТЬ В ОГНЕМЕТЕ
+[09:00:48] бугагашенька killed Improvised_starting_fire_device using ent_bazooka_shell_v2
+[09:01:39] DeNoZaVR⁴²: МАЙФЮРОР ЯЗДЕЛАЛ ПЕЛЮМЕТИНГ!
+[09:01:45] vasiliy karat: НЕ ТОЛЬКО У НАС ПРОБЛЕМА
+[09:01:50] vasiliy karat: У СИНИХ ТАК ЖЕ
+[09:03:09] DeNoZaVR⁴²: МАЙФЮРОР ЯЗДЕЛАЛ ПЕЛЮМЕТИНГ!
+[09:03:27] DeNoZaVR⁴²: ЕБАААААААААААААААААААТЬ
+[09:03:33] DeNoZaVR⁴²: буга
+[09:03:35] DeNoZaVR⁴²: иди сюды
+[09:03:47] vasiliy karat: У СИНИХ ТАК ЖЕ 52 МИСТИЧЕСКОЕ ЧИСЛО
+[09:04:16] vasiliy karat: МОЖНО БЫЛО БЫ ПОСТАВИТЬ БОМБ БЕЙ
+[09:04:23] vasiliy karat: НО КОГДА МЫ  ЕГО ИСПОЛЬЗОВАЛИ
+[09:04:26] vasiliy karat: ОН СИЛЬНО КРЕНИТ
+[09:04:32] vasiliy karat: ВЗЛЕТЕТЬ НЕРЕАЛ
+[09:05:00] vasiliy karat: А ТАК ДА
+[09:05:02] vasiliy karat: БЫЛО БЫ КРУТО
+[09:05:05] vasiliy karat: ЗАСУНУТЬ ЭТО ВСЕ
+[09:05:08] vasiliy karat: И БОМБИТЬ
+[09:05:17] vasiliy karat: В ИНВЕНТАРЕ НА ШЛЕМ
+[09:05:19] vasiliy karat: ТОГЛЕ
+[09:05:54] F4V3ns: // Может перезапуск мапы?
+[09:06:04] DeNoZaVR⁴²: как в картеле
+[09:06:07] vasiliy karat: ДАВАЙ СНАЧАЛА
+[09:06:08] DeNoZaVR⁴²: нельзя уходит
+[09:06:15] vasiliy karat: ПОПРОБУЕМ В РЕВАНШ
+[09:06:18] vasiliy karat: НЕ ХОЧЕТСЯ ТЕРЯТЬ
+[09:06:20] vasiliy karat: ТАКУЮ КРУТУЮ БАЗУ
+[09:06:37] vasiliy karat: МОЖНО НА КАТЮШЕ
+[09:06:43] vasiliy karat: ТОЛЬКО ВМЕСТО БОМБ
+[09:06:43] vasiliy karat: РАКЕТЫ
+[09:06:51] vasiliy karat: ТА ЖЕ СИСТЕМА
+[09:07:26] vasiliy karat: ОНА НЕ ТЕМ ЗАРЯЖАЕТСЯ
+[09:07:30] vasiliy karat: А ВОТ ЧЕМ РПГ
+[09:08:57] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[09:08:57] Redoket suicided!
+[09:09:00] vasiliy karat: НЕТ
+[09:09:02] vasiliy karat: ОНИ УШЛИ
+[09:10:17] vasiliy karat: ВОЗЬМИ ПРОЗАПАС
+[09:10:23] vasiliy karat: ПРИКРЕПИ К НЕЙ ЯЩИК
+[09:11:38] vasiliy karat: ЭТОГО МАЛО
+[09:11:41] vasiliy karat: ЗАКУУПИ
+[09:11:44] vasiliy karat: В ПРОМЫШЛЕННЫХ 
+[09:11:46] vasiliy karat: ОБЪЕМАХ
+[09:12:13] DeNoZaVR⁴²: а ебать
+[09:12:27] DeNoZaVR⁴²: а как тут варота делать?
+[09:12:38] DeNoZaVR⁴²: я не слышу тебя
+[09:12:48] бугагашенька: НИКАК
+[09:14:36] DeNoZaVR⁴²: я турки возле контейнира поставил
+[09:14:51] DeNoZaVR⁴²: и уменя трупный вырус
+[09:15:29] vasiliy karat: БОМБИТЬ БУДЕТ СЛОЖНО
+[09:15:34] vasiliy karat: ОНИ ЖИВУТ С БУНКЕРЕ
+[09:15:40] vasiliy karat: НО
+[09:15:45] vasiliy karat: ВСЯ ИНФРАСТРУКТУРА СНАРУЖЕ
+[09:16:44] vasiliy karat: СДЕЛАЙ СЕБЕ БИНОКЛЬ
+[09:16:55] vasiliy karat: КАТЮША ДАЛЕКО СТРЕЛЯЕТ
+[09:17:02] vasiliy karat: Я ДУМАЮ ДАЖЕ ИЗ БАЗЫ МОЖНО
+[09:17:23] vasiliy karat: ЩАС
+[09:17:26] vasiliy karat: ДАВАЙ ЗАЛЕЗЕМ
+[09:18:22] vasiliy karat: А ТАМ МЕСТА НЕТУ ПОШЛИ
+[09:18:24] DeNoZaVR⁴²: я продам 3к газа?
+[09:18:36] vasiliy karat: ДАВАЙ Я ЗАКРЕПЛЮ
+[09:18:50] vasiliy karat: НЕ ВО
+[09:18:54] Client "ANTI" connected.
+[09:18:55] vasiliy karat: ДЕЛАЕМ ПУШКУ
+[09:19:00] vasiliy karat: ХОТЯ
+[09:19:04] vasiliy karat: ПОНИМАЕШЬ У НИХ ТАМ КРЫША
+[09:19:20] vasiliy karat: НУЖНО ИЗ КАТЮШИ ДАТЬ ЗАЛП
+[09:19:23] vasiliy karat: ПОТОМ ИЗ ПУУШКИ
+[09:19:38] vasiliy karat: ЩАС
+[09:19:39] vasiliy karat: СОБЕРЕМ
+[09:20:10] vasiliy karat: ПРИНЕСИ ЯЩИК
+[09:20:16] vasiliy karat: СЮДА
+[09:20:19] vasiliy karat: ДА
+[09:22:06] DeNoZaVR⁴²: все полетело газ
+[09:22:17] vasiliy karat: ВОЗЬМИ ГАЗОВУЮ И 
+[09:22:19] vasiliy karat: ОГНЕНУЮ
+[09:22:27] Client "Fingal_till_kasa_3" connected.
+[09:22:57] DeNoZaVR⁴²: ЗАЕБИСЬ 3 к газа продал
+[09:23:45] DeNoZaVR⁴²: а из базы на вертолете будем вылетать?
+[09:23:54] vasiliy karat: ОСТАЛОСЬ ДАТЬ СООБЩЕНИЕ ПО РАДИО
+[09:23:56] DeNoZaVR⁴²: а кайф
+[09:24:02] vasiliy karat: ЩАС
+[09:24:09] vasiliy karat: ДУХИ ПОМОГУТ
+[09:24:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[09:24:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[09:24:15] DeNoZaVR⁴²: давай набор обявим?
+[09:24:20] DeNoZaVR⁴²: я поняли тебе
+[09:24:21] vasiliy karat: ВСЕ
+[09:24:39] vasiliy karat: ДУМАЮ ДЛЯ НАЧАЛЬНОЙ НЕЙТРАЛЬНОЕ ОГРЕСИВНОЕ
+[09:24:43] Client "ANTI" spawned in server <STEAM_0:0:856858307> (took 349 seconds).
+[09:25:06] ANTI: йоу
+[09:25:23] DeNoZaVR⁴²: блять
+[09:25:28] DeNoZaVR⁴²: сука р пропала
+[09:27:14] Xtrion: ъ
+[09:27:47] DeNoZaVR⁴²: СТОООООООЙ
+[09:27:57] (TEAM) F4V3ns: приём
+[09:27:59] DeNoZaVR⁴²: едь на спавн
+[09:28:06] DeNoZaVR⁴²: людей на бирать
+[09:28:09] DeNoZaVR⁴²: и еше
+[09:28:33] DeNoZaVR⁴²: я буры устанавлю
+[09:28:37] DeNoZaVR⁴²: я афк
+[09:29:22] vasiliy karat: НУЖНО ЧТОБЫ Я СТОЯЛ У РАДИО БЛИЗКО
+[09:29:27] vasiliy karat: МОЖЕШЬ ПРЯМ В НЕГО ГОВОРИТЬ
+[09:29:35] vasiliy karat: ДА ТУТ 
+[09:29:36] vasiliy karat: А
+[09:29:39] vasiliy karat: Я ЕГО ВЫКЛЮЧИЛ
+[09:30:21] vasiliy karat: ПРИЕМ 
+[09:30:24] vasiliy karat: КАК СКАЗАТЬ
+[09:30:36] vasiliy karat: РАДИО СТОИТ СЛИШКОМ БЛИЗКО К ДРУГ ДРУГУ И Я ТЕБЯ СЛЫШУ С ГОРЫ
+[09:30:53] бугагашенька: ты немного разбираешся в Jmode?
+[09:31:00] F4V3ns: А вот я тебя хорошо слышу с горы
+[09:31:13] Client "Unkn0wn" connected.
+[09:32:24] vasiliy karat: Я ГОТОВ К ВЗЛЕТУ
+[09:33:16] vasiliy karat: С КАТЮШЕЙ ПРИЙДЕТСЯ ПО ДРУГОМУ
+[09:33:20] vasiliy karat: ВЫВЕЗИ ЕЕ
+[09:33:25] vasiliy karat: СЮДА
+[09:33:30] vasiliy karat: ТЫ КООРДИНАТЫ ЗАПОМНИЛ?
+[09:33:49] vasiliy karat: ОНИ НАС ИГНОРИРУЮТ
+[09:34:21] DeNoZaVR⁴²: ебать
+[09:34:23] DeNoZaVR⁴²: это кто
+[09:34:33] DeNoZaVR⁴²: а крч парни я акф я ем
+[09:34:39] DeNoZaVR⁴²: ок 
+[09:35:03] vasiliy karat: ДА ДУМАЮ СМЫСЛА ТУТ УЖЕ НЕТ
+[09:35:09] vasiliy karat: ТЫ ЖЕ НЕ УЕЗЖАЕШЬ 
+[09:35:18] vasiliy karat: РЯДОМ ПОСТАВЬ
+[09:35:57] vasiliy karat: У НАС ТУТ ВСЕ ПУШКИ
+[09:36:04] vasiliy karat: ВСЕ НАПРАВВЛЕНЫ НА ЭТУ БАЗУ
+[09:36:10] vasiliy karat: СТРЕЛЯЙ ИЗ ЧЕГО ХОЧЕШЬ
+[09:36:49] vasiliy karat: ТАМ ЕСТЬ ТЕПЕРЬ 2 ПРОСТЫХ СНАРЯДА
+[09:37:11] vasiliy karat: МОЖЕШЬ ЕЩЕ ОБСТАНОВКУ НАКАЛИТЬ?
+[09:37:17] vasiliy karat: НУ
+[09:37:18] vasiliy karat: НАПИШИ
+[09:37:19] vasiliy karat: ЧТОБЫ
+[09:37:21] vasiliy karat: Э
+[09:37:27] vasiliy karat: УРАН ДОБЫВАЮТ ТАКИЕ ПЛОХИЕ
+[09:37:33] vasiliy karat: НЕЛЬЗЯ
+[09:37:38] vasiliy karat: ОНИ В ЧАТ СКАЗАЛИ
+[09:37:44] vasiliy karat: ГЛОБАЛЬНЫЙ
+[09:39:02] vasiliy karat: ЗАЧЕМ ТЕБЕ СТАЛЬ
+[09:39:16] vasiliy karat: ВОН ТАМ НА ГОРЕ
+[09:39:20] vasiliy karat: ПРОСТО 
+[09:39:22] vasiliy karat: ТАМ ОБЗОР
+[09:39:34] vasiliy karat: ЧТО ТЫ ХОЧЕШЬ
+[09:39:39] vasiliy karat: СКРАФТИТЬ
+[09:39:48] vasiliy karat: НЕТУ ТАКОГО
+[09:40:04] vasiliy karat: ЛАДНО ДЕЛАЙ ЧТО ДЕЛАЕШЬ
+[09:40:51] vasiliy karat: ТАКАЯ ЖЕ
+[09:40:53] vasiliy karat: НА ГОРЕ СТОИТ
+[09:41:26] vasiliy karat: СЕРЫЕ
+[09:41:28] vasiliy karat: И СПЕЦИАЛЬНЫЕ
+[09:41:31] vasiliy karat: ВОТ ЭТИ 
+[09:41:32] vasiliy karat: НАПАЛМ
+[09:41:35] vasiliy karat: ГАЗОВЫЕ
+[09:41:38] vasiliy karat: ПРОСТО Я НЕ ПОНЕЛ
+[09:41:43] vasiliy karat: ЗАЧЕМ ТЫ ВТОРУЮ СДЕЛАЛ
+[09:41:47] vasiliy karat: ТАМ НА ГОРЕ СТОИТ
+[09:41:49] vasiliy karat: Я ЩАС
+[09:44:47] бугагашенька: щас
+[09:44:49] бугагашенька: 5 сек
+[09:44:54] бугагашенька: подожди я открою
+[09:47:34] vasiliy karat: ТУТ
+[09:47:41] vasiliy karat: БЕДА СЛУЧИЛАСЬ
+[09:47:44] vasiliy karat: ЩАС
+[09:48:18] vasiliy karat: КАКОЙ ОТСТОЙ
+[09:48:26] vasiliy karat: ЩАС
+[09:48:45] vasiliy karat: ТЕБЕ ПРИЙДЕТСЯ ВОЕВАТЬ БЕЗ МЕНЯ МНЕ НУЖНО УЙТИ СЕЙЧАС
+[09:48:55] vasiliy karat: ВЕРНУСЬ ЧЕРЕЗ
+[09:48:58] vasiliy karat: ПОЛЧАСА НАВЕРНОЕ
+[09:49:08] vasiliy karat: А ТАК НЕЗНАЮ
+[09:49:09] SMOOKIE: supply radio: global message
+[09:49:10] vasiliy karat: ВСЕ
+[09:49:12] vasiliy karat: Я ПОШЕЛ 
+[09:51:54] Client "Hand of Death" connected.
+[09:52:55] Client "вротберунчик" connected.
+[09:53:25] Client "/ᴅᴏᴢʏ" connected.
+[09:53:59] Client "вротберунчик" spawned in server <STEAM_0:0:160992234> (took 64 seconds).
+[09:55:10] Client "/ᴅᴏᴢʏ" spawned in server <STEAM_0:1:520496964> (took 105 seconds).
+[09:55:41] Client "box of hocopau" connected.
+[09:56:19] Client "Hand of Death" spawned in server <STEAM_0:1:442851008> (took 265 seconds).
+[09:56:43] вротберунчик: йоу
+[09:56:54] вротберунчик: йоу йоу
+[10:00:50] вротберунчик: не
+[10:00:52] DeNoZaVR⁴²: бугагашенька делаем аванпасты 
+[10:00:55] вротберунчик: хотя
+[10:00:58] вротберунчик: физ ган етсь?
+[10:00:59] DeNoZaVR⁴²: с ресами
+[10:01:06] вротберунчик: и тул бокус
+[10:01:07] вротберунчик: дай
+[10:01:44] (TEAM) вротберунчик: слыш
+[10:01:45] вротберунчик: убей меня
+[10:01:47] вротберунчик: стой
+[10:01:53] вротберунчик: спс
+[10:01:55] vers1 killed вротберунчик using tfa_doimp40
+[10:01:57] вротберунчик: спс
+[10:02:09] вротберунчик: я вас
+[10:02:16] вротберунчик: сколько искад
+[10:02:24] SMOOKIE: supply radio: global message
+[10:02:26] вротберунчик: и давно вася афк?
+[10:02:41] вротберунчик: 50 проц шанс что он уснет нахъуй
+[10:02:44] вротберунчик: у меня так было
+[10:02:50] вротберунчик: и так он пропустил все
+[10:02:59] вротберунчик: там от первого мушкета до ядерки
+[10:03:05] вротберунчик: И ЧЕРЕЗ СЕКУНДКУ ПОСЛЕ КОНЦА
+[10:03:07] вротберунчик: ОН ПРОСНУЛСЯ
+[10:03:11] вротберунчик: ЧЕРЕЗ СЕКУНДУ
+[10:03:16] вротберунчик: НИ МИНУТУ
+[10:03:20] вротберунчик: НИ 30 СЕК
+[10:03:22] вротберунчик: А ЧЕРЕЗ 1 СЕК
+[10:03:27] вротберунчик: УЕБОК
+[10:03:34] вротберунчик: Ага
+[10:03:37] вротберунчик: ган крафтить?
+[10:03:39] вротберунчик: или есть
+[10:03:54] вротберунчик: ок
+[10:04:01] вротберунчик: могу трек на фон потом врубить
+[10:04:11] вротберунчик: да
+[10:04:28] вротберунчик: возможно жопа нам
+[10:04:43] вротберунчик: только лута ноль
+[10:04:47] вротберунчик: после пары смертей
+[10:04:49] Client "box of hocopau" connected.
+[10:04:53] вротберунчик: мы потеряем все ганы
+[10:04:57] вротберунчик: и пока крафтить бущем
+[10:05:02] вротберунчик: нас запушат
+[10:05:06] вротберунчик: аа
+[10:05:08] вротберунчик: ну тогла
+[10:05:10] вротберунчик: хз
+[10:05:14] вротберунчик: ща как получиться
+[10:05:34] вротберунчик: патроны нужны
+[10:05:36] вротберунчик: а вот
+[10:05:37] вротберунчик: сук
+[10:05:54] вротберунчик: хахаха
+[10:06:14] вротберунчик: мы соло
+[10:06:15] F4V3ns: supply radio: ammo
+[10:06:15] вротберунчик: 3
+[10:06:19] вротберунчик: против всего сервака
+[10:06:21] вротберунчик: буквально
+[10:06:26] вротберунчик: неа тот же бугага
+[10:06:30] вротберунчик: норм отыграл на серваке
+[10:06:49] вротберунчик: там в заре бывалые игроки
+[10:06:51] вротберунчик: да и плюс
+[10:06:57] вротберунчик: все равно даже если новички шансов мало
+[10:07:25] Client "ГОООООООЛ" connected.
+[10:07:45] вротберунчик: ага
+[10:08:19] Dropped "SMOOKIE" from server<STEAM_0:1:565872977>
+[10:08:20] SMOOKIE suicided!
+[10:08:36] вротберунчик: 1 откинулс
+[10:08:41] вротберунчик: может вернеться
+[10:08:49] вротберунчик: неа
+[10:08:57] вротберунчик: я хоть и чучли не год играб
+[10:09:02] вротберунчик: но я нуб буквально
+[10:09:14] вротберунчик: там в управлении самолетами и тд
+[10:09:28] вротберунчик: рано
+[10:09:30] Client "Ratlyng2073" connected.
+[10:09:36] вротберунчик: надо возращения васи дождаться
+[10:09:40] вротберунчик: двем мы не сможем
+[10:09:48] вротберунчик: если сделают
+[10:09:50] вротберунчик: своруем
+[10:09:54] вротберунчик: у нас также сделали
+[10:10:03] вротберунчик: покажи
+[10:10:25] вротберунчик: инет умирает или сервак
+[10:10:36] вротберунчик: на танк было похлже
+[10:10:58] вротберунчик: ну
+[10:11:01] вротберунчик: можеь
+[10:11:52] вротберунчик: аааа инет 
+[10:12:05] вротберунчик: или сервак я не пойму
+[10:12:13] DeNoZaVR⁴²: ее шансон
+[10:12:13] вротберунчик: инет все
+[10:12:16] вротберунчик: видимо
+[10:12:24] вротберунчик: хотя пинг 70
+[10:12:42] вротберунчик: ааа я не могу
+[10:13:09] Client "Ratlyng2073" spawned in server <STEAM_0:1:596674952> (took 219 seconds).
+[10:13:54] Dropped "вротберунчик" from server<STEAM_0:0:160992234>
+[10:13:54] вротберунчик suicided!
+[10:13:58] Client "вротберунчик" connected.
+[10:14:34] Client "вротберунчик" spawned in server <STEAM_0:0:160992234> (took 36 seconds).
+[10:15:44] вротберунчик: по приколу
+[10:15:46] вротберунчик: братишка
+[10:15:48] вротберунчик: это сро
+[10:15:51] вротберунчик: привыкай
+[10:15:57] вротберунчик: ну а так сорян
+[10:16:31] вротберунчик to admins: руслае
+[10:16:38] вротберунчик to admins: тепни к васе
+[10:16:48] вротберунчик to admins: базу долго искать
+[10:17:12] DeNoZaVR⁴²: ппппппппппппппппппздц
+[10:17:12] бугагашенька was killed by ent_jack_gmod_ezcompactbox
+[10:17:25] DeNoZaVR⁴²: МАЙФЮРОР МНЕ нАДО УХОДИТЬ
+[10:17:33] Client "Матье Балл" connected.
+[10:17:53] Dropped "DeNoZaVR⁴²" from server<STEAM_0:1:600266006>
+[10:17:53] DeNoZaVR⁴² suicided!
+[10:18:15] вротберунчик: пиздец
+[10:18:19] Client "Матье Балл" spawned in server <STEAM_0:0:569947714> (took 46 seconds).
+[10:18:56] вротберунчик: МВАИ
+[10:18:58] вротберунчик: свати
+[10:18:59] вротберунчик: сваи
+[10:20:05] вротберунчик: сука ну чето 
+[10:20:10] вротберунчик: что это за краш место
+[10:21:38] RusLanConnection granted god mode upon Themself
+[10:21:42] RusLanConnection teleported to Матье Балл
+[10:22:29] вротберунчик killed Improvised_starting_fire_device using tfa_doimp40
+[10:22:36] вротберунчик killed бугагашенька using tfa_doimp40
+[10:22:44] вротберунчик: САСАТЬ ЛОШКИ ЕБАНЫЕ
+[10:22:46] вротберунчик: ЧТО
+[10:22:51] вротберунчик killed Ratlyng2073 using tfa_doimp40
+[10:22:55] вротберунчик: НЕ ВЫВОЗЯТ ТОЛПОЙ
+[10:22:57] вротберунчик: ЭТО ПОЗОР
+[10:23:00] vers1 killed вротберунчик using tfa_doimp40
+[10:23:12] вротберунчик: ПРОСТО В СОЛО ПРОСТО В СОЛО
+[10:24:18] вротберунчик: ЭТО ПОЗОР ДЛЯ НИХ
+[10:24:20] вротберунчик: ПОЛНЫЙ
+[10:24:24] вротберунчик: ОНИ НИ ТО ЧТО В СОЛО
+[10:24:30] вротберунчик: ОНИ ТОЛПОЙ МЕНЯ НЕ УБИЛИ
+[10:24:36] вротберунчик: А ЕЩЕ СДОХЛИ КАК ЛОШКИ
+[10:24:55] вротберунчик: ОНИ ЕЩЕ АХАХХА В ФУЛ БРОНЕ С ПИСТОЛЕТАМИ КО МНЕ ПРИБЕГАДИ
+[10:24:56] RusLanConnection teleported to Матье Балл
+[10:25:24] вротберунчик: ТОТАЛЬНЫН
+[10:25:29] вротберунчик: ТОТАЛЬНЫЕ БОМЖИ
+[10:25:38] RusLanConnection: !motd
+[10:25:43] вротберунчик: Я КАТУШЮ ВПЕРВЫЕ ЗА ВСЕ ВРЕМЯ ВИЖУ
+[10:25:55] вротберунчик: ЩА ГАН ВОЩЬМУ
+[10:26:20] вротберунчик: СЛЫШ Я ПОХОДУ
+[10:26:23] вротберунчик: НЕ СМОГУ ТУДА ЗАЛЕСТЬ
+[10:26:26] вротберунчик: МЕНЯ КРАШИТ
+[10:26:28] вротберунчик: ДА
+[10:26:32] вротберунчик: Я НА ПЛИТУ ЛОЖУСЬ
+[10:26:35] вротберунчик: У МЕНЯ ЛАГАЕТ ЖЕСТКО
+[10:26:37] Ratlyng2073: /s Парни, где вы?
+[10:26:39] RusLanConnection uncloaked Themself
+[10:26:51] Матье Балл: Конечно
+[10:27:03] вротберунчик: У МЕНЯ КАК БУДТО СЕРВАК ЛОЖИТЬСЯ
+[10:27:13] вротберунчик: АГА
+[10:27:25] Матье Балл: Раньше стоял Zпросто
+[10:27:51] Матье Балл: если я придумал этот шедевр патриотизма до всей фигни
+[10:28:30] Матье Балл: потом как нибудь
+[10:28:37] Client "Kronos#melonrust" connected.
+[10:28:46] Матье Балл: !motd
+[10:29:09] Client "Kronos#melonrust" spawned in server <STEAM_0:0:554093478> (took 32 seconds).
+[10:29:39] Матье Балл: вполне
+[10:29:48] RusLanConnection cloaked Themself by amount 0
+[10:29:54] F4V3ns killed vers1 using tfa_doik98_scop
+[10:29:56] вротберунчик: НА
+[10:29:58] вротберунчик: СТОЙ
+[10:30:00] вротберунчик: F4V3ns
+[10:30:05] вротберунчик: НАДО ИХ АЛЬЯНСЫ СЛИТЬ
+[10:30:10] вротберунчик: А
+[10:30:13] вротберунчик: Я ДУМАЛ ТЫ ДЛЯ РПГ
+[10:30:18] вротберунчик: А
+[10:30:22] вротберунчик: Я ХЗ ТОГДА
+[10:30:51] вротберунчик: ЧЕ
+[10:30:53] вротберунчик: РУСЛАН
+[10:30:55] вротберунчик: СТОЙ
+[10:31:30] вротберунчик: ЕБАТЬ РП ВОТ 
+[10:31:33] вротберунчик: ЭТО ЭПИК
+[10:31:43] вротберунчик: РАСКАЗ РУСЛАНА ЛУЧШЕ РАСКАЗОВ О ВЬЕТНАМЕ
+[10:32:12] вротберунчик: F4V3ns
+[10:32:18] вротберунчик: ну у нас как бы война
+[10:32:21] вротберунчик: с другими
+[10:32:24] вротберунчик: надо
+[10:32:30] вротберунчик: у них спросить
+[10:34:06] Матье Балл<STEAM_0:0:569947714> changed their name to Сынпи Дора
+[10:34:32] Сынпи Дора<STEAM_0:0:569947714> changed their name to Хлебушек
+[10:34:54] вротберунчик: вася уснул
+[10:34:55] вротберунчик: видимо
+[10:35:03] (SILENT) RusLanConnection ran lua: for _, ply in player.Iterator() do                    ply:SendMessageOnTop('РЕСТАРТ ЧЕРЕЗ 30 мин', Color(120, 0, 0))                    ply:PlayLocalSound('LANRP/nuke/nuclear war.wav')                 end
+[10:35:08] вротберунчик: ОГО 
+[10:35:18] RusLanConnection teleported to Хлебушек
+[10:35:41] вротберунчик: И ТАК Я ПОЙДУ ГАЙД ДЕЛАТЬ НА КАТЮШУ ХОТЯ САМ НЕ ЗНАБЮ
+[10:35:43] RusLanConnection uncloaked Themself
+[10:35:45] вротберунчик: КАК С НЕЕ СТРЕЛЯТЬ
+[10:35:48] Hand of Death killed /ᴅᴏᴢʏ using tfa_doig43
+[10:36:08] вротберунчик: Я НИ ЧЕ НЕ ПОНЯЛ
+[10:36:21] Хлебушек: Эта обезьяна подумала что поставить капкан на базе это дофига смешно
+[10:36:38] Хлебушек: Я видел
+[10:36:41] Hand of Death killed /ᴅᴏᴢʏ using tfa_doig43
+[10:36:55] Client "Женёк русский паренёк" connected.
+[10:36:58] Хлебушек: Я знаю
+[10:37:39] Hand of Death killed /ᴅᴏᴢʏ using tfa_doig43
+[10:38:08] вротберунчик: вася забивной паренек оказывается
+[10:38:09] Хлебушек: Я удивлен что моя база столько стоит при том что я построился на доро�
+[10:38:13] вротберунчик: в дс ответил
+[10:38:18] вротберунчик: что другу стрелку забили
+[10:38:23] вротберунчик: ухо нос в крови
+[10:38:26] вротберунчик: домой едет
+[10:38:32] вротберунчик: ок
+[10:38:37] вротберунчик: надо машину
+[10:38:50] вротберунчик: да
+[10:38:55] вротберунчик: стой
+[10:39:03] Hand of Death killed /ᴅᴏᴢʏ using wep_jack_gmod_hands
+[10:39:04] вротберунчик: мы им ща просто так катюшу отдаимн=
+[10:39:12] вротберунчик: нам жопа тогда
+[10:39:16] Hand of Death killed /ᴅᴏᴢʏ using tfa_doig43
+[10:39:24] Dropped "/ᴅᴏᴢʏ" from server<STEAM_0:1:520496964>
+[10:39:24] /ᴅᴏᴢʏ suicided!
+[10:39:26] вротберунчик: вот блять ты нахуй
+[10:40:31] вротберунчик: где рпг сука
+[10:40:32] вротберунчик: РПГ
+[10:40:36] бугагашенька killed F4V3ns using lvs_wheeldrive_dodtiger
+[10:40:52] RusLanConnection cloaked Themself by amount 0
+[10:41:13] вротберунчик: ГДЕ
+[10:41:17] вротберунчик: СУКА
+[10:41:26] вротберунчик: ОГУЗКИ ВЫ КУДА РПГ ДЕЛИ
+[10:42:05] вротберунчик: ДАЙ МНЕ
+[10:42:08] вротберунчик: Я ЗНАЮ
+[10:42:39] ANTI killed vasiliy karat using lvs_wheeldrive_dodtiger
+[10:42:49] Xtrion killed vasiliy karat using tfa_doi_m16a1
+[10:42:52] вротберунчик killed бугагашенька
+[10:42:52] вротберунчик killed ANTI
+[10:42:57] вротберунчик: ПОСАСАЛИ
+[10:42:58] вротберунчик: УЕБКИ
+[10:42:58] Xtrion killed vasiliy karat using tfa_doi_m16a1
+[10:43:07] Xtrion killed vasiliy karat using tfa_doi_m16a1
+[10:43:12] Ratlyng2073 killed Xtrion using tfa_doimp40
+[10:43:14] RusLanConnection brought вротберунчик
+[10:43:19] вротберунчик: НУ РП
+[10:43:21] вротберунчик: ДА
+[10:43:23] вротберунчик: Я ЗЛОЙ
+[10:43:25] вротберунчик: СУКА
+[10:43:27] вротберунчик: ЛАДНО
+[10:43:30] вротберунчик: ТОГДА НЕ БУДУ
+[10:43:40] вротберунчик: Я?
+[10:43:43] вротберунчик: Я НИЧЕ НЕ ИГНОРИЛ
+[10:43:50] вротберунчик: У НАС ВОЙНА КАК БЫН
+[10:43:52] вротберунчик: ЧЕКНИ Ф4
+[10:44:01] вротберунчик: ВЫ В АЛЬЯНСЕ БЫЛИ С ТЕМИ КТО ВОЙНУ СДЕЛАЛ
+[10:44:07] вротберунчик: ОНО АВТОМАТОМ ВАМ ВЫДАЛО ТОЖЕ
+[10:44:14] RusLanConnection banned вротберунчик for 2 days (плохие слова)
+[10:44:14] Dropped "вротберунчик" from server<STEAM_0:0:160992234>
+[10:44:14] вротберунчик suicided!
+[10:44:53] Хлебушек: Работай Раб
+[10:45:23] Хлебушек: Работай усерднее!
+[10:45:34] Improvised_starting_fire_device killed F4V3ns using tfa_doim1garand
+[10:46:10] Dropped "Hand of Death" from server<STEAM_0:1:442851008>
+[10:46:10] Hand of Death suicided!
+[10:46:23] Client "maksumkolesnukov022" connected.
+[10:47:02] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 39 seconds).
+[10:47:35] ANTI killed vasiliy karat using tfa_doi_m16a1
+[10:47:48] Xtrion killed vasiliy karat using tfa_doimg34
+[10:48:15] Xtrion killed vasiliy karat using tfa_doimg34
+[10:48:28] Improvised_starting_fire_device killed vers1 using wep_jack_gmod_ezshovel
+[10:48:48] (TEAM) maksumkolesnukov022: г
+[10:48:51] maksumkolesnukov022: где карат
+[10:49:00] F4V3ns killed ANTI using ent_panzerschreck_shell_v2
+[10:49:00] maksumkolesnukov022: василий
+[10:49:03] бугагашенька killed Xtrion using ent_bazooka_shell_v2
+[10:49:03] бугагашенька suicided!
+[10:51:15] RusLanConnection started a vote (Перезапускать?)
+[10:51:17] F4V3ns voted for: да
+[10:51:17] vers1 voted for: да
+[10:51:18] Xtrion voted for: да
+[10:51:18] maksumkolesnukov022 voted for: да
+[10:51:18] Improvised_starting_fire_device voted for: да
+[10:51:19] бугагашенька: АФК
+[10:51:20] бугагашенька voted for: да
+[10:51:20] Хлебушек voted for: да
+[10:51:22] бугагашенька: 1
+[10:51:24] RusLanConnection voted for: да
+[10:51:28] Kronos#melonrust voted for: нет
+[10:51:29] Client "Женёк русский паренёк" spawned in server <STEAM_0:1:153943013> (took 874 seconds).
+[10:51:35] Vote results: Option 'да' won. (8/12)
+[10:52:21] (SILENT) RusLanConnection ran lua: for _, ply in player.Iterator() do                    ply:SendMessageOnTop('НАЧАЛАСЬ ЯДЕРНАЯ ВОЙНА', Color(120, 0, 0))                    ply:PlayLocalSound('LANRP/nuke/nuclear war.wav')                 end                SetGlobalVar( 'NuclearWar', true)
+[10:52:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[10:52:51] maksumkolesnukov022: кто ты воин
+[10:53:01] maksumkolesnukov022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:53:04] Xtrion: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:53:04] Xtrion: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:53:05] Xtrion: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:53:05] Xtrion: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:53:06] maksumkolesnukov022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:53:06] maksumkolesnukov022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:53:07] maksumkolesnukov022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:53:07] maksumkolesnukov022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:53:32] maksumkolesnukov022: УНОСИМ МАШИНУ
+[10:53:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[10:53:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[10:53:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[10:54:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[10:54:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[10:54:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[10:54:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[10:54:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[10:54:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[10:54:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[10:54:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[10:54:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[10:54:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[10:54:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[10:54:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[10:54:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[10:54:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[10:54:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[10:54:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[10:54:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[10:54:29] RusLanConnection stripped weapons from Themself
+[10:54:29] RusLanConnection: !strip RusLanConnection
+[10:54:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[10:55:02] maksumkolesnukov022: УЕЗЖАЕМ
+[10:55:31] maksumkolesnukov022: В ЛЕС БЫСТРЕЕ
+[10:55:45] maksumkolesnukov022: ОНИ ЗАПУСКАЮТ
+[10:56:15] ANTI suicided!
+[10:56:15] Xtrion suicided!
+[10:56:15] Improvised_starting_fire_device suicided!
+[10:56:15] maksumkolesnukov022 suicided!
+[10:56:15] vers1 suicided!
+[10:56:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed ANTI using ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed бугагашенька using ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed Xtrion using ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed Improvised_starting_fire_device using ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed Ratlyng2073 using ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed maksumkolesnukov022 using ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed F4V3ns using ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed Kronos#melonrust using ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed vasiliy karat using ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed vers1 using ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed Хлебушек using ent_jack_gmod_eznuke_big
+[10:56:30] RusLanConnection killed Женёк русский паренёк using ent_jack_gmod_eznuke_big
+[10:57:14] Женёк русский паренёк: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:57:21] RusLanConnection changed the map to gm_sro with gamemode jsurvival
+[10:57:21] Server is shutting down/changing levels.
+
+
+
+[10:57:33] New map: gm_sro
+[10:57:39] Client "Женёк русский паренёк" connected.
+[10:57:46] Client "Redoket" connected.
+[10:57:52] Client "kv777666" connected.
+[10:57:58] Client "Kronos#melonrust" spawned in server <STEAM_0:0:554093478> (took 31 seconds).
+[10:58:00] Client "Improvised_starting_fire_device" spawned in server <STEAM_0:1:225675214> (took 33 seconds).
+[10:58:04] Client "Xtrion" spawned in server <STEAM_0:1:201866151> (took 37 seconds).
+[10:58:09] Client "Ratlyng2073" spawned in server <STEAM_0:1:596674952> (took 42 seconds).
+[10:58:10] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 43 seconds).
+[10:58:10] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 43 seconds).
+[10:58:13] Client "vers1" spawned in server <STEAM_0:0:230254820> (took 46 seconds).
+[10:58:14] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 47 seconds).
+[10:58:23] Client "Хлебушек" spawned in server <STEAM_0:0:569947714> (took 56 seconds).
+[10:58:26] Client "Женёк русский паренёк" spawned in server <STEAM_0:1:153943013> (took 47 seconds).
+[10:58:26] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 40 seconds).
+[10:58:32] Client "ANTI" spawned in server <STEAM_0:0:856858307> (took 65 seconds).
+[10:58:45] maksumkolesnukov022: ГЛАВНОЕ МЫ УЕХАЛИ
+[10:58:56] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 89 seconds).
+[10:59:04] Client "F4V3ns" spawned in server <STEAM_0:0:144997869> (took 97 seconds).
+[11:00:18] Женёк русский паренёк: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:42] Ratlyng2073: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:44] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:46] Xtrion: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:46] Xtrion: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:46] Xtrion: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:46] Xtrion: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:47] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:47] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:47] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:47] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:49] vasiliy karat: НУГ
+[11:00:51] бугагашенька: ГОУ
+[11:00:51] vasiliy karat: ГОВНО
+[11:00:52] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:53] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:00:54] vasiliy karat: ПРОСТО ГОВНО
+[11:01:25] vasiliy karat: ЭЙ
+[11:01:27] vasiliy karat: КТО ПОБЕДИЛ
+[11:01:29] бугагашенька: ДА!!!
+[11:01:35] бугагашенька: КУЛАКАМИ
+[11:01:36] vasiliy karat: АБОРИГЕНЫ?!
+[11:01:38] vasiliy karat: УРАААА
+[11:01:41] бугагашенька: кулаками
+[11:01:50] vasiliy karat: ВЫ ПОБЕДИЛИ ?
+[11:01:59] vasiliy karat: КАК
+[11:02:02] vasiliy karat: РАСКАЗЫВАЙ
+[11:02:21] бугагашенька: ВПЕРЕД!!!!
+[11:02:23] Client "Sanchez" connected.
+[11:02:32] vasiliy karat: А
+[11:02:47] Redoket killed Kronos#melonrust using wep_jack_gmod_ezaxe
+[11:02:53] vasiliy karat: ТАМ
+[11:02:57] RusLanConnection cloaked Themself by amount 0
+[11:03:17] vasiliy karat: БЕРУНЧИК БЫЛ В КОМАНДЕ?
+[11:03:19] vasiliy karat: ОН МНЕ ПИСАЛ
+[11:03:23] vasiliy karat: ЛАДНО
+[11:03:41] Ratlyng2073: Музон имба
+[11:03:46] vasiliy karat: НУ ТАМ НАДО БЫЛО ПОМОЧЬ ДРУГУ НА РАБОТУ ПРИВЕЗТИ ЕМУ БЛАГО НЕ ДОЛЕКО
+[11:04:07] Client "Фазбер Мазбер" connected.
+[11:04:08] maksumkolesnukov022: давайте делать ядерную бомбу
+[11:04:12] Ratlyng2073: Мы пойдём по пути мирового комуннизма!
+[11:04:13] бугагашенька: ДАМЫ И ГОСОПДА
+[11:04:13] Kronos#melonrust: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:04:16] бугагашенька: МИНУТКУ 
+[11:04:18] бугагашенька: нет,
+[11:04:19] maksumkolesnukov022: мирный атом!
+[11:04:22] бугагашенька: другого
+[11:04:24] бугагашенька: ТАК
+[11:04:24] maksumkolesnukov022: атом миротворец
+[11:04:30] бугагашенька: реюят
+[11:04:32] бугагашенька: ребят
+[11:04:33] RusLanConnection uncloaked Themself
+[11:04:40] Хлебушек: А вы к кому-то относитесь?
+[11:04:52] Ratlyng2073: ОСУЖДАЮ!
+[11:04:53] Хлебушек: Или вы вольный человек?
+[11:04:54] vasiliy karat: НУ 
+[11:04:59] vasiliy karat: А КТО ЛИДЕРОМ ФРАКЦИИ БУДЕТ
+[11:05:01] бугагашенька: так
+[11:05:02] vasiliy karat: ЕЩЕ НЕ ЯСНО
+[11:05:13] Женёк русский паренёк: ты меня слышишь?
+[11:05:17] бугагашенька: ребят
+[11:05:18] Хлебушек: плохо
+[11:05:19] Женёк русский паренёк: я в войс разговариваю
+[11:05:24] vasiliy karat: О
+[11:05:26] vasiliy karat: ЧУПАК ЗАЙДЕТ
+[11:05:27] бугагашенька: я говорить не умею
+[11:05:39] Женёк русский паренёк: я хочу объединится против тех пидоров
+[11:05:44] Женёк русский паренёк: которые тебя били
+[11:05:49] Хлебушек: Это я слышал
+[11:05:53] Хлебушек: и меня не били
+[11:05:58] Хлебушек: били моего друга
+[11:06:01] Женёк русский паренёк: но меня избили жоско
+[11:06:07] Женёк русский паренёк: ты знаешь как тут крафтить
+[11:06:12] Женёк русский паренёк: пару вопрос есть у меня
+[11:06:14] Хлебушек: да знаю
+[11:06:18] Женёк русский паренёк: я типо сделал верстак
+[11:06:18] maksumkolesnukov022: ОПОЗДАВШИМ КОСТИ
+[11:06:20] Женёк русский паренёк: но дальше нихуя
+[11:06:26] Kronos#melonrust killed ANTI using wep_jack_gmod_ezaxe
+[11:06:27] vers1 killed Kronos#melonrust using wep_jack_gmod_ezpickaxe
+[11:06:33] бугагашенька: по моему нам надо новое место для базы
+[11:07:12] Женёк русский паренёк: ааа
+[11:07:15] maksumkolesnukov022: МАШИНА
+[11:07:17] Женёк русский паренёк: я просто не топил
+[11:07:20] Женёк русский паренёк: все понял теперь
+[11:07:24] Kronos#melonrust killed ANTI using wep_jack_gmod_ezaxe
+[11:07:33] бугагашенька: РЕБЯТ
+[11:07:40] бугагашенька: стопе... где все?
+[11:07:42] Женёк русский паренёк: давай вооружимся
+[11:07:45] Kronos#melonrust: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:07:47] Женёк русский паренёк: и пойдем пизды дадим им
+[11:07:48] бугагашенька: 2 нету
+[11:07:57] Хлебушек: ща я норм верстак сделаю
+[11:08:08] Kronos#melonrust killed бугагашенька using rust_eoka
+[11:08:12] Redoket killed Kronos#melonrust using wep_jack_gmod_ezaxe
+[11:08:24] Client "Chupacabr" connected.
+[11:08:30] Dropped "ANTI" from server<STEAM_0:0:856858307>
+[11:08:30] ANTI suicided!
+[11:09:17] Client "ANTI" connected.
+[11:09:22] бугагашенька: РЕДОКЕТ
+[11:09:24] Redoket killed Kronos#melonrust using wep_jack_gmod_ezaxe
+[11:09:24] maksumkolesnukov022: помоги поднять и перенести
+[11:09:39] Хлебушек: щас я за другом сгоняю
+[11:09:52] Client "ANTI" spawned in server <STEAM_0:0:856858307> (took 35 seconds).
+[11:10:02] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 98 seconds).
+[11:10:21] Client "kv777666" spawned in server <STEAM_0:0:932722207> (took 749 seconds).
+[11:10:49] Женёк русский паренёк: здарова пацаны
+[11:11:10] Хлебушек: кстати можешь вступить в страну 3 мира
+[11:11:24] Женёк русский паренёк: давайте хочу быть негром и работать за гроши
+[11:11:37] Хлебушек: нажми на f4
+[11:11:44] Dropped "kv777666" from server<STEAM_0:0:932722207>
+[11:11:44] kv777666 suicided!
+[11:11:46] Женёк русский паренёк: запросил
+[11:11:49] Женёк русский паренёк: сюда
+[11:11:51] vers1: на 3 взял
+[11:12:16] vers1: На
+[11:12:33] Хлебушек: всё в контейнер
+[11:12:34] vasiliy karat: ЧУПАК ПРИБАВЬ СЕБЯ В НАСТРОЙКАХ ВИНДОВС
+[11:12:44] Хлебушек: иначе руслан нам пизды даст
+[11:13:16] vers1: Музыка из барутраумы
+[11:13:48] бугагашенька: редокет
+[11:14:24] бугагашенька: вкратце-ты командир нашей империи, мотивируй ее на войну и работаь, я 
+[11:14:32] бугагашенька: не могу говорить
+[11:14:52] бугагашенька: не
+[11:14:54] бугагашенька: если надо
+[11:15:00] бугагашенька: то мотивируй
+[11:15:34] (TEAM) ANTI: я керамику нашёл
+[11:16:15] vers1: Музыка напоминает мне работу сб на подлодке солдер
+[11:16:25] vers1: Да
+[11:16:31] vasiliy karat: КАКОЙ У НАС СТИЛЬ?
+[11:16:32] бугагашенька: службы безопасности?
+[11:16:35] vers1: Да
+[11:16:39] vers1: Я умею стрелять
+[11:16:51] vers1: Я много раз спасал фракции и подлодки на службе сб
+[11:17:04] бугагашенька: ДАВАЙТЕ
+[11:17:35] бугагашенька: КУДА
+[11:17:38] бугагашенька: ладно...
+[11:17:41] Женёк русский паренёк: блять
+[11:17:44] Женёк русский паренёк: миссклик
+[11:17:48] maksumkolesnukov022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:18:00] vers1: Еее
+[11:18:07] maksumkolesnukov022: НАШЕ БУДУЗЕЕ
+[11:18:08] maksumkolesnukov022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:18:36] vers1: Ребят
+[11:18:41] vers1: Я купил
+[11:18:43] vers1: Вот
+[11:19:10] Женёк русский паренёк: а вы сильные на этом сервере?
+[11:19:17] vers1: Ура
+[11:19:18] vasiliy karat: АМЕРИКАНСКИЕ
+[11:19:22] vasiliy karat: ИЗ
+[11:19:29] Chupacabr: что за музыка играет?
+[11:19:32] Client "Mico" connected.
+[11:19:34] F4V3ns: Что за ОСТ играет?
+[11:19:39] vasiliy karat: БАРАТТРАВМА
+[11:19:43] Хлебушек: мы довольно быстро развились с учетом того что нас поганяли хорошень
+[11:19:43] F4V3ns: Я так и думал
+[11:19:54] F4V3ns: Я только вчера 10 часов подряд играл в бару
+[11:19:56] maksumkolesnukov022: русЛАН КОМмунист
+[11:20:03] Женёк русский паренёк: желуди садить?
+[11:20:11] Женёк русский паренёк: желуди садить?
+[11:20:14] Хлебушек: потом
+[11:20:19] vers1: Ребят
+[11:20:26] vers1: Можно я буду часовым?
+[11:21:25] vers1: Танки самолеты верталеты
+[11:21:26] бугагашенька: Да
+[11:21:28] бугагашенька: идем
+[11:21:33] Женёк русский паренёк: полечишь?
+[11:21:37] бугагашенька: окейс
+[11:21:37] Женёк русский паренёк: спасиби
+[11:21:47] vers1: ЕЕЕ
+[11:21:55] vers1: Редокет
+[11:22:12] vers1: Редокет
+[11:22:35] Kronos#melonrust: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:22:35] Женёк русский паренёк: как скоро мы пойдем ебальник бить тем тварям?
+[11:22:46] Хлебушек: всему своё время
+[11:22:48] vers1: Энерджни
+[11:22:53] Женёк русский паренёк: угу
+[11:22:54] (TEAM) F4V3ns: ш
+[11:22:55] Женёк русский паренёк: понял
+[11:22:59] Хлебушек: мы скоро сможем калаши крафтить
+[11:24:21] Женёк русский паренёк: /drop
+[11:24:29] Хлебушек: тут нефть
+[11:24:32] Женёк русский паренёк: drop
+[11:25:11] maksumkolesnukov022: патроны
+[11:25:15] maksumkolesnukov022: БОЕПРИПАСЫ
+[11:25:19] maksumkolesnukov022: РУСЛАН ГДЕ БОЕПРИПАСЫ
+[11:25:33] vers1: У нас есть норм энергия
+[11:25:58] Kronos#melonrust: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:26:07] Женёк русский паренёк: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:26:14] Kronos#melonrust: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:26:15] Kronos#melonrust: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:26:15] Kronos#melonrust: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:26:16] Kronos#melonrust: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:26:16] Kronos#melonrust: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:26:16] Kronos#melonrust: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:26:34] vers1: Строить очень плохо я
+[11:26:39] vers1: Единственный
+[11:26:42] Хлебушек: ок
+[11:26:45] vers1: Ну хз
+[11:26:47] vers1: А
+[11:26:49] vers1: Да
+[11:26:59] бугагашенька: ну окейс
+[11:27:23] Женёк русский паренёк: все правильно?
+[11:27:29] Хлебушек: да
+[11:27:35] Kronos#melonrust killed бугагашенька using tfa_doippk
+[11:27:42] Женёк русский паренёк: наш друг здох
+[11:27:49] Женёк русский паренёк: мне так кажется
+[11:28:00] vers1 killed Kronos#melonrust using tfa_at_akm_eft
+[11:28:04] Женёк русский паренёк: бля
+[11:28:06] vers1: Ак затащил
+[11:28:13] бугагашенька: У СУКА
+[11:28:15] vers1: Вотр
+[11:28:18] бугагашенька: ВОЙНУ ОБЯВЛЯЙ
+[11:28:20] vers1: У меня
+[11:28:20] Женёк русский паренёк: спрячся
+[11:28:25] Женёк русский паренёк: там на горе они
+[11:28:27] vers1: Я у нас часовой оке
+[11:28:28] vers1: ?
+[11:28:34] Хлебушек: я видел
+[11:29:27] Dropped "ANTI" from server<STEAM_0:0:856858307>
+[11:29:27] ANTI suicided!
+[11:29:52] vasiliy karat: 1000 ЮНИТОВ КЕРАМИКИ
+[11:30:20] vers1: Я бронированныййй
+[11:30:23] бугагашенька: КЕРАМИКУ НАЧИНАЙТЕ ДОБЫВАТЬ
+[11:30:31] бугагашенька: КЕРАМИКУ БЫ
+[11:31:17] бугагашенька: Я ЩАС НАХУЙ ДАМБУ ЗДЕЛАЮ
+[11:31:30] vers1: бу
+[11:31:35] vers1: бу
+[11:31:40] vers1: Страшна?
+[11:31:55] Женёк русский паренёк: это куда
+[11:31:58] Женёк русский паренёк: в ящик?
+[11:32:03] Хлебушек: пока да
+[11:32:06] Improvised_starting_fire_device killed Kronos#melonrust using tfa_doim1garand
+[11:32:19] vers1: УРА
+[11:32:26] vers1: Я медленный
+[11:32:38] F4V3ns was killed by ent_jack_gmod_ezpumpjack
+[11:32:59] vasiliy karat: ПОНЯЛ
+[11:33:16] vers1: Не знаю
+[11:33:21] vers1: Нет стен нет часового
+[11:33:29] бугагашенька: да
+[11:33:30] vers1: В нападение
+[11:33:51] vers1: Я с вами
+[11:34:01] vers1: Бегу
+[11:34:11] vers1: Я медленный
+[11:34:22] vers1: сосал?
+[11:34:37] vers1: А я бронированный
+[11:34:45] vers1: Имба
+[11:35:04] vers1: как
+[11:35:08] бугагашенька: йоу
+[11:35:14] бугагашенька: НАМ НАДО
+[11:35:19] бугагашенька: КЕРАМИКА
+[11:35:26] vers1: УГ
+[11:35:29] vasiliy karat: ОН
+[11:35:32] vasiliy karat: НАВЕРНОЕ НЕ ПРО НАС
+[11:35:33] vers1: МЕНя подождите
+[11:35:52] бугагашенька: у меня ракетница
+[11:35:56] бугагашенька: и аптечка
+[11:36:08] vers1: НАПАЛИ
+[11:36:10] бугагашенька: СОРРИ
+[11:36:11] vers1: ОНИ
+[11:36:35] Хлебушек: Здравствуйте
+[11:36:41] vasiliy karat: Я ДУМАЮ
+[11:36:43] vasiliy karat: ОН НЕ ПРО НАС
+[11:36:48] vasiliy karat: А ПРО ДРУГУЮ ФРАКЦИЮ
+[11:37:05] vers1: Я устал бегать
+[11:37:24] Хлебушек: Да мы согласны
+[11:37:35] бугагашенька: хей
+[11:37:36] vers1: Помогите я задохнусь сейча
+[11:37:40] vers1: В этой броне
+[11:37:49] Хлебушек: мы тоже хотели-бы извинится за нашу макаку
+[11:38:07] vers1: На них
+[11:38:15] vers1: На них надо
+[11:38:15] бугагашенька: бу
+[11:38:18] Хлебушек: а как принять
+[11:38:20] бугагашенька: че как ты?
+[11:38:30] бугагашенька: мы с миром
+[11:38:37] бугагашенька: на
+[11:38:48] бугагашенька: на
+[11:38:58] Хлебушек: удачи
+[11:39:05] vers1: Подарок
+[11:39:15] бугагашенька: ура
+[11:39:21] бугагашенька: ПРАЗНИК!!!
+[11:39:22] vers1: Наподем?
+[11:39:32] бугагашенька: ПЕЙ ПИВО
+[11:39:32] Хлебушек: с миром за пивом!
+[11:39:42] бугагашенька: ДАВАЙТЕ БЫСТРЕЕ СПОРТ ЕПТА
+[11:39:48] бугагашенька: АЛОУ ШНЕЛЕ МАИН ФРЕИНД
+[11:39:51] бугагашенька: ХЫЦ
+[11:40:05] бугагашенька: да похуй
+[11:40:27] бугагашенька: ПЙОМ ПИВО
+[11:40:53] бугагашенька: керамика?
+[11:40:58] бугагашенька: я там ДАМБУ строю
+[11:41:08] бугагашенька: ДА ТАМ КУЧА ЕЕ НАДО БЛЯТЬ
+[11:41:15] бугагашенька: если надо нормально делать
+[11:41:34] vers1: Ладно
+[11:41:49] бугагашенька: так
+[11:42:17] vers1: Я ДОБЕЖАЛ!
+[11:43:02] vers1: Я часовой
+[11:43:04] vers1: Типо
+[11:43:13] vers1: Не построили еще
+[11:43:22] Хлебушек: нет
+[11:43:30] vers1: Я заепался в этой броне ходить
+[11:43:40] maksumkolesnukov022: Я ДОБЫЛ ВОДУ
+[11:44:29] vers1: Я скрафчу более лёгкую броню
+[11:45:19] бугагашенька: делаю нефтянку кароче
+[11:45:33] RusLanConnection: supply radio: steel
+[11:45:42] vers1: Сойдет или еще чет надеть как думаешь?
+[11:45:45] vasiliy karat: ВИЖУ
+[11:45:46] vasiliy karat: ЗЕЛЕНЫХ
+[11:45:46] vers1: Как часовому
+[11:45:48] vasiliy karat: НА МАШИНЕ
+[11:45:50] vasiliy karat: НА ГОРЕ
+[11:45:57] vers1: Медиум
+[11:46:00] vers1: Оке
+[11:46:17] maksumkolesnukov022: ЧТО ВАМ НАДО
+[11:47:05] бугагашенька: щас он сам пропадет
+[11:47:08] бугагашенька: надеюся...
+[11:47:17] бугагашенька: неа
+[11:47:24] бугагашенька: если зас подойдеш заражишся
+[11:47:25] vers1: Там постройка какая то
+[11:48:01] бугагашенька: да тут удет стена
+[11:48:10] бугагашенька: в ящике
+[11:48:12] бугагашенька: есть
+[11:49:07] vers1: ЕЕЕ
+[11:49:21] maksumkolesnukov022: что вы добываете?
+[11:49:24] maksumkolesnukov022: уголь?
+[11:49:56] maksumkolesnukov022: если нужна будет вода я знаю где
+[11:50:19] vers1: Медика
+[11:50:30] vers1: Кха
+[11:50:31] vers1: Да
+[11:50:32] vers1: Эй
+[11:50:34] бугагашенька: А?
+[11:50:36] vers1: Маяковский
+[11:50:43] vers1: Это гд
+[11:50:43] бугагашенька: ема
+[11:50:56] vers1: Придатели?
+[11:51:44] Хлебушек: я спать
+[11:51:47] Dropped "Хлебушек" from server<STEAM_0:0:569947714>
+[11:51:47] Хлебушек suicided!
+[11:51:52] vers1: Я закапал
+[11:51:58] бугагашенька: хай
+[11:52:15] vers1: Ред кет
+[11:52:21] vers1: Я
+[11:52:23] vers1: Я делал
+[11:52:25] maksumkolesnukov022: капец
+[11:52:25] vers1: Я клутой?
+[11:52:31] vers1: Да извините
+[11:52:34] vers1: Нет
+[11:52:36] vers1: Я сам
+[11:52:41] vers1: Хелп
+[11:52:46] vers1: Медик
+[11:52:55] maksumkolesnukov022: БУР ПОГЛОТИЛ ЕГО
+[11:53:09] vers1: Имунитет
+[11:53:12] vers1: Будем
+[11:53:28] vers1: НЕт
+[11:53:32] vers1: Не уходи
+[11:53:43] vers1: Коммандир
+[11:53:54] vers1: Часовому оставить ак или взять пульмет?
+[11:53:56] vers1: Бать
+[11:54:04] vers1: Что делать
+[11:54:07] vers1: Бать
+[11:54:11] vers1: Не
+[11:54:16] vers1: Я говорю ак брать или пульмет
+[11:54:29] vers1: Я часовой
+[11:54:34] vers1: Оке
+[11:55:35] maksumkolesnukov022: КРАСНОЛИЦЫЕ
+[11:55:46] бугагашенька: угу
+[11:55:49] vers1: Угу
+[11:56:00] бугагашенька: ну окей
+[11:56:01] бугагашенька: прост
+[11:56:08] бугагашенька: у нас очень не хорошая позиция
+[11:56:11] vers1: Батя
+[11:56:53] vers1: батя
+[11:56:59] vers1: Давай искать людей
+[11:57:00] vers1: К нам
+[11:57:14] maksumkolesnukov022: НЕ СЛЫШУ
+[11:57:41] vers1: У меня иммунитет
+[11:57:46] vers1: Стрельба?
+[11:58:31] бугагашенька: такс
+[11:58:32] Xtrion killed vasiliy karat using tfa_doippk
+[11:58:38] F4V3ns killed Xtrion using tfa_doig43
+[11:58:38] vasiliy karat: НАПАДЕНИЕ
+[11:58:38] maksumkolesnukov022: ВНИМАНИЕ
+[11:58:40] maksumkolesnukov022: НАПАДЕНИЕ
+[11:58:51] Dropped "Xtrion" from server<STEAM_0:1:201866151>
+[11:58:51] Xtrion suicided!
+[11:58:51] vers1: Стрельба?
+[11:59:11] бугагашенька: мля ВОДА
+[11:59:20] бугагашенька: нетц
+[11:59:22] бугагашенька: нету
+[11:59:34] vers1: Тут вода есть
+[11:59:40] vers1: Вот
+[11:59:41] vers1: Тут
+[11:59:48] vers1: Сюда
+[11:59:50] maksumkolesnukov022: ВЫЗЫВАЮ ГРУЗОВИК
+[12:00:00] maksumkolesnukov022: ГРУЗОВИК ПРИЁМ
+[12:00:01] vers1: Харашо батя
+[12:00:08] maksumkolesnukov022: НА НАС БЫЛО НАПАДЕНИЕ
+[12:00:18] maksumkolesnukov022: КАРАТА ПОДБИЛИ
+[12:00:23] maksumkolesnukov022: НЕИЗВЕСТНО
+[12:00:40] maksumkolesnukov022: Я НЕ ВИДЕЛ ОН БЫЛ ЗА СТЕНОЙ
+[12:01:18] vers1: Как снять
+[12:01:23] vers1: Штуку
+[12:01:25] бугагашенька: угу
+[12:01:26] vers1: Батя
+[12:01:34] vers1: Как сделать чтобы в верх была
+[12:01:36] vers1: Штука
+[12:01:45] бугагашенька: ТОПЛИВО НАДО
+[12:01:50] vers1: Батя
+[12:01:53] vers1: Как в верх поднять
+[12:02:00] бугагашенька: А ДА? Я ДУМАЛ МЫ НА АМЕРИКАН ТАНК
+[12:02:02] бугагашенька: ХАХ
+[12:02:10] Client "Vi_11d" connected.
+[12:02:12] vers1: Я не понимаю
+[12:02:15] vasiliy karat: Я ХОЧУ ПОКАЗАТЬ
+[12:02:24] бугагашенька: маус
+[12:02:30] vasiliy karat: ЭТОТ СОЛДАТ
+[12:02:33] vasiliy karat: ПОГИБ ОТ РУК
+[12:02:49] vasiliy karat: ЭТОТ СОЛДАТ СТРОИЛ ЭТУ СТЕНУ
+[12:03:00] vasiliy karat: СО СТОРОНЫ МОСТА
+[12:03:01] vasiliy karat: ВЫШЕЛ
+[12:03:05] vasiliy karat: КАКОЙ ТО
+[12:03:10] vasiliy karat: ЧУВАК В БЕЛОМ КОМБЕЗЕ
+[12:03:22] vasiliy karat: ОБЕЗУМЕВШИЙ ОТ ТРУПНОЕ БОЛЕЗНИ
+[12:03:24] vasiliy karat: Я ТЕБЯ
+[12:03:48] vasiliy karat: ГЛУХО СЛЫШНО
+[12:04:01] vasiliy karat: ОН БЫЛ В МОЕМ СТРОИТЕЛЬНОМ ОТРЯДЕ
+[12:04:06] vasiliy karat: А ТЕПЕРЬ ОН В БЕЗЫМЯНОЙ МОГИЛЕ
+[12:04:12] бугагашенька: ещкере
+[12:04:26] vasiliy karat: СЕЙЧА
+[12:04:27] бугагашенька: СТАЛЬ
+[12:04:30] vasiliy karat: ПРИНЕСУ
+[12:04:31] бугагашенька: НАМ НУЖНА СТАЛЬ
+[12:04:31] maksumkolesnukov022: ТЕПЕРЬ ЭТОТ СОЛДАТ БУДЕТ В СТЕНАХ ЭТОГО ГОСУДАРСТВА
+[12:04:50] vers1: бАТЯ
+[12:04:53] vers1: Я улучшил
+[12:04:57] vers1: Батя
+[12:05:01] maksumkolesnukov022: ПУСТИЛИ ПРАХ НА ЦЕМЕНТ
+[12:05:04] vers1: 6 солнечных панелей поставил
+[12:05:11] vasiliy karat: ВОН ТОТ БУР
+[12:05:23] бугагашенька: света нету
+[12:05:27] maksumkolesnukov022: не
+[12:05:45] vers1: Много
+[12:05:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezceramic
+[12:05:51] vers1: 5 Солнечных панелей батя
+[12:05:54] vers1: На нефть
+[12:06:09] vasiliy karat: Я ПРИНЕС
+[12:06:11] vers1: Чта
+[12:06:44] maksumkolesnukov022: нам нужен тунгскен
+[12:06:48] maksumkolesnukov022: для прек партсов
+[12:06:53] maksumkolesnukov022: дорого
+[12:06:59] бугагашенька: ы
+[12:07:04] бугагашенька: ААААААААААААААААА
+[12:07:12] maksumkolesnukov022 was killed by ent_jack_aidbox
+[12:07:15] бугагашенька: НЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕТ
+[12:07:19] бугагашенька: ПОХРОНЫ
+[12:07:29] бугагашенька: ТРАУРИГ
+[12:07:38] бугагашенька: я немец
+[12:08:01] бугагашенька: А 5 ХП
+[12:08:04] бугагашенька: БЕЗУМНАЯ
+[12:08:09] бугагашенька: Я ЩАС СТРЕЛЯТЬ БУДУ
+[12:08:12] бугагашенька: НЕ ДВИГАЙСЯ
+[12:08:15] бугагашенька: БУР
+[12:08:16] vers1: Та та та та та та та та та
+[12:08:18] бугагашенька: Я ТЕБЯ ЩАС
+[12:08:23] бугагашенька: НЕ ДВИГАЙСЯ
+[12:08:28] бугагашенька: ИЛИ Я СТРЕЛЯЮ
+[12:08:30] maksumkolesnukov022: ЭТОТ СОЛДАТ ПОГИБ
+[12:08:35] бугагашенька: ОНО ДВИНУЛОСЬ
+[12:09:28] Chupacabr: надо подождатьь с продажей
+[12:09:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[12:09:57] vers1: Батя
+[12:09:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[12:10:01] vers1: Когда война
+[12:10:04] vers1: Я ухожу скоро
+[12:10:12] vers1: Дадада
+[12:10:18] бугагашенька: БЛЯТЬ
+[12:10:19] vers1: Ну ладна
+[12:10:33] vers1: Ланком
+[12:10:37] vers1: Плохие
+[12:10:41] бугагашенька: пиздец
+[12:11:11] Chupacabr: нету
+[12:11:12] vers1: Баланс
+[12:11:14] бугагашенька: оно подключено?
+[12:11:14] vers1: Батя
+[12:11:19] vers1: Балансирую
+[12:11:20] vers1: Батя
+[12:11:38] vers1: Баланс
+[12:12:10] vers1: Батя
+[12:12:14] vers1: Я кондиции словил
+[12:12:15] vers1: Батя
+[12:12:17] бугагашенька: ГОУ
+[12:12:20] vers1: БАТЯ
+[12:12:30] vers1: Баланс
+[12:12:33] vers1: Батя
+[12:12:38] бугагашенька: УРАААААААААААА
+[12:12:42] vers1: БАТЯЯЯЯЯЯЯ
+[12:12:42] бугагашенька: я кстате
+[12:12:45] бугагашенька: зделал такой 1
+[12:12:51] Client "4StringS" connected.
+[12:12:52] бугагашенька: и его уништожили за 5 сек...
+[12:13:01] бугагашенька: ракетницой
+[12:13:06] vers1: Ой
+[12:13:24] Chupacabr: хорошо
+[12:13:29] vers1: Я с тобой
+[12:13:30] vers1: Батя
+[12:13:52] vasiliy karat: ЭТО
+[12:13:54] vasiliy karat: Я СДЕЛАЛ
+[12:13:57] vasiliy karat: ТЕХ ТОНЕЛЬ СДЕЛАЛ
+[12:13:57] vers1: Я
+[12:14:12] Chupacabr: ну пока никого нет дома
+[12:14:17] Client "Vi_11d" spawned in server <STEAM_0:0:648327125> (took 727 seconds).
+[12:14:53] бугагашенька: у других нет керамики
+[12:14:56] бугагашенька: отойди
+[12:14:58] Chupacabr: выхожу на разведку пешим ходом
+[12:15:00] vers1: Они плохие?
+[12:15:09] Chupacabr: машину спрятал ибо стелс
+[12:15:19] Chupacabr: кон
+[12:15:23] Chupacabr: ец связи
+[12:16:32] vers1: И поноса
+[12:16:34] vers1: Тоже
+[12:17:02] Dropped "Kronos#melonrust" from server<STEAM_0:0:554093478>
+[12:17:02] Kronos#melonrust suicided!
+[12:17:14] бугагашенька: АФК
+[12:17:18] бугагашенька: 5 секундс
+[12:17:21] vers1: Е
+[12:17:29] vers1: Да
+[12:17:37] vers1: Самоучка
+[12:17:45] maksumkolesnukov022: твой,
+[12:17:47] vasiliy karat: НА ХОЛМЕ
+[12:17:50] vers1: Это нормальн
+[12:17:54] vasiliy karat: S
+[12:17:57] vasiliy karat: НА ЮГ
+[12:18:10] vers1: Этокто
+[12:18:12] vasiliy karat: ПО НЕМУ ТУРЕЛЬ СТРЕЛЯЛА
+[12:19:03] vers1: Через 5 минут уходить(
+[12:19:10] vers1: У меня ночь
+[12:19:12] vers1: Ладно
+[12:19:15] vers1: Да
+[12:19:20] бугагашенька: я тут
+[12:19:23] vers1: У меня тоже
+[12:19:23] Vi_11d: а как тут развиватся
+[12:19:29] vers1: Только вот мне в 6 утра вставать
+[12:19:33] vasiliy karat: ОРНИТОЛОГ?
+[12:19:38] бугагашенька: А?
+[12:19:39] vers1: Мечта
+[12:19:43] vasiliy karat: ПТИЧЕК СМОТРИШЬ ИЗ БИНОКЛЯ?
+[12:19:55] vers1: Приятного чаепития
+[12:19:57] бугагашенька: вкратце это йока
+[12:20:04] бугагашенька: оно не сразу
+[12:20:06] бугагашенька: ну да
+[12:20:09] бугагашенька: береш
+[12:20:16] Vi_11d: !modtt
+[12:20:22] Vi_11d: не понял как команду написать правильно
+[12:20:29] бугагашенька: использованя
+[12:20:38] Vi_11d: можешь в чат написать
+[12:20:42] бугагашенька: ну ты типо беш пару раз (1 или 4 раза) по штукой
+[12:20:44] бугагашенька: жтой
+[12:20:46] RusLanConnection: .!motd
+[12:20:48] Vi_11d: !motd
+[12:20:49] бугагашенька: и стреляеш дробю
+[12:20:55] vers1: Ай
+[12:20:57] бугагашенька: ну норм
+[12:20:59] бугагашенька: ну вобще
+[12:20:59] vers1: Водитель
+[12:21:03] бугагашенька: это камешки
+[12:21:06] бугагашенька: но похуй
+[12:21:13] vers1: А ты зачем
+[12:21:15] maksumkolesnukov022: ТАМ УГОЛЬ
+[12:21:17] vers1: На такой верх
+[12:21:18] vasiliy karat: Я СЛУШАЮ
+[12:21:24] vasiliy karat: НЕТ
+[12:21:26] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbasicparts
+[12:21:48] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[12:21:53] Dropped "Женёк русский паренёк" from server<STEAM_0:1:153943013>
+[12:21:53] Женёк русский паренёк suicided!
+[12:22:08] maksumkolesnukov022: там где сканер бери кирку и добывай
+[12:22:10] vers1: Я в чайные пакетики
+[12:22:14] maksumkolesnukov022: ок
+[12:22:25] vers1: Чайные пакетики сила
+[12:22:29] vers1: О
+[12:22:31] vers1: Забераем
+[12:22:33] vers1: С собой
+[12:22:50] vers1: А чайные пакетики?
+[12:22:58] maksumkolesnukov022: Я СКОРО ВЕРНУСЬ
+[12:23:09] Chupacabr: да
+[12:23:11] maksumkolesnukov022: вы же меня отвезёте обратно...?
+[12:23:15] vers1: Не
+[12:23:17] Chupacabr: тяжелоый таенк
+[12:23:22] vers1: Ладно
+[12:23:28] бугагашенька: ХЫЕ
+[12:23:31] Chupacabr: не негротек но тяжелый
+[12:23:42] бугагашенька: не ну реально
+[12:23:45] бугагашенька: черепаха
+[12:23:51] Chupacabr: ДА
+[12:23:53] vers1: Мне осталось сидеть за пк минута
+[12:24:01] vers1: Ура
+[12:24:03] бугагашенька: ны
+[12:24:13] maksumkolesnukov022: ОНИ ЧТОТО ПРЯЧУТ ЗА СТЕНОЙ
+[12:24:14] vers1: А что от меня должно остаться что то?
+[12:24:20] vers1: Я думал меня на чайные пакетики
+[12:24:25] бугагашенька: хай отец
+[12:24:30] бугагашенька: хы
+[12:24:34] бугагашенька: че там?
+[12:24:39] бугагашенька: ГОУ
+[12:24:56] vers1: Всем удачи
+[12:24:56] бугагашенька: ПОХУЙ
+[12:25:00] maksumkolesnukov022: руслан
+[12:25:02] бугагашенька: АЙ
+[12:25:03] maksumkolesnukov022: они чтото прячут
+[12:25:05] maksumkolesnukov022: за стеной
+[12:25:07] maksumkolesnukov022: я уверен
+[12:25:08] vers1: Абщи
+[12:25:10] Dropped "vers1" from server<STEAM_0:0:230254820>
+[12:25:10] vers1 suicided!
+[12:25:14] maksumkolesnukov022: я пойду разведаю
+[12:25:19] maksumkolesnukov022: если я не вернусь
+[12:25:20] бугагашенька: ЧАВО
+[12:25:32] maksumkolesnukov022: что там
+[12:25:35] Chupacabr: радио барахлит
+[12:25:51] vasiliy karat: ВОВА
+[12:26:03] бугагашенька: у нас есть выбор?
+[12:26:27] maksumkolesnukov022: Я предлагаю сделать турбо лёгкий танк
+[12:27:55] vasiliy karat: ПРОВЕДИТЕ ЭЛЕКТРИЧЕСТВУ
+[12:27:58] vasiliy karat: И ТРУБЫ
+[12:27:59] vasiliy karat: К БУРУ
+[12:28:02] vasiliy karat: КЕРАМИКИ
+[12:28:12] vasiliy karat: ВОТ НАШЕЛ УЖЕ
+[12:28:15] Chupacabr: золото можно не продавать
+[12:28:16] бугагашенька: ну слабая фракцыя с
+[12:28:21] Dropped "Vi_11d" from server<STEAM_0:0:648327125>
+[12:28:21] Vi_11d suicided!
+[12:28:34] бугагашенька: ну да мля
+[12:28:35] vasiliy karat: ДА
+[12:28:55] бугагашенька: йоу
+[12:29:00] бугагашенька: ХЕЙ
+[12:29:03] maksumkolesnukov022: КОПАЕМ
+[12:29:06] бугагашенька: зырь
+[12:29:15] бугагашенька: РАСТРЕЛ КИРКИ
+[12:29:20] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[12:29:20] Redoket suicided!
+[12:29:23] бугагашенька: АЙ
+[12:29:27] бугагашенька: ОНО
+[12:29:31] бугагашенька: СОПРОТИВЛЯЕТЬСЯ!
+[12:29:36] Improvised_starting_fire_device: как говорила моя мама моему папе
+[12:29:40] Improvised_starting_fire_device: только не на меня
+[12:29:46] Improvised_starting_fire_device: ай
+[12:29:47] vasiliy karat: ПОТЕНЦИАЛЬНЫЙ ВРАГ С КАЖДЕЙ СИКУНДОЙ СЛАБЕЕТ
+[12:30:09] vasiliy karat: РУСЛАН ДАЙ ЛИДЕРСТВО
+[12:30:14] F4V3ns suicided!
+[12:30:16] vasiliy karat: Я ТЕБЕ ПОКАЖУ
+[12:30:18] vasiliy karat: КОНФЛИКТ
+[12:30:25] vasiliy karat: Я ПОШУТИЛЛ
+[12:30:31] vasiliy karat: НЕ РАСТРЕЛИВАЙТЕ
+[12:30:38] maksumkolesnukov022: щас ракман за врагов будет
+[12:30:38] Client "Rackman" connected.
+[12:31:14] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 36 seconds).
+[12:31:24] maksumkolesnukov022: ААА
+[12:31:43] maksumkolesnukov022: НАС ПРЕДАЛИ
+[12:31:47] Chupacabr killed vasiliy karat using tfa_doik98
+[12:31:49] vasiliy karat: ААЙ
+[12:31:50] vasiliy karat: БОЛЬГНО
+[12:31:55] maksumkolesnukov022: ПРЕДАТЕЛЬ
+[12:32:09] vasiliy karat: ЧУПАК
+[12:32:11] vasiliy karat: ОН ПРЕДАЛ
+[12:32:13] vasiliy karat: ОН 
+[12:32:20] Chupacabr killed Ratlyng2073 using tfa_doik98
+[12:32:23] vasiliy karat: В ГОЛОВУ ЛЕЗУТ АНАРХИСКИЕ МЫСЛИ
+[12:32:27] maksumkolesnukov022: Я ДОЛЖЕН БЫЛ РАНЬШЕ ДОГАДАТСЯ
+[12:32:30] F4V3ns killed Chupacabr using tfa_doig43
+[12:32:33] vasiliy karat was killed by ent_jack_gmod_ezshovel
+[12:32:35] maksumkolesnukov022: ОН МНЕ ГОВОРИЛ ПРО ЕГО МЫСЛИ
+[12:32:42] maksumkolesnukov022: НАС ПРЕДАЛИ
+[12:32:47] maksumkolesnukov022: БОЕВАЯ ГОТОВНОСТЬ
+[12:33:15] бугагашенька: кто таков?
+[12:33:21] Chupacabr: друг
+[12:33:26] Chupacabr: хочу к вам
+[12:33:34] бугагашенька: ну давай друган
+[12:33:47] бугагашенька: АЙ БЛЯ
+[12:33:52] бугагашенька: ДАРОВА
+[12:33:54] Chupacabr: они лохи
+[12:33:55] бугагашенька: ЧЕ КАК?!
+[12:34:02] бугагашенька: СОГЛАСЕН
+[12:34:11] Chupacabr: всех замочил когда сбегал из таталитаризма
+[12:34:14] RusLanConnection killed Rackman using tfa_doimp40
+[12:34:20] Chupacabr: осталось раненых добить
+[12:34:21] бугагашенька: ХАХАХААХХАХАХХПАХПХАХПХАХП КРАСАВА НАХУЙ
+[12:34:23] Client "Redoket" connected.
+[12:34:29] Chupacabr: сек
+[12:34:30] бугагашенька: ЗДРАВИЯ ЖЕЛАЮ
+[12:34:44] бугагашенька: понял
+[12:34:50] бугагашенька: у нас строй?
+[12:35:18] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 55 seconds).
+[12:35:22] maksumkolesnukov022: Я ДУМАЮ ОНИ ПОСТРОЯТ НЕГРОТЕК
+[12:35:34] maksumkolesnukov022: НАМ НУЖЕН СВОЙ
+[12:35:43] maksumkolesnukov022: БИТВА ТИТАНОВ
+[12:35:46] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezaidradio
+[12:35:48] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[12:36:17] vasiliy karat: БАШНЯ ДАЕТ ОБЗОР НА МОСТ
+[12:36:35] бугагашенька: ХААЙ
+[12:36:38] бугагашенька: дарова
+[12:36:46] бугагашенька: КРУТО
+[12:37:30] бугагашенька: ВОЙНА
+[12:37:59] maksumkolesnukov022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[12:38:04] бугагашенька: У НАС СТОЛИЦА ХОТЯ Б ЕСТЬ?!
+[12:38:11] Redoket: supply radio: fulton-crate
+[12:38:18] бугагашенька: мне все равно
+[12:38:20] бугагашенька: я шнелен
+[12:38:22] vasiliy karat: ТАМ НА ВВЕРХУ БАШНИ ХОРОШИЙ ОБЗОР 
+[12:38:24] maksumkolesnukov022: ПОКА ЧУПАК БЫЛ У НИХ
+[12:38:25] бугагашенька: унд хелпен
+[12:38:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[12:38:29] maksumkolesnukov022: ОНИ ПРОМЫЛИ ЕМУ МОЗГИ
+[12:38:30] бугагашенька: Я Я!
+[12:38:34] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[12:40:18] бугагашенька: ЗАМЕЧЕН ОБЕКТ НЕИЗВЕСНЫЙ, ПОХОЖЕ ТАНК
+[12:40:26] (TEAM) бугагашенька: НЕЗНаЮ
+[12:40:29] vasiliy karat: ТАМ СНАЙПЕР
+[12:40:31] бугагашенька: ДАЛЕКО
+[12:40:34] бугагашенька: СКОРЕ ВСЕГО ГОРА
+[12:40:41] бугагашенька: НЕ ВИЖУ И НЕ СЛЫШУ
+[12:40:46] vasiliy karat: ПОДЛЕЧИ
+[12:40:46] бугагашенька: НЕ СТРЕЛЯЕТ, Я СКОРЕЕ ВСЕГО СЛЕПОЙ
+[12:41:19] бугагашенька: УКРЕПЛЕНИЯ ИЗ ПЕСКА
+[12:41:24] бугагашенька: ПОНЯЛ ЭТО НЕ ТАНК
+[12:41:29] бугагашенька: СВОЙ ИДЕТ
+[12:42:06] бугагашенька: нет скоре всего
+[12:42:21] бугагашенька: ДАЛЬШЕ МОСТА
+[12:42:33] бугагашенька: НЕ СЛЫШУ
+[12:42:35] бугагашенька: ЧАТ
+[12:42:42] Improvised_starting_fire_device: больше на танк похоже
+[12:42:49] бугагашенька: не я вижу
+[12:42:52] бугагашенька: боком посмотри
+[12:42:57] бугагашенька: через край экрана
+[12:43:02] бугагашенька: ТАМ
+[12:43:04] бугагашенька: СТРОЯТ
+[12:43:04] Improvised_starting_fire_device: там снайцпер
+[12:43:13] maksumkolesnukov022: ПРИЁМ
+[12:43:15] бугагашенька: ЗАСТРОЙКИ
+[12:43:19] maksumkolesnukov022: ПРИЁМ
+[12:43:21] бугагашенька: СКОРЕЕ ВСЕГО
+[12:43:24] бугагашенька: ЗАСТРОЙКА
+[12:43:25] Redoket killed vasiliy karat using tfa_doik98_scop
+[12:43:28] maksumkolesnukov022: ВИЖУ ТРУП НАШЕГО
+[12:43:40] бугагашенька: по моему
+[12:43:46] бугагашенька: ну да
+[12:43:50] maksumkolesnukov022: вижу снайпера
+[12:43:50] бугагашенька: СЭР
+[12:43:53] Chupacabr: он поедит вообще
+[12:43:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[12:43:57] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsteel
+[12:43:57] бугагашенька: СКОРЕ ВСЕГО
+[12:43:58] бугагашенька: ДА
+[12:44:00] бугагашенька: СТРОЯТ
+[12:44:04] бугагашенька: ДАЛЕКО
+[12:44:07] бугагашенька: ДАЛЬШЕ МОСТА
+[12:44:09] бугагашенька: КОЕ КАК ВИДИМ
+[12:44:12] бугагашенька: ЭЛЕ ЭЛЕ
+[12:44:33] бугагашенька: то и то
+[12:45:01] maksumkolesnukov022: ПО МНЕР РАБОТАЕ СНАЙПЕР
+[12:45:07] бугагашенька: ДА ЭТО СНАЙПЕР
+[12:45:18] бугагашенька: ИДЕТ СВОЙ
+[12:46:28] maksumkolesnukov022: ПРИЁМ
+[12:46:31] maksumkolesnukov022: нас 2
+[12:46:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[12:46:35] maksumkolesnukov022: ОДИН ПРОДВИГАЕТСЯ
+[12:46:39] maksumkolesnukov022: ПРОТИВНИК ВИДИМО 1
+[12:46:42] vasiliy karat: ДЕРЖИТЕСЬ ТАМ
+[12:46:43] maksumkolesnukov022: СНАЙПЕР
+[12:46:46] maksumkolesnukov022: ДА ЕСТЬ
+[12:46:52] бугагашенька: СЭР
+[12:46:59] бугагашенька: ПОСТРОЙКИ ИХНИЕ УНИШТОЖЕНЫ НЕ НАМИ
+[12:47:03] бугагашенька: СОКРЕ ВСЕГО ТАМ БАЗА
+[12:47:06] бугагашенька: ЗА ГОРОЙ
+[12:47:10] бугагашенька: ЧЕ ДЕЛАТЬ?
+[12:47:11] vasiliy karat: МОЖЕТ ИЗ ТАНКА ОБСТРЕЛИВАТЬ ОН НЕМНОГО АРТЕЛЕРИСКИ
+[12:47:21] maksumkolesnukov022: СНАЙПЕР РАБОТАЕТ С ХОЛМА НА ИХ БАЗЕ
+[12:47:45] F4V3ns killed Improvised_starting_fire_device using tfa_doik98_scop
+[12:47:46] бугагашенька: А
+[12:47:46] maksumkolesnukov022: Я РАНЕН
+[12:47:58] бугагашенька: ТУТ
+[12:48:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[12:48:13] maksumkolesnukov022: ПРИЁМ 
+[12:48:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[12:48:16] бугагашенька: Я ПУЛЕМЕТ ХОЧУ
+[12:48:19] F4V3ns killed Chupacabr using tfa_doik98_scop
+[12:48:20] бугагашенька: ТУТ СТЕНА
+[12:48:32] бугагашенька: НЕВИДИМАЯ
+[12:48:33] бугагашенька: ДА
+[12:48:42] бугагашенька: ага...
+[12:48:48] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[12:49:06] бугагашенька: подцыпи
+[12:49:28] vasiliy karat: К
+[12:49:33] бугагашенька: УХЫ
+[12:49:35] Ratlyng2073 killed Improvised_starting_fire_device using tfa_verdun_tankgewehr
+[12:49:52] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001a.mdl
+[12:49:52] maksumkolesnukov022: отходи
+[12:49:59] Redoket killed Ratlyng2073 using tfa_doik98_scop
+[12:50:11] Chupacabr: легкий танк
+[12:50:14] maksumkolesnukov022: МЫ У ТАНКА
+[12:50:19] Chupacabr: 230 градусов
+[12:50:21] vasiliy karat: КУПИТЕ ПАТРОНОВ
+[12:50:29] vasiliy karat: НА ТАНК
+[12:50:37] бугагашенька: бинокль?
+[12:50:52] Chupacabr: едет с моста танк
+[12:51:12] бугагашенька: спс
+[12:51:45] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[12:51:45] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[12:52:41] Redoket killed F4V3ns using ent_jack_gmod_ezfirehazard
+[12:52:55] vasiliy karat: ОГНЕМЕТЧИК УБИТ
+[12:53:12] бугагашенька killed vasiliy karat using ent_bazooka_shell_v2
+[12:53:15] Ratlyng2073 killed Improvised_starting_fire_device using tfa_doim1carbine
+[12:53:20] бугагашенька killed RusLanConnection using ent_bazooka_shell_v2
+[12:53:24] Chupacabr killed Ratlyng2073 using tfa_doik98_scop
+[12:53:51] RusLanConnection killed Redoket using tfa_doiowen
+[12:54:03] RusLanConnection killed бугагашенька using tfa_doiowen
+[12:54:11] бугагашенька: СУ
+[12:54:11] Chupacabr killed Ratlyng2073 using tfa_doik98_scop
+[12:54:38] Redoket killed maksumkolesnukov022 using lvs_wheeldrive_dodtiger
+[12:54:39] Redoket killed RusLanConnection using lvs_wheeldrive_dodtiger
+[12:54:51] Redoket killed Ratlyng2073 using lvs_wheeldrive_dodtiger
+[12:55:05] Redoket killed RusLanConnection using lvs_wheeldrive_dodtiger
+[12:55:17] Chupacabr killed vasiliy karat using tfa_doik98_scop
+[12:55:42] бугагашенька: ДА
+[12:55:43] бугагашенька: Й
+[12:56:19] Chupacabr killed vasiliy karat using tfa_doik98_scop
+[12:56:33] maksumkolesnukov022: МАЛО
+[12:57:04] vasiliy karat killed бугагашенька using tfa_doilewis
+[12:57:07] бугагашенька: АД
+[12:57:07] бугагашенька: АА
+[12:57:28] Redoket killed vasiliy karat using tfa_doiowen
+[12:57:30] F4V3ns killed Redoket using tfa_doim1911
+[12:57:40] бугагашенька: тык
+[12:58:10] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsentry
+[12:58:12] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[12:58:13] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[12:59:11] бугагашенька: У
+[12:59:15] бугагашенька: ЕС
+[12:59:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:59:20] Chupacabr killed Ratlyng2073 using tfa_doip38
+[12:59:41] Rackman stripped weapons from Themself
+[12:59:41] Rackman: !strip Rackman
+[12:59:46] vasiliy karat killed Chupacabr using tfa_doimg34
+[12:59:49] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[12:59:51] Ratlyng2073 killed Improvised_starting_fire_device using tfa_doik98
+[13:00:18] F4V3ns killed бугагашенька using ent_bazooka_shell_v2
+[13:00:18] F4V3ns killed Rackman using ent_bazooka_shell_v2
+[13:00:18] F4V3ns killed Improvised_starting_fire_device using ent_bazooka_shell_v2
+[13:00:21] бугагашенька: КАКОГО
+[13:00:43] Redoket killed F4V3ns
+[13:00:44] F4V3ns killed Redoket
+[13:00:44] F4V3ns killed Rackman
+[13:01:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[13:01:23] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[13:01:24] бугагашенька: Ы
+[13:01:27] бугагашенька: ПОДЛЕЧИТЕ
+[13:01:39] Ratlyng2073 killed RusLanConnection using tfa_doik98
+[13:01:46] maksumkolesnukov022: ТЫ ДЕБИЛ
+[13:01:47] maksumkolesnukov022: ЭТО СВОИ
+[13:01:56] maksumkolesnukov022: ПО СВОИМ НЕ СТРЕЛЯЙ
+[13:02:10] Redoket killed RusLanConnection using tfa_doim3greasegun
+[13:02:11] vasiliy karat killed Redoket using tfa_doim1911
+[13:02:20] maksumkolesnukov022: САДИСЬ В ТАНК
+[13:02:26] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[13:02:37] Ratlyng2073 killed Chupacabr using tfa_doik98
+[13:02:38] бугагашенька: АДВАЙ
+[13:02:43] бугагашенька: У МЕНЯ РАКЕТНИЦА
+[13:02:44] RusLanConnection killed Improvised_starting_fire_device using tfa_doik98
+[13:02:45] бугагашенька: У
+[13:02:48] бугагашенька: ЕЩЕ ПАТРОНЫ
+[13:02:55] бугагашенька: а нет потронов...
+[13:02:57] бугагашенька: НУ ПОХЙУ
+[13:02:58] бугагашенька: Ы
+[13:03:04] бугагашенька: АХАХАХАХХАХАХАХ
+[13:03:05] бугагашенька: ДА
+[13:03:11] бугагашенька: МЫ СМОЕЖЕМ
+[13:03:14] бугагашенька: Я НЕ МОГУ ГОВОРИТЬ
+[13:03:18] бугагашенька: НО ТУТ ВСЕ ПРеКРАСНО
+[13:03:27] бугагашенька: угу
+[13:03:48] бугагашенька: Я АФК БЫЛ И МЫ ПРОИГРАЛИ ТУПО ПОЕТОМУ
+[13:03:50] бугагашенька: ЛОЛ
+[13:03:56] бугагашенька: Я МОГ ПОВОЕВАТЬ НО Я БЫЛ АФК
+[13:03:58] бугагашенька: О
+[13:04:28] Ratlyng2073 killed Improvised_starting_fire_device using tfa_doik98_scop
+[13:04:37] бугагашенька: ПАТРОНЫ
+[13:04:44] бугагашенька: АДВАй
+[13:04:47] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[13:04:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[13:04:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[13:05:02] Ratlyng2073 killed Chupacabr using tfa_doik98_scop
+[13:05:15] бугагашенька: К ХУЯМ
+[13:05:18] бугагашенька: АХАХАХ ДА
+[13:05:36] F4V3ns killed Rackman
+[13:05:37] Redoket was killed by ent_jack_gmod_ezsentry
+[13:05:52] RusLanConnection killed бугагашенька using tfa_doim3greasegun
+[13:06:00] бугагашенька: УФ ДА
+[13:06:11] maksumkolesnukov022 killed Chupacabr
+[13:06:17] maksumkolesnukov022 killed Rackman
+[13:06:27] бугагашенька: АХАХАХА ЛОЛ
+[13:06:47] maksumkolesnukov022 killed Improvised_starting_fire_device using lvs_wheeldrive_dodsherman
+[13:06:58] F4V3ns killed Improvised_starting_fire_device using ent_bazooka_shell_v2
+[13:07:00] Rackman suicided!
+[13:07:00] Rackman killed maksumkolesnukov022
+[13:07:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[13:07:10] RusLanConnection was killed by entityflame
+[13:07:10] бугагашенька: УРА
+[13:07:21] maksumkolesnukov022: ТИГР ВЗОРВАН
+[13:07:27] maksumkolesnukov022: НАШ ТАНК ТОЖЕ
+[13:07:28] Ratlyng2073 killed Rackman using tfa_doik98_scop
+[13:07:32] maksumkolesnukov022: НАМ НУЖЕН ТАНК
+[13:07:33] бугагашенька: НИХУЯ НЕ НАНЕС
+[13:07:39] Redoket killed F4V3ns using wep_jack_gmod_ezpickaxe
+[13:08:01] Ratlyng2073 killed Rackman using tfa_doik98_scop
+[13:08:11] Ratlyng2073 killed Rackman using tfa_doik98_scop
+[13:08:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[13:09:05] maksumkolesnukov022: ОСТАВЬ ТУТ
+[13:09:07] бугагашенька: Я ГОТОВ К АТАКЕ
+[13:09:07] RusLanConnection: supply radio: light tank
+[13:09:09] maksumkolesnukov022: ДЛЯ ТАНКА
+[13:09:11] бугагашенька: Ы
+[13:09:12] maksumkolesnukov022: ХОТЯ НЕ
+[13:09:24] Ratlyng2073 killed Redoket using tfa_doik98
+[13:09:26] Ratlyng2073 killed Improvised_starting_fire_device using tfa_doik98
+[13:09:58] maksumkolesnukov022: ВПЕРЁЁЁЁД
+[13:10:04] F4V3ns killed бугагашенька using tfa_doim1911
+[13:10:11] maksumkolesnukov022: ОНИ ИСПОЛЬЗУЮТ ПТ МИНЫ ВРУКОПАШНУЮ
+[13:10:15] maksumkolesnukov022: ОНИ БЕЗУМЦЫ
+[13:10:15] бугагашенька: СУка
+[13:10:26] Ratlyng2073 was killed by ent_jack_gmod_ezsentry
+[13:10:26] Improvised_starting_fire_device was killed by ent_jack_gmod_ezsentry
+[13:10:30] maksumkolesnukov022: ЭТО ОНИ
+[13:10:35] F4V3ns killed бугагашенька using tfa_doim1911
+[13:10:45] RusLanConnection killed Redoket using lvs_renaultft_m
+[13:10:53] maksumkolesnukov022: ТАМ ЕЩЁ ОДИН
+[13:10:54] Improvised_starting_fire_device killed Ratlyng2073 using wep_jack_gmod_hands
+[13:10:57] F4V3ns killed Redoket using tfa_doim1911
+[13:11:07] maksumkolesnukov022: У МОСТА
+[13:11:16] RusLanConnection killed F4V3ns using lvs_renaultft_m
+[13:11:17] maksumkolesnukov022: ВЫПУСТИ МЕНЯ
+[13:11:57] бугагашенька killed maksumkolesnukov022 using tfa_doik98
+[13:12:04] RusLanConnection killed Redoket
+[13:12:04] RusLanConnection killed Rackman
+[13:12:24] RusLanConnection killed Chupacabr
+[13:12:31] RusLanConnection killed Redoket
+[13:12:48] RusLanConnection killed Rackman
+[13:12:54] RusLanConnection killed Redoket
+[13:12:59] vasiliy karat: ПРИЕМ
+[13:13:01] RusLanConnection killed бугагашенька using lvs_renaultft_m
+[13:13:02] vasiliy karat: Я У НИХ НА БАЗЕ
+[13:13:05] vasiliy karat: ПУСТО
+[13:13:05] RusLanConnection killed Improvised_starting_fire_device
+[13:13:09] maksumkolesnukov022: Я НА БАЗЕ 3 МИРА
+[13:13:12] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[13:13:13] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezatmine
+[13:13:19] F4V3ns killed Redoket using tfa_doithompsonm1a1
+[13:13:22] RusLanConnection killed Chupacabr using tfa_doim3greasegun
+[13:13:23] RusLanConnection killed Improvised_starting_fire_device using tfa_doim3greasegun
+[13:13:28] Rackman suicided!
+[13:13:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[13:13:40] Ratlyng2073 killed Improvised_starting_fire_device using tfa_doik98
+[13:13:47] RusLanConnection killed Chupacabr using tfa_doim3greasegun
+[13:13:47] бугагашенька killed Ratlyng2073 using ent_bazooka_shell_v2
+[13:13:47] бугагашенька killed RusLanConnection using ent_bazooka_shell_v2
+[13:13:47] бугагашенька killed Rackman
+[13:14:09] Improvised_starting_fire_device killed RusLanConnection using wep_jack_gmod_hands
+[13:14:16] F4V3ns killed Chupacabr using tfa_doithompsonm1a1
+[13:14:25] F4V3ns killed Rackman using tfa_doithompsonm1a1
+[13:14:27] F4V3ns killed Improvised_starting_fire_device using tfa_doithompsonm1a1
+[13:15:07] vasiliy karat: ПРИЕМ
+[13:15:10] vasiliy karat: ПРИЕМ
+[13:15:15] vasiliy karat: Я У НИХ НА БАЗЕ ПУСТО
+[13:15:24] бугагашенька: Я ТАНКИ ЗДЕЛЫЛ
+[13:15:25] vasiliy karat: Я ЗАХВАТИЛ
+[13:15:29] maksumkolesnukov022: Я НА БАЗЕ 3 МИРА
+[13:15:34] бугагашенька: ЫЫЫЫЫЫЫЫЫЫЫЫЫ
+[13:15:42] бугагашенька: МЫ БЕЩЕНЫЕ
+[13:16:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[13:16:41] vasiliy karat: ВАДИЛА
+[13:16:46] бугагашенька: ПАТРОНЫ У МЕНЯ ЕСТЬ
+[13:16:49] бугагашенька: Ы
+[13:16:51] бугагашенька: 3
+[13:16:54] бугагашенька: ХЫХЫХЫХХ
+[13:17:07] Improvised_starting_fire_device: ладно
+[13:17:08] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezarmor_flametank
+[13:17:11] Improvised_starting_fire_device: всем спасибо за игру
+[13:17:13] Improvised_starting_fire_device: я спать
+[13:17:13] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezfuel
+[13:17:23] бугагашенька: СТОЙ
+[13:17:51] Chupacabr: торжественное сжигание трупов
+[13:17:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:18:01] RusLanConnection brought Chupacabr,F4V3ns,Improvised_starting_fire_device,Rackman,Ratlyng2073,Redoket,maksumkolesnukov022,vasiliy karat,бугагашенька
+[13:18:03] Improvised_starting_fire_device: всем спокойной ночи
+[13:18:07] бугагашенька: ЯПИ
+[13:18:11] Dropped "Improvised_starting_fire_device" from server<STEAM_0:1:225675214>
+[13:18:11] Improvised_starting_fire_device suicided!
+[13:18:15] бугагашенька: РУСЛАН
+[13:18:17] бугагашенька: РУСЛАН
+[13:18:19] maksumkolesnukov022: ПИЗДЕЦ Я ОБОСРАЛСЯ НА МЕНЯ БЕЖАЛИ НИГЕРЫ С ПТ МИНАМИ
+[13:18:23] бугагашенька: МОЖНО Я ВСЕХ ПОДОРВУ?!
+[13:18:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[13:18:32] vasiliy karat: !menu
+[13:18:40] maksumkolesnukov022: Я ПЫТАЛСЯ ВЗОРВАТЬ ПТ МИНЫ
+[13:18:43] vasiliy karat: !menu
+[13:18:44] vasiliy karat brought Chupacabr
+[13:18:52] vasiliy karat: ТУРМА ЗА ДЕЗЕРТИРСТВО
+[13:18:53] Chupacabr: давай сек
+[13:18:56] Chupacabr: падажи
+[13:19:00] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrocketmotor
+[13:19:00] RusLanConnection brought Chupacabr,F4V3ns,Rackman,Ratlyng2073,Redoket,maksumkolesnukov022,vasiliy karat,бугагашенька
+[13:19:09] F4V3ns killed Chupacabr using player
+[13:19:18] Rackman killed maksumkolesnukov022 using ent_jack_gmod_eznapalm
+[13:19:30] vasiliy karat: ЧУПАКА НАДА В ТУРМУ
+[13:19:46] бугагашенька: ВЫ ХТО ТАКИЕ
+[13:19:50] бугагашенька: МЫ ВАС НЕ ЗВАЛИ
+[13:19:52] maksumkolesnukov022 killed RusLanConnection using ent_jack_gmod_ezatmine
+[13:19:52] maksumkolesnukov022 suicided!
+[13:19:52] maksumkolesnukov022 killed Rackman using ent_jack_gmod_ezatmine
+[13:19:56] бугагашенька killed Ratlyng2073 using ent_bazooka_shell_v2
+[13:19:56] бугагашенька killed F4V3ns using ent_bazooka_shell_v2
+[13:20:10] RusLanConnection brought Chupacabr,F4V3ns,Rackman,Redoket,maksumkolesnukov022,vasiliy karat,бугагашенька
+[13:20:20] бугагашенька: РУСЛАН
+[13:20:25] бугагашенька: ПОСЛЕДНЯЯ БУМ
+[13:20:25] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfirework
+[13:20:30] maksumkolesnukov022: ПОМЕДЛЕННЕЕ ЗАПИСЫВАЮ
+[13:20:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfirework
+[13:20:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfirework
+[13:20:36] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfirework
+[13:20:37] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfirework
+[13:20:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[13:20:37] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfirework
+[13:20:37] бугагашенька: УРАААААААААА
+[13:20:45] бугагашенька: У НАС СВОЙ ФЕЕРВЕРК
+[13:20:50] бугагашенька: ДАЙТЕ ПАТРОНЫ
+[13:20:58] бугагашенька: нХЕЛП
+[13:21:07] maksumkolesnukov022: РЕДФЕЙС
+[13:21:09] maksumkolesnukov022: ТИПА БЛЕКФЕЙС
+[13:21:11] maksumkolesnukov022: НО РЕД
+[13:21:36] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrocketmotor
+[13:21:41] Rackman<STEAM_0:0:221849271> spawned vehicle models/props_phx/carseat2.mdl
+[13:22:01] RusLanConnection brought F4V3ns,Rackman,Ratlyng2073,Redoket,maksumkolesnukov022,vasiliy karat,бугагашенька
+[13:22:02] бугагашенька: РУСЛАН
+[13:22:07] бугагашенька: БУМ!?
+[13:22:08] RusLanConnection froze Chupacabr
+[13:22:14] бугагашенька: АРСТРЕЛ
+[13:22:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[13:22:16] Dropped "Ratlyng2073" from server<STEAM_0:1:596674952>
+[13:22:16] Ratlyng2073 suicided!
+[13:22:20] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[13:22:21] бугагашенька: РАСТРЕЛЛЛЛ!!!!
+[13:22:27] бугагашенька: ОТОЙТИ С ЛИНИИ ОГНЯ
+[13:22:33] бугагашенька: НУ МЛЯ
+[13:22:36] Chupacabr: дайте мне слово
+[13:22:36] бугагашенька: АААА ПОЖАЛУСТА
+[13:22:38] maksumkolesnukov022: МНЕ
+[13:22:50] RusLanConnection unfroze Chupacabr
+[13:22:54] RusLanConnection killed Chupacabr using tfa_doik98
+[13:22:58] Rackman killed vasiliy karat using tfa_doilewis
+[13:22:58] Rackman killed maksumkolesnukov022 using tfa_doilewis
+[13:22:59] Rackman killed RusLanConnection using tfa_doilewis
+[13:23:00] Rackman killed бугагашенька using tfa_doilewis
+[13:23:03] Redoket killed F4V3ns using tfa_doik98
+[13:23:04] RusLanConnection killed Redoket
+[13:23:05] RusLanConnection killed Rackman
+[13:23:24] vasiliy karat to admins: ВТОРОЙ РАСТРЕЛ ЧУПАКА ЗА ГОВНО СЕТИ
+[13:23:48] Chupacabr suicided!
+[13:23:48] Chupacabr killed Redoket using ent_jack_gmod_ezsticknade
+[13:24:07] vasiliy karat: ВТОРОЙ РАСТРЕЛ
+[13:24:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[13:25:03] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezshovel
+[13:25:27] Chupacabr killed vasiliy karat using wep_jack_gmod_ezshovel
+[13:25:29] Redoket killed Chupacabr using tfa_doik98
+[13:25:46] бугагашенька: ДОВЕЗУДОМОСКЫВ
+[13:25:53] бугагашенька: АЙ МОЯ
+[13:25:54] vasiliy karat: ЧУПАК ПРОИГРАЛ ТЕПЕРЬ ДОЛЖЕН Э ПОЙТИ С НАМИ В СПЛИНЕТ СЕЛ
+[13:25:55] бугагашенька: ЛАСТАЧКА
+[13:26:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[13:26:02] бугагашенька: УСЛАН
+[13:26:07] бугагашенька: на бум бум
+[13:26:09] Rackman<STEAM_0:0:221849271> spawned NPC npc_monk
+[13:26:13] Chupacabr: да
+[13:26:15] бугагашенька: на
+[13:26:15] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezapple
+[13:26:19] maksumkolesnukov022: Я ВСЁ ЗАПИСАЛ
+[13:26:24] Rackman<STEAM_0:0:221849271> spawned ragdoll models/breen.mdl
+[13:26:25] бугагашенька: я написал на
+[13:26:28] Rackman suicided!
+[13:26:30] бугагашенька: дай мне епрст
+[13:26:30] maksumkolesnukov022: да 
+[13:26:34] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezlandmine
+[13:26:37] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[13:26:37] maksumkolesnukov022 suicided!
+[13:26:42] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[13:26:42] Rackman suicided!
+[13:26:45] бугагашенька: САЛЮТ
+[13:26:46] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezlandmine
+[13:26:50] бугагашенька: МЕСНЫЙ САЛЮТ 
+[13:27:06] vasiliy karat suicided!
+[13:27:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[13:27:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[13:27:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[13:27:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[13:27:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[13:27:19] бугагашенька: УРАААА
+[13:27:22] vasiliy karat: ПРОТИВОТАНКОВАЯ МИНА НА ТРУП СРАБОТАЛА
+[13:27:23] бугагашенька: ХЕПИ ЭНД
+[13:27:26] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[13:27:32] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammobox_bppc
+[13:27:42] бугагашенька: МОЯ
+[13:27:53] Redoket killed RusLanConnection using lvs_wheeldrive_citroen_type23
+[13:28:03] Chupacabr killed vasiliy karat using rust_eoka
+[13:28:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[13:28:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[13:28:24] Redoket killed Chupacabr using tfa_doik98
+[13:28:24] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammobox_bppc
+[13:28:30] Redoket killed vasiliy karat using tfa_doik98
+[13:28:34] бугагашенька killed Redoket using player
+[13:28:39] (csay from RusLanConnection) ладно ребятки всем спасибо, было прикольно
+[13:28:44] (csay from RusLanConnection) я пойду
+[13:28:53] vasiliy karat killed RusLanConnection using tfa_doi_thrownno96
+[13:29:07] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[13:29:07] RusLanConnection suicided!
+[13:29:14] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[13:29:15] Redoket suicided!
+[13:29:58] vasiliy karat: НАВЕРНОЕ СЕРВАК ВЫРУБЯТ
+[13:30:08] бугагашенька: спс
+[13:30:11] vasiliy karat: СЕЙЧАС ОЧЩУ
+[13:30:18] vasiliy karat: ИЛИ ЛУЧШЕ 
+[13:30:22] vasiliy karat: ПЕРЕЗАГРУЖУ КАРТУ
+[13:30:25] бугагашенька: СМЕНА КАРТЫ?
+[13:30:26] vasiliy karat: ЧТОБЫ РУДЫ
+[13:30:32] бугагашенька: или как?
+[13:30:34] бугагашенька: а пон
+[13:30:45] vasiliy karat: !menu
+[13:30:53] vasiliy karat changed the map to gm_sro
+[13:30:53] Server is shutting down/changing levels.
+
+
+
+[13:31:06] New map: gm_sro
+[13:31:32] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 33 seconds).
+[13:31:32] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 33 seconds).
+[13:31:55] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 56 seconds).
+[13:31:59] бугагашенька: Ы
+[13:32:21] бугагашенька: ХАЙ
+[13:32:21] vasiliy karat: !menu
+[13:32:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[13:41:46] бугагашенька killed Chupacabr using rust_boltrifle
+[13:42:10] бугагашенька killed Chupacabr using rust_boltrifle
+[13:43:17] бугагашенька killed Chupacabr using rust_boltrifle
+[13:43:33] бугагашенька killed Chupacabr using rust_boltrifle
+[13:43:43] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[13:43:43] vasiliy karat suicided!
+[13:43:43] бугагашенька killed Chupacabr using rust_boltrifle
+[13:44:03] бугагашенька killed Chupacabr using rust_boltrifle
+[13:44:21] бугагашенька killed Chupacabr using rust_boltrifle
+[13:44:38] бугагашенька killed Chupacabr using rust_boltrifle
+[13:44:58] бугагашенька killed Chupacabr using rust_boltrifle
+[13:45:16] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[13:45:20] Client "[CW]kithome20" connected.
+[13:45:41] бугагашенька killed Chupacabr using rust_boltrifle
+[13:45:58] Chupacabr killed бугагашенька using rust_boltrifle
+[13:46:02] бугагашенька: АААА НЕТ
+[13:46:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammobox_bppc
+[13:46:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammobox_bppc
+[13:46:32] Chupacabr killed бугагашенька using rust_boltrifle
+[13:54:46] Client "[CW]kithome20" spawned in server <STEAM_0:1:541989453> (took 566 seconds).
+[13:54:52] бугагашенька: хай
+[13:55:02] [CW]kithome20: сап
+[13:55:05] бугагашенька: ты впервые на сервере?
+[13:55:19] [CW]kithome20: типо и я вижу у тебя инструменты из jmod
+[13:55:33] [CW]kithome20: о и раст 
+[13:56:07] бугагашенька: НЕТРОГАЙ
+[13:56:09] бугагашенька: ЕМЕО
+[13:56:25] бугагашенька: ты теперь заражен, ало
+[13:56:27] [CW]kithome20: я чо похож на того кто будет ломать всё
+[13:56:34] бугагашенька: трупный вирус
+[13:56:44] [CW]kithome20: а
+[13:56:46] бугагашенька: гоу вместе повыжываем?
+[13:56:50] [CW]kithome20: ну го
+[13:56:58] [CW]kithome20: дай кирку
+[13:57:00] бугагашенька: тут 5 минут назад где-тто 10 игроков было
+[13:57:11] бугагашенька: тут много онлайна просто ноч щас
+[13:57:17] бугагашенька: идем
+[13:58:11] бугагашенька: так ты впервые тут?
+[13:58:16] бугагашенька: на сервере?
+[13:58:19] бугагашенька: или бывалый?
+[13:58:21] [CW]kithome20: на сервака да
+[13:58:23] бугагашенька: я раньше тебя не видел
+[13:58:25] бугагашенька: ааа
+[13:58:28] бугагашенька: СУКА ВИРУС
+[13:58:32] бугагашенька: ЕПРСТ
+[13:58:34] бугагашенька: ладно
+[13:58:36] бугагашенька: вкратце
+[13:58:38] бугагашенька: в 2 словах
+[13:58:51] [CW]kithome20: бл
+[13:58:55] бугагашенька: сервер про выжывание и создание кланов
+[13:59:04] [CW]kithome20: я пон уже
+[13:59:05] бугагашенька: пошли прыгать
+[13:59:06] бугагашенька: ы
+[13:59:10] бугагашенька: А
+[13:59:22] [CW]kithome20: десант
+[13:59:31] бугагашенька: админ
+[13:59:33] бугагашенька: не трогай
+[13:59:45] бугагашенька: ну а мне похуй
+[13:59:47] бугагашенька killed Chupacabr using rust_boltrifle
+[13:59:54] бугагашенька: мне пизда?
+[14:00:00] бугагашенька killed Chupacabr using rust_boltrifle
+[14:00:06] бугагашенька: ты тут?
+[14:00:36] [CW]kithome20: да
+[14:01:26] бугагашенька: ЗЫРЬ
+[14:01:47] [CW]kithome20: а чо за вирус
+[14:02:29] бугагашенька: поехали?
+[14:02:39] бугагашенька: идем
+[14:02:43] бугагашенька: найдем место для базы
+[14:02:48] бугагашенька: кароч
+[14:02:54] бугагашенька: выбирай, слева, или справа?
+[14:03:03] бугагашенька: гоу
+[14:03:08] [CW]kithome20: эт брать?
+[14:03:16] бугагашенька: тут есть 3 мместо для базы
+[14:03:20] бугагашенька: 2 открытые
+[14:03:23] бугагашенька: 1 закрытая
+[14:03:30] бугагашенька: похуй
+[14:03:45] бугагашенька: кароче возле либо тут
+[14:03:48] бугагашенька: в 2 местах
+[14:03:55] бугагашенька: 1 место
+[14:03:56] [CW]kithome20: ну го
+[14:03:58] [CW]kithome20: кудато
+[14:04:00] бугагашенька: и 2
+[14:04:06] бугагашенька: щас гоу в 3
+[14:04:32] бугагашенька: Ф 4 нажми и запрос дай в клан
+[14:04:35] бугагашенька: МОЙ
+[14:04:50] бугагашенька: ГУО
+[14:04:53] бугагашенька: ГОУ
+[14:05:28] [CW]kithome20: зделай спальник
+[14:05:37] бугагашенька: давай лутше базу сразу
+[14:05:45] [CW]kithome20: я щя здохну
+[14:05:49] [CW]kithome20: спавн сделать
+[14:06:16] [CW]kithome20: реще
+[14:06:17] бугагашенька: не успеем
+[14:06:48] бугагашенька killed [CW]kithome20 using player
+[14:09:14] бугагашенька: точка дизлокации, тут будем спавниться
+[14:09:16] бугагашенька: АФК
+[14:11:17] бугагашенька: МЕТАЛ
+[14:13:49] бугагашенька: кул
+[14:13:56] бугагашенька: красавав
+[14:14:04] [CW]kithome20: чото я не понял
+[14:14:12] [CW]kithome20: другая версия jmod
+[14:14:16] [CW]kithome20: а
+[14:14:18] [CW]kithome20: хаха
+[14:14:19] бугагашенька: да мля
+[14:14:53] бугагашенька: к солнцу
+[14:15:01] бугагашенька: вон оно там
+[14:15:10] бугагашенька: + тень учитуй
+[14:15:17] бугагашенька: ну она тут не чоткая
+[14:15:21] бугагашенька: но стена мешает
+[14:15:26] бугагашенька: немного назад
+[14:15:38] [CW]kithome20: нво
+[14:15:39] [CW]kithome20: во
+[14:18:00] [CW]kithome20: помогай
+[14:19:25] бугагашенька: альт е
+[14:19:30] бугагашенька: выкинь тулбокс
+[14:19:39] бугагашенька: и обратно
+[14:20:22] [CW]kithome20: ну и кал
+[14:20:30] бугагашенька: О НЕФТЬ И СТАЛ
+[14:20:32] бугагашенька: ЛЬ
+[14:20:33] бугагашенька: КУЛ
+[14:20:36] бугагашенька: ВОДУ И ВСЕ
+[14:20:47] бугагашенька: основа будет готова так скажем
+[14:21:23] бугагашенька: кушай
+[14:21:25] бугагашенька: лечися
+[14:22:18] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[14:22:18] Chupacabr suicided!
+[14:22:22] бугагашенька: пон
+[14:22:32] [CW]kithome20: надо ставить стан2ию мед
+[14:22:38] бугагашенька: не
+[14:22:41] бугагашенька: рано
+[14:22:49] бугагашенька: щас имунинитет будет
+[14:22:54] [CW]kithome20: ок
+[14:23:15] [CW]kithome20: пон
+[14:23:16] бугагашенька: МЛЯ
+[14:23:17] бугагашенька: я спать
+[14:23:23] бугагашенька: у меня 1 час ночи
+[14:23:25] бугагашенька: я спать
+[14:23:27] [CW]kithome20: тоже самое
+[14:23:34] [CW]kithome20: а мне в шарагу
+[14:23:38] [CW]kithome20: ну чау
+[14:23:57] бугагашенька: нефть переработай и танки зделай по приколу
+[14:24:03] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[14:24:03] бугагашенька suicided!
+[14:30:43] [CW]kithome20: inv
+[14:30:47] [CW]kithome20: /inv
+[14:53:50] Dropped "[CW]kithome20" from server<STEAM_0:1:541989453>
+[14:53:50] [CW]kithome20 suicided!

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/sent_jumppad_large"
+	"$translucent" 1
+}

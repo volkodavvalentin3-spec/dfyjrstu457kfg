@@ -1,0 +1,1419 @@
+<Logging continued from "data/ulx_logs/11-30-25.txt">
+[01:25:20] Client "Soldier_S.C.A.F" connected.
+[01:28:30] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 190 seconds).
+[01:29:40] Client "null" connected.
+[01:32:27] Client "null" spawned in server <STEAM_0:0:800405246> (took 167 seconds).
+[01:32:59] Soldier_S.C.A.F: здаров
+[01:33:12] null: Привет
+[01:35:31] Soldier_S.C.A.F: ну
+[01:35:37] Soldier_S.C.A.F: вайп если че чистый
+[01:35:40] Soldier_S.C.A.F: я так
+[01:35:45] Soldier_S.C.A.F: больше по приколу зашел
+[01:57:59] null was killed by ent_jack_gmod_ezaidradio
+[02:20:09] Client "@slugcuts" connected.
+[02:36:29] Client "iterchiyt" connected.
+[03:06:05] Soldier_S.C.A.F suicided!
+[03:12:54] Soldier_S.C.A.F killed Soldier_S.C.A.F
+[03:13:01] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[03:13:01] Soldier_S.C.A.F suicided!
+[03:24:03] Client "maksumkolesnukov022" connected.
+[03:24:44] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 41 seconds).
+[03:26:14] maksumkolesnukov022 cloaked Themself by amount 0
+[03:26:17] maksumkolesnukov022 teleported to null
+[03:26:54] maksumkolesnukov022 uncloaked Themself
+[03:31:39] maksumkolesnukov022 stripped weapons from Themself
+[03:31:39] maksumkolesnukov022: !strip maksumkolesnukov022
+[03:42:43] Client "RusLanConnection" connected.
+[03:44:47] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 124 seconds).
+[03:47:30] maksumkolesnukov022 teleported to RusLanConnection
+[03:47:34] maksumkolesnukov022 uncloaked Themself
+[03:49:09] maksumkolesnukov022: халф лайф три будет гейб купил верфь построил борей
+[03:51:28] maksumkolesnukov022: набрасывание на вентилятор
+[03:54:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[03:54:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[03:54:56] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezroadflare
+[03:55:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezroadflare
+[03:55:52] maksumkolesnukov022 suicided!
+[03:55:52] maksumkolesnukov022 killed RusLanConnection using env_explosion
+[03:56:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[03:59:21] Client "бугагашенька" connected.
+[04:00:23] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 62 seconds).
+[04:00:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[04:01:11] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknadebundle
+[04:01:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[04:02:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezimpactnade
+[04:02:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezimpactnade
+[04:02:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezimpactnade
+[04:02:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezimpactnade
+[04:02:23] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezimpactnade
+[04:02:37] maksumkolesnukov022 brought RusLanConnection
+[04:02:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezimpactnade
+[04:02:54] maksumkolesnukov022: лучший сервер гарисмод
+[04:02:55] maksumkolesnukov022: ланрп
+[04:03:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezimpactnade
+[04:03:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezimpactnade
+[04:03:36] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezimpactnade
+[04:03:41] RusLanConnection killed maksumkolesnukov022 using env_explosion
+[04:03:41] RusLanConnection suicided!
+[04:03:41] RusLanConnection killed бугагашенька using env_explosion
+[04:04:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezflarenade
+[04:04:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezflarenade
+[04:04:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezflarenade
+[04:04:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezflarenade
+[04:04:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezflarenade
+[04:04:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezflarenade
+[04:04:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezflarenade
+[04:04:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezflarenade
+[04:04:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezflarenade
+[04:04:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezflarenade
+[04:04:23] maksumkolesnukov022: шифт
+[04:04:25] maksumkolesnukov022: альт е
+[04:07:52] maksumkolesnukov022 suicided!
+[04:11:05] Client "Viper" connected.
+[04:19:44] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[04:19:44] бугагашенька suicided!
+[04:19:54] null: Єс
+[04:19:54] Client "бугагашенька" connected.
+[04:20:23] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 29 seconds).
+[04:23:31] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[04:23:31] бугагашенька suicided!
+[04:23:40] Client "Ametist" connected.
+[04:25:11] Client "Ametist" spawned in server <STEAM_0:1:588020269> (took 91 seconds).
+[04:27:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[04:27:19] maksumkolesnukov022 teleported to RusLanConnection
+[04:27:40] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezairboatengine
+[04:27:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfuel
+[04:29:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezhebomb
+[04:29:40] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_small
+[04:29:55] maksumkolesnukov022: рикошет
+[04:29:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[04:30:24] maksumkolesnukov022 was killed by ent_fumo_gmod_ezarmorplate_small
+[04:31:33] null was killed by build_prop
+[04:31:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_fiat_508
+[04:32:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[04:32:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezbasicparts
+[04:32:31] null was killed by build_prop
+[04:34:23] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_dodwillyjeep
+[04:35:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_dodkuebelwagen
+[04:35:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezpowertools
+[04:35:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezpowertools
+[04:35:48] maksumkolesnukov022: медмакс
+[04:35:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezbattery
+[04:35:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezbattery
+[04:36:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[04:36:39] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_dodkuebelwagen
+[04:36:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_dodkuebelwagen
+[04:36:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztnt
+[04:37:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[04:37:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezatmine
+[04:37:41] maksumkolesnukov022 killed maksumkolesnukov022
+[04:38:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_dodkuebelwagen
+[04:38:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezrocketmotor
+[04:38:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezrocketmotor
+[04:38:11] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezrocketmotor
+[04:38:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezrocketmotor
+[04:38:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfirework
+[04:39:20] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfirework
+[04:39:52] maksumkolesnukov022 cloaked Themself by amount 0
+[04:39:54] maksumkolesnukov022 teleported to RusLanConnection
+[04:39:59] maksumkolesnukov022 uncloaked Themself
+[04:40:29] Client "sokolise" connected.
+[04:40:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_citroen_type23
+[04:41:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfirework
+[04:41:30] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_gazm1
+[04:41:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_gaz_m1_mow
+[04:41:48] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wil_mow
+[04:41:51] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_gaz_supe
+[04:41:54] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_gaz_64_mow
+[04:41:59] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_gaz_mow
+[04:42:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_opel_mow
+[04:42:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_sd7_mow
+[04:42:24] Client "sokolise" spawned in server <STEAM_0:1:121477088> (took 115 seconds).
+[04:43:10] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_amc_p16
+[04:43:12] Client "Redoket" connected.
+[04:44:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezifakpacket
+[04:44:33] sokolise: новый танк?
+[04:44:36] maksumkolesnukov022: не
+[04:44:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t60
+[04:45:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[04:45:10] maksumkolesnukov022: не сделаю
+[04:45:12] maksumkolesnukov022: всё
+[04:45:23] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 131 seconds).
+[04:45:27] maksumkolesnukov022 teleported to RusLanConnection
+[04:45:35] maksumkolesnukov022: брайс извиница и сделаю
+[04:46:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezrocketmotor
+[04:46:56] Dropped "sokolise" from server<STEAM_0:1:121477088>
+[04:46:56] sokolise suicided!
+[04:47:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztnt
+[04:47:34] maksumkolesnukov022: летун
+[04:47:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[04:48:14] maksumkolesnukov022: со всех будет плохо
+[04:48:17] maksumkolesnukov022: и там нельзя
+[04:48:23] Client "P.Drilla" connected.
+[04:48:35] maksumkolesnukov022 froze Redoket
+[04:48:38] maksumkolesnukov022 unfroze Redoket
+[04:48:42] Redoket<STEAM_0:1:545449619> spawned sent lvs_t60
+[04:48:55] maksumkolesnukov022: патом с брайсом решим 
+[04:49:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_bmw_r75_upd
+[04:50:22] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezdetpack
+[04:50:38] maksumkolesnukov022: рейд даркрп
+[04:50:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpopcorn
+[04:50:52] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod/ez_ladder.mdl
+[04:51:50] maksumkolesnukov022: патом
+[04:52:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod/ez_ladder.mdl
+[04:52:11] Ametist was killed by ent_jack_gmod_ezprimitivebench
+[04:52:21] null: Привет
+[04:52:24] Ametist: ку
+[04:52:36] maksumkolesnukov022: ало
+[04:52:37] maksumkolesnukov022: редокета
+[04:52:59] maksumkolesnukov022: на физгане летать не жёско
+[04:52:59] null: Жм
+[04:53:14] null: Ну ок.
+[04:53:22] maksumkolesnukov022 to admins: бан нонрм
+[04:53:25] maksumkolesnukov022 to admins: нонрп
+[04:53:31] null: Та нет я вербовал людей
+[04:53:41] null: Флаерами привлекал внимание
+[04:53:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/garbage_bag001a.mdl
+[04:53:51] null: Показывал куда идти.
+[04:54:00] maksumkolesnukov022: да тут наверное наркотиками
+[04:54:01] maksumkolesnukov022: а во 
+[04:54:02] maksumkolesnukov022: наркорта
+[04:54:28] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_bmw_r75_upd
+[04:54:34] null: Бывает
+[04:54:41] RusLanConnection removed all access rights from maksumkolesnukov022
+[04:55:00] null: Нам бы чёта сделать
+[04:55:06] Ametist: ясно
+[04:55:09] Ametist: ток че
+[04:55:09] null: А не сидеть ровно на жопе.
+[04:55:28] null: Погнали строить?
+[04:55:37] Ametist: бля
+[04:55:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlandmine
+[04:55:53] Ametist: у меня тут  ерорки
+[04:56:18] null: Контента похоже нет но он должен скачиватся
+[04:56:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m2_mow
+[04:56:56] Redoket<STEAM_0:1:545449619> spawned sent lvs_t60
+[04:57:09] (Console) added maksumkolesnukov022 to group superadmin
+[04:57:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_t60
+[04:57:26] maksumkolesnukov022 cloaked Themself by amount 0
+[04:57:31] maksumkolesnukov022 teleported to Redoket
+[04:57:35] Redoket<STEAM_0:1:545449619> spawned sent lvs_t60
+[04:57:43] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezammo
+[04:57:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[04:57:56] maksumkolesnukov022 uncloaked Themself
+[04:58:20] Dropped "Ametist" from server<STEAM_0:1:588020269>
+[04:58:20] Ametist suicided!
+[04:58:24] null: Мда
+[04:58:30] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_rus_spawnbase
+[04:58:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[04:58:45] Client "Ametist" connected.
+[04:58:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[04:58:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[04:58:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[04:58:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[04:58:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[04:59:27] Redoket: стойл
+[04:59:58] Client "Ametist" spawned in server <STEAM_0:1:588020269> (took 73 seconds).
+[05:00:15] maksumkolesnukov022 froze Redoket
+[05:00:18] maksumkolesnukov022 unfroze Redoket
+[05:00:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[05:00:21] Redoket: памагит
+[05:00:25] Dropped "Ametist" from server<STEAM_0:1:588020269>
+[05:00:25] Ametist suicided!
+[05:00:26] Client "Ametist" connected.
+[05:01:07] maksumkolesnukov022 brought Redoket
+[05:01:15] Client "Ametist" spawned in server <STEAM_0:1:588020269> (took 49 seconds).
+[05:01:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_t60
+[05:01:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[05:01:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[05:02:55] maksumkolesnukov022: патом
+[05:03:04] maksumkolesnukov022: не
+[05:03:18] maksumkolesnukov022 stripped weapons from Themself
+[05:03:24] Redoket: ни себе ни гамне
+[05:03:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsatchelcharge
+[05:03:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[05:03:51] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezimpactnade
+[05:04:02] Redoket<STEAM_0:1:545449619> spawned sent lvs_pz38t_mow
+[05:04:10] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_t60
+[05:04:43] RusLanConnection killed Redoket using lvs_t60
+[05:05:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_t60
+[05:05:09] Redoket<STEAM_0:1:545449619> spawned sent lvs_t60
+[05:05:13] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_is2_mow
+[05:05:20] Redoket<STEAM_0:1:545449619> spawned sent lvs_t60
+[05:05:33] maksumkolesnukov022: СВАИ
+[05:05:35] maksumkolesnukov022: СВАИ
+[05:05:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezammo
+[05:05:59] Redoket killed maksumkolesnukov022 using lvs_t60
+[05:06:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_is2_mow
+[05:06:13] maksumkolesnukov022 teleported to Redoket
+[05:06:13] maksumkolesnukov022: !goto Redoket
+[05:06:16] Redoket<STEAM_0:1:545449619> spawned sent lvs_t60
+[05:06:18] Redoket<STEAM_0:1:545449619> spawned sent lvs_t60
+[05:06:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t60
+[05:06:35] maksumkolesnukov022 to admins: ало начало
+[05:06:50] RusLanConnection killed Redoket using lvs_is2_mow
+[05:07:25] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsmokenade
+[05:07:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsmokenade
+[05:07:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsmokenade
+[05:07:40] Ametist: йоу
+[05:07:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsmokenade
+[05:07:42] null: Привет
+[05:07:50] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsmokenade
+[05:07:53] maksumkolesnukov022 to admins: ало ща афк
+[05:07:54] Ametist: ну че-то сделал
+[05:07:56] Ametist: ?
+[05:08:01] null: Пока нет
+[05:08:07] null: Ну у нас есть всё пока что
+[05:08:26] null: Я щас посмотрю че там у них
+[05:08:26] Ametist: я предлагаю аот эту гору покорить
+[05:08:30] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[05:08:33] null: Можно
+[05:08:37] null: Но чутьп озже
+[05:08:40] null: Позже
+[05:08:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[05:09:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[05:09:37] RusLanConnection killed maksumkolesnukov022 using lvs_is2_mow
+[05:09:43] Redoket killed RusLanConnection using player
+[05:09:59] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t34_42
+[05:10:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_is2_mow
+[05:10:13] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t34_42
+[05:10:20] Redoket<STEAM_0:1:545449619> spawned sent lvs_pz4g_mow
+[05:10:24] maksumkolesnukov022: а какой
+[05:10:25] maksumkolesnukov022: у немцев
+[05:10:27] Redoket<STEAM_0:1:545449619> spawned sent lvs_jpz4_mow
+[05:10:27] maksumkolesnukov022: создай
+[05:11:15] maksumkolesnukov022: ало дым сделай
+[05:11:19] maksumkolesnukov022: из этого
+[05:11:20] maksumkolesnukov022: фосфора
+[05:12:08] maksumkolesnukov022 killed RusLanConnection using lvs_pz4g_mow
+[05:12:19] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_churchill_mow
+[05:12:29] Client "P.Drilla" spawned in server <STEAM_0:0:496951683> (took 1446 seconds).
+[05:12:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent prop_ww_flag
+[05:12:56] Redoket: флаг нацист
+[05:14:14] Redoket: ой
+[05:14:15] null: Здрасвуйте.
+[05:14:16] null: Сучий пинг
+[05:14:30] null: О всё
+[05:14:31] maksumkolesnukov022 was killed by lvs_churchill_mow
+[05:14:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[05:14:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[05:14:56] Redoket killed RusLanConnection
+[05:14:56] Ametist was killed by lvs_churchill_mow
+[05:14:56] maksumkolesnukov022 teleported to Redoket
+[05:15:19] P.Drilla: чего?
+[05:15:26] null: Чего стреляешь?
+[05:15:32] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[05:15:32] P.Drilla: я не стрелял
+[05:15:38] null: А кто это делал?
+[05:15:38] P.Drilla: я рядом с танком стоял
+[05:15:41] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_su100_tb
+[05:15:42] P.Drilla: и он подорвался
+[05:15:44] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_su85_tb
+[05:15:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezdetpack
+[05:15:53] P.Drilla: у меня вообще ничего нету
+[05:16:17] P.Drilla: я чисто физически стрелять не мог
+[05:16:23] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_churchill_mow
+[05:16:30] null: Тоесть танк сам по себе начал это делать?
+[05:16:36] P.Drilla: почему?
+[05:16:38] null: В него жух похоже вселился.
+[05:16:41] P.Drilla: я увидел танк
+[05:16:45] P.Drilla: и подошел к нему
+[05:16:55] P.Drilla: он начал стрелять, и я за ним пошел
+[05:17:06] P.Drilla: ты сам на меня посмотри
+[05:17:21] P.Drilla: у меня ни инструментов, ни оружия
+[05:17:28] null: А где труп водителя тогда?
+[05:17:32] P.Drilla: в танке
+[05:17:36] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[05:17:47] P.Drilla: он на пару секунд выходил
+[05:17:54] null: Ладно
+[05:17:54] P.Drilla: это был мужик в шапке
+[05:18:10] P.Drilla: я возьму ящик?
+[05:18:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[05:18:15] null: Юери
+[05:18:18] null: Бери
+[05:18:18] P.Drilla: спасибо
+[05:18:32] maksumkolesnukov022: АЛО СТРЕЛЯЮТ
+[05:18:43] P.Drilla: Вы че
+[05:18:46] P.Drilla: делаете
+[05:20:18] P.Drilla: тут есть место, где будет безопастно?
+[05:20:29] maksumkolesnukov022: нет
+[05:20:32] maksumkolesnukov022: тут везде опасно
+[05:20:35] maksumkolesnukov022: трупы поют
+[05:21:04] P.Drilla: ну я пойде тогда
+[05:21:07] Ametist: ну че
+[05:21:08] Ametist: там
+[05:21:11] null: У тя ракетница есть?
+[05:21:14] Ametist: не
+[05:21:22] Ametist: вот это есть
+[05:21:22] null: Назад
+[05:21:25] null: Давай
+[05:22:11] maksumkolesnukov022: ПЛАН БОЯ
+[05:22:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[05:22:39] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_large
+[05:22:51] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_is2_mow
+[05:22:56] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_large
+[05:23:17] Ametist: не хватает
+[05:23:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_large
+[05:23:27] null: Ок
+[05:23:28] Redoket: сарай
+[05:23:29] null: Щас
+[05:23:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_large
+[05:23:44] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_large
+[05:23:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[05:24:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_large
+[05:24:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[05:24:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[05:24:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_large
+[05:24:19] Redoket: ещё сверху над
+[05:24:25] RusLanConnection killed Redoket using lvs_jpz4_mow
+[05:24:44] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_rus_spawnbase
+[05:24:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[05:24:59] maksumkolesnukov022 stripped weapons from Themself
+[05:25:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[05:25:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[05:25:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[05:25:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[05:25:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[05:25:08] maksumkolesnukov022: АЛО СТОЙ
+[05:25:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[05:25:23] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[05:25:50] maksumkolesnukov022 stripped weapons from Themself
+[05:25:50] maksumkolesnukov022: !strip maksumkolesnukov022
+[05:26:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_large
+[05:26:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_large
+[05:26:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_small
+[05:27:09] maksumkolesnukov022: ЩА
+[05:27:10] maksumkolesnukov022: НАДО ЧТОБЫ
+[05:27:12] maksumkolesnukov022: ЁЖИК
+[05:27:12] Client "cihanbey" connected.
+[05:27:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezhealth_charger
+[05:27:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:23] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:28] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:31] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:32] Redoket: война в тунисе
+[05:27:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:37] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:41] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:43] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:48] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:52] Redoket: зубочистки
+[05:27:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:56] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:27:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[05:27:59] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:03] Ametist: ы
+[05:28:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:07] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:11] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:12] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:15] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:18] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:20] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:22] maksumkolesnukov022: ВСЁ А ТО УПАДЁТ ЛАНР
+[05:28:22] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[05:28:35] maksumkolesnukov022: ЖИРНЫ
+[05:28:44] Redoket: ежик
+[05:28:52] Client "BANAN4IK_PLAY" connected.
+[05:29:09] Redoket: фпв на волчанск
+[05:29:20] Redoket: двигайс
+[05:29:51] RusLanConnection killed maksumkolesnukov022 using lvs_jpz4_mow
+[05:30:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_t28_38
+[05:30:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[05:30:51] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_fiat_508
+[05:30:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_gazm1
+[05:30:54] null: Блять опять СУКА
+[05:30:57] Ametist: что
+[05:30:57] Redoket: пингуе
+[05:30:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:31:03] null: Пинг
+[05:31:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:31:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_su85_tb
+[05:31:40] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:31:52] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[05:31:53] null: Так один есть
+[05:32:00] null: Нудно больше деняг
+[05:32:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezpowertools
+[05:32:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezdetpack
+[05:32:21] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[05:33:05] maksumkolesnukov022: копья
+[05:34:17] null: Так деньги на ещё 1 танк есть
+[05:34:25] Ametist: а зач еще танк
+[05:34:34] null: Ну а если война будет?
+[05:34:41] Ametist: ну логично
+[05:34:55] Redoket<STEAM_0:1:545449619> spawned sent lvs_t34_roa
+[05:34:56] Redoket was killed by lvs_t34_roa
+[05:34:58] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[05:34:58] maksumkolesnukov022 suicided!
+[05:34:58] null: Блять
+[05:35:10] Redoket<STEAM_0:1:545449619> spawned sent lvs_t34_roa
+[05:35:13] null: Кароче нам нужно найти базу нацыков
+[05:35:23] Ametist: чтоб объявить им войну?
+[05:35:35] null: Чтобы оценить их развитие.
+[05:35:38] Redoket<STEAM_0:1:545449619> spawned sent lvs_t34e_1941
+[05:35:40] Ametist: ок
+[05:35:44] Redoket: уский так
+[05:35:44] Ametist: я поеду
+[05:35:51] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_t34_42
+[05:35:54] Redoket: фу
+[05:35:57] Redoket: танк чуро
+[05:36:03] Redoket<STEAM_0:1:545449619> spawned sent lvs_t34_roa
+[05:36:05] Redoket: вот уский
+[05:36:09] Redoket: даже флаг есть
+[05:36:18] Redoket: уские 
+[05:36:23] Redoket: р не надо
+[05:36:34] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_su85_tb
+[05:36:41] Redoket: зарядить асколачне
+[05:36:52] Redoket: фига
+[05:36:54] Redoket: трассер
+[05:36:59] Redoket: пт винтовк
+[05:37:37] Redoket: Мировая война
+[05:37:38] (TEAM) Ametist: ы
+[05:37:50] Redoket: вот бы авиац рабготад
+[05:37:52] Ametist: как рацией пользоваться?
+[05:37:56] Redoket: взлетать
+[05:38:03] null: Ну в руки бери и пиши
+[05:38:05] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_spitfire
+[05:38:07] null: Просто 
+[05:38:09] null: Не в тим
+[05:38:11] Redoket: хоч кв 2
+[05:38:14] null: ТА НЕ ТАК
+[05:38:15] Ametist: типо так
+[05:38:23] null: Надень
+[05:38:25] null: И у тебя свеп рации будет
+[05:38:29] null: Ебать
+[05:38:32] null: Эффект
+[05:38:35] Redoket: как гаубиц
+[05:38:38] Ametist: какой
+[05:38:40] Redoket: ламать 
+[05:38:44] Ametist: нет нихуя
+[05:38:44] Redoket: фаундейшн
+[05:38:50] Redoket: америконцам
+[05:38:51] null: Ну буд-то в жаренную мочу опустился.
+[05:38:52] Redoket<STEAM_0:1:545449619> spawned sent lvs_churchill_retard_mow
+[05:38:54] Redoket: это
+[05:38:58] Redoket: немцам
+[05:39:01] Redoket: бизон
+[05:39:09] Redoket: БИЗОННННННН
+[05:39:13] Redoket: БИЗОООООООН
+[05:39:17] Ametist: типо меня так слышно
+[05:39:25] null: Ты блзко.
+[05:39:29] Ametist: бля
+[05:39:31] Redoket: кв два это ломать бункер
+[05:39:34] Redoket: пусть чисто
+[05:39:35] Redoket: у него
+[05:39:36] Redoket: фугас
+[05:39:39] Redoket: но 
+[05:39:42] Redoket: дамажущий
+[05:39:48] null: Приём
+[05:39:51] Ametist: оу
+[05:39:52] null: Проверка связи
+[05:39:58] Redoket: ну мало брони мало говно
+[05:39:59] null: Как слышно?
+[05:40:02] Ametist: ыы
+[05:40:02] Redoket: просто пушка 
+[05:40:04] Redoket: большая
+[05:40:08] Ametist: меня слышно?
+[05:40:08] Redoket<STEAM_0:1:545449619> spawned sent lvs_churchill_retard_mow
+[05:40:12] Redoket: петард
+[05:40:12] null: Где то выстрелы
+[05:40:15] Ametist: о
+[05:40:20] null: Оооо
+[05:40:21] Ametist: слошно?
+[05:40:24] null: Да
+[05:40:26] Redoket: в тылу врага
+[05:40:27] Redoket: танк
+[05:40:28] Ametist: ура
+[05:40:28] null: А меня?
+[05:40:31] null: А понял
+[05:40:40] Redoket<STEAM_0:1:545449619> spawned sent lvs_bl20
+[05:40:44] Redoket<STEAM_0:1:545449619> spawned sent lvs_ziss
+[05:40:53] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_pz1bison
+[05:40:59] Redoket: олд лан рп
+[05:41:08] Client "BANAN4IK_PLAY" spawned in server <STEAM_0:0:627922645> (took 736 seconds).
+[05:41:09] Redoket: Чёёёёёё
+[05:41:11] Redoket: вот бы
+[05:41:12] Redoket: рил
+[05:41:19] Redoket: на первое апреля
+[05:41:23] Redoket: даст карта
+[05:41:26] Redoket: закуп
+[05:41:28] Redoket: пистолета
+[05:41:34] Redoket: да пускай нубы 
+[05:41:38] Redoket: поплачат а про 
+[05:41:42] Redoket: прослезятся
+[05:41:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodwillyjeep_mg
+[05:41:57] Redoket: вот тогда
+[05:42:02] null: Приём
+[05:42:03] Redoket: лан рп был великим
+[05:42:06] null: Что там у тебя?
+[05:42:09] Ametist: йоу
+[05:42:14] null: Нашёл базу?
+[05:42:17] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_pz1bison
+[05:42:18] Ametist: хз
+[05:42:22] Ametist: вроде есть
+[05:42:26] Redoket killed RusLanConnection using lvs_bomb
+[05:42:28] Ametist: но не уверен что их
+[05:42:29] null: Такая голубая
+[05:42:31] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[05:42:31] RusLanConnection suicided!
+[05:42:37] Ametist: нет тог8да
+[05:42:42] null: Ок
+[05:42:55] null: И вербуй людей к нам
+[05:42:58] null: ПО дороге
+[05:43:02] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[05:43:02] Redoket suicided!
+[05:43:06] null: АААа
+[05:43:10] null: Уже нет смысла
+[05:43:20] Ametist: ахаха
+[05:43:23] Ametist: нашел
+[05:43:25] null: Бывает
+[05:44:10] null: Мда
+[05:44:17] null: И что делать теперь?
+[05:44:24] Ametist: хщ
+[05:44:25] null: У меня нет идей людей мало
+[05:44:28] Dropped "BANAN4IK_PLAY" from server<STEAM_0:0:627922645>
+[05:44:28] BANAN4IK_PLAY suicided!
+[05:44:51] null: Кароче давай я пойду
+[05:44:57] Ametist: ок
+[05:44:59] null: А ты останешься?
+[05:45:11] Ametist: хз
+[05:45:21] null: Ну да или нет?
+[05:45:35] Ametist: врятли
+[05:46:29] null: Ну ок только когдабудешь уходить взорви нахер базу если людей не буд�
+[05:46:40] Ametist: ок
+[05:46:40] null: Ну или
+[05:47:00] null: Поставь табличку мол типо: Сделали ametist null
+[05:47:09] Dropped "null" from server<STEAM_0:0:800405246>
+[05:47:09] null suicided!
+[06:08:19] Ametist: supply radio: tnt
+[06:11:06] Ametist suicided!
+[06:15:08] Ametist suicided!
+[06:21:04] P.Drilla: !motd
+[06:21:49] P.Drilla: jmod_ez_econ
+[06:21:51] P.Drilla: !jmod_ez_econ
+[06:22:00] P.Drilla: !chat
+[06:22:06] P.Drilla: !motd
+[06:24:29] Ametist: supply radio: timebombs
+[06:26:06] Ametist was killed by ent_new_powerline
+[06:35:59] Dropped "P.Drilla" from server<STEAM_0:0:496951683>
+[06:35:59] P.Drilla suicided!
+[06:47:52] Client "Ебать Копать" connected.
+[06:51:03] Client "Ебать Копать" spawned in server <STEAM_0:1:847364588> (took 191 seconds).
+[06:52:58] Dropped "Ametist" from server<STEAM_0:1:588020269>
+[06:52:58] Ametist suicided!
+[07:02:29] Client "Timeout Enjoyer" connected.
+[07:03:40] Client "Timeout Enjoyer" spawned in server <STEAM_0:1:52589208> (took 71 seconds).
+[07:13:06] Client "бугагашенька" connected.
+[07:13:56] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 50 seconds).
+[07:15:07] Ебать Копать: Прием
+[07:15:18] Timeout Enjoyer: На связи
+[07:15:18] Ебать Копать: Иди на 30 по компасу
+[07:25:28] Client "виктор сантехник" connected.
+[07:28:06] Client "Tockerheh" connected.
+[07:28:47] Client "Tockerheh" spawned in server <STEAM_0:0:409939021> (took 41 seconds).
+[07:28:50] Ебать Копать: /hits
+[07:38:15] бугагашенька: АЛОУ
+[07:38:20] бугагашенька: во
+[07:42:34] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[07:42:34] бугагашенька suicided!
+[08:02:18] Client "XenoSrus" connected.
+[08:02:52] Client "XenoSrus" spawned in server <STEAM_0:1:409610191> (took 34 seconds).
+[08:11:35] Client "Мочеglouth" connected.
+[08:13:52] Client "Мочеglouth" spawned in server <STEAM_0:0:612066619> (took 137 seconds).
+[08:16:01] Мочеglouth: !motd
+[08:16:52] Client "FIMPLES" connected.
+[08:30:41] Client "FIMPLES" spawned in server <STEAM_0:1:872763653> (took 829 seconds).
+[08:31:40] FIMPLES: что тут делать
+[08:32:17] Client "Aremind" connected.
+[08:32:54] Timeout Enjoyer killed Timeout Enjoyer
+[08:33:11] Client "Aremind" spawned in server <STEAM_0:1:504966072> (took 54 seconds).
+[08:34:37] Aremind killed FIMPLES using wep_jack_gmod_hands
+[08:34:58] XenoSrus killed Timeout Enjoyer using ent_aboot_gmod_ezshippingcontainer
+[08:38:24] FIMPLES: а что тут делать
+[08:38:57] XenoSrus killed FIMPLES using tfa_doippk
+[08:39:35] Dropped "FIMPLES" from server<STEAM_0:1:872763653>
+[08:39:35] FIMPLES suicided!
+[08:40:24] Мочеglouth: !motd
+[08:40:48] XenoSrus killed XenoSrus
+[08:41:35] Client "FIMPLES" connected.
+[08:42:26] Client "FIMPLES" spawned in server <STEAM_0:1:872763653> (took 51 seconds).
+[08:46:05] FIMPLES: что
+[08:46:14] FIMPLES: нет не моя
+[08:46:35] FIMPLES: а что тут делать
+[08:47:13] FIMPLES: стало только интересней
+[08:48:33] FIMPLES: там меня убивали
+[08:48:45] FIMPLES: я незнаю
+[08:49:04] FIMPLES: там было 2 чела
+[08:50:20] FIMPLES: срондж?
+[08:51:47] FIMPLES: !motd
+[08:51:51] Мочеglouth: !motd
+[08:52:39] FIMPLES: /
+[08:55:05] Dropped "Aremind" from server<STEAM_0:1:504966072>
+[08:55:05] Aremind suicided!
+[08:55:32] FIMPLES: ого
+[08:56:02] Client "Le35q" connected.
+[08:57:16] FIMPLES: понятно
+[08:57:17] Client "Le35q" spawned in server <STEAM_0:1:225675214> (took 75 seconds).
+[08:58:08] FIMPLES: 200
+[08:58:25] Client "NOTIKK" connected.
+[08:59:17] FIMPLES: нифига
+[09:00:18] FIMPLES: тут есть кибитки
+[09:00:51] FIMPLES: я просто только в раст играл
+[09:02:29] FIMPLES: тут пустныня
+[09:03:07] FIMPLES: да
+[09:04:14] FIMPLES: и это и есть хорошо
+[09:09:03] FIMPLES: 1 патрон
+[09:09:37] Tockerheh: привет
+[09:09:39] Tockerheh: да
+[09:09:48] Tockerheh: так
+[09:10:15] Tockerheh: а вы откуда сами?
+[09:10:34] Tockerheh: ну можно конечно альянс
+[09:12:33] FIMPLES: неа
+[09:13:40] FIMPLES: я так в расте клан базу забрал себе
+[09:14:31] Client "Сырный пакетик" connected.
+[09:15:14] Client "skkd1vidax" connected.
+[09:15:37] FIMPLES: ну даже не знаю
+[09:16:18] FIMPLES: тут дыра
+[09:16:45] Ебать Копать: /hits
+[09:16:50] Ебать Копать: /hits
+[09:17:37] Client "Сырный пакетик" spawned in server <STEAM_0:0:617253467> (took 186 seconds).
+[09:18:17] Мочеglouth: !motd
+[09:18:19] FIMPLES: !motd
+[09:18:24] Мочеglouth: !motd
+[09:18:50] Мочеglouth: bind x 
+[09:18:58] FIMPLES: неа
+[09:19:21] Client "яя не гитлир" connected.
+[09:19:35] FIMPLES: ytxtuj
+[09:19:40] FIMPLES: ytxtuj
+[09:19:46] FIMPLES: нечего
+[09:19:49] Мочеglouth: bind i jmod_ez_inv
+[09:20:18] FIMPLES: chf,jnfkj
+[09:20:25] FIMPLES: сработало
+[09:20:49] Client "яя не гитлир" spawned in server <STEAM_0:0:845922848> (took 88 seconds).
+[09:21:17] Client "selfharm" connected.
+[09:24:03] FIMPLES: я это давно открыл
+[09:24:22] FIMPLES: оу
+[09:24:51] FIMPLES: хаха
+[09:25:04] FIMPLES: тут 77
+[09:25:07] FIMPLES: 7
+[09:25:39] FIMPLES: во там
+[09:25:58] FIMPLES: возле нефте меня убили
+[09:27:14] FIMPLES: да
+[09:28:16] Tockerheh: бензина не найдется?
+[09:29:20] яя не гитлир: ПРИШОЛ
+[09:29:54] яя не гитлир: ОК
+[09:30:01] яя не гитлир: ПОХУЕ
+[09:31:22] FIMPLES: ктото
+[09:33:12] Dropped "яя не гитлир" from server<STEAM_0:0:845922848>
+[09:33:12] яя не гитлир suicided!
+[09:33:50] FIMPLES: да
+[09:34:01] Client "RusLanConnection" connected.
+[09:35:48] FIMPLES: ага
+[09:36:43] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 162 seconds).
+[09:36:46] FIMPLES: чучуть
+[09:37:00] Dropped "Сырный пакетик" from server<STEAM_0:0:617253467>
+[09:37:00] Сырный пакетик suicided!
+[09:37:20] RusLanConnection cloaked Themself by amount 0
+[09:37:29] FIMPLES: а тут нету вайпов 
+[09:37:31] Client "Loncaus" connected.
+[09:37:36] Client "Сырный пакетик" connected.
+[09:37:42] Le35q: они каждый день
+[09:37:53] Le35q: тут упрощеный Джимод
+[09:38:01] RusLanConnection teleported to Tockerheh
+[09:38:21] Client "Loncaus" spawned in server <STEAM_0:0:96256132> (took 50 seconds).
+[09:38:28] Le35q: playermodel_selector
+[09:38:45] RusLanConnection teleported to Loncaus
+[09:38:47] RusLanConnection teleported to Ебать Копать
+[09:38:50] Client "Сырный пакетик" spawned in server <STEAM_0:0:617253467> (took 74 seconds).
+[09:40:23] FIMPLES: я велл выбрал скин и ничего
+[09:40:23] Мочеglouth was killed by npc_fastzombie
+[09:40:34] Dropped "Мочеglouth" from server<STEAM_0:0:612066619>
+[09:40:34] Мочеglouth suicided!
+[09:40:35] FIMPLES: ошибка
+[09:41:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfieldhospital
+[09:41:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[09:41:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[09:41:44] FIMPLES: я умераю
+[09:42:34] FIMPLES: спасибо
+[09:42:37] RusLanConnection teleported to FIMPLES
+[09:42:38] RusLanConnection teleported to Le35q
+[09:42:38] RusLanConnection teleported to Timeout Enjoyer
+[09:42:40] RusLanConnection teleported to Tockerheh
+[09:42:41] RusLanConnection teleported to XenoSrus
+[09:42:42] RusLanConnection teleported to Ебать Копать
+[09:42:42] RusLanConnection teleported to XenoSrus
+[09:42:53] Ебать Копать: playermodel_selector
+[09:43:07] FIMPLES: 8
+[09:43:12] FIMPLES: 80
+[09:43:18] RusLanConnection teleported to Сырный пакетик
+[09:43:25] FIMPLES: и уменя
+[09:43:46] Ебать Копать: playermodel_selector
+[09:44:48] Сырный пакетик was killed by ent_jack_gmod_ezaugerdrill
+[09:46:47] FIMPLES: а проэто я знаю
+[09:46:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfieldhospital
+[09:46:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[09:47:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[09:48:45] FIMPLES: он меня научил
+[09:48:54] XenoSrus: Она не работает
+[09:48:57] FIMPLES: пылесос
+[09:49:12] XenoSrus: Она зажевала 200 партов
+[09:49:29] FIMPLES: неа
+[09:49:44] Tockerheh killed Tockerheh
+[09:50:19] RusLanConnection teleported to Tockerheh
+[09:50:38] RusLanConnection granted god mode upon Themself
+[09:51:02] FIMPLES: да
+[09:51:35] FIMPLES: ого
+[09:52:08] (TEAM) FIMPLES: а тут есть эмоции
+[09:52:27] FIMPLES: типо показать палцем и тд
+[09:52:28] XenoSrus killed Сырный пакетик using tfa_doik98
+[09:53:03] Сырный пакетик killed XenoSrus using tfa_blast_sjogren
+[09:53:40] XenoSrus: еще раз трубу воткнешь я тебя захуярю
+[09:55:17] RusLanConnection teleported to Tockerheh
+[09:55:34] XenoSrus killed Loncaus using ent_jack_gmod_ezfalloutparticle
+[09:56:53] FIMPLES: я подумал что инет пропал
+[09:57:13] FIMPLES: солнечяная панель
+[09:58:25] FIMPLES: аа
+[10:01:26] RusLanConnection teleported to Timeout Enjoyer
+[10:02:33] FIMPLES: чучуть
+[10:02:44] Le35q: nail
+[10:03:31] FIMPLES: на неил не хватает
+[10:04:32] FIMPLES: аааа
+[10:05:16] Client "UnKnownPersonAge" connected.
+[10:08:03] FIMPLES: акум
+[10:10:18] FIMPLES: мне сказал он что тут есть что то типо рынка
+[10:11:26] Ебать Копать: Ваша честь!
+[10:11:44] Ебать Копать: Я сделал вашу базу и центр командования
+[10:11:49] Ебать Копать: Прошу вас осмотреть его внутри
+[10:12:40] FIMPLES: ого
+[10:12:50] Ебать Копать: Тут отстрелочная
+[10:12:53] FIMPLES: мне сказал
+[10:13:03] FIMPLES: про точку
+[10:13:09] Ебать Копать: Я обустрою тут все
+[10:13:21] Ебать Копать: Поставлю ящик с оружием и патронами
+[10:13:25] Ебать Копать: А так же броню
+[10:13:40] Ебать Копать: Тут склад
+[10:13:42] Ебать Копать: НЕНАДО
+[10:15:47] FIMPLES: а где
+[10:15:56] Ебать Копать: Ваша честь
+[10:16:00] Ебать Копать: Я на разведку авиацией
+[10:17:29] Le35q: Power line
+[10:18:07] Client "Rollyz" connected.
+[10:18:35] Ебать Копать: Ваша честь
+[10:18:40] Ебать Копать: Возможные 3 угрозы
+[10:18:46] Ебать Копать: 3 больших базы возможных врагов
+[10:18:50] Ебать Копать: 1 бункерная база
+[10:18:54] Ебать Копать: 2 открытые большие базы
+[10:19:04] Ебать Копать: Прошу предпринять меры по защите
+[10:19:18] Ебать Копать: Стены, вооружение
+[10:19:31] Ебать Копать: Я начну делать технику
+[10:19:33] Ебать Копать: Военную
+[10:21:19] FIMPLES: мне сказад тут он упрощенный и добавлено много чего
+[10:21:56] FIMPLES:  а гвоздями приклеплять
+[10:23:24] FIMPLES: ну как в расте
+[10:23:58] Client "matiebal" connected.
+[10:25:15] (TEAM) FIMPLES: продать
+[10:25:29] Le35q: Warehouse
+[10:25:46] Le35q: Sell
+[10:26:33] (TEAM) FIMPLES: силивер хорошо продается
+[10:26:52] FIMPLES: а уже не хорошо продаетя
+[10:26:59] FIMPLES: яя ща
+[10:27:17] Ебать Копать: Ты че творишь
+[10:27:18] Ебать Копать: Идиот
+[10:27:35] (TEAM) FIMPLES: я тут
+[10:28:02] (TEAM) FIMPLES: о танки появились
+[10:28:08] Ебать Копать: Я сделал
+[10:28:14] (TEAM) FIMPLES: он крутой
+[10:28:28] Client "Cherry_Pie" connected.
+[10:28:42] Ебать Копать: Уберите машину
+[10:28:43] Ебать Копать: Плиз
+[10:29:10] Ебать Копать: Это гараж
+[10:29:15] (TEAM) FIMPLES: а керамику взять в инветн
+[10:29:53] FIMPLES: все
+[10:31:08] FIMPLES: а если я выйду здесь я появлюсь здесь
+[10:32:41] (TEAM) FIMPLES: а спалник не нуже
+[10:33:11] FIMPLES: страновать 
+[10:33:55] (TEAM) FIMPLES: ага
+[10:35:27] Le35q: Point of Dislocation
+[10:35:36] Le35q: Tools
+[10:35:45] Ебать Копать: Вылетаю на разведку
+[10:39:04] Client "El_Muchacho" connected.
+[10:40:51] Ебать Копать: 1 Танковый отряд готов
+[10:40:54] Ебать Копать: Ваша честь
+[10:41:02] Ебать Копать: Пусто
+[10:41:04] Ебать Копать: Все заняты
+[10:41:07] Ебать Копать: А так же проблема
+[10:41:17] Ебать Копать: При пролете над базой абобусики
+[10:41:23] Ебать Копать: Для разведки базы свободы
+[10:41:26] Ебать Копать: Меня отругали
+[10:41:35] Ебать Копать: И сказали что база закрытая для пролетов над них
+[10:41:41] Ебать Копать: Как?
+[10:41:51] Ебать Копать: Мы слабее в плане людской силы
+[10:42:03] Ебать Копать: 4 человека, 2 базы
+[10:42:37] Ебать Копать: Полетели договоримся на мирный договор и разрешение для пролетов на�
+[10:42:44] Ебать Копать: Пакт о ненаподени
+[10:42:47] Ебать Копать: Ненаподении
+[10:42:57] Ебать Копать: Нет
+[10:42:59] Ебать Копать: Нужно подписать
+[10:43:05] Ебать Копать: Давайте полетим подписывать
+[10:43:09] Ебать Копать: Надень скин немца
+[10:43:22] Ебать Копать: playermodel_selector
+[10:43:30] Le35q: playermodel_selector
+[10:43:33] Ебать Копать: В консоль
+[10:44:10] Ебать Копать: Советский солдат
+[10:44:19] Ебать Копать: Шлем
+[10:44:39] Ебать Копать: Шлем смени
+[10:45:09] Ебать Копать: Рпг
+[10:45:42] Ебать Копать: По уставу мы должны держать оружие на предохранителе и стоять рядом �
+[10:46:04] FIMPLES: у меня полный
+[10:46:32] Ебать Копать: Бляха
+[10:46:36] Ебать Копать: Не то оружие
+[10:47:12] (TEAM) FIMPLES: а  нас есть бункер или типо того
+[10:47:19] Ебать Копать: Монумент
+[10:47:21] Ебать Копать: Как бункер
+[10:47:26] Ебать Копать: Первоначальный
+[10:47:31] Ебать Копать: На вертолет
+[10:47:39] Ебать Копать: Смотри
+[10:47:50] Ебать Копать: Когда подходим стоим рядом если
+[10:47:52] Ебать Копать: Что
+[10:47:54] Ебать Копать: На всякий
+[10:47:57] Ебать Копать: А
+[10:49:00] Ебать Копать: Не могу
+[10:49:22] Ебать Копать: Ждем
+[10:49:27] Ебать Копать: Я заведу вертолет пока что
+[10:49:35] (TEAM) FIMPLES: у меня кошка микро згрызгла
+[10:49:42] Ебать Копать: Вкусняшка
+[10:49:46] (TEAM) FIMPLES: 15
+[10:49:54] Ебать Копать: Я маленький молочный зубик
+[10:49:56] Ебать Копать: Мне 13
+[10:50:05] Ебать Копать: Вперед
+[10:50:53] Ебать Копать: ((нам это по рп отыгрывать?
+[10:50:58] Ебать Копать: ((Пакт о ненаподении
+[10:51:46] Ебать Копать: Давайте мы на своем
+[10:51:48] Ебать Копать: Полетим
+[10:53:34] Tockerheh: угу
+[10:54:21] Tockerheh: повторите вопрос пожалуйста
+[10:54:26] Timeout Enjoyer: зачем
+[10:54:27] Timeout Enjoyer: вы стреляли
+[10:54:29] Timeout Enjoyer: в нашу сторону
+[10:54:39] Tockerheh: из чего?
+[10:54:45] Timeout Enjoyer: из стрелкового вооружения
+[10:54:50] Timeout Enjoyer: 10 минут назад или чуть более
+[10:54:53] Timeout Enjoyer: я слышал дважды выстрелы
+[10:54:56] Timeout Enjoyer: в нашу сторону
+[10:54:57] Tockerheh: я стрелял не в вас,а защищался
+[10:54:59] Timeout Enjoyer: от кого?
+[10:55:09] Tockerheh: админ заспавнил мобов
+[10:55:18] Tockerheh: на моём участке
+[10:55:24] Ебать Копать: Он у всех спавнил
+[10:55:28] Tockerheh: возможно случайно попал в вашу сторону
+[10:55:29] Ебать Копать: У нас в том числе
+[10:55:36] Timeout Enjoyer: у нас тоже было
+[10:55:41] Timeout Enjoyer: мы их лопатами
+[10:55:42] Timeout Enjoyer: убили
+[10:55:49] Tockerheh: прошу прощения если я попал в вашу сторону
+[10:55:58] Timeout Enjoyer: Что-ж, хорошо, но желательно уведомляйте впредь
+[10:56:23] Timeout Enjoyer: Да...
+[10:56:29] Timeout Enjoyer: Возможно нам стоит пригласить участников
+[10:56:37] Timeout Enjoyer: К Свободным
+[10:56:54] Timeout Enjoyer: Мы будем направлять всех людей к вам тогда
+[10:56:58] Timeout Enjoyer: Авиасообщением
+[10:57:02] Timeout Enjoyer: Что бы вступали к Свободным
+[10:57:04] Tockerheh: хорошо
+[10:57:16] Timeout Enjoyer: Альянс пока что не будем
+[10:57:25] Timeout Enjoyer: (он забагован и не дает расторгнуть)
+[10:57:38] Tockerheh: так
+[10:57:41] Tockerheh: у меня просьба
+[10:57:44] Timeout Enjoyer: Что-ж, тогда мы полете-..?
+[10:57:56] Tockerheh: у вас не найдется керамики?
+[10:58:06] Ебать Копать: У нас ее дефицит 
+[10:58:07] Timeout Enjoyer: У нас закончилось месторождение, но осталось около тысячи
+[10:58:14] Timeout Enjoyer: Самим нужно. Но за цену готовы продать
+[10:58:19] Timeout Enjoyer: Скажем, 30 за еденицу.
+[10:58:36] Timeout Enjoyer: Хорошо, мы телепортируемся к вам
+[10:58:40] Timeout Enjoyer: Через точки.
+[10:58:55] Tockerheh: ну я сейчас к вам тепнусь и помогу провести
+[10:59:07] Tockerheh: а ну тоже можно
+[11:00:54] Tockerheh: ненене
+[11:00:57] Tockerheh: бур
+[11:01:30] Client "ATN.RM" connected.
+[11:01:52] Client "Shnir" connected.
+[11:03:13] Tockerheh: вам железо нужно?я могу подогнать много
+[11:03:23] Ебать Копать: У нас идет производство железа
+[11:03:29] Ебать Копать: Благодарю за предложение
+[11:03:50] Tockerheh: у меня вопрос как вы трубы проводите
+[11:03:56] Tockerheh: у меня не получилось
+[11:04:28] Ебать Копать: Молодец
+[11:04:31] Tockerheh: я провел,а у меня железо в ящик не поступает
+[11:04:39] (TEAM) FIMPLES: спасибо
+[11:04:39] Ебать Копать: Если хочешь можешь танк взять повеселиться
+[11:04:46] Ебать Копать: Припасов достаточно
+[11:05:01] Tockerheh: ну если не трудно конечно
+[11:05:03] Ебать Копать: + нужна тренировка, как никак ты новенький
+[11:05:10] (TEAM) FIMPLES: спасибо за предложение но я откажусь
+[11:06:13] (TEAM) FIMPLES: ресурсы нужны
+[11:06:30] (TEAM) FIMPLES: да
+[11:08:20] FIMPLES: мне метала не хватает
+[11:08:35] Ебать Копать: Вроде все
+[11:08:53] Ебать Копать: На этом все?
+[11:08:54] Tockerheh: сейчас посмотрим
+[11:09:13] Ебать Копать: Не смею прикасаться к вашему складу по уставу
+[11:09:33] Tockerheh: у вас устав есть?
+[11:09:41] Ебать Копать: Устав пехоты
+[11:09:48] Ебать Копать: Придуманный на ходу
+[11:09:53] Tockerheh: хахахахах
+[11:10:07] Client "ATN.RM" spawned in server <STEAM_0:1:841079244> (took 517 seconds).
+[11:10:17] Tockerheh: она тупо падает
+[11:10:18] Ебать Копать: Проблема заключается в неправильном подключении труб
+[11:10:47] Ебать Копать: Отсюда туда
+[11:10:51] Ебать Копать: Трубы проводить
+[11:12:17] Dropped "ATN.RM" from server<STEAM_0:1:841079244>
+[11:12:17] ATN.RM suicided!
+[11:12:53] Ебать Копать: Теперь должно
+[11:13:02] Ебать Копать: Стойте тут
+[11:13:11] Ебать Копать: Я кину туда в трубу сталь
+[11:13:49] Ебать Копать: Есть?
+[11:13:52] Tockerheh: всё работает
+[11:13:57] Tockerheh: спасибо большое
+[11:14:10] Ебать Копать: Всегда рад помогать
+[11:14:17] Ебать Копать: Я возвращаюсь на базу
+[11:14:19] Tockerheh: вы от четвертого рейха же?
+[11:14:24] Ебать Копать: Так точно
+[11:14:27] Tockerheh: понял
+[11:14:32] Tockerheh: удачи тогда
+[11:14:35] Ебать Копать: Командир логистики и глав инженер
+[11:14:39] Ебать Копать: И вам всего хорошего
+[11:14:49] (TEAM) FIMPLES: заказать плутон и положить золото
+[11:15:26] (TEAM) FIMPLES: заказать я прослушал что
+[11:15:46] Сырный пакетик: supply radio: seed kit
+[11:15:53] Ебать Копать: Ваша честь
+[11:15:56] Ебать Копать: Выполнен приказ
+[11:16:04] Ебать Копать: Вовсе нет
+[11:16:12] Ебать Копать: Выполнил задание
+[11:16:14] Ебать Копать: Не знаю
+[11:16:19] (TEAM) FIMPLES: ктото на горе
+[11:16:24] Ебать Копать: Не имею понятия
+[11:16:30] Ебать Копать: Я лишь помог и вернулся
+[11:16:36] Ебать Копать: Ожидаю указаний
+[11:17:03] Ебать Копать: Принято, будет исполнено
+[11:17:12] Ебать Копать: Так точно
+[11:18:13] (TEAM) FIMPLES: ааааа
+[11:19:14] Ебать Копать: Сюда
+[11:19:16] Ебать Копать: Я на базе
+[11:20:29] Ебать Копать: Спасибо
+[11:20:35] Ебать Копать: кто может со мной поехать?
+[11:20:40] Ебать Копать: чтобы потом машину забрать
+[11:20:44] Ебать Копать: Я упал и умер
+[11:20:51] Ебать Копать: Нет
+[11:20:56] Ебать Копать: На вертолете по склону упал
+[11:20:58] Ебать Копать: Ну
+[11:21:01] Ебать Копать: Поставил вертолет
+[11:21:04] Ебать Копать: Пошел
+[11:21:06] Ебать Копать: И скатился
+[11:21:20] (TEAM) FIMPLES: да
+[11:21:27] (TEAM) FIMPLES: очень
+[11:21:40] Ебать Копать: Нет
+[11:21:47] Ебать Копать: Секунду
+[11:21:49] Ебать Копать: Заправить
+[11:22:28] Ебать Копать: Все
+[11:22:31] Ебать Копать: Не стоит
+[11:22:33] Ебать Копать: Хватит
+[11:22:40] FIMPLES: 600
+[11:22:48] Ебать Копать: Украдут
+[11:22:50] Ебать Копать: Не надо
+[11:22:53] Ебать Копать: Перевес
+[11:22:54] Ебать Копать: Не надо
+[11:22:55] Ебать Копать: Нет
+[11:22:58] Ебать Копать: ббб
+[11:23:02] Ебать Копать: Мы поехали
+[11:23:05] Ебать Копать: Да
+[11:25:47] Ебать Копать: Я сяду за вертолет, ты сможешь поехать на машине обратно
+[11:25:50] Ебать Копать: Хорошо?
+[11:25:55] (TEAM) FIMPLES: ага
+[11:26:46] Ебать Копать: Удачи
+[11:27:45] Ебать Копать: Рейх, без враждебности
+[11:27:46] Tockerheh: серебро
+[11:28:04] Tockerheh: благодарю
+[11:28:12] Tockerheh: деньги я уже отправил
+[11:28:25] Ебать Копать: Здравствуйте
+[11:28:34] Ебать Копать: Я передставитель из Рейха как вы можете понять
+[11:28:44] Timeout Enjoyer: Мг-м
+[11:28:44] Ебать Копать: Меня послали к вам на счет обсуждения торговли
+[11:28:54] Timeout Enjoyer: Интересно, что вы желаете предложить?
+[11:28:56] Ебать Копать: Керамика, и другие ресурсы
+[11:29:02] Ебать Копать: Это я должен спросить у вас
+[11:29:04] Tockerheh: 200
+[11:29:06] Timeout Enjoyer: Керамика нас интересует.
+[11:29:08] Ебать Копать: Что вас интересует
+[11:29:10] Timeout Enjoyer: Мы можем предложить вам деньги
+[11:29:12] Tockerheh: или 100
+[11:29:16] Ебать Копать: В размере?
+[11:29:21] Timeout Enjoyer: По какому курсу вы готовы продать нам керамику?
+[11:29:23] Tockerheh: давай,удачи
+[11:29:26] Timeout Enjoyer: Желательно 4000
+[11:29:30] Timeout Enjoyer: Целый ящик, т.е.
+[11:29:31] Tockerheh: спасибо за керамику
+[11:29:35] Ебать Копать: Дешевле реночной цены
+[11:29:37] Timeout Enjoyer: Но и меньшие поставки были бы полезны.
+[11:29:42] Ебать Копать: Рыночной*
+[11:29:44] Timeout Enjoyer: Керамика не предоставляется на рынке.
+[11:29:55] Ебать Копать: Давайте около 4 - 5 тысяч хватит
+[11:30:04] Ебать Копать: За 1 - 2 к керамики
+[11:30:08] Ебать Копать: Сойдет?
+[11:30:10] Timeout Enjoyer: Хм
+[11:30:14] Timeout Enjoyer: Хорошо, да.
+[11:30:17] Ебать Копать: Отлично
+[11:30:28] Timeout Enjoyer: 2 тысячи керамики за 4 тысячи.
+[11:30:30] (TEAM) FIMPLES: оказывается я не умею ехать
+[11:30:37] Timeout Enjoyer: Я бы хотел заказать прямо сейчас.
+[11:30:42] (TEAM) FIMPLES: он на той базе
+[11:30:50] (TEAM) FIMPLES: перед нами
+[11:30:50] Timeout Enjoyer: Доставите вертолетом. Оплатим при получении.
+[11:30:51] Ебать Копать: Мы постараемся доставить в кротчайшие сроки
+[11:30:55] Timeout Enjoyer: Хорошо
+[11:30:56] Ебать Копать: Так точно
+[11:31:03] Ебать Копать: Я приступлю к выполнению заказа
+[11:31:06] Timeout Enjoyer: Испытывали ли вы трудности с посадкой?
+[11:31:24] Ебать Копать: Я давно управляю вертолетом, но все равно могу сказать что да
+[11:31:30] Ебать Копать: Гражданский вертолет слишком большой
+[11:31:32] Timeout Enjoyer: Стоит сделать пошире?
+[11:31:34] Timeout Enjoyer: Площадку
+[11:31:42] Ебать Копать: Если можно 
+[11:31:46] Timeout Enjoyer: Постараемся
+[11:31:51] Timeout Enjoyer: Но сейчас керамики вообще нету
+[11:32:00] Ебать Копать: Я готов дополнительно 500 керамики привезти отдельно под площадку для
+[11:32:00] Timeout Enjoyer: Немного только выйдет расширить
+[11:32:06] Timeout Enjoyer: Хорошо
+[11:32:14] Timeout Enjoyer: Как доставите керамику она будет значительно расширена
+[11:32:25] Timeout Enjoyer: Ожидаем. 2к керамики за 4к$
+[11:33:00] Сырный пакетик was killed by ent_rus_jsmod_pipe
+[11:33:39] Ебать Копать: Где командир?
+[11:33:52] (TEAM) FIMPLES: там на той бзае 
+[11:33:56] Ебать Копать: Понял
+[11:34:08] (TEAM) FIMPLES: на которой была машина
+[11:34:12] Ебать Копать: Понял
+[11:34:39] (TEAM) FIMPLES: он тебя ищет
+[11:38:54] Ебать Копать was killed by ent_jack_gmod_ezsentry
+[11:39:33] Ебать Копать: Проблемы
+[11:39:37] Ебать Копать: Нас атаковали абобики
+[11:39:39] (TEAM) FIMPLES: что случилось
+[11:39:41] Ебать Копать: Изнутри их базы
+[11:39:41] Client "Мочеglouth" connected.
+[11:39:44] Ебать Копать: У них гражданская война
+[11:39:52] Ебать Копать: Со мной
+[11:40:03] (TEAM) FIMPLES: у меня45 хп
+[11:40:08] Ебать Копать: Нечего страшного
+[11:40:32] (TEAM) FIMPLES: стрелять будем или что
+[11:41:16] Ебать Копать was killed by ent_jack_gmod_ezsentry
+[11:41:16] FIMPLES was killed by ent_jack_gmod_ezsentry
+[11:41:39] Client "Мочеglouth" spawned in server <STEAM_0:0:612066619> (took 118 seconds).
+[11:41:50] (TEAM) FIMPLES: на танке
+[11:42:14] (TEAM) FIMPLES: нам нужно оружие
+[11:44:19] Ебать Копать: Это пиздец
+[11:44:22] Ебать Копать: Че за хуйня
+[11:44:26] Ебать Копать: Мы им поставки
+[11:44:27] Ебать Копать: Скидки
+[11:44:29] Ебать Копать: А они
+[11:44:37] Ебать Копать: "Вы проникли на нашу базу без спроса"
+[11:45:08] (TEAM) FIMPLES: они нас убили
+[11:45:45] Ебать Копать: Грусть
+[11:45:51] Ебать Копать: ВРАВГ
+[11:46:18] (TEAM) FIMPLES: у нас какаято война
+[11:46:30] (TEAM) FIMPLES: нас убили
+[11:46:33] Ебать Копать: Выплати им
+[11:46:34] FIMPLES: да
+[11:46:35] Ебать Копать: Нам нужно время
+[11:46:39] Ебать Копать: И прими его
+[11:46:42] Ебать Копать: Я афк
+[11:47:02] (TEAM) FIMPLES: наш вертолет взорвали
+[11:48:11] (TEAM) FIMPLES: все готово
+[11:48:55] (TEAM) FIMPLES: броня и патроны
+[11:49:14] Ебать Копать: Хорошая идея
+[11:49:33] Ебать Копать: Хахахха
+[11:49:34] Ебать Копать: А ты
+[11:49:36] Ебать Копать: С нами?
+[11:49:51] Ебать Копать: Пехота /техника?
+[11:50:12] (TEAM) FIMPLES: а как патроны взять
+[11:51:10] Ебать Копать: /hits
+[11:52:26] Ебать Копать: Давайте танковой ротой пойдем
+[11:52:31] Ебать Копать: У них стены
+[11:52:33] Ебать Копать: У нас танки
+[11:53:02] (TEAM) FIMPLES: а тут есть бинты
+[11:53:13] (TEAM) FIMPLES: или аптечки
+[11:54:33] Ебать Копать: Командир
+[11:54:41] Ебать Копать: Такой набор на пехотинца сойдет?
+[11:55:15] Ебать Копать: Тогда я буду джагером
+[11:55:40] Client "КРУТАЙ ИИСУС" connected.
+[12:01:08] FIMPLES was killed by ent_jack_gmod_ezsticknade
+[12:01:08] Мочеglouth was killed by ent_jack_gmod_ezsticknade
+[12:01:15] Ебать Копать: че за
+[12:01:20] Ебать Копать: Пиздец
+[12:01:29] (TEAM) FIMPLES: извенитя меня
+[12:01:33] Ебать Копать: Пиздец
+[12:01:41] (TEAM) FIMPLES: я незнал
+[12:02:03] Ебать Копать: Тыф что натворил
+[12:02:13] (TEAM) FIMPLES: извенитя меня
+[12:02:18] (TEAM) FIMPLES: я не знал
+[12:02:19] Ебать Копать: Танкави
+[12:02:22] Timeout Enjoyer suicided!
+[12:02:26] Ебать Копать: Танками
+[12:02:28] Ебать Копать: Ребзи
+[12:02:31] Ебать Копать: РЕБЗИ
+[12:02:32] Ебать Копать: ТАНКИ
+[12:02:36] Ебать Копать: ПО ТАНКАМ
+[12:02:41] Ебать Копать: ПО ТАНКАМ
+[12:02:45] Ебать Копать: ПРИКАЗ КОМАНДИРа
+[12:02:49] Ебать Копать: СРОЧНо
+[12:02:59] Ебать Копать: НУЖЕ
+[12:03:02] Ебать Копать: В ТАНКИ
+[12:03:07] Ебать Копать: БЫСТРЕЕЕ
+[12:03:10] Ебать Копать: АЛО
+[12:03:15] Ебать Копать: В ТАНКИ БЫСТРЫЕ И ВПЕРЕД
+[12:03:20] Ебать Копать: АЛЕЕ
+[12:03:25] Ебать Копать: ВВ СВОЙ
+[12:03:30] Ебать Копать: КАЖДЫЙ В ЛЕГКИЙ ТАНК
+[12:03:40] Ебать Копать: В СВОЙ
+[12:03:43] Ебать Копать: БЫСТРЕЕ
+[12:03:45] Ебать Копать: БРО
+[12:03:46] (TEAM) FIMPLES: у меня н
+[12:03:47] Ебать Копать: НОВЕЧЕК
+[12:03:58] Ебать Копать: alt + e
+[12:04:24] Ебать Копать: Впереде
+[12:05:01] Ебать Копать: На колесо мыши переключать снаряд
+[12:05:21] Ебать Копать: Вперед
+[12:07:00] Ебать Копать: Верть
+[12:07:05] Ебать Копать: Верт взлетает
+[12:07:12] Ебать Копать: БЕНЗИН СУФА
+[12:07:21] Loncaus suicided!
+[12:08:08] Ебать Копать: По нам палят
+[12:08:35] Ебать Копать: Верт
+[12:10:08] (TEAM) FIMPLES: патронов нету
+[12:11:11] (TEAM) FIMPLES: пусто
+[12:11:36] (TEAM) FIMPLES: незнаю
+[12:11:42] (TEAM) FIMPLES: д за патронами
+[12:12:33] Dropped "Tockerheh" from server<STEAM_0:0:409939021>
+[12:12:33] Tockerheh suicided!
+[12:12:36] Timeout Enjoyer killed Мочеglouth using player
+[12:13:37] (TEAM) FIMPLES: незнаю
+[12:14:03] (TEAM) FIMPLES: у нас 25 патронов
+[12:14:29] Timeout Enjoyer killed Le35q using player
+[12:14:49] (TEAM) FIMPLES: нужно принисти патронов а у нас их нету
+[12:15:03] FIMPLES: это очень мало
+[12:17:35] Dropped "FIMPLES" from server<STEAM_0:1:872763653>
+[12:17:35] FIMPLES suicided!
+[12:17:47] Loncaus killed Ебать Копать using tfa_smc_ppsh_drum
+[12:18:06] Ебать Копать: Парни
+[12:18:08] Ебать Копать: Вы ебнулись
+[12:18:17] Ебать Копать: Там помощь нужна ак то
+[12:18:26] Ебать Копать: Не знаю
+[12:18:56] Ебать Копать: Пехотой поможете
+[12:18:57] Ебать Копать: Вертолет
+[12:19:56] Ебать Копать: Топлива мало
+[12:19:59] Ебать Копать: Возьми запас
+[12:20:03] Ебать Копать: Мы половину потратили
+[12:22:15] Loncaus killed Le35q using tfa_smc_ppsh_drum
+[12:22:28] Ебать Копать: Мы не можем
+[12:22:29] Ебать Копать: Подняться
+[12:23:52] Loncaus killed Ебать Копать using lvs_pz4g_mow
+[12:26:09] Ебать Копать: Имп
+[12:26:11] Ебать Копать: Мобилизацию
+[12:26:14] Ебать Копать: По радио
+[12:26:40] XenoSrus to admins: help Почему пишет что фракция слишком немощна чтобы запускать ядерные
+[12:26:53] Loncaus killed Timeout Enjoyer using lvs_pz4g_mow
+[12:26:53] Loncaus killed Le35q using lvs_pz4g_mow
+[12:26:54] RusLanConnection teleported to XenoSrus
+[12:27:01] RusLanConnection: сейчас посмотрю
+[12:27:07] Loncaus killed Ебать Копать using lvs_pz4g_mow
+[12:27:22] Loncaus killed Мочеglouth using lvs_pz4g_mow
+[12:27:34] Сырный пакетик killed Ебать Копать using lvs_t60
+[12:27:39] Loncaus killed Le35q using lvs_pz4g_mow
+[12:27:58] Client "￥ǾḼΌ" connected.
+[12:28:37] RusLanConnection: фракция врага или ваша?
+[12:28:39] RusLanConnection: пишет
+[12:28:42] Loncaus killed Le35q using lvs_pz4g_mow
+[12:28:47] XenoSrus: наша пишет
+[12:28:50] Сырный пакетик killed Мочеglouth using tfa_doimg34
+[12:28:51] Client "￥ǾḼΌ" spawned in server <STEAM_0:0:53155741> (took 53 seconds).
+[12:28:55] Loncaus killed Le35q using lvs_pz4g_mow
+[12:28:55] XenoSrus: наша фракция немощна почему то
+[12:29:09] XenoSrus: Ваша фракция слишком немощна, чтобы запускать ядерные ракеты.
+[12:29:36] Ебать Копать killed Сырный пакетик using tfa_doippk
+[12:29:52] RusLanConnection: попробуй
+[12:30:02] XenoSrus: Все еще пишет
+[12:30:06] XenoSrus: слишком немощна
+[12:30:58] RusLanConnection: попробуй
+[12:31:00] Ебать Копать: Я устал
+[12:31:15] XenoSrus: Теперь пишет Мораль вашей фракции должна быть ниже 50 единиц.
+[12:31:16] Ебать Копать: Я пытался держаться там
+[12:31:19] RusLanConnection: вот
+[12:31:20] Ебать Копать: Всем было похуй
+[12:31:22] RusLanConnection: теперь работает
+[12:31:24] XenoSrus: хорошо
+[12:31:38] Ебать Копать: Их мало
+[12:31:39] RusLanConnection: они вам войну объявили?
+[12:31:50] XenoSrus: Мы им они не выполнили требования
+[12:31:58] RusLanConnection: все работает значит
+[12:32:01] RusLanConnection: все гуд
+[12:32:06] XenoSrus: окей спасибо
+[12:32:33] XenoSrus killed Loncaus using tfa_doistg44
+[12:32:41] RusLanConnection: ребят, атакуйте их, не давайте им продохнуть
+[12:32:51] Ебать Копать: Нет сил
+[12:32:54] Ебать Копать: Рабочих
+[12:32:56] Ебать Копать: И оружия
+[12:32:57] Ебать Копать: Нас мало
+[12:33:05] RusLanConnection: вы можете заказать мобилизацию
+[12:33:09] RusLanConnection: поставить рядом точку с ними
+[12:33:12] Ебать Копать: Давай мобилизацию
+[12:33:13] RusLanConnection: и пойти атаковать
+[12:33:40] RusLanConnection: все это можете заказать прямо рядом с ними
+[12:34:10] RusLanConnection: просто пока вы сидите и ждете здесь, они уже идут к вам
+[12:34:19] RusLanConnection: это как в стратегии
+[12:34:26] RusLanConnection: у вас всё есть
+[12:34:38] Ебать Копать: Мобилизацию
+[12:34:58] Ебать Копать: Куда
+[12:34:59] Le35q: спокойной ночи
+[12:34:59] Ебать Копать: Пиздец
+[12:35:02] Ебать Копать: Спокойной ночи
+[12:35:39] Ебать Копать: В чем прикол мобилизации
+[12:35:42] Ебать Копать: Админ
+[12:37:04] Сырный пакетик killed Le35q using env_explosion
+[12:37:10] Сырный пакетик killed Ебать Копать using lvs_t60
+[12:37:11] Dropped "Le35q" from server<STEAM_0:1:225675214>
+[12:37:11] Le35q suicided!
+[12:37:16] Dropped "Ебать Копать" from server<STEAM_0:1:847364588>
+[12:37:16] Ебать Копать suicided!
+[12:38:31] RusLanConnection teleported to Мочеglouth
+[12:38:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[12:38:53] RusLanConnection killed Сырный пакетик
+[12:38:55] RusLanConnection killed Timeout Enjoyer
+[12:39:36] RusLanConnection: пора сдаваться я считаю
+[12:40:04] RusLanConnection: нажми правой кнопкой по их фракции
+[12:40:37] RusLanConnection: все правильно
+[12:40:55] RusLanConnection: спокойной ночи
+[12:41:02] Timeout Enjoyer killed XenoSrus using tfa_smc_ppsh_drum
+[12:41:16] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[12:41:19] RusLanConnection: держи
+[12:42:09] RusLanConnection teleported to XenoSrus
+[12:42:27] RusLanConnection teleported to Мочеglouth
+[12:42:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[12:42:36] RusLanConnection: 58 51
+[12:42:47] XenoSrus killed Timeout Enjoyer using tfa_doisw1917
+[12:42:57] RusLanConnection: сделай конец красивым
+[12:43:13] RusLanConnection: обернись
+[12:45:08] Мочеglouth suicided!
+[12:45:08] Loncaus suicided!
+[12:45:08] RusLanConnection suicided!
+[12:45:08] Сырный пакетик suicided!
+[12:45:17] Loncaus suicided!
+[12:45:17] RusLanConnection suicided!
+[12:45:17] Сырный пакетик suicided!
+[12:45:23] ￥ǾḼΌ: ахуеть
+[12:45:40] RusLanConnection cloaked Themself by amount 0
+[12:46:07] Мочеglouth suicided!
+[12:46:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[12:46:48] Dropped "Мочеglouth" from server<STEAM_0:0:612066619>
+[12:46:48] Мочеglouth suicided!
+[12:46:48] Client "ArtickGamer" connected.
+[12:47:53] ￥ǾḼΌ: норм
+[12:47:58] ￥ǾḼΌ: красиво
+[12:48:56] Loncaus was killed by entityflame
+[12:49:30] ￥ǾḼΌ: ебать
+[12:49:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[12:49:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[12:50:06] ￥ǾḼΌ: круто
+[12:50:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[12:50:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[12:50:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[12:50:30] ￥ǾḼΌ: круто
+[12:50:56] ￥ǾḼΌ: а я деревья вырастил
+[12:51:16] Timeout Enjoyer suicided!
+[12:51:16] XenoSrus suicided!
+[12:51:16] Loncaus suicided!
+[12:51:31] ￥ǾḼΌ was killed by entityflame
+[12:52:05] Timeout Enjoyer suicided!
+[12:52:05] XenoSrus suicided!
+[12:52:05] Loncaus suicided!
+[12:52:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[12:52:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[12:52:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[12:53:20] Timeout Enjoyer suicided!
+[12:53:20] XenoSrus suicided!
+[12:53:20] Loncaus suicided!
+[12:53:26] ￥ǾḼΌ was killed by entityflame
+[12:53:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowderkeg
+[12:53:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[12:53:54] RusLanConnection killed XenoSrus using ent_jack_gmod_ezpowderkeg
+[12:53:54] RusLanConnection killed Loncaus using ent_jack_gmod_ezpowderkeg
+[12:54:12] ￥ǾḼΌ: а я вырастил деревья
+[12:54:43] RusLanConnection was killed by npc_fastzombie
+[12:54:54] RusLanConnection cloaked Themself by amount 0
+[12:55:01] ￥ǾḼΌ: это пиздец
+[12:55:09] ￥ǾḼΌ: я вырастил деревья
+[12:55:25] ￥ǾḼΌ: я вырастил деревья
+[12:55:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:55:57] Timeout Enjoyer: https://shorturl.at/wITao
+[12:56:19] ￥ǾḼΌ: я из-за ядерок сгорел
+[12:56:35] ￥ǾḼΌ: а мог дальше выращивать дальше деревья
+[12:56:54] Loncaus killed RusLanConnection using tfa_doimp40
+[12:57:14] RusLanConnection brought Loncaus,Timeout Enjoyer,XenoSrus,Сырный пакетик,￥ǾḼΌ
+[12:57:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:57:55] ￥ǾḼΌ: воимя деревьев
+[12:58:32] ￥ǾḼΌ:  воимя деревьев
+[12:59:02] RusLanConnection granted god mode upon Themself
+[12:59:04] Timeout Enjoyer killed Сырный пакетик using tfa_smc_ppsh_drum
+[12:59:11] XenoSrus was killed by npc_fastzombie
+[12:59:29] Dropped "Сырный пакетик" from server<STEAM_0:0:617253467>
+[12:59:29] Сырный пакетик suicided!
+[12:59:41] Loncaus killed Timeout Enjoyer using tfa_doimg34
+[12:59:46] ￥ǾḼΌ was killed by npc_fastzombie
+[13:00:33] Dropped "XenoSrus" from server<STEAM_0:1:409610191>
+[13:00:33] XenoSrus suicided!
+[13:00:45] Loncaus was killed by npc_headcrab_fast
+
+
+
+[13:01:32] New map: gm_sro
+[20:29:27] Client "FIMPLES" connected.
+[20:30:17] Client "FIMPLES" spawned in server <STEAM_0:1:872763653> (took 50 seconds).
+[20:30:38] FIMPLES: !motd
+[21:12:41] Dropped "FIMPLES" from server<STEAM_0:1:872763653>
+[21:12:41] FIMPLES suicided!
+[21:12:41] Client "FIMPLES" connected.
+[21:13:19] Client "FIMPLES" spawned in server <STEAM_0:1:872763653> (took 38 seconds).
+[21:23:15] Dropped "FIMPLES" from server<STEAM_0:1:872763653>
+[21:23:15] FIMPLES suicided!
+[21:52:39] Client "FIMPLES" connected.
+[22:16:58] Client "FIMPLES" connected.
+[22:34:21] Client "FIMPLES" spawned in server <STEAM_0:1:872763653> (took 1043 seconds).
+[23:22:13] Client "ANUBIS" connected.
+[23:26:08] Dropped "FIMPLES" from server<STEAM_0:1:872763653>
+[23:26:08] FIMPLES suicided!
+[23:34:54] Client "ANUBIS" spawned in server <STEAM_0:1:630612616> (took 761 seconds).
+[23:45:21] Client "Tockerheh" connected.
+[23:46:04] Client "Tockerheh" spawned in server <STEAM_0:0:409939021> (took 43 seconds).
+[23:51:55] (TEAM) Tockerheh: ш
+<Logging continued in "data/ulx_logs/12-02-25.txt">

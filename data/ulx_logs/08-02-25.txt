@@ -1,0 +1,29 @@
+[06:07:29] New map: gm_sro_duststorm
+[06:14:19] Client "RusLanConnection" connected.
+[06:15:56] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 97 seconds).
+[06:16:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[06:16:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[06:16:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_pz4g_mow
+[06:16:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[06:17:04] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+
+
+
+[06:18:12] New map: gm_sro_duststorm
+[06:19:04] Client "RusLanConnection" connected.
+[06:19:40] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 36 seconds).
+[06:20:21] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[06:20:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[06:21:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_su85_tb
+[06:22:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[06:24:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[06:24:10] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[06:24:27] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[06:25:12] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_t60
+[06:25:13] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[06:27:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[06:34:44] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[06:34:44] RusLanConnection suicided!
+[07:38:28] Client "Redoket" connected.
+[12:03:55] Client "RusLanConnection" connected.
+<Logging continued in "data/ulx_logs/08-03-25.txt">

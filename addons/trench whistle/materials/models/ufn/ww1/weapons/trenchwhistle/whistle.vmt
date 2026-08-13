@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ufn/ww1/weapons/trenchwhistle/whistle"
+	"$bumpmap" "models/ufn/ww1/weapons/trenchwhistle/whistle_normal"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "7"
+	"$phongfresnelranges" "[.5 2 5]"
+	"$phongtint" "[1.4 1.4 0.7]"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.1 .1 .04]"	
+	
+}

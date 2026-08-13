@@ -1,0 +1,15 @@
+{
+  "title": "TENSION",
+  "type": "effects",
+  "tags": [
+    "fun",
+    "realism",
+    "roleplay"
+  ],
+  "ignore": [
+    "readme.*",
+    ".gitattributes",
+    "*.code-workspace",
+    "*.txt"
+  ]
+}

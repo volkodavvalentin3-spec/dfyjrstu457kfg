@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\ferdinand_tb\body"
+	
+	
+	"$bumpmap" "models/pz33e/NN"
+	
+	
+	
+	"$phong" "1"						
+	"$phongboost"	"13" 		
+	"$phongexponent" "1"	
+	"$alphatest" "1"	
+}

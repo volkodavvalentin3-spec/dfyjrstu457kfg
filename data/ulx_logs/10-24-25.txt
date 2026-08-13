@@ -1,0 +1,401 @@
+[05:55:58] New map: gm_sro
+[06:01:15] Client "Польские Пряники" connected.
+[06:03:14] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 119 seconds).
+[06:06:25] Client "Mr_Pyro" connected.
+[06:07:19] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 54 seconds).
+[06:08:53] Mr_Pyro<STEAM_0:1:157056677> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[06:08:53] Mr_Pyro<STEAM_0:1:157056677> spawned model models/gibs/antlion_gib_large_3.mdl
+[06:09:15] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[06:09:15] Польские Пряники suicided!
+[06:09:30] Mr_Pyro stripped weapons from Themself
+[06:09:30] Mr_Pyro: !strip Mr_Pyro
+[06:12:16] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[06:12:16] Mr_Pyro suicided!
+[06:27:50] Client "[rus-mafia]Dymok" connected.
+[06:29:18] Client "[rus-mafia]Dymok" spawned in server <STEAM_0:1:40785695> (took 88 seconds).
+[06:48:49] Client "GreenPixel11" connected.
+[06:49:42] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 53 seconds).
+[06:50:26] Client "TRENCH_ZOMBI" connected.
+[06:51:13] GreenPixel11: Лицом к стене немедленно или я начну стрелять!
+[06:51:30] GreenPixel11: Лицом к стене немедленно или я начну стрелять!
+[06:51:35] GreenPixel11: Лицом к стене немедленно или я начну стрелять!
+[06:51:39] GreenPixel11: Лицом к стене немедленно или я начну стрелять!
+[06:51:43] GreenPixel11: Лицом к стене немедленно или я начну стрелять!
+[06:51:49] GreenPixel11: Лицом к стене немедленно или я начну стрелять!
+[06:51:51] Client "TRENCH_ZOMBI" spawned in server <STEAM_0:1:617631024> (took 85 seconds).
+[06:59:55] Client "Patriot233" connected.
+[07:08:02] Dropped "TRENCH_ZOMBI" from server<STEAM_0:1:617631024>
+[07:08:02] TRENCH_ZOMBI suicided!
+[07:08:45] Client "TRENCH_ZOMBI" connected.
+[07:09:25] Client "@Artеm-medic@" connected.
+[07:09:27] Client "TRENCH_ZOMBI" spawned in server <STEAM_0:1:617631024> (took 42 seconds).
+[07:14:13] GreenPixel11 suicided!
+[07:14:29] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[07:14:29] GreenPixel11 suicided!
+[07:17:35] Client "Mr.Matveykus_" connected.
+[07:18:12] Client "✶✸Iłұasħҝa✸✶" connected.
+[07:19:00] Client "Mr.Matveykus_" spawned in server <STEAM_0:1:616448628> (took 85 seconds).
+[07:20:24] Client "✶✸Iłұasħҝa✸✶" spawned in server <STEAM_0:1:2185856> (took 132 seconds).
+[07:28:56] Client "А ПО ЖОПЕ!?" connected.
+[07:30:16] Client "А ПО ЖОПЕ!?" spawned in server <STEAM_0:1:557416607> (took 80 seconds).
+[07:33:58] Dropped "А ПО ЖОПЕ!?" from server<STEAM_0:1:557416607>
+[07:33:58] А ПО ЖОПЕ!? suicided!
+[07:39:39] Client "Patriot233" spawned in server <STEAM_0:0:625095727> (took 2384 seconds).
+[07:40:35] Mr.Matveykus_ was killed by ent_jack_gmod_ezpumpjack
+[07:41:28] Mr.Matveykus_: !motd
+[07:51:32] Dropped "Patriot233" from server<STEAM_0:0:625095727>
+[07:51:32] Patriot233 suicided!
+[07:52:04] Client "Patriot233" connected.
+[07:52:37] Client "Patriot233" spawned in server <STEAM_0:0:625095727> (took 33 seconds).
+[07:52:47] Client "бугагашенька" connected.
+[07:54:09] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 82 seconds).
+[08:04:49] Dropped "TRENCH_ZOMBI" from server<STEAM_0:1:617631024>
+[08:04:49] TRENCH_ZOMBI suicided!
+[08:21:07] Client "Борат Сагдиев" connected.
+[08:24:48] [rus-mafia]Dymok killed бугагашенька using lvs_churchill_mow
+[08:25:17] Patriot233 killed Mr.Matveykus_ using lvs_m4_mow
+[08:25:29] Patriot233 killed Mr.Matveykus_ using lvs_m4_mow
+[08:25:50] Patriot233 killed Mr.Matveykus_ using lvs_m4_mow
+[08:25:58] Patriot233 killed Mr.Matveykus_ using lvs_m4_mow
+[08:26:43] Patriot233 killed Mr.Matveykus_ using tfa_doi_m16a1
+[08:27:24] Patriot233 killed бугагашенька using tfa_doi_m16a1
+[08:27:32] Patriot233 killed ✶✸Iłұasħҝa✸✶ using tfa_doi_m16a1
+[08:28:01] Patriot233 killed бугагашенька using tfa_doi_m16a1
+[08:28:32] Patriot233 was killed by lvs_m4_mow
+[08:28:37] [rus-mafia]Dymok killed бугагашенька using tfa_doi_m16a1
+[08:28:46] [rus-mafia]Dymok killed бугагашенька using tfa_doi_m16a1
+[08:28:56] [rus-mafia]Dymok killed бугагашенька using tfa_doi_m16a1
+[08:29:05] [rus-mafia]Dymok killed бугагашенька using tfa_doi_m16a1
+[08:29:13] бугагашенька killed [rus-mafia]Dymok using wep_jack_gmod_hands
+[08:29:13] [rus-mafia]Dymok killed бугагашенька using player
+[08:29:48] Dropped "[rus-mafia]Dymok" from server<STEAM_0:1:40785695>
+[08:29:48] [rus-mafia]Dymok suicided!
+[08:29:50] Dropped "Patriot233" from server<STEAM_0:0:625095727>
+[08:29:50] Patriot233 suicided!
+[08:31:23] Client "patrikalkas" connected.
+[08:32:19] Mr.Matveykus_: !motd
+[08:34:47] Client "Aleksandr_Grakov" connected.
+[08:38:21] Client "patrikalkas" connected.
+[08:47:15] Client "." connected.
+[08:47:53] Mr.Matveykus_ was killed by build_prop
+[08:49:43] Client "0" spawned in server <STEAM_0:0:919352780> (took 148 seconds).
+[08:49:48] Mr.Matveykus_ was killed by build_prop
+[08:54:22] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[08:54:22] бугагашенька suicided!
+[08:55:09] Dropped "0" from server<STEAM_0:0:919352780>
+[08:55:09] 0 suicided!
+[08:57:05] Client "бугагашенька" connected.
+[08:57:32] Client "." connected.
+[08:57:38] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 33 seconds).
+[08:58:14] Client "0" spawned in server <STEAM_0:0:919352780> (took 42 seconds).
+[09:07:25] бугагашенька: АФК
+[09:21:31] Dropped "0" from server<STEAM_0:0:919352780>
+[09:21:31] 0 suicided!
+[09:25:56] ✶✸Iłұasħҝa✸✶: !motd
+[09:43:16] Mr.Matveykus_ was killed by ent_aboot_gmod_ezshippingcontainer
+[09:58:30] Client "scorpion" connected.
+[10:07:59] Mr.Matveykus_ was killed by build_prop
+[11:00:09] Client "брат" connected.
+[11:08:16] Client "брат" connected.
+[11:09:44] Client "patrikalkas" connected.
+[11:13:51] Mr.Matveykus_: supply radio: drill
+[11:23:45] Client "." connected.
+[11:25:08] Client "0" spawned in server <STEAM_0:0:919352780> (took 83 seconds).
+[11:26:44] Client "patrikalkas" connected.
+[11:35:25] Client "Redoket" connected.
+[11:36:14] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 49 seconds).
+[11:37:27] Client "patrikalkas" connected.
+[11:37:33] Client "patrikalkas" connected.
+[11:37:55] Redoket: !menu
+[11:38:01] Redoket cloaked Themself by amount 0
+[11:40:58] Client "SoldierEL1TE" connected.
+[11:41:01] Client "SoldierEL1TE" connected.
+[11:42:02] Client "SoldierEL1TE" spawned in server <STEAM_0:0:565316422> (took 61 seconds).
+[11:43:04] SoldierEL1TE was killed by ent_jack_gmod_ezsentry
+[11:43:18] Redoket: ОН УМЕР
+[11:43:23] Redoket: ВЫ ЕГО УБИЛИ
+[11:43:29] Redoket: ЧТО ВЫ НАДЕЛАЛИ
+[11:43:54] Redoket: ЧТО ВЫ НАДЕЛАЛИ
+[11:43:59] Redoket: ВЫ ЕГО УБИЛИ
+[11:44:01] Redoket: ОН УСЕР
+[11:44:03] Redoket: УМЕР
+[11:44:22] Redoket: ОН МЁРРРРТ!
+[11:44:39] Redoket: ТЫ
+[11:44:41] Redoket: ТЫ
+[11:44:44] Redoket: ТЫ ВИНОВАТ
+[11:44:45] Client "patrikalkas" connected.
+[11:44:50] Redoket: ЕЩЁ УВИДИМСЯ
+[11:45:27] Redoket: НАДО УБИТЬ
+[11:45:31] Redoket: ОНИ УБИЛИ ТЕБЯ
+[11:45:35] Redoket: НАДО ОТОМСТИТЬ
+[11:45:41] SoldierEL1TE: НУ КАК
+[11:45:49] Redoket: УБИТЬ ИХ
+[11:45:56] Redoket: УНИЧТОЖИТЬ ТУРЕЛЬ
+[11:46:55] SoldierEL1TE: драсте
+[11:46:59] SoldierEL1TE: заблудился
+[11:47:01] Redoket: ВЫ УБИЛИ
+[11:47:03] Redoket: ДРУГА
+[11:47:10] SoldierEL1TE: голоса в голове
+[11:47:13] Redoket: ТАМ
+[11:47:15] Redoket: ТРУП
+[11:47:19] SoldierEL1TE: вы с кем разговариваете
+[11:47:32] SoldierEL1TE: а у вас уран есть?
+[11:47:37] Redoket: !MENU
+[11:47:42] Redoket uncloaked Themself
+[11:47:45] SoldierEL1TE: аааа
+[11:47:51] SoldierEL1TE: и че там как
+[11:48:17] SoldierEL1TE: а сожгли кирку?
+[11:48:17] Client "(MISSING TEXTURES)" connected.
+[11:48:27] SoldierEL1TE: сожгите
+[11:48:30] SoldierEL1TE: это грязная бомба
+[11:48:44] SoldierEL1TE: о
+[11:48:47] SoldierEL1TE: мегахурреп
+[11:48:48] Redoket: К КОМУ ОН ОБРАЩАЕТСЯ
+[11:48:57] SoldierEL1TE: я тоже не понял
+[11:48:58] Redoket: ПОЧЕМУ ОН ГОВОРИТ САМ СЕБЕ
+[11:49:18] SoldierEL1TE: так погоди
+[11:49:21] SoldierEL1TE: у вас она была в руках
+[11:49:24] SoldierEL1TE: ВЫ ЗАРАЖЕНЫ
+[11:49:26] Redoket: КАК ОНИ ОБЩАЮТЧСЯ
+[11:49:30] SoldierEL1TE: ВАС НАДО СЖЕЧЬ
+[11:49:32] Client "RusLanConnection" connected.
+[11:49:32] Client "(MISSING TEXTURES)" spawned in server <STEAM_0:1:201866151> (took 75 seconds).
+[11:49:35] Redoket: О МОЙ ЮОГ
+[11:49:37] Redoket: БОГ
+[11:49:38] SoldierEL1TE: ВЫ ЗАРАЖЕНЫ
+[11:49:46] Redoket: ВЫ УЖАСНО СОГРЕШИЛИ
+[11:49:50] SoldierEL1TE: ПЕРЧАТКИ СОЖГИ
+[11:49:52] Redoket: ПЕРЧАТКИ ВАМ НЕ ПОМОГУИТ
+[11:50:08] Redoket: ЫJOHN
+[11:50:20] Redoket: ОНИ УЖЕ СХОДЯТ С УМА
+[11:50:24] SoldierEL1TE: ДА
+[11:50:33] Redoket: ВЫ УЖАСНЫЕ ГРЕШНИКИ
+[11:50:46] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 361 seconds).
+[11:50:50] SoldierEL1TE: ДАВАЙ КРЧ УРНАИНУ ДЕЛАТЬ
+[11:50:54] SoldierEL1TE: ЗАЧЕМ ДЖОН МЕСТЬ
+[11:51:02] (TEAM) (MISSING TEXTURES): где вы
+[11:51:28] (MISSING TEXTURES): /p где вас найти
+[11:51:36] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 124 seconds).
+[11:51:42] (MISSING TEXTURES): !pchat
+[11:52:03] RusLanConnection teleported to SoldierEL1TE
+[11:52:24] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[11:53:23] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[11:53:23] patrikalkas suicided!
+[11:53:24] Client "patrikalkas" connected.
+[11:54:12] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[11:54:16] Redoket: ПРВТ
+[11:54:20] (MISSING TEXTURES): q
+[11:54:21] Redoket: МЫ ДЖОНЪ
+[11:54:23] (MISSING TEXTURES): как вы?
+[11:54:32] Redoket: БУДЕМ ДЕЛАТ МЕСТЬ
+[11:54:32] SoldierEL1TE: МЫ ДЖОНС 
+[11:54:33] (MISSING TEXTURES): вы единый организм?
+[11:55:05] (MISSING TEXTURES): мне страшно
+[11:55:12] Redoket: НАС УБИВАЮТ
+[11:55:20] (MISSING TEXTURES): за что
+[11:55:43] (MISSING TEXTURES): о
+[11:55:54] (MISSING TEXTURES): 2 вертолёта 
+[11:56:03] Redoket: СМЕРТЬ
+[11:56:05] (MISSING TEXTURES): оба врасжекие?
+[11:56:17] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[11:57:15] (MISSING TEXTURES): редокет открыл по нам огонь
+[11:58:31] (MISSING TEXTURES): элитный солдат
+[11:58:38] SoldierEL1TE: шо
+[11:58:41] Redoket was killed by build_prop
+[11:58:46] (MISSING TEXTURES): почему редокет по нам открыл огонь
+[11:58:48] (MISSING TEXTURES): ?
+[11:58:54] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[11:58:57] SoldierEL1TE: меггахуреп потому что
+[11:59:04] (MISSING TEXTURES): ааа
+[11:59:30] Client "TankMan428" connected.
+[11:59:46] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 382 seconds).
+[12:00:18] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[12:00:18] patrikalkas suicided!
+[12:00:52] (MISSING TEXTURES): ой
+[12:00:55] (MISSING TEXTURES): застрял
+[12:01:13] (MISSING TEXTURES): убейте меня
+[12:01:18] (MISSING TEXTURES): я застрял
+[12:01:20] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[12:02:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:03:22] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[12:03:24] Dropped "(MISSING TEXTURES)" from server<STEAM_0:1:201866151>
+[12:03:24] (MISSING TEXTURES) suicided!
+[12:04:01] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[12:04:14] Redoket was killed by prop_dynamic
+[12:04:23] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[12:06:02] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:06:12] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:06:17] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:06:22] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:06:46] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[12:07:32] Client "patrikalkas" connected.
+[12:07:41] Client "patrikalkas" connected.
+[12:08:07] Redoket was killed by ent_jack_gmod_ezherocket
+[12:08:15] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 34 seconds).
+[12:09:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[12:09:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezflarenade
+[12:09:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezflarenade
+[12:10:01] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezflarenade
+[12:10:17] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[12:11:25] Client "Rackman" connected.
+[12:12:05] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 40 seconds).
+[12:12:16] Redoket was killed by build_prop
+[12:13:45] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezshovel
+[12:14:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:15:02] RusLanConnection killed Redoket using tfa_smc_ppsh_drum
+[12:15:30] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:15:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:15:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:15:55] Rackman cloaked Themself by amount 0
+[12:15:57] Rackman granted god mode upon Themself
+[12:16:01] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:16:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:16:17] SoldierEL1TE was killed by ent_jack_gmod_ezsticknade
+[12:16:17] Redoket was killed by ent_jack_gmod_ezsticknade
+[12:16:23] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:16:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:16:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:16:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:16:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:16:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[12:16:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[12:17:01] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:17:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:17:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[12:17:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[12:17:23] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[12:17:34] Redoket killed SoldierEL1TE using ent_jack_gmod_ezdynamite
+[12:17:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:17:51] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[12:18:01] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[12:18:04] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[12:18:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztnt
+[12:18:31] Redoket<STEAM_0:1:545449619> spawned sent lvs_churchill_mow
+[12:18:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztnt
+[12:18:57] Redoket<STEAM_0:1:545449619> spawned sent lvs_churchill_mow
+[12:19:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztnt
+[12:19:21] Redoket killed Redoket
+[12:19:31] Redoket<STEAM_0:1:545449619> spawned sent lvs_churchill_mow
+[12:19:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[12:20:04] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[12:21:27] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[12:21:44] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[12:21:57] SoldierEL1TE killed Redoket using lvs_churchill_mow
+[12:22:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[12:22:18] Redoket killed SoldierEL1TE
+[12:22:23] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezimpactnade
+[12:22:26] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[12:22:43] RusLanConnection teleported to Redoket
+[12:23:03] SoldierEL1TE suicided!
+[12:24:37] Redoket<STEAM_0:1:545449619> spawned model models/balloons/balloon_star.mdl
+[12:24:38] Redoket<STEAM_0:1:545449619> spawned model models/balloons/balloon_dog.mdl
+[12:25:18] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:25:20] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:25:22] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:25:28] Redoket killed SoldierEL1TE using ent_aboot_gmod_ezharpoon
+[12:26:09] SoldierEL1TE killed Redoket using ent_aboot_gmod_ezharpoon
+[12:26:21] SoldierEL1TE killed Redoket using ent_aboot_gmod_ezharpoon
+[12:26:32] SoldierEL1TE killed Redoket using ent_aboot_gmod_ezharpoon
+[12:26:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[12:26:59] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezcapacitor
+[12:27:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[12:27:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[12:27:45] Redoket<STEAM_0:1:545449619> spawned model models/props_junk/metalbucket02a.mdl
+[12:28:05] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:28:25] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:28:28] Rackman revoked god mode from Themself
+[12:28:31] Redoket killed SoldierEL1TE using ent_aboot_gmod_ezharpoon
+[12:28:31] Rackman uncloaked Themself
+[12:28:38] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:28:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezharpoon
+[12:29:05] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:29:06] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:29:07] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:29:08] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:29:08] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezharpoon
+[12:29:33] Rackman set the hp for Themself to 5000
+[12:29:43] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezairboatengine
+[12:30:01] Rackman set the hp for Themself to 100000
+[12:30:17] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznutrients
+[12:30:19] Redoket<STEAM_0:1:545449619> spawned model models/props_wasteland/prison_bedframe001b.mdl
+[12:30:30] Redoket<STEAM_0:1:545449619> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[12:30:41] Rackman: А че дополнительное хп больше не усиливает тебя?
+[12:30:47] RusLanConnection: нет
+[12:30:53] Rackman: Странно
+[12:30:54] Redoket: Попкор
+[12:31:00] Rackman: ПОставил газиллион хп
+[12:31:01] Rackman: Ударил
+[12:31:03] Rackman: 2 уроан
+[12:31:33] Rackman set the hp for Themself to 100
+[12:31:46] Redoket suicided!
+[12:32:06] бугагашенька: ахуй
+[12:32:08] бугагашенька: крч
+[12:32:13] бугагашенька: мне плохо очень
+[12:32:17] бугагашенька: я заболел
+[12:32:25] бугагашенька: извините што просто занимал место в клане
+[12:32:29] бугагашенька: удачи братья!
+[12:32:37] бугагашенька: і
+[12:32:42] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezwelder
+[12:32:42] бугагашенька: пока!
+[12:32:45] бугагашенька: ы
+[12:32:46] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgas
+[12:32:47] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[12:32:47] бугагашенька suicided!
+[12:33:16] Rackman suicided!
+[12:33:29] SoldierEL1TE killed Redoket using wep_jack_gmod_hands
+[12:33:29] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[12:33:29] Redoket suicided!
+[12:33:57] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[12:33:57] RusLanConnection suicided!
+[12:35:28] Rackman cloaked Themself by amount 0
+[12:35:30] Rackman granted god mode upon Themself
+[12:40:23] Rackman revoked god mode from SoldierEL1TE
+[12:42:04] Rackman revoked god mode from SoldierEL1TE
+[12:42:04] Rackman revoked god mode from SoldierEL1TE
+[12:50:57] Mr.Matveykus_ killed SoldierEL1TE using tfa_doimg42
+[12:53:51] ✶✸Iłұasħҝa✸✶ killed SoldierEL1TE using tfa_verdun_tankgewehr
+[12:54:36] Client "Инженер (WCR |)" connected.
+[12:54:41] Dropped "SoldierEL1TE" from server<STEAM_0:0:565316422>
+[12:54:41] SoldierEL1TE suicided!
+[12:55:48] Rackman revoked god mode from Themself
+[12:56:07] Rackman uncloaked Themself
+[12:56:13] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_trafficcone
+[12:56:41] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_respirator
+[12:58:04] Rackman was killed by ent_jack_gmod_ezsentry
+[12:58:12] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[12:58:12] Rackman suicided!
+[13:04:57] Client "Инженер (WCR |)" connected.
+[13:11:47] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[13:11:47] patrikalkas suicided!
+[13:11:59] Client "patrikalkas" connected.
+[13:12:28] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 29 seconds).
+[13:12:49] Client "Инженер (WCR |)" spawned in server <STEAM_0:0:144605250> (took 472 seconds).
+[13:13:14] Инженер (WCR |): /jmod_ez_inv
+[13:25:01] Инженер (WCR |) was killed by ent_jack_gmod_ezprimitivebench
+[13:33:10] Инженер (WCR |): !motd
+[13:51:36] Dropped "✶✸Iłұasħҝa✸✶" from server<STEAM_0:1:2185856>
+[13:51:36] ✶✸Iłұasħҝa✸✶ suicided!
+[13:51:41] Dropped "Mr.Matveykus_" from server<STEAM_0:1:616448628>
+[13:51:41] Mr.Matveykus_ suicided!
+[13:57:07] patrikalkas suicided!
+[14:01:03] 0 suicided!
+[14:27:24] 0 killed patrikalkas using ent_jack_gmod_ezatmine
+[14:29:10] patrikalkas suicided!
+[14:29:10] patrikalkas killed Инженер (WCR |) using ent_jack_gmod_ezbomblet
+[14:31:20] patrikalkas killed Инженер (WCR |) using ent_jack_gmod_ezlandmine
+[14:35:27] 0 killed patrikalkas using ent_jack_gmod_ezsmallbomb
+[14:35:28] 0 killed 0
+[14:38:05] Dropped "0" from server<STEAM_0:0:919352780>
+[14:38:05] 0 suicided!
+[14:48:24] patrikalkas killed Инженер (WCR |) using ent_jack_gmod_ezatmine
+[14:53:04] Инженер (WCR |) killed patrikalkas using ent_jack_gmod_ezatmine
+[14:56:03] patrikalkas killed Инженер (WCR |) using ent_jack_gmod_ezatmine
+[14:56:41] patrikalkas killed Инженер (WCR |) using ent_jack_gmod_ezatmine
+[14:59:56] Инженер (WCR |) suicided!
+[15:01:39] patrikalkas killed Инженер (WCR |) using ent_jack_gmod_ezatmine
+[15:05:00] patrikalkas suicided!
+[15:14:20] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[15:14:20] patrikalkas suicided!
+[15:14:23] Dropped "Инженер (WCR |)" from server<STEAM_0:0:144605250>
+[15:14:23] Инженер (WCR |) suicided!
+<Logging continued in "data/ulx_logs/10-25-25.txt">

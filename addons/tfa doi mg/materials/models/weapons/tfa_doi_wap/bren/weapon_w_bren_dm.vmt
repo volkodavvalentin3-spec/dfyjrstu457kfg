@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\tfa_doi_wap\bren\weapon_w_bren_dm"
+	"$bumpmap"				"models\weapons\tfa_doi_wap\bren\weapon_w_bren_nm"
+
+	$phong 						"1"
+    $phongtint 					"[0.6 0.8 1.0]"
+	$phongexponent 				"45"
+	$phongboost 				"0.08"
+	$phongfresnelranges			"[1 1 1]"
+
+	$envmap						"env_cubemap"
+	$envmaptint					"[0.015 0.015 0.015]"
+}

@@ -1,0 +1,310 @@
+[07:36:45] New map: gm_sro_mountain_field
+[07:37:51] Client "vasiliy karat" connected.
+[07:38:45] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 54 seconds).
+[07:41:09] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[07:41:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[07:41:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[07:41:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[07:41:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[07:41:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcoolant
+[07:41:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[07:42:13] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[07:42:15] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[07:43:28] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[07:43:35] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001a.mdl
+[07:43:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[07:43:53] vasiliy karat: !MENU
+[07:44:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[07:44:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[07:44:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[07:47:24] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[07:47:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[07:47:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[07:48:31] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[07:49:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[07:49:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[07:49:58] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[07:51:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[07:52:00] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezprecparts
+[07:52:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[07:52:51] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[07:53:11] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[07:53:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[07:54:08] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodsherman
+[07:54:22] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[07:54:39] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[07:55:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[07:55:25] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[07:55:36] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[07:56:00] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[07:56:07] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcoolant
+[07:56:24] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodtiger
+[07:56:31] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[07:56:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[07:57:00] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[07:57:02] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[07:57:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[07:57:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[07:57:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[07:58:27] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_rebel
+[07:58:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcoolant
+[07:59:51] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_rebel
+[08:00:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcoolant
+[08:00:50] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_rebel
+[08:01:40] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_rebel
+[08:02:05] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[08:02:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[08:02:23] Client "DeNoZaVR⁴²" connected.
+[08:03:07] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_rebel
+[08:03:10] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_rebel
+[08:03:16] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_rebel
+[08:03:33] Client "Redoket" connected.
+[08:03:39] Client "DeNoZaVR⁴²" spawned in server <STEAM_0:1:600266006> (took 76 seconds).
+[08:03:48] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[08:03:53] DeNoZaVR⁴²: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:04:07] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 34 seconds).
+[08:04:22] Redoket: поели
+[08:04:37] Redoket: я не админ
+[08:04:41] Redoket: больше
+[08:04:54] Client "Mr. Goose V0RCH00N" connected.
+[08:05:01] Redoket: ИЗЗА ТАКИХ КАК ВЫ
+[08:05:19] vasiliy karat: РЕАЛЬНО
+[08:05:27] vasiliy karat: СКОРО И МЕНЯ ТАКИМ ПУТЕМ СНИМУТ С АДМИНА
+[08:05:28] Client "Mr. Goose V0RCH00N" spawned in server <STEAM_0:1:150007799> (took 34 seconds).
+[08:05:34] vasiliy karat: ХВАТИТ ТАК ДЕЛАТЬ
+[08:05:39] Redoket: НУБИТЬ
+[08:05:47] Redoket: ХАРЕ НУБИТЬ
+[08:05:58] Redoket: МНЕ ВООБЩЕ ВАСЮ ЖАЛКО
+[08:06:12] Redoket: СУПЕР АДМИН ЭТО УЖАСНАЯ ОТВЕТСТВЕННОСТЬ
+[08:06:20] vasiliy karat: !menu
+[08:06:29] vasiliy karat mauled Everyone
+[08:06:42] vasiliy karat was killed by npc_fastzombie
+[08:06:43] Mr. Goose V0RCH00N was killed by npc_fastzombie
+[08:06:43] Redoket was killed by npc_fastzombie
+[08:06:43] DeNoZaVR⁴² was killed by npc_fastzombie
+[08:07:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezflashbang
+[08:07:35] Redoket: ЗАРЯ
+[08:07:43] Redoket: НЕТ
+[08:08:06] vasiliy karat: ВЫ ЗАРЯ ДЕЛАЕТЕ ПОНЯЛИ ПРИКОЛ ТИПО ПО НАПРАСНУ ЗРЯ
+[08:08:13] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuellantern
+[08:08:26] Redoket: УМНЫЕ РОФЛЫ
+[08:08:35] Redoket: СВЕТЪ
+[08:08:40] vasiliy karat: НУБЫ НЕ ПОЙМУТ
+[08:08:54] DeNoZaVR⁴² killed Mr. Goose V0RCH00N using rust_eoka
+[08:08:59] vasiliy karat: ТЫ ЗАЧЕМ ЕГО УБЛИ
+[08:09:06] Redoket: ЩАС ПОЛУЧИШЬ
+[08:09:10] Mr. Goose V0RCH00N killed DeNoZaVR⁴² using rust_eoka
+[08:09:15] vasiliy karat: ТЫ ЕГО ЗАЧЕМ УБИЛ
+[08:09:42] Redoket killed DeNoZaVR⁴² using wep_jack_gmod_ezaxe
+[08:09:50] vasiliy karat: У МЕНЯ
+[08:09:53] vasiliy karat: У МЕНЯ 
+[08:09:57] Redoket: НА ТЕБЯ
+[08:10:00] vasiliy karat: ХУД ПРОПАЛ
+[08:10:02] Redoket: ЕСТЬ ОСОБ
+[08:10:22] Redoket killed vasiliy karat using wep_jack_gmod_ezaxe
+[08:10:28] Redoket killed DeNoZaVR⁴² using wep_jack_gmod_ezaxe
+[08:10:33] vasiliy karat suicided!
+[08:10:38] Mr. Goose V0RCH00N killed Redoket using rust_boltrifle
+[08:10:55] Redoket killed Mr. Goose V0RCH00N using wep_jack_gmod_ezaxe
+[08:11:03] Redoket killed DeNoZaVR⁴² using wep_jack_gmod_ezaxe
+[08:11:06] vasiliy karat killed Redoket using rust_boltrifle
+[08:11:12] vasiliy karat: ПОСЛЕДНИЙ ВЫСТРЕЛ
+[08:11:17] vasiliy karat: ПОСТАВИЛ ТОЧКУ ВЭ ТОЙ ИСТОРИИ
+[08:11:32] Mr. Goose V0RCH00N killed vasiliy karat using wep_jack_gmod_ezaxe
+[08:11:38] Mr. Goose V0RCH00N killed Redoket using wep_jack_gmod_ezaxe
+[08:11:56] DeNoZaVR⁴² killed vasiliy karat using wep_jack_gmod_ezaxe
+[08:11:58] Redoket killed DeNoZaVR⁴² using rust_eoka
+[08:12:22] Mr. Goose V0RCH00N killed Redoket using wep_jack_gmod_ezaxe
+[08:12:29] Mr. Goose V0RCH00N killed vasiliy karat using wep_jack_gmod_ezaxe
+[08:12:59] vasiliy karat killed Mr. Goose V0RCH00N using rust_eoka
+[08:13:04] vasiliy karat killed Redoket using rust_eoka
+[08:13:16] vasiliy karat killed DeNoZaVR⁴² using rust_boltrifle
+[08:13:41] Redoket killed Mr. Goose V0RCH00N using wep_jack_gmod_ezaxe
+[08:13:44] Redoket killed vasiliy karat using wep_jack_gmod_ezaxe
+[08:14:21] Mr. Goose V0RCH00N killed Redoket using rust_eoka
+[08:21:16] Redoket: МАЗГЫ
+[08:21:19] Redoket killed DeNoZaVR⁴² using tfa_doim1912
+[08:21:42] DeNoZaVR⁴² killed Redoket using rust_boltrifle
+[08:22:05] Redoket killed DeNoZaVR⁴² using tfa_doim1912
+[08:30:01] Client "ANIME100LVL" connected.
+[08:32:08] Client "vers1" connected.
+[08:32:53] Mr. Goose V0RCH00N killed Redoket using tfa_doim1garand
+[08:33:10] Client "Improvised_starting_fire_device" connected.
+[08:34:22] DeNoZaVR⁴² killed Redoket using tfa_doim1garand
+[08:34:31] Redoket: О
+[08:34:32] Client "vers1" spawned in server <STEAM_0:0:230254820> (took 144 seconds).
+[08:34:35] Redoket: ДАРОВ
+[08:34:42] Redoket: ДАЙ Я ЭТО
+[08:34:50] Redoket: ОГНЕМЁТ ЧЕРЕЗ ТВОЕ
+[08:35:04] vasiliy karat: ТЫ НАМ ВСЮ ЕДУ СОЖЖЕШЬ
+[08:35:16] Redoket: КУРИЦА ЖАРЕНАЯ
+[08:35:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[08:35:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[08:35:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[08:35:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[08:35:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[08:35:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[08:36:03] Client "Xtrion" connected.
+[08:37:10] Redoket killed DeNoZaVR⁴² using ent_jack_gmod_eznapalm
+[08:37:15] Mr. Goose V0RCH00N killed Redoket using tfa_doim1garand
+[08:37:16] Client "Xtrion" spawned in server <STEAM_0:1:201866151> (took 73 seconds).
+[08:37:39] vasiliy karat killed Mr. Goose V0RCH00N using tfa_doic96
+[08:37:46] Client "Improvised_starting_fire_device" connected.
+[08:37:52] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[08:38:06] Mr. Goose V0RCH00N: ПОБЕДА
+[08:38:38] Client "Improvised_starting_fire_device" spawned in server <STEAM_0:1:225675214> (took 52 seconds).
+[08:39:10] Redoket: Я ХАЧУ ЕСТ
+[08:40:05] Redoket: Я ХАЧУ ЕСТ
+[08:40:25] vasiliy karat: ИЗ ЗА ТЕБЯ НАС СЪЕЛИ
+[08:40:59] Redoket: Я ХАЧУ ЕСТ
+[08:41:04] Redoket: ЕСТТТТ
+[08:41:09] DeNoZaVR⁴² killed Redoket using tfa_doim1911
+[08:41:24] Xtrion was killed by ent_jack_gmod_ezsentry
+[08:41:30] vasiliy karat to admins: У МЕНЯ ХП ЗА МИНУТУ ПАДАЕТ НА 10
+[08:42:30] Mr. Goose V0RCH00N: Как вы относитесь ко всеедам
+[08:42:31] Client "CAHA_159" connected.
+[08:43:01] Mr. Goose V0RCH00N: Чтобы бомжи с оружием не ходили
+[08:43:09] Mr. Goose V0RCH00N: благотворительный фонд 
+[08:43:12] Mr. Goose V0RCH00N: всееды
+[08:43:49] Client "CAHA_159" spawned in server <STEAM_0:1:238627833> (took 78 seconds).
+[08:48:22] Dropped "CAHA_159" from server<STEAM_0:1:238627833>
+[08:48:22] CAHA_159 suicided!
+[08:50:29] DeNoZaVR⁴² killed Redoket using tfa_doim1911
+[08:50:41] Mr. Goose V0RCH00N: ты кто ебать
+[08:50:49] vasiliy karat: ЧЕГО ТЕБЕ НАДА
+[08:50:53] Mr. Goose V0RCH00N: Шашлычек
+[08:51:00] vasiliy karat: Я ЕГО ТЕБЕ ЩАС НАФЕГ
+[08:51:04] Mr. Goose V0RCH00N killed vasiliy karat using ent_jack_gmod_eznapalm
+[08:51:17] vasiliy karat: НАМ НУЖНО
+[08:51:19] Redoket: говно
+[08:51:20] vasiliy karat: ОБЪЕДЕНИТЬСЯ
+[08:51:23] vasiliy karat: ЗА МНОЙ
+[08:51:30] vasiliy karat: ОН СГОРЕЛ У МЕНЯ НА БАЗЕ
+[08:51:40] Redoket: У МЕНЯ ТОЖЕ БАЗА НЕ ПЛОХАЯ
+[08:51:46] Redoket: была
+[08:51:54] Redoket: ТАМ ЗОЛОТО
+[08:51:59] Redoket: ЧЗХ
+[08:52:04] vasiliy karat: НУЖНО НОВОЕ МЕСТО НАЙТИ
+[08:52:08] Redoket: КОЛОНИСТЫ
+[08:52:09] vasiliy karat: Я  УХОЖУ СО СВОЕЙ
+[08:52:15] Redoket: ОК\
+[08:52:21] DeNoZaVR⁴² killed Redoket using tfa_doim1912
+[08:52:23] vasiliy karat: БЕЖИИИМ
+[08:52:24] vasiliy karat was killed by entityflame
+[08:52:40] Dropped "Mr. Goose V0RCH00N" from server<STEAM_0:1:150007799>
+[08:52:40] Mr. Goose V0RCH00N suicided!
+[08:53:38] DeNoZaVR⁴²: supply radio: global message
+[08:55:31] Dropped "DeNoZaVR⁴²" from server<STEAM_0:1:600266006>
+[08:55:31] DeNoZaVR⁴² suicided!
+[08:56:03] Improvised_starting_fire_device: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:56:07] vers1: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:04:48] vers1: supply radio: fulton-crate
+[09:13:49] vasiliy karat: !menu
+[09:13:56] vasiliy karat cloaked Themself by amount 0
+[09:15:45] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[09:15:45] Redoket suicided!
+[09:20:13] Client "💛👑▶FlyB3ry▶👑💛" connected.
+[09:33:48] Improvised_starting_fire_device was killed by ent_aboot_gmod_ezshippingcontainer
+[09:41:07] Client "ANTI" connected.
+[09:41:48] Client "ANTI" spawned in server <STEAM_0:0:856858307> (took 41 seconds).
+[09:51:10] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[09:51:10] vasiliy karat suicided!
+[10:18:35] Xtrion: напиши в чат
+[10:18:51] Improvised_starting_fire_device: это можно в отдельный ящик складывать
+[10:18:55] vers1: На сервере людей нет :*(
+[10:18:56] Improvised_starting_fire_device: ртуть
+[10:19:01] vers1: Стрелять охота
+[10:19:03] Improvised_starting_fire_device: мне надо историю почитать
+[10:19:05] Improvised_starting_fire_device: я отойду
+[10:19:10] Improvised_starting_fire_device: го гражданская война
+[10:19:38] vers1: Пиу
+[10:19:41] vers1: Пиу
+[10:19:44] vers1: Пиу
+[10:19:53] vers1 killed Improvised_starting_fire_device using tfa_at_akm_eft
+[10:20:41] Improvised_starting_fire_device: я историю читать
+[10:20:44] vers1: Угу
+[10:21:19] Improvised_starting_fire_device: я хочу с артилерии попробовать прострелять
+[10:21:21] Improvised_starting_fire_device: с мортир
+[10:21:26] vers1: Так точно
+[10:24:59] Improvised_starting_fire_device: только в стену не врежся
+[10:25:12] ANTI: гууууууууууууууууд морнинг вьетнам
+[10:26:17] ANTI: я не хочу умирать
+[10:26:38] Xtrion: неттт мама кфс нееееет мамааа
+[10:27:33] Xtrion: есть идея
+[10:27:55] Xtrion: можно поиграть в джагернаута
+[10:28:08] Xtrion: чё давайте
+[10:28:51] Client "Blockbuster" connected.
+[10:40:42] Dropped "Xtrion" from server<STEAM_0:1:201866151>
+[10:40:42] Xtrion suicided!
+[10:41:36] Client "Евгений Байбек" connected.
+[10:46:02] Client "✞ Saiga ✞" connected.
+[10:47:29] Client "Евгений Байбек" connected.
+[10:48:26] Client "✞ Saiga ✞" spawned in server <STEAM_0:0:638586146> (took 144 seconds).
+[10:53:11] Dropped "ANTI" from server<STEAM_0:0:856858307>
+[10:53:12] ANTI suicided!
+[10:54:19] Client "ДЕД ХАСАН" connected.
+[11:01:29] Dropped "✞ Saiga ✞" from server<STEAM_0:0:638586146>
+[11:01:29] ✞ Saiga ✞ suicided!
+[11:04:49] Client "Евгений Байбек" spawned in server <STEAM_0:0:869617783> (took 1040 seconds).
+[11:09:50] vers1: bind кнопка ez_jmod_inv
+[11:10:04] vers1: /sounds sans
+[11:10:06] vers1: f
+[11:10:08] vers1: fghs
+[11:10:13] vers1: !sounds sans
+[11:10:34] vers1: f
+[11:12:01] Improvised_starting_fire_device: bind p" say *inv*
+[11:20:39] Client "rus.kostya.90" connected.
+[11:21:06] vers1: supply radio: oil
+[11:21:18] vers1: supply radio: oil
+[11:27:35] Client "rus.kostya.90" spawned in server <STEAM_0:1:169396956> (took 416 seconds).
+[11:28:13] vers1: !content
+[11:28:17] vers1: /content
+[11:30:59] rus.kostya.90: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:31:04] Dropped "rus.kostya.90" from server<STEAM_0:1:169396956>
+[11:31:04] rus.kostya.90 suicided!
+[11:41:53] Improvised_starting_fire_device killed vers1 using ent_jack_gmod_ezbombbay
+[11:48:32] Improvised_starting_fire_device: аим
+[11:49:49] vers1: Я ели нас посадил
+[11:49:51] vers1: На землю
+[11:49:58] vers1: Немного*
+[11:50:02] vers1: Перекланивает
+[11:50:08] vers1: Мне спать надо идти
+[11:50:18] vers1: Я пошел
+[11:50:38] vers1: Киляй
+[11:50:41] vers1: Апщи
+[11:50:44] vers1: Не
+[11:50:46] Dropped "vers1" from server<STEAM_0:0:230254820>
+[11:50:46] vers1 suicided!
+[12:01:27] Improvised_starting_fire_device suicided!
+[12:05:33] Improvised_starting_fire_device was killed by prop_physics
+[12:06:54] Dropped "Improvised_starting_fire_device" from server<STEAM_0:1:225675214>
+[12:06:54] Improvised_starting_fire_device suicided!
+[12:11:13] Client "Slipper" connected.
+[12:24:54] Client "Slipper" spawned in server <STEAM_0:0:635379702> (took 821 seconds).
+[12:25:52] Slipper: приветик
+[12:38:27] Евгений Байбек suicided!
+[12:39:08] Евгений Байбек killed Slipper using wep_jack_gmod_hands
+[12:41:19] (TEAM) Евгений Байбек: !help
+[12:48:03] Dropped "Евгений Байбек" from server<STEAM_0:0:869617783>
+[12:48:03] Евгений Байбек suicided!
+[13:59:47] Slipper: !weapondrop
+[14:06:31] Slipper: !help
+[14:07:20] Slipper: !drop
+[14:07:24] Slipper: /drop
+[14:07:29] Slipper: /weapondrop
+[14:07:32] Slipper: !dropwerapon
+[14:08:05] Dropped "Slipper" from server<STEAM_0:0:635379702>
+[14:08:05] Slipper suicided!
+[14:08:06] Client "Slipper" connected.
+[14:08:34] Client "Slipper" spawned in server <STEAM_0:0:635379702> (took 28 seconds).
+[14:23:42] Dropped "Slipper" from server<STEAM_0:0:635379702>
+[14:23:42] Slipper suicided!
+[15:22:10] Client "Phalanx" connected.
+[16:04:33] Client "Phalanx" spawned in server <STEAM_0:0:239878329> (took 2543 seconds).
+[16:25:11] Dropped "Phalanx" from server<STEAM_0:0:239878329>
+[16:25:11] Phalanx suicided!
+[23:15:42] Client "Redoket" connected.
+[23:16:21] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 39 seconds).
+[23:54:56] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[23:54:56] Redoket suicided!
+<Logging continued in "data/ulx_logs/03-06-25.txt">

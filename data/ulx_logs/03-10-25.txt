@@ -1,0 +1,2559 @@
+<Logging continued from "data/ulx_logs/03-09-25.txt">
+[00:27:49] Client "Quand" connected.
+[00:30:11] Client "Quand" spawned in server <STEAM_0:1:755564001> (took 142 seconds).
+[00:46:16] Quand: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:48:43] Dropped "Quand" from server<STEAM_0:1:755564001>
+[00:48:43] Quand suicided!
+[01:28:36] Client "APOJOPE" connected.
+[01:29:50] Client "APOJOPE" spawned in server <STEAM_0:1:557416607> (took 74 seconds).
+[01:39:51] Dropped "APOJOPE" from server<STEAM_0:1:557416607>
+[01:39:51] APOJOPE suicided!
+[02:08:09] Client "Quand" connected.
+[02:10:14] Client "Quand" spawned in server <STEAM_0:1:755564001> (took 125 seconds).
+[02:13:20] Dropped "Quand" from server<STEAM_0:1:755564001>
+[02:13:20] Quand suicided!
+[03:18:44] Client "Redoket" connected.
+[03:19:54] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 70 seconds).
+[03:36:19] Redoket: supply radio: fulton-crate
+[03:41:40] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[03:41:40] Redoket suicided!
+[03:41:43] Client "Redoket" connected.
+[03:43:41] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 118 seconds).
+[03:52:21] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[03:52:21] Redoket suicided!
+[03:54:28] Client "mrch" connected.
+[03:56:15] Client "mrch" spawned in server <STEAM_0:1:36006936> (took 107 seconds).
+[03:59:51] (TEAM) mrch: jmod_ez_inv
+[04:00:25] Dropped "mrch" from server<STEAM_0:1:36006936>
+[04:00:25] mrch suicided!
+[04:18:23] Client "Allkot5" connected.
+[04:19:04] Client "Allkot5" spawned in server <STEAM_0:0:616036288> (took 41 seconds).
+[04:23:43] Dropped "Allkot5" from server<STEAM_0:0:616036288>
+[04:23:44] Allkot5 suicided!
+[04:45:32] Client "Allkot5" connected.
+[04:46:19] Client "Allkot5" spawned in server <STEAM_0:0:616036288> (took 47 seconds).
+[04:54:06] Client "SUMTER" connected.
+[04:55:11] Allkot5: supply radio: fulton-crate
+[04:55:13] Client "SUMTER" spawned in server <STEAM_0:0:242827899> (took 67 seconds).
+[04:56:20] SUMTER: /s Ну чего ты где?
+[04:58:45] Dropped "SUMTER" from server<STEAM_0:0:242827899>
+[04:58:45] SUMTER suicided!
+[05:47:19] Client "SUMTER" connected.
+[05:50:04] Client "SUMTER" spawned in server <STEAM_0:0:242827899> (took 165 seconds).
+[05:52:17] SUMTER: /s Что происходите?
+[05:53:00] (TEAM) SUMTER: \
+[06:05:52] SUMTER: ты где?
+[06:07:58] Dropped "Allkot5" from server<STEAM_0:0:616036288>
+[06:07:58] Allkot5 suicided!
+[06:12:44] SUMTER was killed by entityflame
+[06:16:38] Client "Allkot5" connected.
+[06:19:20] Client "Allkot5" spawned in server <STEAM_0:0:616036288> (took 162 seconds).
+[06:23:09] Client "RusLanConnection" connected.
+[06:23:11] Client "Батон" connected.
+[06:23:15] Client "pravosudko.leha" connected.
+[06:26:01] Client "pravosudko.leha" spawned in server <STEAM_0:0:159984348> (took 166 seconds).
+[06:26:34] Client "Балтика 9" connected.
+[06:26:41] Client "Батон" spawned in server <STEAM_0:0:569947714> (took 210 seconds).
+[06:26:55] Client "Эйден" connected.
+[06:27:05] SUMTER: *АДМИНО ХЕЛПО, МОИХ СИЛ ЗДЕСЬ НЕ ХВАТИТ*
+[06:27:12] Client "Балтика 9" connected.
+[06:27:27] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 258 seconds).
+[06:27:44] Client "kenessmadiyr55" connected.
+[06:29:05] Client "APOJOPE" connected.
+[06:29:17] SUMTER: РУСЛАН ТЕПАЙСЯ КО МНЕ
+[06:29:45] SUMTER to admins: ОТЧИЩАЙ ОТЧИЩАЙ!
+[06:29:54] Dropped "Батон" from server<STEAM_0:0:569947714>
+[06:29:54] Батон suicided!
+[06:29:57] Dropped "pravosudko.leha" from server<STEAM_0:0:159984348>
+[06:29:57] pravosudko.leha suicided!
+[06:30:16] Client "Балтика 9" spawned in server <STEAM_0:0:592080962> (took 184 seconds).
+[06:30:37] SUMTER was killed by ent_aboot_gmod_ezshippingcontainer
+[06:31:34] Client "APOJOPE" spawned in server <STEAM_0:1:557416607> (took 149 seconds).
+[06:31:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:33:12] RusLanConnection killed SUMTER
+[06:33:13] RusLanConnection killed APOJOPE
+[06:33:31] RusLanConnection brought APOJOPE,Allkot5,SUMTER,Балтика 9
+[06:33:48] RusLanConnection was killed by ent_aboot_gmod_ezshippingcontainer
+[06:33:55] APOJOPE was killed by ent_aboot_gmod_ezshippingcontainer
+[06:33:56] Allkot5 was killed by ent_aboot_gmod_ezshippingcontainer
+[06:34:00] SUMTER was killed by ent_aboot_gmod_ezshippingcontainer
+[06:34:01] RusLanConnection changed the map to gm_sro_mountain_field with gamemode jsurvival
+[06:34:01] Server is shutting down/changing levels.
+
+
+
+[06:34:10] New map: gm_sro_mountain_field
+[06:34:34] Client "Allkot5" spawned in server <STEAM_0:0:616036288> (took 28 seconds).
+[06:34:35] Client "Балтика 9" spawned in server <STEAM_0:0:592080962> (took 29 seconds).
+[06:34:37] Client "APOJOPE" spawned in server <STEAM_0:1:557416607> (took 31 seconds).
+[06:34:40] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 34 seconds).
+[06:34:40] Client "SUMTER" spawned in server <STEAM_0:0:242827899> (took 34 seconds).
+[06:35:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezchair
+[06:38:32] Client "Эйден" spawned in server <STEAM_0:0:778536439> (took 266 seconds).
+[06:41:25] RusLanConnection: !motd
+[06:41:36] Эйден: !mord
+[06:41:51] Эйден: !motd
+[06:43:33] Эйден: playermodel_selector
+[06:43:59] Эйден: playermodel_selector
+[06:48:17] RusLanConnection cloaked Themself by amount 0
+[06:51:45] SUMTER: jmod_ez_inv
+[06:52:15] Эйден: а
+[06:52:21] APOJOPE killed Эйден using rust_eoka
+[06:53:00] APOJOPE killed Эйден using rust_eoka
+[06:54:19] (csay from RusLanConnection) ладно развлекайтесь
+[06:54:22] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[06:54:22] RusLanConnection suicided!
+[06:58:26] Эйден: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:58:39] Эйден: э
+[06:59:12] Эйден: я на f3 нажал вроде
+[06:59:22] Dropped "Эйден" from server<STEAM_0:0:778536439>
+[06:59:22] Эйден suicided!
+[07:08:57] Client "kuputochek" connected.
+[07:09:38] Client "kuputochek" spawned in server <STEAM_0:0:627550509> (took 41 seconds).
+[07:17:07] kuputochek: нет
+[07:17:14] kuputochek: в прямом
+[07:17:38] kuputochek: free война
+[07:17:59] kuputochek: может не надо
+[07:18:15] SUMTER killed kuputochek using wep_jack_gmod_ezshovel
+[07:32:09] Балтика 9: supply radio: fulton-crate
+[07:37:58] Client "Dioldo" connected.
+[07:45:38] Client "ɴʀɢᴏss" connected.
+[07:48:09] Client "ɴʀɢᴏss" connected.
+[07:50:58] Client "glaSOO" connected.
+[07:50:58] Client "frouzent" connected.
+[07:52:03] Client "glaSOO" spawned in server <STEAM_0:1:626531518> (took 65 seconds).
+[07:56:00] Client "ɴʀɢᴏss" spawned in server <STEAM_0:0:457622056> (took 471 seconds).
+[07:56:18] Client "Dioldo" spawned in server <STEAM_0:0:675792707> (took 1100 seconds).
+[07:57:24] kuputochek was killed by ent_rus_jsmod_pipe
+[07:58:23] kuputochek: ты кто
+[07:58:41] kuputochek: ушел
+[07:59:37] APOJOPE killed Dioldo using lvs_wheeldrive_citroen_type23
+[07:59:44] Client "frouzent" connected.
+[08:00:14] kuputochek: стой
+[08:00:17] APOJOPE killed kuputochek using tfa_doig43
+[08:00:24] Dioldo: TYT
+[08:00:47] Dioldo: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:00:49] ɴʀɢᴏss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:00:50] ɴʀɢᴏss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:00:53] Client "frouzent" connected.
+[08:01:12] APOJOPE killed kuputochek using tfa_doig43
+[08:01:23] Dropped "Dioldo" from server<STEAM_0:0:675792707>
+[08:01:23] Dioldo suicided!
+[08:01:37] APOJOPE killed kuputochek using tfa_doig43
+[08:03:07] APOJOPE killed kuputochek using tfa_doig43
+[08:03:39] ɴʀɢᴏss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:04:16] Client "frouzent" spawned in server <STEAM_0:0:640419920> (took 203 seconds).
+[08:04:34] kuputochek: твой
+[08:04:36] kuputochek: оо
+[08:04:38] kuputochek: еще ты
+[08:04:45] frouzent: !menu
+[08:04:49] kuputochek: я пересоздал фракцию войны нет
+[08:05:25] SUMTER killed kuputochek using wep_jack_gmod_ezshovel
+[08:05:30] Dropped "kuputochek" from server<STEAM_0:0:627550509>
+[08:05:30] kuputochek suicided!
+[08:05:37] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:11:21] (TEAM) glaSOO: i
+[08:21:42] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:44] ɴʀɢᴏss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:44] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:44] ɴʀɢᴏss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:44] ɴʀɢᴏss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:45] ɴʀɢᴏss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:45] ɴʀɢᴏss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:45] ɴʀɢᴏss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:46] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:47] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:47] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:47] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:47] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:47] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:48] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:48] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:48] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:48] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:48] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:48] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:49] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:49] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:49] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:49] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:21:50] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:23:56] SUMTER was killed by build_prop
+[08:27:53] Client "vasiliy karat" connected.
+[08:29:14] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 81 seconds).
+[08:30:08] vasiliy karat: ЗДРАВСТВУЙТЕ
+[08:30:20] vasiliy karat: Э ПОКАЖИ
+[08:30:36] vasiliy karat: ПОПРОБУЙ ВЫКИНУТЬ ТУБЛОК
+[08:30:42] ɴʀɢᴏss: *drop
+[08:30:47] ɴʀɢᴏss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:30:50] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:30:51] frouzent: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:31:09] vasiliy karat: ВПУСТИТЕ ВО ФРАКЦИЮ
+[08:31:20] vasiliy karat: НУ Я ЗАРАНЕЕ СПРОСИТЬ
+[08:33:47] vasiliy karat: ПОМОЧЬ 
+[08:33:54] vasiliy karat: СЕК
+[08:38:44] vasiliy karat: Я Э 
+[08:38:54] vasiliy karat: НЕ МЕСТНЫЙ МИМО ПРОХОДИЛ ВОТ ПРОХОЖУ
+[08:39:11] vasiliy karat: Я
+[08:39:18] vasiliy karat: ДА Я ОСОБНЯКОМ
+[08:39:35] vasiliy karat: Я ЖЕ ГОВОРЮ НЕ ИЗ КАКОЙ 
+[08:40:12] vasiliy karat: ДА ТУТ НЕ НАПИСАНО ГДЕ ЧЬЕ
+[08:40:19] vasiliy karat: ВАШИ ДРУЗЬЯ МЕНЯ ПУСКАЮТ 
+[08:40:22] vasiliy karat: ВЫ НЕТ
+[08:40:28] vasiliy karat: ТАМ К ВАМ ДРУЗЬЯ ПРИЕХАЛИ
+[08:44:25] Балтика 9 was killed by lvs_wheeldrive_dodwillyjeep
+[08:45:50] Client "popka dudka" connected.
+[08:48:52] Client "Mannytko" connected.
+[08:50:44] Client "Mannytko" spawned in server <STEAM_0:0:151021368> (took 112 seconds).
+[08:51:00] Client "Shiro" connected.
+[08:51:08] vasiliy karat: Я НЕ НАШЕЛ НУБОВ КОТОРЫМ НУЖНО ПОМОЧЬ
+[08:51:12] vasiliy karat: ЗА ТО МЕНЯ ВЗЯЛИ В РАБСТВО
+[08:51:18] vasiliy karat: ТРЕТИЙ РЕЙХ
+[08:51:37] vasiliy karat: А ЗА КАКУЮ ПРИЧИНУ НЕГРОВ В РАБСТВО БРАЛИ
+[08:51:44] vasiliy karat: Я МИМО ПРОХОДИЛ
+[08:51:53] vasiliy karat: Я РАБОТАЛ
+[08:51:59] vasiliy karat: ООО
+[08:52:03] vasiliy karat: НАДО ПРЕДУПРЕДИТЬ ВАС
+[08:52:07] vasiliy karat: КОГДА Я ВРАБСТВЕ БЫЛ
+[08:52:10] vasiliy karat: Э
+[08:52:21] vasiliy karat: СЛАВЯНСКАЯ РУСЬ К НИМ ПРИЕЗЖАЛА 
+[08:52:28] vasiliy karat: ОНИ СКАЗАЛИ
+[08:52:31] vasiliy karat: КХМ
+[08:52:41] Client "popka dudka" spawned in server <STEAM_0:0:579175682> (took 411 seconds).
+[08:52:48] vasiliy karat: Я НА САМОМ ДЕЛЕ НЕ УСЛЫШАЛ
+[08:52:51] vasiliy karat: ВСЕ
+[08:52:53] vasiliy karat: Я ВОДУ КОПАЛ
+[08:52:54] vasiliy karat: НО
+[08:52:59] vasiliy karat: ОНИ СКАЗАЛИ ЧТО ТО ПРО ВЕРБОНИЮ
+[08:53:04] vasiliy karat: И РАЗОРВАТЬ АЛЬЯНС
+[08:53:13] popka dudka: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:53:16] vasiliy karat: ВАМ ОБОРОНУ НАДО
+[08:53:18] vasiliy karat: НОРМАЛЬНЫЕ СТЕНЫ
+[08:53:19] popka dudka: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:53:20] popka dudka: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:53:22] vasiliy karat: Я ТОЖЕ БОМЖ
+[08:53:25] popka dudka: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:53:26] vasiliy karat: НО МЕНЯ В ПЛЕН ВЗЯЛИ
+[08:53:41] vasiliy karat: В РАБСТВО
+[08:54:17] vasiliy karat: ТРЕТИЙ РЕЙХ СКАЗАЛ ЧТО ТО ПРО КОНЦЛАГЕ
+[08:54:40] vasiliy karat: В МОТД
+[08:54:44] ɴʀɢᴏss: !motd
+[08:54:53] popka dudka: !motd
+[08:55:43] vasiliy karat: Я ДУМАЮ ЧТО НЕ СКУЧНЕЕ ПРОСТО ФАРМИНГА
+[08:55:59] vasiliy karat: НО
+[08:56:13] vasiliy karat: ТЫ СЛЫШИШЬ МЕНЯ
+[08:56:20] vasiliy karat: ОНИ ВАС В РАБСТВО ВОЗЬМУТ
+[08:56:23] vasiliy karat: ТУТ УЖЕ НЕ ВАЖНО
+[08:56:26] vasiliy karat: СКОЛЬКО ДЕНЕГ
+[08:56:29] vasiliy karat: ЕСТЬ ЛИ СПАВН
+[08:56:38] vasiliy karat: ВАМ ОБОРОНЯТЬСЯ НАДО
+[08:56:44] Dropped "popka dudka" from server<STEAM_0:0:579175682>
+[08:56:44] popka dudka suicided!
+[08:57:01] Client "Косинус" connected.
+[08:57:14] vasiliy karat: Я КАРОЧЕ ВАМ ПО ДОБРОЙ ВОЛЕ НУ И ИЗ СООБРАЖЕНИИ МЕСТИ
+[08:57:22] Client "Shiro" spawned in server <STEAM_0:1:637627698> (took 382 seconds).
+[08:58:05] vasiliy karat: КХМ
+[08:58:06] vasiliy karat: ТАМ
+[08:58:10] vasiliy karat: Я ВАС ПРЕДУПРЕДИТЬ ДОЛЖЕН
+[08:58:20] vasiliy karat: ЗА ТО ЧТО ВЫ ТАМ ЛЕСТНИЦУ ИЗ ПЕСКА СТРОИТЕ
+[08:58:23] vasiliy karat: ЩАС АДМИН ЗАЙДЕТ
+[08:58:26] vasiliy karat: И ЗАСТРЕЛИТ
+[08:58:29] vasiliy karat: НАДО
+[08:58:34] vasiliy karat: ОБРОНЯТЬСЯ И ОТ НЕГО
+[08:59:00] Client "Endi_Gamer" connected.
+[08:59:07] Client "Косинус" spawned in server <STEAM_0:1:530357188> (took 126 seconds).
+[08:59:13] Client "maksumkolesnukov022" connected.
+[08:59:32] vasiliy karat: МАНЮТКО
+[08:59:43] vasiliy karat: НА НАС ЩАС ТРЕТИЙ РЕЙХ НАПАДЕТ
+[08:59:44] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 31 seconds).
+[09:00:00] vasiliy karat: ОНИ В РАБСТВО ВОЗЬМУТ ВСЕХ АЛЕ
+[09:00:13] Dropped "Shiro" from server<STEAM_0:1:637627698>
+[09:00:13] Shiro suicided!
+[09:00:21] vasiliy karat: !
+[09:00:23] vasiliy karat: !MENU
+[09:01:31] Client "P0lyakov" connected.
+[09:02:12] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 41 seconds).
+[09:03:14] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezflashbang
+[09:03:45] Mannytko: \
+[09:03:49] maksumkolesnukov022: НАШЁЛ ВАС
+[09:03:51] frouzent killed P0lyakov using tfa_doispringfield
+[09:04:02] maksumkolesnukov022: ВАЙ ТИГРЫ
+[09:04:38] ɴʀɢᴏss was killed by ent_jack_aidbox
+[09:05:24] vasiliy karat: БЕРИТЕ ВСЕ
+[09:05:54] maksumkolesnukov022: а как
+[09:05:55] vasiliy karat: НАПАЛИ БЕЗ ОБЪЯВЛЕНИЕ
+[09:05:58] vasiliy karat: ВОЙНЫ
+[09:06:13] vasiliy karat: ЩАС
+[09:06:19] vasiliy karat: МЫ ПРОСТО ТАК
+[09:06:24] vasiliy karat: НЕ СДАДИМСЯ
+[09:06:49] maksumkolesnukov022: ТЭС
+[09:06:50] Косинус: никакой
+[09:06:50] Косинус: я бомж
+[09:07:03] Косинус: не знаю, я только зашёл
+[09:07:59] P0lyakov<STEAM_0:0:60570605> spawned sent item_healthkit
+[09:08:00] P0lyakov<STEAM_0:0:60570605> spawned sent item_healthkit
+[09:08:24] Mannytko: *drop
+[09:08:38] vasiliy karat: ЭТО ПЫЛЕСОС
+[09:08:59] vasiliy karat: DJN
+[09:09:04] maksumkolesnukov022: крч
+[09:09:08] maksumkolesnukov022: ФИКС ДЛЯ РУК
+[09:09:11] maksumkolesnukov022: ЕСЛИ ПРОПАДУТ
+[09:09:13] maksumkolesnukov022: record 1; stop
+[09:09:16] maksumkolesnukov022: В КОНСОЛЬ
+[09:09:30] maksumkolesnukov022: демку начинает писать и сразу останавливает
+[09:09:39] Балтика 9 killed ɴʀɢᴏss using tfa_doimg42
+[09:09:40] maksumkolesnukov022: иногда могут руки пропасть с оружием визуально
+[09:10:13] glaSOO killed Mannytko using tfa_doimg42
+[09:10:28] glaSOO killed ɴʀɢᴏss using tfa_doimg42
+[09:10:32] vasiliy karat killed glaSOO using tfa_doispringfield
+[09:10:35] Client "CuCe4Ka" connected.
+[09:10:46] APOJOPE suicided!
+[09:10:58] maksumkolesnukov022: ЗАВОД ПОГЛОТИЛ ТЕБЯ
+[09:11:04] vasiliy karat: МАШИНА С СЗАДИ
+[09:11:07] vasiliy karat: ВЗОРВИ С ПУЛЕМЕТА
+[09:11:14] Балтика 9 killed ɴʀɢᴏss using tfa_doimg42
+[09:11:15] Client "kuputochek" connected.
+[09:11:31] vasiliy karat killed Балтика 9 using ent_jack_gmod_ezsticknade
+[09:11:48] vasiliy karat: УБИЛИ
+[09:11:52] frouzent killed P0lyakov using tfa_doispringfield
+[09:12:05] Mannytko killed glaSOO using tfa_doiluger
+[09:12:10] Client "kuputochek" spawned in server <STEAM_0:0:627550509> (took 55 seconds).
+[09:12:37] Mannytko: *drop
+[09:12:53] vasiliy karat: МАН
+[09:12:55] vasiliy karat: ПОШЛИ СО МНОЙ
+[09:12:58] vasiliy karat: В АТАКУ
+[09:13:02] vasiliy karat: БЕРИ ШРЕКА
+[09:13:09] Mannytko: *drop
+[09:13:10] vasiliy karat: РАЗФИГАЧИМ ДОМ ТАМ
+[09:13:15] Mannytko: *drop
+[09:13:19] Mannytko: *drop
+[09:13:19] Client "Derlim" connected.
+[09:13:35] kuputochek: але
+[09:13:41] kuputochek: че ты делаешь здесь
+[09:13:46] kuputochek: это моя база
+[09:13:51] vasiliy karat: ПОЛЯКОВ
+[09:13:53] vasiliy karat: ВОЗЬМИ
+[09:13:54] vasiliy karat: ШРЕК
+[09:13:55] Косинус: конкретно эта ямка?
+[09:13:56] vasiliy karat: МЫ ИДЕМ
+[09:14:00] vasiliy karat: МЫ ДОМ ИМ ТАМ
+[09:14:02] vasiliy karat: РАЗФИГАЧИМ
+[09:14:05] kuputochek: конкретно это все
+[09:14:11] Косинус: f
+[09:14:11] Косинус: а
+[09:14:15] Косинус: я думал, тут никто не живёт
+[09:14:24] kuputochek: ладно заберай
+[09:14:32] kuputochek: её все равно зарейдили
+[09:14:33] vasiliy karat: ПОШЛИТЕ КТО НИТЬ
+[09:14:34] vasiliy karat: ВОЗЬМИТЕ
+[09:14:36] vasiliy karat: ВТОРОЙ
+[09:14:37] kuputochek: убей ток
+[09:14:37] vasiliy karat: ШРЕК
+[09:14:38] kuputochek: меня
+[09:14:41] Косинус: я тут пытаюсь вертолёт сконструировать, ты не знаешь, как сделать улу
+[09:14:48] Косинус: улучшенные запчасти
+[09:14:50] Косинус: ?
+[09:14:51] vasiliy karat: СЕ
+[09:14:56] kuputochek: убей меня
+[09:15:03] vasiliy karat: ПОШЛИТЕ
+[09:15:16] Косинус killed kuputochek using wep_jack_gmod_hands
+[09:15:25] vasiliy karat: ТАМ ИХ ДОМ ЗА ПОВОРОТОМ
+[09:15:41] kuputochek: с кем мы воюем
+[09:15:57] kuputochek: у них союз с Киевом
+[09:16:05] vasiliy karat: ДАЙ
+[09:16:06] glaSOO killed Mannytko using tfa_doik98_scop
+[09:16:12] vasiliy karat: Я ТУТ В РАБСТВЕ БЫЛ УВЕРЕН
+[09:16:16] kuputochek: где оружее
+[09:16:20] kuputochek: они меня
+[09:16:26] kuputochek: в 4 убили
+[09:17:11] ɴʀɢᴏss killed Балтика 9 using tfa_doispringfield
+[09:17:22] vasiliy karat: ИДЕ
+[09:17:33] vasiliy karat: СЛАВА ВЕРБОНИИ
+[09:17:56] kuputochek: еще нет
+[09:18:11] vasiliy karat: УРАААААА
+[09:18:19] vasiliy karat: УРААААААА
+[09:18:19] kuputochek: это еще нет
+[09:18:21] Косинус: да
+[09:18:28] vasiliy karat: ПОШЛИТЕ 
+[09:18:29] Косинус: я бомж
+[09:18:32] Косинус: я пытаюсь сделать вертолёт
+[09:18:33] kuputochek: надо еще их союзников
+[09:18:44] Косинус: мне нужен вертолёт
+[09:19:09] kuputochek: надо еще их союзников
+[09:19:13] vasiliy karat: ДА ДА НАДО
+[09:19:14] vasiliy karat: ВСЕХ 
+[09:19:17] Косинус: это до меня было
+[09:19:18] vasiliy karat: ЭТО
+[09:19:18] kuputochek: они
+[09:19:22] vasiliy karat: ЗАГАВОР ПРОТИВ НАС
+[09:19:27] kuputochek: меня убивали когда я был соло
+[09:19:31] Косинус: ты знаешь как сделать advanced materials?
+[09:19:34] vasiliy karat: МЕНЯ В РАБСТВО БРАЛИ
+[09:19:35] Косинус: запчасти
+[09:19:36] vasiliy karat: Я ВОДУ КОПАЛ
+[09:19:37] Косинус: улучшенные
+[09:19:39] vasiliy karat: ПОД ДУЛОМ
+[09:19:40] Косинус: синие
+[09:19:42] Косинус: как?
+[09:20:00] Косинус: блин
+[09:20:06] vasiliy karat: НАШ ЛИДЕР
+[09:20:11] Косинус: а ты из какой фракции
+[09:20:27] kuputochek: сер
+[09:20:31] vasiliy karat: СТОП
+[09:20:32] vasiliy karat: СТОП
+[09:20:35] vasiliy karat: ВЫ В ВОЙНЕ
+[09:20:37] vasiliy karat: МЫ ЕЩЕ В ВОЙНЕ
+[09:20:40] kuputochek: надо из союзников
+[09:20:44] kuputochek: да
+[09:21:04] kuputochek: дайте гранаду
+[09:21:12] kuputochek: сер
+[09:21:28] kuputochek: грену
+[09:21:41] Косинус: стой
+[09:21:44] Косинус: давай ресы возьмём отсюда
+[09:21:47] Косинус: какие-нибудь
+[09:22:20] Client "Norimura" connected.
+[09:22:31] vasiliy karat: ПРЕДЛАГАЮ ПУШКУ СДЕЛАТЬ
+[09:22:34] vasiliy karat: АРТЕЛЕРИСКУ
+[09:22:38] glaSOO suicided!
+[09:22:40] vasiliy karat: КУПИТЬ ВСЕ
+[09:22:42] vasiliy karat: 40 К
+[09:22:44] vasiliy karat: ДЕНЕГ
+[09:22:47] vasiliy karat: МОЖНО ВЕСТИ ВОЙНУ
+[09:22:49] kuputochek: есть план
+[09:23:01] kuputochek: ктото сдается
+[09:23:10] kuputochek: я  знаю
+[09:23:16] kuputochek: слушайте
+[09:23:35] Косинус: места нет
+[09:23:39] kuputochek: они нас могут обходить
+[09:23:55] kuputochek: mrgoss
+[09:24:01] kuputochek: есть план
+[09:24:10] kuputochek: газывые гранаты
+[09:24:27] Косинус: так там всего один человек
+[09:25:21] Косинус: стой
+[09:25:24] vasiliy karat: Я НЕ МОГУ
+[09:25:25] Косинус: в ящике есть топливо
+[09:25:26] kuputochek: сер  NRGOSS
+[09:25:33] Косинус: я его туда положил
+[09:25:39] Косинус: а...
+[09:25:42] Косинус: блин
+[09:25:46] kuputochek: слушайте
+[09:25:56] kuputochek: я могу отсроить деревню
+[09:26:09] kuputochek: большой
+[09:26:11] Mannytko: *drop
+[09:26:16] kuputochek: мы сможем отойди
+[09:26:21] kuputochek: в случии
+[09:26:23] kuputochek: нападение
+[09:27:17] kuputochek: я убью пару врагов
+[09:27:24] Mannytko: *drop
+[09:27:43] kuputochek: я убью нескольких
+[09:27:55] kuputochek: сер
+[09:27:58] kuputochek: я на разведку
+[09:28:49] vasiliy karat: Я НЕЗНАЮ КООРДЫ
+[09:28:51] vasiliy karat: И РАСТОЯНИЕ
+[09:28:53] vasiliy karat: ВОТ
+[09:28:54] P0lyakov: ВАСЯ
+[09:28:54] vasiliy karat: РАДИСТ
+[09:28:55] vasiliy karat: ДА
+[09:28:58] P0lyakov: У МЕНЯ БИНОКЛЬ
+[09:29:05] P0lyakov: Я МОГУ ТЕБЕ СВЕРХУ СООБЩАТЬ
+[09:29:07] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezceramic
+[09:29:20] kuputochek: я понел
+[09:29:28] kuputochek: вся их энергия на угле
+[09:29:37] kuputochek: да
+[09:29:37] vasiliy karat: ПОЛЯКОВ
+[09:29:42] vasiliy karat: МОЖЕШЬ ИХ КООРДЫ СКАЗАТЬ
+[09:29:43] vasiliy karat: БАЩЫ
+[09:29:49] P0lyakov: Старой?
+[09:29:49] kuputochek: цветная
+[09:29:51] kuputochek: ну там
+[09:29:56] P0lyakov: Которую мы штурмовали?
+[09:29:57] vasiliy karat: КРАСНЫХ
+[09:29:58] kuputochek: красным
+[09:29:59] vasiliy karat: НЕТ
+[09:29:59] vasiliy karat: ТАМ
+[09:30:03] P0lyakov: Щас скажу
+[09:30:06] vasiliy karat: Я ТАМ ВСЕ ВЗОРВАЛ СПАВН ВЗОРВАЛ
+[09:30:10] kuputochek: Щяс чекну
+[09:30:43] Косинус: на моей базе есть
+[09:30:45] Косинус: нефть
+[09:31:05] kuputochek: СЕЕЕЕР
+[09:31:14] kuputochek: СЕРЕРЕРЕО
+[09:31:18] kuputochek: они там
+[09:31:24] kuputochek: враги
+[09:31:29] kuputochek: Русь
+[09:31:30] Client "Norimura" spawned in server <STEAM_0:1:449142666> (took 550 seconds).
+[09:31:34] kuputochek: они переежают
+[09:31:37] Client "A1M I AlimbeiskiyZOV" connected.
+[09:31:44] kuputochek: машина у них
+[09:31:51] P0lyakov: 29 -83
+[09:32:00] Dropped "Norimura" from server<STEAM_0:1:449142666>
+[09:32:00] Norimura suicided!
+[09:32:06] kuputochek: я построю 2 город для защиты
+[09:32:07] P0lyakov: Это то место которое мы штурмовали они снова его отстроили
+[09:32:12] P0lyakov: другую базу не могу найти
+[09:32:20] kuputochek: немного отсюда возьму
+[09:32:30] APOJOPE: апрар
+[09:32:31] vasiliy karat: Я ПОКА ТОГДА НАРАЩИВАЮ ЗАПАС
+[09:33:07] P0lyakov: Можно заказать спальные мешки?
+[09:33:53] vasiliy karat: Я К
+[09:33:56] vasiliy karat: БОЛЬШОМУ
+[09:33:59] vasiliy karat: СДЕЛАЛ
+[09:34:09] kuputochek: разбирите
+[09:34:38] kuputochek: не очень советует
+[09:35:02] vasiliy karat: ОНИ РАЗОРВАЛИ АЛЬЯНС
+[09:35:18] P0lyakov: У нас война со славянами
+[09:36:22] Косинус: я забыл как оружие перезаряжать
+[09:36:57] Косинус: там боеприпасы
+[09:36:59] Косинус: щас взорвётся
+[09:37:00] Косинус: ящик
+[09:37:17] vasiliy karat: RESPECT 
+[09:37:23] Client "nick" connected.
+[09:37:30] Client "Norimura" connected.
+[09:37:33] vasiliy karat: YE
+[09:37:34] vasiliy karat: НУ
+[09:37:36] vasiliy karat: У НИХ
+[09:37:37] Косинус: ПОДСКАЖИТЕ КАК ПЕРЕЗАРЯЖАТЬ ОРУЖИЕ Я ЗАБЫОЛ
+[09:37:38] vasiliy karat: СТРОЕНИЕ
+[09:37:41] Client "A1M I AlimbeiskiyZOV" spawned in server <STEAM_0:1:190132410> (took 364 seconds).
+[09:37:42] vasiliy karat: ОНИ НЕ ВЗРЫВАЮТСЯ
+[09:37:45] SUMTER: R
+[09:37:46] vasiliy karat: ОНИ ЛОМАЮТСЯ
+[09:37:51] Косинус: да нет
+[09:37:54] Косинус: как патроны взять из ящика
+[09:37:54] P0lyakov: 244 стрельба!!!
+[09:38:00] Client "Norimura" spawned in server <STEAM_0:1:449142666> (took 30 seconds).
+[09:38:13] P0lyakov: 360 метров
+[09:38:41] Norimura killed A1M I AlimbeiskiyZOV using wep_jack_gmod_hands
+[09:38:41] P0lyakov: у меня багнуло
+[09:39:09] vasiliy karat: НРГОС ПОЧЕМУ МЫ НЕ ОТОМСТИЛИ СЛАВЯНСКОМУ СОЮЗУ
+[09:39:25] Norimura killed A1M I AlimbeiskiyZOV using wep_jack_gmod_hands
+[09:39:38] vasiliy karat: ЭТО ПЫЛЕСОС
+[09:39:43] vasiliy karat: МАШИНЫ РАЗОБРАЛ
+[09:39:48] P0lyakov: -97 93
+[09:40:06] vasiliy karat: МОЖЕТ
+[09:40:12] vasiliy karat: ПОПРОСИ ИХ СДАТЬСЯ
+[09:40:18] P0lyakov: -97 93
+[09:40:27] P0lyakov: -97 93
+[09:40:29] vasiliy karat: ЭТО ЧТО
+[09:40:37] P0lyakov: Их база видимо основная там геотермалка
+[09:40:47] vasiliy karat: Я ПОКА ПРОСТО НАВЕДУ ТУДА ОРУЖИЕ
+[09:41:03] ɴʀɢᴏss killed A1M I AlimbeiskiyZOV using tfa_doimp40
+[09:41:05] Dropped "Norimura" from server<STEAM_0:1:449142666>
+[09:41:05] Norimura suicided!
+[09:41:27] vasiliy karat: ОЧЕНЬ ДАВНО 
+[09:42:14] Client "Phalanx" connected.
+[09:42:20] Client "nick" spawned in server <STEAM_0:1:713394278> (took 297 seconds).
+[09:42:36] Косинус: надо 280 advanced parts
+[09:42:54] Dropped "A1M I AlimbeiskiyZOV" from server<STEAM_0:1:190132410>
+[09:42:54] A1M I AlimbeiskiyZOV suicided!
+[09:42:54] Client "A1M I AlimbeiskiyZOV" connected.
+[09:43:00] Косинус: supply radio: advanced parts 280
+[09:43:00] SUMTER: !motd
+[09:43:09] vasiliy karat: ПРИЕМ АЛЕ
+[09:43:09] SUMTER: playermodel_selector
+[09:43:12] Косинус: supply radio: advanced parts
+[09:43:17] vasiliy karat: АЛЬЯНСЕРЫ НАШИ А
+[09:43:20] kuputochek: нет
+[09:43:23] vasiliy karat: НУЖНО ВЫРУБАТЬ РАДИО
+[09:43:26] vasiliy karat: А ТО У НАС С НИМИ
+[09:43:29] Client "A1M I AlimbeiskiyZOV" spawned in server <STEAM_0:1:190132410> (took 35 seconds).
+[09:43:31] vasiliy karat: ОДНА ВОЛНА
+[09:43:37] P0lyakov: расторгни альянс
+[09:43:37] Косинус: supply radio: advanced parts
+[09:43:39] P0lyakov: нргос
+[09:43:46] P0lyakov: с альянсерами
+[09:43:50] P0lyakov: они наши частоты слушают
+[09:43:56] Client "Phalanx" spawned in server <STEAM_0:0:239878329> (took 102 seconds).
+[09:44:03] P0lyakov: это не я
+[09:44:05] Mannytko: АЛЕ
+[09:44:07] Mannytko: ПРИЕМ
+[09:44:09] Mannytko: ВОЙНУ ОТМЕНИТЕ
+[09:44:20] Mannytko: АЛЕ РУСНЯ
+[09:44:25] A1M I AlimbeiskiyZOV killed Phalanx using wep_jack_gmod_hands
+[09:44:28] Mannytko: ХТО НЕ СКАЧЕ ТОТ МАСКАЛЬ
+[09:45:32] P0lyakov: -30 -9
+[09:45:36] Client "fox4309" connected.
+[09:45:39] Dropped "Phalanx" from server<STEAM_0:0:239878329>
+[09:45:39] Phalanx suicided!
+[09:45:42] P0lyakov: СТОЙ
+[09:45:45] P0lyakov: НЕ ЩАС ПРЯМ
+[09:45:51] vasiliy karat: Я НАВЕДУ БРАД
+[09:45:56] P0lyakov: Они ушли
+[09:45:58] P0lyakov: не все отмена
+[09:46:02] kuputochek: але
+[09:46:03] P0lyakov: боевая готовность нуль
+[09:46:05] Косинус: Я ДАУН
+[09:46:06] kuputochek: меня слышно
+[09:46:09] Косинус: Я ЕБЛАН
+[09:46:10] kuputochek: я из рации
+[09:46:13] Косинус: Я НЕ ТЕ ЗАПЧАСТИ ЗАКАЗАЛ
+[09:46:14] kuputochek: але
+[09:46:15] Косинус: НАДО БЫЛО СИНИЕ
+[09:46:16] kuputochek: кто нибудь
+[09:46:30] kuputochek: supply radio: global message
+[09:46:32] P0lyakov: надо радио2
+[09:46:33] Косинус: меня бы зарядить газиком...
+[09:46:40] Косинус: да
+[09:46:53] Косинус: только буду летать я.
+[09:47:07] vasiliy karat: КАРТА
+[09:47:09] vasiliy karat: ДИБИЛЬНАЯ
+[09:47:11] vasiliy karat: РЕСЫ
+[09:47:13] Client "Derlim" spawned in server <STEAM_0:0:780964867> (took 2034 seconds).
+[09:47:14] vasiliy karat: ПОД ЗЕМЛЕЙ
+[09:47:26] Mannytko set the hp for Themself to 120
+[09:47:26] Mannytko: !hp mann 120
+[09:47:31] P0lyakov: Слушаю
+[09:47:31] Client "Phalanx" connected.
+[09:47:35] kuputochek: ал
+[09:47:38] kuputochek: але
+[09:47:39] Mannytko: ALE
+[09:47:41] Client "Gayka" connected.
+[09:47:43] vasiliy karat: ОНИ СЛУШАЮТ
+[09:47:44] kuputochek: рация сделана
+[09:47:44] vasiliy karat: НАС
+[09:47:48] vasiliy karat: ШИФРУЙТЕС
+[09:47:49] Mannytko: ПРОСЛУШКА
+[09:47:50] Mannytko: ФСБ
+[09:47:53] P0lyakov: отлично
+[09:47:56] P0lyakov: ТОМА ТОМА ТОМА
+[09:48:03] vasiliy karat: АЛЕКСЕЙ БОРИС ПЯТТ
+[09:48:05] kuputochek: mannytko не грязните эфир
+[09:48:08] kuputochek: все топ
+[09:48:10] Mannytko: ЭТО ЭТО
+[09:48:12] kuputochek: я вас слышу
+[09:48:14] Client "Phalanx" spawned in server <STEAM_0:0:239878329> (took 43 seconds).
+[09:48:19] vasiliy karat: КУПУТОК ОНИ НАС СЛЫШАТ 
+[09:48:22] vasiliy karat: ПРОСЛУШКА
+[09:48:24] vasiliy karat: НАДОЕ
+[09:48:24] kuputochek: не
+[09:48:25] kuputochek: т
+[09:48:26] Косинус: 300 стали ещё
+[09:48:27] vasiliy karat: ШИФРОВАТЬСЯ
+[09:48:29] kuputochek: не слышат
+[09:48:40] Client "Gayka" spawned in server <STEAM_0:0:521212749> (took 59 seconds).
+[09:48:45] kuputochek: ладно конец связи
+[09:48:53] Derlim killed A1M I AlimbeiskiyZOV using wep_jack_gmod_hands
+[09:49:02] P0lyakov: НРГОС РАСТОРГНИ АЛЬЯНС
+[09:49:17] Mannytko: Ц
+[09:49:18] Mannytko: Ц
+[09:49:23] Gayka killed Derlim using wep_jack_gmod_hands
+[09:49:45] Gayka killed A1M I AlimbeiskiyZOV using wep_jack_gmod_hands
+[09:49:56] Client "Rackman" connected.
+[09:50:00] kuputochek: але
+[09:50:05] P0lyakov: Да бляяя
+[09:50:09] Балтика 9 killed A1M I AlimbeiskiyZOV using tfa_doiluger
+[09:50:11] vasiliy karat: ЭЙ
+[09:50:11] P0lyakov: мне нужно на точку одну
+[09:50:26] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 30 seconds).
+[09:50:52] kuputochek: але
+[09:50:55] glaSOO killed A1M I AlimbeiskiyZOV using tfa_doimp40
+[09:50:55] vasiliy karat: А
+[09:51:00] kuputochek: слышу у вас выстрелы
+[09:51:02] Косинус: топливо нужно ещё
+[09:51:03] vasiliy karat: ЭТО ОНИ
+[09:51:05] kuputochek: что происходит
+[09:51:06] vasiliy karat: ОНИ ТУТ
+[09:51:07] P0lyakov: -27 1
+[09:51:09] kuputochek: понел
+[09:51:11] kuputochek: бегу
+[09:51:14] Gayka was killed by lvs_wheeldrive_citroen_type23
+[09:51:14] Rackman teleported to Mannytko
+[09:51:14] Rackman: !goto Mannytko
+[09:51:18] Derlim: !motd
+[09:51:23] Rackman teleported to maksumkolesnukov022
+[09:51:23] Rackman: !goto maksumkolesnukov022
+[09:51:25] Косинус: щас
+[09:51:29] Косинус: полёт валькирий включу
+[09:51:32] maksumkolesnukov022: но я отдельно от них живу
+[09:51:36] maksumkolesnukov022: на этой скале у края карты
+[09:51:49] kuputochek: ушел
+[09:51:51] kuputochek: обратно
+[09:51:54] maksumkolesnukov022: ну там серебро есть у меня 
+[09:51:55] P0lyakov: ВЕРТОЛЕТ 330
+[09:52:02] maksumkolesnukov022: я думаю смогут обеспечить нас
+[09:52:13] maksumkolesnukov022: если чё заставим
+[09:52:16] kuputochek: ушел
+[09:52:20] maksumkolesnukov022: емае
+[09:52:23] kuputochek: не смей обратно
+[09:52:23] Dropped "SUMTER" from server<STEAM_0:0:242827899>
+[09:52:23] SUMTER suicided!
+[09:52:23] maksumkolesnukov022: можно
+[09:52:24] P0lyakov: ВЕРТОЛЕТ 65
+[09:52:29] P0lyakov: 47
+[09:52:42] maksumkolesnukov022: воды
+[09:52:48] maksumkolesnukov022: типа просто добавь воды игрушка
+[09:52:49] P0lyakov: Это с базы этих
+[09:52:51] P0lyakov: славянистов
+[09:52:53] kuputochek killed A1M I AlimbeiskiyZOV using tfa_doiwelrod
+[09:53:02] P0lyakov: Отлично
+[09:53:05] kuputochek: не иди
+[09:53:14] kuputochek: нельзя
+[09:53:18] kuputochek: иди обратно
+[09:53:23] kuputochek: я стена
+[09:53:24] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbattery
+[09:53:30] kuputochek: да
+[09:53:30] Derlim: Чувак отьебись пожалуйста
+[09:53:36] A1M I AlimbeiskiyZOV killed Derlim using wep_jack_gmod_hands
+[09:53:39] kuputochek: я тебя и так спас
+[09:53:41] P0lyakov: Вертолет 250
+[09:54:16] vasiliy karat: НАДО САМИМ НАПАДАТЬ
+[09:54:17] vasiliy karat: ОНИ
+[09:54:18] vasiliy karat: СЛАБЫ
+[09:54:18] P0lyakov: надо противотанковку
+[09:54:23] vasiliy karat: НАДО ОТОМСТИИТЬ
+[09:54:49] P0lyakov killed A1M I AlimbeiskiyZOV using tfa_doisw1917
+[09:55:01] A1M I AlimbeiskiyZOV: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:55:02] A1M I AlimbeiskiyZOV: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:55:06] A1M I AlimbeiskiyZOV: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:55:07] A1M I AlimbeiskiyZOV: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:55:20] Косинус: я приземлился чётко
+[09:55:20] P0lyakov: ПРОТИВОТАНКОВУЮ ВИНТОВКУ ХОЧУ СКРАФИТИТЬ
+[09:55:23] kuputochek: але
+[09:55:24] Косинус: просто перевернулся немного
+[09:55:40] vasiliy karat: НРГОС
+[09:55:42] vasiliy karat: ИБИД СЮАД
+[09:55:45] vasiliy karat: ВОТ ДРЕЛЬ
+[09:55:52] vasiliy karat: А ЛАДНО
+[09:56:04] vasiliy karat: Я ПОСТАВЛЮ НА ЧТО НИБУДЬ
+[09:56:05] vasiliy karat: ДРУГОЕ
+[09:56:43] vasiliy karat: МАН
+[09:56:44] vasiliy karat: СКАЖИ
+[09:56:46] vasiliy karat: КООРДЫ ИХ
+[09:56:48] vasiliy karat: БАЗЫ
+[09:56:54] Mannytko: *drop
+[09:56:56] Mannytko: *drop
+[09:57:26] Dropped "Phalanx" from server<STEAM_0:0:239878329>
+[09:57:26] Phalanx suicided!
+[09:57:50] frouzent: я кушать пошел
+[09:58:23] vasiliy karat: ДА
+[09:58:24] vasiliy karat: ТЫ 
+[09:58:26] vasiliy karat: ТУТ СИСТЕМА
+[09:58:27] vasiliy karat: УМНАЯ ЩАС
+[09:58:29] vasiliy karat: ПОКАЖУ
+[09:58:35] Mannytko: *drop
+[09:58:39] vasiliy karat: ВСЕ
+[09:58:41] vasiliy karat: ОНА НЕ УПАДЕТ
+[09:58:53] P0lyakov: нужен оружейный ящик наверх
+[09:59:05] P0lyakov: да
+[09:59:26] Dropped "A1M I AlimbeiskiyZOV" from server<STEAM_0:1:190132410>
+[09:59:26] A1M I AlimbeiskiyZOV suicided!
+[09:59:26] P0lyakov: Я второй оружейный ящик ща сделаю
+[09:59:31] Косинус: я также хороший танкист ребята
+[09:59:51] Косинус: не обращайте внимания что у меня вертолёт взорвался на земле
+[10:00:42] vasiliy karat: 80 12
+[10:00:58] vasiliy karat: АЙ
+[10:01:00] vasiliy karat: ИЗВИНИ
+[10:01:02] vasiliy karat: Я ТУТ
+[10:01:05] vasiliy karat: КЕРАМИКУ ИЩУ
+[10:01:33] Dropped "Derlim" from server<STEAM_0:0:780964867>
+[10:01:33] Derlim suicided!
+[10:01:43] vasiliy karat: ЭЙ
+[10:01:52] vasiliy karat: НИГА АЛЯРМ
+[10:01:54] vasiliy karat: У НИХ ТАМ
+[10:01:55] vasiliy karat: РАКМАН
+[10:01:57] vasiliy karat: ИХ 8
+[10:02:18] vasiliy karat: В ИХ ВЕТКЕ ИСЛЕДОВАНИЙ ОТКРЫТА ВЕТВ НЕГРОТЕК
+[10:02:40] P0lyakov: 244 замечена посылка
+[10:03:21] Косинус: можно с вами? я с мушкетом
+[10:03:58] Client "✞ sosuska ✞" connected.
+[10:04:21] vasiliy karat: ЯЫ
+[10:04:41] P0lyakov: ВЫСТРЕЛ 219 ОДИН ЧЕЛОВЕК
+[10:04:50] P0lyakov: УКРЕПРАЙОН ХГ
+[10:04:51] P0lyakov: ПРИЕМ
+[10:04:53] P0lyakov: ПРИЕМ
+[10:04:57] vasiliy karat: КООРДИНАТЫ
+[10:05:02] P0lyakov: 102 30
+[10:05:06] P0lyakov: СТРЕЛЬБА
+[10:05:13] P0lyakov: За камнями
+[10:05:20] vasiliy karat: ОН НА ХОЛМЕ
+[10:05:25] vasiliy karat: ЩАС
+[10:05:25] vasiliy karat: СТОЙТЕ
+[10:05:32] APOJOPE killed ɴʀɢᴏss using tfa_doik98_scop
+[10:05:34] vasiliy karat: ЩИТ
+[10:05:39] vasiliy karat: СТОЯТЬ
+[10:06:24] Client "Pronin" connected.
+[10:06:38] Косинус: мне надо 300 топлива.
+[10:06:48] Client "finik" connected.
+[10:06:54] vasiliy karat: А ИЗ КАКОЙ ОН ФРАКЦИИ ?:
+[10:07:02] APOJOPE killed kuputochek using tfa_doik98_scop
+[10:07:21] Mannytko killed APOJOPE using tfa_doimp40
+[10:07:41] frouzent suicided!
+[10:07:43] Балтика 9 killed vasiliy karat using tfa_at_akm_eft
+[10:08:01] P0lyakov killed frouzent using tfa_verdun_tankgewehr
+[10:08:02] Балтика 9 killed vasiliy karat using tfa_at_akm_eft
+[10:08:06] ɴʀɢᴏss killed Балтика 9 using tfa_doimp40
+[10:08:07] ɴʀɢᴏss killed glaSOO using tfa_doimp40
+[10:08:08] Client "finik" spawned in server <STEAM_0:1:876581716> (took 80 seconds).
+[10:08:35] Косинус: я готов
+[10:08:37] kuputochek: я знаю где их база
+[10:08:37] Косинус: у меня мушкет
+[10:08:47] Mannytko: *drop
+[10:09:04] kuputochek: где их база
+[10:09:16] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:09:18] kuputochek: по какой
+[10:09:23] kuputochek: по новой
+[10:09:35] P0lyakov: -97 93
+[10:09:48] kuputochek killed Балтика 9 using tfa_at_akm_eft
+[10:09:49] Mannytko: *drop
+[10:10:09] Client "pochijiin_52" connected.
+[10:10:34] kuputochek killed Косинус using tfa_at_akm_eft
+[10:10:38] Mannytko killed APOJOPE using tfa_doimp40
+[10:10:42] Mannytko: *drop
+[10:10:57] maksumkolesnukov022: ПРОДАВАЙТЕ СЕРЕБРО
+[10:11:01] maksumkolesnukov022: Я ПОЙДУ ЕБАНУ АРТУ
+[10:11:01] vasiliy karat: С ЗАДИ
+[10:11:02] vasiliy karat: КТ ОТО
+[10:11:08] kuputochek: хп
+[10:11:21] Mannytko: *drop
+[10:11:22] maksumkolesnukov022: ЭТИ ГЕНЕРАТЫ ОБСТРЕЛИВАЮТ НАС АРТИЛЛЕРИЕЙ
+[10:11:22] kuputochek: отхил
+[10:11:25] Косинус killed nick using tfa_doim1carbine
+[10:11:34] kuputochek: але
+[10:11:40] kuputochek: манотка
+[10:11:45] kuputochek: хилэ1
+[10:12:09] APOJOPE killed APOJOPE
+[10:12:10] vasiliy karat: НЕЗНА
+[10:12:24] kuputochek: маотка
+[10:12:33] Косинус killed kuputochek using tfa_doim1carbine
+[10:12:34] Косинус killed Mannytko using tfa_doim1carbine
+[10:12:37] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:12:54] Косинус killed frouzent using tfa_doim1carbine
+[10:13:11] vasiliy karat: ОНИ ВОТ ЗАЛЛУТАЛИ
+[10:13:18] vasiliy karat: ВО
+[10:13:20] vasiliy karat: Я ЗАЛУТАЛ1
+[10:13:21] Gayka killed Косинус using tfa_doik98_scop
+[10:13:29] Mannytko: *drop
+[10:13:30] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[10:13:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezchemicals
+[10:13:39] vasiliy karat: ЩАС
+[10:13:41] vasiliy karat: СНАРЯДЫ
+[10:14:09] Балтика 9 killed P0lyakov using tfa_doisten
+[10:14:23] ɴʀɢᴏss killed Балтика 9 using tfa_at_akm_eft
+[10:14:23] vasiliy karat: КАК ТЫ МОГ МАКС
+[10:14:27] vasiliy karat: МЫ ЖЕ СПЛИНТЕРЫ
+[10:14:30] Gayka killed ɴʀɢᴏss using tfa_doik98_scop
+[10:14:39] nick killed Mannytko using tfa_doisten
+[10:14:48] frouzent killed frouzent
+[10:14:51] Балтика 9 killed ɴʀɢᴏss using ent_jack_gmod_ezchlorineparticle
+[10:14:56] vasiliy karat: У НАС ВОЙНА
+[10:15:06] Mannytko: *drop
+[10:15:07] Mannytko killed Mannytko
+[10:15:09] kuputochek killed nick using tfa_doik98_scop
+[10:15:24] vasiliy karat: С ЗАДИ
+[10:15:24] APOJOPE killed ɴʀɢᴏss using tfa_doienfield
+[10:15:26] vasiliy karat: УКРП
+[10:15:27] P0lyakov killed APOJOPE using tfa_doisw1917
+[10:15:30] vasiliy karat killed vasiliy karat
+[10:15:38] Mannytko: *drop
+[10:15:41] Косинус killed kuputochek using tfa_doig43
+[10:15:42] Косинус killed Mannytko using tfa_doig43
+[10:16:01] ɴʀɢᴏss killed ɴʀɢᴏss
+[10:16:09] Балтика 9 killed Балтика 9
+[10:16:12] Балтика 9 killed frouzent using ent_jack_gmod_ezchlorineparticle
+[10:16:13] kuputochek killed kuputochek
+[10:16:37] ɴʀɢᴏss killed ɴʀɢᴏss
+[10:16:44] Mannytko: *drop
+[10:16:48] Косинус killed Mannytko using tfa_doig43
+[10:16:57] Allkot5 killed kuputochek using tfa_doilewis
+[10:17:03] glaSOO killed frouzent using ent_jack_gmod_ezchlorineparticle
+[10:17:11] maksumkolesnukov022 suicided!
+[10:17:14] vasiliy karat: ДАВАЙ ОБСТРЯЛЕЮ
+[10:17:20] ɴʀɢᴏss killed ɴʀɢᴏss
+[10:17:36] maksumkolesnukov022: СЕРЕБРО УПАЛо
+[10:17:37] maksumkolesnukov022: ДО 7
+[10:17:48] Mannytko killed Косинус using tfa_doimp40
+[10:17:48] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:17:53] P0lyakov: 36 6
+[10:18:01] maksumkolesnukov022: ЗОЛОТО
+[10:18:06] P0lyakov: 36 -6 за камнем
+[10:18:08] kuputochek killed Allkot5 using tfa_doienfield
+[10:18:15] maksumkolesnukov022: нефть 0.1
+[10:18:18] maksumkolesnukov022: топливо 16
+[10:18:56] kuputochek killed APOJOPE using tfa_doilewis
+[10:18:58] glaSOO killed vasiliy karat using tfa_doi_m16a1
+[10:19:02] Балтика 9 was killed by entityflame
+[10:19:05] nick killed kuputochek using tfa_smc_ppsh_drum
+[10:19:06] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:19:07] glaSOO was killed by entityflame
+[10:19:10] maksumkolesnukov022: ХИМИКАТЫ
+[10:19:16] finik killed Gayka using tfa_doik98_scop
+[10:19:19] nick killed kuputochek using tfa_smc_ppsh_drum
+[10:19:39] nick killed kuputochek using tfa_smc_ppsh_drum
+[10:19:40] maksumkolesnukov022: ВОЗЬМИ ЯЩИК ЭТОТ
+[10:19:54] Косинус: *drop
+[10:19:57] Косинус: !drop
+[10:20:06] maksumkolesnukov022: ОТСЮДА ПРОДАЙ ХИМИКАТЫ
+[10:20:15] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezmunitions
+[10:20:17] vasiliy karat killed nick using tfa_doienfield
+[10:20:27] Mannytko killed Косинус using tfa_doimp40
+[10:20:27] vasiliy karat: Я НА БАЗУ
+[10:20:29] kuputochek: хи
+[10:20:45] Косинус: оооо
+[10:20:47] Косинус: ну вот это я поведу
+[10:21:14] Client "baikal" connected.
+[10:21:36] ɴʀɢᴏss killed frouzent using tfa_at_akm_eft
+[10:22:02] P0lyakov: 36 6 снайпер
+[10:22:49] vasiliy karat: ЕГО ТАМ НЕТ
+[10:22:51] vasiliy karat: УЖЕ
+[10:22:53] P0lyakov: бля
+[10:23:02] P0lyakov killed Mannytko using tfa_doisw1917
+[10:23:02] Балтика 9 killed Gayka using tfa_doisten
+[10:23:20] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:23:23] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[10:23:24] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[10:23:24] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcoolant
+[10:23:46] Allkot5 was killed by ent_jack_gmod_ezsentry
+[10:23:48] Косинус killed vasiliy karat using tfa_doim1919
+[10:23:51] Косинус killed ɴʀɢᴏss using tfa_doim1919
+[10:23:52] P0lyakov killed Косинус using ent_panzerschreck_shell_v2
+[10:23:53] maksumkolesnukov022: ДЕЛАЕМ ТАНКИ ТАК
+[10:24:04] kuputochek killed Allkot5 using tfa_smc_ppsh_drum
+[10:24:15] kuputochek killed Allkot5 using tfa_smc_ppsh_drum
+[10:24:24] APOJOPE suicided!
+[10:24:28] kuputochek: не смей
+[10:24:31] Mannytko: *drop
+[10:24:34] kuputochek killed Allkot5 using tfa_smc_ppsh_drum
+[10:24:35] Косинус: ребят у них там пиздец
+[10:24:40] Косинус: им прям базу рейдят
+[10:24:50] glaSOO killed ɴʀɢᴏss using tfa_doik98_scop
+[10:25:26] ɴʀɢᴏss killed ɴʀɢᴏss
+[10:25:44] glaSOO killed finik using tfa_doik98_scop
+[10:25:49] vasiliy karat: У НАС 97 ХП
+[10:25:50] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[10:26:06] glaSOO killed finik using tfa_doik98_scop
+[10:26:22] Mannytko: *drop
+[10:26:28] glaSOO killed finik using tfa_doip38
+[10:26:41] vasiliy karat: С ЗАДИ ВРОДЕ КТО ТО ЕЩЕ
+[10:26:41] Mannytko killed Косинус using tfa_doim1919
+[10:26:46] glaSOO killed finik using tfa_doik98_scop
+[10:26:53] Косинус: ОНИ КОНТРАТАКУЮТ
+[10:27:18] Rackman killed Mannytko
+[10:27:18] Rackman killed Gayka
+[10:27:19] frouzent was killed by ent_jack_gmod_ezsentry
+[10:27:38] vasiliy karat: АРТА НИЧЕ НЕ СДЕЛАЕТ
+[10:27:44] vasiliy karat: ТАМ НАДО ОГНЕМЕТЫ
+[10:27:58] vasiliy karat: ЗА КАМНЕМ
+[10:28:00] Client "baikal" connected.
+[10:28:00] Mannytko: *drop
+[10:28:21] vasiliy karat killed finik using tfa_doilewis
+[10:28:33] Client "baikal" connected.
+[10:28:36] Rackman killed Mannytko using lvs_wheeldrive_dodtiger
+[10:28:36] Gayka killed Allkot5 using tfa_doienfield
+[10:28:58] Gayka killed maksumkolesnukov022 using tfa_doienfield
+[10:29:01] Косинус killed ɴʀɢᴏss using tfa_doisten
+[10:29:01] Rackman killed P0lyakov
+[10:29:03] frouzent was killed by ent_jack_gmod_ezsentry
+[10:29:14] Rackman killed frouzent
+[10:29:17] Mannytko was killed by ent_jack_gmod_ezsentry
+[10:29:20] APOJOPE was killed by ent_jack_gmod_ezsentry
+[10:29:27] Косинус killed ɴʀɢᴏss using tfa_doisten
+[10:29:30] Rackman killed vasiliy karat using lvs_wheeldrive_dodtiger
+[10:29:33] Косинус killed frouzent using tfa_doisten
+[10:29:41] Косинус killed Mannytko using tfa_doisten
+[10:29:42] nick killed finik using tfa_doisten
+[10:29:44] Косинус killed P0lyakov using tfa_doisten
+[10:29:50] Gayka killed maksumkolesnukov022 using tfa_doienfield
+[10:30:02] Косинус killed Gayka using tfa_doisten
+[10:30:06] kuputochek: как
+[10:30:15] vasiliy karat: КУДА
+[10:30:16] vasiliy karat: ВСЕ
+[10:30:19] vasiliy karat: МЫ ПРОИГРАЛИ
+[10:30:25] kuputochek: как мы проиграли
+[10:30:27] Косинус: это было эпично.
+[10:30:36] glaSOO killed ɴʀɢᴏss using tfa_smc_ppsh_drum
+[10:30:38] kuputochek killed APOJOPE using tfa_smc_ppsh_drum
+[10:30:48] Косинус killed Mannytko using tfa_doisten
+[10:30:55] vasiliy karat: КАРАТЕЛЬНЫЕ ОТРЯДЫ
+[10:30:56] vasiliy karat: БЕЖИМ
+[10:30:57] maksumkolesnukov022: ЩАС ПОЕДЕМ
+[10:30:57] Gayka killed glaSOO using tfa_doispringfield
+[10:31:01] Балтика 9 killed Gayka using tfa_doisten
+[10:31:01] Косинус killed ɴʀɢᴏss using tfa_doisten
+[10:31:03] frouzent killed Косинус using tfa_doik98_scop
+[10:31:09] vasiliy karat: ДА ЧЕЕ ВЫ
+[10:31:12] vasiliy karat: ДЕЛАЕТЕ
+[10:31:17] vasiliy karat: ВСЕ
+[10:31:19] vasiliy karat: УХОДИМ
+[10:31:33] vasiliy karat: УХОДИМ
+[10:31:36] maksumkolesnukov022: НУЖНО ТОПИЛВО
+[10:31:39] Allkot5 killed Mannytko using tfa_doik98_scop
+[10:31:42] vasiliy karat: ОНИ КОНЦЛАГЕРЬ СДЕЛАЮТ
+[10:31:45] vasiliy karat: И ПОЙМАЮТ
+[10:31:51] finik killed Gayka using tfa_doienfield
+[10:31:51] vasiliy karat: БЕГИТЕ НАФЕГ
+[10:32:05] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:32:09] Балтика 9 killed ɴʀɢᴏss using tfa_doisten
+[10:32:12] finik killed Allkot5 using tfa_doienfield
+[10:32:14] Балтика 9 killed Mannytko using tfa_doisten
+[10:32:19] P0lyakov<STEAM_0:0:60570605> spawned sent item_healthkit
+[10:32:20] P0lyakov<STEAM_0:0:60570605> spawned sent item_healthkit
+[10:32:20] P0lyakov<STEAM_0:0:60570605> spawned sent item_healthkit
+[10:32:21] P0lyakov<STEAM_0:0:60570605> spawned sent item_healthkit
+[10:32:32] kuputochek killed finik using tfa_smc_ppsh_drum
+[10:32:58] ɴʀɢᴏss killed Балтика 9 using tfa_doip38
+[10:33:00] P0lyakov killed frouzent using tfa_doispringfield
+[10:33:08] kuputochek killed finik using tfa_smc_ppsh_drum
+[10:33:14] P0lyakov killed kuputochek using tfa_doispringfield
+[10:33:20] Косинус killed frouzent using rust_eoka
+[10:33:28] glaSOO killed nick using tfa_doiluger
+[10:33:31] ɴʀɢᴏss killed Mannytko using tfa_smc_ppsh_drum
+[10:33:53] Allkot5 killed kuputochek using tfa_doisten
+[10:34:03] ɴʀɢᴏss killed Allkot5 using tfa_smc_ppsh_drum
+[10:34:25] ɴʀɢᴏss killed Gayka using tfa_smc_ppsh_drum
+[10:34:26] frouzent killed Косинус using tfa_doik98_scop
+[10:34:40] vasiliy karat: ЛУЧШЕ ЭТО ЗАКОНЧИТЬ ВСЕ
+[10:34:48] glaSOO killed Mannytko using tfa_doim1919
+[10:34:49] glaSOO killed kuputochek using tfa_doim1919
+[10:34:53] glaSOO killed frouzent using tfa_doim1919
+[10:35:04] glaSOO killed finik using tfa_doim1919
+[10:35:11] Client "baikal" spawned in server <STEAM_0:1:571265060> (took 398 seconds).
+[10:35:15] Allkot5 killed glaSOO using tfa_doisten
+[10:35:17] P0lyakov killed kuputochek using tfa_doispringfield
+[10:35:38] vasiliy karat: УМРИ МАНЮТКА Я В ПОЛИЦАИ ВСТУПИЛ
+[10:35:42] P0lyakov killed kuputochek using tfa_doispringfield
+[10:35:44] nick killed APOJOPE using wep_jack_gmod_hands
+[10:35:50] Allkot5 killed vasiliy karat using tfa_doisten
+[10:36:00] Балтика 9 killed ɴʀɢᴏss using tfa_doim1carbine
+[10:36:06] Mannytko killed Allkot5 using tfa_doisten
+[10:36:16] Mannytko killed Косинус using tfa_doisten
+[10:36:27] P0lyakov killed ɴʀɢᴏss using tfa_doispringfield
+[10:36:30] Mannytko killed finik using tfa_doisten
+[10:36:30] Mannytko killed Gayka using tfa_doisten
+[10:36:58] Rackman killed vasiliy karat using lvs_wheeldrive_dodtiger
+[10:37:51] Rackman killed ɴʀɢᴏss
+[10:37:54] kuputochek killed P0lyakov using tfa_doispringfield
+[10:38:00] glaSOO killed Gayka using tfa_doik98_scop
+[10:38:13] Allkot5 killed Mannytko using tfa_doimp40
+[10:38:34] Allkot5 killed finik using tfa_doimp40
+[10:38:41] kuputochek was killed by ent_jack_gmod_ezsentry
+[10:38:44] glaSOO killed baikal using tfa_doip38
+[10:38:45] glaSOO killed frouzent using tfa_doip38
+[10:38:49] Rackman killed ɴʀɢᴏss
+[10:39:21] P0lyakov killed Allkot5 using tfa_doisten
+[10:39:23] nick killed P0lyakov using tfa_doisten
+[10:39:30] Mannytko killed nick using tfa_doispringfield
+[10:39:34] Косинус killed finik using tfa_doimp40
+[10:39:39] Mannytko killed Балтика 9 using tfa_doispringfield
+[10:39:43] Rackman killed glaSOO
+[10:39:43] Rackman killed Mannytko
+[10:40:02] vasiliy karat: Я ЗДАЮС
+[10:40:06] vasiliy karat: Я ВОЕВАТЬ ЗА ВАС БУДУ
+[10:40:24] vasiliy karat: ПАРТИЗАНЫ ВВЕРГЛИ НАШУ СТРАНУ В ЕЩЕ ГЛУБОКУЮ ЗАДНИЦУ
+[10:40:51] Косинус killed finik using tfa_doimp40
+[10:40:59] Косинус killed frouzent using tfa_doimp40
+[10:41:04] Gayka killed Allkot5 using rust_boltrifle
+[10:41:10] vasiliy karat: ОСТАНААВИТЕ ВОЙНУ
+[10:41:12] Косинус killed Gayka using tfa_doimp40
+[10:41:22] Косинус killed Mannytko using tfa_doimp40
+[10:41:23] vasiliy karat: СДАЙТЕСЬ В ПЛЕН ОНИ НАС ПОЩАДЯТ
+[10:41:32] ɴʀɢᴏss killed vasiliy karat using rust_boltrifle
+[10:41:36] Client "Ho8a" connected.
+[10:41:43] Dropped "Балтика 9" from server<STEAM_0:0:592080962>
+[10:41:43] Балтика 9 suicided!
+[10:42:07] glaSOO killed finik using tfa_doig43
+[10:42:11] P0lyakov killed glaSOO using tfa_doiluger
+[10:42:15] nick killed P0lyakov using tfa_doisten
+[10:42:17] Косинус killed Gayka using tfa_doimp40
+[10:42:20] Dropped "glaSOO" from server<STEAM_0:1:626531518>
+[10:42:20] glaSOO suicided!
+[10:42:34] Client "deadman789" connected.
+[10:42:40] Косинус killed baikal using tfa_doimp40
+[10:42:58] Allkot5 killed Mannytko using tfa_doisten
+[10:43:04] finik killed Allkot5 using rust_boltrifle
+[10:43:11] Косинус killed frouzent using tfa_doimp40
+[10:43:13] Mannytko: *drop
+[10:43:18] finik killed Косинус using tfa_doimp40
+[10:43:23] kuputochek killed Allkot5 using tfa_doim1carbine
+[10:43:38] kuputochek killed Allkot5 using tfa_doim1carbine
+[10:43:54] Rackman killed kuputochek
+[10:44:02] finik killed maksumkolesnukov022 using tfa_doimp40
+[10:44:03] finik killed APOJOPE using tfa_doimp40
+[10:44:06] kuputochek: они на базе
+[10:44:07] kuputochek: танк
+[10:44:15] maksumkolesnukov022: ПЕРЕЗАХОДИТЬ НАДОц
+[10:44:33] kuputochek: танк
+[10:44:36] kuputochek: неи
+[10:44:37] kuputochek: нет
+[10:44:41] finik killed Косинус using tfa_doimp40
+[10:44:44] kuputochek: я только что был там
+[10:44:48] nick killed Gayka using tfa_doisten
+[10:45:01] maksumkolesnukov022: ЗАКОПАЙТЕ ТРУП ВЫ ЧЕ ДЕБИЛЫ
+[10:45:03] maksumkolesnukov022: ща перезайду кста
+[10:45:07] nick killed finik using tfa_doisten
+[10:45:08] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[10:45:08] maksumkolesnukov022 suicided!
+[10:45:08] Client "maksumkolesnukov022" connected.
+[10:45:11] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[10:45:12] Mannytko killed nick using tfa_doim3greasegun
+[10:45:18] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwater
+[10:45:30] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 22 seconds).
+[10:45:59] Rackman brought maksumkolesnukov022
+[10:45:59] Rackman: !bring maksumkolesnukov022
+[10:46:29] maksumkolesnukov022: 18
+[10:46:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:46:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:46:36] maksumkolesnukov022: ПОЧЕМУ ОНО НЕ РАБОТАЕТ
+[10:46:38] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:47:09] kuputochek killed Косинус using tfa_doiluger
+[10:47:28] Dropped "Косинус" from server<STEAM_0:1:530357188>
+[10:47:28] Косинус suicided!
+[10:48:15] maksumkolesnukov022: ГДЕ ВСЯ СТАААЛь
+[10:48:18] maksumkolesnukov022: ЕБАНЫЙ ВИРУС
+[10:48:36] vasiliy karat to admins: РУСЬ ВПУСТИТЕ ВО ФРАКЦИЮ (((
+[10:48:48] nick killed kuputochek using tfa_doisten
+[10:48:49] finik killed nick using tfa_doispringfield
+[10:48:56] Rackman killed Gayka using lvs_wheeldrive_dodtiger
+[10:49:02] finik killed APOJOPE using tfa_doispringfield
+[10:49:08] vasiliy karat to admins: Я НЕ ПРЕДАТЕЛЬ! ЭТО ВЫ ПОРТИЗАНЫ ТУПЫЕ МОГЛИ ЩАС БАВАРСКОЕ ПИТЬ
+[10:49:16] Rackman killed finik using lvs_wheeldrive_dodtiger
+[10:49:26] baikal killed Allkot5 using rust_boltrifle
+[10:49:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[10:50:04] Allkot5 killed baikal using tfa_doim1carbine
+[10:50:18] Dropped "nick" from server<STEAM_0:1:713394278>
+[10:50:18] nick suicided!
+[10:50:32] Mannytko killed APOJOPE using tfa_doim3greasegun
+[10:50:32] vasiliy karat: УМРИТЕ
+[10:50:33] Client "nick" connected.
+[10:50:51] P0lyakov killed vasiliy karat using tfa_doienfield
+[10:50:58] kuputochek: танк
+[10:50:58] Client "Ho8a" spawned in server <STEAM_0:0:640059250> (took 562 seconds).
+[10:51:06] Client "nick" spawned in server <STEAM_0:1:713394278> (took 33 seconds).
+[10:51:11] Rackman killed kuputochek using lvs_wheeldrive_dodtiger
+[10:51:22] finik killed Allkot5 using tfa_doispringfield
+[10:51:43] Rackman killed finik
+[10:51:47] kuputochek: танк
+[10:51:49] kuputochek: можно
+[10:51:51] kuputochek: сюда
+[10:51:51] frouzent was killed by ent_jack_gmod_ezsentry
+[10:51:54] kuputochek: скажу
+[10:51:54] Mannytko was killed by ent_jack_gmod_ezsentry
+[10:51:58] kuputochek: я так уже делал
+[10:52:16] Gayka killed Allkot5 using tfa_doisten
+[10:52:22] Mannytko killed vasiliy karat using tfa_doimp40
+[10:52:40] Dropped "Gayka" from server<STEAM_0:0:521212749>
+[10:52:40] Gayka suicided!
+[10:53:02] Rackman killed finik
+[10:53:12] finik: таааанк
+[10:53:41] Rackman killed Mannytko
+[10:53:58] nick killed baikal using tfa_doig43
+[10:54:05] nick killed finik using tfa_doig43
+[10:54:10] Mannytko killed frouzent using tfa_doippk
+[10:54:20] APOJOPE killed P0lyakov using lvs_wheeldrive_dodtiger
+[10:54:26] nick killed Allkot5 using tfa_doig43
+[10:54:50] baikal killed baikal
+[10:54:54] Mannytko killed maksumkolesnukov022 using tfa_doippk
+[10:54:56] Rackman killed kuputochek
+[10:55:14] Mannytko: *drop
+[10:55:40] nick killed P0lyakov using tfa_doig43
+[10:55:46] nick killed frouzent using tfa_doig43
+[10:55:48] Mannytko killed nick using tfa_doig43
+[10:56:10] finik killed Allkot5 using tfa_doippk
+[10:56:30] Mannytko: *drop
+[10:56:34] finik killed Mannytko using tfa_doig43
+[10:57:30] Allkot5 killed kuputochek using tfa_smc_ppsh_drum
+[10:57:57] Mannytko: *drop
+[10:58:38] vasiliy karat: НЕСТРЕЛЯЙТЕ
+[10:58:46] Client "Страж" connected.
+[10:59:00] vasiliy karat: Я БЕЗ ОРУЖИЯ ПРИШЕЛ
+[10:59:00] finik killed baikal using player
+[10:59:22] finik: вирус
+[10:59:31] P0lyakov<STEAM_0:0:60570605> spawned sent item_healthkit
+[10:59:31] P0lyakov<STEAM_0:0:60570605> spawned sent item_healthkit
+[10:59:34] P0lyakov<STEAM_0:0:60570605> spawned sent item_healthkit
+[10:59:47] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezifakpacket
+[10:59:54] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_eznutrients
+[10:59:57] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_eznutrients
+[10:59:58] kuputochek: я
+[11:00:00] Mannytko killed frouzent using tfa_doiluger
+[11:00:06] kuputochek: пушку припяс
+[11:00:09] ɴʀɢᴏss killed baikal using tfa_doim3greasegun
+[11:00:10] kuputochek: не смей
+[11:00:29] Dropped "kuputochek" from server<STEAM_0:0:627550509>
+[11:00:29] kuputochek suicided!
+[11:00:34] vasiliy karat: ПРЕКРАТИТИ БЕЗ ПРИЧИНУЮ ВОЙНУ НЕНАДА
+[11:00:34] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[11:00:53] vasiliy karat: ГДЕ РАДИО
+[11:01:01] vasiliy karat: НА БАЗЕ ВАШЕЙ
+[11:01:02] vasiliy karat: ПРИЛЕЬИ
+[11:01:06] vasiliy karat: ПРИЛЕТИ ТУД
+[11:01:49] frouzent: ПИЗДЕЦ
+[11:01:50] finik killed APOJOPE using tfa_doig43
+[11:01:51] finik killed Allkot5 using tfa_doig43
+[11:01:51] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[11:01:51] P0lyakov killed finik using tfa_doig43
+[11:01:58] Client "Redoket" connected.
+[11:02:01] vasiliy karat: ЭТО КТО
+[11:02:06] vasiliy karat: ИМЯ
+[11:02:16] maksumkolesnukov022: ВПЕРЁД
+[11:02:33] vasiliy karat to admins: ДА ФИНИК ЭТО ДЭБИЛ СКОЛЬКО МОЖНО ОН УЖЕ НАФЕГ ДАВНО ФИГНЕЙ СТРАДАЕТ
+[11:02:37] Mannytko: *drop
+[11:02:39] Mannytko: *drop
+[11:02:40] Mannytko: *drop
+[11:02:40] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 42 seconds).
+[11:02:41] Mannytko: *drop
+[11:02:42] Mannytko: *drop
+[11:02:44] maksumkolesnukov022: немецкая
+[11:02:45] Mannytko: *drop
+[11:03:02] maksumkolesnukov022: ТАК ЧЁ СТОИМ
+[11:03:02] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezmunitions
+[11:03:04] maksumkolesnukov022: ВПЕРЁЁЁЁД
+[11:03:55] vasiliy karat: УХОДИТЕ
+[11:03:59] vasiliy karat: КАРАТЕЛЬНЫЕ ОТРЯДЫ
+[11:04:21] vasiliy karat: ОНИ КОНЦЛАГЕРЬ НА БАЗЕ ОТСТРОИЛИ
+[11:04:51] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[11:05:09] nick killed Redoket using tfa_doienfield
+[11:05:11] nick killed Mannytko using tfa_doienfield
+[11:05:14] P0lyakov cloaked Themself by amount 0
+[11:05:14] P0lyakov: !cloak P0l
+[11:05:25] nick killed baikal using tfa_doienfield
+[11:05:27] frouzent killed nick using tfa_doig43
+[11:05:28] Dropped "baikal" from server<STEAM_0:1:571265060>
+[11:05:28] baikal suicided!
+[11:05:47] frouzent killed Allkot5 using tfa_doig43
+[11:05:50] maksumkolesnukov022 killed frouzent using tfa_smc_ppsh_drum
+[11:06:04] maksumkolesnukov022 killed finik using tfa_smc_ppsh_drum
+[11:06:29] P0lyakov granted god mode upon Themself
+[11:06:29] P0lyakov: !god P0l
+[11:06:44] vasiliy karat: ВЫ ПАРТИЗАНЫ УНИЧТОЖИЛИ НАШУ СТРАНУ
+[11:06:50] vasiliy karat: ДО КОРНЯ
+[11:06:54] nick killed finik using tfa_doienfield
+[11:07:13] nick killed Redoket using tfa_doienfield
+[11:07:21] maksumkolesnukov022 killed finik using tfa_smc_ppsh_drum
+[11:07:27] P0lyakov: Ракман
+[11:07:28] Ho8a: !menu
+[11:07:32] vasiliy karat: Е
+[11:07:33] P0lyakov: Сколько я нанес танку птшкой?
+[11:07:41] P0lyakov: ПИЗДЕЦ
+[11:07:54] maksumkolesnukov022 killed frouzent using tfa_smc_ppsh_drum
+[11:07:55] maksumkolesnukov022 killed finik using tfa_smc_ppsh_drum
+[11:08:10] vasiliy karat: ЧТО ДЕЛАТЬ НОГА
+[11:08:10] Redoket: Я НЕ КУПИРОВАЛ
+[11:08:11] vasiliy karat: ОНА ТРЯСЕТСЯ
+[11:08:14] vasiliy karat: ЭТО ФЕРМЕРЫ
+[11:08:23] Allkot5 killed nick using tfa_doienfield
+[11:08:28] Redoket: Я НЕ КУПИРОВАЛ
+[11:08:49] vasiliy karat: А
+[11:08:52] vasiliy karat: НУ Я БОМБИЛ ЭТО
+[11:08:55] vasiliy karat: ЭТО ТРЕТИЙ РЕЙХ
+[11:08:58] vasiliy karat: Я ТУТ В РАБСТВЕ БЫЛ
+[11:09:16] Client "RusLanConnection" connected.
+[11:09:23] Client "Страж" spawned in server <STEAM_0:0:512935105> (took 637 seconds).
+[11:09:31] vasiliy karat: СОЗДАЙТЕ ФРАКЦИЮ
+[11:09:48] Client "SamG" connected.
+[11:10:17] vasiliy karat: СДЕЛАЙ ФРАКУ
+[11:10:51] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 95 seconds).
+[11:10:58] Client "FoLime" connected.
+[11:11:09] vasiliy karat: Я МОГУ
+[11:11:09] Dropped "P0lyakov" from server<STEAM_0:0:60570605>
+[11:11:09] P0lyakov suicided!
+[11:11:20] finik: куда другие пошли?
+[11:11:24] Allkot5 killed Страж using tfa_doienfield
+[11:11:28] (TEAM) finik: пошли
+[11:11:28] Dropped "Страж" from server<STEAM_0:0:512935105>
+[11:11:29] Страж suicided!
+[11:11:32] RusLanConnection cloaked Themself by amount 0
+[11:11:38] finik: ну токда вместе
+[11:11:49] maksumkolesnukov022: ракман будь зондбе переверни тачку 
+[11:12:04] Client "FoLime" connected.
+[11:13:39] vasiliy karat: Э
+[11:13:45] vasiliy karat: СЕЛО ПАРТИЗАНСКОЕ
+[11:13:56] vasiliy karat: НУ
+[11:13:57] vasiliy karat: ЭТО
+[11:14:00] vasiliy karat: УШЛИ
+[11:14:03] vasiliy karat: ДАНЬ ИСТОРИИ
+[11:14:08] RusLanConnection teleported to Redoket
+[11:14:11] vasiliy karat: Э
+[11:14:15] vasiliy karat: ТИПО ПАРТИЗАНЫ УШЛИ
+[11:14:19] vasiliy karat: НУ
+[11:14:24] RusLanConnection to admins: редокет поменяй название сквада
+[11:14:51] Client "SamG" spawned in server <STEAM_0:0:181358800> (took 303 seconds).
+[11:14:53] vasiliy karat: НАЗОВИ
+[11:14:56] vasiliy karat: БУРМАЛДАНИЯ
+[11:15:20] maksumkolesnukov022: давай разберём и в контейнер всё с разбора
+[11:16:23] maksumkolesnukov022: могилы тоже заберём
+[11:16:36] maksumkolesnukov022: ЭЭЭЭ
+[11:16:40] maksumkolesnukov022: В КОЛЛЕКЦИЮ
+[11:16:43] maksumkolesnukov022: МОГИЛЫ
+[11:16:45] maksumkolesnukov022: МНЕ
+[11:17:22] vasiliy karat: СЕМЕНА
+[11:17:26] vasiliy karat: РАЗБИРАЮОСЯ
+[11:18:02] vasiliy karat: ДА ЗАЧЕМ АЛЬЯНС
+[11:18:05] vasiliy karat: МЫ ИХ ДАЖЕ НЕ  ВИДИЛИ
+[11:18:11] Ho8a: /rob
+[11:18:18] vasiliy karat: НУ НЕ АЛЬЯНС
+[11:18:31] APOJOPE killed maksumkolesnukov022 using player
+[11:18:49] Dropped "Ho8a" from server<STEAM_0:0:640059250>
+[11:18:49] Ho8a suicided!
+[11:19:26] Dropped "SamG" from server<STEAM_0:0:181358800>
+[11:19:26] SamG suicided!
+[11:19:27] Client "SamG" connected.
+[11:19:42] finik: я нашел уголь
+[11:19:48] Redoket: не нада
+[11:19:55] finik: а вода?
+[11:20:05] Redoket: можна
+[11:20:08] Client "SamG" spawned in server <STEAM_0:0:181358800> (took 41 seconds).
+[11:20:49] Dropped "SamG" from server<STEAM_0:0:181358800>
+[11:20:49] SamG suicided!
+[11:20:51] Rackman<STEAM_0:0:221849271> spawned ragdoll models/humans/group03/female_02.mdl
+[11:20:56] maksumkolesnukov022: МОГИЛЫ НЕ РАЗБИРАТЬ
+[11:20:58] maksumkolesnukov022: МОЯ ПРЕЛЕСТЬ
+[11:21:06] vasiliy karat: НА НАШЕЙ БАЗЕ
+[11:21:13] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/sawblade001a.mdl
+[11:21:14] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/sawblade001a.mdl
+[11:21:14] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/sawblade001a.mdl
+[11:21:15] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/sawblade001a.mdl
+[11:21:33] maksumkolesnukov022: там в окопе где грузовик
+[11:21:38] maksumkolesnukov022: есть физган
+[11:21:41] maksumkolesnukov022: берите и тащите
+[11:21:43] APOJOPE: оптп\
+[11:21:47] Redoket: ТАМ ЗООЛОТО
+[11:21:50] Redoket: ОНО ВАЖНЕЕ
+[11:21:54] vasiliy karat: ПОШЛИТЕ
+[11:21:57] vasiliy karat: ВОРОВАТЬ
+[11:21:59] vasiliy karat: НА НАШЕЙ БАЗЕ
+[11:22:01] vasiliy karat: СЕРЕБРО
+[11:22:02] vasiliy karat: ПОШЛИТЕ
+[11:22:07] Redoket: АТДАЙ КИРКУ
+[11:22:08] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:22:18] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:22:20] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:22:21] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:22:23] vasiliy karat: МАН
+[11:22:25] vasiliy karat: ЮТЕ
+[11:22:40] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:22:41] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:22:43] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:22:44] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:22:48] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:22:49] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:22:51] APOJOPE suicided!
+[11:23:04] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:23:19] Client "бугагашенька" connected.
+[11:23:23] Rackman<STEAM_0:0:221849271> spawned ragdoll models/gibs/fast_zombie_torso.mdl
+[11:23:33] Redoket: ЩАС
+[11:24:08] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 49 seconds).
+[11:24:35] finik: к тебе пришли
+[11:24:41] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[11:24:41] бугагашенька suicided!
+[11:24:43] finik: помогать пришли
+[11:24:44] Rackman<STEAM_0:0:221849271> spawned model models/gibs/helicopter_brokenpiece_01.mdl
+[11:24:46] Rackman<STEAM_0:0:221849271> spawned model models/gibs/antlion_gib_large_2.mdl
+[11:25:34] vasiliy karat: БЫЛО БЫ 
+[11:25:41] vasiliy karat: КРУТО СДЕЛАТ ЬЧТОБЫ ВИРУС
+[11:25:44] Rackman<STEAM_0:0:221849271> spawned ragdoll models/gibs/fast_zombie_torso.mdl
+[11:25:45] vasiliy karat: ЛЕЧИЛСЯ ЛЕГЧЕ
+[11:25:48] vasiliy karat: А ТО ЧАС
+[11:25:50] vasiliy karat: ЛЕЧИШЬСЯ
+[11:25:50] finik: да хрен знает их
+[11:26:05] vasiliy karat: НУ БЕЗ
+[11:26:06] vasiliy karat: МЕДЕЦИНЫ
+[11:26:10] vasiliy karat: ТЫ ПОМРЕШ
+[11:26:12] vasiliy karat: НУ ХОТЯДЫ
+[11:26:18] finik: нету физгана
+[11:26:22] vasiliy karat: А ЧТО ТАКОЕ
+[11:26:23] vasiliy karat: БУСТИНГ
+[11:26:28] vasiliy karat: ИМУНИТЕТ
+[11:26:34] vasiliy karat: НЕ
+[11:26:43] vasiliy karat: А ВДРУГ ЭТО ГОВНО ПРОСТО ТЕКСТ
+[11:26:47] nick killed APOJOPE using tfa_doienfield
+[11:27:18] vasiliy karat: ТАМ
+[11:27:20] Client "FoLime" spawned in server <STEAM_0:1:548346148> (took 916 seconds).
+[11:27:20] vasiliy karat: ДРУЗЬЯ
+[11:27:22] vasiliy karat: ЗВОНЯТ
+[11:27:33] vasiliy karat: АЛЕ
+[11:27:37] Rackman<STEAM_0:0:221849271> spawned model models/props_canal/mattpipe.mdl
+[11:27:44] Rackman<STEAM_0:0:221849271> spawned model models/props_docks/dock01_pole01a_128.mdl
+[11:27:47] Rackman<STEAM_0:0:221849271> spawned model models/props_docks/dock01_pole01a_128.mdl
+[11:28:00] RusLanConnection teleported to Rackman
+[11:28:01] RusLanConnection teleported to Mannytko
+[11:28:34] vasiliy karat: ЛИГА НАЦИЙ
+[11:28:35] vasiliy karat: ЭТО ЭЕ
+[11:28:43] vasiliy karat: ЭТО ЖЕ НЕ СТРАНА
+[11:28:47] vasiliy karat: ЭТО АЛЬЯНС СТРАН
+[11:29:24] vasiliy karat: ДАВАЙТЕ В ПЛЕН ВОЗЬМЕМ 
+[11:29:29] vasiliy karat: И
+[11:29:30] vasiliy karat: ВЫКУП
+[11:29:32] vasiliy karat: ПРОСИТЬ БУДЕМ
+[11:30:02] vasiliy karat: СВАДЬБА
+[11:30:03] vasiliy karat: ВВ СЕЛЕ
+[11:31:09] vasiliy karat: ЗЕМЛЕТРЯСЕНИЕ
+[11:31:16] nick killed FoLime using tfa_doienfield
+[11:31:21] finik killed APOJOPE using tfa_doippk
+[11:31:33] finik killed RusLanConnection using tfa_doippk
+[11:31:34] vasiliy karat killed finik using tfa_doiluger
+[11:31:45] RusLanConnection teleported to APOJOPE
+[11:31:54] finik: как труп лутать?
+[11:32:16] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezutilitycrate
+[11:33:16] RusLanConnection teleported to Mannytko
+[11:33:22] vasiliy karat to admins: FINIK
+[11:33:54] APOJOPE: supply radio: global message
+[11:33:56] vasiliy karat to admins: ЧУПАК ЖАЛОВАЛСЯ
+[11:34:05] vasiliy karat to admins: И Я ИГРАЛ С ЧУПАКОМ
+[11:34:16] vasiliy karat to admins: ВИДЕЛ КАК ОН ПРОСТО НА БАЗУ ЗАШЕЛ И МАШИНУ УГНАЛ КАРОЧЕ
+[11:34:23] vasiliy karat to admins: ХОТЯ НЕЗНАЮ
+[11:34:29] Mannytko to admins: А кто
+[11:34:38] Redoket: ЗАЧЕМ ВАМ ХИМИКАТЫ
+[11:35:11] Redoket: Я НЕ
+[11:35:13] Redoket: КУПИРОВ
+[11:35:26] Redoket: АЛ
+[11:36:12] Redoket: ОООО
+[11:36:14] maksumkolesnukov022: !dropammo
+[11:36:21] Redoket: АААААААААААААААААА 
+[11:36:23] Redoket: УУУУУУУУУУУУ
+[11:36:26] Redoket: ОООООООО
+[11:36:36] Redoket: ААААААААААА
+[11:36:39] Redoket: УУУУУУУУУУ
+[11:36:41] Redoket: ООООООООО
+[11:36:57] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:36:58] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:37:07] maksumkolesnukov022: куку
+[11:37:13] vasiliy karat: ЗДРАСТЕ
+[11:37:14] maksumkolesnukov022: хочешь посмотреть мою коллекцию могил?
+[11:37:15] Client "aviv2018oo2" connected.
+[11:37:17] vasiliy karat: ОЧЕНЬ ПЛОХО
+[11:37:50] maksumkolesnukov022: НЕТ
+[11:37:51] maksumkolesnukov022: МОЯ ПРЕЛЕСТЬ
+[11:37:56] Redoket: я хачу
+[11:38:26] (TEAM) ɴʀɢᴏss: Как выключить этот музон?
+[11:40:01] Redoket: Я ВОЗЬМУ
+[11:40:03] Redoket: ТОЧКУ
+[11:40:07] Redoket: ДИСЛОКАЦИИ
+[11:40:14] Redoket: МНЕ ТАМ ПОСТОИТЬ НГАДО СТЕНЫ
+[11:40:15] vasiliy karat: ОНИ
+[11:40:16] Redoket: ОК?
+[11:40:16] vasiliy karat: СН АМИ
+[11:40:18] vasiliy karat: РЕСАМИ
+[11:40:20] vasiliy karat: ПОДЕЛЯТСЯ?
+[11:40:28] vasiliy karat: НО Я УЖЕ 
+[11:40:31] vasiliy karat: ПОДКЛЮЧЛИЧЯ
+[11:41:33] vasiliy karat: А
+[11:41:42] vasiliy karat: У НАС ТОЖЕ МАЛО
+[11:42:11] vasiliy karat: ЭТО ЕЖИ
+[11:42:19] Redoket: Я ПОСТРОИЛ
+[11:42:24] Redoket: ОБОРОНА
+[11:42:26] Redoket: ТЫ НИГЕР
+[11:42:27] RusLanConnection teleported to Mannytko
+[11:42:33] Redoket: СКАЧАЙ КОНТЕНТ
+[11:43:29] Dropped "APOJOPE" from server<STEAM_0:1:557416607>
+[11:43:29] APOJOPE suicided!
+[11:43:31] Client "APOJOPE" connected.
+[11:43:32] Redoket: ДЕНЬГА
+[11:43:36] Redoket: ура
+[11:43:40] Redoket: УРААААААААА
+[11:43:43] Redoket: ДЕНЬГИ
+[11:44:14] Client "APOJOPE" spawned in server <STEAM_0:1:557416607> (took 43 seconds).
+[11:44:59] vasiliy karat to admins: ЗОМБИ ИВЕНТ??
+[11:45:08] Client "georgiy27.12" connected.
+[11:45:41] vasiliy karat to admins: ИНОПЛАНЕТЯНЕ С ПЛАНЕТЫ ЗЕМЛЯ
+[11:45:49] Client "ANTI" connected.
+[11:45:59] nick: Ракман не шмаляй только 
+[11:46:17] vasiliy karat to admins: ИВЕНТ С ОБЛАСТНОЙ ТЮРЬМОЙ
+[11:46:26] Redoket: ЧЁ
+[11:46:40] Redoket: ЕП ТВАЮ
+[11:46:45] Redoket: НУ ЛАДНО
+[11:46:50] Client "ANTI" spawned in server <STEAM_0:0:856858307> (took 61 seconds).
+[11:47:13] Redoket: ПАМАГЫ ХОТ КАК ТО
+[11:47:24] Redoket: А ТО ДОЛГА
+[11:47:27] vasiliy karat: F
+[11:47:28] vasiliy karat: А
+[11:47:32] vasiliy karat: ЭТО ЧУВАКИ С ПСТР
+[11:47:35] ɴʀɢᴏss killed frouzent using tfa_doim3greasegun
+[11:47:38] vasiliy karat: ОБРОНЯЮТСЯ ОТ ЧЕГО ТО
+[11:48:02] Redoket: ДВЕРИ ОТКРЫВАЕМ
+[11:48:15] Redoket: ЭТО НЕ М
+[11:48:19] Redoket: НЕ МЫ
+[11:48:22] Redoket: ЁЖИК
+[11:48:27] Dropped "ANTI" from server<STEAM_0:0:856858307>
+[11:48:27] ANTI suicided!
+[11:48:28] Redoket: ЁЖИКИ ПРИШЛИ ВОТ
+[11:48:40] Redoket: ЁД
+[11:48:45] Redoket: ЕДТ
+[11:48:46] Rackman: Что
+[11:48:47] Rackman: Ща
+[11:48:47] Redoket: ЕДЬ
+[11:49:24] maksumkolesnukov022 killed FoLime using tfa_doimp40
+[11:49:31] finik killed Rackman using tfa_doippk
+[11:49:33] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[11:49:33] Rackman suicided!
+[11:49:35] Redoket: ЧАВО
+[11:50:00] Redoket: НА ВСЯКИЙ
+[11:50:02] Client "z1mniks" connected.
+[11:50:10] vasiliy karat: КОГО НА ВСЯКИЙ
+[11:50:18] Redoket: ЭТО
+[11:50:22] Redoket: НА ВСЯКИЙ
+[11:50:24] vasiliy karat: СЖИГАЙ ТРУПЫ
+[11:50:40] Redoket: ДЕРЬМО
+[11:50:44] Redoket: ОНИ МНЕ ДАЛИ
+[11:50:49] Redoket: БЕЗ ТОПЛИВА ГОВНО
+[11:50:54] vasiliy karat: ВОН
+[11:50:55] vasiliy karat: 2
+[11:50:56] vasiliy karat: ТРУП
+[11:51:01] Redoket: А КАК
+[11:51:06] Redoket: ТУТ НЕТУ ТОПЛИА
+[11:51:15] Client "Балтика 9" connected.
+[11:51:37] vasiliy karat: ОН
+[11:51:39] vasiliy karat: СГОРЕЛ
+[11:51:43] vasiliy karat: Я НЕЗНАЮ
+[11:51:45] Redoket: МОЖЕШЬ ДАТ ПАЖАЛАСТ
+[11:51:46] vasiliy karat: КАКОЙ ЭТО БЫЛ 
+[11:51:49] Redoket: АБРАТНА
+[11:51:51] vasiliy karat: УМНЫЙ ЗОМБИ
+[11:51:52] frouzent killed ɴʀɢᴏss using rust_boltrifle
+[11:51:53] vasiliy karat: ИЛИ ТУОПЙ
+[11:51:59] Redoket: ТАК ИМ ВСЕМ
+[11:52:15] Dropped "frouzent" from server<STEAM_0:0:640419920>
+[11:52:15] frouzent suicided!
+[11:52:42] Client "Балтика 9" spawned in server <STEAM_0:0:592080962> (took 87 seconds).
+[11:52:54] maksumkolesnukov022: НЕЛЬЗЯ РАЗОБРАТЬ
+[11:53:02] finik killed vasiliy karat using tfa_doippk
+[11:53:08] finik killed Mannytko using tfa_doippk
+[11:53:15] Redoket killed finik using tfa_doik98_scop
+[11:53:24] vasiliy karat: СЖЕЧ
+[11:53:26] vasiliy karat: ОНИ ЗАРАЖЕНЫ
+[11:53:29] vasiliy karat: СЖИГАЙ ДОМ
+[11:53:49] maksumkolesnukov022: НЕЛЬЗЯ
+[11:53:53] maksumkolesnukov022: ЭТО ЛЕГЕНДАРНЫЙ ТАНК
+[11:53:54] finik: а как чику вставить
+[11:53:58] Redoket suicided!
+[11:54:12] maksumkolesnukov022: каждый день
+[11:54:17] maksumkolesnukov022: нет
+[11:54:20] maksumkolesnukov022: ночь в основном
+[11:54:27] Redoket: ИДИОТ
+[11:54:41] RusLanConnection teleported to Балтика 9
+[11:54:52] finik killed finik
+[11:55:10] RusLanConnection teleported to Mannytko
+[11:56:14] RusLanConnection banned Mannytko permanently
+[11:56:15] Dropped "Mannytko" from server<STEAM_0:0:151021368>
+[11:56:15] Mannytko suicided!
+[11:56:18] vasiliy karat killed Балтика 9 using ent_jack_gmod_ezfirehazard
+[11:56:24] RusLanConnection banned Балтика 9 permanently
+[11:56:24] Dropped "Балтика 9" from server<STEAM_0:0:592080962>
+[11:56:24] Балтика 9 suicided!
+[11:56:36] maksumkolesnukov022: стоп
+[11:56:37] RusLanConnection unbanned steamid STEAM_0:0:151021368 (Mannytko)
+[11:56:37] vasiliy karat: ДОПРЫГАЛСЯ МАНЮТКА
+[11:56:42] maksumkolesnukov022: щас тут разборки в дискорд
+[11:56:44] Client "Mannytko" connected.
+[11:57:05] Client "Mannytko" spawned in server <STEAM_0:0:151021368> (took 21 seconds).
+[11:57:17] vasiliy karat to admins: КАРТУ ПОМЕНЯТЬ?
+[11:57:24] (tsay from Mannytko) ОТСИЖУ ЗА ЧУЖИЕ ДЕЛА
+[11:57:25] vasiliy karat to admins: ЛОГИЧЕСКИЙ КОНЕЦ ИСТОРИИ
+[11:58:18] Redoket: ЧЁ ЗА КУПИРОВАНИЕ
+[11:58:35] finik killed Mannytko using tfa_doim1912
+[11:58:46] vasiliy karat: ВОН
+[11:58:46] vasiliy karat: ТАМ
+[11:58:49] vasiliy karat: НА ХОЛМЕ
+[11:59:08] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_eztoolbox
+[11:59:13] vasiliy karat: ЗОМБИ
+[11:59:14] Redoket: НУ ВСО
+[11:59:14] vasiliy karat: ЗОМБИ
+[11:59:17] vasiliy karat: УМНЫЕ ЗОМБИ
+[11:59:21] finik: где
+[11:59:23] Redoket: ОЧЕНЬ УМНЫЕ
+[11:59:24] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezbasicparts
+[11:59:25] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezbasicparts
+[11:59:26] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezfissilematerial
+[11:59:26] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezfissilematerial
+[11:59:30] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezpropellant
+[11:59:30] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezpropellant
+[11:59:34] Redoket: Я ПОЕХАЛ
+[11:59:37] Redoket: УБИВАТ
+[11:59:37] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezbasicparts
+[11:59:47] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezprecparts
+[11:59:47] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezprecparts
+[11:59:47] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezprecparts
+[11:59:47] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezprecparts
+[11:59:47] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezprecparts
+[11:59:48] vasiliy karat: nfv
+[11:59:48] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezexplosives
+[11:59:49] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezexplosives
+[11:59:49] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezexplosives
+[11:59:49] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezexplosives
+[11:59:49] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezexplosives
+[11:59:50] vasiliy karat: НА ХОЛМ
+[12:00:03] Redoket: а как
+[12:00:48] vasiliy karat: ВОТЕМАП
+[12:00:56] vasiliy karat: !MENU
+[12:01:04] Dropped "nick" from server<STEAM_0:1:713394278>
+[12:01:04] nick suicided!
+[12:01:51] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezfuel
+[12:01:59] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezpropellant
+[12:01:59] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezpropellant
+[12:02:00] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezpropellant
+[12:02:21] Mannytko: пц
+[12:03:04] Client "smile" connected.
+[12:03:26] Mannytko started a vote (Смена карты)
+[12:03:27] Mannytko voted for: Да
+[12:03:28] APOJOPE voted for: Да
+[12:03:28] Redoket: ЕСТЬ КТО ДОМА
+[12:03:28] Allkot5 voted for: Да
+[12:03:28] maksumkolesnukov022 voted for: Да
+[12:03:30] Redoket voted for: Да
+[12:03:30] Mannytko: *drop
+[12:03:31] FoLime voted for: Да
+[12:03:33] RusLanConnection voted for: Да
+[12:03:34] vasiliy karat voted for: Да
+[12:03:37] finik voted for: Да
+[12:03:46] Vote results: Option 'Да' won. (9/10)
+[12:03:46] Redoket: ДЕРЬМО
+[12:03:49] Redoket: ГДЕ
+[12:03:55] vasiliy karat to admins: А НА КАКУЮ
+[12:03:57] vasiliy karat to admins: ЗИМА
+[12:04:00] vasiliy karat to admins: ПУСТЫНЯ
+[12:04:02] vasiliy karat to admins: ХАРДКОР
+[12:04:04] Redoket: САДИС В МАШИНУ
+[12:04:06] vasiliy karat to admins: АРХИПЕЛГА
+[12:04:10] APOJOPE: supply radio: global message
+[12:04:14] Redoket: найди
+[12:04:16] Redoket: ядерк
+[12:04:24] Client "z1mniks" spawned in server <STEAM_0:1:923828850> (took 862 seconds).
+[12:04:44] Mannytko granted god mode upon Themself
+[12:04:44] Mannytko: !god mann
+[12:04:48] vasiliy karat: АВТОНАВОДКА
+[12:04:57] vasiliy karat: ОТПУСТИ
+[12:05:01] vasiliy karat: В ПОЛЕТ
+[12:05:18] Client "Mafioznik_黑手党老大" connected.
+[12:05:26] vasiliy karat: СЛОМАЙ СПАВН
+[12:05:29] vasiliy karat: 2 РАЗА
+[12:05:37] (SILENT) RusLanConnection ran lua: for _, ply in player.Iterator() do                    ply:SendMessageOnTop('НАЧАЛАСЬ ЯДЕРНАЯ ВОЙНА', Color(120, 0, 0))                    ply:PlayLocalSound('LANRP/nuke/nuclear war.wav')                 end                SetGlobalVar( 'NuclearWar', true)
+[12:05:51] RusLanConnection suicided!
+[12:05:51] vasiliy karat suicided!
+[12:05:51] ɴʀɢᴏss suicided!
+[12:05:51] FoLime suicided!
+[12:05:51] Mannytko suicided!
+[12:05:51] APOJOPE suicided!
+[12:05:51] ɴʀɢᴏss: *inv*
+[12:05:55] z1mniks suicided!
+[12:06:04] Allkot5 was killed by entityflame
+[12:06:11] z1mniks killed Mannytko using wep_jack_gmod_hands
+[12:06:17] vasiliy karat: ЖЕСТЬ ЧЕ ГОРИТ\
+[12:06:21] Mannytko changed the map to gm_sro
+[12:06:22] Server is shutting down/changing levels.
+
+
+
+[12:06:33] New map: gm_sro
+[12:07:06] Client "Mannytko" spawned in server <STEAM_0:0:151021368> (took 39 seconds).
+[12:07:10] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 43 seconds).
+[12:07:11] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 44 seconds).
+[12:07:12] Client "Allkot5" spawned in server <STEAM_0:0:616036288> (took 45 seconds).
+[12:07:14] Client "FoLime" spawned in server <STEAM_0:1:548346148> (took 47 seconds).
+[12:07:18] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 51 seconds).
+[12:07:31] maksumkolesnukov022: ХАЙФЛИТ ПУСТЫН
+[12:07:32] Client "APOJOPE" spawned in server <STEAM_0:1:557416607> (took 65 seconds).
+[12:07:35] Client "glaSOO" connected.
+[12:07:39] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 72 seconds).
+[12:07:40] Client "finik" spawned in server <STEAM_0:1:876581716> (took 73 seconds).
+[12:07:48] Client "z1mniks" spawned in server <STEAM_0:1:923828850> (took 81 seconds).
+[12:07:59] Client "Рейхсмаршал." connected.
+[12:08:25] maksumkolesnukov022: ВОТ ИМЕННО
+[12:08:26] Client "ɴʀɢᴏss" spawned in server <STEAM_0:0:457622056> (took 119 seconds).
+[12:08:26] maksumkolesnukov022: ГАВНАЕД
+[12:08:29] z1mniks: !help
+[12:08:32] Client "Рейхсмаршал." spawned in server <STEAM_0:1:870651835> (took 33 seconds).
+[12:08:41] z1mniks: !mottd?
+[12:08:42] maksumkolesnukov022: РУСЛАН ПОШЛИ КО МНЕ 
+[12:08:47] finik: дядя руслан
+[12:08:48] maksumkolesnukov022: В ХАЙФЛИТ ИМПЕРИЮ
+[12:08:52] z1mniks: !mot
+[12:08:58] maksumkolesnukov022: ну ты и гавнаед
+[12:08:59] finik: когда карта с городской застройкой
+[12:09:20] RusLanConnection froze finik
+[12:09:24] Redoket: КТО ТАКЫЫ
+[12:09:27] FoLime: Я ЛЮБЛЮ ПЛЫВИСКИ
+[12:09:29] Redoket: Я АНАРХЫСТ
+[12:09:29] FoLime: Я ЛЮБЛЮ ПЛЫВИСКИ
+[12:09:33] Redoket killed Mannytko using wep_jack_gmod_ezaxe
+[12:09:36] Redoket killed Allkot5 using wep_jack_gmod_ezaxe
+[12:09:40] Dropped "z1mniks" from server<STEAM_0:1:923828850>
+[12:09:40] z1mniks suicided!
+[12:09:41] Dropped "FoLime" from server<STEAM_0:1:548346148>
+[12:09:41] FoLime suicided!
+[12:09:45] RusLanConnection unfroze finik
+[12:09:45] Client "FoLime" connected.
+[12:10:02] finik: когда карта с городской застройкой?
+[12:10:02] Client "FoLime" spawned in server <STEAM_0:1:548346148> (took 17 seconds).
+[12:10:08] Рейхсмаршал.: !motd
+[12:10:45] finik: а это нормально что люди третий рейх создал?
+[12:10:48] finik: я заебался
+[12:10:59] finik: я на ваниль карте джи мода был
+[12:11:07] finik: до верта дошел на верте улетел
+[12:11:15] Client "glaSOO" connected.
+[12:11:16] finik: ядерку подорвал
+[12:11:20] finik: никого не было
+[12:11:29] vasiliy karat: ЗНАЕШЬ У ФРАКЦИИ МЕСТНЫЕ ЭТО УЖЕ
+[12:11:35] finik: пол миллиона собрал
+[12:11:39] vasiliy karat: ШАБЛОН
+[12:11:40] vasiliy karat: ИГРЫ
+[12:11:42] vasiliy karat: ЭТО СТРОИТЬ ГОРОД
+[12:11:43] finik: на гаити
+[12:11:45] vasiliy karat: БЕЗ СТЕН
+[12:12:00] vasiliy karat: НУ НАШИ СТЕНЫ ЭТО ЗДАНИЯ
+[12:12:04] maksumkolesnukov022: СОЗДАЙ ХАЙФЛИТ ИМПЕРИЮ ОБЪЯВИ ВОЙНУ МЕСТНЫМ 
+[12:12:04] vasiliy karat: НАШИ ДОТЫ ЭТО ОКНА
+[12:12:06] finik: культ создовали
+[12:12:10] finik: я людей сжигал
+[12:12:12] Client "glaSOO" spawned in server <STEAM_0:1:626531518> (took 57 seconds).
+[12:12:26] finik: тебя просто в этот момент не было
+[12:12:27] vasiliy karat: МОЖНО НА ОКРАИНЕ ФЕРМУ СДЕЛАТЬ
+[12:12:40] vasiliy karat: ЖДЕМ КОГДА ДОБАВЯТ АФГАНСКИЙ ГАШИШ
+[12:12:51] Redoket: ПЛЫВ
+[12:12:53] maksumkolesnukov022: У МЕНЯ ШЕЮ СВЕРНУЛО
+[12:12:54] Redoket: ПРЫВ
+[12:12:58] Redoket: ОПЯТЬ
+[12:13:00] maksumkolesnukov022: ЗАКОПАЙ МЕНЯ
+[12:13:14] Redoket: ЗАЧЕМ
+[12:13:14] maksumkolesnukov022: НАМ НУЖЕН КАМЕНЬ ГРОБНЫЙ
+[12:13:17] maksumkolesnukov022: МНЕ НУЖЕН
+[12:13:22] Redoket: ТАС\
+[12:13:25] Redoket: ТАМЦ\
+[12:13:33] RusLanConnection cloaked Themself by amount 0
+[12:13:33] maksumkolesnukov022: НУЖЕН ТРЕТИЙ
+[12:13:44] RusLanConnection teleported to Mannytko
+[12:13:46] Redoket: КАВО
+[12:13:56] vasiliy karat to admins: ДАРК РП МОМЕНТ
+[12:13:56] maksumkolesnukov022: УБЕЙ МЕНЯ
+[12:14:00] maksumkolesnukov022: У МЕНЯ ШЕЮ СВЕРНУЛО
+[12:14:03] Redoket: МАКСИМ
+[12:14:10] Redoket: СДЕЛАЙ ЧТО ТО
+[12:14:19] Redoket: Я ЗАКОПАЮ
+[12:14:21] Redoket: ТЕБЯ
+[12:14:46] vasiliy karat: БАГ НА СЕРВАКЕ С РАСТИТЕЛЬНОСТЬЮ
+[12:14:48] vasiliy karat: ПОЧИНИЛИ
+[12:14:51] Mannytko killed maksumkolesnukov022 using wep_jack_gmod_ezaxe
+[12:14:53] vasiliy karat: ВСЕ КРОМЕ
+[12:14:57] vasiliy karat: КАК РАЗ
+[12:14:59] vasiliy karat: АГА
+[12:15:01] maksumkolesnukov022: Я ПОЧИНИЛ ШЕЮ
+[12:15:08] Redoket: ДЕРЖТ\
+[12:15:28] RusLanConnection: !motd
+[12:16:07] vasiliy karat: АГА
+[12:16:10] vasiliy karat: ПОПРОБУЙ
+[12:16:17] RusLanConnection uncloaked Mannytko
+[12:16:18] RusLanConnection cloaked Themself by amount 0
+[12:16:22] RusLanConnection teleported to finik
+[12:16:35] RusLanConnection teleported to maksumkolesnukov022
+[12:16:47] vasiliy karat: ДА
+[12:16:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[12:17:10] finik: инстоляция
+[12:17:14] Mannytko: *drop
+[12:17:21] FoLime killed APOJOPE using wep_jack_gmod_ezpickaxe
+[12:17:25] Dropped "FoLime" from server<STEAM_0:1:548346148>
+[12:17:25] FoLime suicided!
+[12:17:26] Redoket: МАКС
+[12:17:28] vasiliy karat: НЕТ
+[12:17:28] Dropped "APOJOPE" from server<STEAM_0:1:557416607>
+[12:17:28] APOJOPE suicided!
+[12:17:30] Redoket: ТЕБЮЯ БИЛИ?
+[12:17:32] maksumkolesnukov022: ДА
+[12:17:38] Mannytko: *drop
+[12:18:19] finik killed Рейхсмаршал. using rust_boltrifle
+[12:18:41] Redoket: ИАКС
+[12:18:43] Redoket: ПАСМАГЫ
+[12:18:48] Redoket: ПЕРЕТАЩ
+[12:19:06] Рейхсмаршал. killed finik using rust_boltrifle
+[12:19:36] Dropped "finik" from server<STEAM_0:1:876581716>
+[12:19:36] finik suicided!
+[12:20:19] maksumkolesnukov022: НЕТ
+[12:20:36] Mannytko: *drop
+[12:20:38] Mannytko: *drop
+[12:21:45] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[12:21:45] RusLanConnection suicided!
+[12:25:54] maksumkolesnukov022: Я ОТКРОЮ
+[12:25:56] maksumkolesnukov022: КАФЕ
+[12:26:03] Рейхсмаршал. was killed by build_prop
+[12:26:05] Client "Phalanx" connected.
+[12:26:28] Redoket: ТЫ ХОЧЕШЬ ПОСПОРИТЬ?
+[12:27:00] Client "Phalanx" spawned in server <STEAM_0:0:239878329> (took 55 seconds).
+[12:27:50] Redoket: Я МОГУ С ТОБОЙ ПОДЕЛИТЬСЯ
+[12:27:52] Redoket: ДА
+[12:28:23] Redoket: ТЫ КТО?
+[12:28:45] Redoket: НУ ОК
+[12:28:49] Redoket: КСТАТИ
+[12:29:12] Redoket: ТАМ КСТАТИ УРАН
+[12:32:58] vasiliy karat: НАМ ПРЕДЛАГАЮТ АЛЬЯНС
+[12:33:03] vasiliy karat: ПУСТЬ УХОДЯТ
+[12:33:08] vasiliy karat: НАМ ТАКИХ НЕ НАДА
+[12:33:13] maksumkolesnukov022: хз
+[12:33:36] Redoket: ЧЕГО НЕТ?
+[12:33:41] Redoket: НЕ ОЧ
+[12:33:43] Redoket: НУ ЩАС
+[12:35:03] Client "finchik-2007" connected.
+[12:35:45] maksumkolesnukov022: машину перенеси
+[12:35:46] Redoket: ВАТАФАК
+[12:36:00] Redoket: VFKF
+[12:36:02] Redoket: МАЛА
+[12:36:16] maksumkolesnukov022: там машина
+[12:36:25] Redoket: СДЕЛАЙ 
+[12:36:30] Redoket: ФИЩГАН
+[12:36:32] maksumkolesnukov022: Я БУДУ СТРОИТЬ БАР
+[12:36:35] Redoket: ОК
+[12:36:42] Redoket: МОЖНО
+[12:36:51] Redoket: ТОГДА БЕРИ ПОЛОВИНУ РЕСОВ
+[12:36:56] Redoket: ТОЛЬКО АКУРАТНО
+[12:36:58] Redoket: ДА
+[12:37:02] Redoket: ФИЗ ГАНОМИ
+[12:37:37] ɴʀɢᴏss was killed by ent_rus_gmod_ezpowerline
+[12:38:04] Redoket: ГОВНО
+[12:39:07] vasiliy karat: А
+[12:40:19] vasiliy karat: НУЖНО СДЕЛАТЬ
+[12:40:21] vasiliy karat: ИЗОЛЯТОР
+[12:40:28] vasiliy karat: ТУТ ЖЕ ТЕПЕРЬ ДВЕРИ МОЖНО ЗАКРЫВАТЬ
+[12:40:32] vasiliy karat: В ПЛЕН БРАТЬ
+[12:40:40] vasiliy karat: НУ 
+[12:40:43] vasiliy karat: ВДРУГ ЗАЛЕТНЫЙ
+[12:43:07] ɴʀɢᴏss killed Redoket using ent_jack_gmod_ezfalloutparticle
+[12:43:38] maksumkolesnukov022 killed ɴʀɢᴏss using wep_jack_gmod_ezshovel
+[12:43:40] vasiliy karat: ЗДРАСТЕ
+[12:43:49] Redoket: ЧЕВО
+[12:43:57] vasiliy karat: ВЫ ИЗ КАКОЙ ФРАКЦИИ 
+[12:43:57] Redoket: ЕП ТВАЮ
+[12:44:48] vasiliy karat: ЭЙ
+[12:44:51] vasiliy karat: ПОСТАВЬТЕ НА МЕСТО
+[12:45:10] vasiliy karat: ФАШИСТЫ УКРАЛИ СКАНЕР
+[12:45:24] maksumkolesnukov022 killed ɴʀɢᴏss using wep_jack_gmod_ezshovel
+[12:45:24] vasiliy karat: ЛАДНО
+[12:45:27] vasiliy karat: Э
+[12:45:32] vasiliy karat: НАДО ТУРЕЛИ ПОСТАВИТЬ НО
+[12:45:39] vasiliy karat: ДОБАВИТЬ ДЖИМОД ФРЕНДС
+[12:45:41] vasiliy karat: ВСЕХ КРОМЕ НИХ
+[12:46:25] Mannytko: *drop
+[12:46:27] Mannytko: *drop
+[12:47:23] vasiliy karat: НУЖНА
+[12:47:25] vasiliy karat: ГОРОД СТРОИТЬ
+[12:47:34] vasiliy karat: ВЫ ИЗ КАКОЙ ФРАКЦИИ
+[12:47:40] vasiliy karat: АНТИХРИСТЫ
+[12:47:44] vasiliy karat: А ЧЕ ВЫ В КРОВ
+[12:47:50] vasiliy karat: В КРОВИ ВЕСЬ
+[12:48:00] vasiliy karat: Э
+[12:48:11] vasiliy karat: Я ГОТОВ ПРИНЯТЬ ВАС В АЛЬЯНС ТОЛЬКО УСЛОВИЕ
+[12:48:23] vasiliy karat: ФРАКЦИЯ ТРЕТИЙ РЕЙХ УКРАЛА У НАС СКАНЕР 
+[12:48:39] vasiliy karat: НУ МЫ НЕ ХОТИМ ИЗ ЗА ВОЙНЫ
+[12:48:42] vasiliy karat: ИЗ ЗА 
+[12:48:44] vasiliy karat: СКАНЕРА
+[12:48:45] vasiliy karat: ВОЙНУ
+[12:48:47] vasiliy karat: ПРОСТО
+[12:48:56] vasiliy karat: БЫЛО БЫ ЗДОРОВО
+[12:49:01] Redoket: а
+[12:49:04] Redoket: неа
+[12:49:09] Redoket: радиац
+[12:49:13] Redoket: есть идея
+[12:49:23] Redoket: можешь перенестись в наш клан пж?
+[12:49:27] Redoket: потому что если война
+[12:49:42] Redoket: у нас будет снимать много хп фракции
+[12:49:46] Redoket: и мы проигираесм
+[12:49:57] Redoket: -5 в минуту
+[12:50:05] Redoket: штраф
+[12:50:10] Redoket: за то что мало людей
+[12:50:13] Redoket: во фраке
+[12:50:14] vasiliy karat: dj
+[12:50:15] vasiliy karat: ВО
+[12:50:18] vasiliy karat: ОХРАННАЯ ТУРЕЛЬ
+[12:50:20] Redoket: ну так
+[12:50:21] vasiliy karat: ТОЛЬКО
+[12:50:26] Redoket: а так мы выиграем
+[12:50:27] vasiliy karat: СТРЕЛЯЕТ ТОЛЬКО В ПРЕСТУПНИКОВ
+[12:50:28] maksumkolesnukov022: давайте фракции объединим
+[12:50:29] Рейхсмаршал. killed glaSOO using tfa_doimp40
+[12:50:30] Redoket: потенциально
+[12:50:34] Redoket: ну вот
+[12:50:36] Redoket: я о чём
+[12:50:45] Redoket: Ну ты хочешь проиграть?
+[12:51:14] vasiliy karat: У НАС
+[12:51:15] vasiliy karat: ЦВЕТ БЫЛ
+[12:51:17] vasiliy karat: НОРМАЛЬНЫЙ
+[12:51:19] vasiliy karat: НЕ НАШ
+[12:51:28] vasiliy karat: ЛАДНО
+[12:51:30] vasiliy karat: СПАСИБО
+[12:56:25] vasiliy karat: ОНИ ТУТ
+[12:56:30] vasiliy karat: НА ГОРИЗОНТЕ
+[12:57:23] vasiliy karat: ВАМ ВХОД ЗАПРЕЩЕН НА НАШИ ЗЕМЛИ
+[12:57:27] vasiliy karat: ВОРАМ
+[12:57:29] vasiliy karat: И ПРЕСТУПНИКАМ
+[12:57:33] vasiliy karat: РАЗВОРАЧИВАЙСЯ
+[12:59:28] vasiliy karat: Я ПРЕДУПРЕЖДАЛ
+[12:59:34] Client "2nd Xtrion" connected.
+[12:59:55] vasiliy karat killed Рейхсмаршал. using tfa_doim3greasegun
+[13:00:04] glaSOO killed vasiliy karat using tfa_doimp40
+[13:00:08] glaSOO killed Allkot5 using tfa_doimp40
+[13:00:27] Client "2nd Xtrion" spawned in server <STEAM_0:1:783028710> (took 53 seconds).
+[13:00:44] maksumkolesnukov022: я занят
+[13:01:05] maksumkolesnukov022: я всех напою до смерти
+[13:01:17] vasiliy karat: ПРОДАЙТЕ ОРУЖИЕ
+[13:01:24] vasiliy karat: БРОНЮ
+[13:01:25] vasiliy karat: ГРАНАТЫ
+[13:01:27] maksumkolesnukov022: Я ПРОДАЮ ЕДУ И ВЫПИВКУ
+[13:01:28] vasiliy karat: ФАШИСТЫ
+[13:01:30] vasiliy karat: ОКУПИРОВАЛИ
+[13:01:31] vasiliy karat: ГОРОД
+[13:01:33] glaSOO was killed by ent_jack_gmod_ezsentry
+[13:01:40] maksumkolesnukov022: ШТОШ
+[13:01:42] maksumkolesnukov022: КАЖЕТСЯ
+[13:01:46] maksumkolesnukov022: ПРИДЁТСЯ ПРОДАВАТЬ И ОРУЖИЕ
+[13:01:54] Рейхсмаршал. killed Allkot5 using tfa_doiluger
+[13:02:05] vasiliy karat: ОНИ ГРАБЯТ
+[13:02:06] vasiliy karat: УБИВАЮТ
+[13:02:08] Allkot5 killed Рейхсмаршал. using tfa_doimp40
+[13:02:45] Dropped "Mannytko" from server<STEAM_0:0:151021368>
+[13:02:45] Mannytko suicided!
+[13:03:11] vasiliy karat: ТАМ НЕЙТРАЛЫ
+[13:03:57] vasiliy karat: Я ИЗ ФРАКЦИИ МЕСТНЫЕ
+[13:04:05] vasiliy karat: Я ВОТ ПРИШЕЛ
+[13:04:10] vasiliy karat: ОБКАШЛЯТЬ ВОПРОСИК
+[13:04:53] vasiliy karat: ЩАС
+[13:04:59] vasiliy karat: АЛЬЯНС
+[13:05:00] vasiliy karat: ПОМОГИТЕ
+[13:05:06] vasiliy karat: ВОЕННОЙ ПОДДЕРЖКОЙ
+[13:05:09] vasiliy karat: НАДО ПРОВЕРИТЬ ГОРОД
+[13:05:14] vasiliy karat: ЕСЛИ ЧТО ВЫГНАТЬ
+[13:05:33] vasiliy karat: ЗА ВОЙНУ?
+[13:05:44] 2nd Xtrion: чё надо
+[13:05:46] vasiliy karat: НУ ДА ВРОДЕ
+[13:06:01] vasiliy karat: 35 ТЫСЯЧ
+[13:06:10] vasiliy karat: ЭЭЭ
+[13:06:12] vasiliy karat: КАК ТАМ
+[13:06:18] vasiliy karat: 30 ТЫСЯЧ
+[13:06:22] vasiliy karat: И ВСЕ ВАШ И ДЕНЬГИ
+[13:06:26] vasiliy karat: ВОТ ТАК ВРОДЕ
+[13:06:29] vasiliy karat: КАРОЧЕ
+[13:06:39] vasiliy karat: НАДО ВЫБИРАТЬ ДРУЗЕЙ
+[13:06:48] vasiliy karat: ЗАКЛЮЧИЛ АЛЬЯНС
+[13:06:50] vasiliy karat: С КАКОЙ ТО
+[13:06:52] vasiliy karat: ФРАКЦИЕЙ
+[13:06:58] vasiliy karat: А ЧЕ ТЫ АПРУВИШЬ
+[13:07:02] vasiliy karat: ВСЕ
+[13:07:22] vasiliy karat: МНЕ ХОТЯБЫ
+[13:07:24] vasiliy karat: ГОРОД ВЕРНУТЬ
+[13:07:36] vasiliy karat: НУ ОНИ ВСЕХ НАШИХ УБИЛИ 
+[13:07:38] vasiliy karat: Я УБЕЖАЛ
+[13:07:41] vasiliy karat: ПОМОЩЬ ИСКАТЬ
+[13:07:50] vasiliy karat: НЕТ
+[13:07:52] vasiliy karat: ЭТО НАШ
+[13:08:09] vasiliy karat: ПРОСТО ЛУЧШЕ
+[13:08:10] vasiliy karat: БРОНЮ
+[13:08:15] vasiliy karat: ЩАС
+[13:08:17] vasiliy karat: СДЕЛАЕМ ОБОРОНУ
+[13:08:20] vasiliy karat: ЕСЛИ ЧТО 
+[13:08:22] vasiliy karat: В ТЮРЬМУ
+[13:08:24] vasiliy karat: КАК ПРЕСТУПНИКОВ
+[13:08:54] vasiliy karat: ОНИ СДАЛИСЬ
+[13:09:19] vasiliy karat: УСТРОИЛИ РЕЗНЮ
+[13:09:28] vasiliy karat: СОЖГИ ТЕЛА
+[13:10:50] vasiliy karat: ЧАПИ РП
+[13:11:01] vasiliy karat: ТАМ РУСЛАН ЧАПИНЕЙШЕНС
+[13:11:15] vasiliy karat: ЕСЛИ ЧЕСТНО
+[13:11:16] vasiliy karat: НЕТ
+[13:11:33] vasiliy karat: Я ПОКА НИХОЧУ К НИМ ЕХАТЬ
+[13:11:48] vasiliy karat: Я НАВЕРНОЕ ПРОСТО ТУРЕЛЕЙ СДЕЛАЮ
+[13:11:49] vasiliy karat: И ВСЕ
+[13:12:04] vasiliy karat: ВО
+[13:12:05] vasiliy karat: ВЫПАЛ
+[13:12:09] vasiliy karat: А
+[13:12:12] vasiliy karat: ПРОСТО
+[13:12:14] vasiliy karat: С ЛВСОМ ТАК
+[13:12:19] vasiliy karat: ПЕРВЫЙ ТРАНСПОРТ НА СЕРВЕРЕ
+[13:12:21] vasiliy karat: НЕ СПАВНИТСЯ
+[13:12:38] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_citroen_type23
+[13:12:40] vasiliy karat: ВО
+[13:13:12] vasiliy karat: Я НЕ ГОТОВ С ВАМИ ТОРГОВАТЬСЯ
+[13:13:16] vasiliy karat: ВЫ У НАС РЕЗНЮ УСТРОИЛИ
+[13:13:41] vasiliy karat: ВАМ ЛУЧШЕ ВОЗРВАЩАТЬСЯ ТУДА КУДА УНЕСЛИ МОЙ СКАНЕР
+[13:14:20] vasiliy karat: ТЫ МОЖЕШЬ ДЕЛАТЬ ЧТО ХОЧЕШЬ
+[13:14:26] vasiliy karat: ТЫ ЖЕ НЕ В МОЕЙ ФРАКЦИИ
+[13:14:33] vasiliy karat: Я ПОЗВОНЮ
+[13:16:09] Dropped "Рейхсмаршал." from server<STEAM_0:1:870651835>
+[13:16:09] Рейхсмаршал. suicided!
+[13:16:18] Dropped "glaSOO" from server<STEAM_0:1:626531518>
+[13:16:18] glaSOO suicided!
+[13:16:22] Client "kuputochek" connected.
+[13:16:53] 2nd Xtrion killed 2nd Xtrion
+[13:19:11] Redoket: А ЗАЧЕМ ТЕБЕ
+[13:19:18] Redoket: У ТЕБЯ ЕСТЬ ФРАККЦИЯ?Э
+[13:19:26] Redoket: А ЗАЧЕМ?
+[13:19:43] Redoket: ЧТО ТЫ С НИМ ДЕЛАТЬ БУШ ОДИН
+[13:20:02] Redoket: ТЕБЕ ЛИБО ВО ФРАКЦИЮ ВСТУПАТЬ ЛИБО ЕЩЁ ЧТО ТО
+[13:20:11] Redoket: АНАРЗИСТЫ
+[13:20:15] Redoket: АНАРХИСТЫ
+[13:20:25] Redoket: ОКЕЙ
+[13:20:28] Client "kuputochek" spawned in server <STEAM_0:0:627550509> (took 246 seconds).
+[13:20:45] Redoket: ТАМ У НАС БАЗА ЕСТЬ КРУТАЯ
+[13:20:53] Redoket: ПЕРЕНЕСЁМ ВСЁ
+[13:21:38] Redoket: привет
+[13:21:47] Redoket: СЮДА
+[13:21:54] Redoket: А ТЫ ЭТО ХОЧ
+[13:21:59] Redoket: ОКЕЙ
+[13:22:49] Redoket: БУДЕТ КАК ЗАЩИТА
+[13:22:50] maksumkolesnukov022: керамика есть?
+[13:22:54] Redoket: ДА
+[13:22:56] Redoket: НО МАЛО
+[13:23:01] maksumkolesnukov022: мне хватит
+[13:23:03] Redoket: ОНА ДЛЯ НАШИХ НУЖД
+[13:23:08] Redoket: ТОЖ НУЖНА
+[13:23:19] maksumkolesnukov022: я и так 5 машин разобрал там
+[13:24:55] maksumkolesnukov022: помимо выпивки
+[13:24:58] maksumkolesnukov022: я буду продавать оружие
+[13:25:02] Redoket: ОК
+[13:25:51] vasiliy karat: КАРОЧЕ Э
+[13:25:58] vasiliy karat: НАДО СТРОИТЬ ТЮРЬМУ
+[13:26:01] vasiliy karat: И САЖАТЬ ЛЮДЕЙ
+[13:26:18] vasiliy karat: А ЧТО ДЕЛАЕТЬ ЕЩЕ
+[13:26:40] vasiliy karat: НУ ТЫ МОЖЕШЬ ЭТИМ ЗАНЯТЬСЯ
+[13:26:52] Dropped "kuputochek" from server<STEAM_0:0:627550509>
+[13:26:52] kuputochek suicided!
+[13:27:37] Redoket: ДАВАЙ
+[13:33:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:33:23] Redoket: НЕЙТРАЛЫ
+[13:33:27] Redoket: И МЕСНЫЕ
+[13:33:31] Redoket: НО МЕСНЫЕ ДАЛЬШЕ
+[13:34:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:34:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:34:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:34:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:35:13] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:35:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:35:27] Redoket: АХЕРЕТЬ
+[13:35:43] Redoket: ЭТО ЧТО ЗА КОНС ЛАГЕРЬ
+[13:35:47] vasiliy karat: ЭТО ИЗОЛЯТОР
+[13:35:51] vasiliy karat: ДЛЯ ДУШЕВНО БОЛЬНЫЗ
+[13:35:57] Redoket: ЧЕВО
+[13:36:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:36:03] Redoket: А КОВО ВЫ СЧИТАЕТЕ
+[13:36:10] Redoket: ДУШЕВНО БОЛЬНЫМИ?
+[13:36:27] vasiliy karat: КТО НА МЕНЯ КОСО СМОТРИТ ТОТ И БУДЕТ
+[13:36:34] vasiliy karat: Я КРУТОЙ Я ВСЕМ НРАВЛЮСЬ
+[13:36:45] Redoket: СВОБОДНО
+[13:36:50] Redoket: МНЕ НЕ НРАВИТСЯ
+[13:36:57] maksumkolesnukov022: БАР ПРИНИМАЕТ ПОСЕТИТЕЛЕЙ
+[13:36:57] vasiliy karat: ПОГОДИТЕ
+[13:36:58] maksumkolesnukov022: ПОШЛИ
+[13:37:02] Redoket: МОЕМУ НАРОДУ ЭТО ПОНРАВИТЬСЯ ЕЩЁ МЕНЬШЕ
+[13:37:05] vasiliy karat: ДАЙТЕ ДОСТРОИТЬ ВТОРОЙ ЭТАЖ
+[13:37:22] maksumkolesnukov022: ты пойдёшь в бар?
+[13:37:30] Redoket: ДА КСТАТИ
+[13:37:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:37:53] Redoket: МНЕ ЭТО НЕ НРАВИТСЯ
+[13:38:02] Redoket: ПОШЛИ МАКС
+[13:38:10] Redoket: Я ПОНЯЛ
+[13:38:16] Redoket: МАКС ИДЁИ
+[13:38:18] Redoket: ИДЁМ
+[13:38:26] Redoket: ЕПТ ВАШУЖ МАТЬ
+[13:38:32] vasiliy karat: ПОКА
+[13:38:38] Redoket: КАКОЙ ТО УЖАС У НИХ
+[13:38:48] maksumkolesnukov022: ВЫ ЖЕ ПОЙДЁТЕ ПОТОМ В БАР?
+[13:38:51] Redoket: НАМ ТАКОГО ДОПУСТИТЬ У СЕБЯ НЕЛЬЗЯ
+[13:38:52] vasiliy karat: ПОЙДУ
+[13:38:53] vasiliy karat: ЩАС
+[13:39:03] Dropped "Allkot5" from server<STEAM_0:0:616036288>
+[13:39:03] Allkot5 suicided!
+[13:39:08] maksumkolesnukov022: ОН НА В НАШЕМ ПОСЕЛЕНИИ
+[13:39:19] vasiliy karat: ЧТО
+[13:39:52] Redoket: ДАРСАСТТ
+[13:39:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:40:03] Redoket: МОЖНО ЗАКАЗАТЬ
+[13:40:10] Redoket: О
+[13:40:14] Redoket: ЭТО КРУТО
+[13:40:17] Redoket: ЩАС ПОЙДУ
+[13:40:20] Redoket: ПОБОЛТАЮ
+[13:40:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:40:40] Redoket killed 2nd Xtrion using lvs_trailer_schneider_new
+[13:40:44] Redoket: ТВОЮ МАТЬ
+[13:41:00] Redoket: ДЕРЬМО
+[13:41:11] Redoket: ТЫ ЗАЛУТАЛ?
+[13:41:24] Redoket: ДАВААЙ Я\
+[13:41:43] vasiliy karat: ЭЙ БАР
+[13:41:45] vasiliy karat: ЭТО БАР ДА
+[13:41:49] maksumkolesnukov022: ДА
+[13:41:49] Redoket: ДА
+[13:42:02] vasiliy karat: ТАМ НА ПАРКОВКЕ МУСОР БЫЛ
+[13:42:08] maksumkolesnukov022: ПРИПАРКУЙТЕСЬ НОРМАЛЬНО
+[13:42:09] Redoket: Э
+[13:42:14] Redoket: ЭТО НЕ УВАЖЕНИЕ
+[13:42:20] vasiliy karat: ТУТ ПАРКОВКА
+[13:42:22] vasiliy karat: ВИДИТЕ
+[13:42:23] vasiliy karat: ВЫМОЩЕНО
+[13:42:33] vasiliy karat: СТУЛ
+[13:42:35] vasiliy karat: В ДВИГАТЕЛЕ
+[13:43:05] vasiliy karat: ЕСЛИ У ВАС НАЛИВАЮТ ГОВНО
+[13:43:12] vasiliy karat: Я ВАС В ДУРКЕ ЗАКРОЮ
+[13:43:18] Redoket: ЧТО
+[13:43:24] maksumkolesnukov022: НЕ НАЛИВАЮТ
+[13:43:25] Redoket: ПАГАДИ
+[13:43:33] Client "ledi83" connected.
+[13:43:37] vasiliy karat: НУ ГДЕ ЕДА
+[13:43:53] vasiliy karat: У ВАС СТОЛИКОВ НЕТУ ОТДЕЛЬНЫХ?
+[13:43:54] Redoket: Я САМ
+[13:44:02] Redoket: КОГДА УЁДТ ОН
+[13:44:11] Redoket: ОГО
+[13:44:15] Redoket: ТЫ МОЛОДЕС
+[13:44:27] Redoket: ЭТО ХОРОШО
+[13:44:34] vasiliy karat: КАК РАЗБИТЬ ЭТО ЯЙЦО
+[13:44:38] Redoket: А ЗАЧЕМ ТЕБЕ ГЕНЕРАТОР
+[13:44:41] maksumkolesnukov022: ЭТО АРБУЗ
+[13:44:44] Redoket: У ТЕБЯ ЖЕ ЛИНИИ
+[13:44:49] vasiliy karat: КАК РАЗБИТЬ ЭТОТ АРЬУЗ
+[13:45:00] vasiliy karat: ВСЕ НА ПОЛ УПАЛО
+[13:45:03] vasiliy karat: Я ВАМ НЕ СВИНЬЯ
+[13:45:06] Redoket: НУ ХЗ
+[13:45:11] Redoket: МЫ МОЖЕМ ЭТО
+[13:45:14] maksumkolesnukov022: НЕ ХЛОТИТЕ ЛИ ВОДУ С ГАЗОМ?
+[13:45:24] vasiliy karat: ХОЧУ
+[13:45:25] Redoket: С УРАНА СДЕЛАТЬ ЕЛЕКТРО ХРЕНЬ
+[13:45:38] Redoket: КОТОРАЯ НАМ БУДЕТ ЕЛЕКТРИЧЕСТВО ДАВАТЬ
+[13:45:50] Redoket: НУ ХЗ\
+[13:46:05] vasiliy karat: ВОДА
+[13:46:07] vasiliy karat: С 
+[13:46:08] vasiliy karat: ГАЗОМ
+[13:46:12] maksumkolesnukov022: ДА
+[13:46:26] Redoket: НЕ НРАВИТСЯ?
+[13:46:30] maksumkolesnukov022: ЭТО МОЙ КЛИЕНТ
+[13:46:31] vasiliy karat: ВСЕ НРАВИТСЯ
+[13:46:35] maksumkolesnukov022: ПЕРВЫЙ
+[13:46:38] Redoket: ЭТО ХОРОШО
+[13:46:46] vasiliy karat: МОЖНО МНЕ С СОБОЙ АРБУЗ
+[13:46:55] maksumkolesnukov022: НЕ ЖЕЛАЕТЕ ЧТО НИБУДЬ ЕЩЁ?
+[13:47:01] maksumkolesnukov022: что-то покрепче?
+[13:47:06] vasiliy karat: ЧТО ЕСТЬ ПОКРЕПЧЕ
+[13:47:18] maksumkolesnukov022: МАКСИМАЛЬНО КРЕПКОЕ?
+[13:47:21] vasiliy karat: ДА
+[13:47:22] maksumkolesnukov022: СКАЖИТЕ КОДОВОЕ СЛОВО
+[13:47:29] vasiliy karat: Э
+[13:47:40] vasiliy karat: НЕЗНАЮ
+[13:47:41] maksumkolesnukov022: ПРОЙДЁМТЕ
+[13:48:10] vasiliy karat: НЕФИГА
+[13:48:13] vasiliy karat: СКОЛЬКО
+[13:48:23] maksumkolesnukov022: 120
+[13:48:56] maksumkolesnukov022: ЕЩЁ У НАС НОВЫЕ КОЛЛЕКЦИОННЫЕ
+[13:49:08] Redoket: ДАЯ
+[13:49:14] Redoket: ОН ЕСТЬБ
+[13:49:16] Redoket: РАЗБЕРИ
+[13:49:20] Redoket: ТА ЛАДНО
+[13:49:23] Redoket: НЕ НУЖЕН
+[13:49:29] vasiliy karat: ВЫ 
+[13:49:39] vasiliy karat: Я НЕ МОГУ ЗАПЛАТИТЬ ЗА ПИСТОЛЕТ
+[13:49:45] vasiliy karat: ОПЛАТИТЬ МОГУ
+[13:49:47] vasiliy karat: ТОЛЬКО
+[13:49:53] vasiliy karat: БЕСПЛАТНЫМ ОБСЛЕДОВАНИЕМ
+[13:49:56] vasiliy karat: В ЛЕЧЕБНИЦЕ
+[13:50:03] maksumkolesnukov022: Я СОГЛАСЕН
+[13:50:09] maksumkolesnukov022: НЕ ЖЕЛАЕТЕ ОПРОБОВАТЬ ОРУЖИЕ?
+[13:50:09] Redoket: ОНЕТ
+[13:50:15] vasiliy karat: ДА ХОЧУ
+[13:50:16] Redoket: МАКСИМ
+[13:50:20] Redoket: ЧТО ТЫ НАДЕЛАЛ
+[13:50:30] vasiliy karat: 9 ПУЛЬ
+[13:50:33] vasiliy karat: НА ОДНУ ЦЕЛЬ
+[13:50:48] vasiliy karat: ОНА
+[13:50:53] vasiliy karat: ОНА ДАЖЕ НЕ РАЗБИЛАСЬ КАК ТАК
+[13:50:59] Redoket: КРЕПКИЕ ЖЕ\
+[13:51:09] Redoket: ССКАЗАЛИ ЧТО ТО ПО КРЕПЧЕ
+[13:51:09] vasiliy karat: ПО КАСАТЕЛЬНОЙ ЛЕТИТ
+[13:51:12] Redoket: НУ ВОТ
+[13:51:19] Redoket: АЛЬ Е
+[13:51:19] vasiliy karat: НРГОС
+[13:51:23] vasiliy karat: ПОЕХАЛИ КО МНЕ В ГОСТИ
+[13:51:25] vasiliy karat: ПОКАЖУ
+[13:51:32] Redoket: ЩАЭ
+[13:51:33] vasiliy karat: ПОЕХАЛИ
+[13:51:35] vasiliy karat: МАКСИМ
+[13:51:36] maksumkolesnukov022: КУПИ ОРУЖИЕ
+[13:51:46] Redoket: НЕ НАДО
+[13:51:51] Redoket: ОКЕЙ
+[13:51:53] vasiliy karat: ПОЕХАЛИ МАКС
+[13:51:58] Redoket: ЫМАКС
+[13:52:00] Redoket: НЕТ
+[13:52:04] Redoket: ТЫ ДАЖЕ Э
+[13:52:06] Redoket: НУ
+[13:52:11] Redoket: ЛАДНО
+[13:52:14] Redoket: БОГ С НИМ
+[13:52:38] Redoket: ТАК БУДЕТ НОРМАЛЬНО
+[13:52:40] Redoket: СМОТРИ
+[13:52:42] Redoket: СМОТРИ
+[13:52:45] Redoket: ОНО БУДЕТ
+[13:52:46] vasiliy karat: ЩИТ
+[13:52:51] Redoket: ЕПТ
+[13:53:03] Redoket: БУДЕТ
+[13:53:08] Redoket: Я ТЕБЕ ГОВОРБЮ
+[13:53:09] Redoket: ДА
+[13:53:11] Redoket: ДА
+[13:53:12] Redoket: ДА
+[13:53:15] vasiliy karat: ПОШЛИ
+[13:53:16] Redoket: И ЕЩЁ РАЗ ДА
+[13:53:18] vasiliy karat: НЕ ЗАЙМЕТ МНОГО ВРЕМЕНИ
+[13:53:32] vasiliy karat: ЩАС ТУТ 
+[13:53:40] vasiliy karat: БИП БУП БЕСПЛАТНОЕ ОБСЛЕДОВАНИЕ
+[13:53:42] vasiliy karat: ПОШЛИ
+[13:53:47] maksumkolesnukov022: А ПОЧЕМУ ОБЩЕСТВЕННОЕ ЗДАНИЕ ЗАКРЫВАЮТ НА ЗАМОК?
+[13:53:50] vasiliy karat: КАБИНЕТ НОМЕР 4
+[13:54:02] Redoket: ВТИФ
+[13:54:05] vasiliy karat: Э
+[13:54:07] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furnituretable002a.mdl
+[13:54:18] vasiliy karat: НЕ
+[13:54:19] Redoket: ЧТО ТАКОЕ
+[13:54:21] vasiliy karat: ТАМ МОЕ МЕСТО
+[13:54:25] Redoket: НУ ЛАД
+[13:54:26] vasiliy karat: ТАК ВОТ
+[13:54:34] vasiliy karat: ЩАС Я БУДУ ВАМ КИДАТЬ КАРТИНКИ В ДИСКОРД
+[13:54:43] vasiliy karat: ВЫ БУДЕТЕ ГОВОРИТЬ ЧТО НА НИХ ВИДИТЕ
+[13:54:47] vasiliy karat: ТЕСТ РОРШАХА
+[13:54:53] vasiliy karat: СЕКУНДУ ЩАС ОТКРОЮ
+[13:54:59] maksumkolesnukov022: ХОРОШО
+[13:55:30] vasiliy karat: ОТПРАВИЛ
+[13:55:33] vasiliy karat: ПЕРВУЮ КАРТИНКУ
+[13:55:40] maksumkolesnukov022: Я ВИЖУ
+[13:55:41] maksumkolesnukov022: СОБАКУ
+[13:55:46] vasiliy karat: АГА ЗАПИШЕМ
+[13:55:48] vasiliy karat: ЧТО ЕЩЕ
+[13:55:50] vasiliy karat: ИЛИ ЭТО ВСЕ
+[13:55:53] maksumkolesnukov022: ЧЕЛОВЕКА
+[13:55:56] maksumkolesnukov022: СИЛУЭТ
+[13:55:57] maksumkolesnukov022: И МОРЕ
+[13:56:01] vasiliy karat: АГА
+[13:56:05] vasiliy karat: ИНТЕРЕСНО
+[13:56:10] vasiliy karat: ВТОРАЯ КАРТИНКА
+[13:56:23] Redoket: НИЧЕГО ОСОБОГО
+[13:56:41] vasiliy karat: ЧТО ВИДИТЕ
+[13:56:47] vasiliy karat: ОПИШИТЕ ВАШИ
+[13:56:49] vasiliy karat: ЧУВСТВА
+[13:56:59] maksumkolesnukov022: Я ВИЖУ
+[13:57:03] maksumkolesnukov022: КОТА
+[13:57:11] maksumkolesnukov022: КОТОРОГО ПУГАЕТ МАТРАС ЖИВОЙ
+[13:57:13] Redoket: ВОТ ТАКЭ
+[13:57:17] maksumkolesnukov022: ЭТА КАРТИНКА ВЫЗЫВАЕТ У МЕНЯ
+[13:57:27] maksumkolesnukov022: БЕСПОКОЙСТВО
+[13:57:29] maksumkolesnukov022: ТРЕВОГУ
+[13:57:33] vasiliy karat: ПОНЯТНО
+[13:57:37] Redoket: ВОТ ТАК
+[13:57:44] Redoket: НАДО СТЕНЫ ТУТ
+[13:58:12] Redoket: МЫ ТУТ ТЕБЕ СТЕНЫ ПОСТРОИМ ОК?
+[13:58:20] Redoket: ДАВАЙ Я
+[13:58:30] Redoket: ТОЛЬКО БЫСТРЕЕ
+[13:58:35] Redoket: НЕЕЕЕ
+[13:58:41] Redoket: ТОЛЬКО НА ВХОДАХ
+[13:58:46] Redoket: ТАК НОРМ БУДЕТ
+[13:58:48] Redoket: ДА
+[13:58:49] maksumkolesnukov022: Я ВИЖУ
+[13:58:52] maksumkolesnukov022: ИНДЕЙЦА
+[13:58:57] Redoket: ДА
+[13:58:58] vasiliy karat: ИНДЕЕЦ
+[13:59:01] Redoket: ТОЛЬЛК Я
+[13:59:03] maksumkolesnukov022: ОН ВЫГЛЯДИТ
+[13:59:06] maksumkolesnukov022: ВЫЗЫВАЮЩЕ
+[13:59:17] vasiliy karat: ЧТО В НЕМ ВЫГЛЯДИТ ВЫЗЫВАЮЩЕ
+[13:59:30] maksumkolesnukov022: ЕГО ВЫРАЖЕНИЕ ЛИЦА
+[13:59:32] maksumkolesnukov022: И ПОЗА
+[13:59:45] Redoket: СТЕНЫ\
+[13:59:47] Redoket: ДА ДА
+[13:59:48] maksumkolesnukov022: И ОРУЖИЕ
+[13:59:50] maksumkolesnukov022: ОРУЖИЕ
+[13:59:53] vasiliy karat: ОРУЖИЕ
+[13:59:59] maksumkolesnukov022: ЭТО КЛЮЧЕВАЯ ЧАСТЬ КАРТИНКИ
+[14:00:04] vasiliy karat: ПОСЛЕДНЯЯ КАРТИНКА
+[14:00:14] maksumkolesnukov022: СЕЙЧАС 5 МИНУТ
+[14:00:18] maksumkolesnukov022: МНЕ НУЖНО В
+[14:00:20] vasiliy karat: ЭЙ
+[14:00:22] vasiliy karat: КУДА ВЫ
+[14:00:30] maksumkolesnukov022: Я СЕЙЧАС
+[14:00:41] vasiliy karat: СТОЙТЕ
+[14:00:56] vasiliy karat: КУДА ВЫ РЕЗКО
+[14:01:01] vasiliy karat: ПОНЯТНО
+[14:01:02] maksumkolesnukov022: Я СЕЙЧАС
+[14:01:02] Redoket: ВОТ ТАК
+[14:01:07] maksumkolesnukov022: (афк)
+[14:01:11] Redoket: ДАВАЙ
+[14:01:20] vasiliy karat: Я НЕ ПОНИМАЮ ВАС
+[14:01:23] vasiliy karat: ЧТО ТАКОЕ АФК
+[14:01:25] vasiliy karat: ВЫ СЧИТАЕТЕ
+[14:01:29] vasiliy karat: ЧТО ВСЕ ВОКРУГШ
+[14:01:30] vasiliy karat: НЕНАСТОЯЩЕЕ
+[14:01:46] vasiliy karat: МЫ ВАС ВЫЛЕЧИМ 
+[14:01:49] vasiliy karat: НЕБЕСПОКОЙТЕСЬ
+[14:02:10] Redoket: ЧТОБЫ ТОЧНО ВЫДЕРЖАЛИ
+[14:02:12] vasiliy karat<STEAM_0:0:814052183> spawned ragdoll models/props_c17/furnituremattress001a.mdl
+[14:02:16] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furniturebed001a.mdl
+[14:02:18] Redoket: НОРМАЛЬНО
+[14:02:33] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furniturebed001a.mdl
+[14:02:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezcapacitor
+[14:02:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezcapacitor
+[14:02:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowerbank
+[14:02:59] Redoket: КРУТА
+[14:03:00] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[14:03:00] Redoket: ВС
+[14:03:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[14:03:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[14:03:05] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[14:03:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[14:03:09] Redoket: Я ЩАС
+[14:03:41] Redoket: МАКС!?
+[14:03:44] Redoket: ТЫ ГДЕ?
+[14:03:51] Redoket: С ТОБОЙ ВСЁ НОРМАО=ЛЬНО
+[14:03:51] vasiliy karat: МАКС АФК УШЕЛ
+[14:04:06] Redoket: Я ХОЧУ ЕГО ПРОВЕДАТЬ
+[14:04:10] vasiliy karat: ОН
+[14:04:12] vasiliy karat: ЛАДНО
+[14:04:15] vasiliy karat: ПРОЙДЕМТЕ
+[14:04:18] vasiliy karat: Я ВАМ ДОЛЖЕГ
+[14:04:21] vasiliy karat: КОЕ ЧТО СКАЗАТЬ
+[14:04:46] Redoket: ЧТО?
+[14:04:47] Redoket: ЖЕ
+[14:04:52] vasiliy karat: ПОНИМАЕТЕ
+[14:05:00] vasiliy karat: МЫ ВОТ ПРОХОДИЛИ С НИМ
+[14:05:01] vasiliy karat: ТЕСТ
+[14:05:04] vasiliy karat: РОРШАХА
+[14:05:19] vasiliy karat: Я ЕМУ ПОКАЗЫВАЮ КАРТИНКИ
+[14:05:20] vasiliy karat: И ОН
+[14:05:26] vasiliy karat: ИХ ОБЪЯСНЯЛ
+[14:05:39] vasiliy karat: КОГДА Я ЕМУ ПОКАЗАЛ ПОСЛЕДНЮЮ
+[14:05:40] vasiliy karat: КАРТИНКУ
+[14:05:42] vasiliy karat: ОН
+[14:05:44] vasiliy karat: ЧТО ТО
+[14:05:47] vasiliy karat: ЗАБЕСПОКОИЛСЯ
+[14:05:50] vasiliy karat: И ХОТЕЛ УУЙТИ
+[14:05:53] vasiliy karat: ОН СКЗААЛ ЧТО ТО
+[14:05:54] vasiliy karat: ПРО
+[14:05:55] vasiliy karat: АФК
+[14:05:57] vasiliy karat: КАКОЕТО
+[14:06:00] vasiliy karat: ПОНИМАЕТЕ
+[14:06:06] vasiliy karat: ОН ДУМАЕТ ЧТО ОН В ВИДЕО ИГРЕ
+[14:06:14] Redoket: ВЫ ХОТИТЕ СКАЗАТЬ
+[14:06:33] Redoket: ЧТО МОЙ ЛУЧШИЙ ДРУГ ШИЗОФРЕНИК?
+[14:06:46] vasiliy karat: Я ХОЧУ СКАЗАТЬ ЧТО ЕМУ НУЖНО ЛЕЧЕНИЕ А ОН ЕГО ТУТ ПОЛУЧИТ
+[14:06:48] vasiliy karat: ЕСЛИ ХОТИТЕ
+[14:06:56] vasiliy karat: Я МОГУ УСТРОИТЬ ВСТРЕЧУ НО
+[14:07:07] vasiliy karat: ПРОБЛЕМА В ТОМ ЧТО ОН В ЭТОМ САМОМ
+[14:07:10] vasiliy karat: АНАБИОЗЕ
+[14:07:12] vasiliy karat: КАК ОН НАЗВАЛ
+[14:07:13] vasiliy karat: АФК
+[14:07:18] vasiliy karat: Я ЕГО ЗАКРЫЛ В КОМНАТЕ ЧТОБЫ ОН
+[14:07:23] vasiliy karat: СМОГ ПРИЙТИ В СЕБЯ НОРМАЛЬНО
+[14:07:30] Redoket: ОН ЕСТ ХОТЯБЫ?
+[14:07:31] vasiliy karat: МЫ ЕМУ УЖЕ НАЗНАЧИЛИ ШОКОТЕРАПИЮ
+[14:07:47] vasiliy karat: МЫ ЕМУ ПОЛОЖИЛИ ЕДУ В КАМЕРУ НО ОН ВСЕ ЕЩЕ СТОИТ В УГЛУ
+[14:07:51] vasiliy karat: В ЭТОМ
+[14:07:54] vasiliy karat: АФК
+[14:07:58] Redoket: А НУ ПОКАЖИТЕ МНЕ
+[14:08:04] Redoket: ГДЕ ОН
+[14:08:11] vasiliy karat: СЕЙЧАС Я 
+[14:08:16] vasiliy karat: ДАВАЙТЕ Я ВАМ
+[14:08:18] vasiliy karat: НЕЗНАЮ
+[14:08:34] vasiliy karat: ПОЗВОНЮ КОГДА ОН ВЫЙДЕТ ИЗ АНАБИОЗА
+[14:08:38] vasiliy karat: А СЕЙЧАС ЕМУ ПОКОЙ НУЖЕН
+[14:08:46] Redoket:  Я ХОЧУ УВЕДОМИТЬСя
+[14:08:51] Redoket: ЧТО ЭТО ПРАВДА
+[14:08:57] vasiliy karat: СЕЙЧАС
+[14:08:59] vasiliy karat: ПОШЛИТЕ ТОГДА
+[14:09:01] Redoket: ЧТО ОН ДЕЙСТВИТЕЛЬНО СТОИТ
+[14:09:04] ɴʀɢᴏss was killed by ent_jack_gmod_ezpumpjack
+[14:09:08] vasiliy karat: ИДИТЕ СЮДА
+[14:09:26] vasiliy karat: Я ВАМ ПОКАЖУ
+[14:10:01] Redoket: МАКСИМ!!!!!!!!!
+[14:10:02] vasiliy karat: ВЗГЛЯД НА ТЫСЯЧУ ЯРДОВ
+[14:10:07] Redoket: МАКСИМ!!!!!!!!!
+[14:10:12] Redoket: ТЫ МЕНЯ СЛЫШИШ
+[14:10:17] Redoket: НЕТ
+[14:10:19] Redoket: НЕТ
+[14:10:22] maksumkolesnukov022: ЧТОО
+[14:10:24] vasiliy karat: ВО
+[14:10:24] Redoket: ЧТО С НИМ ТА
+[14:10:25] maksumkolesnukov022: ГДЕ Я
+[14:10:27] Redoket: АААА
+[14:10:30] Redoket: МАКСИМ
+[14:10:36] maksumkolesnukov022: МНЕ ЧТО-ТО ПОДСЫПАЛИ
+[14:10:40] Redoket: ВЫ
+[14:10:41] Redoket: ВЫ
+[14:10:42] Redoket: ВЫ
+[14:10:42] maksumkolesnukov022: КОГДА МНЕ ПОКАЗЫВАЛИ КАРТИНКИ
+[14:10:48] maksumkolesnukov022: МНЕ ПРЕДЛОЖИЛИ ВОДЫ
+[14:10:51] maksumkolesnukov022: БЕЗ ГАЗА
+[14:10:51] Redoket: ВЫ ЧТО С НИМ СДЕЛАЛИ
+[14:10:59] vasiliy karat: СТОЙТЕ
+[14:11:02] vasiliy karat: УБЕРИЕ ВАШЕ ОРУЖИЕ
+[14:11:06] vasiliy karat: МАКС
+[14:11:08] 2nd Xtrion: твой голос вывел его из состояния так называемого афк
+[14:11:11] Redoket: АНУ ОТКРЫВАЙ ЕГО
+[14:11:24] vasiliy karat: УБЕРИТЕ ПИСТОЛЕТ ОН Э ВСЕ РАВНО НЕ НАСТОЯЩИЙ СМОТРЕЛИ ФИЛЬМ
+[14:11:28] Redoket: ИНАЧЕ Я ТУТ ВЗОРВУ ВСЁ НАХРЕН
+[14:11:29] vasiliy karat: ПРО ПСИХО БОЛЬНИЦУ
+[14:11:31] vasiliy karat: НА ОСТРОВК
+[14:11:43] vasiliy karat: СТОЙТЕ
+[14:11:48] vasiliy karat: НУЖНО ДЕРЖАТЬ СЕБЯ В РУКАХ
+[14:11:59] vasiliy karat: НУ ВЫ ВИДИТЕ
+[14:12:06] vasiliy karat: ЕМУ НУЖНА ПСИХОЛОГИЧЕСКАЯ ПОМОЩЬ
+[14:12:11] 2nd Xtrion: какой то он психованный стал что ли
+[14:12:11] Redoket: ОН ПЫТАЕТЬСЯ ОТКРЫТЬ
+[14:12:15] Redoket: Я ЕМУ ПОМОГУ
+[14:12:25] vasiliy karat: ПЕРЕСТАНЬТЕ
+[14:12:34] vasiliy karat: ВЫ НАХОДИТЕСЬ В ГОРОДЕ У НАС ЗАКОНЫ
+[14:12:44] vasiliy karat: ЕСЛИ ЧЕЛОВЕКУ НУЖНА ПОМОЩЬ
+[14:12:47] vasiliy karat: ЕМУ ЕЕ ОКАЖУТ
+[14:12:51] vasiliy karat: А ВСЕ КТО МЕШАЕТ
+[14:12:52] vasiliy karat: ТОТ
+[14:12:58] vasiliy karat: ТОЖЕ МОЖЕТ ОКАЗАТЬСЯ ТУТ
+[14:12:58] 2nd Xtrion: давай уважить чужие законы
+[14:13:07] Redoket: ЭТО УГРОЗА
+[14:13:09] vasiliy karat: МАКС
+[14:13:14] vasiliy karat: СЕЙЧАС Я ПРИЙДУ
+[14:13:16] Redoket: ОН ВМЕНЯЕМЫЙ!
+[14:13:24] maksumkolesnukov022: ПОМОГИТЕ
+[14:13:32] maksumkolesnukov022: Я НЕ ПОМНЮ КАК ТУТ ОКАЗАЛСЯ
+[14:13:33] 2nd Xtrion: подожди
+[14:13:38] Redoket: НЕ БОЙСЯ
+[14:13:43] Redoket: МЫ ТЕБЯ ВЫТАЩИМ
+[14:14:19] vasiliy karat: ПОЦИЕНТ
+[14:14:21] vasiliy karat: ПРОЙДЕМТЕ
+[14:14:24] vasiliy karat: ПОХОРОШЕМУ
+[14:14:25] vasiliy karat: НА
+[14:14:26] vasiliy karat: ПРОЦЕДУРЫ
+[14:14:37] Redoket: ОНИ НАС ЗАКРЫЛИ
+[14:14:37] vasiliy karat: Я ЗОВУ МЕД БРАТЬЕВ
+[14:14:48] 2nd Xtrion: бляяяять
+[14:15:16] Redoket: ОНИ УНОСЯТ ДЖО
+[14:15:21] Redoket: КУДА
+[14:15:22] vasiliy karat: ВНИМАНИЕ
+[14:15:25] vasiliy karat: ШОКОТЕРАПИЯ
+[14:15:29] Redoket: О БОЖЕ
+[14:15:31] 2nd Xtrion: что...
+[14:15:32] Redoket: УХОДИМ
+[14:15:34] Redoket: УХОДИМ
+[14:15:50] vasiliy karat killed maksumkolesnukov022 using prop_physics
+[14:15:53] Redoket: НАДО БЕЖАТЬ
+[14:16:30] 2nd Xtrion: а как же макс???
+[14:16:40] Redoket: МЫ ВЕРНЁМСЯ
+[14:17:00] Redoket: СРОЧНОЭ
+[14:17:06] Redoket: ЩАС
+[14:17:30] 2nd Xtrion: там Макса в плену держат
+[14:17:53] 2nd Xtrion: в плену так называемой псих больницы
+[14:18:23] 2nd Xtrion: тебе может помочь??
+[14:19:07] 2nd Xtrion: если что нужно проси помощь
+[14:19:08] Redoket: УХОДИ!
+[14:19:20] Redoket: УХОДИ!!!!
+[14:19:39] vasiliy karat: СКОРО И МЫ ДО ВАС ДОБЕРЕМСЯ
+[14:19:42] 2nd Xtrion: бляяять Макс...
+[14:19:52] Redoket: ВСЁ
+[14:20:19] maksumkolesnukov022: ПРИЁМ
+[14:20:20] maksumkolesnukov022: ПОМОГИТЕ
+[14:20:25] Redoket: ТВОЮ МАТ
+[14:20:27] maksumkolesnukov022: Я УКРАЛ ТЕЛЕФОН У САНИТАРА
+[14:20:29] Redoket: ГМАКСИМ!!!
+[14:20:32] Redoket: МАКСИМ
+[14:20:33] maksumkolesnukov022: У МЕНЯ МАЛО ВРЕ
+[14:20:36] Redoket: ТИШЕ МАКС
+[14:20:40] Redoket: НЕЕЕТ!
+[14:20:42] vasiliy karat: ПОЧЕМУ ВЫ ВЫШЛИ
+[14:20:43] Redoket: МАКСИМ
+[14:20:47] Redoket: МАКСИМ!!!!!!!!!!!!
+[14:20:55] Redoket: ОНИ И ДО ТЕБЯ ДОБРАЛИСЬ
+[14:21:07] vasiliy karat: ЗАХОДИЬТЕ О
+[14:21:13] vasiliy karat: ОБРАТНО В ПАЛАТУ
+[14:21:16] 2nd Xtrion: ёбаный рот...
+[14:21:23] vasiliy karat: ЕЩЕ 3 РАЗА ПРОЦЕДУРУ ПРОЙТИ НАДО
+[14:21:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[14:21:43] vasiliy karat: МЫ ЛИШАЕМ ВАС ТАКОЙ ПРИВЕЛЕГИИ КАК КРОВАТЬ
+[14:22:07] Redoket: ЩАС
+[14:22:07] vasiliy karat: ЩАС
+[14:22:12] vasiliy karat: НЕБЛАГОДАРНЫЕ
+[14:22:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezapple
+[14:22:30] vasiliy karat: ВОТ ВАМ
+[14:22:40] vasiliy karat: НАДКУСАНОЕ ЯБЛОКО НАПИЧКАНОЕ ТАБЛЕТКАМИ
+[14:22:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcsnade
+[14:23:05] vasiliy karat: Э
+[14:23:10] vasiliy karat: Я НЕЗНАЮ КАК НАЗВАТЬ ЭТУ ПРОЦЕДУРУ
+[14:23:11] ɴʀɢᴏss: supply radio: basic parts
+[14:23:18] maksumkolesnukov022: ТАБЛЕТКИ
+[14:23:20] vasiliy karat: ПРОЦЕДУРА ФЛЕШЬЕН
+[14:23:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezroadflare
+[14:23:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpopcorn
+[14:23:47] 2nd Xtrion: наши действия?
+[14:23:52] vasiliy karat: ПРОЦЕДУРА СМОТРЕТЬ НА ПОПКОРН НО НЕ СПОСОБНОЕСТЬ
+[14:23:54] vasiliy karat: ЭЭ
+[14:23:56] Redoket: ЩАС УВИДИШЬ
+[14:24:00] vasiliy karat: НЕ СПОСОБНОСТЬ ЕГО ПОЕСТЬ
+[14:24:10] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[14:24:25] vasiliy karat: ПРОЦЕДУРА НОМЕР
+[14:24:26] maksumkolesnukov022: СПАЛЬНИК СОЖГЛИ
+[14:24:27] vasiliy karat: Э
+[14:24:28] vasiliy karat: НЕЗНАЮ
+[14:24:29] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbeartrap
+[14:24:33] Redoket: ЩДАС
+[14:24:34] maksumkolesnukov022: ДАЙТЕ НОВЫЙ
+[14:24:34] vasiliy karat: КРОВОПУСКАНИЕ КАРОЧЕ
+[14:24:45] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcornear
+[14:24:51] Redoket: СКРОНЖ
+[14:24:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[14:25:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[14:25:05] 2nd Xtrion: сколько?
+[14:25:10] Redoket: ВОТ БЛЯТЬ
+[14:25:17] vasiliy karat: ВОТ ВАМ ПАКЕТ ТАБЛЕТОК ПРОВЕРЮ ЧТОБЫ ВСЕ СЪЕЛИ
+[14:25:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[14:25:30] maksumkolesnukov022: Я ВСЁ СЪЕЛ
+[14:25:31] vasiliy karat: ЭТО ВАМ НА ОБЕД
+[14:25:38] vasiliy karat: ПОТОМ БУДЕТ УЛИЦА
+[14:25:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[14:27:00] 2nd Xtrion: ?
+[14:27:06] vasiliy karat: ПОЦИЕНТ
+[14:27:13] vasiliy karat: НУЖНО ПРОЙТИ НА ПРОЦЕДУРУ НОМЕР 3
+[14:27:18] vasiliy karat: РАДИО ЛЕЧЕНИЕ
+[14:27:19] vasiliy karat: ПОТО
+[14:27:30] vasiliy karat: ПОТОМ 
+[14:27:40] vasiliy karat: КОГДА ШТЫК БАШКУ
+[14:27:41] 2nd Xtrion: я незнаю
+[14:27:48] vasiliy karat: ОЙ
+[14:27:50] vasiliy karat: НЕ СЮДА
+[14:28:03] 2nd Xtrion: редокет мне ничего не говорит по этому поводу
+[14:28:17] vasiliy karat: ТУРЕЛИ НАС ЗАЩИТЯТ
+[14:28:26] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furniturechair001a.mdl
+[14:28:27] vasiliy karat: ВОТ СТУЛ
+[14:28:31] vasiliy karat: ИДИТЕ СЮДА
+[14:28:39] vasiliy karat: ШПРИЦЕМЕТ
+[14:28:44] 2nd Xtrion killed ɴʀɢᴏss using tfa_doim1911
+[14:28:53] vasiliy karat: НЕ
+[14:28:55] vasiliy karat: СМОТРИТЕ
+[14:28:56] vasiliy karat: ЭТО
+[14:29:06] vasiliy karat: КАРОЧЕ ЩАС
+[14:29:09] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezharpoon
+[14:29:11] vasiliy karat: ОУ ЩИТ
+[14:29:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_gasmask
+[14:29:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_gasmask
+[14:29:21] Redoket: ХЗ
+[14:29:23] Redoket: ПОТОМЭ
+[14:29:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[14:29:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[14:29:29] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[14:29:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[14:29:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[14:29:33] (csay from Console) pora idti spat
+[14:29:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[14:29:33] vasiliy karat killed vasiliy karat
+[14:29:34] maksumkolesnukov022 killed maksumkolesnukov022
+[14:29:44] 2nd Xtrion: в случае чего открываю огонь по карату?
+[14:29:51] Redoket: ВСЕГО
+[14:30:16] maksumkolesnukov022 killed maksumkolesnukov022
+[14:30:28] 2nd Xtrion: готов
+[14:30:48] maksumkolesnukov022 killed maksumkolesnukov022
+[14:30:50] (csay from Console) pora idti spat
+[14:30:51] 2nd Xtrion killed vasiliy karat using tfa_doik98_scop
+[14:30:54] vasiliy karat: ХВАТИТ БИТЬ П О ДУРКЕ
+[14:30:57] 2nd Xtrion: минус
+[14:31:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_respirator
+[14:31:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_gasmask
+[14:31:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_gasmask
+[14:31:17] 2nd Xtrion: продолжаю патруль
+[14:31:37] vasiliy karat: Я СВАЛИВАЮ
+[14:31:41] maksumkolesnukov022: А Я
+[14:31:51] (csay from Console) 10
+[14:31:53] vasiliy karat: А ТЕБЯ ПУСТЬ АНАРХИСТЫ БОМБЯТ)
+[14:31:55] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[14:31:55] vasiliy karat suicided!
+[14:31:55] (csay from Console) 10
+[14:32:01] (csay from Console) 9
+[14:32:02] (csay from Console) 8
+[14:32:04] (csay from Console) 7
+[14:32:05] Redoket: МАКСА
+[14:32:06] (csay from Console) 6
+[14:32:07] Redoket: СПАСАТЬ
+[14:32:08] (csay from Console) 5
+[14:32:09] 2nd Xtrion: ?
+[14:32:11] (csay from Console) 4
+[14:32:11] 2nd Xtrion: идём
+[14:32:13] (csay from Console) 3
+[14:32:15] (csay from Console) 2
+[14:32:17] (csay from Console) 1

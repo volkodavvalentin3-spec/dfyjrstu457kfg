@@ -1,0 +1,10 @@
+
+--TFA.AddFireSound("Weapon_Welrod.1","weapons/welrod/welrod_fp.wav", false, ")")
+TFA.AddFireSound("Weapon_browninghp.1","weapons/browninghp/browning_hp_fp.wav", false, ")")
+TFA.AddFireSound("Weapon_C96.1","weapons/c96/c96_fp.wav", false, ")")
+TFA.AddFireSound("Weapon_Ppk.1","weapons/ppk/ppk_fp.wav", false, ")")
+TFA.AddFireSound("Weapon_P08.1","weapons/p08/p08_fp.wav", false, ")")
+TFA.AddFireSound("Weapon_M1911.1","weapons/m1911/m1911_fp.wav", false, ")")
+TFA.AddFireSound("Weapon_P38.1","weapons/p38/p38_fp.wav", false, ")")
+TFA.AddFireSound("Weapon_M1917.1","weapons/sw1917/sw1917_fp.wav", false, ")")
+TFA.AddFireSound("Weapon_webley.1","weapons/webley/webley_fp.wav", false, ")")

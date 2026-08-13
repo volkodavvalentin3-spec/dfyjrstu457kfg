@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture"				"models/weapons/smc_ppsh/ppsh41_d"
+	"$bumpmap"					"models/weapons/smc_ppsh/ppsh41_n"
+	"$phongexponenttexture"		"models/weapons/smc_ppsh/ppsh41_e"
+	
+	$envmap						env_cubemap
+	$envmaptint					"[ .02 .02 .02 ]"
+	$normalmapalphaenvmapmask	"1"	
+	
+	$phong						1
+	$phongexponent				10
+	$phongboost					.5
+	$phongfresnelranges			"[0.25 0.5 1]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"80"	
+	"$rimlightboost"			".05"
+	"$rimmask"					"1"
+}

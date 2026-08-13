@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\m4a1_mow\tr"
+	
+	"$alphatest" "1"
+}

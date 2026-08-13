@@ -1,0 +1,2721 @@
+<Logging continued from "data/ulx_logs/05-21-25.txt">
+[00:00:26] krilz: !motd
+[00:00:58] Dropped "krilz" from server<STEAM_0:1:89998932>
+[00:00:58] krilz suicided!
+[00:36:50] Client "krilz" connected.
+[00:40:25] Client "krilz" connected.
+[00:41:03] Client "krilz" spawned in server <STEAM_0:1:89998932> (took 38 seconds).
+[00:42:20] Client "sora" connected.
+[00:42:40] krilz: !votemap 1
+[00:42:57] krilz: !votemap 2
+[00:43:10] krilz: !motd
+[00:52:51] Client "sora" spawned in server <STEAM_0:0:846783857> (took 631 seconds).
+[00:55:24] sora: !modd
+[00:55:32] sora: !mod
+[00:55:51] sora: !jmod_ez_inv
+[00:56:02] sora: !modd
+[00:57:08] sora: !motd
+[00:57:38] sora: !
+[00:57:47] sora: jmod_ez_inv
+[00:57:49] krilz: !votemap 2
+[00:58:06] sora: !motd
+[01:01:17] Dropped "krilz" from server<STEAM_0:1:89998932>
+[01:01:17] krilz suicided!
+[01:01:36] Dropped "sora" from server<STEAM_0:0:846783857>
+[01:01:36] sora suicided!
+[02:14:58] Client "Польские Пряники" connected.
+[02:15:54] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 56 seconds).
+[02:17:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:17:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:17:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[02:17:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:17:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:17:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:17:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:17:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:17:59] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodsherman
+[02:18:06] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_item_turbo
+[02:18:07] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_item_compressor
+[02:18:54] Польские Пряники was killed by ent_jack_gmod_ezsentry
+[02:21:19] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:21:19] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:21:19] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[02:21:19] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:21:19] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:21:19] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:21:19] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:21:19] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[02:21:27] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[02:22:52] Польские Пряники was killed by ent_jack_gmod_ezsentry
+[02:23:11] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[02:23:50] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[02:26:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[02:26:50] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[02:27:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[02:32:08] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_rollermine
+[02:33:02] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_rollermine
+[02:33:15] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_rollermine
+[02:33:59] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_rollermine
+[02:34:35] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_rollermine
+[02:34:46] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_phx/construct/metal_plate_curve360.mdl
+[02:35:12] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_phx/construct/metal_dome360.mdl
+[02:35:30] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_rollermine
+[02:35:41] Польские Пряники: !menu
+[02:35:58] Польские Пряники: !menu
+[02:38:03] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_phx/construct/metal_dome360.mdl
+[02:38:03] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_rollermine
+[02:38:11] Польские Пряники: !MENU
+[02:38:45] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_rollermine
+[02:38:48] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[02:38:55] Польские Пряники: !MENU
+[02:39:03] Польские Пряники: !MENU
+[02:39:10] Польские Пряники: !MENU
+[02:39:22] Польские Пряники: !MENU
+[02:39:58] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[02:40:19] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[02:40:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[02:40:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[02:41:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[02:42:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[02:42:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[02:43:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[02:44:30] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[02:44:47] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[02:45:28] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[02:47:05] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[02:48:08] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[02:48:25] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[02:48:34] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_manhack
+[02:49:00] Польские Пряники: !MENU
+[02:49:32] Польские Пряники: !MENU
+[02:50:12] Польские Пряники changed the map to gm_sro
+[02:50:12] Server is shutting down/changing levels.
+
+
+
+[02:50:23] New map: gm_sro
+[02:51:31] Client "HEINZ" connected.
+[02:51:36] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 78 seconds).
+[02:53:38] Client "HEINZ" spawned in server <STEAM_0:1:760492142> (took 127 seconds).
+[02:56:15] Dropped "HEINZ" from server<STEAM_0:1:760492142>
+[02:56:15] HEINZ suicided!
+[03:03:13] Client "АГАНИМ В ЖОПЕ" connected.
+[03:03:30] Client "mode marpek" connected.
+[03:03:57] Client "АГАНИМ В ЖОПЕ" spawned in server <STEAM_0:1:74811748> (took 44 seconds).
+[03:05:40] Client "mode marpek" spawned in server <STEAM_0:0:502258539> (took 130 seconds).
+[03:06:26] Dropped "АГАНИМ В ЖОПЕ" from server<STEAM_0:1:74811748>
+[03:06:26] АГАНИМ В ЖОПЕ suicided!
+[03:06:27] Client "АГАНИМ В ЖОПЕ" connected.
+[03:07:58] Client "АГАНИМ В ЖОПЕ" spawned in server <STEAM_0:1:74811748> (took 91 seconds).
+[03:09:11] АГАНИМ В ЖОПЕ: !menu
+[03:09:38] АГАНИМ В ЖОПЕ to admins: пенис
+[03:09:40] mode marpek: !menu
+[03:10:08] mode marpek: !votemap
+[03:10:18] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:10:21] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:10:23] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:10:24] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:10:28] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:10:30] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:10:31] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:10:32] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:10:53] Польские Пряники cloaked Themself by amount 0
+[03:11:28] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:16] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:17] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:18] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:19] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:20] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:21] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:39] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:40] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:40] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:41] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:42] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:43] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:12:44] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:21] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:22] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:24] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:24] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:25] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:26] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:26] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:51] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:52] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:52] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:55] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:56] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:58] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:59] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:13:59] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:14:00] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:14:01] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:14:01] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:15:12] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:15:14] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:15:15] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:15:15] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:15:35] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:15:36] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:15:59] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:00] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:01] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:01] Client "PARIUS_NEGRO" connected.
+[03:16:03] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:04] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:05] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:06] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:07] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:08] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:09] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:10] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:12] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:25] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:27] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:27] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:29] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:31] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:32] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:47] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:48] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:49] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:50] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:51] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:52] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:53] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:53] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:55] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:16:56] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:05] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:05] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:05] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:06] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:06] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:10] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:11] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:12] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:13] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:14] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:14] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:14] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:15] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:15] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:46] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:46] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:46] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:46] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:47] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:47] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:47] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:17:47] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:01] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:01] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:02] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:02] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:03] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:03] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:03] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:04] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:04] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:04] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:04] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:10] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:14] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:15] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:16] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:17] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:18] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:19] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:19] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:19] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:19] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:20] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:20] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:20] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:20] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:18:21] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[03:21:09] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[03:21:09] Польские Пряники suicided!
+[03:23:46] Client "PARIUS_NEGRO" spawned in server <STEAM_0:0:736679476> (took 465 seconds).
+[03:25:59] Dropped "PARIUS_NEGRO" from server<STEAM_0:0:736679476>
+[03:25:59] PARIUS_NEGRO suicided!
+[03:27:13] Client "VIJER" connected.
+[03:30:57] Client "SNEGOVIK36RUS" connected.
+[03:33:22] Client "VIJER" spawned in server <STEAM_0:0:860750884> (took 369 seconds).
+[03:34:21] mode marpek: !votemap
+[03:38:04] Client "Soldier_S.C.A.F" connected.
+[03:38:58] Client "Soldier_S.C.A.F" connected.
+[03:43:35] Client "Soldier_S.C.A.F" connected.
+[03:44:26] Client "SNEGOVIK36RUS" spawned in server <STEAM_0:0:429485777> (took 809 seconds).
+[03:47:27] SNEGOVIK36RUS: Я ЛЮБЛЮ ПЛЫВИСКИ
+[03:50:36] Dropped "SNEGOVIK36RUS" from server<STEAM_0:0:429485777>
+[03:50:36] SNEGOVIK36RUS suicided!
+[03:57:15] Client "Ethawit" connected.
+[04:27:03] Client "Mr_Pyro" connected.
+[04:28:12] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 69 seconds).
+[04:28:46] Mr_Pyro cloaked Themself by amount 0
+[04:28:46] Mr_Pyro: !cloak Mr_Pyro
+[04:29:22] Client "Ethawit" spawned in server <STEAM_0:1:634773082> (took 1927 seconds).
+[04:33:10] Dropped "Ethawit" from server<STEAM_0:1:634773082>
+[04:33:10] Ethawit suicided!
+[04:33:28] Client "soveckij" connected.
+[04:36:13] Client "romanun" connected.
+[04:43:43] Client "leraakimenko64" connected.
+[04:51:01] Client "Soldier_S.C.A.F" connected.
+[04:55:32] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 271 seconds).
+[04:57:32] Soldier_S.C.A.F: !menu
+[04:57:40] Soldier_S.C.A.F: !rtv
+[05:00:39] Soldier_S.C.A.F to admins: админ как насчет того чтобы поменять карту?
+[05:02:37] Soldier_S.C.A.F to admins: админ вы здесь
+[05:09:16] Soldier_S.C.A.F: простой бродяга
+[05:09:35] Soldier_S.C.A.F: да я видел
+[05:09:45] Soldier_S.C.A.F: так что я не тупой
+[05:10:38] Soldier_S.C.A.F: не раслышал
+[05:10:51] Soldier_S.C.A.F: да если честно
+[05:10:55] Soldier_S.C.A.F: занятся нечем
+[05:11:05] Mr_Pyro: spectate
+[05:11:13] Soldier_S.C.A.F: хм
+[05:12:30] Soldier_S.C.A.F to admins: админ как насчет того чтобы поменять карту?
+[05:12:39] Mr_Pyro: не
+[05:12:43] Soldier_S.C.A.F: а че
+[05:12:45] Mr_Pyro: ну
+[05:12:49] Mr_Pyro: игроки так то играют
+[05:12:58] Mr_Pyro: да и вайп будет
+[05:13:06] Mr_Pyro: только после того как что то крутое сделают
+[05:13:10] Mr_Pyro: войну например 
+[05:13:52] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[05:13:52] Soldier_S.C.A.F suicided!
+[05:14:06] Mr_Pyro: В любом случае вайпа не будет как минимум из-за того, что челики ещё и�
+[05:17:21] Client "PoPcat" connected.
+[05:18:31] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 70 seconds).
+[05:23:14] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_helicopter_cod_ah6
+[05:23:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/bathtub01a.mdl
+[05:24:10] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:24:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezhebomb
+[05:24:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/bathtub01a.mdl
+[05:25:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezhebomb
+[05:33:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_helicopter_cod_ah6
+[05:36:57] Mr_Pyro killed Mr_Pyro
+[05:37:35] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_helicopter_rebel
+[05:38:10] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbombbay
+[05:38:11] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbombbay
+[05:38:19] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbigbomb
+[05:38:27] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:38:28] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:38:29] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:38:29] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:38:31] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:38:32] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:38:33] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:38:34] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:38:37] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:38:38] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:38:40] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbomb
+[05:40:36] Client "Польские Пряники" connected.
+[05:41:22] Mr_Pyro: !menu
+[05:41:26] Mr_Pyro cleared decals
+[05:41:37] Mr_Pyro uncloaked Themself
+[05:41:37] Mr_Pyro: !uncloak
+[05:41:42] Mr_Pyro uncloaked Themself
+[05:41:42] Mr_Pyro: !uncloak Mr_Pyro
+[05:41:46] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 70 seconds).
+[05:42:38] Польские Пряники: ЧЕЕЕ
+[05:42:45] Польские Пряники: ГОВНОВОДКА
+[05:42:55] Польские Пряники: НЕФИГА
+[05:43:01] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[05:43:04] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[05:43:05] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[05:43:06] Польские Пряники<STEAM_0:0:555258766> spawned NPC npc_cscanner
+[05:43:41] Польские Пряники: Я ЩА СВОИ
+[05:43:45] Польские Пряники: ПЛЫВТАНК
+[05:44:01] Польские Пряники: А
+[05:44:08] Польские Пряники: ВОТ АБРАМ
+[05:44:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:44:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:44:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[05:44:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:44:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:44:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:44:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:44:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:44:23] Польские Пряники: Я ВАЩЕ СМОТРЮ ДУМАЮ
+[05:44:24] Польские Пряники: БАЛИН
+[05:44:26] Польские Пряники: БРЕДЛИ
+[05:44:31] Польские Пряники: НУ ВОТ ЩА
+[05:44:58] Польские Пряники: ТУРЕЛИ ДЛЯ НУБОВ
+[05:45:03] Польские Пряники: А ЖОПА КРИВАЯ
+[05:45:11] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:45:11] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:45:11] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[05:45:11] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:45:11] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:45:11] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:45:11] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:45:11] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:45:14] Польские Пряники: ЛЕГКО
+[05:45:23] Польские Пряники to admins: ЛЕГКО ПЕРЕЖИВЕТ
+[05:46:27] Польские Пряники: ПОШЛИ ОТ РАКЕТ ПРОВЕРИМ
+[05:46:35] Польские Пряники: ТУРЕЛИ ПОФИГУ
+[05:46:49] Польские Пряники set the hp for Themself to 1232341
+[05:46:49] Польские Пряники: !HP Пол 1232341
+[05:46:50] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[05:46:50] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[05:46:55] Польские Пряники: ЩА ТЕСТ НА ИМПУЛЬСЫ
+[05:47:14] Польские Пряники: МНОГО
+[05:47:20] Польские Пряники: В ПОПЕ МАЛО
+[05:47:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:47:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:47:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[05:47:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:47:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:47:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:47:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:47:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:47:35] Польские Пряники: НЕ
+[05:48:17] Польские Пряники killed Mr_Pyro using tfa_doiluger
+[05:48:36] Польские Пряники: 200 ХП СНЯЛО
+[05:48:40] Польские Пряники: И ГУСЛИ
+[05:48:59] Польские Пряники: ЩА ИЗ РПГ
+[05:49:06] Польские Пряники: СЯДЬ ВНУТРЬ
+[05:49:08] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmunitions
+[05:49:15] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezmunitions
+[05:49:16] Польские Пряники: Я ПОСТАРАЛСЯ БЕЗ ДИНАМИЧЕСКОЙ
+[05:49:18] Польские Пряники: СДЕЛАЙТЬ
+[05:49:33] Польские Пряники: ПЕРЕЗАРЯДКА
+[05:49:45] Польские Пряники: СЛАБЕНЬКО
+[05:49:54] Польские Пряники: КРУТО\
+[05:50:05] Польские Пряники: ВЕРХ ОЧЕНЬ БРОНИРОВАННЫЙ
+[05:50:13] Польские Пряники: ВОТ И НЕ ПРОБИВАЕТ
+[05:50:38] Польские Пряники killed Mr_Pyro using ent_bazooka_shell_v2
+[05:50:47] Польские Пряники to admins: В ГОЛОВУ!
+[05:51:01] Польские Пряники: ОГОНЬ ФИГНЯ
+[05:51:16] Польские Пряники: Я ЧТО БЫ ВЕСЬ ПОТЕНЦИАЛ ИСПОЛЬЗОВАТЬ
+[05:51:22] Польские Пряники: ГРАНАТЫ НЕМНОГ НЕДОДЕЛАННЫ
+[05:51:24] Польские Пряники: ЗАЩИТА
+[05:51:29] Польские Пряники: КАРОЧЕ ИДИ В КАНЬЕН
+[05:51:32] Польские Пряники: Я САМ ПРИЕДУ
+[05:51:37] Польские Пряники: ЭТО ЖЕ НАСТУПАТЕЛЬНЫЙ
+[05:51:42] Польские Пряники: IDI
+[05:51:45] Польские Пряники: ТИПО
+[05:51:47] Польские Пряники: НАТ АКНК
+[05:51:50] Польские Пряники: НА ТАНКЕ
+[05:51:54] Польские Пряники: ОК
+[05:52:01] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:52:02] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:52:02] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[05:52:02] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:52:02] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:52:02] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:52:02] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:52:02] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:52:08] Польские Пряники to admins: НАПИШЕШЬ КАК ЕХАТЬ
+[05:52:12] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodsherman
+[05:52:24] Mr_Pyro to admins: ВПЕРЁД!
+[05:53:07] Mr_Pyro was killed by ent_jack_gmod_ezsentry
+[05:53:23] Польские Пряники to admins: НУ ВОТ И ВСЁ
+[05:53:33] Польские Пряники: ЭТО НАСТУПАТЕЛЬНЫЙ ЖЕ
+[05:53:36] Польские Пряники: АЙ
+[05:53:47] Mr_Pyro was killed by ent_jack_gmod_ezsentry
+[05:54:00] Польские Пряники to admins: Я НЕ УЛСШЫАЛ У МЕНЯ ПТСР
+[05:54:22] Польские Пряники: ТАКОЙ ЖЕ В ПЛАНЕ
+[05:54:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[05:54:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:28] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:36] Польские Пряники: К
+[05:54:40] Польские Пряники: С 
+[05:54:48] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:48] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:48] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[05:54:48] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:48] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:48] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:48] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:48] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:54:58] Польские Пряники to admins: ТУТ СИСТЕМА ЧУЖОЙ СВОЙ
+[05:54:58] Mr_Pyro to admins: Я ГОТОВ, ЖДУ ПРИКАЗА
+[05:55:53] Польские Пряники: СКОЛЬКО СНЯЛО
+[05:55:58] Польские Пряники: А 
+[05:56:04] Польские Пряники: У МЕНЯ КАК ТОЛЬКО НИЖНИЙ ЭКРАН СНЕСЛО
+[05:56:09] Польские Пряники: СРАЗУ СДОХ
+[05:56:20] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[05:56:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:24] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:24] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:24] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[05:56:24] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:24] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:24] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:24] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:24] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[05:56:32] Польские Пряники: СЯДЬ В СВОЙ И ВКЛЮЧИ ТУРЕЛИ
+[05:56:34] Польские Пряники: У СЕБЯ
+[05:56:39] Mr_Pyro was killed by ent_jack_gmod_ezsentry
+[05:56:51] Польские Пряники to admins: Я ОТКЛЮЧИЛ
+[05:57:05] Польские Пряники: НЕ ПВП
+[05:57:07] Польские Пряники: ПРОСТО
+[05:57:11] Польские Пряники: СИСТЕМА СВОЙ ЧУЖОЙ
+[05:57:13] Польские Пряники: ПОКАЖУ
+[05:57:28] Польские Пряники to admins: КАК ВКЛЮЧИШЬ И СЯДЕШЬ СКАЖИ
+[05:57:34] Mr_Pyro to admins: ГОТОВО
+[05:57:47] Польские Пряники: ОИИ ПРИВЕТ АБРАМС
+[05:58:00] Польские Пряники: СИСТЕМА
+[05:58:03] Польские Пряники: СВОЙ ЧУЖОЙ
+[05:58:08] Польские Пряники: НЕ ФРЕНДС
+[05:58:27] Польские Пряники: ВОТ ВЫЛЕЗ СРАЗУ ЗЛИ
+[05:58:44] Польские Пряники: Я ПИСЯТЬ ВЫПИЛ 1.5 ЛИТРА КВАСА
+[05:58:47] Польские Пряники: ТЕПЕРЬ В ТУАЛЕТ ХОЧУ
+[05:59:39] Client "RusLanConnection" connected.
+[06:00:27] Mr_Pyro suicided!
+[06:00:55] Польские Пряники to admins: СТОИТ МНЕ СНЕСТИ ТЕБЕ 1-2 ПАНЕЛИ И ТЕБЕ КОНЕЦ
+[06:00:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:00:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:00:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[06:00:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:00:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:00:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:00:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:00:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:01:01] Польские Пряники: СЯДЬ ВНУТРЬ
+[06:01:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:01:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:01:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[06:01:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:01:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:01:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:01:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:01:09] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:02:11] Польские Пряники: МАГИЯ
+[06:02:26] Польские Пряники: ХОЛОДНО
+[06:02:47] Польские Пряники: У НАС В СЕРЕДИНЕ АПРЕЛЯ ГРАД
+[06:03:04] Польские Пряники: ЕЩЁ СВОЙ ЧУЖОЙ РАБОТАЕТ И ДЛЯ ЛЕОПАРД-2
+[06:03:19] Польские Пряники: СЯДЬ
+[06:03:30] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:30] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:30] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[06:03:30] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:30] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:30] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:30] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:30] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:31] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:31] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:31] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[06:03:31] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:31] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:31] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:31] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:31] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:03:37] Польские Пряники: ОЙ
+[06:03:42] Польские Пряники: ЧЕ ТО НЕ АКТИВИРОВАЛАСЬ
+[06:03:43] Польские Пряники: СИСТЕМА
+[06:03:49] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 250 seconds).
+[06:03:55] Польские Пряники: ТАМ СЕКРЕТ
+[06:04:01] Польские Пряники: НУ ПРЕДПОЛОЖИ
+[06:04:23] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:04:23] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:04:23] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[06:04:23] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:04:23] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:04:23] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:04:23] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:04:23] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[06:04:25] Польские Пряники: СЯДЬ
+[06:04:26] Польские Пряники: ВНУТРЬ
+[06:04:31] RusLanConnection granted god mode upon Themself
+[06:04:31] RusLanConnection: !god ^
+[06:04:32] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsentry
+[06:04:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[06:04:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezammo
+[06:04:43] Польские Пряники: ВОТ ДАЖЕ ТАК
+[06:04:56] Польские Пряники: СЯДЬ ВНУТРЬ
+[06:05:10] Польские Пряники: НЕЕ
+[06:05:22] Польские Пряники: ТАМ НЕ ОТ ТОГО ЧЕЙ КОГО
+[06:05:29] Польские Пряники: И ЧЬЯ
+[06:05:33] Польские Пряники: ТАМ ВАЩЕ ПРИМИТИВ
+[06:05:47] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituredresser001a.mdl
+[06:05:53] Польские Пряники: ОЙ
+[06:06:06] RusLanConnection suicided!
+[06:06:06] RusLanConnection slayed Themself
+[06:06:06] RusLanConnection: !slay ^
+[06:06:12] Польские Пряники: БОИТСЯ
+[06:06:31] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[06:06:37] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/oildrum001_explosive.mdl
+[06:06:43] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[06:06:43] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[06:06:43] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[06:06:43] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[06:06:45] RusLanConnection granted god mode upon Themself
+[06:06:45] RusLanConnection: !god ^
+[06:06:50] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[06:07:01] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_docks/channelmarker_gib02.mdl
+[06:07:02] Польские Пряники<STEAM_0:0:555258766> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[06:07:27] Mr_Pyro was killed by prop_physics
+[06:07:42] Польские Пряники: !SPECTATE Rus
+[06:07:47] Польские Пряники: !SPECTATE
+[06:08:04] Польские Пряники: f[f[f[
+[06:08:06] Польские Пряники: аххахахах
+[06:08:17] Польские Пряники: я за русланом смотрю
+[06:08:19] Польские Пряники: бегает чото
+[06:08:29] Польские Пряники: пропиши !spectate
+[06:08:46] Польские Пряники: не
+[06:08:58] Mr_Pyro: говно
+[06:09:04] Mr_Pyro: я н могу говорить в микро
+[06:09:08] Польские Пряники: бегает чето
+[06:09:08] Mr_Pyro: когда спктейт
+[06:09:35] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:09:48] Польские Пряники: маршрут построен
+[06:09:50] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_gasmask
+[06:10:51] Польские Пряники: я ща с рулем
+[06:11:04] Польские Пряники: посмотри как двигается
+[06:11:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_radiobackpack
+[06:11:25] Client "andreyrad2017" connected.
+[06:12:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_flametank
+[06:12:36] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:13:45] Польские Пряники: а
+[06:13:46] Польские Пряники: я
+[06:13:47] Client "Miyagi" connected.
+[06:13:55] Польские Пряники: че это пропы
+[06:13:59] Польские Пряники: сядь
+[06:14:00] Польские Пряники: внутрь
+[06:14:05] Польские Пряники: все
+[06:14:10] Польские Пряники: не едешь больше
+[06:14:31] Польские Пряники: сядь
+[06:14:37] Польские Пряники killed Mr_Pyro using wep_jack_gmod_hands
+[06:15:03] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:15:04] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezflashbang
+[06:15:58] Польские Пряники set the hp for Themself to 100
+[06:15:58] Польские Пряники: !hp Пол 100
+[06:16:07] Польские Пряники stripped weapons from Themself
+[06:16:07] Польские Пряники: !strip Пол
+[06:16:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:16:18] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:17:05] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:17:07] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:17:10] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezammo
+[06:17:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezflashbang
+[06:17:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezflashbang
+[06:17:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezflashbang
+[06:17:47] Польские Пряники killed Mr_Pyro using tfa_doiwelrod
+[06:18:09] Client "kosmokot" connected.
+[06:18:11] Польские Пряники: ты один раз
+[06:18:14] Client "Нео" connected.
+[06:18:17] Польские Пряники: меня чуть гранатой меня не убил
+[06:18:27] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezammo
+[06:18:32] PoPcat: СУКА
+[06:18:42] PoPcat: БОГ ЭЛЕКТРИК ЭТО ТЫ??
+[06:18:58] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknade
+[06:19:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknade
+[06:19:07] PoPcat: УСЛЫШЬ МОИ МОЛИТВЫ
+[06:19:22] Mr_Pyro killed Польские Пряники using tfa_doiwelrod
+[06:19:24] Польские Пряники: почти
+[06:19:29] Польские Пряники teleported to Mr_Pyro
+[06:19:29] Польские Пряники: !goto mr
+[06:19:30] Польские Пряники: почти
+[06:19:32] Польские Пряники: убил
+[06:19:33] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_healthkit
+[06:19:33] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_healthkit
+[06:19:33] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_healthkit
+[06:19:33] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_healthkit
+[06:19:34] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_healthkit
+[06:19:38] Польские Пряники killed Mr_Pyro using ent_jack_gmod_ezsticknade
+[06:19:49] Client "andreyrad2017" spawned in server <STEAM_0:0:511259525> (took 504 seconds).
+[06:19:51] RusLanConnection cloaked Themself by amount 0
+[06:20:04] Client "Нео" spawned in server <STEAM_0:1:592067358> (took 110 seconds).
+[06:20:07] Польские Пряники: не знаю
+[06:20:08] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 381 seconds).
+[06:20:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznade_proximity
+[06:20:24] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezaidradio
+[06:20:27] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbattery
+[06:20:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznade_proximity
+[06:20:48] Польские Пряники: чеее
+[06:20:54] Польские Пряники: чеееее
+[06:21:06] Польские Пряники: ХАХАХАХАХА
+[06:21:15] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[06:21:23] Польские Пряники: хэпэм
+[06:21:24] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznade_proximity
+[06:21:27] Польские Пряники killed Mr_Pyro using env_explosion
+[06:21:32] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznade_proximity
+[06:21:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznade_proximity
+[06:21:45] Нео: ты пр что
+[06:21:52] Польские Пряники: не приближайся
+[06:21:54] Нео: э
+[06:21:57] Польские Пряники: ко мне
+[06:21:58] RusLanConnection cloaked Themself by amount 0
+[06:22:15] Польские Пряники: у меня нет детпаков
+[06:22:16] Нео killed Miyagi using wep_jack_gmod_hands
+[06:22:17] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_htorso
+[06:22:18] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_hlthigh
+[06:22:18] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_hrthigh
+[06:22:19] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_spelvis
+[06:22:20] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznade_proximity
+[06:22:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_maska
+[06:22:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznade_proximity
+[06:22:29] Нео killed Miyagi using rust_eoka
+[06:22:34] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_slcalf
+[06:22:34] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_srcalf
+[06:22:35] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_slforearm
+[06:22:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznade_proximity
+[06:22:53] Нео: выживать и убивать
+[06:22:54] Польские Пряники: у меня нету детпаков
+[06:22:59] Польские Пряники: это не детпакви
+[06:23:10] Нео: разбираю
+[06:23:19] Нео: да
+[06:23:20] Польские Пряники: у меня внутри кишечника
+[06:23:26] Нео: в ыдва новичкка?
+[06:23:27] Польские Пряники: взорвались остальные 4 гранаты
+[06:23:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznade_proximity
+[06:23:30] Польские Пряники suicided!
+[06:23:35] Нео: ладно
+[06:23:37] Польские Пряники teleported to Mr_Pyro
+[06:23:37] Польские Пряники: !goto Mr
+[06:23:46] (TEAM) Нео: нты забиндил инвентарь?
+[06:23:47] Польские Пряники: ну
+[06:23:54] Нео: ты забиндил инвентарь?
+[06:24:02] Польские Пряники: баг тупой
+[06:24:03] Нео: да
+[06:24:16] Нео: jmod_ez_inv
+[06:24:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eztoolbox
+[06:24:28] andreyrad2017: !jmod_ez_inv
+[06:24:30] Client "Мочеglouth" connected.
+[06:24:35] Нео: пиздец ты голова
+[06:24:39] Польские Пряники: ХАХАХАХ
+[06:24:42] Польские Пряники: ГЛОБАЛ МЕССЕДЖ
+[06:24:44] andreyrad2017: /jmod_ez_inv
+[06:24:44] Нео: в консоль бинд сделай
+[06:24:46] Польские Пряники: В КОРОБКЕ
+[06:25:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznade_proximity
+[06:25:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[06:25:13] Client "Lenovoved" connected.
+[06:25:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[06:25:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[06:25:20] Польские Пряники: ЛЕНОВОВЕД
+[06:25:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[06:25:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[06:25:23] Польские Пряники: У ПЕМНЯ ХП
+[06:25:26] Польские Пряники: СТОЙ
+[06:25:27] Польские Пряники: ЩА
+[06:25:29] Нео: бля
+[06:25:33] Нео: ща админа похову
+[06:25:35] Польские Пряники: ЗАЙДИ
+[06:25:36] Польские Пряники: ОЙ
+[06:25:37] Польские Пряники: ПРИМИ
+[06:25:41] Нео: я плохо объясняю
+[06:25:49] Польские Пряники: деньги
+[06:25:55] Польские Пряники: деньги
+[06:25:57] Польские Пряники: глянь
+[06:26:00] Нео to admins: помогите новичку, я плдохо объясняю
+[06:26:10] Нео: ща скажут
+[06:26:14] Польские Пряники: каждому админу куча денег
+[06:26:19] Нео: на этом
+[06:26:25] Нео: на е
+[06:26:47] Польские Пряники: не
+[06:26:48] Польские Пряники: не пи
+[06:26:50] Нео: что найти?
+[06:27:03] Нео: это говно верстак
+[06:27:08] Miyagi: можно твой пистолет
+[06:27:21] Польские Пряники: ты нуб
+[06:27:23] Miyagi: спасибо
+[06:27:25] Нео: да
+[06:27:34] Польские Пряники silently slayed Miyagi
+[06:27:34] Польские Пряники: !sslay Mi
+[06:27:34] Miyagi: гулять
+[06:27:42] Польские Пряники silently slayed Mr_Pyro
+[06:27:42] Польские Пряники: !sslay Mr
+[06:27:46] Нео: альт е
+[06:27:50] Польские Пряники: !bring Mr
+[06:27:55] Польские Пряники brought Mr_Pyro
+[06:27:55] Польские Пряники: !bring Mr
+[06:28:02] Нео: помоги ему
+[06:28:06] Нео: стой
+[06:28:10] Нео: блять
+[06:28:14] Польские Пряники: я просто продал плывтаун
+[06:28:15] Нео: никакая
+[06:28:16] Нео: пока
+[06:28:27] Польские Пряники: прибавка
+[06:28:29] Польские Пряники: палюбасу
+[06:28:33] Нео: ты кто
+[06:28:52] Польские Пряники: очень мого дене
+[06:28:56] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznuke_small
+[06:29:00] Нео: я обычно стаком играю
+[06:29:07] PoPcat: ПРИВЕТ
+[06:29:07] Нео: у нас не из чего крафтить
+[06:29:10] Client "Мочеglouth" spawned in server <STEAM_0:0:612066619> (took 280 seconds).
+[06:29:17] Польские Пряники: энти
+[06:29:18] Польские Пряники: эйр
+[06:29:19] Нео: да там долго крафтить
+[06:29:21] Польские Пряники: крафт
+[06:29:22] PoPcat: ТЫ КТО
+[06:29:29] Нео: легче новое оружие пока сделать
+[06:29:31] Miyagi: а зачем тебе оружие?
+[06:29:33] PoPcat: ТЫ ВЕРИЩЬ В БОГА ЭЛЕКТРИКА?
+[06:29:38] Miyagi: нет
+[06:29:40] Нео: на делеть выкидивать
+[06:29:41] PoPcat killed Miyagi using tfa_doim1911
+[06:29:47] Нео: delete
+[06:30:07] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsticknadebundle
+[06:30:10] Нео killed Miyagi using rust_boltrifle
+[06:30:10] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsticknadebundle
+[06:30:16] Польские Пряники killed Mr_Pyro using lvs_wheeldrive_dodhalftrack_us
+[06:30:26] Польские Пряники brought Mr_Pyro
+[06:30:26] Польские Пряники: !bring Mr
+[06:30:27] andreyrad2017 killed Miyagi using rust_boltrifle
+[06:30:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezlandmine
+[06:30:46] Нео: ага
+[06:30:52] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknade
+[06:30:57] Польские Пряники suicided!
+[06:30:57] Польские Пряники killed Mr_Pyro using ent_jack_gmod_ezsticknade
+[06:31:06] Нео: это спавн
+[06:31:10] Miyagi: НЕЕЕЕЕЕЕЕЕЕ
+[06:31:18] Нео to admins: объяснете ему как биндить
+[06:31:18] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_gaz67
+[06:31:28] Нео: а
+[06:31:40] Польские Пряники teleported to Mr_Pyro
+[06:31:40] Польские Пряники: !goto Mr
+[06:31:42] RusLanConnection teleported to andreyrad2017
+[06:31:43] Польские Пряники: ахахах
+[06:31:50] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:32:01] RusLanConnection uncloaked Themself
+[06:32:01] Польские Пряники: я
+[06:32:02] Нео: а кстати
+[06:32:09] Нео: как забиндить ему
+[06:32:17] Нео: НИКТО НЕ ЧИТАЕТ
+[06:32:28] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_bm31
+[06:32:30] RusLanConnection: bind i jmod_ez_inv
+[06:32:38] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_eztimebomb
+[06:32:47] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_unic_p107
+[06:32:50] Польские Пряники: уник
+[06:32:54] RusLanConnection cloaked Themself by amount 0
+[06:32:54] Нео: чта
+[06:32:57] Miyagi: ну давай стреляй
+[06:33:00] Польские Пряники: уэээ
+[06:33:02] Нео: а
+[06:33:04] Нео: мияги
+[06:33:05] Нео: это ты
+[06:33:07] Польские Пряники: я хочу из нее брели
+[06:33:07] Miyagi: да
+[06:33:08] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_compressor
+[06:33:09] andreyrad2017 killed Miyagi using rust_boltrifle
+[06:33:09] Польские Пряники: бредли
+[06:33:10] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_turbo
+[06:33:11] Польские Пряники: сделать
+[06:33:14] Польские Пряники: стой
+[06:33:14] Нео: пиздец ты голова
+[06:33:43] andreyrad2017 killed Miyagi using rust_boltrifle
+[06:33:53] Нео: БЛЯТЬ
+[06:34:15] Польские Пряники: эточо
+[06:34:21] Польские Пряники: ахаххах нубы
+[06:34:26] Польские Пряники: катюша
+[06:34:33] Нео killed Miyagi using wep_jack_gmod_hands
+[06:34:41] Польские Пряники: не
+[06:34:41] Нео: памааги
+[06:34:50] Нео: мияги не дает играть
+[06:35:00] Miyagi killed Нео using wep_jack_gmod_hands
+[06:35:04] Нео: убей его блять
+[06:35:06] Нео: ебалн
+[06:35:31] andreyrad2017 killed Miyagi using wep_jack_gmod_hands
+[06:35:40] Нео: да да
+[06:35:45] Нео: мияги
+[06:35:48] Нео: он был нормальным
+[06:36:16] Польские Пряники: страфе
+[06:36:28] Нео: мияги первый начал
+[06:36:52] Нео: я кстати тот кто попросил расстрелять тебя
+[06:36:55] Нео: с вертика
+[06:37:10] Нео: да давно
+[06:37:12] Нео: не помню
+[06:37:19] Нео: НЕ СОСИ МОЙ ЧЛЕН
+[06:37:22] Нео killed andreyrad2017 using rust_eoka
+[06:37:22] Нео killed Miyagi using rust_eoka
+[06:37:25] Нео: МИНУС ДВА
+[06:37:35] Польские Пряники stripped weapons from Themself
+[06:37:35] Польские Пряники: !strip Пол
+[06:37:36] Нео: да давно еще добавили
+[06:37:42] Нео: ла не
+[06:37:44] Нео: его нету
+[06:37:47] Нео: просто картинки
+[06:38:03] andreyrad2017 killed Miyagi using wep_jack_gmod_hands
+[06:38:05] Miyagi: за что
+[06:38:07] Польские Пряники teleported to Mr_Pyro
+[06:38:07] Польские Пряники: !goto mr
+[06:38:08] Нео: хз
+[06:38:32] Нео: не знаешь кто кстати посмел назвать свое государство вольтисты?
+[06:38:43] Mr_Pyro suicided!
+[06:38:43] Mr_Pyro slayed Themself
+[06:38:43] Mr_Pyro: !slay Mr_Pyro
+[06:38:50] Нео: молодлец
+[06:38:55] Нео: не не
+[06:38:57] Нео: мы вольты
+[06:39:05] Польские Пряники: это мой обгорвеший труп
+[06:39:07] Нео: там кто то
+[06:39:11] Нео: про эту
+[06:39:20] Нео: да да)
+[06:39:29] Нео: мы рассчитали это как угрозу
+[06:39:29] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:39:37] Нео: пошлите посмори кто там
+[06:39:46] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:39:53] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:40:13] Нео: да
+[06:40:23] Нео: зачем
+[06:40:28] Нео: у мкеня 1 хп
+[06:40:32] Dropped "mode marpek" from server<STEAM_0:0:502258539>
+[06:40:32] mode marpek suicided!
+[06:40:37] Нео: пошлите искать фейк вольта
+[06:40:40] Польские Пряники: бонус за безумный трюк
+[06:40:41] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:40:44] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:40:45] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:40:46] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:40:51] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_unic_p107
+[06:40:53] Нео: кто то назвал себя вольтом
+[06:40:55] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_bmw_r75_upd
+[06:40:58] Нео: и это ошибка
+[06:41:01] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_bmw_r75_upd
+[06:41:18] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_bmw_r75_upd
+[06:41:22] Нео: Убери
+[06:41:24] Нео: пока
+[06:41:24] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_bmw_r75_upd
+[06:41:43] Нео: СЭО
+[06:41:51] Нео: ОПА
+[06:41:53] Нео: ТЫ СВОЙ
+[06:41:58] Нео: ДА СТОЙъ
+[06:42:02] PoPcat killed Miyagi using wep_jack_gmod_ezpickaxe
+[06:42:09] Нео: стой
+[06:42:16] Нео: да пиздец ты конечно
+[06:42:23] Нео: а ты кто кстати
+[06:42:25] Нео: я знаю
+[06:42:30] Нео: я тут давно играю
+[06:42:35] Нео: да
+[06:42:39] Нео: ЧЕЛ
+[06:42:55] Нео: Я ТУТ БУКВАЛЬНО С БРАТАНАМИ КАЖДЫЙ РАЗ ДЕЛАЮ ВОЛЬТИСТКУЮ ИМПЕРИЮ
+[06:43:18] Нео: я как раз сюда шел что бы спросить за название
+[06:43:24] Нео: я думал фанаты типо
+[06:43:48] Нео: да
+[06:43:51] Нео: я же играл
+[06:43:52] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_healthkit
+[06:43:52] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_healthkit
+[06:43:52] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_healthkit
+[06:44:13] Mr_Pyro killed Польские Пряники using tfa_doi_marinebayonet
+[06:44:17] Нео: пиздец
+[06:44:22] Польские Пряники: !goto Mr
+[06:44:25] Нео: руслан наверно нихуя не сделает
+[06:44:27] Польские Пряники teleported to Mr_Pyro
+[06:44:27] Польские Пряники: !goto Mr
+[06:44:46] Нео: ага
+[06:44:56] Нео: я тут продавал еще туркменестан
+[06:45:00] Польские Пряники killed Mr_Pyro using rust_spas12
+[06:45:02] Нео: выгодно вроде
+[06:45:07] Нео: лол
+[06:45:09] Mr_Pyro: !brint Польские Пряники
+[06:45:15] Mr_Pyro: !bring Польские Пряники
+[06:45:34] Нео: ща ща
+[06:45:42] Польские Пряники killed Mr_Pyro using rust_nailgun
+[06:46:48] Нео: это был не фейк вольт
+[06:46:56] Нео: еще сервер есть
+[06:46:59] Mr_Pyro stripped weapons from Themself
+[06:46:59] Нео: не забывай
+[06:47:03] Нео: нет блять конечно
+[06:47:17] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_gasmask
+[06:47:24] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:47:26] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpickaxe
+[06:47:28] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:47:45] Нео: дай лопату
+[06:47:56] Нео: поиграйте на бегготене
+[06:48:22] Нео: энергии
+[06:48:29] Польские Пряники: КАКОЙ УЖАС
+[06:48:47] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:48:48] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:48:50] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:48:55] Нео: что
+[06:49:02] PoPcat: XNJ
+[06:49:04] Польские Пряники: Я НЕ ПИСАЛ БЫ ЕСЛИ БЫ МЕНЯ НЕ УБИВАЛИ БЫ ПРИ МОЛЧАНИИ
+[06:49:27] Нео: да пиздец ты прям
+[06:49:33] Нео: мы чо горы?
+[06:49:41] Польские Пряники teleported to Mr_Pyro
+[06:49:53] Нео: гнй
+[06:50:25] Нео: сначала наверно геолокатор
+[06:50:52] Нео: технологично
+[06:51:48] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:51:48] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:51:56] Нео: да
+[06:52:52] АГАНИМ В ЖОПЕ killed Miyagi using tfa_rs2v_akm
+[06:52:55] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezammo
+[06:53:54] PoPcat killed Miyagi using tfa_doim1912
+[06:53:59] Нео: ДА
+[06:54:10] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:54:11] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpickaxe
+[06:54:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[06:54:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezammo
+[06:55:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezammo
+[06:55:08] Польские Пряники<STEAM_0:0:555258766> spawned sent item_healthkit
+[06:55:08] Польские Пряники<STEAM_0:0:555258766> spawned sent item_healthkit
+[06:56:33] Dropped "Мочеglouth" from server<STEAM_0:0:612066619>
+[06:56:33] Мочеglouth suicided!
+[06:58:16] PoPcat killed Польские Пряники using tfa_doim1912
+[06:58:29] andreyrad2017 killed Miyagi using tfa_doim1919
+[06:58:55] Польские Пряники: прибегу
+[06:59:14] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezammo
+[07:01:16] Нео: хуй
+[07:01:26] Нео: Хайли
+[07:01:31] Нео: куда
+[07:01:36] Miyagi killed Польские Пряники using rust_boltrifle
+[07:01:37] Нео: зачем
+[07:01:38] Польские Пряники: да вы чо
+[07:01:41] Польские Пряники: я же в шутку
+[07:01:43] Нео: почему
+[07:01:47] Польские Пряники stripped weapons from Miyagi
+[07:01:47] Польские Пряники: !strip Mi
+[07:01:51] Нео: во что ты верешь?
+[07:01:52] Польские Пряники silently slayed Miyagi
+[07:01:52] Польские Пряники: !sslay Mi
+[07:02:00] PoPcat killed АГАНИМ В ЖОПЕ using tfa_doim1912
+[07:02:06] Нео: он нам угрожал
+[07:02:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezammo
+[07:02:14] Нео: ОПА
+[07:02:23] Нео: У НЕГО ТУТ БОМБА
+[07:02:28] Польские Пряники: это чо
+[07:02:32] Польские Пряники: за движение было
+[07:02:38] Польские Пряники: только что
+[07:02:40] Польские Пряники: ради чего
+[07:02:50] Польские Пряники: а зачем расформировалась
+[07:03:00] Польские Пряники: услышал
+[07:03:05] Нео: бля
+[07:03:13] Польские Пряники: напиши в глобал
+[07:03:15] Польские Пряники: месседж
+[07:03:18] Польские Пряники: причины войн
+[07:03:20] Нео: а
+[07:03:21] VIJER was killed by ent_rus_jsmod_pipe
+[07:03:21] RusLanConnection teleported to АГАНИМ В ЖОПЕ
+[07:03:29] АГАНИМ В ЖОПЕ: supply radio: global message
+[07:03:35] АГАНИМ В ЖОПЕ: supply radio: global message
+[07:03:38] Нео: убей меня
+[07:03:41] Нео: у меня 1 хп
+[07:03:43] PoPcat killed Нео using wep_jack_gmod_ezpickaxe
+[07:03:57] Польские Пряники: я пипи
+[07:04:06] Нео: что
+[07:04:11] Miyagi killed АГАНИМ В ЖОПЕ using tfa_doiluger
+[07:04:17] Нео: где
+[07:04:18] Client "klinskoe za 200" connected.
+[07:04:20] Нео: дробаш
+[07:04:52] andreyrad2017 killed Miyagi using tfa_doim1919
+[07:05:20] Mr_Pyro stripped weapons from Themself
+[07:05:20] Mr_Pyro: !strip Mr_Pyro
+[07:05:35] Client "Mr.dublikc" connected.
+[07:05:35] Нео: мияги
+[07:05:39] Нео: давай с нами
+[07:06:00] Нео: патроны есть
+[07:06:03] Mr_Pyro cloaked Themself by amount 0
+[07:06:03] Mr_Pyro: !cloak Mr_Pyro
+[07:06:47] Нео: ты кстати кто в дс?
+[07:06:53] Нео: кет
+[07:07:06] Нео: да меян там нет
+[07:07:14] Нео: бля
+[07:07:30] Нео: ага
+[07:07:37] Нео: поддержка
+[07:07:47] Mr_Pyro uncloaked Themself
+[07:07:47] Mr_Pyro: !uncloak Mr_Pyro
+[07:07:57] andreyrad2017 killed Miyagi using tfa_doim1919
+[07:07:58] PoPcat killed andreyrad2017 using tfa_doim1912
+[07:08:00] PoPcat killed АГАНИМ В ЖОПЕ using tfa_doim1912
+[07:08:11] Dropped "АГАНИМ В ЖОПЕ" from server<STEAM_0:1:74811748>
+[07:08:11] АГАНИМ В ЖОПЕ suicided!
+[07:08:41] Нео: нормас
+[07:08:51] Dropped "VIJER" from server<STEAM_0:0:860750884>
+[07:08:51] VIJER suicided!
+[07:08:55] Нео: оставляй его
+[07:09:00] Нео: вндрея
+[07:09:17] Нео: я бы эту разобрал
+[07:09:23] Нео: базу
+[07:09:56] Нео: интересно куда
+[07:09:59] Mr_Pyro cloaked Themself by amount 0
+[07:09:59] Mr_Pyro: !cloak Mr_Pyro
+[07:10:19] Нео: я тоже
+[07:10:24] Нео: э
+[07:10:26] Нео: откуда\
+[07:10:28] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 370 seconds).
+[07:10:32] Нео: кто напердел
+[07:10:33] Mr_Pyro uncloaked Themself
+[07:10:35] Mr_Pyro uncloaked Themself
+[07:10:37] PoPcat: supply radio: fulton-crate
+[07:10:53] Нео: пиздец вы
+[07:11:00] PoPcat killed Miyagi using tfa_doim1912
+[07:11:01] PoPcat killed andreyrad2017 using tfa_doim1912
+[07:11:07] Нео: перестарался
+[07:11:21] andreyrad2017: а меня за что?
+[07:11:30] Miyagi killed PoPcat using tfa_doienfield
+[07:11:31] klinskoe za 200: ЭТО ЧТО ЗА ПОЗОР
+[07:11:40] (TEAM) klinskoe za 200: КТО НАГОВНИЛ
+[07:11:55] PoPcat killed Miyagi using tfa_doim1912
+[07:12:10] Нео: иди на бегготен играть
+[07:12:16] Нео: а что там
+[07:12:29] klinskoe za 200: псст
+[07:12:34] Нео: там реактор
+[07:12:40] klinskoe za 200: будет какойнибудь ивент нет?
+[07:12:51] klinskoe za 200: ну блин
+[07:12:58] klinskoe za 200: не ври
+[07:13:00] Нео: ща кое что уточню у админа
+[07:13:05] klinskoe za 200: зомбе ивент прикольный был
+[07:13:13] klinskoe za 200: не ну ты припух
+[07:13:18] klinskoe za 200: мияги
+[07:13:21] Нео to admins: если мы ядерку кинем поменяет карту?
+[07:13:31] klinskoe za 200: УРАААА
+[07:13:33] (TEAM) klinskoe za 200: ДАВАЙ
+[07:13:40] klinskoe za 200: FALLOUT EVENT
+[07:13:49] Miyagi killed klinskoe za 200 using wep_jack_gmod_hands
+[07:13:54] klinskoe za 200: я тиебе  припомю
+[07:13:57] klinskoe za 200: сука
+[07:14:07] Нео: так поменяешь карту если бабахнем?
+[07:14:33] Нео: он и умер как мясо
+[07:14:44] Нео: хз
+[07:15:27] klinskoe za 200: о
+[07:15:32] klinskoe za 200: да
+[07:15:37] klinskoe za 200: мияги он такой
+[07:15:41] klinskoe za 200: писюк
+[07:15:46] (TEAM) klinskoe za 200: не хорошиц
+[07:15:52] Нео: блять
+[07:15:53] andreyrad2017 killed Miyagi using tfa_doim1912
+[07:15:56] Нео: что это ща ящик
+[07:15:58] klinskoe za 200: агась
+[07:16:02] Нео: ферменский
+[07:16:11] Нео: из выращивать можно
+[07:16:13] (TEAM) klinskoe za 200: ПОМНИШЬ МЕНЯ
+[07:16:26] Нео: да
+[07:16:28] Нео: я же сказал
+[07:16:33] Нео: но нужна вода
+[07:16:36] Нео: он новичок
+[07:16:43] klinskoe za 200: ЭТО ПОЗОР
+[07:17:04] (TEAM) klinskoe za 200: неи
+[07:17:07] Client "ARTEM" connected.
+[07:17:13] PoPcat: supply radio: fulton-crate
+[07:17:25] Нео: опа
+[07:17:38] Нео: посмотри
+[07:17:41] (TEAM) Нео: дерево
+[07:17:43] Нео: дерева
+[07:17:46] Нео: только
+[07:17:50] Нео: посмотри чей труп
+[07:18:22] klinskoe za 200: ЧЕ
+[07:18:44] Нео: да
+[07:19:06] Client "romanun" connected.
+[07:19:22] Mr_Pyro to admins: Мияги Мияги
+[07:19:39] Нео: нормас
+[07:19:48] Mr_Pyro to admins: хаихихихи
+[07:19:49] Нео: легче правда было бы призвать сервак
+[07:20:01] Нео: я потратил уже
+[07:20:05] Нео: всм
+[07:20:06] Нео: что
+[07:20:14] Нео: да да
+[07:20:15] klinskoe za 200: СЕКУНДУ
+[07:20:16] Нео: я модер
+[07:20:22] Нео: как ты узнал?
+[07:21:40] Нео: да случайно
+[07:21:41] Польские Пряники teleported to Mr_Pyro
+[07:21:41] Польские Пряники: !goto mr
+[07:21:59] Нео: я мне в кайф
+[07:22:02] andreyrad2017 killed andreyrad2017
+[07:22:23] andreyrad2017: че произошло
+[07:22:40] klinskoe za 200: ММММ
+[07:22:43] klinskoe za 200: ЭТО КТО
+[07:22:48] (TEAM) klinskoe za 200: ЕСЛИ НЕ СЕКРЕТ
+[07:22:49] Нео killed Miyagi using tfa_doik98_scop
+[07:22:54] Нео: побег
+[07:22:54] klinskoe za 200: БЯЛТЬ
+[07:22:58] klinskoe za 200: а ну лажно
+[07:23:01] (TEAM) klinskoe za 200: ладно
+[07:23:04] klinskoe za 200: нууууу
+[07:23:17] Нео: андрейка бежит
+[07:23:19] klinskoe za 200: а что он делает?
+[07:23:21] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[07:23:22] klinskoe za 200: если не секрет
+[07:23:29] Нео: да это гах убил
+[07:23:31] klinskoe za 200: нуууу
+[07:23:34] Нео: гах
+[07:23:42] Нео: кстати
+[07:23:45] Нео: ебик
+[07:23:51] klinskoe za 200: о как
+[07:23:53] Нео: электрик дает технологии
+[07:23:58] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[07:24:01] klinskoe za 200: опа
+[07:24:11] Нео: какой
+[07:24:12] PoPcat killed Miyagi using tfa_doim1912
+[07:24:16] klinskoe za 200: а сразу сказать нельзя было?
+[07:24:17] Нео: короля7
+[07:24:19] klinskoe za 200: ла вер
+[07:24:22] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[07:24:24] klinskoe za 200: да вер
+[07:24:33] Нео: ща узнаем
+[07:24:37] Нео: как вольты
+[07:24:38] Польские Пряники set the hp for Themself to 12341234
+[07:24:42] Нео: на вскрытие
+[07:24:46] Нео: бля
+[07:24:56] klinskoe za 200: БЛЯТЬ ЭТО ПОСЛАННИК ОТ БОГА
+[07:24:58] Нео: не
+[07:24:59] klinskoe za 200: БАЛБЕСЫ
+[07:25:04] klinskoe za 200: он вам жнерги дает
+[07:25:11] Нео: извинись перед снайпером
+[07:25:15] klinskoe za 200: что
+[07:25:17] klinskoe za 200: за что
+[07:25:24] Нео: извинись
+[07:25:30] (TEAM) klinskoe za 200: ну извини
+[07:25:40] Нео: ты говоришь как типичный сиянист
+[07:25:43] Нео: а
+[07:25:45] Нео: чта
+[07:25:46] Нео: д
+[07:25:47] Нео: а
+[07:25:49] Польские Пряники suicided!
+[07:25:49] Польские Пряники slayed Themself
+[07:25:56] Нео: не
+[07:26:01] Нео: он не посланник
+[07:26:03] Нео: а ты?
+[07:26:06] klinskoe za 200: неа
+[07:26:11] Польские Пряники cloaked Themself by amount 0
+[07:26:11] klinskoe za 200: я просто балбес
+[07:26:18] Нео: извинист
+[07:26:21] klinskoe za 200: что только щас понял ка мешки с песком работат
+[07:26:22] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezcapacitor
+[07:26:26] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[07:26:32] Нео: сосать
+[07:26:39] klinskoe za 200: блять
+[07:26:50] klinskoe za 200: это бомба???
+[07:26:58] klinskoe za 200: это что
+[07:27:08] klinskoe za 200: гадем
+[07:27:13] klinskoe za 200: короче
+[07:27:14] Нео: да лампочка блять
+[07:27:15] klinskoe za 200: я с вами
+[07:27:20] Нео: нет
+[07:27:26] klinskoe za 200:  ЯПОНЯЛ
+[07:27:37] Нео: лампочку?
+[07:27:38] klinskoe za 200: С ЭТОЙ ШТУКОЙ НАДО АЛТАРЬ СДЕЛАТЬ
+[07:27:41] Нео: пиздец
+[07:28:00] Нео: в ящике
+[07:28:05] klinskoe za 200: можно газмаску
+[07:28:10] Нео: да
+[07:28:12] klinskoe za 200: а то я копыта откину так
+[07:28:21] Нео: мияги опять рецедивист
+[07:28:31] Нео: что
+[07:28:33] Нео: я не бра
+[07:28:36] Нео: л
+[07:28:37] klinskoe za 200: КИНЬТЕ ГАЗМАСКУ
+[07:28:50] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[07:29:12] klinskoe za 200: покэт
+[07:29:31] Нео: клин
+[07:29:39] klinskoe za 200: Я ЗАСТРЯО
+[07:29:47] Client "romanun" spawned in server <STEAM_0:0:618275322> (took 641 seconds).
+[07:29:53] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furniturebathtub001a.mdl
+[07:29:53] Нео: так что это
+[07:29:57] klinskoe za 200: спасибо нео
+[07:30:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[07:30:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezcapacitor
+[07:30:07] Mr_Pyro uncloaked Themself
+[07:30:07] Mr_Pyro: !uncloak Mr_Pyro
+[07:30:07] klinskoe za 200: ГАДЕМ
+[07:30:26] romanun: !respawn_g
+[07:30:29] klinskoe za 200: ЖЕРТВО ПРИНОШЕНИЕ
+[07:30:35] (TEAM) Нео: за такое должны давать 200 прозрений
+[07:30:39] romanun: !respawn_g
+[07:30:45] romanun: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:49] Нео: мы че праймами стали?
+[07:30:49] (TEAM) klinskoe za 200: Я ПЕРЫЙ
+[07:31:07] klinskoe za 200: Я ПРИНЕСУ СЕБЯ В ЖЕРТВУ
+[07:31:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezammo
+[07:31:13] Нео: кому
+[07:31:31] Нео: нет
+[07:31:33] romanun: !respawn_g
+[07:31:34] Нео: он админ
+[07:31:34] Польские Пряники killed klinskoe za 200 using prop_physics
+[07:31:36] Mr_Pyro<STEAM_0:1:157056677> spawned model models/hunter/misc/shell2x2a.mdl
+[07:31:38] Нео: пиздец
+[07:31:55] Client "maxim.kirichko" connected.
+[07:31:59] Нео: ща ща
+[07:32:03] Нео: я ему отвечю
+[07:32:04] klinskoe za 200: ЭТОТ ЧУВАК ИГРАЕТ С ОГНЕМ
+[07:32:09] Mr_Pyro<STEAM_0:1:157056677> spawned model models/hunter/misc/shell2x2a.mdl
+[07:32:15] romanun: !respawn_g
+[07:32:32] Dropped "romanun" from server<STEAM_0:0:618275322>
+[07:32:32] romanun suicided!
+[07:32:34] Client "romanun" connected.
+[07:32:39] klinskoe za 200: ДУРАЧКОВ ЛЕГКО В ЖЕРТВУ ПРИНОСИТЬ
+[07:32:59] andreyrad2017: приходи к нам
+[07:33:03] andreyrad2017: мы отдадим
+[07:33:06] Client "romanun" spawned in server <STEAM_0:0:618275322> (took 32 seconds).
+[07:33:07] andreyrad2017: мы тебя не растреляем
+[07:33:16] klinskoe za 200: апупеть я наговнил
+[07:33:25] Нео: чта
+[07:33:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezarmor_longfallboots
+[07:33:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[07:33:39] (TEAM) Нео: нихуево
+[07:33:53] klinskoe za 200: эх
+[07:34:03] Нео: я и так был правой рукой амебы вроде
+[07:34:09] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_rus_jsmod_pipe
+[07:34:10] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_rus_jsmod_pipe
+[07:34:11] klinskoe za 200: окей
+[07:34:14] Dropped "andreyrad2017" from server<STEAM_0:0:511259525>
+[07:34:14] andreyrad2017 suicided!
+[07:34:18] klinskoe za 200: БЛИН
+[07:34:21] Нео: амеба это вльт гитлер кста
+[07:34:25] Польские Пряники set the hp for Themself to 2147483647
+[07:34:28] klinskoe za 200: бля
+[07:34:28] Нео: бля
+[07:34:30] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_fumo_gmod_cratepack
+[07:34:32] Польские Пряники<STEAM_0:0:555258766> spawned sent item_healthkit
+[07:34:33] Польские Пряники<STEAM_0:0:555258766> spawned sent item_healthkit
+[07:34:33] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbasicparts
+[07:34:35] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbasicparts
+[07:34:36] Польские Пряники<STEAM_0:0:555258766> spawned sent item_healthkit
+[07:34:38] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_eztoolbox
+[07:34:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[07:34:42] klinskoe za 200: найс графити
+[07:34:42] Mr_Pyro stripped weapons from Themself
+[07:34:42] Mr_Pyro: !strip Mr_Pyro
+[07:34:53] Нео: залазь в ванну
+[07:34:55] Нео: он там
+[07:35:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[07:35:04] klinskoe za 200: ЗАЛАЗЬ 
+[07:35:05] Нео: залазь в ванну
+[07:35:09] Нео: все
+[07:35:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[07:35:11] Нео: давай
+[07:35:12] klinskoe za 200: БЫСТРО
+[07:35:25] Нео killed Miyagi using tfa_doik98_scop
+[07:35:40] klinskoe za 200: НИФИГА
+[07:35:42] (TEAM) Нео: каратнуло
+[07:35:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[07:35:57] Нео: он оказался какашкой
+[07:36:00] Нео: внутри
+[07:36:05] Нео: ебать
+[07:36:14] Нео: не какашкой
+[07:36:17] Нео: пропал
+[07:36:22] klinskoe za 200: ДАВАЙТЕ МЕНЯ
+[07:36:24] (TEAM) klinskoe za 200: Я ГОТОВ
+[07:36:28] Нео: интересно
+[07:36:29] klinskoe za 200: о как
+[07:36:30] Нео: откуда
+[07:36:47] klinskoe za 200: да
+[07:37:10] klinskoe za 200: ЖЕРТВОПРИНОШЕНИЕ ОНО ТАКОЕ
+[07:37:11] Нео: на бегготене вольты ежедневно пиздят себя 220 вольт чтожить
+[07:37:14] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezpounder
+[07:37:14] klinskoe za 200: ДОРОГОЕ
+[07:37:20] Нео: бля
+[07:37:21] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezpounder
+[07:37:21] klinskoe za 200: ЕБАТЬ
+[07:37:25] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezcapacitor
+[07:37:26] Нео: что это
+[07:37:46] klinskoe za 200: ЭТО БУР
+[07:38:09] klinskoe za 200: ВОЗВЫСИЛСЯ
+[07:38:30] klinskoe za 200: АНДРХА ТЕПЕРЬ КРУТЫШКА НА НЕБЕ
+[07:38:51] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[07:38:54] klinskoe za 200: ЭТО БУР
+[07:38:57] klinskoe za 200: Я ГОВОРИЛ
+[07:38:57] Нео: бля
+[07:39:03] Нео: выглядит иронично
+[07:39:07] Нео: надо сткл
+[07:39:07] klinskoe za 200: тихааа
+[07:39:11] Нео: надо стул
+[07:39:29] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[07:39:29] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[07:39:29] klinskoe za 200: Ф ИЗГАНОМ ПОДДЕРЖИ
+[07:39:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezarmor_flametank
+[07:39:38] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsignalnade
+[07:39:44] Нео: бля
+[07:39:47] klinskoe za 200: НИХУЯ
+[07:39:54] klinskoe za 200: облом
+[07:39:56] Нео: бля
+[07:39:57] klinskoe za 200 killed PoPcat using player
+[07:40:01] Нео: хах
+[07:40:04] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsignalnade
+[07:40:10] Client "maxim.kirichko" spawned in server <STEAM_0:0:803564488> (took 495 seconds).
+[07:40:18] Нео: пиздец
+[07:40:26] Нео: трупная яма с д21
+[07:40:34] Нео: да
+[07:40:37] Нео: и на д21
+[07:40:47] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[07:40:49] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezarmor_flametank
+[07:40:52] klinskoe za 200: BURN THIS NIHA DOWN
+[07:40:55] Miyagi killed Нео using tfa_doik98_scop
+[07:40:58] Нео: ты че
+[07:41:06] klinskoe za 200: ДАЙ СТВОЛ
+[07:41:11] Client "Helli" connected.
+[07:41:16] klinskoe za 200: Я ИМ ЧЕРЕП ПЕРЕХЕРАЧУ
+[07:41:32] klinskoe za 200: его бог сжег
+[07:41:38] klinskoe za 200: СПАСИБО ЭЛЕКТРИК
+[07:41:44] klinskoe za 200: А НЕТ
+[07:41:50] klinskoe za 200: НЕ ДО КОНЦА
+[07:42:02] RusLanConnection jailed Польские Пряники
+[07:42:16] Польские Пряники to admins: oni veryat v boga
+[07:42:20] RusLanConnection unjailed Польские Пряники
+[07:42:33] PoPcat killed Miyagi using tfa_doisw1917
+[07:42:39] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[07:42:39] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[07:42:39] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[07:42:52] Польские Пряники to admins: bog electricity
+[07:42:54] Нео: дай
+[07:43:01] Нео: винтовку
+[07:43:20] Нео: не
+[07:43:25] RusLanConnection teleported to maxim.kirichko
+[07:43:27] Mr_Pyro cloaked Themself by amount 0
+[07:43:27] Mr_Pyro: !cloak Mr_Pyro
+[07:43:29] klinskoe za 200: СПАСИБО
+[07:43:45] klinskoe za 200: АХАХ
+[07:43:45] Нео: ок
+[07:44:01] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_borealis/door_wheel001a.mdl
+[07:44:08] klinskoe za 200: БОГ НАМ ПОМОГАЕТ
+[07:44:11] Нео: supply radio: global message
+[07:44:13] klinskoe za 200: ОН ТРУПЫ УБИРАЕТ
+[07:44:24] Нео: supply radio: global message
+[07:44:32] Нео: хуйня не робит
+[07:44:43] Нео: это капитан джефф
+[07:44:50] klinskoe za 200: СВЯТОЙ ДУХ
+[07:44:54] Нео: у него такая моделька была на д21
+[07:44:54] klinskoe za 200: ЭЛЕКТРИКА
+[07:44:58] Польские Пряники uncloaked Themself
+[07:45:08] maxim.kirichko: Как скинуть рюкзак?
+[07:45:30] Польские Пряники: не токсичте
+[07:45:35] maxim.kirichko: Спасибо
+[07:45:37] Нео: ладно
+[07:45:46] klinskoe za 200: Я ЗАСТРЯЛ
+[07:45:49] maxim.kirichko: Команды просто забыол
+[07:45:51] RusLanConnection uncloaked Themself
+[07:46:08] maxim.kirichko: Помогите пожолуйста
+[07:46:12] Польские Пряники set the material for Themself to Models/effects/comball_sphere
+[07:46:14] klinskoe za 200: ГАДНМ
+[07:46:16] maxim.kirichko: Я умираю
+[07:46:23] klinskoe za 200: СТОЙ
+[07:46:28] klinskoe za 200: МАЛО
+[07:46:39] klinskoe za 200: ОГО
+[07:46:45] klinskoe za 200: ФУ
+[07:46:49] klinskoe za 200: ГЛУПАЯ ТУРЕЛЬ
+[07:46:51] Miyagi killed maxim.kirichko using tfa_doi_marinebayonet
+[07:46:56] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[07:46:59] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[07:47:00] klinskoe za 200: ПРИПУХЛИ
+[07:47:04] maxim.kirichko: *scrounge
+[07:47:15] PoPcat suicided!
+[07:47:23] klinskoe za 200: нифига его торкнуло
+[07:47:31] klinskoe za 200: АШАЛЕТЬ
+[07:47:36] Mr_Pyro to admins: злой
+[07:47:59] Mr_Pyro: да говно
+[07:48:06] Mr_Pyro: 10 минут до 12 часов
+[07:48:12] klinskoe za 200: НАДО РЕЧЬ ПРОРАБОТАТЬ
+[07:48:19] Mr_Pyro: не хочу спать
+[07:48:22] Mr_Pyro: (((
+[07:48:27] Нео: не
+[07:48:31] Нео: я не молился
+[07:48:36] Нео: у нас чит коды были
+[07:48:37] Mr_Pyro: ой
+[07:48:42] Нео: опа
+[07:48:44] maxim.kirichko: *handcraft*
+[07:48:46] Mr_Pyro: лучше туда не лезть
+[07:48:47] RusLanConnection uncloaked Mr_Pyro
+[07:48:58] Mr_Pyro: ой
+[07:48:59] klinskoe za 200: ДАР?
+[07:49:05] Mr_Pyro: что
+[07:49:12] Mr_Pyro: чего
+[07:49:13] Польские Пряники set the scale for PoPcat to 1
+[07:49:17] Mr_Pyro: я посуду мыл
+[07:49:17] PoPcat: sv_cheats 1
+[07:49:19] klinskoe za 200: НИФИГА
+[07:49:22] Mr_Pyro: я даже не видел этого
+[07:49:27] klinskoe za 200: ОТЪЕЛ
+[07:49:33] klinskoe za 200: ТЫ ОГОРМНЫЙ
+[07:49:41] Польские Пряники set the material for PoPcat to Models/effects/comball_sphere
+[07:49:43] klinskoe za 200: ТЫ ОГРОМНЫЙ ДА
+[07:49:44] Польские Пряники reset the material for PoPcat
+[07:50:00] maxim.kirichko: Как стол для крафта сделать?
+[07:50:15] Польские Пряники set the material for PoPcat to models/screenspace
+[07:50:28] klinskoe za 200: ТЫ КРУТЫШКА!
+[07:50:34] Польские Пряники: ТЫ ТОЛЬКО ГЛЯНЬ НА СЕБЯ
+[07:50:42] klinskoe za 200: ТЫ НЕ ТОЛЬК О ГРОМНЫЙ
+[07:50:50] maxim.kirichko: Handcraft
+[07:50:51] klinskoe za 200: А И ЕЩЕ ЗЕРКАЛЬЫНЙ ЧТОЛИ
+[07:51:07] klinskoe za 200: ПРОКАЧАТЬ ЖЕРТВОПРИНОШЕНИЕ
+[07:51:13] Польские Пряники teleported to Mr_Pyro
+[07:51:14] Client "Helli" spawned in server <STEAM_0:1:118543599> (took 603 seconds).
+[07:51:23] Польские Пряники: БОГ ЭЛЕКТРИК
+[07:51:23] klinskoe za 200: НУЖЕН АПГРЕЙД АЛТАРЯ
+[07:51:34] klinskoe za 200: БОЛЬШЕ ПОЧЕСЬЕЙ
+[07:51:37] klinskoe za 200: А И ЕЩЕ
+[07:51:45] maxim.kirichko: *craft*
+[07:51:49] Польские Пряники: ГЛАВНОЕ НЕ ЗАРЖАВЕТЬ
+[07:51:52] klinskoe za 200: НОВАЯ ЖЕРТВА
+[07:51:52] Miyagi killed Нео using tfa_doik98_scop
+[07:51:57] klinskoe za 200: Я ХОТЬ И НУБАС
+[07:52:04] Польские Пряники: ВОДА МОЙ ДРУГ
+[07:52:04] Нео: бля
+[07:52:07] klinskoe za 200: НО ВСЕРАВНО ПРИГОДЕН
+[07:52:07] Нео: аомог
+[07:52:11] Польские Пряники: ОНА ПОМОГАЕТ МНЕ ЧЕТЬ
+[07:52:11] Нео: помоги русланчик
+[07:52:19] Нео: помоги руслан
+[07:52:33] PoPcat killed klinskoe za 200 using prop_physics
+[07:52:43] Нео: сука
+[07:52:46] Нео: вытащи
+[07:52:47] klinskoe za 200: МНЕ БОГ СКАЗАЛ ТАК СДЕЛАТЬ
+[07:52:52] klinskoe za 200: ПОКАЗАЛ
+[07:52:54] Польские Пряники: ЭТО МОЙ ПРИЕМНИК
+[07:52:59] Польские Пряники: ПРИЕМНИК БОГА ЭЛЕКТРИКА
+[07:53:05] Нео: какого электричества
+[07:53:08] klinskoe za 200: ПРИМИ МОЮ ЖЕРТВУ ЭЛЕКТРИК!
+[07:53:10] Нео: Электрик блять
+[07:53:16] Польские Пряники: ОН СЛИШКОМ ЗАЩИЩЁН
+[07:53:23] Польские Пряники: Я НЕ МОГУ ПОВЛИЯТЬ
+[07:53:25] Нео: я ща ящиком стану
+[07:53:40] Нео: пиздец советы
+[07:53:41] klinskoe za 200: МЫ ВСЕ ДЕЛАЕМ РАДИ ТЕБЯ
+[07:53:54] Нео: а помощь будет?
+[07:53:57] RusLanConnection froze Нео
+[07:53:58] (TEAM) Нео: перемогна
+[07:54:04] Нео: не могу
+[07:54:06] Польские Пряники: БЕГИ
+[07:54:07] Польские Пряники: СКОРЕЕ
+[07:54:08] Нео: я застрял в чем то
+[07:54:12] Нео: прям сильно
+[07:54:13] maxim.kirichko: *jmod_ez_armor*
+[07:54:14] Польские Пряники: БЕГИ
+[07:54:18] Нео: я не держу
+[07:54:18] Miyagi killed klinskoe za 200 using tfa_doik98_scop
+[07:54:23] Нео: я ходить не могу
+[07:54:25] maxim.kirichko: jmof_ez_armor
+[07:54:29] Нео: сука
+[07:54:33] Нео: взорви
+[07:54:35] Нео: что то
+[07:54:37] maxim.kirichko: jmod_ez_armor
+[07:54:41] Польские Пряники: РАДИ ЧЕГО
+[07:54:43] Нео: гранату
+[07:54:46] Нео: обычную
+[07:54:51] Польские Пряники: РАДИ ЧЕГО
+[07:55:00] Нео: ДА ДИИ НАХУЙ
+[07:55:04] maxim.kirichko: Хули управление такое ебланское?
+[07:55:13] Miyagi killed klinskoe za 200 using tfa_doik98_scop
+[07:55:15] Dropped "maxim.kirichko" from server<STEAM_0:0:803564488>
+[07:55:15] maxim.kirichko suicided!
+[07:55:18] Нео: я двигаться не могу
+[07:55:22] Нео: что со мной
+[07:55:30] klinskoe za 200 killed Miyagi using tfa_doig43
+[07:55:35] Польские Пряники: ЭТО ИЛЛЮЗИЯ
+[07:55:38] Польские Пряники: ОН НЕ НАСТОЯЩИЙ
+[07:55:40] Нео: извинись перед рыцарем
+[07:55:43] Польские Пряники: ЕГО НЕТ В РЕАЛЬНОСТИ
+[07:55:59] Польские Пряники unfroze Нео
+[07:56:08] Нео: убей его
+[07:56:11] Польские Пряники: ПОЧЕМУ Я ЖИВОЙ
+[07:56:13] Нео: электрик
+[07:56:25] Нео killed Miyagi using rust_eoka
+[07:56:26] klinskoe za 200: А ДВЕ НАХРЕНА ТЕБЕ
+[07:56:32] Польские Пряники: ЭТО БЫЛО ЖЕСТОКО
+[07:56:33] Нео: вы видел он мне угрожал
+[07:56:39] (TEAM) Нео: не
+[07:56:43] Mr_Pyro stripped weapons from Themself
+[07:56:43] Mr_Pyro: !strip Mr_Pyro
+[07:56:46] Польские Пряники: ОН В ЗАЩИТЕ
+[07:56:47] Польские Пряники: Я ЕН МОГУ
+[07:56:52] Нео: я типо не уязвимый?
+[07:56:54] Польские Пряники: НО ЕГО ПУШКА МЕТАЛЛИЧЕСКАЯ
+[07:56:56] Нео: хах
+[07:56:58] Польские Пряники: Я ЗАБЕРУ СЕБЕ
+[07:57:07] Польские Пряники stripped weapons from Нео
+[07:57:10] Нео: блять
+[07:57:11] RusLanConnection ignited Нео for 300 seconds
+[07:57:15] Нео: потмоу что ты лох
+[07:57:20] Польские Пряники silently slayed Нео
+[07:57:28] Польские Пряники: РОДИСЬ
+[07:57:29] RusLanConnection extinguished Нео
+[07:57:40] Нео: \
+[07:57:41] Польские Пряники: КУДА ОН РОДИЛСЯ
+[07:58:10] Нео: йоу
+[07:58:18] PoPcat killed Helli using tfa_doi_marinebayonet
+[07:58:23] Нео: я был бессмертным
+[07:58:49] Mr_Pyro stripped weapons from Themself
+[07:58:49] Mr_Pyro: !strip Mr_Pyro
+[07:59:01] Нео: ща
+[07:59:06] klinskoe za 200: Я ТУТ ЕРЕТИКА ПРИНЕС
+[07:59:21] klinskoe za 200: ОН НЕ ЗАСЛУЖИЛ
+[07:59:32] Client "endworld#bummerrust" connected.
+[07:59:32] Польские Пряники: хорошо 
+[07:59:44] klinskoe za 200: И БОЛЬШЕ НЕ ПРИХОДИ
+[07:59:53] Нео: а как
+[08:00:14] romanun: !respawn_g
+[08:00:15] romanun: !respawn_g
+[08:00:15] romanun: !respawn_g
+[08:00:22] klinskoe za 200: НУЖНА ПРОКАЧКА АЛТАРЯ
+[08:00:28] klinskoe za 200: ЭТОТ СЛАБЫЙ
+[08:00:30] Нео to admins: как это прикрепить?
+[08:00:44] klinskoe za 200: БОГ УЖЕ НЕ ПРИНИМАЕТ ЖЕРТВ
+[08:00:52] Польские Пряники: МОЙ ПРИЕМНИК
+[08:00:57] Польские Пряники: ПРИШЕЛ
+[08:01:18] klinskoe za 200: а стоп
+[08:01:23] klinskoe za 200: чуваки ну емае
+[08:01:24] Нео: я ьуь
+[08:01:27] Нео: что
+[08:01:30] Польские Пряники: ЭТО РОЗАСЛАН
+[08:01:36] Нео: что
+[08:01:44] klinskoe za 200: самое главноев алтаре упало
+[08:01:47] Нео: ну два
+[08:01:49] Польские Пряники: Я И ЕСТЬ
+[08:01:50] Нео: ну да
+[08:01:54] Нео: мы это видели
+[08:01:55] Польские Пряники: БОГ ЭЛЕКТРИСИТИ
+[08:01:58] Польские Пряники: НЕ
+[08:02:08] Польские Пряники: Я ПРЯНИК
+[08:02:13] Нео: аси
+[08:02:32] Польские Пряники: ТЫ ПОКУШИЛСЯ НА МОЕГО ПРИЕМНИКА
+[08:02:34] romanun: инсулт
+[08:02:37] Польские Пряники: Я БОГ ЭЛЕКТРИСИТИ
+[08:02:40] klinskoe za 200: патроный
+[08:02:50] Польские Пряники: ОН ПРОЩЁН
+[08:02:59] Польские Пряники: Я ДАЮ ЛЮДЯМ ОДИН ШАНС
+[08:03:30] Нео killed Miyagi using tfa_doik98_scop
+[08:03:44] Польские Пряники: РОЗАСЛАН
+[08:03:51] Client "cheoundarose" connected.
+[08:03:57] Польские Пряники: ЭТО МОЙ ПРИЕМНИК
+[08:04:08] Польские Пряники: ОН СТАЛ МЕТАЛИЧЕСКИМ
+[08:04:15] Нео: че ты
+[08:04:20] Польские Пряники: А ТАК ЖЕ ПОД ВОЗДЕЙСТВИЕМ ЭЛЕКТРИЧЕСКИХ ПОЛЕЙ
+[08:04:29] Польские Пряники: Я ВОЗДЕЙСТВОВАЛ ЕМУ НА ГИПОФИС
+[08:04:36] Польские Пряники: ИЗ ЗА ЧЕГО ОН ВЫРОС
+[08:04:42] Польские Пряники: И ПОКРЫЛСЯ МЕТАЛЛОМ
+[08:05:24] klinskoe za 200: хз
+[08:05:33] Польские Пряники set the scale for PoPcat to 1
+[08:05:51] Нео killed Miyagi using tfa_doim1912
+[08:05:59] Польские Пряники: ЭТО МЕТАЛЛИЧЕСКИЙ
+[08:06:16] Польские Пряники: А
+[08:06:17] Польские Пряники: ЧЕ
+[08:06:19] Нео to admins: тут у мияги ноль патронов
+[08:06:21] Польские Пряники: Я НОРМ
+[08:06:23] Нео to admins: ресурса
+[08:06:29] Польские Пряники: ЛАН
+[08:06:35] Польские Пряники: КРУТО
+[08:07:15] klinskoe za 200: НАЙДУ ЛОПАТОЙ ПОБЬЮ
+[08:07:34] PoPcat: supply radio: global message
+[08:07:41] PoPcat: supply radio: global message
+[08:07:46] PoPcat: supply radio: global message
+[08:07:54] Польские Пряники reset the material for Themself
+[08:08:00] Польские Пряники: ЧЕЕЕ
+[08:08:01] Польские Пряники: НУЮАС
+[08:08:16] Польские Пряники: У ТЕБЯ РОГА ВЫРОСЛИ
+[08:08:32] Польские Пряники: У ТЕБЯ ИЗ ЗА ПРОТИВОГАЗА
+[08:08:38] Польские Пряники: ЛОБ
+[08:08:42] klinskoe za 200: СТОЯТЬ
+[08:08:54] klinskoe za 200: стой раз
+[08:08:59] klinskoe za 200: стой два
+[08:09:09] Польские Пряники: А ЧО С НОЗОМ
+[08:09:15] Польские Пряники:  УТЕБЯ
+[08:09:16] klinskoe za 200: НЕ ДВИГАЙСЯ
+[08:09:27] klinskoe za 200: НЕА
+[08:09:35] (TEAM) klinskoe za 200: ЭТОТ ЕРЕТИК ЛОМАЛ ПОДАЧУ ВОДЫ
+[08:09:38] klinskoe za 200: И ТРУБЫ
+[08:09:40] PoPcat killed Helli using tfa_doisw1917
+[08:09:45] Нео: кто это
+[08:09:51] klinskoe za 200: ЖИВЫМ БЫ ЕГО СДАЛИ БОГУ
+[08:09:53] Нео: ага
+[08:09:57] klinskoe za 200: ЧУВАК
+[08:10:02] klinskoe za 200: ТАКОЙ ШАНС БЫЛ
+[08:10:03] Нео: дакак
+[08:10:08] PoPcat: popcat3519
+[08:10:16] Нео: ща
+[08:10:21] Польские Пряники: ПОКРИЧИ
+[08:10:40] Нео: кинул
+[08:10:46] Польские Пряники: ВСЕ ПОШЛИ
+[08:10:47] Mr_Pyro stripped weapons from Themself
+[08:10:47] Mr_Pyro: !strip Mr_Pyro
+[08:10:50] Польские Пряники: В ДРУГОМ
+[08:10:52] Польские Пряники: ДУРАЧИТСЯ
+[08:10:55] Польские Пряники: МЕСТЕ
+[08:11:03] Client "endworld#bummerrust" connected.
+[08:11:12] Нео: всм
+[08:11:18] klinskoe za 200: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:11:21] Польские Пряники stripped weapons from Themself
+[08:11:21] Польские Пряники: !STRIP Пол
+[08:11:22] Нео: давай ядерку
+[08:11:26] Нео: дада
+[08:11:32] Нео: я так и хотел
+[08:11:38] klinskoe za 200: ААААААААААААААААА
+[08:11:41] klinskoe za 200: АЛТАРБ
+[08:11:49] Польские Пряники brought Mr_Pyro
+[08:11:49] Польские Пряники: !BRING MR
+[08:11:53] klinskoe za 200: АЛЕЕЕЕЕЕЕЕЕЕЕ
+[08:11:53] Польские Пряники: УБЕРИ ПРОТИВОГАЗ
+[08:11:56] Нео: чта
+[08:11:56] (TEAM) klinskoe za 200: ГДЕ АЛТАРЬ
+[08:12:01] Польские Пряники: ПОСТАВЬ КАМЕРУ
+[08:12:03] Польские Пряники: НА СЕБЯ
+[08:12:04] klinskoe za 200: ГДЕ ВАННА БЛЯТЬ
+[08:12:05] Польские Пряники: И ПОКРИЧИ
+[08:12:08] Нео: вот он
+[08:12:09] klinskoe za 200: а
+[08:12:12] Польские Пряники: АЛЕ
+[08:12:14] klinskoe za 200: ек макарек
+[08:12:39] Польские Пряники stripped weapons from Themself
+[08:12:39] Польские Пряники: !STRIP Пол
+[08:12:40] PoPcat: supply radio: global message
+[08:12:42] Client "endworld#bummerrust" spawned in server <STEAM_0:1:774911229> (took 99 seconds).
+[08:12:44] PoPcat: supply radio: global message
+[08:12:54] Польские Пряники: КАК ЖЕ ТЫ ТРЯСЕШСЯ
+[08:13:24] Нео: Радио
+[08:13:26] Польские Пряники: ПОСМОТРИ НА СЕБЯ
+[08:13:27] Нео: на ножках
+[08:13:43] Нео: кто вы
+[08:13:47] Польские Пряники: А
+[08:13:50] Нео killed Miyagi using tfa_doim1912
+[08:14:01] Нео: ты с ним?
+[08:14:01] Польские Пряники: ГОВОРИ
+[08:14:03] Нео killed Miyagi using tfa_doim1912
+[08:14:11] Нео: мне кажется да
+[08:14:17] Польские Пряники stripped weapons from Themself
+[08:14:17] Польские Пряники: !STRIP Пол
+[08:14:23] Польские Пряники: ВСЕ ПОШЛИ ПОИГРАЕМ
+[08:14:23] Mr_Pyro stripped weapons from Themself
+[08:14:23] Mr_Pyro: !strip Mr_Pyro
+[08:14:25] Нео killed Miyagi using tfa_doim1912
+[08:14:27] klinskoe za 200: ОДНО НЕПРАВИЛЬНОЕ ДВИЖЕНИЕ
+[08:14:28] Польские Пряники suicided!
+[08:14:28] Польские Пряники slayed Themself
+[08:14:28] Польские Пряники: !slay Пол
+[08:14:29] (TEAM) klinskoe za 200: И ВСЕ
+[08:14:38] Нео: да стой не двигайся просто
+[08:14:45] Нео killed Miyagi using tfa_doim1912
+[08:14:45] Mr_Pyro: q
+[08:14:53] Mr_Pyro cloaked Themself by amount 0
+[08:14:54] Mr_Pyro: !cloak Mr_Pyro
+[08:14:54] Нео: говорить не хочешь?
+[08:14:56] klinskoe za 200: УХОДИМ
+[08:14:57] Нео: какой
+[08:15:01] Польские Пряники: ИДЕМ ЗА МНОЙ
+[08:15:03] Польские Пряники: МИЯГИ
+[08:15:06] Нео killed endworld#bummerrust using tfa_doim1912
+[08:15:13] Нео: о
+[08:15:16] Польские Пряники: МЫ СЕЙЧАС
+[08:15:17] Нео: ты ка краз
+[08:15:20] Польские Пряники: 7.5 ГРАММ
+[08:15:22] Польские Пряники: ПЕРЕГОВОРЫ
+[08:15:29] klinskoe za 200: НЕ НАДО!
+[08:15:30] endworld#bummerrust: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:15:34] klinskoe za 200: ЭТО НАШЕ
+[08:15:42] Польские Пряники: МИЯГИ
+[08:15:44] Польские Пряники: МИЯЯГИ
+[08:15:54] Польские Пряники: МИЯГИ
+[08:15:54] romanun killed endworld#bummerrust using tfa_doik98_scop
+[08:15:58] Польские Пряники: МИЯГИ
+[08:16:01] Польские Пряники: ИДЕМ КО МНЕ
+[08:16:03] PoPcat killed Miyagi using tfa_doisw1917
+[08:16:09] Польские Пряники killed PoPcat using wep_jack_gmod_hands
+[08:16:13] RusLanConnection cloaked Themself by amount 0
+[08:16:22] klinskoe za 200 killed romanun using tfa_doip38
+[08:16:26] Нео: сигма
+[08:16:30] Нео: подстраховал
+[08:16:45] Mr_Pyro uncloaked Themself
+[08:16:45] Mr_Pyro: !uncloak Mr_Pyro
+[08:16:46] klinskoe za 200: АПУПЕТЬ
+[08:16:47] Польские Пряники: МИЯГИ
+[08:16:48] Польские Пряники: ПОШЛИ
+[08:16:51] klinskoe za 200: Я ПОПАЛ?!
+[08:16:59] klinskoe za 200: ГАДЕМ
+[08:17:07] Нео: гадем
+[08:17:09] PoPcat killed Miyagi using tfa_doithompsonm1a1
+[08:17:11] Польские Пряники: Я ПРОБЕГАЮ МИМО ПРОСТО
+[08:17:12] Нео: бля
+[08:17:15] Нео: опять
+[08:17:24] Польские Пряники: ПИРО ПОШЛИ
+[08:17:36] klinskoe za 200: ЩАС ТУТ ВОНЯТЬ БУДЕТ
+[08:17:38] (TEAM) klinskoe za 200: УХОДИМ
+[08:17:41] Нео: кто по кому
+[08:17:47] Польские Пряники: Я ЧУТЬ НЕ ПОГИБ
+[08:17:55] Нео: я знаю
+[08:18:07] Нео: а как выбирать куда кидать?
+[08:18:14] klinskoe za 200: Я ОТПРАВЛЮ В МОГИЛУ СТОЛЬКИХ СКОЛЬКО СМОГУ
+[08:18:24] Польские Пряники: НА УДАЛЕНИЕ
+[08:18:25] Польские Пряники: ТЕКСТА
+[08:18:31] Польские Пряники: БЕКСПЕЙС
+[08:18:35] Польские Пряники: КАК ТЫ ТЕКСТ СТИРАЕШЬ
+[08:18:36] Нео: уюивайв
+[08:18:41] Нео: это гондорн
+[08:18:44] klinskoe za 200: СТОЯТЬ
+[08:18:46] PoPcat killed Helli using tfa_doithompsonm1a1
+[08:19:09] Польские Пряники: ПЛАН ТАКОЙ БУДЕТ
+[08:19:09] klinskoe za 200: БОГ ЗЛОЙ
+[08:19:13] Польские Пряники: МИЯГИ ОТВЛЕКАЕТ
+[08:19:16] Польские Пряники: А МЫ ЧЕРЕЗ МОСТ
+[08:19:18] Польские Пряники: БЕЖИМ
+[08:19:18] Нео: какие кординаты
+[08:19:20] Польские Пряники: ШТУРМОВАТЬ
+[08:19:25] klinskoe za 200: А БОГУ МЫ НИЧЕГО НЕ ПРИНОСИЛИ
+[08:19:28] Польские Пряники: КОГДА ЗАНИМАЕМ ПОЗИЦИИ ВЫГОНЯЕМ ИХ
+[08:19:30] Польские Пряники: С ТЕРРИТОРИЙ
+[08:19:31] Нео: у меня есть
+[08:19:34] Польские Пряники: Я ЗАБОЛЕЛ УВЫ
+[08:19:40] Нео: ок
+[08:19:43] Mr_Pyro: t
+[08:19:50] Нео: дефай меня пока
+[08:19:53] Польские Пряники: ЗАКАЗЫВАЕМ
+[08:19:57] Нео: дефай меня пока
+[08:20:02] Нео: ща ща
+[08:20:11] Польские Пряники: МЫ КУПИМ
+[08:20:12] Нео: да да
+[08:20:16] Нео: supply radio: global message
+[08:20:58] (TEAM) klinskoe za 200: ОЙ
+[08:21:15] Польские Пряники: Я СЕЙЧАС ЗАКАЖУ РЕСУРСЫ
+[08:21:19] Польские Пряники: А ВЫ ДЕЛАЙТЕ 300 ЭНЕРГИИ
+[08:21:38] PoPcat killed Helli using tfa_doithompsonm1a1
+[08:22:09] Польские Пряники: В КОНТЕЙНЕР
+[08:22:15] Mr_Pyro: supply radio: timebombs
+[08:23:33] Нео to admins: нам иди всем надо, а мораль выше 70 и мы не можем кинуть ядерку помогит
+[08:23:41] PoPcat killed Mr_Pyro using tfa_doithompsonm1a1
+[08:23:45] RusLanConnection teleported to Нео
+[08:23:53] Нео: как
+[08:23:58] Нео: хороошо
+[08:23:59] Miyagi killed PoPcat using tfa_doik98_scop
+[08:24:24] Нео: готовься
+[08:24:24] Mr_Pyro killed PoPcat using tfa_doienfield
+[08:24:31] Нео: сопротивление идет
+[08:24:50] Нео: до ядерки нужно время
+[08:24:54] Нео: ща они прийдут
+[08:25:46] Нео: я тебе сказал
+[08:26:18] Нео: я указал кординаты
+[08:26:49] Нео to admins: че она не летить
+[08:27:16] Нео: указал кординаты
+[08:27:27] Нео: альт е нажал
+[08:27:30] Нео: не летит
+[08:27:47] klinskoe za 200 killed Mr_Pyro using tfa_doik98_scop
+[08:27:54] Нео: нету
+[08:28:31] klinskoe za 200: PIZDA
+[08:28:46] klinskoe za 200: Я ИХ КАЖДОГО В МОГИЛУ ОТПРАВЛЮ!
+[08:28:53] Нео: ПО МАШИНАМ?
+[08:29:05] Польские Пряники: НЕ УХЛДИ
+[08:29:11] klinskoe za 200: ЯЕ?
+[08:29:19] klinskoe za 200: ПОЕХАЛИ!
+[08:29:24] Польские Пряники: ТАК
+[08:29:26] Польские Пряники: РЕЮЯЬА
+[08:29:30] Польские Пряники: ЗАКАЗЫВАЕМ ТАНК
+[08:29:30] klinskoe za 200: АПТЕЧКУ НАДО  ЫБЛО БРАТЬ
+[08:29:34] klinskoe za 200: ДА ПОХ
+[08:29:35] Польские Пряники: И 2 ИЗ ВАС НА ТАНКЕ БУДУТ
+[08:29:36] klinskoe za 200: бяля
+[08:29:38] Нео: музыку с бегготена врубили бы
+[08:29:44] Польские Пряники: ГОТОВЬТЕСЬ
+[08:29:46] Нео: номр было бы
+[08:29:56] Польские Пряники: МИЯГИ БЛИН
+[08:30:10] RusLanConnection teleported to Нео
+[08:30:25] klinskoe za 200: ПОНЯЛ
+[08:30:26] RusLanConnection brought Нео
+[08:30:34] Польские Пряники: НАМ НУЖНО АТАКОВАТЬ
+[08:30:35] Нео: ща
+[08:30:36] Польские Пряники: ПИРО
+[08:30:44] Польские Пряники: КТО ИЗ ВАС НА ТАНКЕ
+[08:30:46] klinskoe za 200: Я ОТПРАВВЛЮ В МОГИЛУ СТОЛЬКИХ СКОЛЬКО СМОГУ
+[08:30:46] Польские Пряники: ПОЕДЕТ
+[08:30:56] (TEAM) klinskoe za 200: НИ ОДНА МРАЗЬ НЕ ДОЖИВЕТ ДО ЗАВТРА!
+[08:30:57] Польские Пряники: Я ТАНК ЗАКАЖУ
+[08:30:58] Польские Пряники: ДАВАЙ
+[08:31:19] Польские Пряники: supply radio: light tank
+[08:31:38] Польские Пряники: ТАК
+[08:31:42] Польские Пряники: ТАНК
+[08:31:43] Польские Пряники: ДАМ
+[08:31:56] klinskoe za 200: БЛВФЯТЬ
+[08:32:03] Польские Пряники: Я НЕ ЛИДЕР
+[08:32:30] Нео: пон
+[08:32:44] Нео: давай танк еще 
+[08:32:47] Польские Пряники: СКОРЕЕ
+[08:32:49] Польские Пряники: РАЗБИРАЙ
+[08:32:54] Польские Пряники: ЕДЬ
+[08:33:06] Польские Пряники: ПИРО ОТДАЙ
+[08:33:07] Польские Пряники: ТАНК
+[08:33:13] Польские Пряники: ОН ПОЕДЕТ
+[08:33:18] Нео killed PoPcat using tfa_doim1911
+[08:33:24] Польские Пряники: ЗАГЛУШИ
+[08:33:26] Польские Пряники: ЕСЛИ СТОИШЬ
+[08:33:28] Miyagi killed klinskoe za 200 using lvs_renaultft_m
+[08:33:32] Польские Пряники: ПИРО СЯДЬ
+[08:33:37] klinskoe za 200: ТААААААААААНК
+[08:33:45] klinskoe za 200: ТАААААНК
+[08:33:49] Польские Пряники: ЕДЬ
+[08:33:53] Польские Пряники: НЕ ОСТАНАВЛИВАЙСЯ
+[08:34:06] romanun killed Helli using tfa_doimp40
+[08:34:19] Нео: направо?
+[08:34:37] Польские Пряники: МИЯГИ И ПИРО
+[08:34:39] Польские Пряники: ВЫ С ПЕРЕДИ
+[08:34:40] Польские Пряники: Я С МОСТА
+[08:34:48] Нео: ВАЗИЛИНОВОЕ ДРИСЛо
+[08:34:57] RusLanConnection granted god mode upon Themself
+[08:34:57] RusLanConnection: !god ^
+[08:35:15] Нео killed endworld#bummerrust using lvs_renaultft_m
+[08:35:15] Нео killed PoPcat using lvs_renaultft_m
+[08:35:27] Mr_Pyro killed Нео using lvs_renaultft_m
+[08:35:36] klinskoe za 200 killed Польские Пряники using tfa_doik98
+[08:35:40] Нео: ВАЗИЛИНОВОЕ ДРИСЛО
+[08:35:53] klinskoe za 200 killed Mr_Pyro using tfa_doik98
+[08:36:08] Польские Пряники: ТЫ БРОСИЛ ТАНК?
+[08:36:09] Польские Пряники: А
+[08:36:33] Miyagi killed Нео using tfa_doik98_scop
+[08:36:55] PoPcat killed Miyagi using tfa_doik98
+[08:37:10] endworld#bummerrust: а что делать если после респавна чёрный экран но слышу звуки и вижу х�
+[08:37:14] Польские Пряники: ЭТО ЖЕ НАШ
+[08:37:15] Польские Пряники: ИЛИ НЕТ
+[08:37:18] PoPcat killed Польские Пряники using tfa_doik98
+[08:37:19] Польские Пряники: АЙ
+[08:37:31] endworld#bummerrust: добейте
+[08:37:41] PoPcat killed endworld#bummerrust using tfa_doik98
+[08:37:54] Dropped "endworld#bummerrust" from server<STEAM_0:1:774911229>
+[08:37:54] endworld#bummerrust suicided!
+[08:37:56] Client "endworld#bummerrust" connected.
+[08:38:13] romanun killed Нео using tfa_doimp40
+[08:38:19] Польские Пряники: О
+[08:38:24] romanun killed PoPcat using tfa_doimp40
+[08:38:29] Нео: хули ты стоишь
+[08:38:33] Client "endworld#bummerrust" spawned in server <STEAM_0:1:774911229> (took 37 seconds).
+[08:39:38] Helli killed Miyagi using tfa_doik98
+[08:40:05] PoPcat killed Mr_Pyro using tfa_smc_ppsh_drum
+[08:40:40] klinskoe za 200 killed Mr_Pyro using tfa_doik98
+[08:40:52] Польские Пряники: НЕ СПАВЬНЯ
+[08:40:54] Польские Пряники: ТУТ
+[08:40:59] Нео killed romanun using tfa_doienfield
+[08:41:00] Польские Пряники: ОБРАТНО ЗАЛЕЗЬ
+[08:41:12] Польские Пряники: ДА ЗАЛЕЗЬ
+[08:41:13] Польские Пряники: ОБРАТНО
+[08:41:15] Польские Пряники: НА Е
+[08:41:18] Польские Пряники: И СТОЛИЦА
+[08:41:19] Польские Пряники: АЛЕ
+[08:41:43] klinskoe za 200 killed Нео using tfa_doik98
+[08:41:47] klinskoe za 200: БЛЯТ
+[08:41:54] klinskoe za 200: НИКА НЕ ВИДЕЛ
+[08:42:06] Нео: supply radio: light tank
+[08:42:35] PoPcat killed Miyagi using tfa_rs2v_akm
+[08:42:56] Польские Пряники: СМОТРИТЕ
+[08:43:00] Польские Пряники: МОБИЛИЗАЦИЮ ВЫБЕРУ
+[08:43:05] Польские Пряники: И ИДЕМТЕ В НЕ СПАВНЯ ТУТ
+[08:43:28] Miyagi killed Helli using tfa_doim3greasegun
+[08:44:00] klinskoe za 200 killed romanun using tfa_doithompsonm1a1
+[08:44:04] PoPcat killed Mr_Pyro using tfa_rs2v_akm
+[08:44:05] klinskoe za 200 killed Miyagi using tfa_doithompsonm1a1
+[08:44:11] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[08:44:11] Польские Пряники suicided!
+[08:44:12] klinskoe za 200 killed romanun using tfa_doithompsonm1a1
+[08:44:15] RusLanConnection killed PoPcat using ent_jack_gmod_ezsticknade
+[08:44:23] romanun killed klinskoe za 200 using tfa_doisw1917
+[08:44:34] Client "Польские Пряники" connected.
+[08:45:21] klinskoe za 200: МОЖЕТ ЗАКАЖЕМ ЛЕГКИЙ ТАНК?
+[08:45:37] klinskoe za 200: ЗАКАЖЕМ НЕ?
+[08:45:39] Нео killed Miyagi using lvs_renaultft_m
+[08:45:44] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 70 seconds).
+[08:45:45] Client "HEINZ" connected.
+[08:45:55] Нео killed romanun using lvs_renaultft_m
+[08:45:55] klinskoe za 200: ТРИ ВЫСТРЕЛА ПО ИХ ТОЧКЕ И ИМ PIZDA
+[08:46:08] Нео killed Miyagi using lvs_renaultft_m
+[08:46:15] Mr_Pyro was killed by lvs_wheeldrive_dodwillyjeep
+[08:46:19] Нео killed romanun using lvs_renaultft_m
+[08:46:39] Mr_Pyro suicided!
+[08:46:46] Client "HEINZ" spawned in server <STEAM_0:1:760492142> (took 61 seconds).
+[08:46:50] Нео killed Mr_Pyro using lvs_renaultft_m
+[08:47:03] Helli killed Mr_Pyro using tfa_doimp40
+[08:47:04] Miyagi killed Helli using tfa_doienfield
+[08:47:28] Польские Пряники: ТОЧКА ФРОНТ
+[08:47:30] Польские Пряники: НАЗЫВАЕТСЯ
+[08:47:31] Mr_Pyro was killed by ent_jack_gmod_ezaugerdrill
+[08:47:41] Нео: ВАЗИЛИНОВОЕ ДРИСЛО
+[08:47:49] Нео killed romanun using tfa_doisw1917
+[08:47:56] Mr_Pyro killed Нео using tfa_doispringfield
+[08:48:11] Нео: Я на танке все разебашил
+[08:48:45] Miyagi killed Нео using tfa_doispringfield
+[08:48:57] RusLanConnection teleported to Польские Пряники
+[08:49:05] Нео killed Miyagi using tfa_doik98
+[08:49:17] klinskoe za 200 killed Helli using tfa_doik98
+[08:49:21] klinskoe za 200: бля
+[08:49:25] PoPcat killed Miyagi using tfa_doim1carbine
+[08:49:31] Mr_Pyro killed Нео using tfa_doispringfield
+[08:49:41] Mr_Pyro killed Нео using tfa_doispringfield
+[08:49:43] klinskoe za 200 killed romanun using tfa_doik98
+[08:49:54] Mr_Pyro killed Нео using tfa_doispringfield
+[08:50:04] Польские Пряники killed Нео using tfa_doienfield
+[08:50:05] PoPcat killed romanun using tfa_doim1carbine
+[08:50:13] Dropped "endworld#bummerrust" from server<STEAM_0:1:774911229>
+[08:50:14] endworld#bummerrust suicided!
+[08:50:15] PoPcat killed romanun using tfa_doim1carbine
+[08:50:25] Mr_Pyro killed Нео using tfa_doispringfield
+[08:50:28] Нео: уебыш
+[08:50:36] romanun killed PoPcat using tfa_doispringfield
+[08:50:39] klinskoe za 200 killed romanun using tfa_doik98
+[08:50:49] RusLanConnection teleported to romanun
+[08:50:55] romanun killed klinskoe za 200 using tfa_doim3greasegun
+[08:51:12] romanun killed Нео using tfa_doim3greasegun
+[08:51:12] Польские Пряники: НУЖНО
+[08:51:24] RusLanConnection teleported to klinskoe za 200
+[08:51:26] RusLanConnection teleported to Польские Пряники
+[08:51:43] Нео: /pm ебланы ломайте им спаывнц
+[08:51:43] Польские Пряники: ЧЕЕЕ
+[08:51:51] Польские Пряники: РЕБЯТА
+[08:51:53] Польские Пряники: ПРОДАЙТЕ
+[08:51:58] Польские Пряники: ВСЕ ЧТО У НИХ ЕСТЬ
+[08:52:04] Польские Пряники killed PoPcat using tfa_doienfield
+[08:52:10] Польские Пряники: ПОЛАЙТЕ
+[08:52:40] klinskoe za 200 killed Miyagi using tfa_doienfield
+[08:52:42] romanun killed Helli using tfa_doim3greasegun
+[08:52:48] Польские Пряники killed klinskoe za 200 using tfa_doienfield
+[08:52:48] romanun killed Нео using tfa_doim3greasegun
+[08:52:59] Польские Пряники: УРА
+[08:52:59] PoPcat killed Miyagi using ent_jack_gmod_ezsticknade
+[08:52:59] Нео: ебланы
+[08:53:07] klinskoe za 200: ЭТО КОНЕЦ
+[08:53:28] RusLanConnection teleported to Нео
+[08:53:47] romanun killed Нео using tfa_doim3greasegun
+[08:53:56] romanun killed PoPcat using tfa_doim3greasegun
+[08:54:00] Польские Пряники: Я УМРУ
+[08:54:03] Польские Пряники: КУПИ ТОЧКУ
+[08:54:08] Польские Пряники: СРОЧНО
+[08:54:12] romanun killed klinskoe za 200 using tfa_doim3greasegun
+[08:54:26] Польские Пряники: А
+[08:54:27] Польские Пряники: ЧЕ
+[08:54:40] Польские Пряники: КАКОЙ ИФАК
+[08:54:40] RusLanConnection teleported to Нео
+[08:54:47] romanun killed PoPcat using tfa_doim3greasegun
+[08:54:58] romanun killed Helli using tfa_doim3greasegun
+[08:55:04] RusLanConnection teleported to Польские Пряники
+[08:55:05] Нео killed romanun using tfa_doispringfield
+[08:55:15] klinskoe za 200 killed Нео using tfa_doithompsonm1a1
+[08:55:16] klinskoe za 200 killed romanun using tfa_doithompsonm1a1
+[08:55:38] klinskoe za 200 killed romanun using tfa_doithompsonm1a1
+[08:55:47] klinskoe za 200 killed Mr_Pyro using tfa_doithompsonm1a1
+[08:55:47] RusLanConnection teleported to Нео
+[08:55:55] klinskoe za 200 killed romanun using tfa_doithompsonm1a1
+[08:56:01] Польские Пряники: ОХРОНЯЙСЯ
+[08:56:04] Польские Пряники: ДАЙ
+[08:56:08] Mr_Pyro killed PoPcat using ent_jack_gmod_ezchlorineparticle
+[08:56:18] (TEAM) klinskoe za 200: ГАЗ
+[08:56:21] klinskoe za 200 killed klinskoe za 200
+[08:56:52] romanun killed PoPcat using tfa_doimp40
+[08:56:58] RusLanConnection teleported to Mr_Pyro
+[08:57:00] Mr_Pyro killed HEINZ using tfa_doik98
+[08:57:02] RusLanConnection teleported to Miyagi
+[08:57:03] RusLanConnection teleported to Helli
+[08:57:05] RusLanConnection teleported to Нео
+[08:57:21] Польские Пряники: СОБЕРИ ВСЕ ОРУЖИЕ В КУЧУ
+[08:57:23] Польские Пряники: И СПРЯЧ
+[08:57:37] Польские Пряники: ВОТ
+[08:57:37] Нео killed romanun using tfa_doispringfield
+[08:57:39] Польские Пряники: ПУШКИ
+[08:57:40] Польские Пряники: ЛЕЖАТ
+[08:57:41] RusLanConnection teleported to Нео
+[08:57:54] Нео: дефатк
+[08:57:57] klinskoe za 200 killed romanun using tfa_doim3greasegun
+[08:57:57] Нео: дефайте
+[08:57:57] Польские Пряники: ОБОРОНЯЙТЕ
+[08:58:08] Нео killed Mr_Pyro using tfa_doimp40
+[08:58:19] RusLanConnection teleported to PoPcat
+[08:58:20] RusLanConnection teleported to Польские Пряники
+[08:58:21] klinskoe za 200: ГАЗ НАДО
+[08:58:21] Польские Пряники: САДИСЬ
+[08:58:23] Польские Пряники: СКОРЕЕ
+[08:58:25] Польские Пряники: ТЫ НУБ
+[08:58:34] romanun killed Нео using tfa_doi_marinebayonet
+[08:58:34] Client "ya_eblan12342" connected.
+[08:58:38] Нео: уебаны
+[08:58:39] Нео: тупые
+[08:58:41] romanun killed Helli using tfa_doi_marinebayonet
+[08:58:49] klinskoe za 200 killed romanun using tfa_doim3greasegun
+[08:58:58] Польские Пряники brought Mr_Pyro,romanun
+[08:58:58] Польские Пряники: !BRING RO
+[08:59:04] Польские Пряники: ОН НУБ
+[08:59:08] Польские Пряники: ТАК ЕСЛИ РАЗБЕРУТ
+[08:59:09] Нео: какие в ыдайны
+[08:59:10] Польские Пряники: ТО ЛУЧШЕ
+[08:59:13] Польские Пряники: БУДЕТ
+[08:59:23] RusLanConnection teleported to Нео
+[08:59:24] RusLanConnection teleported to Польские Пряники
+[08:59:25] RusLanConnection teleported to Нео
+[08:59:44] (TEAM) Нео: дебичи блять
+[08:59:52] Нео: дефайте сукеи
+[08:59:54] Нео: уебаны
+[08:59:58] Польские Пряники killed PoPcat using tfa_rs2v_akm
+[08:59:58] klinskoe za 200: отойдите
+[09:00:01] klinskoe za 200 killed Польские Пряники using tfa_doim3greasegun
+[09:00:09] RusLanConnection killed Нео using ent_jack_gmod_ezsticknadebundle
+[09:00:15] klinskoe za 200: ДАААААААААААААААААААА
+[09:00:18] klinskoe za 200: УРАААААААААААААААА
+[09:00:19] Польские Пряники to admins: НУБОВСТВО ПОФИКСИ
+[09:00:28] klinskoe za 200: ГРАНАТА ТОП!
+[09:00:29] RusLanConnection teleported to Польские Пряники
+[09:00:39] klinskoe za 200: ПСТР
+[09:00:46] klinskoe za 200: ОБЛОМ
+[09:00:47] klinskoe za 200: ЖДИ
+[09:01:20] Нео: это при убийствах
+[09:01:22] Нео: н
+[09:01:23] klinskoe za 200: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:01:24] Нео: НЕТ
+[09:01:26] Нео: не надо
+[09:01:29] Dropped "HEINZ" from server<STEAM_0:1:760492142>
+[09:01:29] HEINZ suicided!
+[09:01:33] Client "HEINZ" connected.
+[09:01:47] Нео: с кем именно
+[09:02:00] Client "HEINZ" spawned in server <STEAM_0:1:760492142> (took 27 seconds).
+[09:02:15] Польские Пряники: Mr_Pyro killed Нео using tfa_doispringfield*DEAD* Нео: уебыш21
+[09:02:23] Нео: ладно
+[09:02:28] Нео: да
+[09:02:40] Нео: потому что вы 3 геннии не смогли быть на базе
+[09:03:09] Нео: бля
+[09:03:18] Нео: ни че
+[09:03:30] Нео: не буд больше
+[09:03:35] (TEAM) Нео: ни че
+[09:03:43] Нео: тебе разве?
+[09:03:55] Нео: мне кажется я прянику говрил 
+[09:04:00] Нео: а не тебе
+[09:04:03] RusLanConnection banned Нео for 1 week (Foul language)
+[09:04:03] Dropped "Нео" from server<STEAM_0:1:592067358>
+[09:04:03] Нео suicided!
+[09:04:07] Mr_Pyro to admins: пофигисткое отношение...
+[09:04:33] romanun killed klinskoe za 200 using tfa_doik98_scop
+[09:04:53] Mr_Pyro: у меня 15 фпс - я еле стреляю
+[09:05:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[09:06:12] Польские Пряники to admins: МОЖНО ЖЕ НА АБРАМСЕ ЗАЕХАТЬ?
+[09:06:18] Польские Пряники to admins: К НИМ
+[09:06:22] Польские Пряники to admins: И ВАЙП
+[09:06:26] RusLanConnection to admins: какой еще абрамс
+[09:06:37] Mr_Pyro to admins: ЭТО РАЗРАБОТКА КУЛЬФРУМА\
+[09:06:38] Польские Пряники to admins: НЕГРОТЕК
+[09:06:42] RusLanConnection to admins: зачем вайп
+[09:06:50] Mr_Pyro to admins: нуууууууууууууу
+[09:06:58] Польские Пряники to admins: ЛЮДИ УСТАЮТ ПОТОМУ ЧТО И ЛИВАЮТ ВСЕ
+[09:07:00] RusLanConnection to admins: после каждой войны - вайп
+[09:07:07] RusLanConnection to admins: пускай дальше идет
+[09:07:15] Польские Пряники to admins: HY LAN
+[09:07:23] Mr_Pyro suicided!
+[09:07:23] Mr_Pyro slayed Themself
+[09:07:23] Mr_Pyro: !slay Mr_Pyro
+[09:07:34] Mr_Pyro cloaked Themself by amount 0
+[09:07:34] Mr_Pyro: !cloak Mr_Pyro
+[09:07:44] RusLanConnection to admins: вот если бы реально операции придумывали, а не шли в лоб
+[09:07:48] RusLanConnection to admins: было бы опаснее
+[09:07:55] (TEAM) klinskoe za 200: НЕЕЕЕТ НАХУЯ
+[09:07:59] RusLanConnection to admins: и хотелось бы сдаться
+[09:08:06] Dropped "PoPcat" from server<STEAM_0:1:564871456>
+[09:08:06] PoPcat suicided!
+[09:08:06] RusLanConnection to admins: но никто никому шанса не дает
+[09:08:07] romanun killed Miyagi using tfa_doi_marinebayonet
+[09:08:12] RusLanConnection to admins: все идут до последнего
+[09:08:19] RusLanConnection to admins: и причем безвкусно
+[09:08:36] Польские Пряники to admins: У НАС ПЛАН БЫЛ ТИПО
+[09:08:36] (TEAM) klinskoe za 200: ЭТО ПОЗОР
+[09:08:49] Польские Пряники to admins: ТАНК ИДЕТ НА НИХ ОНИ ВИДЯТ ВСЕ НА НЕГО ПЕРЕКЛЮЧАЮТСЯ И МЫ В ТЫЛ
+[09:08:49] RusLanConnection to admins: мне грустно, что пока я отсутсвовал мой сервер превратился в пвп бил�
+[09:08:52] Mr_Pyro to admins: Ну, было бы вообще хорошо, чтоб кто-нибдуь когда-нибудь сдался по нас
+[09:08:54] Польские Пряники to admins: ПРОХОДИМ
+[09:09:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[09:09:17] Mr_Pyro: Обычно либо просто никто не сдаётся, либо сдающихся убивают
+[09:09:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider_new
+[09:09:28] Mr_Pyro to admins: Обычно либо просто никто не сдаётся, либо сдающихся убивают
+[09:09:30] Польские Пряники: YT
+[09:09:32] Польские Пряники: НЕ
+[09:09:36] Польские Пряники: ЭТО НЕ КРУТО
+[09:09:39] Miyagi killed romanun using tfa_doim3greasegun
+[09:09:40] RusLanConnection to admins: баньте нахуй блядь
+[09:09:48] RusLanConnection to admins: заебали такие
+[09:09:52] RusLanConnection to admins: пусть отыгрывают
+[09:09:56] RusLanConnection to admins: или не играют
+[09:10:03] Польские Пряники: ЗА АРТЕФАКТ
+[09:10:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[09:10:11] Mr_Pyro to admins: пипец
+[09:10:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[09:10:22] RusLanConnection to admins: смысл сервера теряется
+[09:10:24] Польские Пряники:  САДИСЬ
+[09:10:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[09:10:40] Client "yolik_92" connected.
+[09:10:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[09:10:45] klinskoe za 200: ГДЕ ХЕЛИ
+[09:10:48] Польские Пряники: У МЕНЯ ЕСТЬ ПЛАН
+[09:10:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfougasse
+[09:10:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[09:10:55] klinskoe za 200: СНО
+[09:10:56] Польские Пряники: ЗАХВАТИМ ПО ТИХОМУ
+[09:10:57] klinskoe za 200: ЯСНО
+[09:11:06] Польские Пряники: И ВСЕ
+[09:11:38] Mr_Pyro to admins: Может я конечно не замечаю, но как будто просто большинство старичк�
+[09:11:41] romanun killed HEINZ using tfa_doik98_scop
+[09:11:47] Mr_Pyro to admins: старичков уже не так актив проявляют
+[09:11:50] klinskoe za 200: АЛЕ
+[09:11:54] klinskoe za 200: СТОЙ
+[09:12:04] klinskoe za 200: НАХРЕНА ВЫ МИЯГИ ВЗЯЛИ
+[09:12:20] klinskoe za 200: НУ ПОЧЕМУ ХЕЛИ ВЗЯЛ ЕГО В  ТИМУ
+[09:12:29] Польские Пряники: Я УМИРАЮ
+[09:12:31] klinskoe za 200: да еахна бабай
+[09:12:45] Mr_Pyro to admins: учиться не у кого
+[09:12:49] klinskoe za 200: ПОЧЕМУ heli ВЗЯЛ МИЯГИ***
+[09:12:55] romanun killed Польские Пряники using player
+[09:12:58] klinskoe za 200: ДА ЕМАЕ
+[09:13:01] Mr_Pyro: !specatte
+[09:13:04] klinskoe za 200: ТАК ОН ТОЖ
+[09:13:07] klinskoe za 200: АЙ ЛАДНО
+[09:13:23] Mr_Pyro uncloaked Themself
+[09:13:23] Mr_Pyro: !uncloak Mr_Pyro
+[09:13:23] klinskoe za 200: ПАЙРО?
+[09:13:25] klinskoe za 200: ТЫ ТУТ?
+[09:13:25] Польские Пряники to admins: В ПОСЛЕДНЕЕ ВРЕМЯ Я СМОТРЮ ОБЫЧНО ЧО ГДЕ ПРОИСХОДИТ
+[09:13:35] Dropped "Helli" from server<STEAM_0:1:118543599>
+[09:13:35] Helli suicided!
+[09:13:43] klinskoe za 200: ОН ЕЩЕ И ЛИВНУЛ
+[09:13:43] Польские Пряники to admins: И УСЕ НАДО НАЧАТЬ ИГРАТЬ ЧТО БЫ ВДОХНАВЛЯЛИСЬ
+[09:13:47] klinskoe za 200: ЭТО ПОЗООООООООООООООООООООР
+[09:14:47] klinskoe za 200: СТООООООЙ
+[09:14:54] klinskoe za 200: СТОЙ
+[09:14:58] klinskoe za 200: ТЫ
+[09:15:02] klinskoe za 200: В БЕЛОМ
+[09:15:04] klinskoe za 200: да
+[09:15:07] Польские Пряники: я
+[09:15:16] klinskoe za 200: КАК ТЕБЯ ВО ФРАКУ ПРИНЯЛИ
+[09:15:24] Польские Пряники: ВСТУПАЕМ
+[09:15:26] Польские Пряники: ПОЧИНИМ
+[09:15:39] klinskoe za 200: Я РАЗОЧАРОВАН!
+[09:15:39] Польские Пряники: ПИРО
+[09:15:43] Польские Пряники: ПРИГЛЯДИ ЗА БАЗОЙ
+[09:15:46] Польские Пряники: ПРИМИ НОВИЧКОВ
+[09:15:46] klinskoe za 200: ЭТО ПОЖЗОР
+[09:15:48] Польские Пряники: ЗАЩИТИ ЕЁ
+[09:15:53] Польские Пряники: ПИРО
+[09:15:56] Польские Пряники: ОБОРУДУЙ
+[09:16:00] Польские Пряники: МНЕ НАДО ОТОЙТИ
+[09:16:03] klinskoe za 200: рибятки
+[09:16:07] (TEAM) klinskoe za 200: это позор
+[09:16:07] Польские Пряники: ВСТУПАЙ К НАМ
+[09:16:10] klinskoe za 200: давай
+[09:16:18] Польские Пряники: Я СКОРО ВЕРНУСЬ
+[09:16:26] klinskoe za 200: НАДО ЖЕ ДОДУМАТЬСЯ
+[09:16:27] Польские Пряники: ОБОРУДУЙТЕ ТУТ БАЗУ
+[09:16:29] Mr_Pyro: э
+[09:16:30] klinskoe za 200: МИЯГИ В ТИМУ ВЗЯТЬ
+[09:16:31] Mr_Pyro: киш
+[09:16:40] Польские Пряники: СДЕЛАЙТЕ ЕЁ КРАСИВОЙ
+[09:16:42] Mr_Pyro: ну слушай
+[09:16:44] Польские Пряники: Я СКОРО БУДУ
+[09:16:46] Mr_Pyro: ты можешь к нам вступитб
+[09:16:49] Польские Пряники: ПРИМИ ВСЕХ В НАШУ СТОРОНУ
+[09:16:53] klinskoe za 200: а че мы делаем7
+[09:16:57] klinskoe za 200: ну фракция о чем
+[09:16:58] Mr_Pyro: ну
+[09:17:01] Mr_Pyro: всё чиним
+[09:17:03] Mr_Pyro: базу
+[09:17:07] klinskoe za 200: НЕТ
+[09:17:09] Mr_Pyro: и убераемся
+[09:17:14] Mr_Pyro: ?
+[09:17:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[09:17:24] klinskoe za 200: КИШ
+[09:17:31] Mr_Pyro: что за артефакт?
+[09:17:31] klinskoe za 200: ЭЛЕКТРИК ПОСЛАЛ НАС
+[09:17:37] klinskoe za 200: зотя мы сами балбесы
+[09:17:44] klinskoe za 200: ниче ему не приномили
+[09:17:49] Mr_Pyro: хэх
+[09:17:51] Mr_Pyro: ладно
+[09:17:54] Mr_Pyro: за уборку
+[09:17:58] Mr_Pyro: назад постмотри
+[09:18:01] romanun killed Miyagi using tfa_doik98_scop
+[09:18:03] klinskoe za 200: блин а мож рестарт?
+[09:18:09] Mr_Pyro: всасывавй
+[09:18:11] Mr_Pyro: нууу
+[09:18:13] klinskoe za 200: А НАГОВНИЛИ
+[09:18:17] Mr_Pyro: Руслан считает что неее
+[09:18:25] klinskoe za 200: КАРТА ЗАСРАНА
+[09:18:26] Mr_Pyro: я бы и сам был бы как будтио не против
+[09:18:30] Mr_Pyro: тк пк слабый
+[09:18:34] klinskoe za 200: И ВЕСЬ ДОБЫЛИ
+[09:18:36] klinskoe za 200: УРАН
+[09:18:37] Mr_Pyro: вот сейчас 9 фпс макс
+[09:18:45] klinskoe za 200: 20 фпс это писец
+[09:18:46] Mr_Pyro: и ещё вот говно тут убирать
+[09:18:48] romanun: !respawn_g
+[09:18:50] Mr_Pyro: трупы и всё чинитьт
+[09:18:54] Mr_Pyro: это сложно
+[09:18:55] klinskoe za 200: давайте избушки строить хз
+[09:19:00] klinskoe za 200: гдето на окраине
+[09:19:01] Miyagi killed Miyagi
+[09:19:05] klinskoe za 200: нафиг нам это надо
+[09:19:09] Mr_Pyro: то что сложно это не проблема
+[09:19:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[09:19:13] Mr_Pyro: проблема в том
+[09:19:17] Mr_Pyro: что у меня времени мало
+[09:19:18] RusLanConnection uncloaked Themself
+[09:19:20] RusLanConnection revoked god mode from Themself
+[09:19:24] Mr_Pyro: уже час ночи
+[09:19:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_parachute
+[09:19:27] klinskoe za 200: та пайдем избушки строить
+[09:19:32] klinskoe za 200: нафиг нам это надо
+[09:19:36] RusLanConnection: !srip RusLanConnection
+[09:19:56] klinskoe za 200: бля
+[09:19:56] Mr_Pyro: о как
+[09:19:57] romanun killed Miyagi using tfa_doi_marinebayonet
+[09:20:05] Mr_Pyro: !specatate
+[09:20:11] Mr_Pyro was killed by ent_jack_gmod_ezherocket
+[09:20:13] Mr_Pyro to admins: aфига ты приколист
+[09:20:59] klinskoe za 200: ЭТО УЖАС
+[09:21:05] klinskoe za 200: КАКОЙ ЕЩЕ МИЯГИ НА ВЕРТЕ
+[09:21:09] Mr_Pyro was killed by ent_jack_gmod_ezherocket
+[09:21:19] klinskoe za 200: ДА ПИШЛО ОНО ВСЕ У СРАКУ
+[09:21:53] RusLanConnection killed Miyagi using env_explosion
+[09:21:54] RusLanConnection killed HEINZ using env_explosion
+[09:21:54] RusLanConnection suicided!
+[09:22:06] RusLanConnection killed romanun using env_explosion
+[09:22:08] Dropped "HEINZ" from server<STEAM_0:1:760492142>
+[09:22:08] HEINZ suicided!
+[09:22:43] Mr_Pyro: позор
+[09:22:53] Mr_Pyro: ты почему вайп решил провести всё же
+[09:22:57] RusLanConnection changed the map to gm_emp_isle
+[09:22:57] Server is shutting down/changing levels.
+
+
+
+[09:23:10] New map: gm_emp_isle
+[09:23:49] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 46 seconds).
+[09:23:54] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 51 seconds).
+[09:23:58] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 55 seconds).
+[09:24:01] Client "romanun" spawned in server <STEAM_0:0:618275322> (took 58 seconds).
+[09:24:14] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 71 seconds).
+[09:24:16] Dropped "romanun" from server<STEAM_0:0:618275322>
+[09:24:16] romanun suicided!
+[09:24:20] klinskoe za 200: ПУПУПУУУ
+[09:24:24] klinskoe za 200: и че делать
+[09:24:34] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 91 seconds).
+[09:24:41] Mr_Pyro: !specatate
+[09:24:51] klinskoe za 200: спекатате
+[09:24:56] Client "romanun" connected.
+[09:25:06] Mr_Pyro: Руслан, ты почему вайп сделал
+[09:25:22] Client "romanun" spawned in server <STEAM_0:0:618275322> (took 26 seconds).
+[09:25:32] Mr_Pyro: а
+[09:25:46] Mr_Pyro: ужс
+[09:25:58] Mr_Pyro: дети африки
+[09:26:03] Mr_Pyro: я чёрный кста
+[09:26:28] Mr_Pyro: RASISIT
+[09:27:27] Польские Пряники to admins: А ЧЕ
+[09:27:36] Mr_Pyro: !bring Польские Пряники
+[09:27:37] Польские Пряники to admins: Я ДАЛЬШЕ ИГРАТЬ ХОТЕЛ
+[09:27:44] Mr_Pyro to admins: ТП КО МНЕ\
+[09:27:53] Польские Пряники: МНЕ ПРИШЛОСЬ МОИ ШИКАРНЫЕ УСЫ СБРИТЬ
+[09:27:56] romanun killed Miyagi using wep_jack_gmod_hands
+[09:27:57] Mr_Pyro: хахахпхха
+[09:28:06] Польские Пряники: Я ПЛАЧУ
+[09:28:10] Польские Пряники: МНЕ ОЧЕНЬ ГОРЬКО
+[09:28:15] Mr_Pyro: Бедные котята
+[09:28:20] Польские Пряники: У МЕНЯ БЫЛИ КРУТЫЕ УСЫ
+[09:28:27] Mr_Pyro: ты смеёшься
+[09:28:29] Польские Пряники: МНЕ ПРИШЛОСЬ ИХ ПОБРИТЬ
+[09:28:35] Mr_Pyro: тебе карта не нравится?
+[09:28:37] Польские Пряники: ДА
+[09:28:56] Польские Пряники: БАЛИН
+[09:29:13] Mr_Pyro: хахахахахха
+[09:29:17] Mr_Pyro: аххзаххвуе
+[09:29:22] Mr_Pyro: ужас
+[09:29:29] (TEAM) klinskoe za 200: ыв
+[09:29:31] Miyagi killed romanun using wep_jack_gmod_hands
+[09:29:33] klinskoe za 200: че
+[09:29:33] Mr_Pyro: кайф
+[09:29:39] Mr_Pyro: хэх
+[09:29:42] klinskoe za 200: БЛЯ
+[09:29:52] Mr_Pyro: ъъъ
+[09:29:55] romanun killed Miyagi using wep_jack_gmod_hands
+[09:30:02] Mr_Pyro: хватит драться
+[09:30:14] Mr_Pyro: на голос давим
+[09:30:31] Mr_Pyro: А
+[09:30:49] Mr_Pyro: А я наоброт
+[09:30:54] RusLanConnection jailed romanun
+[09:30:54] Mr_Pyro: не могу закричать
+[09:30:57] Mr_Pyro: аххахахахаэ
+[09:31:07] Mr_Pyro: ъ
+[09:31:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_flametank
+[09:31:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[09:31:23] RusLanConnection unjailed romanun
+[09:31:25] RusLanConnection killed romanun using ent_jack_gmod_eznapalm
+[09:31:34] Польские Пряники: РУСЛАН НАСТОЛЬКО ЖАРКИЙ
+[09:31:39] Польские Пряники: ЧТО ДАЖЕ В ГМОДЕ ЗАГОРЕЛСЯ
+[09:31:42] Mr_Pyro: ГОРЯЧИЙ
+[09:31:47] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezcoolant
+[09:31:55] Mr_Pyro: ЪААЪАЪУ ЬО6ГЪЖ
+[09:32:00] Mr_Pyro: ПАЭЖКЕТ
+[09:32:06] Mr_Pyro: ТИХО ТИИХО
+[09:32:09] Mr_Pyro: У МЕНЯ 2 ЧАСА НОЧИ
+[09:32:13] Mr_Pyro: МНЕ НЕЛЬЗЯ СМЕЯТСЯ
+[09:32:19] Mr_Pyro: АЛЁ
+[09:32:22] Mr_Pyro: ЭТО ОВНЕР
+[09:32:31] Mr_Pyro: АЪЪКНХЪ
+[09:32:43] Mr_Pyro: ГОТОВО
+[09:32:49] Mr_Pyro: ПРОСТЛЫ
+[09:32:52] klinskoe za 200: РЕБЯТ
+[09:32:53] Польские Пряники froze Miyagi
+[09:32:57] Польские Пряники unfroze Miyagi
+[09:32:57] klinskoe za 200: РЕБЯТ
+[09:32:58] Mr_Pyro: ВОТ ПОЖТОМУ
+[09:33:05] klinskoe za 200: КТО ХОЧЕТ УРАНГ ДОБЫВАТЬ
+[09:33:08] Mr_Pyro: ЯЙЦА ПРОСТУЖИВЫАТ ЬЕНЛЬЗСЯ
+[09:33:24] klinskoe za 200: але
+[09:33:36] Mr_Pyro: Хэх
+[09:33:36] klinskoe za 200: вы двое которое не админы
+[09:33:37] romanun was killed by entityflame
+[09:33:40] klinskoe za 200: блять
+[09:33:41] Mr_Pyro: бляяяяят
+[09:33:45] Mr_Pyro: нея
+[09:33:49] Miyagi was killed by entityflame
+[09:33:51] Mr_Pyro: кто огнемётвязл
+[09:33:53] Польские Пряники: вода миникрафт
+[09:33:53] RusLanConnection was killed by entityflame
+[09:33:55] (TEAM) klinskoe za 200: попкорн
+[09:34:11] (TEAM) klinskoe za 200: УЬЕЙ ЕГО
+[09:34:14] Польские Пряники killed Miyagi using tfa_doibrowninghp
+[09:34:27] romanun killed Польские Пряники using rust_eoka
+[09:34:32] Miyagi killed romanun using tfa_doibrowninghp
+[09:34:34] klinskoe za 200: да скоко можно
+[09:34:40] Mr_Pyro: э
+[09:34:43] Mr_Pyro: нууууу
+[09:34:47] Miyagi killed romanun using tfa_doibrowninghp
+[09:34:48] Mr_Pyro: хз
+[09:35:07] Mr_Pyro: ЛЮБЛЮ ТОГДА
+[09:35:09] romanun killed Miyagi using rust_eoka
+[09:35:19] Польские Пряники: ЗЛЫЕ КАКИЕ ТА
+[09:35:20] klinskoe za 200: ясног
+[09:35:23] Mr_Pyro: капец мир животных
+[09:35:28] Mr_Pyro: ?
+[09:35:34] Польские Пряники killed klinskoe za 200 using tfa_doiluger
+[09:35:40] Mr_Pyro: ага( 
+[09:35:48] Польские Пряники killed romanun using tfa_doiluger
+[09:36:08] Mr_Pyro: хм
+[09:36:11] Miyagi killed romanun using wep_jack_gmod_hands
+[09:36:11] Mr_Pyro: у меня просто
+[09:36:13] Mr_Pyro: говно в том
+[09:36:14] RusLanConnection jailed romanun
+[09:36:19] Mr_Pyro: что процессор и материнка 7 года
+[09:36:24] Mr_Pyro: а всё остальное свежее
+[09:36:30] Польские Пряники: ВЫ ЗЛЫЕ
+[09:36:31] romanun killed Miyagi using wep_jack_gmod_hands
+[09:36:35] Mr_Pyro: ага(
+[09:36:41] klinskoe za 200: хммммммм
+[09:36:41] Mr_Pyro: я немогу новый проц поставить
+[09:36:45] Mr_Pyro: у меня 16
+[09:36:52] Mr_Pyro: аа
+[09:36:57] Польские Пряники: КСТАТИ РУСЛАН ПОМНИШЬ ЖЕ Я КОГДА ТАБЛИЧКИ ДЕЛАЛ Я ПОКАЗЫВАЛ МЕНЮШКУ
+[09:36:58] Mr_Pyro: amd rx 6400
+[09:37:03] Mr_Pyro: что то такое
+[09:37:04] Польские Пряники: КОТОРУЮ Я ДЕЛАЛ ДЛЯ СЕРВАКА ОДНОГО
+[09:37:06] Mr_Pyro: хахах
+[09:37:20] Mr_Pyro: помойму есть
+[09:37:22] Польские Пряники: МНЕ ВЫПЛАЧИВАЮТ 
+[09:37:25] Польские Пряники: ЗА ТО ЧТО НАКОДИЛ
+[09:37:26] Польские Пряники: МЕНЮШКИ
+[09:37:28] Польские Пряники: КРУТЫЕ
+[09:37:33] romanun: /me делает куни своейму сводному отцу
+[09:37:38] Mr_Pyro: да
+[09:37:58] Mr_Pyro: хм
+[09:38:00] Mr_Pyro: СЕГОДНГЯ
+[09:38:04] Польские Пряники: МНЕ НЕДАВНО ВЫДАЛИ 2К И У МЕНЯ НА ВКЛАДЕ 24К ЛЕЖИТ
+[09:38:04] Mr_Pyro: У МЕНЯ 2 ЧАСА НРОЧИ
+[09:38:10] Польские Пряники: 26
+[09:38:10] Mr_Pyro: И МНЕ ЗАВТРА ЭКЗАМЕНЫ(((((
+[09:38:14] Mr_Pyro: ага
+[09:38:19] Mr_Pyro: чтоо
+[09:38:20] Mr_Pyro: уже
+[09:38:22] Mr_Pyro: заберают
+[09:38:26] Mr_Pyro: ;(
+[09:38:34] Польские Пряники: ЭТО ГРУСНО
+[09:38:43] Mr_Pyro: блин
+[09:38:46] Miyagi: :(
+[09:38:53] RusLanConnection unjailed romanun
+[09:38:53] Mr_Pyro: я тока сегодня думал
+[09:38:54] Miyagi killed romanun using rust_eoka
+[09:38:57] RusLanConnection jailed Miyagi
+[09:38:59] Mr_Pyro: сколько у меня ещё времени
+[09:39:14] Mr_Pyro: чтоб нормально поиграть с крутыми ребятами
+[09:39:15] Польские Пряники: КАРОЧЕ
+[09:39:15] Mr_Pyro: как ты
+[09:39:26] Польские Пряники: МНЕ ЗА ТО ЧТО Я КРУТЫЕ МЕНЬШКИ НАКОДИЛ ДЕНЬГИ ПЛАТЯ
+[09:39:27] Польские Пряники: Т
+[09:39:34] Польские Пряники: И ЗА ТО ЧТО Я ЛИНУКСЫ НАСТРАИВАЮ
+[09:39:37] Польские Пряники: И ПРОЧУЮ ФИГНЮ
+[09:39:48] Польские Пряники: МНЕ НЕДАВНО 2К ВЫПЛАТИЛИ И СКАЗАЛИ ЕЩЁ БУДУТ ПЛАТИТЬ
+[09:40:07] Польские Пряники: ТАМ СЕРВАК ДРУГА НО ОН ГЛУПЕНЬКИЙ
+[09:40:12] Польские Пряники: И НИЧЕ НЕ УМЕЕТ ВОБЩЕМ
+[09:40:19] Польские Пряники: НО ОН ХОРОШИЙ УПРАВЛЕНЕЦ
+[09:40:32] RusLanConnection unjailed Miyagi
+[09:40:34] Польские Пряники: Я ТАМ ДЕЛАЮ НА СЕРВЕРЕ МЕНЮШКИ ВСЯКИЕ
+[09:40:38] Польские Пряники: НАСТРАИВАЮ БОТОВ
+[09:40:43] Польские Пряники: ДОМЕНЫ
+[09:40:50] Польские Пряники: Щ
+[09:40:58] Польские Пряники: САБВЕЙ СЕРФ
+[09:40:59] klinskoe za 200: стойте
+[09:41:02] klinskoe za 200: СТОЙ
+[09:41:04] romanun killed klinskoe za 200 using rust_eoka
+[09:41:07] klinskoe za 200: ДОЛБОЙН
+[09:41:18] Mr_Pyro: блин
+[09:41:22] Mr_Pyro: наручники бы
+[09:41:26] Mr_Pyro: преступника
+[09:41:29] Польские Пряники played sound lanrp/music/slave 2.ogg
+[09:41:32] romanun killed RusLanConnection using rust_eoka
+[09:41:35] Польские Пряники killed romanun using tfa_doiithaca37
+[09:41:35] klinskoe za 200: ЗАБАНЬТЕ
+[09:41:40] Польские Пряники killed Miyagi using tfa_doiithaca37
+[09:41:52] klinskoe za 200: эй
+[09:41:55] klinskoe za 200: стой
+[09:41:56] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[09:42:19] Mr_Pyro stripped weapons from Themself
+[09:42:19] Mr_Pyro: !strip Mr_Pyro
+[09:42:22] romanun killed Miyagi using rust_eoka
+[09:42:35] Польские Пряники to admins: кароче по сути заработок есть у меня и накопить на пк я смогу
+[09:42:47] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[09:42:47] Miyagi suicided!
+[09:42:49] Mr_Pyro: [f[f[f[
+[09:42:52] Польские Пряники teleported to RusLanConnection
+[09:42:52] Польские Пряники: !goto Rus
+[09:42:53] Mr_Pyro: блин
+[09:42:54] Польские Пряники: йоу
+[09:42:54] Client "Miyagi" connected.
+[09:42:57] Польские Пряники: победили
+[09:42:58] Mr_Pyro: а у тебя Руслдан
+[09:43:05] Mr_Pyro: Будет вообще какая нибудь связь
+[09:43:12] Mr_Pyro: ну хоть так
+[09:43:24] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 30 seconds).
+[09:43:26] Польские Пряники: ТИПО ТЫ БЕЖАТЬ НАЧАЛ ЗА ЧЕЛОМ
+[09:43:30] Польские Пряники: А ОН УБЕГАТЬ
+[09:43:32] Польские Пряники: А
+[09:43:36] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[09:43:36] Miyagi suicided!
+[09:43:38] klinskoe za 200: кыш
+[09:43:39] Польские Пряники: СТОПСОУНД
+[09:43:40] Польские Пряники: Я ПРОПИСАЛ
+[09:43:43] Client "Miyagi" connected.
+[09:43:50] klinskoe za 200: похуй+похуй
+[09:44:04] RusLanConnection: lanrp/music/silence_1sec_lp.wav
+[09:44:07] Польские Пряники played sound lanrp/music/silence_1sec_lp.wav
+[09:44:10] Mr_Pyro: а
+[09:44:12] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 29 seconds).
+[09:44:12] Польские Пряники: ВОТ ТАК?
+[09:44:14] Польские Пряники played sound lanrp/music/silence_1sec_lp.wav
+[09:44:16] Mr_Pyro: вот для чего оно
+[09:44:19] Mr_Pyro: я понял
+[09:44:24] Польские Пряники: ТАМ Я ЧЕРЕЗ УЛХ ЗАПУСКАЮ
+[09:44:31] Mr_Pyro: а как ннвдро
+[09:44:33] Польские Пряники: ПОТОМУ ЧТО ЧЕРЕЗ КУ МЕНЮ Я НЕ МОГУ
+[09:44:41] Польские Пряники: Я ЕСЛИ НАЖИМАЮ ПЛЕЙ ОН ОЛЛ КЛИЕНТС
+[09:44:59] Польские Пряники: ТО ИГРАЕТ ТОЛЬКО У МЕНЯ
+[09:45:17] Польские Пряники: ВОТ НАЖАЛ
+[09:45:24] Польские Пряники: А
+[09:45:30] Польские Пряники: ВИДИМО ПРИКОЛ КАКОЙ ТО БЫЛ ЧТО Я НЕ МОГ
+[09:45:34] Mr_Pyro: стогй
+[09:45:43] Польские Пряники: ТАМ КОГДА РАНЬШЕ ЗАПУСКАЛ ПОЧЕМУ ТО ТОЛЬКО У МЕНЯ
+[09:45:45] Польские Пряники: РАБОТАЛА
+[09:45:50] Польские Пряники: НО НИ У КОГО ДРУГОВО
+[09:45:54] Польские Пряники: ЕСЛИ ПЛЕЙ ОН ОЛЛ КЛИЕНТ
+[09:45:56] Польские Пряники: НАЖИМАЛ
+[09:45:56] Mr_Pyro: а музуку можно включать тоже через кью меню
+[09:45:57] Mr_Pyro: ?
+[09:46:06] Mr_Pyro: а
+[09:46:11] Mr_Pyro: ну обычный админ
+[09:46:20] Польские Пряники: ОБЫЧНЫЙ ПРОСТЕНЬКИЙ
+[09:46:23] Польские Пряники: УРОВЕНЬ
+[09:46:25] Mr_Pyro: может коненчо кульфрум может так
+[09:46:28] Mr_Pyro: по нажатию
+[09:46:29] Mr_Pyro: хахаха
+[09:46:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpopcorn
+[09:46:38] Польские Пряники: АДМИН ЛЕГКОЙ СЛОЖНОСТИ
+[09:46:41] Польские Пряники: ОН СХЕЛ
+[09:46:43] Польские Пряники: СЪЕД
+[09:46:46] Польские Пряники: Я ДУМАЮ
+[09:47:02] Mr_Pyro: Скорее всего нет
+[09:47:07] Mr_Pyro: не припомню
+[09:47:14] Mr_Pyro: хорошо
+[09:47:26] Польские Пряники: У МЕНЯ ПРОБЛЕМА В ПРОЦЕ ОКАЗАЛАСЬ
+[09:47:33] Польские Пряники: ИЗ ЗА ТОГО ЧТО НЕ ЗАПУСКАЕТСЯ
+[09:49:42] Польские Пряники: АЛЕЕЕ
+[09:49:46] Польские Пряники: ТЫ ПРОСТОЙ
+[09:49:49] Польские Пряники: ЛЕГКИЙ
+[09:49:55] Польские Пряники stripped weapons from Themself
+[09:49:55] Польские Пряники: !STRIP Пол
+[09:49:59] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[09:49:59] Польские Пряники suicided!
+[09:50:09] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[09:50:09] Miyagi suicided!
+[09:59:53] klinskoe za 200 was killed by ent_jack_gmod_ezfalloutparticle
+[10:00:12] klinskoe za 200 was killed by ent_jack_gmod_ezfalloutparticle
+[10:00:56] klinskoe za 200 was killed by ent_jack_gmod_ezfalloutparticle
+[10:01:20] klinskoe za 200 was killed by ent_jack_gmod_ezfalloutparticle
+[10:02:50] romanun was killed by ent_jack_gmod_ezfalloutparticle
+[10:03:03] klinskoe za 200 was killed by ent_jack_gmod_ezfalloutparticle
+[10:04:42] klinskoe za 200: alt 3
+[10:04:45] klinskoe za 200: alt 3
+[10:04:49] (TEAM) klinskoe za 200: alt e
+[10:05:37] klinskoe za 200: damn
+[10:05:41] romanun killed romanun
+[10:09:23] romanun killed klinskoe za 200 using tfa_doic96
+[10:09:23] klinskoe za 200 killed romanun using player
+[10:09:28] klinskoe za 200 suicided!
+[10:10:14] klinskoe za 200 killed romanun using rust_boltrifle
+[10:11:28] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[10:11:28] RusLanConnection suicided!
+[10:12:14] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[10:12:14] Mr_Pyro suicided!
+[10:14:03] Dropped "romanun" from server<STEAM_0:0:618275322>
+[10:14:03] romanun suicided!
+[10:14:33] Client "romanun" connected.
+[10:15:01] Client "romanun" spawned in server <STEAM_0:0:618275322> (took 28 seconds).
+[10:18:55] Client "asenaayse369" connected.
+[10:19:17] Client "asenaayse369" connected.
+[10:20:22] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[10:20:22] klinskoe za 200 suicided!
+[10:26:56] romanun suicided!
+[10:27:33] Dropped "romanun" from server<STEAM_0:0:618275322>
+[10:27:33] romanun suicided!
+[10:39:41] Client "bareyouboy" connected.
+[10:41:32] Client "bareyouboy" connected.
+[10:41:34] Client "Hehs7321" connected.
+[10:42:22] Client "bareyouboy" spawned in server <STEAM_0:0:850999753> (took 50 seconds).
+[10:46:49] Client "Hehs7321" spawned in server <STEAM_0:1:796566998> (took 315 seconds).
+[10:50:19] bareyouboy: *inv*'
+[10:55:37] Hehs7321 killed bareyouboy using rust_boltrifle
+[10:56:20] bareyouboy killed Hehs7321 using rust_boltrifle
+[10:58:25] Hehs7321: *ifv*
+[11:03:34] Hehs7321 killed bareyouboy using rust_boltrifle
+[11:04:17] bareyouboy killed Hehs7321 using rust_boltrifle
+[11:05:20] bareyouboy killed Hehs7321 using wep_jack_gmod_hands
+[11:06:11] bareyouboy killed Hehs7321 using rust_boltrifle
+[11:07:11] Hehs7321 killed bareyouboy using wep_jack_gmod_hands
+[11:08:52] bareyouboy killed Hehs7321 using wep_jack_gmod_hands
+[11:09:07] Dropped "Hehs7321" from server<STEAM_0:1:796566998>
+[11:09:07] Hehs7321 suicided!
+[11:09:10] Dropped "bareyouboy" from server<STEAM_0:0:850999753>
+[11:09:10] bareyouboy suicided!
+[11:12:14] Client "klinskoe za 200" connected.
+[11:12:54] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 40 seconds).
+[11:23:31] Client "zenad2263" connected.
+[11:55:56] Client "Hellinberg" connected.
+[11:59:27] Client "Hellinberg" spawned in server <STEAM_0:0:27824887> (took 211 seconds).
+[12:01:52] The time is now 12:01 PM.
+[12:05:21] klinskoe za 200: м?
+[12:05:32] klinskoe za 200: а я уран уже нашел)
+[12:06:07] Client "Польские Пряники" connected.
+[12:06:09] klinskoe za 200: мммм
+[12:06:13] klinskoe za 200: ПОЗДНО
+[12:06:18] klinskoe za 200: КУЛЬФРУМ ТУТ
+[12:06:31] klinskoe za 200: СТОП СТОП
+[12:06:36] klinskoe za 200: КУЛЬФРУМ ЗАХОДИТ
+[12:06:48] klinskoe za 200: ням ням
+[12:07:16] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 69 seconds).
+[12:07:54] Польские Пряники cloaked Themself by amount 0
+[12:07:58] Польские Пряники teleported to klinskoe za 200
+[12:09:00] klinskoe za 200: не тут
+[12:09:06] klinskoe za 200: чуть ли не на спавне
+[12:15:16] Dropped "Hellinberg" from server<STEAM_0:0:27824887>
+[12:15:16] Hellinberg suicided!
+[12:15:44] Польские Пряники teleported to klinskoe za 200
+[12:16:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfirenade
+[12:17:47] klinskoe za 200: надо будет сделать аналоговый хоррор
+[12:17:50] klinskoe za 200: из ланРП
+[12:17:53] Польские Пряники: я могу
+[12:18:00] klinskoe za 200: опачки
+[12:18:03] Польские Пряники: у меня есть ВХС кассетник
+[12:18:12] Польские Пряники: я могу из обычного видео
+[12:18:15] Польские Пряники: сделать вхс
+[12:18:19] Client "gleb_farm" connected.
+[12:18:21] klinskoe za 200: ахах
+[12:18:28] klinskoe za 200: нарезка гефмплея ланРП
+[12:18:42] klinskoe za 200: где есть черный человечек и прочая фигня
+[12:18:44] Польские Пряники: хз я хочу всякую шнягу сделать
+[12:19:00] klinskoe za 200: все хотят :]
+[12:19:25] klinskoe za 200: О
+[12:19:34] klinskoe za 200: А ВОТ ЭТО ИМБА ЗВУК БЫЛ
+[12:20:07] klinskoe za 200: я попробую сделать видос
+[12:20:15] klinskoe za 200: как аналог хоррор
+[12:20:33] Польские Пряники: я из звуков птсра сделаю
+[12:20:37] klinskoe za 200: "что делать если игроки стали странно себя вести"
+[12:20:48] klinskoe za 200: ты видел severblight?
+[12:20:53] Польские Пряники: не
+[12:21:01] klinskoe za 200: ну аналог хоррор по тф2
+[12:21:10] klinskoe za 200: я оттуда идею хочу взять
+[12:21:20] Польские Пряники: я сделаю типо всякие здания пустые
+[12:21:25] Польские Пряники: и чб фильтр
+[12:21:30] Польские Пряники: и сделаю типо зачистка сдания
+[12:21:30] klinskoe za 200: гаддэмн
+[12:21:34] Польские Пряники: там с пушками все дела
+[12:21:45] klinskoe za 200: агась
+[12:21:49] Польские Пряники: и парралельно наложу видос с красивым сданием и людьми
+[12:22:02] klinskoe za 200: аааа я понял идею
+[12:22:09] klinskoe za 200: найс
+[12:22:30] Польские Пряники: у меня уже были вхс записи
+[12:22:35] Польские Пряники: с ланрп
+[12:22:45] Польские Пряники: где я объяснял строение своей базы
+[12:22:53] Польские Пряники: ваще я хотел сделать лорную фракцию
+[12:23:02] Польские Пряники: и к ней вхс записи с инструктажами
+[12:23:07] Польские Пряники: и прочей говной
+[12:23:10] Польские Пряники: там чертежи муляжи
+[12:23:18] klinskoe za 200: нифига ты
+[12:23:18] Польские Пряники: ай
+[12:23:22] klinskoe za 200: ОЙ
+[12:23:41] Польские Пряники: я могу как через кассетник
+[12:23:45] Польские Пряники: так и через эмулятор
+[12:23:57] Client "gleb_farm" spawned in server <STEAM_0:1:211934637> (took 338 seconds).
+[12:24:10] klinskoe za 200: бедный новичек
+[12:24:16] klinskoe za 200: новичок*
+[12:24:19] Польские Пряники: убери скорее
+[12:24:23] Польские Пряники: умирать
+[12:24:27] Польские Пряники granted god mode upon Themself
+[12:24:27] Польские Пряники: !god Пол
+[12:24:35] Польские Пряники: что про новичка
+[12:24:49] klinskoe za 200: щас чел зайдет а тут звуки страшные
+[12:24:53] klinskoe za 200: а уже зашел
+[12:24:53] Польские Пряники: !sslay пол
+[12:24:58] Польские Пряники silently slayed Themself
+[12:24:59] Польские Пряники: !sslay Пол
+[12:25:08] Польские Пряники: лан я пойду
+[12:25:13] klinskoe za 200: окей
+[12:25:16] klinskoe za 200: покеда
+[12:25:23] Польские Пряники silently slayed Themself
+[12:25:23] Польские Пряники: !sslay Пол
+[12:25:25] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[12:25:25] Польские Пряники suicided!
+[12:30:33] Dropped "gleb_farm" from server<STEAM_0:1:211934637>
+[12:30:33] gleb_farm suicided!
+[13:00:57] klinskoe za 200: supply radio: dynamite
+[14:26:44] klinskoe za 200: !rtv
+[14:26:47] klinskoe za 200: !RTV
+[14:26:51] klinskoe za 200: СУКААААААА
+[16:22:11] Client "softimp" connected.
+[16:36:32] Client "softimp" spawned in server <STEAM_0:0:179903118> (took 861 seconds).
+[16:39:30] softimp: че за трек
+[16:42:40] Dropped "softimp" from server<STEAM_0:0:179903118>
+[16:42:40] softimp suicided!
+[16:45:40] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[16:45:40] klinskoe za 200 suicided!
+[21:28:40] Client "kottlettta" connected.
+[21:49:44] Client "endworld#bummerrust" connected.
+[21:52:05] Client "Польские Пряники" connected.
+[21:52:24] Client "endworld#bummerrust" spawned in server <STEAM_0:1:774911229> (took 160 seconds).
+[21:53:14] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 69 seconds).
+[21:53:49] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_mh6alt
+[22:00:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezammo
+[22:02:03] Польские Пряники: ЧТО ТАКОЕ ВЧЕРА
+[22:02:06] Польские Пряники: КАКАЯ ФРАКЦИЯ
+[22:02:27] Польские Пряники: КАКИЕ РАКЕТЫ
+[22:03:36] Client "andreyrad2017" connected.
+[22:04:34] Client "andreyrad2017" spawned in server <STEAM_0:0:511259525> (took 58 seconds).
+[22:06:44] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[22:06:44] Польские Пряники suicided!
+[22:18:21] Client "Atomic Ivan" connected.
+[22:32:58] Client "Yonk" connected.
+[22:33:00] endworld#bummerrust killed andreyrad2017 using ent_jack_gmod_ezgroundscanner
+[22:34:15] andreyrad2017: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:34:58] Client "Jake13579" connected.
+[22:59:38] endworld#bummerrust: supply radio help
+[23:27:04] Client "GMOD" connected.
+[23:32:27] andreyrad2017: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:33:12] Dropped "endworld#bummerrust" from server<STEAM_0:1:774911229>
+[23:33:12] endworld#bummerrust suicided!
+[23:33:16] Client "endworld#bummerrust" connected.
+[23:33:52] Client "endworld#bummerrust" spawned in server <STEAM_0:1:774911229> (took 36 seconds).
+[23:41:14] endworld#bummerrust: supply radio: make loan
+[23:41:19] endworld#bummerrust: supply radio: make loan
+[23:41:50] endworld#bummerrust: !guide
+[23:41:53] endworld#bummerrust: /guide
+[23:42:09] andreyrad2017: !help
+[23:42:12] andreyrad2017: /help
+[23:44:57] Client "Kartofanchik" connected.
+[23:46:01] andreyrad2017: supply radio: fulton-crate
+[23:46:43] andreyrad2017: supply radio: fulton-crate
+[23:49:37] endworld#bummerrust: supply radio: fulton-crate
+[23:49:59] endworld#bummerrust: supply radio: fulton-crate
+[23:52:16] endworld#bummerrust: supply radio: fulton-crate
+<Logging continued in "data/ulx_logs/05-23-25.txt">

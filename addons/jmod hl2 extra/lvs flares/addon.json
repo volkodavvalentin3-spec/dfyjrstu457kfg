@@ -1,0 +1,12 @@
+{
+  "title": "[LVS] - Flares",
+  "type": "entity",
+  "tags": [
+    "roleplay",
+    "realism",
+    "fun"
+  ],
+  "ignore": [
+    ".idea/*"
+  ]
+}

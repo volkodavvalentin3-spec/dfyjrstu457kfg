@@ -1,0 +1,1157 @@
+<Logging continued from "data/ulx_logs/11-19-25.txt">
+[10:00:20] Client "[|||||         ] Loading" connected.
+[10:01:54] Client "[|||||         ] Loading" spawned in server <STEAM_0:0:63578334> (took 94 seconds).
+[10:16:54] Dropped "[|||||         ] Loading" from server<STEAM_0:0:63578334>
+[10:16:54] [|||||         ] Loading suicided!
+
+
+
+[14:36:05] New map: gm_sro
+[14:37:11] Client "Chupacabr" connected.
+[14:40:05] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 174 seconds).
+[14:40:29] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:40:35] Chupacabr<STEAM_0:1:63230461> spawned sent ent_rus_spawnbase
+[14:40:44] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:40:44] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:40:45] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:40:45] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:42:49] Chupacabr suicided!
+[14:43:21] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[14:48:27] Client "vasiliy karat" connected.
+[14:48:28] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:48:28] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:48:28] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:48:29] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:48:30] Client "maksumkolesnukov022" connected.
+[14:49:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:49:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:49:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:49:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:49:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:49:44] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 77 seconds).
+[14:49:46] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 76 seconds).
+[14:49:56] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[14:49:56] vasiliy karat suicided!
+[14:52:20] Chupacabr suicided!
+[14:52:40] maksumkolesnukov022 suicided!
+[14:52:52] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:52:52] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:52:52] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:52:52] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:52:52] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:52:55] Client "vasiliy karat" connected.
+[14:53:08] maksumkolesnukov022: ало а у меня не выбираются
+[14:53:14] maksumkolesnukov022 suicided!
+[14:53:57] maksumkolesnukov022: ошибка когда хочу
+[14:53:57] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 62 seconds).
+[14:53:58] maksumkolesnukov022: выбрат
+[14:54:16] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:54:16] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:54:16] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:54:24] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:54:24] maksumkolesnukov022: ал
+[14:54:24] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:54:24] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:54:24] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:54:29] maksumkolesnukov022: не выбираетс
+[14:54:34] maksumkolesnukov022 suicided!
+[14:54:48] maksumkolesnukov022: всё равно не выбирается
+[14:54:52] Chupacabr suicided!
+[14:55:04] maksumkolesnukov022: ал
+[14:55:08] maksumkolesnukov022 suicided!
+[14:55:11] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[14:55:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[14:55:32] maksumkolesnukov022 suicided!
+[14:55:38] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[14:55:46] maksumkolesnukov022: а всё
+[14:55:54] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:54] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:55:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezceramic
+[14:56:08] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[14:56:08] vasiliy karat suicided!
+[14:57:01] Client "vasiliy karat" connected.
+[14:57:37] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 36 seconds).
+[14:57:53] Chupacabr suicided!
+[14:57:58] maksumkolesnukov022 suicided!
+[14:58:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[14:58:17] maksumkolesnukov022: почему игроки появляются в центре карты
+[14:58:21] vasiliy karat: ероры в селекторе
+[14:58:22] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[14:58:30] maksumkolesnukov022: нуб
+[14:58:31] Chupacabr: kys
+[14:58:36] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[14:58:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[14:58:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[14:58:40] vasiliy karat: хотя все есть
+[14:58:47] maksumkolesnukov022: найди папку в папке гмода 
+[14:58:50] maksumkolesnukov022: jmod_construction
+[14:58:54] maksumkolesnukov022: там garrysmod/materials
+[14:58:55] maksumkolesnukov022: и удали
+[15:00:22] Chupacabr suicided!
+[15:00:37] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[15:01:33] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[15:01:33] vasiliy karat suicided!
+[15:01:34] Client "vasiliy karat" connected.
+[15:02:01] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 27 seconds).
+[15:03:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[15:03:33] vasiliy karat: ура
+[15:03:44] maksumkolesnukov022: чупак забыл два скина для крыши
+[15:03:45] maksumkolesnukov022: плоской
+[15:03:52] vasiliy karat: когда 
+[15:03:54] vasiliy karat: окопы
+[15:03:58] maksumkolesnukov022: окопы позже
+[15:03:59] Chupacabr<STEAM_0:1:63230461> spawned model models/jmod_construction/roof01.mdl
+[15:04:02] maksumkolesnukov022: я ещё не домоделил
+[15:04:10] maksumkolesnukov022: там надо подложку сделать
+[15:04:13] maksumkolesnukov022: и вариант с укрытием
+[15:04:18] maksumkolesnukov022: и другим укрытием
+[15:04:19] vasiliy karat: сохранялку на серваке проверяли
+[15:04:21] vasiliy karat: ?
+[15:05:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezcrate
+[15:05:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:20] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:20] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:05:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:06:32] maksumkolesnukov022: тут прикол при убирании пропа остальные открепляются
+[15:07:07] vasiliy karat: куда дом
+[15:07:12] maksumkolesnukov022: думал проверить
+[15:07:15] maksumkolesnukov022: но кажись тока у заборов
+[15:07:16] maksumkolesnukov022: такое
+[15:07:18] maksumkolesnukov022: или чупак уже починил
+[15:07:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[15:07:35] maksumkolesnukov022: во падают
+[15:07:40] vasiliy karat was killed by build_prop
+[15:08:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[15:08:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:08:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:08:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:08:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:08:36] maksumkolesnukov022: не закрыл строку асл
+[15:08:44] maksumkolesnukov022: поставь два
+[15:08:51] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_borealis/bluebarrel001.mdl
+[15:09:14] maksumkolesnukov022: капец неровно
+[15:09:22] maksumkolesnukov022: а вс
+[15:09:33] vasiliy karat: говнр
+[15:09:44] vasiliy karat: забор высоко ставитяс
+[15:09:47] maksumkolesnukov022: да
+[15:09:57] Chupacabr suicided!
+[15:10:11] vasiliy karat: забор
+[15:10:13] vasiliy karat: высоко
+[15:10:15] vasiliy karat: ставиться
+[15:10:16] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[15:10:25] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_junk/wood_crate001a.mdl
+[15:11:02] maksumkolesnukov022: !bring vasiliy karat
+[15:11:32] vasiliy karat killed maksumkolesnukov022 using tfa_doienfield
+[15:11:39] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[15:11:52] maksumkolesnukov022: прострел волхак
+[15:12:02] vasiliy karat: скачать читы на билд
+[15:12:14] maksumkolesnukov022: уронил клетк
+[15:12:21] vasiliy karat<STEAM_0:0:814052183> spawned ragdoll models/props_c17/furnituremattress001a.mdl
+[15:12:23] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furniturecouch002a.mdl
+[15:12:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[15:13:05] vasiliy karat: забор высоко ставиться
+[15:13:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:10] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:10] vasiliy karat: починте
+[15:13:10] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:11] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:12] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:13] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:13:38] maksumkolesnukov022: ало вася
+[15:13:40] maksumkolesnukov022: теперь можно
+[15:13:42] maksumkolesnukov022: крутые доты
+[15:13:44] maksumkolesnukov022: делат
+[15:13:52] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezcrate
+[15:13:55] vasiliy karat: пеноблок
+[15:14:32] Chupacabr: потестируйте торговлю
+[15:14:37] maksumkolesnukov022: как
+[15:14:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:14:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:14:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:14:56] Chupacabr: попытайтесь заработать 2 милиона за несоклько минуточк
+[15:15:00] vasiliy karat: щас
+[15:15:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[15:17:12] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:13] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:13] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:13] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:13] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:13] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:30] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:31] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:31] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:35] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:36] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:37] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:17:38] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:18:36] Chupacabr<STEAM_0:1:63230461> spawned sent prop_ww_door
+[15:18:54] Chupacabr<STEAM_0:1:63230461> spawned sent prop_ww_door_big
+[15:18:56] Chupacabr<STEAM_0:1:63230461> spawned sent prop_ww_door
+[15:19:06] vasiliy karat: чето должно написаться?
+[15:22:18] vasiliy karat: пишет
+[15:22:28] vasiliy karat: пишет что товара нет на рынке хотя вот 5000 
+[15:22:54] vasiliy karat: а все
+[15:23:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:23:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:23:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:23:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:23:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:23:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:24:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:24:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:24:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:24:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:24:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:24:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:24:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:26:13] vasiliy karat: с калаша до нада
+[15:26:14] maksumkolesnukov022: скигы
+[15:26:19] maksumkolesnukov022: скины
+[15:26:20] maksumkolesnukov022: на метал
+[15:26:21] maksumkolesnukov022: стены
+[15:26:25] maksumkolesnukov022: и тд
+[15:26:29] Chupacabr<STEAM_0:1:63230461> spawned model models/jmod_construction/windowthin01.mdl
+[15:26:38] Chupacabr: какие нада
+[15:26:40] Chupacabr: покажите
+[15:27:06] maksumkolesnukov022: и сделай чтобы полустенки нормально
+[15:27:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:27:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:27:20] maksumkolesnukov022: полустену на стену попробуй
+[15:27:23] maksumkolesnukov022: поставит
+[15:27:36] Chupacabr: обновите себе билд тул
+[15:27:41] maksumkolesnukov022 suicided!
+[15:27:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[15:27:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[15:27:55] vasiliy karat: также
+[15:28:11] maksumkolesnukov022: ещё снаппинг неудобный
+[15:28:14] vasiliy karat: оооо
+[15:28:15] maksumkolesnukov022: вася ты тоже заметил
+[15:28:16] vasiliy karat: теперь норм
+[15:28:18] Chupacabr suicided!
+[15:28:25] maksumkolesnukov022: к фундаментам потолкам
+[15:28:27] vasiliy karat: есть такое
+[15:28:32] maksumkolesnukov022 suicided!
+[15:28:35] Chupacabr suicided!
+[15:28:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:28:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:28:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:28:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:28:44] maksumkolesnukov022 teleported to vasiliy karat
+[15:28:44] maksumkolesnukov022: !goto vasiliy karat
+[15:28:49] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[15:28:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[15:29:03] maksumkolesnukov022: полустенка но полустенк
+[15:29:21] maksumkolesnukov022: и ещё чёта много
+[15:29:22] maksumkolesnukov022: кушает
+[15:29:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:29:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:29:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:29:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:29:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:29:41] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:41] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:43] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:44] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:44] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:29:52] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[15:30:25] vasiliy karat: ну и не спавнит столица
+[15:30:32] maksumkolesnukov022: игроки спавнятся
+[15:30:33] maksumkolesnukov022: где
+[15:30:35] vasiliy karat suicided!
+[15:30:58] vasiliy karat suicided!
+[15:30:59] maksumkolesnukov022 suicided!
+[15:31:11] maksumkolesnukov022 teleported to vasiliy karat
+[15:31:11] maksumkolesnukov022: !goto vasiliy karat
+[15:31:13] vasiliy karat: ну просто не хочет
+[15:31:36] maksumkolesnukov022: чупак непротив скину нубам в дискорд
+[15:31:39] maksumkolesnukov022: спойлер обновление
+[15:31:48] maksumkolesnukov022: пусть будет у них
+[15:31:49] maksumkolesnukov022: хопиум
+[15:32:10] maksumkolesnukov022: или типа можно
+[15:32:12] maksumkolesnukov022: сюрприз
+[15:32:15] maksumkolesnukov022: зашли а новый билд тул
+[15:32:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[15:32:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[15:32:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedsupplies
+[15:32:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[15:32:57] vasiliy karat suicided!
+[15:33:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezmedsupplies
+[15:33:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezmedsupplies
+[15:33:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezmedsupplies
+[15:33:11] maksumkolesnukov022: обнова
+[15:33:14] maksumkolesnukov022: столицу заряжать
+[15:33:20] vasiliy karat: о погнали
+[15:33:21] maksumkolesnukov022: нифига
+[15:33:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[15:34:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:34:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:34:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:34:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:34:23] Chupacabr: дом из пеноблоков
+[15:34:27] Chupacabr: в селе
+[15:34:31] vasiliy karat: не достроенный дом 
+[15:34:32] maksumkolesnukov022: ало вася а у тебя какая графика у моделей стоит
+[15:34:56] vasiliy karat: стояло средняя щас поставил высок
+[15:35:10] maksumkolesnukov022: на высокой пусть а то будет плохо выглядеть билд проп
+[15:35:13] maksumkolesnukov022: там лоды оптимизация
+[15:35:16] maksumkolesnukov022: на расстоянии
+[15:35:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[15:35:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:35:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:35:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:35:34] maksumkolesnukov022: на средних и низких у тебя дальний вариант показывать будет
+[15:36:00] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezaidradio
+[15:36:13] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[15:36:24] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezoil
+[15:36:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezoil
+[15:36:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezoil
+[15:36:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezoil
+[15:36:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezoil
+[15:36:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezoil
+[15:36:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezoil
+[15:36:35] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:36:36] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:36:36] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:36:36] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:36:36] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:36:36] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:36:36] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:36:52] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:36:52] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:36:53] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:37:08] maksumkolesnukov022: ало где 2 этаж
+[15:37:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:37:23] Chupacabr: эпик
+[15:37:34] Chupacabr: надо стены с материалами стен из хф2
+[15:37:34] vasiliy karat: щас лестница
+[15:37:40] maksumkolesnukov022: хф2/
+[15:37:42] maksumkolesnukov022: ?
+[15:37:45] vasiliy karat: хай флит
+[15:37:57] Chupacabr: ну типо обычный дом из сити 17
+[15:38:01] vasiliy karat: сколько потолок
+[15:38:05] vasiliy karat: ceil стоит
+[15:38:12] maksumkolesnukov022: чупак чёт задрал цен
+[15:38:13] vasiliy karat: снимает 30
+[15:38:15] maksumkolesnukov022: цены
+[15:38:17] maksumkolesnukov022: ало чупак
+[15:38:28] maksumkolesnukov022: даже евреи так не издевались
+[15:38:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:38:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:38:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:38:46] maksumkolesnukov022 suicided!
+[15:39:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:39:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:39:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:39:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:39:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:39:43] Chupacabr: не берите старую версию в спавнменю
+[15:39:47] maksumkolesnukov022: кк
+[15:39:58] maksumkolesnukov022: так что можно скрин кидать
+[15:40:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:40:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:40:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:40:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:40:02] maksumkolesnukov022: спойлер релиз
+[15:40:03] maksumkolesnukov022: хл3
+[15:40:28] vasiliy karat: планировка
+[15:40:37] maksumkolesnukov022: твоего дома?
+[15:40:40] maksumkolesnukov022: а чё стены недостроены
+[15:40:45] maksumkolesnukov022: низкие
+[15:40:47] Chupacabr: сделайте  чтобы можно на каждую поверхность субматериал наносить
+[15:40:52] Chupacabr: типо обои
+[15:40:58] maksumkolesnukov022: дорого по рендеру
+[15:41:02] maksumkolesnukov022: там придётся доп вызовы отрисовки
+[15:41:05] vasiliy karat: сро хаус флиппер
+[15:41:16] maksumkolesnukov022: типа каждый сабматериал даёт вызов отрисовки
+[15:41:17] Chupacabr: зря молот не добавляют
+[15:41:26] maksumkolesnukov022: а он дороже отрисовки хай поли модели
+[15:41:27] vasiliy karat: крафтим клей покупаем на рынке подходящие обои
+[15:41:30] maksumkolesnukov022: любой вызов
+[15:41:53] maksumkolesnukov022: типа поэтому на моделях 1-2 материала
+[15:41:54] vasiliy karat: under construction
+[15:41:59] maksumkolesnukov022: и на расстоянии 1 материал убирается
+[15:42:04] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbasicparts
+[15:42:05] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbasicparts
+[15:42:17] maksumkolesnukov022: в случае этих стен убирается материалдерева для окон
+[15:42:18] Chupacabr<STEAM_0:1:63230461> spawned model models/props_c17/furnituretoilet001a.mdl
+[15:42:59] Chupacabr: насялника
+[15:43:01] Chupacabr<STEAM_0:1:63230461> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[15:43:05] Chupacabr<STEAM_0:1:63230461> spawned model models/props_c17/furnituresink001a.mdl
+[15:43:11] Chupacabr<STEAM_0:1:63230461> spawned model models/props_interiors/bathtub01a.mdl
+[15:43:27] maksumkolesnukov022: тук тук здрасте
+[15:43:31] maksumkolesnukov022: хочу дом купить
+[15:43:34] vasiliy karat: дом в стеях казахкастанк
+[15:43:53] vasiliy karat: как вы нас нашли пойдемте
+[15:44:03] vasiliy karat: тут евроремонт
+[15:44:03] maksumkolesnukov022: дом единственный в  округе
+[15:44:14] Chupacabr: снт местные
+[15:44:17] vasiliy karat: пеноблоки
+[15:44:20] vasiliy karat: видите
+[15:44:22] vasiliy karat: из пены
+[15:44:25] vasiliy karat: пенятся
+[15:44:25] Chupacabr: зимой тепло будет
+[15:44:41] maksumkolesnukov022 to admins: вообще я хотел сначала другой материал для стен
+[15:44:51] maksumkolesnukov022: а почему стены низкие
+[15:44:51] vasiliy karat: вот тут туалет
+[15:44:56] maksumkolesnukov022: а как
+[15:45:00] vasiliy karat: ну ваш дом чего стеснятся
+[15:45:07] maksumkolesnukov022: и то правда
+[15:45:13] maksumkolesnukov022: а то есть уже мой дом
+[15:45:15] maksumkolesnukov022: уходите
+[15:45:17] vasiliy karat: в европе ваще уже без стен делают просто ангары
+[15:45:23] vasiliy karat: сковттеры
+[15:45:27] maksumkolesnukov022: мой дом
+[15:45:43] vasiliy karat: равшан сковтеры
+[15:46:06] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[15:46:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezfragnade
+[15:46:33] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[15:46:33] Chupacabr suicided!
+[15:46:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:46:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:46:44] maksumkolesnukov022: перехватил
+[15:46:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:46:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:46:58] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:47:04] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:47:07] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:47:11] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:47:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:47:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:47:24] Client "Chupacabr" connected.
+[15:47:38] vasiliy karat: какой крепкий дом сделали
+[15:47:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztimebomb
+[15:47:49] maksumkolesnukov022: кидаю обратно гранаты
+[15:48:05] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[15:48:06] maksumkolesnukov022: реалн чёт слишком
+[15:48:11] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 47 seconds).
+[15:48:13] vasiliy karat: надо множител
+[15:48:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowderkeg
+[15:48:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t34_42
+[15:48:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t34_42
+[15:48:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowderkeg
+[15:48:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowderkeg
+[15:48:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowderkeg
+[15:48:27] maksumkolesnukov022: отойд
+[15:48:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[15:48:41] maksumkolesnukov022 killed vasiliy karat using lvs_t34_42
+[15:48:50] maksumkolesnukov022: ало где ломаемость
+[15:48:56] maksumkolesnukov022: а вс
+[15:49:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[15:49:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[15:49:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[15:49:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[15:49:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[15:50:02] vasiliy karat killed maksumkolesnukov022 using env_explosion
+[15:50:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t34_42
+[15:50:24] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknade
+[15:50:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[15:50:26] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:50:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[15:50:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[15:50:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[15:50:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[15:50:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:51:08] maksumkolesnukov022: ало даже танки перестали
+[15:51:13] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:51:19] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:51:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:51:30] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:51:31] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:51:38] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:51:39] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:51:43] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_t60
+[15:51:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:51:54] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:51:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:52:05] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:52:10] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:52:13] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:52:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t34_42
+[15:52:32] Chupacabr: теперь будет взрывчатка больше наносить
+[15:52:37] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:52:45] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:52:51] maksumkolesnukov022 killed vasiliy karat using lvs_t34_42
+[15:52:54] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:53:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztimebomb
+[15:53:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[15:53:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[15:53:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[15:53:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[15:53:10] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[15:53:11] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztnt
+[15:53:11] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:53:33] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[15:53:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_interiors/furniture_couch02a.mdl
+[15:53:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_c17/furnituretable002a.mdl
+[15:53:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsatchelcharge
+[15:53:59] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/garbage_coffeemug001a.mdl
+[15:54:01] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:54:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_lab/jar01a.mdl
+[15:54:08] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:54:13] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:54:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/watermelon01.mdl
+[15:54:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknadebundle
+[15:54:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/garbage_milkcarton002a.mdl
+[15:54:27] vasiliy karat: сделай чтобы бомба с таймером дома разрывала
+[15:54:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztimebomb
+[15:54:34] maksumkolesnukov022 was killed by build_prop
+[15:54:54] maksumkolesnukov022: побег
+[15:54:56] maksumkolesnukov022: из тюрьмы
+[15:54:56] vasiliy karat: ксго
+[15:55:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_wasteland/prison_bedframe001b.mdl
+[15:55:20] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_c17/furniturebed001a.mdl
+[15:55:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned ragdoll models/props_c17/furnituremattress001a.mdl
+[15:55:38] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[15:56:17] vasiliy karat: ставль
+[15:56:18] vasiliy karat: лестниц
+[15:56:26] vasiliy karat: крвоат
+[15:56:26] maksumkolesnukov022: время
+[15:56:38] Chupacabr killed vasiliy karat using ent_jack_gmod_eztimebomb
+[15:56:38] Chupacabr killed maksumkolesnukov022 using ent_jack_gmod_eztimebomb
+[15:57:08] vasiliy karat killed maksumkolesnukov022 using ent_panzerfaust_shell_v2
+[15:57:21] maksumkolesnukov022: нифига
+[15:57:25] maksumkolesnukov022: одним
+[15:57:33] Chupacabr<STEAM_0:1:63230461> spawned sent merydianlfs_su25tm
+[15:57:38] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezaidradio
+[15:57:41] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[15:57:48] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:57:48] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:57:48] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezhebomb
+[15:57:49] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:57:49] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:57:49] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:57:59] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:57:59] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:57:59] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:58:00] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:58:00] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[15:58:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezhebomb
+[15:58:27] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsatchelcharge
+[15:58:27] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezhebomb
+[15:58:36] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezhebomb
+[15:58:45] vasiliy karat was killed by prop_physics
+[15:59:36] maksumkolesnukov022 suicided!
+[15:59:36] maksumkolesnukov022 killed vasiliy karat using ent_jack_gmod_ezhebomb
+[16:00:40] maksumkolesnukov022 suicided!
+[16:00:46] maksumkolesnukov022: !goto vasiliy karat
+[16:00:48] maksumkolesnukov022 teleported to vasiliy karat
+[16:00:48] maksumkolesnukov022: !goto vasiliy karat
+[16:01:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterminebomb
+[16:01:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterbuster
+[16:02:02] vasiliy karat killed Chupacabr using ent_jack_gmod_ezclusterbuster_skeet
+[16:02:08] maksumkolesnukov022: нуб
+[16:02:10] maksumkolesnukov022: убил чупака
+[16:02:21] maksumkolesnukov022 killed vasiliy karat using ent_jack_gmod_ezhebomb
+[16:02:34] vasiliy karat killed maksumkolesnukov022 using ent_jack_gmod_ezlandmine
+[16:03:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent prop_ww_door_big
+[16:03:36] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent prop_ww_door
+[16:03:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[16:04:29] maksumkolesnukov022 teleported to vasiliy karat
+[16:04:29] maksumkolesnukov022: !goto vasiliy karat
+[16:04:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[16:04:37] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:04:49] vasiliy karat: нада
+[16:04:49] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[16:04:51] vasiliy karat: башню
+[16:04:56] vasiliy karat: новостройку оае
+[16:04:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezcrate
+[16:05:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:22] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:27] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:27] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:28] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:28] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:31] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:35] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:36] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:36] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:37] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:05:37] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[16:06:01] maksumkolesnukov022: вообще по хорошему
+[16:06:05] maksumkolesnukov022: надо третий скин на камень
+[16:06:09] maksumkolesnukov022: песочный
+[16:06:16] maksumkolesnukov022: типа арабские
+[16:06:18] maksumkolesnukov022: талибы
+[16:09:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent prop_ww_door
+[16:10:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:10:57] maksumkolesnukov022: бункер эпштейна
+[16:11:16] vasiliy karat: будем воевать на таких
+[16:11:33] maksumkolesnukov022: обвалил опоры сервер умер
+[16:11:37] vasiliy karat: местные разбагатели на нефти понастроили дубая
+[16:14:34] maksumkolesnukov022: строительные реса рядом 
+[16:14:41] maksumkolesnukov022: из дерева
+[16:15:05] maksumkolesnukov022: красного нету
+[16:15:09] maksumkolesnukov022: там тупо было сделано лагало бы
+[16:15:25] vasiliy karat: строительные реса
+[16:17:54] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezglass
+[16:17:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[16:17:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[16:18:04] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[16:18:46] vasiliy karat to admins: местные погибнут без воды через 2 недели
+[16:18:56] maksumkolesnukov022 to admins: почему
+[16:18:59] vasiliy karat killed Chupacabr using ent_jack_gmod_ezlandmine
+[16:19:12] vasiliy karat to admins: это типо блек опс зе лайн там дубай а тут местные
+[16:19:18] vasiliy karat killed Chupacabr using ent_jack_gmod_ezlandmine
+[16:19:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezcrate
+[16:19:23] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezwater
+[16:19:24] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezwater
+[16:19:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezwater
+[16:19:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[16:20:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[16:20:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[16:20:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[16:20:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:20:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:20:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:20:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[16:20:36] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpopcorn
+[16:20:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[16:20:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:20:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:21:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[16:21:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[16:21:09] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[16:21:30] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[16:21:34] vasiliy karat: сервак чуть не положил
+[16:21:39] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[16:21:50] Chupacabr to admins: коммисия вроде работает
+[16:21:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[16:21:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_dodkuebelwagen
+[16:22:11] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:22:12] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:22:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:22:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:22:18] vasiliy karat: надо
+[16:22:22] maksumkolesnukov022: от лечения наоборот птср
+[16:22:23] vasiliy karat: сфоткать новстройк
+[16:22:23] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:23:04] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[16:23:27] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsignalnade
+[16:24:11] maksumkolesnukov022 killed Chupacabr using tfa_doimg42
+[16:24:47] maksumkolesnukov022: когда ломать можно
+[16:24:56] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknadebundle
+[16:24:57] vasiliy karat: ломать
+[16:24:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknadebundle
+[16:25:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknadebundle
+[16:25:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknadebundle
+[16:25:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbigbomb
+[16:25:26] vasiliy karat killed maksumkolesnukov022 using ent_jack_gmod_ezbigbomb
+[16:25:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbigbomb
+[16:25:36] maksumkolesnukov022 teleported to vasiliy karat
+[16:25:36] maksumkolesnukov022: !goto vasiliy karat
+[16:25:46] maksumkolesnukov022: чупак а как ты сделал гибсы
+[16:25:48] vasiliy karat killed Chupacabr using ent_jack_gmod_ezbigbomb
+[16:25:49] vasiliy karat killed maksumkolesnukov022
+[16:25:52] maksumkolesnukov022 to admins: ало
+[16:26:02] maksumkolesnukov022 teleported to vasiliy karat
+[16:26:02] maksumkolesnukov022: !goto vasiliy karat
+[16:26:04] Chupacabr to admins: гибсы у пропов?
+[16:26:12] maksumkolesnukov022 to admins: да
+[16:26:27] maksumkolesnukov022: клиентсайд on remove?
+[16:26:39] Chupacabr was killed by build_prop
+[16:27:54] maksumkolesnukov022: ало
+[16:28:00] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterbomb
+[16:28:14] Chupacabr to admins: отключили гибсы
+[16:28:25] maksumkolesnukov022 to admins: ну в клиентсайд ремув не суй если чё
+[16:28:35] maksumkolesnukov022 to admins: там на клиенте сущности могут удалятся при рассинхроне
+[16:28:53] maksumkolesnukov022 to admins: лучше бы было даже отправлять нетворк на клиент
+[16:29:02] maksumkolesnukov022 to admins: там содержащий чисто сущность 13 бит
+[16:29:26] maksumkolesnukov022 to admins: а на клиенте уже считать
+[16:29:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[16:29:35] maksumkolesnukov022 to admins: материал я там код делал в старом
+[16:29:44] maksumkolesnukov022 to admins: закомменченый
+[16:31:16] vasiliy karat: j 
+[16:31:18] vasiliy karat: комисия
+[16:31:24] vasiliy karat: 60 тысяч
+[16:31:32] Chupacabr: так и надо ослам
+[16:31:43] Chupacabr: сделка на 80 коммисия 60
+[16:32:46] maksumkolesnukov022: в дс скинул текстурк
+[16:32:49] maksumkolesnukov022: может её
+[16:32:51] maksumkolesnukov022: как третий скин
+[16:32:58] maksumkolesnukov022: типа под пустыню
+[16:32:59] vasiliy karat: оооо
+[16:33:14] vasiliy karat: нада сделат ваще башню
+[16:33:28] Chupacabr: башня 2
+[16:33:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[16:33:42] maksumkolesnukov022: а оно сохраняет позицию всегда?
+[16:33:45] maksumkolesnukov022: и нельзя оффсет
+[16:33:46] maksumkolesnukov022: сделат
+[16:33:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[16:33:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:33:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:33:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:33:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:33:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:33:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:33:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:34:27] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[16:34:30] maksumkolesnukov022 suicided!
+[16:34:36] maksumkolesnukov022 teleported to vasiliy karat
+[16:34:36] maksumkolesnukov022: !goto vasiliy karat
+[16:34:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[16:35:58] Chupacabr to admins: отойд
+[16:36:29] maksumkolesnukov022 to admins: когда можно
+[16:37:42] vasiliy karat to admins: карта гмсро/ окрестности города местных
+[16:37:57] vasiliy karat: карта гмсро/ граница чупоса
+[16:41:33] maksumkolesnukov022: ало я тут полустенку уберу
+[16:42:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[16:42:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowerbank
+[16:42:07] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsolargenerator
+[16:42:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsolargenerator
+[16:42:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate_uni
+[16:42:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[16:42:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[16:42:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[16:42:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[16:42:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate_uni
+[16:42:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate_uni
+[16:43:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[16:44:23] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furnituretable002a.mdl
+[16:44:59] vasiliy karat: батлфилд
+[16:45:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezammocrate
+[16:45:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[16:45:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[16:45:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[16:45:28] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_helicopter_cod_ah6
+[16:47:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[16:47:44] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:47:44] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:47:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:47:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:47:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:47:48] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:47:48] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[16:48:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezammo
+[16:48:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_parachute
+[16:48:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezhealtkit
+[16:48:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezhealtkit
+[16:48:56] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezhealtkit
+[16:49:00] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[16:49:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[16:49:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[16:49:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[16:49:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsatchelcharge
+[16:49:52] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[16:49:54] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[16:50:29] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[16:50:54] maksumkolesnukov022 killed vasiliy karat using tfa_doim1912
+[16:51:00] maksumkolesnukov022 to admins: с дробовика
+[16:51:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezammo
+[16:52:41] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider_new
+[16:52:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_trailer_75mle1897
+[16:53:06] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider_new
+[16:53:07] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_sa34
+[16:53:08] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider
+[16:53:15] vasiliy karat killed maksumkolesnukov022 using lvs_bomb
+[16:53:27] Chupacabr to admins: эпик
+[16:53:27] maksumkolesnukov022: нифига
+[16:53:49] maksumkolesnukov022: мб от гранат надамажило
+[16:53:52] maksumkolesnukov022: обычных
+[16:54:04] maksumkolesnukov022 to admins: ты же убрал урон от обычных гранат?
+[16:54:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_trailer_75mle1897
+[16:54:21] Chupacabr to admins: урон только от взрывчатки
+[16:54:27] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezmunitions
+[16:54:34] vasiliy karat killed maksumkolesnukov022
+[16:55:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_trailer_75mle1897
+[16:55:11] maksumkolesnukov022 killed vasiliy karat using lvs_trailer_75mle1897
+[16:55:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezmunitions
+[16:55:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[16:56:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[16:56:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[16:56:11] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[16:56:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[16:56:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[16:56:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[16:56:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[16:56:26] maksumkolesnukov022 to admins: афигеть рпг в голову попало
+[16:56:30] maksumkolesnukov022 to admins: не убило
+[16:56:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[16:56:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[16:56:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[16:56:40] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_m3_stuart_tb
+[16:56:40] maksumkolesnukov022 was killed by lvs_m3_stuart_tb
+[16:56:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[16:56:49] maksumkolesnukov022 teleported to vasiliy karat
+[16:56:49] maksumkolesnukov022: !goto vasiliy karat
+[16:57:05] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezmunitions
+[16:57:35] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezmunitions
+[16:58:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t60
+[16:58:06] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezmunitions
+[16:58:51] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[16:59:12] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent prop_ww_door
+[17:01:35] maksumkolesnukov022: ал
+[17:01:38] maksumkolesnukov022: ты сфоткал высокую
+[17:01:40] maksumkolesnukov022: версию
+[17:01:43] vasiliy karat: нет
+[17:01:48] maksumkolesnukov022: чапк
+[17:01:51] maksumkolesnukov022: ты сохранил
+[17:01:52] maksumkolesnukov022: высокую
+[17:02:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[17:02:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:02:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:02:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:02:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:02:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:02:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:03:10] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:03:11] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:03:11] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:03:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:03:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:03:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[17:03:42] vasiliy karat killed maksumkolesnukov022 using tfa_doim1garand
+[17:03:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztnt
+[17:04:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezammo
+[17:04:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztnt
+[17:04:48] maksumkolesnukov022 killed vasiliy karat using tfa_doisw1917
+[17:05:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[17:05:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[17:05:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[17:06:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[17:06:37] maksumkolesnukov022 killed vasiliy karat using tfa_doisw1917
+[17:06:59] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezammo
+[17:07:01] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gaz67
+[17:07:07] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezatmine
+[17:07:13] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[17:07:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[17:07:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[17:07:52] vasiliy karat killed maksumkolesnukov022 using lvs_wheeldrive_gaz67
+[17:07:58] maksumkolesnukov022 teleported to vasiliy karat
+[17:07:58] maksumkolesnukov022: !goto vasiliy karat
+[17:07:59] vasiliy karat suicided!
+[17:08:11] maksumkolesnukov022 to admins: справился но слишком рано
+[17:08:11] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gaz67
+[17:08:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezatmine
+[17:08:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[17:08:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[17:08:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_fiat_621
+[17:08:36] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_citroen_type23
+[17:08:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezatmine
+[17:08:51] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[17:08:54] maksumkolesnukov022 suicided!
+[17:09:00] maksumkolesnukov022 teleported to Chupacabr
+[17:09:00] maksumkolesnukov022: !goto Chupacabr
+[17:09:45] maksumkolesnukov022: руки
+[17:09:45] maksumkolesnukov022: верх
+[17:10:03] vasiliy karat suicided!
+[17:10:41] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_b4_mow
+[17:10:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_dodkuebelwagen
+[17:10:51] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_construction/vasily_bust.mdl
+[17:11:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_construction/vasily_bust.mdl
+[17:11:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_construction/vasily_bust.mdl
+[17:11:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_construction/vasily_bust.mdl
+[17:12:18] Chupacabr: добавьте
+[17:12:26] maksumkolesnukov022: ослан говорит
+[17:12:27] maksumkolesnukov022: нехочет
+[17:12:39] Chupacabr: гигарата
+[17:12:44] Chupacabr: гигаарта
+[17:12:44] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_bl20
+[17:13:04] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_pak43_mow
+[17:13:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_qf6_mow
+[17:13:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_pak43_mow
+[17:13:13] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_76mm
+[17:13:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_m30_mow
+[17:13:28] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_kv2mt2
+[17:13:28] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_tiger2h_mow
+[17:13:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_tiger2p_mow
+[17:13:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_jaga_tb
+[17:13:41] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_bl20
+[17:14:14] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_b4_mow
+[17:14:22] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_qf6_mow
+[17:14:26] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_76mm
+[17:14:47] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_trailer_wz36
+[17:14:52] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_m30_mow
+[17:14:52] Chupacabr was killed by lvs_m30_mow
+[17:15:51] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_maxim_ucrep
+[17:16:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[17:16:12] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_ptrd_ucrep
+[17:16:20] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_trailer_flak
+[17:16:48] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_wheeldrive_dodsherman_zippo
+[17:16:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezammo
+[17:16:56] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_su26_mow
+[17:17:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezcrate
+[17:17:09] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_kv0
+[17:17:15] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_wil_mow
+[17:17:22] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_wheeldrive_rp_t70
+[17:17:23] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_wheeldrive_t70
+[17:17:24] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_wheeldrive_wespe
+[17:17:52] Chupacabr killed maksumkolesnukov022 using lvs_bomb
+[17:18:00] maksumkolesnukov022 to admins: ало снаряд из центра игрока спавнится
+[17:18:02] maksumkolesnukov022 to admins: а не из дула
+[17:18:08] maksumkolesnukov022 to admins: уп т
+[17:18:10] maksumkolesnukov022 to admins: винт
+[17:18:18] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_wheeldrive_pz1command
+[17:18:31] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_trailer_75mle1897
+[17:18:32] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_wheeldrive_pz742
+[17:18:42] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[17:18:57] maksumkolesnukov022 killed Chupacabr using lvs_trailer_75mle1897
+[17:19:05] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[17:19:38] maksumkolesnukov022 was killed by ent_jack_gmod_ezherocket
+[17:19:44] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[17:20:07] vasiliy karat was killed by ent_jack_gmod_ezherocket
+[17:20:54] maksumkolesnukov022 to admins: теперь можно крутые артхаус делать
+[17:20:59] maksumkolesnukov022 to admins: с наклонными фундаментами
+[17:21:47] maksumkolesnukov022 to admins: ало чапк
+[17:21:50] maksumkolesnukov022 to admins: а где прикол
+[17:22:08] maksumkolesnukov022: смари
+[17:22:18] maksumkolesnukov022: щель
+[17:22:20] maksumkolesnukov022: чутчут
+[17:22:31] vasiliy karat: немного щель 
+[17:22:43] vasiliy karat: завод
+[17:23:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_is2_mow
+[17:23:40] maksumkolesnukov022: заезды без поворота
+[17:23:42] maksumkolesnukov022: фундамент
+[17:29:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezhealtkit
+[17:29:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezhealtkit
+[17:29:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezhealtkit
+[17:29:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezhealtkit
+[17:30:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznukerocket
+[17:30:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznukerocket
+[17:32:20] maksumkolesnukov022: не поворачиваются фундаменты
+[17:32:22] maksumkolesnukov022: на потолках
+[17:32:31] maksumkolesnukov022: и с оффсетом мелкие
+[17:33:14] maksumkolesnukov022: типа выход для газов от ракеты
+[17:37:48] maksumkolesnukov022 brought vasiliy karat
+[17:37:48] maksumkolesnukov022: !bring vasiliy karat
+[17:38:15] maksumkolesnukov022 teleported to Chupacabr
+[17:38:22] maksumkolesnukov022 teleported to vasiliy karat
+[17:38:22] maksumkolesnukov022: !goto vasiliy karat
+[17:41:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznukerocket
+[17:43:13] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent joes_sam_turret_lvs
+[17:43:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent joes_sam_turret_lvs
+[17:43:37] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_m3_stuart_tb
+[17:43:41] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t60
+[17:45:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezcrate_uni
+[17:45:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpopcorn
+[17:45:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpopcorn
+[17:45:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpopcorn
+[17:45:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpopcorn
+[17:52:53] vasiliy karat<STEAM_0:0:814052183> spawned vehicle models/nova/chair_office01.mdl
+[17:52:56] vasiliy karat<STEAM_0:0:814052183> spawned vehicle models/nova/chair_office01.mdl
+[17:58:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezcrate
+[17:58:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezcrate
+[18:04:01] vasiliy karat: кирпичная страна
+[18:04:10] maksumkolesnukov022 to admins: надо крч намоделить огромный зелёный кристалл из одной игры
+[18:04:13] maksumkolesnukov022 to admins: который леатет
+[18:04:20] maksumkolesnukov022 to admins: и чтобы вокруг него воздушный город
+[18:04:28] maksumkolesnukov022 to admins: с новыми пропами будет красивый
+[18:04:46] maksumkolesnukov022 to admins: и ещё типа
+[18:04:52] maksumkolesnukov022 to admins: чё думаешь насчёт добавить
+[18:04:57] maksumkolesnukov022 to admins: вот такую стену
+[18:06:10] maksumkolesnukov022 to admins: чупак вот такую стену надо
+[18:06:25] maksumkolesnukov022 to admins: потом добавлю трейтий скин
+[18:06:27] maksumkolesnukov022 to admins: раскраск
+[18:06:45] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_wheeldrive_dodwillyjeep
+[18:06:46] maksumkolesnukov022 to admins: почини у каменной мелкой рампы угол спавна
+[18:07:02] Chupacabr killed maksumkolesnukov022 using tfa_doic96
+[18:07:35] maksumkolesnukov022: нашифт
+[18:07:38] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gaz67
+[18:07:44] maksumkolesnukov022: шифт ало
+[18:08:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_m3_stuart_tb
+[18:08:10] Chupacabr to admins: что делали со скраунджем?
+[18:08:26] maksumkolesnukov022 to admins: на билд пропах можно теперь скраунжить
+[18:08:59] Chupacabr killed maksumkolesnukov022 using lvs_wheeldrive_dodwillyjeep
+[18:09:05] Chupacabr killed vasiliy karat using lvs_wheeldrive_dodwillyjeep
+[18:09:23] vasiliy karat suicided!
+[18:09:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezammo
+[18:10:16] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[18:10:20] maksumkolesnukov022 killed vasiliy karat using tfa_doisw1917
+[18:10:27] maksumkolesnukov022 killed Chupacabr using tfa_doisw1917
+[18:10:31] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gaz67
+[18:10:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[18:11:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_mortar
+[18:11:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_mortar
+[18:11:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmortarshell
+[18:11:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmortarshell
+[18:11:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[18:12:05] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmortarshell
+[18:12:10] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsmokenade
+[18:12:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[18:12:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[18:12:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[18:12:37] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[18:12:41] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:12:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[18:12:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[18:12:56] vasiliy karat: ПАШЛИ
+[18:12:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:13:00] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[18:13:30] vasiliy karat killed maksumkolesnukov022 using tfa_rs2v_akm
+[18:13:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[18:14:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[18:14:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[18:14:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[18:14:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[18:14:28] maksumkolesnukov022 killed vasiliy karat using tfa_doimg42
+[18:14:40] maksumkolesnukov022 killed Chupacabr using tfa_doimg42
+[18:14:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[18:14:52] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[18:15:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[18:15:37] maksumkolesnukov022 killed Chupacabr using tfa_doimg42
+[18:15:50] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[18:15:51] vasiliy karat killed maksumkolesnukov022 using rust_spas12
+[18:16:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_helicopter_cod_ah6
+[18:16:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_helicopter_cod_ah6
+[18:16:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[18:16:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezmunitions
+[18:16:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[18:16:49] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezmunitions
+[18:17:03] vasiliy karat was killed by ent_jack_gmod_ezherocket
+[18:17:03] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eznuke
+[18:17:06] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsticknade
+[18:17:13] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gaz67
+[18:17:14] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gaz67
+[18:17:27] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezifakpacket
+[18:17:34] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezifakpacket
+[18:17:37] Chupacabr was killed by lvs_helicopter_cod_ah6
+[18:17:48] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[18:18:05] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[18:18:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[18:18:25] Chupacabr killed maksumkolesnukov022 using tfa_doimg42
+[18:18:34] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezifakpacket
+[18:18:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezammo
+[18:18:37] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezifakpacket
+[18:18:55] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[18:19:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:19:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:19:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:19:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:19:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:19:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:19:23] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:19:23] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:19:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:19:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[18:19:27] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezhealtkit
+[18:19:28] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezhealtkit
+[18:19:42] maksumkolesnukov022 killed Chupacabr using tfa_doienfield_scop
+[18:19:54] vasiliy karat killed maksumkolesnukov022 using tfa_doik98
+[18:20:04] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_ushead
+[18:20:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_m3_stuart_tb
+[18:20:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[18:20:38] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[18:21:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[18:21:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztnt
+[18:21:18] vasiliy karat killed maksumkolesnukov022 using tfa_doik98
+[18:21:38] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[18:21:38] Chupacabr suicided!
+[18:22:10] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[18:22:10] vasiliy karat suicided!
+[18:22:14] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[18:22:14] maksumkolesnukov022 suicided!
+<Logging continued in "data/ulx_logs/11-21-25.txt">

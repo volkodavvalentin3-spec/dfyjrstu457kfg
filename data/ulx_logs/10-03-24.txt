@@ -1,0 +1,2093 @@
+<Logging continued from "data/ulx_logs/10-02-24.txt">
+[00:00:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_flametank
+[00:00:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[00:00:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[00:00:09] RusLanConnection killed sekta using ent_jack_gmod_eznapalm
+[00:01:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate_uni
+[00:01:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[00:01:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezshippingcontainer
+[00:01:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[00:03:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[00:07:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[00:07:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[00:07:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[00:07:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[00:07:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[00:07:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[00:08:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[00:18:25] RusLanConnection teleported to sekta
+[00:18:58] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[00:18:59] RusLanConnection teleported to sekta
+[00:19:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[00:19:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[00:20:15] sekta killed RusLanConnection using ent_rus_sorter
+[00:20:48] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:21:01] sekta: spawnmenu_reload 
+[00:21:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[00:21:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jmod_ezweapon_annabelle
+[00:21:54] RusLanConnection killed sekta using wep_aboot_jmod_annabelle
+[00:22:02] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:22:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[00:22:21] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:22:47] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:22:51] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:22:53] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:23:03] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:23:05] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:23:06] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:23:07] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:23:08] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:23:18] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:19] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:23] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:26] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:27] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:28] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:30] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:31] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:37] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:45] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:46] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:47] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[00:23:48] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezclusterbuster
+[00:23:51] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfirenade
+[00:23:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amr
+[00:23:55] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfirenade
+[00:23:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[00:24:03] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezweapon_amsr
+[00:24:04] RusLanConnection killed sekta using wep_jack_gmod_amr
+[00:24:26] sekta killed RusLanConnection using ent_jack_gmod_ezchlorineparticle
+[00:24:32] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznukerocket
+[00:25:36] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznukerocket
+[00:25:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[00:26:27] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznukerocket
+[00:26:43] sekta killed RusLanConnection
+[00:27:07] sekta teleported RusLanConnection
+[00:27:07] sekta: !TP RUS
+[00:27:14] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[00:28:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_revolver
+[00:28:38] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:38] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:38] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:38] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:38] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:38] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:38] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[00:28:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[00:28:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[00:28:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:28:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:28:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:28:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:28:42] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:28:42] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:28:42] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:28:42] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[00:28:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[00:28:56] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezflashbang
+[00:29:15] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezflashbang
+[00:29:18] sekta suicided!
+[00:29:25] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezflashbang
+[00:29:26] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezflashbang
+[00:29:27] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezflashbang
+[00:29:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezshovel
+[00:30:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[00:31:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsilver
+[00:31:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsilver
+[00:32:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsilver
+[00:32:36] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[00:32:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[00:35:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[00:35:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[00:38:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[00:39:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[00:39:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[00:44:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[00:46:27] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[00:46:38] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[00:46:53] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[00:46:58] sekta teleported to RusLanConnection
+[00:46:58] sekta: !goto rus
+[00:47:03] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[00:47:08] Client "василий каратаев" connected.
+[00:47:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[00:48:20] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 72 seconds).
+[00:48:56] василий каратаев: ГОВНОООООО
+[00:48:58] василий каратаев: ГОВНООООООО
+[00:49:04] василий каратаев: ГОВНОООООО
+[00:49:17] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezaxe
+[00:49:20] sekta killed василий каратаев using ent_jack_gmod_ezaxe
+[00:49:23] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezaxe
+[00:49:27] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezaxe
+[00:49:28] sekta killed RusLanConnection using ent_jack_gmod_ezaxe
+[00:49:32] василий каратаев: АААА СПАВН
+[00:49:42] RusLanConnection teleported to sekta
+[00:49:51] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezaxe
+[00:49:52] RusLanConnection teleported to sekta
+[00:49:53] василий каратаев: ЭЭЭЭЭ
+[00:49:58] василий каратаев: КОГДА РЕСПАВН
+[00:50:09] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezshovel
+[00:50:53] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[00:50:53] Client "василий каратаев" connected.
+[00:51:20] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 27 seconds).
+[00:52:16] василий каратаев: ГОВНОООО
+[00:52:45] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1a
+[00:52:53] RusLanConnection killed василий каратаев using lvs_wheeldrive_pz1a
+[00:53:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[00:53:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sherman_m4a3
+[00:53:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sherman_firefly
+[00:53:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sherman_m4a3
+[00:53:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodsherman
+[00:54:18] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_su14_2
+[00:54:33] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz250
+[00:54:44] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_m10
+[00:55:23] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_kfz14
+[00:55:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_m10
+[00:55:33] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodkuebelwagen_mg
+[00:55:34] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodkuebelwagen
+[00:55:44] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_unic_p107
+[00:55:49] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_t35_1939
+[00:56:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[00:56:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsignalnade
+[00:56:57] RusLanConnection teleported to василий каратаев
+[00:57:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[00:57:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezantimatter
+[00:57:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[00:57:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[00:57:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsignalnade
+[00:57:31] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[00:57:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[00:57:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsignalnade
+[00:57:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[00:57:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[00:58:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[00:58:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[00:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[00:59:06] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcrate
+[00:59:09] sekta<STEAM_0:0:57939554> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[00:59:10] sekta<STEAM_0:0:57939554> spawned sent ent_aboot_jsmod_ezcargoplane
+[00:59:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[00:59:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[00:59:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[00:59:17] sekta<STEAM_0:0:57939554> spawned sent ent_fumo_gmod_ezutilitycrate
+[00:59:19] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezbattery
+[00:59:22] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezchemicals
+[00:59:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[00:59:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[01:00:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[01:00:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[01:01:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:02:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[01:02:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[01:02:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[01:03:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[01:03:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[01:03:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[01:03:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[01:03:23] василий каратаев: ГОВНОООО
+[01:03:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsignalnade
+[01:04:12] василий каратаев: ВОТ ТТУТ
+[01:04:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsignalnade
+[01:04:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[01:04:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[01:04:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[01:04:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[01:04:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[01:04:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[01:05:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[01:05:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezantimatter
+[01:06:47] василий каратаев: ГОВНООООООООООООООООООООООООО
+[01:06:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:06:56] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfumigator
+[01:07:32] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfumigator
+[01:07:38] василий каратаев: ПРОТИВОГАЗ ДАЙ ГОВНОООООООО
+[01:07:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[01:07:45] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfumigator
+[01:07:47] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[01:07:56] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezvirusbomb
+[01:07:59] василий каратаев: НЕТ ФИЗГАНА
+[01:08:29] sekta: !goto вася
+[01:08:36] sekta teleported to василий каратаев
+[01:08:36] sekta: !goto вас
+[01:08:45] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezcriticalityweapon
+[01:09:12] sekta killed василий каратаев using ent_jack_gmod_ezcriticalityweapon
+[01:09:25] василий каратаев: ВЫ РАДИАЦИЮ БАФНУЛИ?
+[01:09:47] василий каратаев: РАДИАЦИЮ БАФНУЛИ???
+[01:10:22] RusLanConnection teleported to sekta
+[01:10:37] василий каратаев killed sekta using ent_jack_gmod_ezbattery
+[01:10:37] василий каратаев killed RusLanConnection using ent_jack_gmod_ezwood
+[01:10:51] sekta teleported to василий каратаев
+[01:10:51] sekta: !goto ва
+[01:10:54] RusLanConnection teleported to василий каратаев
+[01:11:27] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznukerocket
+[01:11:55] sekta killed василий каратаев using ent_jack_gmod_ezfalloutparticle
+[01:11:57] RusLanConnection teleported to sekta
+[01:11:59] sekta killed RusLanConnection using ent_jack_gmod_ezfalloutparticle
+[01:12:14] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznukerocket
+[01:12:28] sekta killed василий каратаев using ent_jack_gmod_ezfalloutparticle
+[01:12:34] sekta suicided!
+[01:12:59] sekta suicided!
+[01:13:13] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfragnade
+[01:13:18] sekta teleported to василий каратаев
+[01:13:18] sekta: !goto ва
+[01:13:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_parachute
+[01:14:26] василий каратаев killed василий каратаев
+[01:14:27] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:14:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:15:27] RusLanConnection killed RusLanConnection
+[01:19:28] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:20:59] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:21:14] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:21:15] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:21:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:21:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:22:26] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:22:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:22:46] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:23:18] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:23:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:23:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:23:29] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:23:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:23:39] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:23:59] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:24:24] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:24:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:24:29] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:24:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:25:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:25:09] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:25:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:25:37] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:25:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:26:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:32:08] василий каратаев: ДА КОМУ ПРАВИЛА ВОЩЕ НУЖН
+[01:32:12] василий каратаев: ПРОСТО
+[01:32:16] василий каратаев: СМЫСЛ ПЕРЕДАЛ?
+[01:32:16] василий каратаев: ДА
+[01:32:21] василий каратаев: ВСЕ
+[01:32:23] василий каратаев: ИДИТЕ НАФИГ
+[01:32:45] василий каратаев: ДА ДИБИЛЫ ПРИДУМАЛИ
+[01:33:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:33:38] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:34:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:34:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:35:28] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:35:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:35:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[01:35:54] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:36:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:38:07] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:38:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:41:20] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezprimitivebench
+[01:41:48] sekta<STEAM_0:0:57939554> spawned model models/props_junk/metalbucket01a.mdl
+[01:44:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:47:34] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:49:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[01:49:58] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezrefinery
+[01:50:07] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezpowerbank
+[01:50:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[01:50:11] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezlfg
+[01:50:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[01:50:30] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezrefinery
+[01:50:35] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfuel
+[01:50:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[01:50:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezoil
+[01:51:02] sekta<STEAM_0:0:57939554> spawned sent ent_aboot_gmod_ezshippingcontainer
+[01:51:23] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezbattery
+[01:51:35] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezoil
+[01:52:46] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:53:04] sekta<STEAM_0:0:57939554> spawned sent ent_rus_sorter
+[01:53:21] василий каратаев was killed by ent_rus_jsmod_pipe
+[01:53:26] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:53:33] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:53:59] RusLanConnection brought василий каратаев
+[01:54:05] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:54:09] василий каратаев: У МЕНЯ ДОМА СТРАШНЫЕ ЗВУКИ ЧО ДЕЛАТЬ
+[01:54:12] василий каратаев: СПУКИ СИЗОНН
+[01:54:36] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:54:37] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:55:12] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:55:13] sekta suicided!
+[01:55:23] sekta returned Themself to their original position
+[01:55:23] sekta: !return ^
+[01:55:27] василий каратаев: КАК ПОЛУЧИТС
+[01:55:32] sekta granted god mode upon Themself
+[01:55:32] sekta: !god ^
+[01:55:38] василий каратаев: КАК Я ВИДЛЕ ВРОДЕНОРМ
+[01:57:27] sekta<STEAM_0:0:57939554> spawned sent ent_aboot_jsmod_ezsupercomputer
+[01:57:43] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezpumpjack
+[01:57:44] RusLanConnection<STEAM_0:0:238810681> spawned model models/mosi/fallout4/electrical/conduits/conduit.mdl
+[01:57:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/mosi/fallout4/electrical/generators/generator01.mdl
+[01:57:51] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgroundscanner
+[01:57:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/mosi/fallout4/electrical/generators/generator02.mdl
+[01:57:55] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezbattery
+[01:57:57] RusLanConnection<STEAM_0:0:238810681> spawned model models/mosi/fallout4/electrical/generators/generator03.mdl
+[01:57:59] RusLanConnection<STEAM_0:0:238810681> spawned model models/mosi/fallout4/electrical/generators/generator04.mdl
+[01:58:03] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/mosi/fallout4/electrical/generators/windmill.mdl
+[01:58:04] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezbattery
+[01:58:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/mosi/fallout4/electrical/generators/windmill_static.mdl
+[01:58:11] RusLanConnection<STEAM_0:0:238810681> spawned model models/mosi/fallout4/electrical/conduits/pylonlarge.mdl
+[01:58:12] RusLanConnection<STEAM_0:0:238810681> spawned model models/mosi/fallout4/electrical/conduits/pylonlarge_switch.mdl
+[01:58:16] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:58:21] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:58:32] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:58:37] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:58:39] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:58:45] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:58:50] sekta<STEAM_0:0:57939554> spawned sent ent_rus_jsmod_pipe
+[01:59:35] sekta<STEAM_0:0:57939554> spawned sent ent_rus_gmod_ezpowerline
+[01:59:37] sekta<STEAM_0:0:57939554> spawned sent ent_rus_gmod_ezpowerline
+[01:59:46] василий каратаев: БЕЗ ВОДЫ
+[01:59:59] василий каратаев: КАК ВИДИШ УДАЧНО
+[02:01:27] sekta<STEAM_0:0:57939554> spawned sent sent_conveyor
+[02:04:18] sekta teleported to василий каратаев
+[02:04:18] sekta: !goto ва
+[02:07:22] sekta revoked god mode from Themself
+[02:07:22] sekta: !ungod ^
+[02:12:25] василий каратаев was killed by ent_rus_jsmod_pipe
+[02:12:33] василий каратаев: !S
+[02:12:50] василий каратаев suicided!
+[02:16:22] василий каратаев: ВЕЩИ
+[02:16:26] василий каратаев: ТЫ С ВЕЩАМИ ЗАКОПАЛ?*
+[02:16:33] василий каратаев: И ДЕНЬГАМИ?
+[02:26:17] василий каратаев: ГОВНООООООО
+[02:33:50] василий каратаев: ПОШЛИ ЕМУ БАЗУ ВЗОРВЕР РАЗОК
+[02:34:03] василий каратаев: ХОТЯ ЩАС ТАНК
+[02:35:22] RusLanConnection: yfv\
+[02:35:27] RusLanConnection: нам сразу на шермана над
+[02:35:30] василий каратаев: ОК
+[02:35:38] василий каратаев: ПОШЛИ ЗОЛОТО НЕМНГО ВСКОПНЕМ
+[02:36:15] RusLanConnection: у нас электричества нет
+[02:36:17] RusLanConnection: мало
+[02:36:31] василий каратаев: ВСЕ РАБОТАЕТ
+[02:36:33] василий каратаев: ЗНАЧИТ
+[02:36:49] василий каратаев: ВСЕ В РАБОТЕ
+[02:39:44] василий каратаев: РУСЛАН ТЕБЕ РАКМАН ПИШЕТ В СТИЕ
+[02:39:57] василий каратаев: НЕФТЬ
+[02:39:59] василий каратаев: ПЕРЕРАБОТКА
+[02:40:55] василий каратаев: ИЗ ЯЩИКА НЕ БЕРЕТСЯ
+[02:41:01] василий каратаев: ДАЛЕКО
+[02:41:04] василий каратаев: СЛИЩКОМ
+[02:41:36] василий каратаев: ПОШЛИ ЗОЛОТО КОПАТЬ
+[02:45:42] василий каратаев: ЩАС БУДЕТ ТАНК
+[02:46:51] василий каратаев: РАКМАНЕ ТЕБЕ ПИЩЕТ
+[02:49:25] василий каратаев: ВО
+[02:50:16] sekta killed sekta
+[02:50:30] василий каратаев: НЕФТЬ
+[02:50:33] василий каратаев: ЕМУ НУЖНА
+[02:50:35] василий каратаев: Я ЖЕ ГОВОРИЛ
+[02:50:39] василий каратаев: НЕДОСТАЕТ
+[02:51:52] василий каратаев: ИХ НАДА ПЕРЕЗАПУСКАТЬ
+[02:52:18] василий каратаев: ВСЕ НЕ БУДЕТ ХОСТА
+[02:53:46] василий каратаев: ГАВНО
+[02:55:13] василий каратаев: ЛИНИИ ИЗ ПОВЕР БАНКОВ ЛУЧШЕ
+[02:55:20] василий каратаев: ВСЕ ПОЕХАЛИ
+[03:00:10] василий каратаев: ОДЕЛ ШЛЕМ НА ШЛЕМ
+[03:00:41] василий каратаев: ЗА МОСТОМ
+[03:03:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezhealtkit
+[03:03:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezhealtkit
+[03:03:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezhealtkit
+[03:03:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezhealtkit
+[03:03:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezhealtkit
+[03:03:34] василий каратаев: ДАЙ МЕД ПАКЕТ
+[03:03:36] василий каратаев: СРОЧНОООО
+[03:03:50] василий каратаев killed василий каратаев
+[03:05:17] василий каратаев: ОН ПУСТЬ СДАЕТСЯ
+[03:05:42] василий каратаев: ПУСТЬ ВЕСЬ УРАН НАС
+[03:05:44] василий каратаев: НАМ 
+[03:05:46] василий каратаев: НАМ ОТДАЕТ
+[03:05:55] василий каратаев: ТЫ СДАЛСЯ ТЫ ЛОХ ТЕРПИЛА
+[03:05:58] василий каратаев: ВСЕ
+[03:05:59] RusLanConnection killed RusLanConnection
+[03:06:01] василий каратаев: МЫ АЛИФА
+[03:07:24] sekta killed василий каратаев using ent_jack_gmod_ezfalloutparticle
+[03:10:08] василий каратаев: ПОШЛИ
+[03:10:11] василий каратаев: ПАЕХЛИ
+[03:10:30] василий каратаев: ТОПЛИВО
+[03:10:46] василий каратаев: НУ ЕСЛИ ОН ПРОСТО ТАК НЕ ОТДАСТ
+[03:10:58] василий каратаев: КАРОЧЕ ТЫ НА ГРУЗОВИКЕ Я НА ТАНКЕ
+[03:12:02] василий каратаев: ПОЕХАЛЫ
+[03:12:07] RusLanConnection: h.rpfr
+[03:12:11] RusLanConnection: рюкзак
+[03:13:07] василий каратаев: ПОЕХАЛИ
+[03:14:28] василий каратаев: ОН НАМ ПО ДООБРОМУ ИЛИ ПО ХОРОШЕМУ
+[03:15:27] василий каратаев: УРА
+[03:15:57] василий каратаев: ОН НЕ ХОЧЕТ ОТДАВАТЬ УРАН
+[03:16:10] sekta was killed by ent_jack_gmod_ezfalloutparticle
+[03:16:40] sekta was killed by ent_jack_gmod_ezfalloutparticle
+[03:18:11] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezminimore
+[03:18:17] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezminimore
+[03:18:22] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezminimore
+[03:18:28] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezminimore
+[03:18:34] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezminimore
+[03:18:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eztnt
+[03:18:42] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eztnt
+[03:18:46] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eztnt
+[03:18:47] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eztnt
+[03:18:49] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezminimore
+[03:18:52] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezboundingmine
+[03:18:54] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezboundingmine
+[03:18:56] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezboundingmine
+[03:18:57] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezboundingmine
+[03:18:59] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezboundingmine
+[03:19:00] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezboundingmine
+[03:19:02] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezboundingmine
+[03:19:18] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfumigator
+[03:19:40] василий каратаев: НЕЕЕТ
+[03:19:43] василий каратаев: НАМ НУЖЕН ВЕЕСЬ УРАН
+[03:19:43] sekta teleported to RusLanConnection
+[03:19:43] sekta: !goto rus
+[03:20:21] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezarmor_hazmat
+[03:21:35] василий каратаев: ВЗРЫВАЙ ЯЩИК ЕГО
+[03:22:00] василий каратаев: ЭТА ТЕРИТОРИЯ ЗАРАЖЕН
+[03:22:07] василий каратаев: НУ
+[03:22:09] василий каратаев: МУТАНТЫ
+[03:22:11] василий каратаев: ЖИВУТ ТУТ
+[03:22:25] василий каратаев killed sekta using wep_jack_gmod_bas
+[03:22:42] василий каратаев: МУТАНТ НАПАЛ
+[03:26:56] sekta teleported to василий каратаев
+[03:26:56] sekta: !goto ва
+[03:27:07] RusLanConnection teleported to василий каратаев
+[03:27:18] василий каратаев was killed by ent_jack_gmod_ezfalloutparticle
+[03:27:29] sekta teleported василий каратаев
+[03:27:29] sekta: !tp ва
+[03:28:41] sekta<STEAM_0:0:57939554> spawned model models/props_c17/trappropeller_lever.mdl
+[03:29:45] василий каратаев: БЕНЩИГ
+[03:29:49] RusLanConnection teleported to василий каратаев
+[03:29:55] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfuel
+[03:29:59] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfuel
+[03:30:36] sekta suicided!
+[03:31:12] RusLanConnection teleported to василий каратаев
+[03:31:15] василий каратаев: МИНЫ
+[03:31:19] sekta killed василий каратаев using ent_jack_gmod_ezboundingmine
+[03:32:14] sekta teleported to василий каратаев
+[03:32:14] sekta: !goto ва
+[03:32:33] sekta teleported to василий каратаев
+[03:32:33] sekta: !goto ва
+[03:32:48] василий каратаев suicided!
+[03:33:30] sekta killed василий каратаев using ent_jack_gmod_eztnt
+[03:33:30] sekta suicided!
+[03:33:58] sekta killed василий каратаев using ent_jack_gmod_eztnt
+[03:34:05] sekta suicided!
+[03:35:57] sekta teleported to василий каратаев
+[03:35:57] sekta: !goto ва
+[03:36:13] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eztimebomb
+[03:36:34] василий каратаев killed sekta using wep_jack_gmod_bas
+[03:36:49] василий каратаев: ЭТО ОН
+[03:37:06] василий каратаев: ЧОРНАЯ ДЫРА
+[03:37:35] василий каратаев: ОН ЗАМИНИРОВАЛ БАЗУ
+[03:37:58] sekta<STEAM_0:0:57939554> spawned sent lvs_plane_zero
+[03:38:15] sekta<STEAM_0:0:57939554> spawned model models/props_c17/furniturestove001a.mdl
+[03:38:36] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfumigator
+[03:38:51] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfumigator
+[03:39:05] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfumigator
+[03:39:19] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezfumigator
+[03:40:42] sekta<STEAM_0:0:57939554> spawned model models/props_c17/furniturestove001a.mdl
+[03:41:32] sekta<STEAM_0:0:57939554> spawned model models/props_c17/furniturestove001a.mdl
+[03:41:35] sekta<STEAM_0:0:57939554> spawned model models/props_c17/furniturestove001a.mdl
+[03:41:58] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[03:42:41] sekta<STEAM_0:0:57939554> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[03:42:49] sekta<STEAM_0:0:57939554> spawned model models/props_c17/furnituretable003a.mdl
+[03:42:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[03:43:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[03:43:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[03:43:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[03:43:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[03:43:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[03:43:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[03:43:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[03:43:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[03:43:15] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[03:43:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[03:43:55] sekta killed василий каратаев
+[03:43:55] sekta killed sekta
+[03:44:44] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[03:44:51] Server is shutting down/changing levels.
+
+
+
+[19:58:05] New map: bf_arid
+[19:59:12] Client "Rackman" connected.
+[19:59:36] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 24 seconds).
+[20:02:07] Client "Redoket" connected.
+[20:02:38] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 31 seconds).
+[20:02:50] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[20:04:00] Client "sekta" connected.
+[20:04:01] Client "василий каратаев" connected.
+[20:04:37] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 36 seconds).
+[20:05:13] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 73 seconds).
+[20:08:17] Client "Yaroslav_101" connected.
+[20:08:26] Client "Хангстер" connected.
+[20:08:28] Client "Wheatley" connected.
+[20:08:29] Client "Redoket" connected.
+[20:08:37] Client "Chupacabr" connected.
+[20:09:00] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 31 seconds).
+[20:09:05] Client "Хангстер" spawned in server <STEAM_0:1:627751186> (took 39 seconds).
+[20:09:11] Client "Ксилан" connected.
+[20:09:11] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[20:09:25] Client "Wheatley" spawned in server <STEAM_0:0:155354605> (took 57 seconds).
+[20:09:34] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 57 seconds).
+[20:09:34] Client "BeKaBoss" connected.
+[20:10:04] Client "Byzmas" connected.
+[20:10:05] Chupacabr suicided!
+[20:10:14] Wheatley suicided!
+[20:10:31] василий каратаев to admins: А СРОЧНО КОМАНДА СМЕНЮ МАДЕЛЮ
+[20:10:35] Client "Byzmas" spawned in server <STEAM_0:1:618504163> (took 31 seconds).
+[20:10:43] RusLanConnection brought Byzmas,Chupacabr,Rackman,Wheatley,sekta,Хангстер,василий каратаев
+[20:10:52] Client "soulchill" connected.
+[20:10:56] василий каратаев: КАКАА
+[20:10:58] Хангстер: Здраствуйте
+[20:11:01] sekta: playermodel_selector 
+[20:11:03] sekta: !menu
+[20:11:10] Client "BriceMashiro" connected.
+[20:11:24] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:11:25] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:11:25] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:11:26] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:11:26] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:11:26] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:11:27] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:11:27] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:11:27] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:11:28] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:11:28] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:11:31] Client "Sandw1ch" connected.
+[20:11:58] Client "Redoket" connected.
+[20:12:05] Client "Ксилан" spawned in server <STEAM_0:0:549369149> (took 174 seconds).
+[20:12:27] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 29 seconds).
+[20:12:40] Хангстер: явахуи
+[20:12:44] sekta: !MENU
+[20:12:45] василий каратаев: playermodel_selector 
+[20:12:45] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:46] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:46] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:46] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:47] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:47] Byzmas: ЗАКРЫТЫЙ СЕРВЕР 6
+[20:12:47] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:47] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:48] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:48] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:48] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:49] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:49] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:49] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:50] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:50] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:50] (tsay from sekta) playermodel_selector - В КОНСОЛЬ ЧТОБЫ СМЕНИТЬ МОДЕЛЬКУ
+[20:12:59] Client "soulchill" spawned in server <STEAM_0:0:582963944> (took 127 seconds).
+[20:13:03] Хангстер: dc`
+[20:13:04] Хангстер: всё
+[20:13:17] Client "BeKaBoss" spawned in server <STEAM_0:0:221780420> (took 223 seconds).
+[20:13:22] RusLanConnection removed all access rights from sekta
+[20:13:31] sekta killed Chupacabr using npc_tripmine
+[20:13:31] sekta suicided!
+[20:13:31] sekta killed василий каратаев using npc_tripmine
+[20:14:02] Client "Sandw1ch" spawned in server <STEAM_0:0:560544701> (took 151 seconds).
+[20:14:33] Ксилан: я перезайду
+[20:14:34] Dropped "Ксилан" from server<STEAM_0:0:549369149>
+[20:14:52] Client "Yaroslav_101" spawned in server <STEAM_0:0:512387579> (took 395 seconds).
+[20:15:44] Client "Ксилан" connected.
+[20:16:03] Dropped "Byzmas" from server<STEAM_0:1:618504163>
+[20:16:07] Client "Ксилан" spawned in server <STEAM_0:0:549369149> (took 23 seconds).
+[20:16:08] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:08] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:08] Wheatley: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:08] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:08] Sandw1ch: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:09] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:09] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:09] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:09] Sandw1ch: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:09] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:09] Wheatley: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:10] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:10] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:10] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:10] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:10] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:10] Wheatley: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:10] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:10] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:10] Wheatley: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:10] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:10] Wheatley: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:11] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:11] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:11] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:11] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:11] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:11] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:11] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:12] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:12] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:12] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:12] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:12] Sandw1ch: упс
+[20:16:12] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:12] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:12] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:13] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:13] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:14] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:14] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:14] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:15] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:15] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:15] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:15] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:15] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:15] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:15] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:15] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:15] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:15] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:15] Sandw1ch: у меня на F2 старый бинд
+[20:16:16] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:16] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:16] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:16] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:16] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:16] Sandw1ch: сорри
+[20:16:17] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:17] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:18] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:22] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:22] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:22] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:23] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:23] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:23] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:23] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:23] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:23] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:24] Client "Byzmas" connected.
+[20:16:27] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:27] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:31] Sandw1ch: пиздец
+[20:16:33] Ксилан: щас настрою голос
+[20:16:36] Yaroslav_101: оке
+[20:16:37] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:47] василий каратаев: ТЫ ДИБИИИИЛ
+[20:16:47] Client "Byzmas" spawned in server <STEAM_0:1:618504163> (took 23 seconds).
+[20:16:50] василий каратаев: АРБУЗ ТО ЗАЧЕ
+[20:16:54] Sandw1ch: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:16:55] Client "BriceMashiro" spawned in server <STEAM_0:0:590186964> (took 345 seconds).
+[20:16:58] Sandw1ch: да сука
+[20:17:45] Yaroslav_101: !s ты где?
+[20:17:51] Yaroslav_101: !s 
+[20:17:54] Ксилан: ГДЕ Я
+[20:18:06] Yaroslav_101: /s где база будет?
+[20:18:16] RusLanConnection brought BeKaBoss,BriceMashiro,Byzmas,Chupacabr,Rackman,Redoket,Sandw1ch,Wheatley,Yaroslav_101,sekta,soulchill,Ксилан,Хангстер,василий каратаев
+[20:18:26] Sandw1ch: тут, что ли чат локальный?
+[20:18:30] Sandw1ch: не глобальный?
+[20:18:56] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:18:57] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:18:58] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:18:58] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:18:58] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:18:58] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:18:59] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:18:59] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:18:59] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:02] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:03] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:03] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:03] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:03] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:04] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:04] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:04] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:04] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:04] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:04] BeKaBoss: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:04] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:05] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:05] Sandw1ch: а... так это не у меня бинд
+[20:19:06] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:07] Sandw1ch: ЛОЛ
+[20:19:08] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:09] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:09] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:20] Sandw1ch: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:20] Sandw1ch: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:20] Sandw1ch: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:20] Sandw1ch: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:21] Sandw1ch: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:21] Sandw1ch: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:19:40] василий каратаев: ВСТУПАЙТЕ В МЕСТНЫЕ НЫГИ
+[20:19:53] василий каратаев: БУДЕМ ДЕРЖАТЬ РАОН
+[20:19:57] василий каратаев: ПО ПАЦАНСКИ
+[20:20:06] Хангстер: Чё происходит
+[20:20:10] василий каратаев: БЕРЕМ НЕГРОВ
+[20:21:22] Sandw1ch: сракман
+[20:21:36] BeKaBoss: playermodel_selector
+[20:21:44] василий каратаев: НЕГРЫ ВСТУПАЙТЕ ВО ФРАКУ
+[20:21:47] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:21:47] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:21:47] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:21:57] василий каратаев: СОЗДАЙТЕ СВОБ
+[20:22:04] василий каратаев: СВОЮ КРУТУЮ ФРАКУ
+[20:24:14] Chupacabr: act nigger всен
+[20:24:22] василий каратаев: РАКМАН
+[20:24:24] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:36] Sandw1ch: AFK
+[20:24:42] василий каратаев: ЯЯ
+[20:24:44] василий каратаев: ДАЮ ОБЕЩАНИЕ
+[20:24:50] василий каратаев: ФРАКЦИЯ БЕНЗИНОПИЙЦЫ
+[20:24:52] василий каратаев: ВОТ ЗАПИСЫВАЙТЕ
+[20:24:55] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:55] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:55] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:56] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:56] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:56] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:56] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:56] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:56] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:57] BriceMashiro: ну василий хй
+[20:24:57] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:57] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:57] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:58] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:58] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:58] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:58] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:58] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:59] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:59] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:59] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:59] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:59] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:59] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:59] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:59] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:59] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:59] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:24:59] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:00] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:00] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:00] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:00] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:00] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:00] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:00] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:00] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:00] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:00] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:00] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:01] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:01] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:01] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:01] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:01] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:01] василий каратаев: БУДЕТ РАЗГРОМЛЕНЫ МОИМИ НИГЕРАМИ
+[20:25:01] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:01] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:01] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:01] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:01] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:02] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:03] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:03] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:03] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:03] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:03] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:03] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:03] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:03] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:03] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:03] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:04] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:04] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:04] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:04] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:04] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:04] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:04] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:04] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:04] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:05] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:05] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:05] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:05] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:05] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:05] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:05] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:05] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:05] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:05] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:06] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:07] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:07] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:07] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:07] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:07] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:07] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:07] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:07] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:07] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:07] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:07] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:08] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:08] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:08] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:08] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:08] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:08] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:08] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:08] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:08] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:08] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:09] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:09] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:09] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:09] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:09] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:09] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:09] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:09] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:09] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:09] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:09] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:10] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:11] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:12] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:12] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:12] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:12] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:12] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:12] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:12] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:12] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:12] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:13] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:13] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:13] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:13] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:13] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:13] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:14] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:14] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:14] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:14] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:14] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:14] Ксилан: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:25:21] василий каратаев: ВЫ ЛОХИ
+[20:25:23] василий каратаев: ЖДИТЕ
+[20:25:41] Sandw1ch: я к василию
+[20:26:11] василий каратаев: НИГУ БЕРИ
+[20:26:13] василий каратаев: НИГУ
+[20:26:15] василий каратаев: НЕ СКИНА
+[20:26:27] василий каратаев: БАШКА ЛЫСАЯ
+[20:26:32] василий каратаев: НЕГИРОВ БЕРЕМ
+[20:26:33] Sandw1ch: не важно я обратно к ракману
+[20:26:35] василий каратаев: БРАТВА
+[20:26:43] Sandw1ch: хотя не
+[20:26:57] Rackman killed василий каратаев using wep_jack_gmod_hands
+[20:27:01] Хангстер: Здрасте
+[20:27:03] Хангстер: Э
+[20:27:08] Хангстер: Ну ок
+[20:27:08] RusLanConnection brought BeKaBoss,BriceMashiro,Byzmas,Chupacabr,Rackman,Redoket,Sandw1ch,Wheatley,Yaroslav_101,sekta,soulchill,Ксилан,Хангстер,василий каратаев
+[20:27:10] Хангстер: О
+[20:27:22] василий каратаев: БРАТВА ЗА МНООООЙ
+[20:27:44] Хангстер: Я более менее
+[20:27:53] василий каратаев: ВЫ НЕ ПОНИМАЕТЕ
+[20:27:55] василий каратаев: КАРОЧЕ
+[20:27:57] василий каратаев: ЧУЧУТЬ ЖДЕМ
+[20:28:00] Хангстер: У меня уже
+[20:28:02] василий каратаев: И ДАЕМ АЛЬЯНС
+[20:28:06] василий каратаев: ЛАН КОМУ
+[20:28:11] василий каратаев: НО НАША ГЛАВНАЯ ЦЕЛЬ
+[20:28:15] Хангстер: пиздато
+[20:28:18] василий каратаев: РАЗГРОМ БЕНЗИНОПИЙЦЕВ
+[20:28:22] василий каратаев: СОСТАВ У НИХ СИЛЬНЫЙ
+[20:28:30] Хангстер: Нас с 2 сторон оттарабанят
+[20:29:10] Хангстер: Ну ок
+[20:29:18] василий каратаев: ТАК СТОП
+[20:29:21] василий каратаев: СЕНДВИСЧ
+[20:29:22] Хангстер: Так
+[20:29:23] василий каратаев: ОТКУДА
+[20:29:26] Хангстер: .*inv*
+[20:29:27] василий каратаев: А ДА ПОФЕГ
+[20:29:29] Хангстер: В чат без точки
+[20:29:33] Хангстер: Можешь забиндить
+[20:29:36] Хангстер: Ща поищу бинд
+[20:29:42] василий каратаев: ЖИВЕМ ТУТ
+[20:29:47] Хангстер: Там scrounge
+[20:29:54] Хангстер: Это поиск говна вокруг
+[20:30:08] Хангстер: Я забыл как биндить...
+[20:30:09] василий каратаев: ЩА
+[20:30:17] василий каратаев: ЗАБИНДИТЕ
+[20:30:19] василий каратаев: СЕБЕ
+[20:30:20] Хангстер: Вот кароче консольная комманда для инвентаря jmod_ez_inv
+[20:30:24] Хангстер: Забиндите
+[20:30:28] василий каратаев: ЧТО В НАЧАЛЕ СЕБЕ
+[20:30:39] soulchill: \
+[20:30:50] (TEAM) soulchill: x
+[20:30:53] василий каратаев: КИДАЙТЕ ПРОПЫ
+[20:31:12] василий каратаев: Чтобы начать выживать, вам лучше забиндить эту команду 'jmod_ez_inv' на I ил
+[20:31:18] Sandw1ch: x
+[20:31:20] василий каратаев: Я МАСТЕР
+[20:31:22] василий каратаев: ИГРЫ
+[20:31:25] василий каратаев: ДЛЯ НАЧАЛО
+[20:31:27] василий каратаев: ПРОСТО НУЖНЫ РЕСЫ
+[20:31:56] Хангстер: Запчасти ебашим
+[20:31:58] василий каратаев: ИНВЕНТАРЬ
+[20:32:00] Хангстер: Мушкет гамнё
+[20:32:00] василий каратаев: ТАМ СКРОУНДЖ
+[20:32:03] василий каратаев: КНОПКА 4
+[20:32:05] Хангстер: Онли только если в ближних
+[20:32:29] Хангстер: Запчастиии
+[20:32:42] василий каратаев: ТАК
+[20:32:44] Хангстер: чё
+[20:32:46] василий каратаев: СЕЙЧАС
+[20:32:49] василий каратаев: КРАФТИМ
+[20:32:51] василий каратаев: В 
+[20:32:57] василий каратаев: ТУЛБОКСЫ СЕБЕ КАЖДЫЙ
+[20:33:35] василий каратаев: МАШИНЫ
+[20:33:42] василий каратаев: И ОБЫЧНЫЕ ПРОПЫ
+[20:33:51] василий каратаев: ДА МЫ ПОБЕДИМ
+[20:33:52] василий каратаев: ПРОСТО
+[20:33:59] BeKaBoss killed Yaroslav_101 using wep_jack_gmod_ezpickaxe
+[20:34:00] василий каратаев: МЫ БУДЕМ ИСПОЛЬЗОВАТЬ ОДНУ ВЕЧ
+[20:34:05] Хангстер: хз
+[20:34:10] василий каратаев: РЕШИТЕЛЬНОСТЬ
+[20:34:14] Yaroslav_101: !s бля
+[20:34:15] василий каратаев: ПРИМЕНИТТЬ
+[20:34:20] василий каратаев: ОРГАНИКА
+[20:35:09] василий каратаев: ВСЕЕ
+[20:35:12] василий каратаев: ЗАКИДЫВАЕМ РЕСЫ
+[20:35:12] василий каратаев: ТУДА
+[20:35:15] василий каратаев: БЫСТРЕЕЕ!
+[20:35:42] василий каратаев: ВЕРСТАК БУДЕТ БРАТЬ РЕСЫ И СКЛАДЫВАТЬ В ЧЩИК
+[20:36:18] василий каратаев: ИЩИТЕ РЕЗИНУ
+[20:36:32] василий каратаев: КИРКУ
+[20:36:34] Chupacabr killed Chupacabr
+[20:36:36] василий каратаев: МОЖЕШ СЕБЕ ПОКА
+[20:36:53] Хангстер: Я воду искать
+[20:37:08] василий каратаев: ГОСПОДИ
+[20:37:13] василий каратаев: ДЖЕК ПОТ ПАРНИ
+[20:37:16] василий каратаев: БЕРЕМ КИРКИ
+[20:37:19] василий каратаев: ВСЕ
+[20:37:22] василий каратаев: КРАФ
+[20:37:26] василий каратаев: ЗА КРАФТИТЕ
+[20:37:33] василий каратаев: ЕЕЕЕ
+[20:37:36] василий каратаев: НИГА БРАТ
+[20:37:45] василий каратаев: АЛМАЗЫ
+[20:38:06] василий каратаев: ДАВАЙТЕ ПОКОПАЙТЕ ДЕНЬНИ
+[20:39:05] василий каратаев: ВСЕ СЮДА БЫСТРО РАЗБЕРЕМ ТАЧКУ
+[20:39:33] Хангстер: Я воды не нашёл
+[20:39:49] василий каратаев: ТАК
+[20:39:56] василий каратаев: ПУСТЬ ПОКА АЛМЫ ПОДОЖДУТ ПРОДАЖЫ
+[20:39:59] василий каратаев: ТАК
+[20:40:00] василий каратаев: РЕСЫ
+[20:40:00] Client "tokmakovsp" connected.
+[20:40:15] василий каратаев: ДАВАЙТЕ ПОКА РЕСЫ СПАВНИТЕ
+[20:40:21] василий каратаев: И РАЗБИРАЙТЕ ПРОПЫ
+[20:40:32] василий каратаев: ЗАБИНДИЛ ИНВЕНТАРЬ?
+[20:40:46] василий каратаев: ТАМ КНОПКА ЦЫФРА ЧЕТЫРЕ
+[20:40:54] василий каратаев: ДВЕЕЕ
+[20:41:35] Хангстер: Я хуею
+[20:41:39] Хангстер: Пистолет не могу взять
+[20:41:48] Хангстер: Нажимаю
+[20:41:51] Хангстер: чёза
+[20:41:54] Хангстер: Так я нажимаю
+[20:42:01] Хангстер: да
+[20:42:13] Хангстер: биля
+[20:42:28] Chupacabr was killed by ent_jack_gmod_ezfluid_bottler
+[20:42:33] Хангстер: лан бери
+[20:42:42] Хангстер: да
+[20:42:50] василий каратаев: НАМ НЕ ОЧЕНЬ ПОВЕЗЛО С РЕСАМИ НО НЕ ЧО
+[20:42:54] василий каратаев: БЫЛА БЫ ВОДА
+[20:42:55] василий каратаев: А ТАК
+[20:43:02] василий каратаев: БЕЗ ВОДЫ ТОЖЕ ЖИТЬ МОЖНО
+[20:43:07] василий каратаев: ТАК
+[20:43:10] Хангстер: газ нужен
+[20:43:11] василий каратаев: НЕТУ ВОДЫ
+[20:43:24] василий каратаев: ТАК
+[20:43:26] василий каратаев: ЭЭ
+[20:43:42] василий каратаев: ВО
+[20:43:44] василий каратаев: Т2
+[20:43:55] Хангстер: Патрики готовы
+[20:44:07] Хангстер: Берите скок хотите, они дешовые кабздец
+[20:44:15] Хангстер: Вот бы воду ещё найти
+[20:44:18] Хангстер: Ну более менее 
+[20:44:23] Хангстер: Просто вода нужна
+[20:44:28] Хангстер: А мы в пустыне ёк макарёк
+[20:44:38] Хангстер: Можн лопатой искать врод
+[20:44:40] василий каратаев: ЗАЦЕНИТЕ
+[20:44:41] Хангстер: Воду
+[20:44:57] (TEAM) soulchill: *scrounge*\
+[20:44:58] василий каратаев: И ТАК
+[20:44:59] Хангстер: Вода ес чё по другому
+[20:45:03] василий каратаев: НАШЕ УЩЕЛЬЕ
+[20:45:05] василий каратаев: КТО НИТЬ
+[20:45:05] Хангстер: Один раз по земле ударь
+[20:45:08] Хангстер: И осмотрись
+[20:45:11] василий каратаев: СЕНДВЕК
+[20:45:15] Хангстер: На земле знак воды должен быть
+[20:45:15] василий каратаев: БЕРИ СКАН РЕСОВ
+[20:45:17] Хангстер: В дали
+[20:45:19] Хангстер: Кароч
+[20:45:19] василий каратаев:  И ИДИ ПО КАНЬОНУ
+[20:45:21] василий каратаев: НАЙДЕШЬ
+[20:45:23] василий каратаев: НЕФТТЬ
+[20:45:28] василий каратаев: ПРИЙДЕШ
+[20:45:29] Хангстер: Не спамь особо
+[20:45:30] василий каратаев: ИЛИ 
+[20:45:34] василий каратаев: УРАН
+[20:45:34] Хангстер: 1 раз ударил
+[20:45:37] василий каратаев: НУ 
+[20:45:41] василий каратаев: ВОН ТУДА
+[20:45:44] Хангстер: И отошёл на 30 метров гденибудь
+[20:45:52] Хангстер: БДЛЯТ
+[20:45:54] василий каратаев: ТАК
+[20:45:56] Хангстер: НАДО СКРАФИТЬ
+[20:45:58] Хангстер: РАДИО
+[20:45:59] Хангстер: ПОШЛИ
+[20:46:05] василий каратаев: ЗАПРАВЬ СЕБЕ
+[20:46:08] василий каратаев: В ТУЛОК
+[20:46:13] василий каратаев: БЕРИ ТУЛБОКС
+[20:46:15] василий каратаев: АЛЬУ
+[20:46:34] василий каратаев: АЛЬТ + У
+[20:46:36] василий каратаев: ВО
+[20:46:38] василий каратаев: И ЭТО
+[20:46:40] Sandw1ch: /s
+[20:46:46] василий каратаев: ДЕЛАЙ СОЛНЕЧНЫЕ ПАНЕЛИ
+[20:46:48] василий каратаев: ВОДА
+[20:46:50] василий каратаев: ТАК
+[20:47:09] Хангстер: радио
+[20:47:14] Хангстер: Там бабло тратить надо...
+[20:47:16] Хангстер: Ёбаны сыр
+[20:47:21] Хангстер: Воды ещё и нету в наличие
+[20:47:26] Хангстер: Херня
+[20:47:27] василий каратаев: ДАВАЙТЕ
+[20:47:30] василий каратаев: НАКОПАЙТЕ ЧУЧУТЬ
+[20:47:33] Хангстер: Там деньги тратить надо
+[20:47:34] василий каратаев: КЛАДИТЕ В ЯЩИК
+[20:47:36] Хангстер: У нас нету
+[20:47:38] василий каратаев: ГДЕТО ТЫЩУ 
+[20:47:48] Хангстер: Я пошёл искать
+[20:47:49] Хангстер: Воду
+[20:48:26] Хангстер: Надо
+[20:48:30] Хангстер: Сталь и медь
+[20:48:33] Хангстер: Не трогайте
+[20:48:40] Хангстер: Метталлы не трогайте кароче
+[20:48:43] Хангстер: Можете продавать
+[20:48:45] Хангстер: Чуть чуть онли
+[20:48:49] Хангстер: Голд можн тож
+[20:48:55] Хангстер: Давай
+[20:49:01] Хангстер: Её изи найти
+[20:49:05] Хангстер: А
+[20:49:08] Хангстер: Керамику нельзя
+[20:49:25] Хангстер: Опааа
+[20:49:43] Хангстер: 502 БАКСА
+[20:49:45] василий каратаев: ТАК
+[20:49:47] Хангстер: ой блять
+[20:50:11] василий каратаев: ПОЙДИТЕ ПО УЩЕЛЬЕ ИЩО
+[20:50:19] василий каратаев: НУ ИЛИ
+[20:50:19] Хангстер: Хз
+[20:50:21] василий каратаев: В ТУДА
+[20:50:25] Хангстер: Покупайте чё хотите
+[20:50:28] Хангстер: Мне там ничего не надо
+[20:50:34] василий каратаев: 250 ЭНЕРГИИ 
+[20:50:38] василий каратаев: ЗАРКРАФТЬ
+[20:50:42] василий каратаев: В ВОРКБЕНЧЕ НОВОМ
+[20:51:16] Byzmas: supply radio: dynamite
+[20:51:43] василий каратаев: УГОЛЬ
+[20:51:48] василий каратаев: НЕ ОН ПОКА МУСОРНЫ
+[20:51:51] василий каратаев: МОЖЕТ ПОТОМ
+[20:52:02] василий каратаев: ДАЙ МНЕ
+[20:52:12] василий каратаев: ОИЛ
+[20:52:16] василий каратаев: КРУТО
+[20:52:17] василий каратаев: НАШИ
+[20:52:20] василий каратаев: ЧУЧУТЬ
+[20:53:33] BriceMashiro: ну и стоите и молчите
+[20:53:36] Byzmas killed BriceMashiro using wep_jack_gmod_flintlockmusket
+[20:53:41] василий каратаев: РАСТВАВЬТЕ
+[20:53:44] василий каратаев: ДЛЯ МАКСА СВЕТА
+[20:53:46] Dropped "BriceMashiro" from server<STEAM_0:0:590186964>
+[20:54:03] василий каратаев: ТАК 
+[20:54:36] василий каратаев: НАВЕРН
+[20:54:58] василий каратаев: ЛАДНО
+[20:55:01] василий каратаев: Я ВАМ ЗАКРАФЧУ
+[20:55:46] василий каратаев: НЕ КУШАЙ МНОГО
+[20:57:23] василий каратаев: ПОДКЛЮЧИТЕ
+[20:57:28] василий каратаев: АЛЬТУ
+[20:57:30] василий каратаев: КОНЕКТ НЕВ
+[20:58:36] василий каратаев: ОН УШЕЛ
+[20:58:40] василий каратаев: НУЖНА СТАЛЬ
+[20:58:45] василий каратаев: НУ ЭТО ТАК МОЖЕТ
+[20:58:49] василий каратаев: НЕТ
+[20:58:50] василий каратаев: ДАВАЙ
+[20:58:52] василий каратаев: ЧЕРЕЗ РКСЫ
+[20:58:57] василий каратаев: ЧЕРЕЗ РАЗБОР ПРОПОВ
+[20:59:24] василий каратаев: ТАК
+[21:00:53] Хангстер: /s Вы где?
+[21:00:55] василий каратаев: ЩАС КАК МОЖНО БЫСТРЕЕ СПИДРАНИМ
+[21:00:56] Хангстер: /s
+[21:01:00] василий каратаев: ВЕРТОЛЕТ ИЛИ ТАНК
+[21:01:02] василий каратаев: ЩАС
+[21:01:05] василий каратаев: КОПАЙТЕ АЛМАЗЫ
+[21:01:08] василий каратаев: ЦЕНЫ НА НИХ ПОВЫСИЛИСЬ
+[21:01:25] василий каратаев: jmod_ez_econ цены
+[21:01:37] василий каратаев: ОНИ ТУТ
+[21:02:39] Хангстер: Что
+[21:02:44] василий каратаев: ТУДЫ ДА ТУДЫ
+[21:02:55] Хангстер: Пиздец
+[21:03:03] Хангстер: Готовим анусы чё
+[21:03:11] Byzmas killed Yaroslav_101 using wep_jack_gmod_flintlockmusket
+[21:03:12] Хангстер: Крафть чё хочешь
+[21:03:19] Хангстер: Weapons
+[21:03:24] Byzmas killed Redoket using wep_jack_gmod_flintlockmusket
+[21:03:36] Хангстер: alt e
+[21:03:38] василий каратаев: ВОТ
+[21:03:38] Chupacabr killed Chupacabr
+[21:03:40] василий каратаев: ЕСЛИ ЧТО
+[21:03:42] василий каратаев: ЗАПРАВЛЯЕШЬ
+[21:03:44] василий каратаев: ЭТИМ
+[21:03:48] RusLanConnection killed Byzmas using wep_aboot_jmod_annabelle
+[21:04:03] Хангстер: ВОДЫ НЕМА
+[21:04:13] василий каратаев: ДА
+[21:04:31] Dropped "Byzmas" from server<STEAM_0:1:618504163>
+[21:04:36] Хангстер: Я ХУЕЮ
+[21:04:42] Хангстер: не ебу
+[21:04:55] василий каратаев: НЕФТЬ
+[21:05:13] василий каратаев: МЫ ПОБЕДИМ
+[21:05:18] Хангстер: Бля
+[21:05:19] василий каратаев: ЭТО БЕНЗОПИЛЫ
+[21:05:21] Хангстер: Не шелисти особо
+[21:05:28] Хангстер: Ща
+[21:05:33] василий каратаев: БЕНЗОПИЛЫ
+[21:05:41] василий каратаев: УРОДЫ
+[21:05:47] василий каратаев: ПОТОМ
+[21:06:05] Хангстер: Понял
+[21:06:13] Хангстер: Ну кароче, да
+[21:06:20] Хангстер: Вот так вот
+[21:06:30] Хангстер: Ну можно
+[21:06:32] василий каратаев: РЕСЫ
+[21:06:34] василий каратаев: НУЖНЫ РЕС
+[21:06:35] василий каратаев: Ц
+[21:06:37] василий каратаев: ДАВАЙТЕ
+[21:06:41] василий каратаев: РАЗБИРАЕМ ГАНВО
+[21:06:52] Хангстер: Давай
+[21:06:55] Хангстер: Фух
+[21:07:00] Хангстер: Ну хз
+[21:07:07] Хангстер: Просто сидим пока он не придёт
+[21:07:36] Хангстер: supply radio: fulton-crate
+[21:07:47] Хангстер: Где воду взять
+[21:07:50] Хангстер: Я не понимаю
+[21:08:25] Хангстер: АХУЕНТ
+[21:08:41] Хангстер: Не над
+[21:08:46] Хангстер: А
+[21:08:47] Хангстер: Понял
+[21:08:50] Хангстер: А
+[21:08:54] Хангстер: Так чел дожен прийти
+[21:08:56] Хангстер: К нам
+[21:08:59] Хангстер: Или нет?
+[21:09:03] Хангстер: врод нет
+[21:09:08] Хангстер: Давай сгоняем 
+[21:09:16] Хангстер: К челу мёртвому
+[21:09:52] Хангстер: АХУЕТЬ
+[21:10:27] Хангстер: Понесли?
+[21:11:03] Хангстер: Блять
+[21:11:06] Хангстер: Пробал
+[21:11:09] Хангстер: Проебал я
+[21:11:24] василий каратаев: Е НИГА
+[21:11:36] Хангстер: Даай
+[21:11:39] Хангстер: Давай
+[21:11:41] василий каратаев: ТЕЧ 3
+[21:11:44] Хангстер: ТИХЗО
+[21:11:50] Хангстер: Стреляли чтоли?
+[21:12:15] Хангстер: Ой бляя
+[21:12:19] василий каратаев: ТАК
+[21:12:21] василий каратаев: ДРУГИ
+[21:12:25] василий каратаев: КТО ТО ХОЧЕТ
+[21:12:28] василий каратаев: ПОЙТИ МИНРОВАТЬ?
+[21:12:35] василий каратаев: УЩЕЛЬЕ
+[21:12:46] василий каратаев: ВОН ТАМ
+[21:12:48] василий каратаев: ЛЕВЫЙ
+[21:12:51] василий каратаев: ПРОХОД
+[21:12:53] василий каратаев: ПРАВО
+[21:12:54] Хангстер: Медь всю
+[21:12:56] василий каратаев: МОЖННО ТОЖЕ
+[21:13:01] василий каратаев: ЗАКИДЫВАЙТЕ
+[21:13:04] Хангстер: Тут онли медь
+[21:13:21] Хангстер: Всё чтоли
+[21:13:23] Хангстер: Ну лан
+[21:13:25] BeKaBoss killed Redoket using wep_jack_gmod_ezpickaxe
+[21:13:32] Хангстер: Ок
+[21:13:38] василий каратаев: ОСТОРОЖНО
+[21:13:39] василий каратаев: МИНЫ
+[21:13:42] василий каратаев: ПОНЯТНО
+[21:13:47] василий каратаев: СТОЙТЕ
+[21:13:51] василий каратаев: СТОЙЩЕ
+[21:14:19] Chupacabr killed Chupacabr
+[21:14:27] Wheatley: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:14:37] sekta killed sekta
+[21:14:42] (TEAM) Wheatley: supply radio
+[21:15:06] Хангстер: Бля
+[21:15:18] Хангстер: Ну лан
+[21:15:21] василий каратаев: НУ ИДИТЕ
+[21:15:23] Хангстер: Подём
+[21:15:52] Хангстер: Не думаю
+[21:16:51] Хангстер: Здарова
+[21:17:00] Хангстер: Он еблан
+[21:17:11] Хангстер: Ну да
+[21:17:14] Хангстер: Да
+[21:17:25] Хангстер: Вообще
+[21:17:31] Хангстер: Просто навестить
+[21:17:49] Хангстер: Ну значит ок
+[21:17:53] Хангстер: А
+[21:18:11] Хангстер: Понял
+[21:18:22] Хангстер: Нас двоя конечно
+[21:18:47] Хангстер: Ну да
+[21:19:09] Хангстер: 0
+[21:19:11] Хангстер: Было 3к
+[21:19:19] Хангстер: Главый забрал всё баблище
+[21:19:38] Хангстер: Поняли
+[21:20:06] василий каратаев: ОК
+[21:20:09] Хангстер: Квест
+[21:20:16] Хангстер: Подём
+[21:20:51] Хангстер: Ебануться
+[21:20:56] василий каратаев: ЩАС БУДЕМ БОГАТЫ
+[21:21:02] Хангстер: Мы корефаны новые
+[21:21:06] Хангстер: ПРОШЛЫЙ
+[21:21:06] василий каратаев: НАВЕРНОЕ ВЕРТОЛЕТ
+[21:21:08] василий каратаев: ПРОСТО
+[21:21:10] василий каратаев: ВЕРТОЛЕТ
+[21:21:10] Хангстер: ПРОШЛЫЙ ПЫТАЛСЯ
+[21:21:11] Хангстер: ОН СВАЛИЛ
+[21:21:18] Хангстер: Да нормально
+[21:21:20] василий каратаев: НЕЗНАЕМ ПОКА
+[21:21:24] василий каратаев: НУЖНО ОБСЛЕДДОВАТЬ
+[21:21:26] василий каратаев: ОБСТАНОВКУ
+[21:21:33] василий каратаев: ЛФС
+[21:21:46] Хангстер: О
+[21:21:52] Хангстер: Да да
+[21:21:57] василий каратаев: НЕ БУДЕМ
+[21:21:58] василий каратаев: Т
+[21:22:24] Хангстер: Урооо
+[21:22:35] василий каратаев: ТАК
+[21:22:46] Хангстер: бля
+[21:22:48] Хангстер: Тудо
+[21:22:57] Хангстер: Около камешков
+[21:22:58] sekta: supply radio: fumigators
+[21:23:06] Хангстер: Окей
+[21:23:13] Хангстер: Не то
+[21:23:26] Хангстер: Бляя
+[21:23:28] Хангстер: ДА
+[21:24:11] василий каратаев: СТАЛЬ
+[21:24:14] василий каратаев: РАЗБИРАЙТЕ ПРОПЫ
+[21:24:51] Хангстер: Мдааа
+[21:25:01] Хангстер: Бомжатник
+[21:26:13] sekta suicided!
+[21:26:20] Хангстер: Ну уже лучше
+[21:26:42] василий каратаев: МЫ БАГАТЫ 
+[21:26:48] василий каратаев: ЗАКУПАЙТЕ ТУРЕЛИ
+[21:26:57] василий каратаев: КАРОЧЕ
+[21:26:59] василий каратаев: ЩАС БУДЕТ МЯСО
+[21:27:07] Хангстер: Радио сдохло
+[21:27:17] василий каратаев: ТАК
+[21:27:19] василий каратаев: ДЛЯ НАЧАЛО
+[21:27:23] василий каратаев: ПРОСТО ПРОЕДИМСЯ ПО КАРТЕ
+[21:27:35] Хангстер: Помоги перетащить
+[21:27:38] Хангстер: Верст
+[21:27:49] RusLanConnection: supply radio: oil
+[21:27:50] Хангстер: Всё
+[21:28:22] василий каратаев: БОБМЯТ
+[21:28:45] Хангстер: Давай чуть чуть бобла заработаем
+[21:28:52] sekta killed sekta
+[21:28:56] Хангстер: ЧЁ
+[21:29:08] Хангстер: Хз кто поплатиться
+[21:29:13] Хангстер: Надеюсь не мыыы
+[21:29:29] Хангстер: Ну не знаааю
+[21:29:44] Хангстер: Ща меди продадим чуток
+[21:29:59] Хангстер: Всё
+[21:30:20] Хангстер: Всё думаю
+[21:30:29] Хангстер: Чё а как подать то
+[21:30:52] Хангстер: Понял
+[21:30:56] Хангстер: альт е
+[21:31:10] Хангстер: ХУЯ
+[21:31:11] Хангстер: 300
+[21:31:13] Хангстер: 3000
+[21:31:15] Хангстер: Хз
+[21:31:20] Хангстер: Оуе
+[21:31:29] Хангстер: ща
+[21:31:56] Хангстер: А да
+[21:31:59] василий каратаев: КТО ЭЭТО БЫЛ
+[21:32:00] Хангстер: Нам фабрикатор нужен
+[21:32:05] Хангстер: 500 стали вроде нужн
+[21:32:05] василий каратаев: ЧИ
+[21:32:07] василий каратаев: ЦВЕТ
+[21:32:08] василий каратаев: КАКОЙ
+[21:32:22] Хангстер: 500 запчастей
+[21:32:45] Хангстер: Ок
+[21:32:45] василий каратаев: КРАФТИТЕ
+[21:33:35] Ксилан: Я щас
+[21:33:45] Хангстер: Теперь стали нету
+[21:33:49] Хангстер: блееен
+[21:33:53] Хангстер: нужно 700
+[21:33:56] Хангстер: А пойдём
+[21:34:01] Ксилан: Всё
+[21:34:06] Хангстер: Ну это не нам
+[21:34:30] Хангстер: Надо было физган сделать
+[21:34:35] Хангстер: Пойдём чекнем
+[21:34:38] Хангстер: А
+[21:34:40] Хангстер: Неси
+[21:34:42] василий каратаев: НАМ НУЖНО ПОГОВРИТЬ
+[21:34:47] василий каратаев: С ДРУГИМИ
+[21:34:51] василий каратаев: ФРАКАМИ
+[21:35:04] василий каратаев: КРФТИ В ФАБРИКАТОРЕ
+[21:35:13] василий каратаев: МОЖНО 
+[21:35:15] василий каратаев: ПКМ+К
+[21:35:19] василий каратаев: R
+[21:35:22] василий каратаев: В КАРМАШЕ
+[21:35:37] василий каратаев: ТАМ КРУТЫЕ ПУШКИ
+[21:36:00] василий каратаев: Я ПОЙДУ
+[21:36:02] василий каратаев: ВЫ ТУТ 
+[21:36:03] василий каратаев: СТОЙТЕ
+[21:36:40] Хангстер: Всё
+[21:36:41] Хангстер: Погна
+[21:37:17] василий каратаев: ДРОБЫЙ ДЕНЬ
+[21:37:24] василий каратаев: МЫ ВОТ НАЛАЖИВАЕМ
+[21:37:26] василий каратаев: СВЗЯИ
+[21:37:33] василий каратаев: ЧЕЙ ЯЩИК СТЫБЗИЛИ
+[21:37:46] василий каратаев: ОКЕ ОКЕ 
+[21:38:47] василий каратаев: ВЫ НАС ЗАГОЗАВЛИ?
+[21:39:05] василий каратаев: ВЫ ГАЗАНУЛИ?
+[21:39:14] василий каратаев: ГДЕ БЕНЗОПИЛЫ ЖИВУТ
+[21:39:27] василий каратаев: СКОЛЬКО ЗАПРАВИТЬ ТАЧКУ
+[21:39:53] василий каратаев: ЧЕГООО
+[21:39:53] Хангстер: Наконец
+[21:39:57] василий каратаев: 5 ТЫЩ
+[21:39:58] василий каратаев: ДОРОГО
+[21:40:00] василий каратаев: 1000
+[21:40:04] Хангстер: ЁБАННЫ СЫЫР
+[21:40:06] василий каратаев: ЛАДНО
+[21:40:07] Хангстер: ЕБАТЬ ТУТ ПРОСЯТ
+[21:40:13] Sandw1ch: !pchat test
+[21:40:15] Sandw1ch: !pchat
+[21:40:15] Хангстер: ВОДУ, ХЕМИКАТЫ, ГАЗ
+[21:40:25] василий каратаев: ЗАКИНУЛ
+[21:40:27] Sandw1ch: !s test
+[21:40:27] василий каратаев: ПЕРЕВЕЛ
+[21:40:31] Sandw1ch: /s test
+[21:40:43] василий каратаев: ПОЛНОЕ ТО ДАВАЙТЕ
+[21:40:45] Хангстер: Нууу
+[21:40:58] василий каратаев: ДАЙ
+[21:41:00] василий каратаев: ФУЕЛ
+[21:41:03] Хангстер: Давай кароче щас энергию наладим
+[21:41:09] Хангстер: Потом газом займёмся
+[21:41:14] Хангстер: А потом и нефть фигарить
+[21:41:28] василий каратаев: ТАК ЛАДНО ВОЗМОЖНО ЕЩО ПРИЕДУ
+[21:41:39] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[21:41:41] Wheatley suicided!
+[21:41:45] Хангстер: Ну норм
+[21:41:53] Хангстер: Ждать только пиздец долго
+[21:41:58] (TEAM) Wheatley: помогите
+[21:41:59] (TEAM) Wheatley: тп
+[21:42:24] Хангстер: Это да
+[21:42:26] Хангстер: А вот вода
+[21:42:29] Хангстер: И газ
+[21:42:48] василий каратаев: ГАВНОЕДЫ
+[21:42:59] Client "Redoket" connected.
+[21:43:13] василий каратаев: ТАК
+[21:43:28] Хангстер: Ну бля
+[21:43:31] Хангстер: Чё делать...
+[21:43:32] василий каратаев: И НЕ ЗАСПАВНИЛСЯ
+[21:43:35] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 36 seconds).
+[21:43:48] Хангстер: Можем но нужна энергияяя
+[21:43:53] (TEAM) Wheatley: Руслан ты там меня не тпхниш?
+[21:44:03] Хангстер: Я щас
+[21:44:06] RusLanConnection brought Redoket
+[21:45:00] василий каратаев: ТОПЛИВА НЕТ
+[21:45:23] Хангстер: Я тут
+[21:45:40] Хангстер: Да
+[21:46:27] василий каратаев: МЕД СТАНЦИЯ НЕ РАБИТ
+[21:46:29] Хангстер: Да вроде убеажл
+[21:46:44] Хангстер: Пойдём на базу
+[21:46:50] Yaroslav_101: bind alt +walk
+[21:47:17] василий каратаев: ОНИ В ЯЩИКЕ НАВРЕН
+[21:47:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:47:33] Rackman: !s Тест
+[21:48:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:48:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:48:08] Rackman: ТЕст
+[21:48:28] василий каратаев: ЛАНКОМОВЦЫ ЕЩО НОРМ
+[21:48:36] василий каратаев: ХАНГСТЕР 
+[21:48:39] василий каратаев: ВОЗМОЖНО ЗЛЫЕ
+[21:48:47] василий каратаев: ЗНАЮ ГДЕ ЖИВУТ НАШИ ВРАГИ БЕНЗОПИЛЫ
+[21:49:04] василий каратаев: СТАЛЬ НУЖНА
+[21:49:24] василий каратаев: МЫ МОГЛИ НАВЕРНОЕ ПОСТАВИШЬ НОРМ ПРОИЗВОДСВТО
+[21:49:29] василий каратаев: НО ЛЕНЬ СТРОИТЬЫ
+[21:49:34] василий каратаев: МЫ ЖЕ НИГИ
+[21:49:36] Хангстер: Надо саму нефть найти..
+[21:49:46] василий каратаев: НЕЗНАЮ КАК 
+[21:49:48] василий каратаев: ЩАС
+[21:49:53] василий каратаев: ВАТАФАФАААК
+[21:49:55] василий каратаев: ЭТО
+[21:49:57] василий каратаев: ЭТО ВРАГОВ
+[21:49:59] василий каратаев: СЕК
+[21:50:02] Хангстер: А вот где найти
+[21:50:08] василий каратаев: НЕТ
+[21:50:11] василий каратаев: ЭТОО КРУТОЕ ОРУЖИЕ
+[21:50:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:50:46] Chupacabr was killed by ent_jack_aidbox
+[21:51:23] Хангстер: Газ не надо было сюда
+[21:51:50] василий каратаев: ВОТ КАЖЖОМ
+[21:52:42] василий каратаев: ТАК
+[21:52:45] василий каратаев: БЕРИТЕ ЛОПАТЫ
+[21:52:49] василий каратаев: ДЕЛАЙТЕ УКРЕПЫ ИЗ ПЕСКА
+[21:53:06] Хангстер: Нужен сканер
+[21:53:15] Хангстер: Со сканером надо найти место где есть нефть
+[21:53:18] Хангстер: Туда уже нести
+[21:53:29] василий каратаев: ПО ДАЛЬШ
+[21:53:32] василий каратаев: ОТ СЕДА
+[21:53:43] василий каратаев: НЕ ТУТ
+[21:53:58] василий каратаев: ВО
+[21:54:01] Хангстер: ВОДА
+[21:54:11] василий каратаев: СДЕЛАЙТЕ ПРОСТО КРУТЫЕ СТЕНЫ НЕБОЛЬШЕ
+[21:54:17] василий каратаев: ЧТОБЫ ТУРЕЬ ПОСТАВИТЬ МОЖНО БЫЛО И ТД
+[21:54:17] Хангстер: Бля
+[21:54:20] Хангстер: Вырезали чтоли
+[21:54:24] RusLanConnection killed BeKaBoss using wep_aboot_jmod_annabelle
+[21:54:26] Хангстер: Что можно лопатой добывать воду...
+[21:54:30] Хангстер: Ну лаааан
+[21:55:20] василий каратаев: ДА ДА
+[21:55:37] Хангстер: Неудобный тут физган
+[21:55:44] Хангстер: Водичк
+[21:55:49] василий каратаев: У НАС ЕСТЬ ТАНК ТАК ЧТО ЕСЛИ ЧТО
+[21:55:50] Хангстер: Погнали за энергией
+[21:55:59] Dropped "Ксилан" from server<STEAM_0:0:549369149>
+[21:56:06] василий каратаев: ГРУСТНО
+[21:56:12] Хангстер: Стой
+[21:56:47] Client "Ксилан" connected.
+[21:57:15] Client "Ксилан" spawned in server <STEAM_0:0:549369149> (took 28 seconds).
+[21:57:37] Хангстер: А да
+[21:57:40] Ксилан: У меня игра нахуй крашнулась
+[21:57:53] василий каратаев: ЭЭЭ НЫГА ЧО СТЕНЫ ДЫРЯВЫЕ
+[21:57:54] Хангстер: /p Алё
+[21:58:05] (TEAM) soulchill: /p але але
+[21:58:07] Хангстер: О
+[21:58:09] Хангстер: РАБОТААЕТ
+[21:58:18] soulchill: /p ну всо крутые теперь
+[21:58:22] Хангстер: отойди куда нибудь и скажи чёнибудь
+[21:58:29] Ксилан: ПО МНЕ СТРЕЛЬБА ЕБАШИТ
+[21:58:34] RusLanConnection killed BeKaBoss using wep_aboot_jmod_annabelle
+[21:58:34] Хангстер: /s алё
+[21:58:37] soulchill: /p пш пш
+[21:58:40] sekta: 1
+[21:58:41] Ксилан: АХУТЬ
+[21:58:42] Хангстер: /p Алооо
+[21:58:46] Хангстер: /p я тебя слышу
+[21:58:50] sekta: 1
+[21:58:55] Хангстер: /p повтори
+[21:58:55] Ксилан: ЕБАТЬ
+[21:58:59] soulchill: /p xt
+[21:59:03] Хангстер: /p приём
+[21:59:05] василий каратаев: НУ НОРМ
+[21:59:06] soulchill: а так слышна
+[21:59:08] Хангстер: О
+[21:59:12] Хангстер: Работает вроде
+[21:59:14] василий каратаев: ИДЫ СЮДЫ
+[21:59:23] Хангстер: Меня слышно было?
+[21:59:25] василий каратаев: СДЕЛАЙ СЕБЕ СРЕДНИЮ МЕДИУМ БРОНЮ
+[21:59:28] Хангстер: Я тебя слышал
+[21:59:30] sekta: 1
+[21:59:32] Yaroslav_101: да
+[21:59:34] Хангстер: нет
+[21:59:35] sekta: g
+[21:59:37] Хангстер: просто чат видел
+[21:59:51] василий каратаев: А
+[21:59:52] sekta: df
+[21:59:55] sekta: ufsdf
+[21:59:56] василий каратаев: ЧТО
+[21:59:59] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:00:04] Хангстер: пагади
+[22:00:07] Хангстер: алё?
+[22:00:09] (TEAM) Ксилан: /S где я нахуй
+[22:00:13] Хангстер: хм
+[22:00:14] Ксилан: /s ГДЕ Я
+[22:00:18] Хангстер: а как оно работает вообще
+[22:00:22] Хангстер: пошли спросим кароче
+[22:00:31] Yaroslav_101: приём
+[22:00:32] RusLanConnection: МЫ ЗДЕСЬ
+[22:00:34] RusLanConnection: ПРИЕМ
+[22:00:38] Хангстер: Я ахуею
+[22:00:51] василий каратаев: БУДЕТ ТРИ НА КАЖДОГО 
+[22:00:57] Хангстер: Вижу чела
+[22:00:58] RusLanConnection: ПРИЕМ
+[22:01:00] василий каратаев: ЭКОНОМИМ ПАТРОНЫ НА ТАНКЕ ЕСЛИ ЧТО
+[22:01:05] Хангстер: Вспереди был
+[22:01:05] RusLanConnection: ПРИЕМ
+[22:01:07] Хангстер: Не шелести особо
+[22:01:21] василий каратаев: А ГДЕ ОН
+[22:01:39] Хангстер: ЕБАААТЬ
+[22:01:55] Rackman was killed by ent_rus_spawnbase
+[22:01:58] василий каратаев: СМАРИ
+[22:02:00] василий каратаев: ЭТО ПАТРОНЫ
+[22:02:02] Хангстер: Здарова
+[22:02:03] василий каратаев: НА ТАНК
+[22:02:06] Хангстер: Да
+[22:02:06] василий каратаев: И НА ГРАНАТОМЕТЫ РУЧНЕ
+[22:02:12] Хангстер: Мы скрафтили наушники
+[22:02:18] Хангстер: Мы не ебём как базарить по радио
+[22:02:21] Хангстер: Мы вас не слышали
+[22:02:38] Хангстер: О как
+[22:02:46] BeKaBoss: /s где вы?
+[22:02:53] Хангстер: Ну понятно
+[22:02:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[22:03:11] василий каратаев: НУ НЫГА
+[22:03:14] василий каратаев: ДА ПОФЕГ
+[22:03:15] Хангстер: Пинисом хлюпает
+[22:03:16] Sandw1ch: ныгааа
+[22:03:24] василий каратаев: ТАК
+[22:03:27] василий каратаев: ЧО ДЕЛАЕМ
+[22:03:32] василий каратаев: ВАШИ ИДЕИ
+[22:03:41] василий каратаев: А НАМ НУЖНО ПВО ЩАС
+[22:03:55] Хангстер: Пойдём?
+[22:03:56] Yaroslav_101 killed RusLanConnection using wep_jack_gmod_ezshovel
+[22:04:07] василий каратаев: БЕКСПЕЙС
+[22:04:10] Хангстер: Да ничего
+[22:04:25] Хангстер: Кашель?
+[22:04:30] Хангстер: ЕБАНУЦА
+[22:04:32] Хангстер: заразился
+[22:04:34] василий каратаев: А
+[22:04:42] Хангстер: Хилить надо просто
+[22:04:45] василий каратаев: В СУБОТУ
+[22:04:55] Dropped "Ксилан" from server<STEAM_0:0:549369149>
+[22:05:10] василий каратаев: СЕНДВИК
+[22:05:13] василий каратаев: СИДИ ПОКА ТУТ
+[22:05:17] василий каратаев: У ТЕБЯ НАУШНИК ЕСТЬ
+[22:05:18] василий каратаев: ?
+[22:05:30] василий каратаев: СКРАФТИ СЕБЕ 
+[22:05:31] Хангстер: БЛЯТЬ
+[22:05:34] Хангстер: Я ЗАРАЗИЛСЯ
+[22:05:39] Хангстер: НЕ ПОДХОДИ
+[22:05:42] Хангстер: Уходи соул
+[22:05:48] василий каратаев: Я ПОЕДУ К ДРУЗЬЯМ
+[22:05:55] Sandw1ch: test
+[22:05:58] василий каратаев: НАЙДИ
+[22:06:02] василий каратаев: В ИНВЕНТАРЕ
+[22:06:03] RusLanConnection: прием
+[22:06:05] василий каратаев: НАШНКИ
+[22:06:07] василий каратаев: ПКМ ПО НИМ
+[22:06:07] Хангстер: Алё
+[22:06:09] василий каратаев: ТОГЛЕ
+[22:06:14] Sandw1ch: test
+[22:06:15] RusLanConnection: Невероятно
+[22:06:19] RusLanConnection: мы наладили связь
+[22:06:22] василий каратаев: АЛЕ
+[22:06:25] Хангстер: Крутяк
+[22:06:26] Sandw1ch: test
+[22:06:29] Sandw1ch: /s test
+[22:06:31] Sandw1ch: /p test
+[22:06:33] Хангстер: ХАВАЙТЕ
+[22:06:37] Хангстер: Алё алё
+[22:06:48] Хангстер: Оно лечит
+[22:06:52] RusLanConnection: Если вы заражены, то ешьте много еды
+[22:06:54] RusLanConnection: отбой
+[22:06:57] Хангстер: Уже хаваем
+[22:07:07] Хангстер: Оно бустит имунитет
+[22:07:07] Sandw1ch: test
+[22:07:10] Sandw1ch: cyka!
+[22:07:42] василий каратаев: НЫГА
+[22:07:46] василий каратаев: ГЛАВНОГО СРОНЧО
+[22:07:58] василий каратаев: КАК У ВАС ДЕЛА
+[22:08:36] василий каратаев: ЭТО
+[22:08:39] василий каратаев: НЕ ОБРАЩАЙ
+[22:08:40] василий каратаев: ВНИМАНИЕ
+[22:08:46] василий каратаев: НЕ ОБРАЩАЙ
+[22:08:53] василий каратаев: ОНА НА ГАЗУ
+[22:08:55] василий каратаев: ПРОСТО
+[22:08:59] василий каратаев: ГАЗ
+[22:09:00] василий каратаев: ЖЕ
+[22:09:02] василий каратаев: НАЗЫВАЕТСЯ
+[22:09:06] василий каратаев: НУ ГЛАВНОГО
+[22:09:11] Dropped "BeKaBoss" from server<STEAM_0:0:221780420>
+[22:09:12] Хангстер: Бери и пкм
+[22:09:13] василий каратаев: НУ У МЕНЯ
+[22:09:16] василий каратаев: ГАЗ МАКС
+[22:09:16] Хангстер: Оно тебя хилить буедт
+[22:09:46] василий каратаев: ЧО ЗА НИГАМУУУВЫ
+[22:09:56] василий каратаев: НАМ НУЖЕН ТАНКИСТ
+[22:10:01] василий каратаев: ЗАПЛАЧУ
+[22:10:03] василий каратаев: 20000
+[22:10:46] василий каратаев: НАША ФРАКЦИЯ ВСЕ МЕЛЬЧАЕТ
+[22:10:50] василий каратаев: АЛЬЯНС
+[22:10:51] василий каратаев: НУЖЕН
+[22:11:07] василий каратаев: ТАК
+[22:11:08] василий каратаев: ЛАДНО
+[22:11:10] василий каратаев: БЕЗ АЛЬЯНСА
+[22:11:11] Хангстер: Бля
+[22:11:12] василий каратаев: ПРОСТО
+[22:11:13] Хангстер: Чё делаать
+[22:11:22] василий каратаев: НЕНАДА НАМ ШУМА ЛИШНЕГО В ГЛОБАЛ ЧАТЕ
+[22:11:50] василий каратаев: БЕНЗОПИЛЫ
+[22:11:55] василий каратаев: ОБСТРЕЛИВАЮТ ГАЗЛМ
+[22:12:03] василий каратаев: НУЖНО ПОКОНЧИТЬ С НИМИ
+[22:12:48] василий каратаев: СИДИ ТУТ
+[22:12:50] василий каратаев: ТУРЕЛИ ТАМ
+[22:13:02] Хангстер: Дай
+[22:13:24] василий каратаев: ТАК
+[22:13:29] василий каратаев: АВАНСОМ ПЕРЕВЕДУ 10
+[22:13:30] Хангстер: норм
+[22:13:36] василий каратаев: ТАК
+[22:13:38] василий каратаев: А ТЕПЕРЬТ
+[22:13:52] василий каратаев: ТАК ПОЖДИ СЕК
+[22:13:55] василий каратаев: И ПОЕДЕМ
+[22:14:11] sekta killed sekta
+[22:14:15] Хангстер: Сгоняй заряди насос
+[22:15:00] василий каратаев: НЕТ ПОКА
+[22:15:02] василий каратаев: БУДЕМ
+[22:15:03] василий каратаев: ДЕЛАТЬ ПРИКОЛ
+[22:15:05] василий каратаев: ЩАС
+[22:15:37] василий каратаев: А ЧО СНИМ
+[22:16:15] Хангстер: Тут нефть
+[22:16:16] Хангстер: Урооо
+[22:16:16] василий каратаев: ТАК
+[22:16:19] василий каратаев: ЕСТЬ БЕК ПАК?
+[22:16:20] Хангстер: Пойдём за насосом
+[22:16:26] Хангстер: Не этот
+[22:16:31] Хангстер: За тем
+[22:16:33] Хангстер: Новым
+[22:16:37] василий каратаев: ТЫ ТОЖЕ?
+[22:16:38] Chupacabr killed Chupacabr
+[22:16:41] василий каратаев: НУ ЕМЕА
+[22:16:51] Dropped "Sandw1ch" from server<STEAM_0:0:560544701>
+[22:16:55] Хангстер: А ща
+[22:16:57] Хангстер: Энергию
+[22:17:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[22:17:12] Хангстер: ебать
+[22:17:14] Хангстер: стали 0
+[22:17:17] василий каратаев: НАВЕРНОЕ КУДАТО ПЕРЕЙДУ
+[22:17:21] Dropped "Wheatley" from server<STEAM_0:0:155354605>
+[22:17:34] Хангстер: Да
+[22:17:38] василий каратаев: НУЖЕН ЕЩО ОДИН
+[22:17:41] василий каратаев: УПРАВЛЯТОР
+[22:17:42] василий каратаев: ТАНКОМ
+[22:17:43] sekta killed sekta
+[22:17:44] RusLanConnection: прием
+[22:17:48] Хангстер: Затупил
+[22:17:49] василий каратаев: ДА
+[22:17:50] василий каратаев: ТРИ
+[22:17:54] василий каратаев: КАРОЧЕ
+[22:17:54] Client "Wheatley" connected.
+[22:17:56] василий каратаев: ДАВАЙ
+[22:17:58] Хангстер: НАМ ПИШУТ
+[22:18:04] Rackman was killed by ent_jack_gmod_ezfalloutparticle
+[22:18:10] Хангстер: Приём?
+[22:18:22] Client "Wheatley" spawned in server <STEAM_0:0:155354605> (took 28 seconds).
+[22:18:25] RusLanConnection: мне казалось вы что-то говорили
+[22:18:34] Хангстер: Наверное случайно
+[22:18:39] Wheatley: ТП
+[22:18:40] Redoket: /s прием
+[22:18:40] RusLanConnection: отбой
+[22:18:44] Хангстер: Отбой
+[22:18:46] василий каратаев: ТАК
+[22:18:49] василий каратаев: ЛАДНО
+[22:18:55] василий каратаев: СТОЙ ТУТ
+[22:18:59] василий каратаев: Я ПРИЕДУ ЗА ТРЕТИМ
+[22:19:03] Wheatley: /s тп
+[22:19:26] Хангстер: Бля
+[22:19:36] Хангстер: Ага
+[22:19:51] василий каратаев: СТОЙ
+[22:20:03] василий каратаев: НЕ ОН НУЖЕН
+[22:20:21] василий каратаев: МОЖЕТ ИХ В ИНВЕНТАРЕ ВРУБИТЬ НУДНО?
+[22:20:22] RusLanConnection brought Wheatley
+[22:20:28] василий каратаев: ИЛИ ЗАРЯДИТЬ
+[22:20:30] Хангстер: Так
+[22:20:31] Хангстер: Чё щас
+[22:20:46] Хангстер: Перегонку нефти нужно
+[22:20:48] Хангстер: Сделать
+[22:20:51] Хангстер: 300 стали надо
+[22:20:53] Хангстер: пистец
+[22:21:00] Хангстер: А ну
+[22:21:04] Client "Byzmas" connected.
+[22:21:22] sekta killed Rackman using ent_jack_gmod_ezfalloutparticle
+[22:21:34] sekta suicided!
+[22:21:38] Client "Byzmas" spawned in server <STEAM_0:1:618504163> (took 34 seconds).
+[22:22:05] василий каратаев: ЕЩЕ ОДИН НАЁМНИК НУЖЕН
+[22:22:08] Redoket: "supply radio: help"
+[22:22:09] василий каратаев: ПОЗАРЕЗ
+[22:22:15] Хангстер: Бизмас вернулся
+[22:22:52] василий каратаев: СКИНУЛ ВАМ ПОСЛЕДНИЕ
+[22:22:54] василий каратаев: ПОШЛИТЕ
+[22:23:15] василий каратаев: НЕТ
+[22:23:29] василий каратаев: НУЖНЫ НАЁМНИКИ
+[22:23:34] василий каратаев: ТАНКИСТЫ
+[22:23:36] василий каратаев: ДА
+[22:24:02] василий каратаев: ТАК
+[22:24:05] василий каратаев: НЕТ
+[22:24:11] василий каратаев: ПОМНИТЕ МАШИНУ С ГАЗОМ
+[22:24:15] василий каратаев: Я НА НЕЙ ПОЕДУ
+[22:24:20] василий каратаев: В ЦЕНТР БАЗЫ
+[22:24:32] василий каратаев: В ТАНКЕ
+[22:24:33] Хангстер: Здарова
+[22:24:36] василий каратаев: СИСТЕМА ФИЛТРОВ
+[22:24:42] василий каратаев: ТАК
+[22:24:45] василий каратаев: ВОЗЬМИТЕ
+[22:24:46] василий каратаев: ЩАС
+[22:24:55] василий каратаев: МОЖЕТЕ КРАФТИТ
+[22:25:04] василий каратаев: ЩАС
+[22:25:08] василий каратаев: СНАРЯДЫ ДЛЯ ТАНКА
+[22:25:25] Хангстер: Пусть гоняет
+[22:25:29] василий каратаев: ВОЗЬМИТЕ П О КАРМАНАМ
+[22:25:34] Хангстер: Я за нефтью
+[22:25:56] sekta killed sekta
+[22:26:01] василий каратаев: ЛАДНО
+[22:26:06] Хангстер: Здарова
+[22:26:12] Хангстер: Да
+[22:26:45] Rackman: supply radio: sentry
+[22:26:53] Хангстер: Есть такое
+[22:26:53] василий каратаев: ТАК
+[22:26:55] Хангстер: Нубасосы
+[22:26:56] василий каратаев: АЩС
+[22:27:05] Хангстер: Живём как можем
+[22:27:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[22:27:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[22:27:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[22:27:13] василий каратаев: ПОЕХАЛИ
+[22:27:17] василий каратаев: ЗАХОДИТЕ ТАНКИ
+[22:27:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[22:27:32] Хангстер: Пон
+[22:27:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[22:27:40] Хангстер: Это видел
+[22:27:46] василий каратаев: ЗАГУЛШИТЕ
+[22:27:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_sorter
+[22:27:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[22:28:01] василий каратаев: ПОЖДИТЕ СЕК
+[22:28:05] василий каратаев: Я КАМИКАДЩЗЕ МАШИНУ
+[22:28:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowerbank
+[22:28:11] василий каратаев: ЗАПРАВЛЮ
+[22:28:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_gmod_ezpowerline
+[22:28:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_gmod_ezpowerline
+[22:28:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_gmod_ezpowerline
+[22:28:26] Хангстер: Поняли
+[22:28:50] Хангстер: Поняли кароче
+[22:29:00] василий каратаев: СЕК
+[22:29:01] василий каратаев: СЕК
+[22:29:02] Хангстер: Это да
+[22:29:12] Хангстер: Она же вылетает при добыче
+[22:29:12] василий каратаев: ЗА МНОЙ
+[22:29:16] Хангстер: Просто поставить вблизи
+[22:29:17] василий каратаев: ПОЕДИТЕ
+[22:29:17] Хангстер: и усё
+[22:29:18] василий каратаев: УВИДИТЕ
+[22:29:28] василий каратаев: ВЫ В ТАНКАХ
+[22:29:50] василий каратаев: ЗА МНОЙ
+[22:30:12] Хангстер: Стали немааа
+[22:30:14] Хангстер: бля
+[22:31:10] Хангстер: Норм
+[22:31:26] василий каратаев killed sekta using lvs_wheeldrive_gazm1
+[22:32:11] Wheatley killed sekta using lvs_renaultft_m
+[22:32:18] Хангстер: Пкм по предметам
+[22:32:22] Хангстер: Которые хочешь разобрать
+[22:32:41] Redoket killed Rackman using lvs_renaultft_m
+[22:32:53] василий каратаев: ПОЛУЧАЙТЕ ГАВНО
+[22:33:21] Redoket killed василий каратаев using lvs_renaultft_m
+[22:33:23] василий каратаев: ЗАЕХЖАЙТЕ КТО НИТ
+[22:33:30] Redoket killed Chupacabr using lvs_renaultft_m
+[22:33:31] Yaroslav_101 killed Rackman using lvs_renaultft_m
+[22:33:45] Rackman suicided!
+[22:34:01] Rackman suicided!
+[22:34:07] Хангстер: Отрабатывают кого-т
+[22:34:10] Rackman suicided!
+[22:34:19] Rackman suicided!
+[22:34:22] Wheatley was killed by ent_jack_gmod_ezminirocket
+[22:34:23] Yaroslav_101 was killed by ent_jack_gmod_ezminirocket
+[22:34:31] Rackman suicided!
+[22:34:35] Yaroslav_101 suicided!
+[22:34:37] Хангстер: джекпот
+[22:34:39] Rackman suicided!
+[22:34:41] василий каратаев: РУСЛАН
+[22:34:44] василий каратаев: ПОДДЕРЖАТЬ
+[22:34:45] василий каратаев: ТАНКИ
+[22:34:47] Rackman suicided!
+[22:34:50] василий каратаев: НУЖНО ПОДЪЕХАТЬ
+[22:34:53] василий каратаев: ТУПЛИВО
+[22:35:18] Rackman suicided!
+[22:35:33] василий каратаев: СКОЛЬКО НАШИХ ОСТАЛОСЬг
+[22:35:37] василий каратаев: ТАНКОВ
+[22:35:39] Rackman suicided!
+[22:35:55] василий каратаев: А
+[22:35:57] Dropped "Byzmas" from server<STEAM_0:1:618504163>
+[22:35:58] Rackman suicided!
+[22:36:00] василий каратаев: ЧЕГО 
+[22:36:21] Rackman suicided!
+[22:36:26] василий каратаев was killed by ent_jack_gmod_ezsentry
+[22:36:38] Хангстер: а
+[22:36:41] Хангстер: уже достаточно
+[22:36:42] Rackman suicided!
+[22:36:44] Хангстер: уже косарь
+[22:36:54] Rackman suicided!
+[22:37:14] Rackman suicided!
+[22:38:23] Хангстер: а ща
+[22:38:33] Chupacabr: разобрали
+[22:38:52] Хангстер: он медленно разрежается
+[22:38:54] Хангстер: так что норм
+[22:39:31] василий каратаев: ОНИ ЩАС НИЩИЕ
+[22:39:33] василий каратаев: 3 ТРАНКА
+[22:39:38] василий каратаев: НЕТ
+[22:39:41] василий каратаев: Я СКРАФТИЛ
+[22:39:51] василий каратаев: ЗАЧЕМ
+[22:39:55] василий каратаев: НУ
+[22:41:03] Хангстер: Норм
+[22:41:08] василий каратаев: НЕТ
+[22:41:11] василий каратаев: ИХ ТРИ НЕ ВЗЯЛИ
+[22:41:11] Хангстер: По факту должна
+[22:41:15] василий каратаев: ЛИБО 
+[22:41:18] Chupacabr killed Rackman using player
+[22:41:19] василий каратаев: ТАНКИСТЫ НИГА НУБЫ
+[22:41:19] Хангстер: мы не должны генераторы трогать
+[22:41:20] Хангстер: прост
+[22:41:22] Хангстер: наверн
+[22:41:27] василий каратаев: КТО ТО ИЗ ТАНКИСТОВ МЕНЯ УБИЛ
+[22:41:27] Хангстер: ща
+[22:41:33] василий каратаев: ЭПИК
+[22:41:36] василий каратаев: ДА
+[22:41:37] Хангстер: Во
+[22:41:37] василий каратаев: ДА
+[22:41:40] Хангстер: Сразу в это
+[22:41:41] Хангстер: пошло
+[22:42:10] василий каратаев: НУЖНА РАЗВЕДКА
+[22:42:48] василий каратаев: ТРИ ТЫЩИ ФУЕЛА
+[22:42:49] василий каратаев: АЛЕ
+[22:44:13] василий каратаев: У ВАС УРАН???
+[22:45:00] Хангстер: похуй
+[22:45:04] Хангстер: пусть воляеться
+[22:46:31] василий каратаев: ЧТОБЫ ТАНКИ ЛЕТАЛИ
+[22:46:55] Chupacabr: supply radio: fulton-crate
+[22:47:08] василий каратаев: Я МОГУ
+[22:47:12] василий каратаев: РАКЕТЫ НАВОДИТЬ
+[22:47:34] василий каратаев: НА ТАНК ИЛИ НА ГРУЗОВИК?
+[22:49:06] василий каратаев: НА ТАНК7
+[22:49:13] василий каратаев: ИЛИ В РУЧНУЮ?
+[22:50:52] василий каратаев: НОРМ БУДЕТ
+[22:51:04] василий каратаев: ЗАЧЕМ
+[22:51:05] василий каратаев: Я РАКЕТЧИК
+[22:51:54] василий каратаев: А ЗАЧЕМ СНАРЯДЫ ПО ЧТУЧНО
+[22:52:33] василий каратаев: ВЫ ЗНАЕТЕ ГДЕ ЖИВУТ ОНИ?
+[22:53:16] Хангстер: lf
+[22:53:18] Хангстер: да
+[22:55:25] василий каратаев: У МЕНЯ ТОПЛИВО
+[22:57:00] василий каратаев: НЫГААА ИМ КОНЕЦ
+[22:57:59] василий каратаев: ПОЕХАЛИ
+[22:58:36] василий каратаев:  А ВТОРОЙ ТАНК
+[22:59:02] Хангстер: ?
+[22:59:04] Хангстер: чо
+[22:59:10] Хангстер: можно
+[22:59:20] Хангстер: погна
+[22:59:35] василий каратаев: НЫГА БОМБЫ
+[22:59:50] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[23:00:11] василий каратаев: У КОГО ЕСТЬ БАСИК ПРАТЫ?
+[23:00:32] василий каратаев: СТОЙ ТАМ ЕЩО
+[23:00:40] Хангстер: ебануца
+[23:00:43] Хангстер: Ахуеть
+[23:02:23] василий каратаев: НЫГАААА
+[23:02:27] Хангстер: ЛЕС ГОУУ
+[23:02:31] Хангстер: НИГАС
+[23:02:38] Хангстер: 2
+[23:02:46] Хангстер: пехота
+[23:02:53] Хангстер: есть немного
+[23:02:54] василий каратаев: ЕСТЬ
+[23:04:40] василий каратаев: НЫГА
+[23:04:48] василий каратаев: НЫГА ОНИ ТАМ
+[23:04:54] василий каратаев: СТРЕЛЯЮТ
+[23:04:58] Хангстер: РАКЕТЫ
+[23:05:00] василий каратаев: СТРЯЛЕЮЯЬ
+[23:05:02] Хангстер: РАКЕТЫ ХУЯРЯТ
+[23:05:03] василий каратаев: ТУТ ОНИ
+[23:05:08] василий каратаев: ОНИ ТУТ
+[23:05:10] Хангстер: БЛЯТЬ
+[23:05:39] василий каратаев: войну
+[23:05:40] василий каратаев: ДАВАЙ
+[23:06:20] Rackman killed Chupacabr using ent_jack_gmod_ezatmine
+[23:06:21] sekta was killed by ent_jack_gmod_eznapalm
+[23:06:33] Chupacabr was killed by entityflame
+[23:06:50] Rackman killed Chupacabr using ent_jack_gmod_ezboundingmine
+[23:07:01] Rackman killed Chupacabr using wep_jack_gmod_mrl
+[23:07:22] sekta was killed by ent_jack_gmod_ezminirocket
+[23:07:55] soulchill killed Chupacabr using wep_jack_gmod_pas
+[23:09:24] Wheatley killed Rackman using lvs_renaultft_m
+[23:09:33] sekta was killed by ent_jack_gmod_ezminirocket
+[23:10:16] василий каратаев: НЫГАААА
+[23:10:35] василий каратаев: МИНЫ ТУРЕЛИ
+[23:10:56] soulchill killed Rackman using wep_jack_gmod_pas
+[23:10:58] василий каратаев: НЫГАА ВОТ ВАМ ЗА ДЕТЕЙ ЗАДУШЕНЫХ ГАЗОМ
+[23:11:30] василий каратаев: МЕДИК
+[23:11:37] василий каратаев killed Rackman using wep_jack_gmod_dmr
+[23:11:46] василий каратаев: МЕДИК
+[23:11:53] василий каратаев: МЕДИК
+[23:12:01] Redoket killed Redoket
+[23:12:02] василий каратаев: МЕНЯ
+[23:12:09] василий каратаев: МЕНЯ
+[23:12:09] василий каратаев killed василий каратаев
+[23:12:47] RusLanConnection killed RusLanConnection
+[23:12:51] Хангстер was killed by ent_jack_gmod_ezfalloutparticle
+[23:13:03] Dropped "Yaroslav_101" from server<STEAM_0:0:512387579>
+[23:13:15] Chupacabr killed Redoket using wep_jack_gmod_ezpickaxe
+[23:13:25] василий каратаев was killed by ent_jack_gmod_ezfalloutparticle
+[23:13:50] Rackman killed Chupacabr using lvs_renaultft_m
+[23:13:56] Rackman killed Хангстер using lvs_renaultft_m
+[23:15:04] soulchill killed soulchill
+[23:15:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[23:16:00] Wheatley killed Chupacabr using wep_jack_gmod_assaultrifle
+[23:17:01] василий каратаев: НЫАГААА
+[23:17:03] василий каратаев: НУ ЧО ЧО
+[23:17:10] василий каратаев: Я ПРЯМ КОЛДУН ПРЕДКСКАЗЫВАТЕЛЬ
+[23:17:18] Wheatley killed Chupacabr using wep_jack_gmod_assaultrifle
+[23:17:28] василий каратаев killed sekta using wep_jack_gmod_hands
+[23:17:32] василий каратаев: НИГААА
+[23:18:00] василий каратаев: РАУНД
+[23:18:30] василий каратаев: НЫГААА
+[23:19:23] василий каратаев: НЫГА КАК ВАМ ГАЗОВЫЙ КАМИКАДЗЕ
+[23:19:32] василий каратаев: НУ ЗАДАВИЛ ОДНОГО
+[23:20:32] василий каратаев: ЗАПИС
+[23:20:37] василий каратаев: ЗАПИС
+[23:21:27] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[23:21:49] василий каратаев: У ВАС МЕНЮ
+[23:21:52] Rackman suicided!
+[23:21:54] василий каратаев: СТОЙ
+[23:21:57] василий каратаев: ДАЙ АДМИН
+[23:22:05] василий каратаев: А ЕЩО РУСЛАН
+[23:22:18] RusLanConnection brought Rackman,Redoket,sekta,soulchill,Хангстер,василий каратаев
+[23:22:47] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[23:23:07] Wheatley suicided!
+[23:23:44] Wheatley killed василий каратаев using wep_jack_gmod_hands
+[23:23:56] Wheatley killed Redoket using wep_jack_gmod_hands
+[23:24:26] василий каратаев suicided!
+[23:24:32] василий каратаев suicided!
+[23:24:38] василий каратаев suicided!
+[23:24:56] Dropped "Wheatley" from server<STEAM_0:0:155354605>
+[23:25:01] василий каратаев: РУСЛАН ДАЙ АДМИНК
+[23:25:06] василий каратаев: НА ПЯТЬ СЕК
+[23:25:17] RusLanConnection added василий каратаев to group superadmin
+[23:25:37] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[23:25:40] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[23:25:42] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:45] василий каратаев suicided!
+[23:25:49] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:49] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:50] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:50] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:50] Хангстер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:53] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:53] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:53] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:53] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:54] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:54] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:54] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:54] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:54] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:54] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:54] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:54] василий каратаев<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[23:25:54] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:54] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:55] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:55] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:55] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:55] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:55] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:55] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:56] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:56] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:56] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:56] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:56] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:56] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:57] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:57] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:57] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:57] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:57] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:57] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:25:57] soulchill: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:26:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[23:26:10] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedsupplies
+[23:26:11] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedsupplies
+[23:26:11] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedsupplies
+[23:26:11] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedsupplies
+[23:26:27] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[23:26:33] василий каратаев suicided!
+[23:27:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_sleepingbag
+[23:36:17] Dropped "sekta" from server<STEAM_0:0:57939554>
+[23:46:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[23:46:08] василий каратаев<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[23:46:09] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[23:46:17] василий каратаев suicided!
+[23:52:03] Хангстер killed soulchill using wep_jack_gmod_hands
+[23:52:23] Dropped "Хангстер" from server<STEAM_0:1:627751186>
+[23:58:32] Dropped "soulchill" from server<STEAM_0:0:582963944>
+<Logging continued in "data/ulx_logs/10-04-24.txt">

@@ -1,0 +1,454 @@
+<Logging continued from "data/ulx_logs/01-31-25.txt">
+[01:43:37] Client "бугагашенька" connected.
+[01:44:13] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 36 seconds).
+[01:56:19] бугагашенька: supply radio: gas
+[01:56:34] бугагашенька: supply radio: gas
+[02:17:59] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[02:17:59] бугагашенька suicided!
+[02:39:43] Client "LonePlayer022" connected.
+[02:40:39] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 56 seconds).
+[02:41:57] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[02:41:57] LonePlayer022 suicided!
+[03:16:33] Client "ihor.pt.ll" connected.
+[03:17:47] Client "DustBoomer1" connected.
+[03:18:20] Client "ihor.pt.ll" spawned in server <STEAM_0:0:713076878> (took 107 seconds).
+[03:19:23] ihor.pt.ll: `
+[03:49:51] Client "Soldier_S.C.A.F" connected.
+[03:57:30] Dropped "ihor.pt.ll" from server<STEAM_0:0:713076878>
+[03:57:30] ihor.pt.ll suicided!
+[04:02:15] Client "vasiliy karat" connected.
+[04:03:33] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 78 seconds).
+[04:04:13] vasiliy karat: !menu
+[04:04:19] vasiliy karat changed the map to gm_sro
+[04:04:19] Server is shutting down/changing levels.
+
+
+
+[04:04:31] New map: gm_sro
+[04:05:03] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 37 seconds).
+[04:07:52] Client "Jr_byba" connected.
+[04:08:51] Client "Шайтан" connected.
+[04:09:38] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 47 seconds).
+[04:09:58] Client "Дуралей" connected.
+[04:10:07] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[04:10:07] Шайтан suicided!
+[04:10:43] Client "Шайтан" connected.
+[04:11:06] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 23 seconds).
+[04:12:01] Client "Jr_byba" connected.
+[04:12:49] vasiliy karat suicided!
+[04:13:05] Шайтан: ура ты тут
+[04:13:08] Шайтан: да бля
+[04:13:25] Шайтан: может кста поиграть в фпс шес
+[04:13:31] Шайтан: помнишь такую?
+[04:13:40] vasiliy karat: ЧТО ЭТО ТАКОЕ
+[04:13:45] Шайтан: бля
+[04:13:55] Шайтан: я думал что я с другом общаюсь
+[04:13:58] Шайтан: сори
+[04:20:11] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[04:20:11] Шайтан suicided!
+[04:29:54] vasiliy karat: supply radio: fulton-crate
+[04:35:54] Client "Шайтан" connected.
+[04:36:37] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 43 seconds).
+[04:40:24] Шайтан: ты не против если я буду заниматся агрономикой
+[04:40:47] vasiliy karat: НЕПРОТИВ НО С НОВЫМ ОБНОВЛЕНИЕМ ДЖИМОДА СТАЛО НЕМНОГО НЕУДОБНЕЕ
+[04:41:00] Шайтан: что не удобно?
+[04:41:10] vasiliy karat: ТЫ ЧТО ХОЧЕШЬ РАСТИТЬ И САЖАТЬ
+[04:41:15] Шайтан: да
+[04:41:27] vasiliy karat: НЕ Я ПРО ТО ЧТО КОНКРЕТНО САЖАТЬ БУДЕШЬ
+[04:41:29] vasiliy karat: ЖЕЛУДИ
+[04:41:30] Шайтан: и я узнал что кукуруза не растет
+[04:41:41] Шайтан: а просто пропадает
+[04:42:02] Шайтан: я буду выращивать просто органику и продаватьдорогую ткань
+[04:42:25] vasiliy karat: Я ПРО ТО ЧТО ЖЕЛУДИ И ЯБЛОКИ ОБ СТОЛ НЕ РАЗБИРАЮТСЯ НЕПОНЯТНО ЗАЧЕМ
+[04:42:28] vasiliy karat: ТАК СДЕЛАЛИ
+[04:43:15] Шайтан: я за машиной
+[04:47:06] Шайтан: а нихуя удобно
+[04:47:49] Шайтан: давай я зделаю точку для энергии
+[04:47:58] Шайтан: ну там где энергия вырабатывается
+[04:48:02] vasiliy karat: ХОРОШО
+[04:48:05] Шайтан: ща
+[04:48:20] Шайтан: пойди за мной отметить источник воды
+[04:48:27] vasiliy karat: СЕК
+[04:48:27] Шайтан: с помошью билд
+[04:48:31] Шайтан: а сам крч
+[04:49:02] Шайтан: ой
+[04:49:04] Шайтан: во
+[04:49:09] Шайтан: тут вода
+[04:50:22] Шайтан: а че с билдом стало?
+[04:50:30] vasiliy karat: А ТЫ ЧТО ТАМ СТРОИЛ
+[04:50:36] Шайтан: потметил
+[04:50:37] vasiliy karat: ЧТО ЛОМАЛОСЬ
+[04:50:39] vasiliy karat: ТО
+[04:50:51] Шайтан: оно не ломается оно не фризится
+[04:51:27] vasiliy karat: ЕСТЬ ПРОКЛЯТЫЕ МЕСТА НА КАРТЕ ГДЕ БИЛД ПОЧЕМУ ТО НЕ РАБОТАЕТ
+[04:53:42] Шайтан: че с пингом?
+[04:54:01] vasiliy karat: НЕЗНАЮ МОЖЕТ ЧЕТО В КОД ДОБАВИЛИ
+[04:54:55] Шайтан: все почти зделал
+[04:55:01] Client "RusLanConnection" connected.
+[04:55:15] vasiliy karat: О Я ПОНЯЛ ЧЕ ДОБАВИЛИ
+[04:55:17] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider_new
+[04:55:19] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider_new
+[04:55:25] Шайтан: что?
+[04:55:49] vasiliy karat: ДА ТАМ ИЗМЕНИЛИ ДАЛЬНОСТЬ ЩАС ПРОВЕРИТЬ
+[04:55:50] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider_new
+[04:55:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[04:56:34] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 93 seconds).
+[04:56:53] vasiliy karat: ТЕПЕРЬ НОРМ
+[04:57:10] RusLanConnection teleported to vasiliy karat
+[04:57:27] vasiliy karat: А МЫ ДУМАЛИ ЧЕ ПРОЛАГАЛО
+[04:57:32] vasiliy karat: СРАЗУ ПОНЯЛ ЧЕ ИЗМЕНИЛИ
+[04:57:40] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[04:57:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider_new
+[04:58:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[04:58:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[04:58:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[04:58:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[04:58:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[04:58:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[04:59:00] vasiliy karat: УРА
+[04:59:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[04:59:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[04:59:43] Шайтан: ПОЧЕМУ В ЯЩИКИ НЕЛЬЗЯ КЛАСТЬ СЕМЕНА А?
+[04:59:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[04:59:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[04:59:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[04:59:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[04:59:55] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[04:59:58] Шайтан: а не моджн
+[04:59:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcornkernals
+[05:00:03] (TEAM) Шайтан: а че не клалось?
+[05:00:11] Шайтан: все
+[05:00:28] Шайтан: норм зделал?
+[05:01:00] vasiliy karat: РУСЛАН ТЫ НЕГР
+[05:01:06] Шайтан: XD
+[05:01:33] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[05:01:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:01:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider_new
+[05:01:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:01:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:02:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:02:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:02:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:02:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterbomb
+[05:02:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterbomb
+[05:02:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterbomb
+[05:02:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterbomb
+[05:02:57] Шайтан: а контейнер поместится сюда?
+[05:02:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterbomb
+[05:03:34] vasiliy karat: ЖЕСТЬ
+[05:03:38] Шайтан: бля верстак пропал
+[05:03:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:03:51] Шайтан: не не помещается
+[05:03:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:04:07] Шайтан: а жаль
+[05:04:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:04:25] vasiliy karat: МОЖЕТ КД ДОБАВИТЬ
+[05:04:50] vasiliy karat: НУ В КОМАНДЕ
+[05:04:52] vasiliy karat: ДЕЙСТВОВАТЬ
+[05:04:55] vasiliy karat: ФИЗГАН
+[05:05:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:05:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:05:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:05:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:05:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[05:05:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[05:05:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:05:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:05:32] vasiliy karat: ТЫ ЖМИ КНОПКУ Я ЗАРЯЖАЮ
+[05:05:39] vasiliy karat: НУ ДА ВОТ ТАКО ВОТ
+[05:05:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[05:06:27] vasiliy karat: НУ ВСЕ
+[05:06:32] vasiliy karat: НЕ КРАСИВО НЕ БУДЕМ
+[05:06:43] Шайтан: а если панел с панелью подключить чет будет?
+[05:06:55] vasiliy karat: НИКОГДА ТАК НЕДЕЛАЛ
+[05:06:59] vasiliy karat: ПОСМОТРИ
+[05:07:11] Шайтан: ну просто длины не хватает вот и зделал
+[05:07:18] vasiliy karat: ИНТЕРЕСНО
+[05:07:25] vasiliy karat: А ТЫ ИЗ ПОВЕРБАНКА БЕРИ
+[05:08:01] Шайтан: если из повера подключать то он просто 1 энегию выбрасывает
+[05:08:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:08:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:08:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:08:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:08:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:08:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:08:18] Шайтан: вооооот
+[05:08:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:08:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:08:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:08:50] vasiliy karat: ЗАМЕНЯЕТ ЦЕЛУЮ БАТАРЕЮ
+[05:09:34] vasiliy karat: НА ВЕРЕВОЧКУ
+[05:09:36] vasiliy karat: К ПУШКЕ
+[05:10:51] Шайтан: где все люди
+[05:11:06] vasiliy karat: ИГРАЮТ НА КОНКУРЕНТЕ ЛАН РП
+[05:11:10] vasiliy karat: ГЛОБАЛ РП
+[05:11:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[05:11:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[05:11:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[05:11:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[05:11:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[05:12:08] Шайтан: смори че придумал
+[05:12:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_compass
+[05:13:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezchair
+[05:14:11] vasiliy karat: ВОЗЬМИ
+[05:14:12] Шайтан: Э БЛЯТЬ
+[05:14:13] vasiliy karat: ВИНТОВКУ
+[05:14:15] Шайтан: ЗАЧЕМ
+[05:14:16] RusLanConnection killed RusLanConnection
+[05:14:17] vasiliy karat: УБЕЙ РУСЛАНА
+[05:14:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:14:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider_new
+[05:14:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:14:51] Шайтан: что эт о за оружие
+[05:14:58] vasiliy karat: У ТЕБЯ ЕРОР?
+[05:15:02] Шайтан: нет
+[05:15:06] vasiliy karat: ВИНТОВКА
+[05:15:08] Шайтан: а говорю че за зенитка
+[05:15:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:15:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:15:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:15:14] Шайтан: ебаныя 
+[05:15:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:15:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:16:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:16:29] vasiliy karat: СДАВАСЯ
+[05:16:30] vasiliy karat: ССТОЙ
+[05:16:34] vasiliy karat: УБЬЮ ГАДА
+[05:16:36] vasiliy karat: ЖЕ
+[05:16:47] vasiliy karat: ПРОПАЛ
+[05:16:49] Шайтан: сука флай
+[05:16:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:17:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:17:19] RusLanConnection was killed by lvs_trailer_schneider_new
+[05:17:19] vasiliy karat: ОСТРОЖНО БОЕВОЙ ХВАТ
+[05:17:21] vasiliy karat: А
+[05:17:25] Шайтан: XD
+[05:17:52] Шайтан: СУЧКА
+[05:18:00] Шайтан: че не дает норм поиграть
+[05:18:20] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:21] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:21] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:21] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:22] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:23] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:23] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:23] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:23] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:24] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:25] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:25] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:25] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:26] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:27] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:27] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:27] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:27] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:28] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:29] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:29] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:30] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:30] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:30] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:31] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:32] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:32] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:32] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:33] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:33] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:33] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:34] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:35] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:36] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:37] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:37] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[05:18:38] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:39] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:39] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:39] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[05:18:40] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:40] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:41] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:41] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:42] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:42] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:42] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[05:18:51] RusLanConnection cloaked Themself by amount 0
+[05:19:08] Шайтан: сука
+[05:19:29] vasiliy karat: НАША БАЗА ЗАХВАЧЕНА ОРДОЙ
+[05:19:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[05:20:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:20:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:20:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:20:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:20:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:20:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:20:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[05:20:28] vasiliy karat was killed by npc_zombie
+[05:20:46] vasiliy karat: НЕЕЕЕЕЕТ
+[05:20:48] vasiliy karat was killed by npc_fastzombie
+[05:21:02] vasiliy karat was killed by npc_fastzombie
+[05:21:16] vasiliy karat was killed by npc_fastzombie
+[05:21:27] vasiliy karat was killed by npc_fastzombie
+[05:21:31] vasiliy karat: supply radio: timebombs
+[05:23:11] Шайтан: да бля заебал
+[05:23:45] vasiliy karat was killed by npc_poisonzombie
+[05:24:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[05:24:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[05:24:46] vasiliy karat to admins: СЕРВЕР CIV13 ИМЕЕТ РАСПИСАНИЕ ИЛИ ВКЛЮЧАЮТ КОГДА ХОТЯТ?
+[05:24:59] Шайтан: дай поиграть еже
+[05:25:15] vasiliy karat: ДА
+[05:25:19] Шайтан: да ну бля
+[05:25:20] vasiliy karat: ИГРАТЬ НАДО КОГДА ЕСТЬ С КЕМ ТО ВОЕВАТЬ МОЖНО
+[05:25:22] vasiliy karat: ЩАС
+[05:25:26] vasiliy karat: ПОКА НЕМНОГО СКУЧО
+[05:25:31] vasiliy karat: РАЗВИВАТЬСЯ ПОТОМ УЙТИ
+[05:25:46] Шайтан: ООО ПОПАЛ
+[05:25:56] Шайтан: не надо
+[05:26:06] Шайтан: ладно
+[05:26:19] Шайтан: я просто завидую
+[05:27:03] Шайтан: а нету больше нпс
+[05:27:05] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[05:27:11] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[05:27:12] Шайтан: ЭТО ЧТО ТАКОЕ?
+[05:27:17] vasiliy karat: ПВО/ПРО
+[05:27:20] Шайтан: ебааа
+[05:27:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:27:22] Шайтан: кста
+[05:27:29] Client "sometimes" connected.
+[05:27:32] vasiliy karat: ЗАЩИЩАЕТ ПРОТИВ ВЕРТОЛЕТОВ И БАЛЕСТИЧЕСКИЙ ЯДЕРНЫХ РАКЕТ
+[05:27:37] Шайтан: а нельзя болше пропов добавить на создание?
+[05:27:41] Шайтан: в тул боксе
+[05:28:12] vasiliy karat: НАДА
+[05:28:13] vasiliy karat: БУНКЕР
+[05:28:15] vasiliy karat: СРОЧНЯКОМ
+[05:28:17] vasiliy karat: ДЕЛАТЬ
+[05:28:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[05:29:04] Шайтан: ты не можешь заспавнить много керамики?
+[05:29:09] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[05:29:10] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[05:29:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[05:29:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[05:30:03] vasiliy karat: ДЕЛАЙ КРЫШУ
+[05:30:10] vasiliy karat: ПРИЛЕТЕТЬ МОЖЕТ В ЛЮБУЮ СЕКУНДУ
+[05:30:26] Шайтан: ЩА
+[05:31:16] RusLanConnection teleported to vasiliy karat
+[05:31:40] vasiliy karat: ОБЛОМ
+[05:32:07] Шайтан: смори
+[05:32:17] RusLanConnection suicided!
+[05:32:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[05:32:34] vasiliy karat: ФУХ
+[05:32:36] Шайтан: ЗАСПАВНИ АПТЕКИ
+[05:32:42] Шайтан: и еду
+[05:32:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznutrients
+[05:32:52] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[05:33:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:33:01] Шайтан: а ты как на пост попал в админы?
+[05:33:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:33:25] Шайтан: заспань скрап
+[05:33:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:33:32] Шайтан: БЫСТРЕЕЕ
+[05:33:35] Шайтан: СКРАП
+[05:33:37] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[05:33:45] RusLanConnection killed RusLanConnection
+[05:33:51] vasiliy karat: Я ВЫЙГРАЛ СПОР
+[05:33:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:33:59] vasiliy karat: ВЫЙГРАЛ РУСЛАНА КОНЕШКЕНА В СФД
+[05:34:16] Шайтан: а че гворзи пропадают
+[05:34:23] vasiliy karat suicided!
+[05:34:23] Шайтан suicided!
+[05:34:37] Шайтан: бункер цел а мы нет
+[05:34:39] vasiliy karat: БУНКЕР НЕ СПАС
+[05:34:43] vasiliy karat: РАНЬШЕ СПАСАЛ
+[05:34:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:34:55] Шайтан: да бля реально вес слоомлось
+[05:34:56] vasiliy karat: ААА ВСКРЫВАЙ
+[05:35:06] Шайтан: не могу нету тул бокса
+[05:35:10] vasiliy karat: ЗАКРЫВАЙ
+[05:35:18] vasiliy karat suicided!
+[05:35:18] Шайтан suicided!
+[05:35:24] Client "sometimes" spawned in server <STEAM_0:0:840908661> (took 475 seconds).
+[05:35:28] RusLanConnection teleported to vasiliy karat
+[05:35:31] Шайтан: да шо це токе
+[05:35:54] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[05:35:55] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[05:35:57] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[05:35:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:36:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:36:17] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthvial
+[05:36:17] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthvial
+[05:36:18] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthvial
+[05:36:18] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthvial
+[05:36:18] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthvial
+[05:36:28] vasiliy karat suicided!
+[05:36:28] Шайтан suicided!
+[05:36:28] RusLanConnection suicided!
+[05:36:34] RusLanConnection teleported to vasiliy karat
+[05:36:43] sometimes was killed by entityflame
+[05:36:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:36:49] Шайтан: бункера не спасают
+[05:36:54] Шайтан: гвозди пропадают
+[05:36:56] vasiliy karat: ЩАС ТО
+[05:37:02] vasiliy karat: НОРМ ПОНЯТНО ПОЧЕМУ ПОМЕРЛИ
+[05:37:09] vasiliy karat: ВСЮ КРЫШУ БУНКЕРА СНЕСЛО И МЫ ЗА НЕЙ
+[05:37:16] vasiliy karat: А ВОТ ПЕРВЫЙ РАЗ
+[05:37:18] vasiliy karat: ТУТ ДА
+[05:37:28] Шайтан: заспавнь машину
+[05:37:36] vasiliy karat: ДА ТАМ НИЧЕГО НЕ ОСТАЛОСЬ
+[05:37:36] Шайтан: я хочу посмотреть на взрыв
+[05:37:43] Шайтан: можно?
+[05:37:44] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodkuebelwagen
+[05:38:17] Шайтан: кста тут можно деревья и скалы тащи физганом
+[05:38:28] Шайтан: знал?
+[05:38:34] vasiliy karat: ДА
+[05:38:57] vasiliy karat: ТАК БЫСТРО УМЕРЛИ ЧТО ДАЖЕ ФИЗИОНОМИИ НЕ УСПЕЛИ ПОМЕНЯТЬСЯ
+[05:39:07] Шайтан: да
+[05:39:10] vasiliy karat: ВСЕ ЕЩЕ ЗЛОЙ ПОСЛЕ СМЕРТИ
+[05:39:10] Шайтан: XD
+[05:39:33] Шайтан: дай физган пожяжя
+[05:39:43] vasiliy karat: ПРОВЕРЯЙ
+[05:39:48] Шайтан: спс
+[05:40:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:41:03] RusLanConnection teleported to vasiliy karat
+[05:41:27] Шайтан: он в ку меню
+[05:41:41] Шайтан: все он кустик
+[05:41:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:42:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:42:18] Шайтан: а можно посмотреть на взрыв
+[05:42:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:42:49] Шайтан: ебаааа
+[05:42:50] vasiliy karat suicided!
+[05:42:50] Шайтан suicided!
+[05:42:50] RusLanConnection suicided!
+[05:42:55] Шайтан: а что всек такое белое
+[05:43:05] sometimes was killed by entityflame
+[05:43:16] RusLanConnection teleported to vasiliy karat
+[05:43:23] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[05:43:23] Шайтан suicided!
+[05:44:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:44:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[05:44:47] sometimes was killed by entityflame
+[05:44:47] RusLanConnection was killed by entityflame
+[05:44:47] vasiliy karat was killed by entityflame
+[05:53:57] RusLanConnection teleported to vasiliy karat
+[05:58:31] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[05:58:31] RusLanConnection suicided!
+[06:08:16] Dropped "sometimes" from server<STEAM_0:0:840908661>
+[06:08:16] sometimes suicided!
+[06:08:41] vasiliy karat: П
+[06:08:44] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[06:08:44] vasiliy karat suicided!
+[07:16:15] Client "бугагашенька" connected.
+[07:16:48] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 33 seconds).
+[07:20:06] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[07:20:06] бугагашенька suicided!
+[23:33:06] Client "Asfaruto17" connected.
+[23:34:07] Client "who" connected.
+[23:34:19] Client "Asfaruto17" spawned in server <STEAM_0:0:443218125> (took 73 seconds).
+[23:35:22] Client "who" spawned in server <STEAM_0:1:850601274> (took 75 seconds).
+[23:44:02] who: supply radio: fulton-crate
+[23:51:21] Client "Soldier_S.C.A.F" connected.
+[23:53:48] Asfaruto17: /me Исполнил партийное приветствие и произнес: Heil Hitler
+[23:55:34] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 253 seconds).
+[23:59:15] Client "Шайтан" connected.
+[23:59:59] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 44 seconds).
+<Logging continued in "data/ulx_logs/02-02-25.txt">

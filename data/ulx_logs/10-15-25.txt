@@ -1,0 +1,204 @@
+[07:46:37] New map: gm_sro
+[08:29:42] Client "." connected.
+[08:31:11] Client "GreenPixel11" connected.
+[08:31:27] Client "0" spawned in server <STEAM_0:0:919352780> (took 105 seconds).
+[08:31:51] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 40 seconds).
+[08:32:47] Client "s1" connected.
+[08:34:04] Client "s1" spawned in server <STEAM_0:0:894767950> (took 77 seconds).
+[08:35:18] GreenPixel11: зай
+[08:35:30] GreenPixel11: привет
+[08:39:20] s1: сори
+[08:39:49] s1: пригласи во фракцию
+[08:40:12] Client "Allkot5" connected.
+[08:40:47] Dropped "s1" from server<STEAM_0:0:894767950>
+[08:40:47] s1 suicided!
+[08:41:09] Client "Allkot5" spawned in server <STEAM_0:0:616036288> (took 57 seconds).
+[08:45:37] Dropped "Allkot5" from server<STEAM_0:0:616036288>
+[08:45:37] Allkot5 suicided!
+[08:58:06] Client "superefem10" connected.
+[09:05:14] Dropped "0" from server<STEAM_0:0:919352780>
+[09:05:14] 0 suicided!
+[09:05:30] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[09:05:30] GreenPixel11 suicided!
+[09:14:38] Client "КРУТЫЕ ПУШКИ" connected.
+[09:16:27] Client "КРУТЫЕ ПУШКИ" spawned in server <STEAM_0:0:31766296> (took 109 seconds).
+[09:18:55] КРУТЫЕ ПУШКИ: !motd
+[09:21:24] КРУТЫЕ ПУШКИ: !motd
+[09:21:43] КРУТЫЕ ПУШКИ: !motd
+[09:22:23] Client "Хитрюга" connected.
+[09:30:52] Client "Хитрюга" spawned in server <STEAM_0:0:566931289> (took 509 seconds).
+[09:33:28] КРУТЫЕ ПУШКИ: !motd
+[09:35:08] (TEAM) КРУТЫЕ ПУШКИ: bind n jmod_ez_inv
+[09:40:46] Dropped "КРУТЫЕ ПУШКИ" from server<STEAM_0:0:31766296>
+[09:40:46] КРУТЫЕ ПУШКИ suicided!
+[09:40:46] Dropped "Хитрюга" from server<STEAM_0:0:566931289>
+[09:40:46] Хитрюга suicided!
+[10:54:12] Client "Redoket" connected.
+[10:55:12] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 60 seconds).
+[10:56:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[10:56:12] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[10:56:18] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezcloth
+[10:56:27] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[10:56:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsteel
+[10:58:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eznukerocket
+[10:58:17] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsmallbomb
+[10:58:45] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbombbay
+[11:06:37] Client "sekta" connected.
+[11:08:14] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 97 seconds).
+[11:10:34] Dropped "sekta" from server<STEAM_0:0:57939554>
+[11:10:34] sekta suicided!
+[11:13:32] Client "sekta" connected.
+[11:14:03] Client "Мёртвый_Анархист" connected.
+[11:14:32] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 60 seconds).
+[11:15:07] Redoket: S
+[11:15:09] Redoket: Ы
+[11:15:17] Client "Мёртвый_Анархист" spawned in server <STEAM_0:0:793300803> (took 74 seconds).
+[11:17:02] Redoket: ТЕФЛЕЙОН РАФШАН
+[11:17:21] Redoket was killed by npc_zombie
+[11:17:24] Redoket: ГАМНАЕД
+[11:17:36] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezthermobaricbomb
+[11:17:50] Redoket: НЕ
+[11:17:53] Redoket: НЕ
+[11:17:59] Redoket: НЕ ИСПОЛЬЗУЙ ТЕРМОБАРИК
+[11:18:03] Redoket: И МИНИ НЮК
+[11:18:06] Redoket: ОНИ БАГАНЫЕ
+[11:18:09] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:18:14] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezhebomb
+[11:18:17] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezhebomb
+[11:18:20] Redoket: ОТ НИХ ЧЕРВАКЕ
+[11:18:22] Redoket: УМИРАТБ
+[11:18:23] sekta killed Redoket using ent_jack_gmod_ezhebomb
+[11:18:40] Redoket: !MENU
+[11:18:51] Redoket froze sekta
+[11:18:58] sekta suicided!
+[11:19:04] Redoket: ЧИТАК
+[11:19:12] Redoket: ЧИТЕР
+[11:19:22] Redoket unfroze sekta
+[11:19:31] Redoket: ЧИ ТАК
+[11:19:38] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:38] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:38] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:38] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:40] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:42] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:42] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:42] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:42] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:42] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:43] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:43] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:43] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:43] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:43] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:19:44] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_eznuke_small
+[11:20:15] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[11:20:15] Redoket suicided!
+[11:20:29] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezstickynade
+[11:20:40] sekta killed Мёртвый_Анархист using ent_jack_gmod_ezstickynade
+[11:21:22] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezheavyrocket
+[11:22:11] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezherocket
+[11:23:46] sekta<STEAM_0:0:57939554> spawned sent lvs_wheeldrive_dodkuebelwagen
+[11:23:52] sekta<STEAM_0:0:57939554> spawned sent lvs_wheeldrive_dodkuebelwagen
+[11:24:58] Мёртвый_Анархист: !motd
+[11:25:27] sekta<STEAM_0:0:57939554> spawned sent prop_ww_flag
+[11:25:31] sekta<STEAM_0:0:57939554> spawned sent prop_ww_door_big
+[11:27:12] sekta killed Мёртвый_Анархист using tfa_doimg42
+[11:27:37] sekta killed Мёртвый_Анархист using tfa_doibren
+[11:32:24] sekta killed Мёртвый_Анархист using tfa_doi_thrownno96
+[11:32:46] sekta suicided!
+[11:32:46] sekta slayed Themself
+[11:36:33] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezgasnade
+[11:36:56] sekta killed Мёртвый_Анархист using env_explosion
+[11:37:21] sekta killed sekta
+[11:38:04] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_mortar
+[11:38:08] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[11:38:59] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:02] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:06] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:10] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:12] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:15] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:18] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:19] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:31] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:35] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:39] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:41] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:44] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:39:47] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:40:02] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:40:04] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:40:06] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:40:08] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:40:08] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:40:09] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:40:09] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:40:09] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezmortarshell
+[11:40:29] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezboundingmine
+[11:40:33] sekta suicided!
+[11:40:34] sekta killed Мёртвый_Анархист using ent_jack_gmod_ezboundingmine
+[11:40:47] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezchlorinebomb
+[11:41:17] sekta<STEAM_0:0:57939554> spawned sent ent_jack_gmod_ezchlorinebomb
+[11:45:43] Dropped "sekta" from server<STEAM_0:0:57939554>
+[11:45:43] sekta suicided!
+[11:45:51] Dropped "Мёртвый_Анархист" from server<STEAM_0:0:793300803>
+[11:45:51] Мёртвый_Анархист suicided!
+[12:04:52] Client "₦Ø₮Ⱨł₦₲₦Ɇ₴₴" connected.
+[12:24:34] Client "₦Ø₮Ⱨł₦₲₦Ɇ₴₴" connected.
+[12:24:56] Client "₦Ø₮Ⱨł₦₲₦Ɇ₴₴" connected.
+[12:25:34] Client "₦Ø₮Ⱨł₦₲₦Ɇ₴₴" connected.
+[13:34:49] Client "phase2phase" connected.
+[14:03:01] Client "maksumkolesnukov022" connected.
+[14:03:38] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 37 seconds).
+[14:06:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent unity_flare
+[14:07:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezflareprojectile
+[14:07:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent unity_flare
+[14:07:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent unity_flare
+[14:07:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent unity_flare
+[14:07:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent unity_flare
+[14:07:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent unity_flare
+[14:07:10] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent prop_ww_flag
+[14:08:24] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t34_42
+[14:08:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_t34_42
+[14:12:52] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[14:12:52] maksumkolesnukov022 suicided!
+[15:59:16] Client "maksumkolesnukov022" connected.
+[15:59:53] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 37 seconds).
+[16:00:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_trenches/trench_cross01.mdl
+[16:00:56] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_trenches/trench_straight01.mdl
+[16:00:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_trenches/trench_tcross01.mdl
+[16:00:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_trenches/trench_turn01.mdl
+[16:01:13] maksumkolesnukov022: !meny
+[16:01:15] maksumkolesnukov022: !meny
+[16:01:18] maksumkolesnukov022: !menu
+[16:01:29] maksumkolesnukov022 changed the map to gm_sro_mountain_field
+[16:01:30] Server is shutting down/changing levels.
+
+
+
+[16:01:41] New map: gm_sro_mountain_field
+[16:02:17] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 42 seconds).
+[16:02:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_trenches/trench_cross01.mdl
+[16:02:49] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_trenches/trench_cross01.mdl
+[16:03:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_trenches/trench_cross01.mdl
+[16:03:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_trenches/trench_straight01.mdl
+[16:03:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_trenches/trench_tcross01.mdl
+[16:03:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_trenches/trench_turn01.mdl
+[16:07:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/jmod_trenches/trench_straight01.mdl
+[16:09:57] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[16:09:57] maksumkolesnukov022 suicided!
+<Logging continued in "data/ulx_logs/10-16-25.txt">

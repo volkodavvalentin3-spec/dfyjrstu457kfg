@@ -1,0 +1,2534 @@
+<Logging continued from "data/ulx_logs/08-26-24.txt">
+[00:00:05] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowderkeg
+[00:00:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznuke_small
+[00:00:08] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:00:56] василий каратаев killed RusLanConnection using player
+[00:00:56] василий каратаев suicided!
+[00:01:05] RusLanConnection added василий каратаев to group operator
+[00:01:09] RusLanConnection added василий каратаев to group admin
+[00:01:13] RusLanConnection removed all access rights from василий каратаев
+[00:04:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:04:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:04:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:05:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:05:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:05:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:05:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:05:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:05:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:06:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:07:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[00:10:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:10:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:10:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:10:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:10:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:10:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[00:10:41] RusLanConnection was killed by ent_rus_jsmod_pipe
+[00:11:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezcampfire
+[00:11:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_cratepack
+[00:11:30] василий каратаев: САБОТАЖИК
+[00:11:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[00:13:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[00:13:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[00:13:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[00:13:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezceramic
+[00:13:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchemicals
+[00:13:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcloth
+[00:13:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcoal
+[00:13:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcoolant
+[00:13:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcopper
+[00:13:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdiamond
+[00:13:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[00:13:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[00:13:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezantimatter
+[00:13:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[00:13:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaluminum
+[00:13:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvtextiles
+[00:13:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezadvparts
+[00:19:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[00:19:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[00:21:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[00:22:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[00:22:48] RusLanConnection killed василий каратаев using lvs_wheeldrive_dodtiger
+[00:23:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[00:24:04] RusLanConnection killed василий каратаев using lvs_renaultft_m
+[00:24:38] RusLanConnection killed василий каратаев using lvs_renaultft_m
+[00:25:04] RusLanConnection killed василий каратаев using lvs_renaultft_m
+[00:31:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[00:31:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[00:31:43] RusLanConnection brought василий каратаев
+[00:32:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[00:34:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfumigator
+[00:34:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[00:34:36] RusLanConnection killed василий каратаев using wep_jack_gmod_assaultrifle
+[00:34:47] RusLanConnection brought василий каратаев
+[00:34:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsignalnade
+[00:35:06] василий каратаев suicided!
+[00:35:06] RusLanConnection slayed василий каратаев
+[00:37:29] василий каратаев: АРБУХ
+[00:37:33] василий каратаев: АРЬУХ ПЕРНМЪЫ
+[00:37:40] василий каратаев: АРЬУЗ
+[00:37:42] василий каратаев: ПЕРНЭ
+[00:37:44] василий каратаев: ФУ
+[00:43:25] RusLanConnection suicided!
+[00:44:40] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:45:46] василий каратаев suicided!
+[00:46:35] василий каратаев: +500
+[00:46:59] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:46:59] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:46:59] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:47:03] василий каратаев: ААА
+[00:47:06] василий каратаев: Ф3
+[00:47:07] василий каратаев: НЕ РАБИТ
+[00:47:19] василий каратаев: НЕ ПОКАЗЫВАЕТ ДЕНЕГИ
+[00:47:21] василий каратаев: СВОИ
+[00:47:40] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:47:40] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:47:40] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:47:41] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:47:41] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:47:43] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:47:44] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:47:45] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:47:55] василий каратаев: НЕТ ДЕНЕГ
+[00:47:59] василий каратаев: А ВО
+[00:48:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_magpistol
+[00:48:31] RusLanConnection killed василий каратаев using wep_jack_gmod_magpistol
+[00:49:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[00:49:40] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:50:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_machinepistol
+[00:50:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_sas
+[00:50:11] RusLanConnection killed василий каратаев using wep_jack_gmod_sas
+[00:50:26] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:50:27] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:50:28] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:50:28] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:50:34] RusLanConnection teleported to василий каратаев
+[00:50:45] василий каратаев suicided!
+[00:50:56] RusLanConnection teleported to василий каратаев
+[00:50:56] RusLanConnection teleported to василий каратаев
+[00:51:17] василий каратаев: ПОЧИНИ
+[00:51:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[00:51:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezantimatter
+[00:51:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezantimatter
+[00:51:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[00:51:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezantimatter
+[00:53:10] василий каратаев: ДААЙ ТУЛБОКС
+[00:55:54] василий каратаев: ВТФ
+[00:55:55] василий каратаев: ИГРОК
+[00:56:36] василий каратаев: РАЗФРИЩ\З
+[00:57:37] василий каратаев: ПРОКАЧАТЬ НУЖНО НАВЕРНОЕ
+[00:58:40] василий каратаев: У НАС АЛМАЗЫ
+[00:58:41] василий каратаев: ТУТ
+[00:58:42] василий каратаев: И УГОЛЬ
+[00:58:56] RusLanConnection was killed by prop_physics
+[00:59:08] RusLanConnection teleported to василий каратаев
+[01:00:43] василий каратаев: ВАТАФАК ЧО ЗА ПЫНГ ПЫНГ У МЕНЯ ИНЕТ ВОРУУУЮЮ!
+[01:01:21] василий каратаев: МНОГО 
+[01:01:23] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[01:01:41] василий каратаев: СКРАФТИТЬ ТУТ МОЖНО ЛЕГОЕ
+[01:03:15] василий каратаев was killed by ent_jack_gmod_ezprimitivebench
+[01:03:42] RusLanConnection brought василий каратаев
+[01:03:43] RusLanConnection brought василий каратаев
+[01:05:16] василий каратаев: supply radio: oil
+[01:05:25] RusLanConnection was killed by prop_physics
+[01:05:44] RusLanConnection teleported to василий каратаев
+[01:06:02] василий каратаев: И ЧО
+[01:06:20] василий каратаев: ВОО ОНА СВЕРХУ ВЫПАДАЕТ РАБОТАЕМ
+[01:07:40] василий каратаев: КРАФТИМ ОИЛ РЕФИНЕРИ НЕФТЬ ЗАКУПАТЬ БУДЕМ НОРМ
+[01:11:29] василий каратаев: ФИЗГААААНИМ
+[01:15:02] василий каратаев: ААААА
+[01:15:04] василий каратаев: ГОВН 
+[01:15:11] василий каратаев: ВАТААФАК ЧТО ЗА ПРИКОЛЫ
+[01:15:17] василий каратаев: ИДИД СЮДА
+[01:15:28] василий каратаев: ТРУПАК ВИДИЩ
+[01:15:49] василий каратаев: Я АЛМАЗЫ ИСКАЛ
+[01:16:30] василий каратаев: А ЧО ТЕБЕ
+[01:16:31] василий каратаев: НОРМ
+[01:16:32] василий каратаев: НОРМ
+[01:17:01] василий каратаев: ИХ ПРОБЛЕ ВТОМ ЧТО ОНИ ЗАКАНЧИВАЮТСЯ
+[01:17:07] василий каратаев: ПРОСТО ЗАСКРАУНДЖИ И ВС
+[01:17:34] василий каратаев: РИЛИ
+[01:20:06] василий каратаев: ПРОДАВАЙ АЛМЫ ЗАКУПАЙ СИНИНЫЕ
+[01:21:06] василий каратаев: ЗОЛОТО
+[01:21:08] василий каратаев: СЕРЕБРО
+[01:21:10] василий каратаев: ТУНГЕСТЕ
+[01:21:57] василий каратаев: СИНИЕ
+[01:21:59] василий каратаев: КАКИ
+[01:22:04] василий каратаев: ДЕТАЛЫТ
+[01:24:39] василий каратаев: ГАЗ
+[01:24:40] василий каратаев: ГАЗЫ
+[01:24:54] василий каратаев: А
+[01:25:02] василий каратаев: ВО
+[01:25:04] василий каратаев: ДОЛЖНО
+[01:25:06] василий каратаев: А НЕ
+[01:25:08] василий каратаев: ОНО САМО
+[01:25:10] василий каратаев: КАК ТО
+[01:25:13] василий каратаев: НЕ ТРОГАТЬ ТОЛЬКО
+[01:25:29] василий каратаев: ОНО ДОЛНЖЛ
+[01:25:40] василий каратаев: ОТКЛЮЧИ
+[01:25:41] василий каратаев: КАКИ
+[01:26:27] василий каратаев: ПАЕХАЛО
+[01:26:29] василий каратаев: ПАЕЛО
+[01:28:54] василий каратаев: ВСО
+[01:28:56] василий каратаев: СИНИЕ ЕСТЬ
+[01:29:03] василий каратаев: ПРОСТО ВАЛЯЛИ ДУРАКА
+[01:29:05] василий каратаев: МОЖНО БЫЛО УЖЕ
+[01:30:25] василий каратаев: НАМ ТОЛБКО ЭЛЕКТРИЧЕСТВО
+[01:31:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[01:31:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[01:31:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[01:31:32] василий каратаев: У МЕНЯ ВСО НОРМ
+[01:31:34] василий каратаев: БЫЛО
+[01:31:50] василий каратаев: МЫ УЖЕ МОЖЕМ
+[01:31:54] василий каратаев: НАМ НУЖНО ТОК
+[01:32:17] василий каратаев: А ВО
+[01:32:20] василий каратаев: БАСИКИ
+[01:33:10] василий каратаев: ВСО
+[01:33:13] василий каратаев: УЖЕ ДАВНО ЕСТ
+[01:33:22] василий каратаев: ЕСЛИ БЫ ЛИШНЕЙ ФЕГНЕ НЕ ЗАНИМАЛИСЬ
+[01:33:25] василий каратаев: УЖЕ БЫ ПАСТРОИЛИ
+[01:35:46] василий каратаев: Я ДУМАЮ
+[01:35:48] василий каратаев: ВСО НОРМ
+[01:35:54] василий каратаев: ХИМИЮ ЛЕГКО НАЙТИ НА ПОЛУ
+[01:35:59] василий каратаев: ИЛИ ПРОИЗВОДИТЬ ЛЕГККО
+[01:36:20] василий каратаев: А ЗАЧЕМ
+[01:36:24] василий каратаев: У НАС ЦЕЛЬ БЫЛА ВЕРТОЛЕТ
+[01:36:32] василий каратаев: ИЗВИНИ ДАВАЙ НОВЫЙ
+[01:36:54] василий каратаев: ФУУУ ХИМИКАТЫ
+[01:37:47] василий каратаев: supply radio: drill
+[01:38:01] василий каратаев: supply radio: drill
+[01:38:05] василий каратаев: ВААТФА
+[01:38:18] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[01:38:20] василий каратаев: Я НЕ МОГУ
+[01:41:27] василий каратаев: ЧТО
+[01:41:29] василий каратаев: ЧТОЖТО
+[01:41:43] василий каратаев: ЗРЯ Я ВЫРУБАЛ АДОНЫ 
+[01:43:49] василий каратаев was killed by ent_jack_gmod_ezfluid_bottler
+[01:44:04] RusLanConnection brought василий каратаев
+[01:48:00] василий каратаев: ААААА
+[01:49:57] василий каратаев: ВОДА УЖЕ В ЯЩИК КЛАДЕЦА ВРОДЕ ДОТЯГИВАЕТСЯ Я ПРО ЖЕЛЕЗГЫЙ
+[01:50:48] василий каратаев: Я НЕ УВЕРЕН НО ВРОДЕ МОЖНО ИЗ ЧУЖОГО ПОРТФЕЛЯ ВЕЩИ ДЛЯ КРАФТА БРАТЬ Н�
+[01:50:53] василий каратаев: Я КУПИЛ
+[01:50:54] василий каратаев: НЕФТ
+[01:54:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezoil
+[01:55:35] василий каратаев: ТЕРЬ НЕТ ПРОБЛЕМ С ХИММИИ
+[01:55:40] василий каратаев: ЕСЛИ БУДЕТ ОРГАНИКА
+[01:59:11] василий каратаев: КУАЛИТИ ОФ ЛАЙФ
+[02:00:11] василий каратаев: СЖИРАЮТ БЫСТРО
+[02:03:09] Server is shutting down/changing levels.
+
+
+
+[02:04:04] New map: gm_micronations
+[02:04:08] Client "василий каратаев" connected.
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/furniturestove001a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel02a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/antlion.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_door01a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_trainstation/payphone_reciever001a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car002a_physics.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_axel01a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:04:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car001a_hatchback.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/concrete_barrier001a.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/popcan01a.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/gascan001a.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/concrete_barrier001a.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/popcan01a.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/logs.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/plasticbucket001a.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/furniturestove001a.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/trappropeller_engine.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car002a_physics.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:04:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[02:04:45] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 37 seconds).
+[02:05:08] RusLanConnection brought василий каратаев
+[02:05:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[02:10:17] василий каратаев: Я ЖЕ ГОВОРЮ
+[02:10:18] василий каратаев: НА ПИКЕ
+[02:10:26] василий каратаев: МЫ МОЖЕМ УЖЕ ДАВНО БОМБИТЬ НА ВЕРТЕ
+[02:10:27] василий каратаев: НУБОВ
+[02:10:34] василий каратаев: ПРОСТО ИЗ НОР ВЫЛЕЗАТЬ НЕ БУДУТ
+[02:10:48] василий каратаев: ДА ЗАЧЕМ
+[02:10:52] василий каратаев: ЖДЕМ НУБОВ ПОКА ЗАЙДУ
+[02:10:58] василий каратаев: И РАЗБОМБИТ
+[02:11:08] василий каратаев: ДА ЭТО УЖЕ ПРОСТО ТАК
+[02:12:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfluid_bottler
+[02:12:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfluid_bottler
+[02:14:15] Client "Rackman" connected.
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/furniturestove001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel02a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/antlion.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_door01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_trainstation/payphone_reciever001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car002a_physics.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_axel01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car001a_hatchback.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/concrete_barrier001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/popcan01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/gascan001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/concrete_barrier001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/popcan01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/logs.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/plasticbucket001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/furniturestove001a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/trappropeller_engine.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car002a_physics.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[02:14:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[02:14:43] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 28 seconds).
+[02:15:02] василий каратаев: ТРОЛИМ РАКМАНА
+[02:15:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfluid_bottler
+[02:16:29] василий каратаев: ДАВАЙТЕ
+[02:16:30] василий каратаев: СОВЕРШИМ
+[02:16:32] василий каратаев: КРУШЕНИЕ
+[02:16:33] василий каратаев: НА ВЕРТЕ
+[02:17:13] василий каратаев: БАЛИН
+[02:18:50] василий каратаев: ПЛАСТИТК
+[02:19:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlfg
+[02:20:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[02:20:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[02:20:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[02:23:11] василий каратаев: НУБЫ
+[02:23:17] василий каратаев: ОБЯЗАТЕЛЬНО ЧТОБЫ БЫЛИ НУБЫ
+[02:24:14] василий каратаев: ДАВАЙТЕ СРАЗУ БИГ ЯЩИК
+[02:24:49] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:24:49] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:24:49] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:27:24] василий каратаев: ПОМОГИТЕ ТАМ
+[02:27:35] василий каратаев: ТАМ ВОБЩЕ КРУТОЕ ШТУКУ ДОСТАТЬ И РОЗОБРАТЬ
+[02:29:39] василий каратаев: ДЕЛАЙТЕ БИГ ЯЩЫК
+[02:30:39] василий каратаев: И БАШНЯ
+[02:30:41] василий каратаев: И БАЩГЯ
+[02:30:51] василий каратаев: КРУТАЯ БАШНЯ БЛЕЗНЕЦ
+[02:30:54] василий каратаев: А
+[02:31:43] василий каратаев: ПРИМИ
+[02:31:45] василий каратаев: В СКУАД
+[02:33:40] василий каратаев: РАДО
+[02:33:42] василий каратаев: РАДИО
+[02:33:47] василий каратаев: ПЛЫВЕТ
+[02:40:33] Rackman was killed by prop_physics
+[02:40:49] василий каратаев: ШУМАПАДАВЛЕНИЕ
+[02:41:13] василий каратаев: ТЕПАЙ 
+[02:41:18] RusLanConnection brought Rackman
+[02:41:43] василий каратаев: МЕДИЦ
+[02:41:49] василий каратаев: МЕДИ
+[02:42:29] RusLanConnection: +voicerecord 
+[02:44:36] василий каратаев: МЫ ЖИЫВЕМ НА УГЛЕЦ
+[02:44:43] Rackman: ДОНБАСС
+[02:44:59] Rackman was killed by prop_physics
+[02:46:41] василий каратаев: Я КАРОЧЕ ПОЙДУ ОЧЕНЬ РАНО УЖЕ ВСТАВАТЬ ЧЕРЕЗ МИНУТ 5
+[02:46:46] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[03:20:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[03:21:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[03:22:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[03:26:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowerbank
+[03:27:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[03:30:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwood
+[03:30:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwood
+[03:30:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwood
+[03:30:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwood
+[03:30:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwood
+[03:30:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwood
+[03:30:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwood
+[03:30:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwood
+[03:31:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[03:31:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[03:31:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[03:33:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[03:40:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgroundscanner
+[03:41:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpickaxe
+[03:41:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaugerdrill
+[03:41:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[03:42:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfurnace
+[03:42:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[03:42:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[03:42:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[03:43:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlfg
+[03:43:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlfg
+[03:43:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[03:43:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[03:43:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowerbank
+[03:43:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcentrifuge
+[03:44:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[03:45:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_hazmat
+[03:49:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[03:49:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfluid_bottler
+[03:50:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[03:50:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[03:50:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[03:51:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[03:52:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[03:52:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[03:52:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[03:52:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[03:52:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[03:54:58] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[03:55:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[03:56:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[03:56:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[03:57:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/furniturestove001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel02a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/antlion.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_door01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_trainstation/payphone_reciever001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car002a_physics.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_axel01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car001a_hatchback.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/concrete_barrier001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/popcan01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/gascan001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/concrete_barrier001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/popcan01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/logs.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/plasticbucket001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/furniturestove001a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/trappropeller_engine.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car002a_physics.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[03:59:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[03:59:48] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[04:00:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbombbay
+[04:00:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[04:00:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[04:00:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke_small
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/furniturestove001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel02a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/antlion.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_door01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_trainstation/payphone_reciever001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/propane_tank001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car002a_physics.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_axel01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/glassjug01_jmod.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car001a_hatchback.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/concrete_barrier001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel002.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/popcan01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/gascan001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/concrete_barrier001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/popcan01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/jmod_scrounge/logs.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/plasticbucket001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/furniturestove001a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/trappropeller_engine.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car002a_physics.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[04:01:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[04:03:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[04:03:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbombbay
+[04:04:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[04:04:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[04:05:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke_small
+[04:06:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke_small
+[04:07:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbombbay
+[04:07:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke_small
+[04:07:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[04:07:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke_small
+[04:07:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[04:07:51] RusLanConnection suicided!
+[04:08:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[04:08:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke
+[04:08:25] RusLanConnection killed RusLanConnection
+[04:08:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke
+[04:08:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[04:08:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[04:09:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[04:09:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[04:10:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke
+[04:10:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[04:10:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[04:10:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[04:10:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+
+
+
+[20:30:06] New map: gm_micronations
+[20:30:12] Client "kiktus." connected.
+[20:30:12] Client "M4TV" connected.
+[20:31:07] Client "Kuka Cola Original" connected.
+[20:31:13] Client "Savik" connected.
+[20:31:22] Client "NL" spawned in server <STEAM_0:0:116416813> (took 80 seconds).
+[20:31:32] Client "saken Kok" connected.
+[20:31:41] RusLanConnection<STEAM_0:0:238810681> spawned sent armorstand
+[20:31:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_lhead
+[20:31:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_ltorso
+[20:31:46] NL: hello everybody
+[20:31:52] NL: my name is markiplayer
+[20:31:56] Client "Dixon" connected.
+[20:32:35] Client "kiktus." spawned in server <STEAM_0:1:159281946> (took 143 seconds).
+[20:32:49] Client "M4TV" spawned in server <STEAM_0:1:558724298> (took 157 seconds).
+[20:33:14] Client "Kuka Cola Original" spawned in server <STEAM_0:1:780999703> (took 127 seconds).
+[20:33:15] kiktus.: ruslan
+[20:33:33] Client "Dixon" spawned in server <STEAM_0:0:191738173> (took 97 seconds).
+[20:34:00] Dixon: IM COMAND KIKTUS
+[20:34:15] Client "Vasto.Pro" connected.
+[20:34:16] Client "Savik" spawned in server <STEAM_0:0:192360270> (took 183 seconds).
+[20:34:27] kiktus.: руслан
+[20:34:45] Dropped "Savik" from server<STEAM_0:0:192360270>
+[20:34:52] Dropped "kiktus." from server<STEAM_0:1:159281946>
+[20:34:52] Dropped "Kuka Cola Original" from server<STEAM_0:1:780999703>
+[20:34:56] Dropped "M4TV" from server<STEAM_0:1:558724298>
+[20:34:57] Dropped "Dixon" from server<STEAM_0:0:191738173>
+[20:35:17] Client "saken Kok" spawned in server <STEAM_0:0:511355327> (took 225 seconds).
+[20:35:53] Dropped "saken Kok" from server<STEAM_0:0:511355327>
+[20:37:05] Client "pojn87" connected.
+[20:37:23] Client "василий каратаев" connected.
+[20:37:42] Client "Rackman" connected.
+[20:37:51] Client "Mr. Point" connected.
+[20:37:58] Client "P0lyakov" connected.
+[20:38:04] Client "golub inside" connected.
+[20:38:05] Client "bib" connected.
+[20:38:09] Client "ΛПТΞЧКλ ΔЛЬЯНСА" connected.
+[20:38:09] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 46 seconds).
+[20:38:09] Client "Wheatley" connected.
+[20:38:11] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 29 seconds).
+[20:38:14] Client "kiktus." connected.
+[20:38:15] Client "M4TV" connected.
+[20:38:16] Client "Karasb" connected.
+[20:38:21] Client "S. ARHI" connected.
+[20:38:23] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 78 seconds).
+[20:38:24] Client "Dixon" connected.
+[20:38:28] Client "saken Kok" connected.
+[20:38:33] Client "kiktus." spawned in server <STEAM_0:1:159281946> (took 19 seconds).
+[20:38:37] Client "Kuka Cola Original" connected.
+[20:38:40] Client "M4TV" spawned in server <STEAM_0:1:558724298> (took 25 seconds).
+[20:38:40] Client "Chupacabr" connected.
+[20:38:43] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 45 seconds).
+[20:38:44] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:44] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:44] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:44] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:44] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:45] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:45] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:45] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:45] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:45] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:45] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:45] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:46] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:46] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:46] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:46] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:46] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:46] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:47] Client "Dixon" spawned in server <STEAM_0:0:191738173> (took 23 seconds).
+[20:38:48] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:48] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:48] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:48] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:49] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:49] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:50] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:50] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:38:52] Client "Mr. Point" spawned in server <STEAM_0:0:84903252> (took 61 seconds).
+[20:38:54] Client "saken Kok" spawned in server <STEAM_0:0:511355327> (took 26 seconds).
+[20:38:56] Client "Kuka Cola Original" spawned in server <STEAM_0:1:780999703> (took 19 seconds).
+[20:39:07] Client "Karasb" spawned in server <STEAM_0:1:527316780> (took 51 seconds).
+[20:39:10] P0lyakov<STEAM_0:0:60570605> spawned sent ent_fumo_gmod_compass
+[20:39:11] NL<STEAM_0:0:116416813> spawned sent item_healthkit
+[20:39:12] NL<STEAM_0:0:116416813> spawned sent item_healthkit
+[20:39:12] NL<STEAM_0:0:116416813> spawned sent item_healthkit
+[20:39:15] Client "Vasto.Pro" connected.
+[20:39:16] Client "Wheatley" spawned in server <STEAM_0:0:155354605> (took 67 seconds).
+[20:39:23] Client "sekta" connected.
+[20:39:23] Client "ΛПТΞЧКλ ΔЛЬЯНСА" spawned in server <STEAM_0:1:581419219> (took 74 seconds).
+[20:39:24] Client "Maxaragg" connected.
+[20:39:38] Client "Gray Clocker" connected.
+[20:39:43] Client "Savik" connected.
+[20:39:49] Dropped "pojn87" from server<STEAM_0:1:490319581>
+[20:39:50] Client "pojn87" connected.
+[20:39:50] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 70 seconds).
+[20:40:03] Client "Savik" spawned in server <STEAM_0:0:192360270> (took 20 seconds).
+[20:40:07] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 17 seconds).
+[20:40:09] Mr. Point killed Rackman using wep_jack_gmod_hands
+[20:40:13] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezaxe
+[20:40:15] Client "Yaicehvat" connected.
+[20:40:21] Client "golub inside" spawned in server <STEAM_0:0:426119655> (took 137 seconds).
+[20:40:25] Client "S. ARHI" spawned in server <STEAM_0:0:441121915> (took 124 seconds).
+[20:40:28] Mr. Point killed василий каратаев using wep_jack_gmod_ezaxe
+[20:40:28] Client "bib" spawned in server <STEAM_0:1:31435038> (took 143 seconds).
+[20:40:33] Mr. Point killed Chupacabr using wep_jack_gmod_ezaxe
+[20:40:40] Mr. Point killed M4TV using wep_jack_gmod_ezaxe
+[20:40:48] NL<STEAM_0:0:116416813> spawned sent item_healthkit
+[20:40:49] NL<STEAM_0:0:116416813> spawned sent item_healthkit
+[20:40:54] Mr. Point killed василий каратаев using wep_jack_gmod_ezaxe
+[20:40:58] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 95 seconds).
+[20:41:04] Mr. Point killed Wheatley using wep_jack_gmod_ezaxe
+[20:41:08] Dropped "kiktus." from server<STEAM_0:1:159281946>
+[20:41:10] Client "Vasto.Pro" spawned in server <STEAM_0:0:143160055> (took 115 seconds).
+[20:41:11] Client "kiktus." connected.
+[20:41:11] Mr. Point killed ΛПТΞЧКλ ΔЛЬЯНСА using wep_jack_gmod_ezaxe
+[20:41:16] sekta: аааааааааа
+[20:41:18] Mr. Point killed golub inside using wep_jack_gmod_ezaxe
+[20:41:21] Dropped "Wheatley" from server<STEAM_0:0:155354605>
+[20:41:24] Client "Wheatley" connected.
+[20:41:28] Rackman killed Mr. Point using wep_jack_gmod_hands
+[20:41:30] Client "kiktus." spawned in server <STEAM_0:1:159281946> (took 19 seconds).
+[20:41:31] Client "Yaicehvat" spawned in server <STEAM_0:0:829542287> (took 76 seconds).
+[20:41:32] Kuka Cola Original: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:41:34] Kuka Cola Original: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:41:34] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:41:34] Kuka Cola Original: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:41:35] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:41:35] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:41:36] bib suicided!
+[20:41:39] bib: *inv*
+[20:41:42] Client "Wheatley" spawned in server <STEAM_0:0:155354605> (took 18 seconds).
+[20:41:56] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezaxe
+[20:41:58] Mr. Point killed Rackman using wep_jack_gmod_hands
+[20:42:07] Chupacabr killed Mr. Point using wep_jack_gmod_ezaxe
+[20:42:09] Wheatley: пиздец
+[20:42:19] Client "Gray Clocker" spawned in server <STEAM_0:0:90429207> (took 161 seconds).
+[20:42:23] kiktus.: '
+[20:42:32] Chupacabr killed василий каратаев using wep_jack_gmod_ezaxe
+[20:42:34] Yaicehvat killed Chupacabr using wep_jack_gmod_hands
+[20:42:38] Mr. Point killed Yaicehvat using wep_jack_gmod_ezaxe
+[20:42:47] NL<STEAM_0:0:116416813> spawned sent item_healthkit
+[20:42:48] NL<STEAM_0:0:116416813> spawned sent item_healthkit
+[20:42:49] NL<STEAM_0:0:116416813> spawned sent item_healthkit
+[20:42:52] Mr. Point killed NL using wep_jack_gmod_ezaxe
+[20:42:57] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezaxe
+[20:43:01] Chupacabr<STEAM_0:1:63230461> spawned ragdoll models/props_c17/furnituremattress001a.mdl
+[20:43:02] Chupacabr<STEAM_0:1:63230461> spawned model models/props_c17/furnituretable001a.mdl
+[20:43:02] Mr. Point killed Karasb using wep_jack_gmod_ezaxe
+[20:43:09] Mr. Point killed pojn87 using wep_jack_gmod_ezaxe
+[20:43:20] Client "Temm4ancki" connected.
+[20:43:26] Chupacabr<STEAM_0:1:63230461> spawned model models/props_junk/wood_crate001a.mdl
+[20:43:32] Mr. Point killed golub inside using wep_jack_gmod_ezaxe
+[20:43:39] Dropped "P0lyakov" from server<STEAM_0:0:60570605>
+[20:43:41] Client "rpd198277#fixtf2" connected.
+[20:43:43] Client "Goshan" connected.
+[20:43:47] Mr. Point killed василий каратаев using wep_jack_gmod_ezaxe
+[20:43:47] Gray Clocker: Это я Салоре
+[20:43:51] Chupacabr killed pojn87 using wep_jack_gmod_ezaxe
+[20:43:51] Gray Clocker: Да похуй
+[20:43:52] Mr. Point killed Chupacabr using wep_jack_gmod_ezaxe
+[20:43:54] Gray Clocker: Буду розовым
+[20:43:57] Mr. Point killed ΛПТΞЧКλ ΔЛЬЯНСА using wep_jack_gmod_ezaxe
+[20:43:57] Gray Clocker: Месу люблю пиздец
+[20:43:58] Client "Maxaragg" spawned in server <STEAM_0:1:243753537> (took 274 seconds).
+[20:44:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[20:44:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[20:44:05] Gray Clocker: Как сменить, расскажите
+[20:44:09] Mr. Point killed Rackman using wep_jack_gmod_ezaxe
+[20:44:15] Dixon: playermodel_selector
+[20:44:18] kiktus.: playermodel_selector 
+[20:44:23] kiktus.: в консоль
+[20:44:24] Mr. Point killed Karasb using wep_jack_gmod_ezaxe
+[20:44:25] (TEAM) saken Kok: playermodel_selector
+[20:44:27] Client "P0lyakov" connected.
+[20:44:27] Mr. Point killed Yaicehvat using wep_jack_gmod_ezaxe
+[20:44:30] Mr. Point killed golub inside using wep_jack_gmod_ezaxe
+[20:44:41] Yaicehvat: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:44:46] василий каратаев: НУБЫ НУБЫ
+[20:44:46] Client "Temm4ancki" spawned in server <STEAM_0:0:120410965> (took 86 seconds).
+[20:44:46] Yaicehvat: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:44:48] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 21 seconds).
+[20:44:51] Client "Goshan" spawned in server <STEAM_0:0:246258123> (took 68 seconds).
+[20:44:54] Client "Yaroslav_101" connected.
+[20:45:00] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_car
+[20:45:00] Karasb: /dance
+[20:45:03] kiktus.: АДМИН ХУЕСОС
+[20:45:09] Mr. Point killed Vasto.Pro using wep_jack_gmod_ezaxe
+[20:45:11] Mr. Point killed saken Kok using wep_jack_gmod_ezaxe
+[20:45:13] Goshan: я афк (=
+[20:45:25] P0lyakov suicided!
+[20:45:25] RusLanConnection silently slayed Themself,Chupacabr,Dixon,Goshan,Gray Clocker,Karasb,Kuka Cola Original,M4TV,Maxaragg,Mr. Point,NL,Rackman,S. ARHI,Savik,Temm4ancki,Vasto.Pro,Wheatley,Yaicehvat,bib,golub inside,kiktus.,pojn87,saken Kok,sekta,ΛПТΞЧКλ ΔЛЬЯНСА,василий каратаев
+[20:45:25] RusLanConnection: !sslay *
+[20:45:26] bib: !help
+[20:45:28] bib: !cmds
+[20:45:31] Dropped "golub inside" from server<STEAM_0:0:426119655>
+[20:45:34] Client "golub inside" connected.
+[20:45:38] Maxaragg: я блять щас задохнусь сука
+[20:45:39] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:45:41] bib: !ulx
+[20:45:42] bib: !help
+[20:45:43] bib: /help
+[20:45:44] P0lyakov: !squads
+[20:45:45] bib: !help
+[20:45:51] Client "golub inside" spawned in server <STEAM_0:0:426119655> (took 17 seconds).
+[20:45:52] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:45:52] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:45:53] bib to admins: как открыть меню сквадов help!
+[20:45:54] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:45:54] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:45:54] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:45:54] василий каратаев: ГИПНОЗ
+[20:45:59] василий каратаев: ОТДАВАЙ СВОИ ДЕНЬГИ НА Ф2
+[20:46:00] bib to admins: х
+[20:46:02] Karasb: Пизда серверу
+[20:46:04] Dropped "pojn87" from server<STEAM_0:1:490319581>
+[20:46:04] Client "pojn87" connected.
+[20:46:10] Chupacabr: ЖАТЬ F5
+[20:46:12] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:12] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:12] Gray Clocker: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:12] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:13] bib: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:13] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:13] golub inside: перезаход не помог от т поз
+[20:46:13] Wheatley: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:13] bib: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:13] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:13] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:14] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:14] Wheatley: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:14] Gray Clocker: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:14] Gray Clocker: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:14] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:15] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:15] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:15] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:15] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:15] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:15] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:15] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:15] golub inside: помогите
+[20:46:16] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:16] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:16] Gray Clocker: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:16] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:17] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:17] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:17] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:18] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:18] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:19] Dropped "Goshan" from server<STEAM_0:0:246258123>
+[20:46:19] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:19] Client "Goshan" connected.
+[20:46:19] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:20] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:20] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:20] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:20] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:20] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:21] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:21] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:21] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:21] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:21] bib: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:22] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 18 seconds).
+[20:46:22] Client "rpd198277#fixtf2" spawned in server <STEAM_0:0:575825780> (took 161 seconds).
+[20:46:27] Client "Yaroslav_101" spawned in server <STEAM_0:0:512387579> (took 93 seconds).
+[20:46:27] Dropped "Savik" from server<STEAM_0:0:192360270>
+[20:46:27] Client "Savik" connected.
+[20:46:28] Chupacabr: ЖАТЬ F4 сквад менб
+[20:46:35] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:36] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:36] Client "Goshan" spawned in server <STEAM_0:0:246258123> (took 17 seconds).
+[20:46:36] sekta: KRUTO, ESLI BI SERVER NE LAGAL YA BI PASHALKU OTKRIL
+[20:46:37] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:38] Karasb: Я нищий
+[20:46:45] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:45] Client "Savik" spawned in server <STEAM_0:0:192360270> (took 18 seconds).
+[20:46:46] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:48] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:48] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:48] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:48] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:49] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:49] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:49] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:49] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:49] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:46:50] Karasb: Я нищий
+[20:46:59] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:04] sekta: АААААААААААААААААААААААААА
+[20:47:07] Client "BriceMashiro" connected.
+[20:47:10] василий каратаев: РОЗОВЫЕ ОГРЕБУР
+[20:47:11] bib suicided!
+[20:47:12] Client "Rulon Oboev" connected.
+[20:47:28] sekta: поинт ты
+[20:47:31] sekta: ты понял кто ты
+[20:47:31] (TEAM) Dixon: playermodel_selector
+[20:47:31] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:32] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:32] sekta: ты ты
+[20:47:33] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:34] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:34] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:34] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:34] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:34] golub inside: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:38] (TEAM) Yaroslav_101: я походу никого не слышку
+[20:47:45] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:45] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:46] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:46] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:47:47] Yaroslav_101: о
+[20:47:49] Yaroslav_101: скажи
+[20:47:56] Goshan: playermodel_selector в консоль если хотите модель поменять
+[20:48:00] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:48:01] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:48:01] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:48:01] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:48:01] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:48:03] Yaroslav_101: алё
+[20:48:08] Goshan: (=
+[20:48:12] Client "Rulon Oboev" spawned in server <STEAM_0:1:35049753> (took 60 seconds).
+[20:48:19] Yaroslav_101: !motd
+[20:48:21] Gray Clocker: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:48:28] Yaroslav_101: !motd
+[20:48:29] Dixon:  
+[20:48:30] Savik: squad_menu 
+[20:48:34] Dropped "golub inside" from server<STEAM_0:0:426119655>
+[20:48:34] Yaroslav_101: !menu
+[20:48:38] Client "golub inside" connected.
+[20:48:42] Dixon:  
+[20:48:51] Rackman: ЭТО КИБЕРПАНК СУКА
+[20:48:55] Client "golub inside" spawned in server <STEAM_0:0:426119655> (took 17 seconds).
+[20:48:56] Rulon Oboev suicided!
+[20:49:03] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:49:03] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:49:03] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:49:04] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:49:05] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:49:06] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:49:08] Yaroslav_101: меня слышно?
+[20:49:12] василий каратаев: МИКРАФОН
+[20:49:13] василий каратаев: НЕЕТ
+[20:49:16] василий каратаев: НЕТУ МИКРОФ
+[20:49:20] Rackman: ЭТО АКТИВАЦИЯ ПИДОРАСА
+[20:49:21] Rulon Oboev to Chupacabr: ПРИМИ В СБРОД
+[20:49:27] Dropped "rpd198277#fixtf2" from server<STEAM_0:0:575825780>
+[20:49:27] Client "rpd198277#fixtf2" connected.
+[20:49:30] golub inside: да ну ска у меня вспе в т позе даже после переахода
+[20:49:35] василий каратаев: РОТ ОТКРЫЛ И МОЛЧИТ
+[20:49:42] Chupacabr: обясните рулон кто мы 
+[20:49:44] василий каратаев: ЧЕЛЮСТ
+[20:49:46] Client "rpd198277#fixtf2" spawned in server <STEAM_0:0:575825780> (took 19 seconds).
+[20:49:51] василий каратаев: МОЖЕТ НЕ ТА КНОПАЧКА
+[20:50:25] Vasto.Pro: /unequip
+[20:50:32] sekta: u menya 37, no ya daleko
+[20:50:37] bib to admins: как разбирать пропы? NO TOOLBOX?
+[20:50:40] P0lyakov: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:50:50] P0lyakov: в
+[20:50:54] P0lyakov: ввввв
+[20:50:57] (TEAM) P0lyakov: еке
+[20:50:59] Yaroslav_101: кто модельку может поменять?
+[20:51:00] sekta: YA NUBIK, NEZHAU CHE DELAT
+[20:51:02] Yaroslav_101: сорян
+[20:51:05] Yaroslav_101: мужик
+[20:51:08] Dropped "Karasb" from server<STEAM_0:1:527316780>
+[20:51:09] Client "Karasb" connected.
+[20:51:09] (TEAM) sekta: 1
+[20:51:14] Yaicehvat: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:15] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[20:51:15] golub inside: я хп свое вижу или это нормально
+[20:51:15] Yaicehvat: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:16] Client "Chupacabr" connected.
+[20:51:16] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:17] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:17] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:17] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:21] Dropped "P0lyakov" from server<STEAM_0:0:60570605>
+[20:51:22] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:22] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:23] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:26] Gray Clocker: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:27] Savik: squad_menu 
+[20:51:28] Dropped "S. ARHI" from server<STEAM_0:0:441121915>
+[20:51:28] Client "P0lyakov" connected.
+[20:51:28] Dropped "Kuka Cola Original" from server<STEAM_0:1:780999703>
+[20:51:29] Yaroslav_101: кто модельки меняет?
+[20:51:29] Client "Karasb" spawned in server <STEAM_0:1:527316780> (took 20 seconds).
+[20:51:29] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:29] Client "Kuka Cola Original" connected.
+[20:51:30] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:31] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:33] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:33] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:34] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:34] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:34] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:34] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:34] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:34] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:34] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:34] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:34] Client "S. ARHI" connected.
+[20:51:34] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:34] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:34] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:35] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:35] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:35] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:35] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:35] Rackman: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:39] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 23 seconds).
+[20:51:40] Vasto.Pro: daw
+[20:51:40] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:40] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:40] Yaroslav_101: ракман
+[20:51:41] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:41] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:41] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:41] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:51:44] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 16 seconds).
+[20:51:44] Dropped "Rulon Oboev" from server<STEAM_0:1:35049753>
+[20:51:45] Client "Rulon Oboev" connected.
+[20:51:45] Client "Kuka Cola Original" spawned in server <STEAM_0:1:780999703> (took 16 seconds).
+[20:51:51] Client "S. ARHI" spawned in server <STEAM_0:0:441121915> (took 17 seconds).
+[20:51:56] Savik: squad_menu 
+[20:52:01] Client "Rulon Oboev" spawned in server <STEAM_0:1:35049753> (took 16 seconds).
+[20:52:06] Dropped "Goshan" from server<STEAM_0:0:246258123>
+[20:52:07] Client "Goshan" connected.
+[20:52:13] Yaicehvat: это нахер всех зафризили?
+[20:52:14] василий каратаев: да
+[20:52:24] Client "Goshan" spawned in server <STEAM_0:0:246258123> (took 17 seconds).
+[20:52:24] Dropped "Wheatley" from server<STEAM_0:0:155354605>
+[20:52:27] Client "Wheatley" connected.
+[20:52:33] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:52:44] bib to admins: лан, я понял как разбирать
+[20:52:45] Client "Wheatley" spawned in server <STEAM_0:0:155354605> (took 18 seconds).
+[20:52:49] Yaroslav_101: кто модельки меняет?
+[20:53:01] Dropped "rpd198277#fixtf2" from server<STEAM_0:0:575825780>
+[20:53:02] Client "rpd198277#fixtf2" connected.
+[20:53:09] Chupacabr: 20 человвек
+[20:53:11] Savik: `
+[20:53:13] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:53:13] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:53:14] NL: !menu
+[20:53:16] pojn87: jenny mode?
+[20:53:18] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:53:18] Yaroslav_101: у кого та пушка для смены pm?
+[20:53:20] Client "rpd198277#fixtf2" spawned in server <STEAM_0:0:575825780> (took 18 seconds).
+[20:53:20] NL teleported to RusLanConnection
+[20:53:21] pojn87: у него есть лор?
+[20:53:44] василий каратаев: РАЗДАВИС
+[20:53:45] Yaroslav_101: у кого та пушка которая модельки меняет?
+[20:54:11] василий каратаев: ВАТАФАК
+[20:54:15] василий каратаев: ТАМ СКВАД ПОЛНЫЙ
+[20:54:17] василий каратаев: 10 ИЗ 10
+[20:54:18] василий каратаев: НПП
+[20:54:20] Client "BriceMashiro" spawned in server <STEAM_0:0:590186964> (took 433 seconds).
+[20:54:20] Rulon Oboev: пизда
+[20:54:21] василий каратаев: РОЗОВЫЕ НУЬЫ
+[20:54:23] Wheatley: блять хз кому заходить
+[20:54:24] Rulon Oboev: заходите в сброд
+[20:54:41] bib to admins: я безумный выживший
+[20:54:43] bib to admins: соло игрок
+[20:55:10] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:55:11] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:55:11] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:55:11] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:55:11] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:55:12] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:55:21] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:55:33] BriceMashiro: поляк ты на меня что-то пиздел?
+[20:55:35] RusLanConnection brought ΛПТΞЧКλ ΔЛЬЯНСА
+[20:55:35] RusLanConnection brought sekta
+[20:55:36] Yaroslav_101: руслан!
+[20:55:37] Dropped "Kuka Cola Original" from server<STEAM_0:1:780999703>
+[20:55:37] Client "Kuka Cola Original" connected.
+[20:55:40] RusLanConnection brought Yaroslav_101
+[20:55:41] RusLanConnection brought Wheatley
+[20:55:42] RusLanConnection brought Wheatley
+[20:55:42] Yaroslav_101: поменяй мне модельку
+[20:55:46] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:55:47] Yaroslav_101: как в тот раз
+[20:55:54] Client "Kuka Cola Original" spawned in server <STEAM_0:1:780999703> (took 17 seconds).
+[20:55:55] Goshan: *drop
+[20:55:57] Dropped "Maxaragg" from server<STEAM_0:1:243753537>
+[20:56:08] Client "Maxaragg" connected.
+[20:56:10] Yaroslav_101: male 04 сопротевленец
+[20:56:11] василий каратаев: ДА МЫ 
+[20:56:11] BriceMashiro: плыыыыв
+[20:56:17] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:56:17] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:56:18] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:56:19] BriceMashiro: ПЛЫАВТАУН
+[20:56:19] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:56:20] BriceMashiro: ЛУЧШИЙ
+[20:56:22] BriceMashiro: СОГЛЫ
+[20:56:23] BriceMashiro: А КАК
+[20:56:23] Dropped "sekta" from server<STEAM_0:0:57939554>
+[20:56:24] Client "sekta" connected.
+[20:56:24] BriceMashiro: ВСТУПИТЬ
+[20:56:25] Client "Maxaragg" spawned in server <STEAM_0:1:243753537> (took 17 seconds).
+[20:56:26] василий каратаев: Ф4 Ф5
+[20:56:30] Yaroslav_101: спасибо
+[20:56:37] василий каратаев: НАДА ЯДЕРНЫЕ БОМБЫ ДЕЛАТТ
+[20:56:39] Client "sekta" connected.
+[20:56:45] BriceMashiro: четко
+[20:56:48] василий каратаев: ИХ ПРОИЗВОДСТВО СЛИШКОМ УСКОРЫЛЫ!!
+[20:56:52] (TEAM) BriceMashiro: командный чат работает?
+[20:56:52] Dropped "P0lyakov" from server<STEAM_0:0:60570605>
+[20:56:53] Client "P0lyakov" connected.
+[20:56:58] (TEAM) BriceMashiro: ПОляяя
+[20:57:04] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 25 seconds).
+[20:57:06] (TEAM) BriceMashiro: ПОЛЯЕ лоХ
+[20:57:08] (TEAM) BriceMashiro: ПОЛЯК ЛОХ
+[20:57:10] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 17 seconds).
+[20:57:14] (TEAM) BriceMashiro: рУСЛАН ПиСЬКА
+[20:57:24] (TEAM) василий каратаев: ГОВНО
+[20:57:34] (TEAM) BriceMashiro: БЛЯЯ
+[20:57:44] (TEAM) BriceMashiro: А КАК ПОМЕЧАТЬ
+[20:58:02] golub inside suicided!
+[20:58:11] BriceMashiro: РУСЛАН
+[20:58:13] BriceMashiro: У МЕНЯ 
+[20:58:14] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezshovel
+[20:58:17] BriceMashiro: ВСЕ СТАБИЛЬНО ЭТО ПИЗДЕЦ
+[20:58:25] BriceMashiro: ТАК 
+[20:58:36] golub inside: а т позу починят?
+[20:58:43] (TEAM) BriceMashiro: ЧЕ ДЕЛАЕМ
+[20:59:02] golub inside: ахуел чтоли
+[20:59:07] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:59:07] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[20:59:35] (TEAM) BriceMashiro: поинт
+[20:59:39] (TEAM) BriceMashiro: давай приказы
+[20:59:40] (TEAM) BriceMashiro: я думать не умею
+[21:00:14] BriceMashiro: ЧЕЕЕ
+[21:00:15] BriceMashiro: РУСЛАН
+[21:00:16] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:16] BriceMashiro: ТЫ ЧЕ НАХУЙ
+[21:00:18] P0lyakov: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:20] P0lyakov: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:20] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:20] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:20] P0lyakov: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:20] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:21] P0lyakov: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:21] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:21] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:21] P0lyakov: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:21] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:21] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:21] P0lyakov: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:21] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:21] P0lyakov: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:21] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:21] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Yaroslav_101: у меня войс вообще не работает!
+[21:00:22] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:22] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:23] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:24] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:25] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:25] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:25] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:25] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:25] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:25] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:25] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:25] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:26] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:26] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:26] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:26] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:26] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:27] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:27] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:27] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:27] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:27] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:28] Karasb: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:28] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:28] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:28] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:28] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:28] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:28] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:29] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:29] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:29] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:29] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:29] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:29] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:29] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:29] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:29] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:29] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:30] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:30] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:30] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:30] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:30] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:30] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:30] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:30] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:31] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:31] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:31] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:31] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:31] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:31] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:31] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:31] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:31] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:31] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:31] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:32] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:33] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:34] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:35] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:35] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:35] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:35] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:35] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:35] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:35] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:35] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:35] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:35] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:36] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:36] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:36] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:36] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:36] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:36] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:36] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:36] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:36] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:36] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:37] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:37] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:37] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:37] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:37] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:37] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:37] василий каратаев: ДАВАЙТЕ СРАЗУ БИГ ЯЩИК
+[21:00:37] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:37] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:37] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:37] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:38] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:39] Chupacabr suicided!
+[21:00:40] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:40] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:41] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Temm4ancki: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:42] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:43] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:43] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:43] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:43] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:43] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:43] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:43] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:44] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:44] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:44] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:44] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:44] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:44] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:00:59] BriceMashiro: ЧМЫСЧЛЕ
+[21:01:00] Yaroslav_101: нормально
+[21:01:01] Dropped "golub inside" from server<STEAM_0:0:426119655>
+[21:01:02] Client "GABUK227" connected.
+[21:01:02] BriceMashiro: СМЫСЛЕ НЕТ ИГРОКОВ
+[21:01:06] Yaroslav_101: войс не работет:(
+[21:01:07] BriceMashiro: А Я С ПОИНТОМ И ВАСИЛИЕМ КТО??
+[21:01:12] василий каратаев: УРА 
+[21:01:12] RusLanConnection silently slayed Everyone
+[21:01:12] RusLanConnection: !sslay *
+[21:01:13] BriceMashiro: ПОЗОФОООР
+[21:01:15] Yaroslav_101: ура
+[21:01:16] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:01:23] Dropped "Maxaragg" from server<STEAM_0:1:243753537>
+[21:01:30] Goshan: КАКОЙ ГАБУК?
+[21:01:34] (TEAM) BriceMashiro: там же?
+[21:01:38] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:01:45] Client "golub inside" connected.
+[21:01:54] Yaroslav_101: ладно
+[21:01:54] RusLanConnection brought Wheatley
+[21:01:55] RusLanConnection brought Yaroslav_101
+[21:01:58] RusLanConnection brought ΛПТΞЧКλ ΔЛЬЯНСА
+[21:02:00] RusLanConnection brought S. ARHI
+[21:02:06] Client "golub inside" spawned in server <STEAM_0:0:426119655> (took 21 seconds).
+[21:02:09] (TEAM) BriceMashiro: плыыыыыыыВ
+[21:02:11] NL: !menu
+[21:02:12] NL teleported to RusLanConnection
+[21:02:22] Goshan: *drop
+[21:02:22] Goshan: *drop
+[21:02:32] P0lyakov: !menu
+[21:02:42] P0lyakov teleported golub inside
+[21:02:49] (TEAM) BriceMashiro: YAICEHVAT
+[21:02:49] Dropped "Rulon Oboev" from server<STEAM_0:1:35049753>
+[21:02:49] Client "Rulon Oboev" connected.
+[21:02:52] (TEAM) BriceMashiro: ИДИ К ПЕЩЕРЕ
+[21:02:52] Chupacabr: !menu
+[21:02:54] Dropped "rpd198277#fixtf2" from server<STEAM_0:0:575825780>
+[21:02:54] Client "rpd198277#fixtf2" connected.
+[21:02:54] (TEAM) BriceMashiro: К ПЕЩЕРЕ
+[21:02:59] RusLanConnection brought Karasb
+[21:03:02] (TEAM) BriceMashiro: Помечаю
+[21:03:04] (TEAM) BriceMashiro: иди к нам
+[21:03:06] Chupacabr brought Rackman
+[21:03:13] RusLanConnection brought sekta
+[21:03:15] Client "Rulon Oboev" spawned in server <STEAM_0:1:35049753> (took 26 seconds).
+[21:03:15] Client "rpd198277#fixtf2" spawned in server <STEAM_0:0:575825780> (took 21 seconds).
+[21:03:22] (TEAM) BriceMashiro: стекла
+[21:03:26] Goshan: габук го коммунизм и анорхизм
+[21:03:34] Chupacabr: !menu
+[21:03:44] (TEAM) BriceMashiro: втыкаешь
+[21:03:44] Chupacabr brought Rulon Oboev
+[21:03:47] (TEAM) BriceMashiro: руки скльзике
+[21:03:57] (TEAM) BriceMashiro: машинааа!!
+[21:03:59] (TEAM) BriceMashiro: ест ьче разобрать
+[21:04:26] (TEAM) Yaroslav_101: вау
+[21:04:46] (TEAM) BriceMashiro: хаааай ечмень
+[21:05:36] Yaroslav_101: руслан если я в team чат пишу то это только сквад видит или весь сервак?
+[21:05:48] (TEAM) sekta: squad only
+[21:05:53] Yaroslav_101: ладно
+[21:06:10] василий каратаев: АААА
+[21:06:12] (TEAM) BriceMashiro: ЭЭЭ
+[21:06:13] (TEAM) BriceMashiro: Я ЗАСТРЯЛ
+[21:06:19] (TEAM) BriceMashiro: П
+[21:06:20] (TEAM) BriceMashiro: ЯЯЯЯ
+[21:06:21] (TEAM) BriceMashiro: АААААААААА
+[21:06:32] kiktus.: bind i jmod_ez_inv
+[21:06:36] василий каратаев: ПЛЫВИСКА
+[21:06:48] Dropped "Wheatley" from server<STEAM_0:0:155354605>
+[21:07:04] (TEAM) BriceMashiro: ЗОЛОТО
+[21:07:09] (TEAM) BriceMashiro: золото в контейнер?
+[21:07:19] Client "Wheatley" connected.
+[21:07:24] (TEAM) BriceMashiro: поляк я золото оставлю в углу чтоб продали
+[21:07:26] (TEAM) Mr. Point: всё в контейнер
+[21:07:26] (TEAM) BriceMashiro: ой тфу
+[21:07:30] (TEAM) BriceMashiro: какой поляк ПОИНТ
+[21:07:46] Client "Wheatley" spawned in server <STEAM_0:0:155354605> (took 27 seconds).
+[21:07:57] Wheatley: все я тут
+[21:10:33] Client "GABUK227" spawned in server <STEAM_0:0:461884438> (took 571 seconds).
+[21:10:38] (TEAM) BriceMashiro: так
+[21:10:40] (TEAM) BriceMashiro: продавать
+[21:10:42] (TEAM) BriceMashiro: ЧЕ ПРОДАЕМ ТО
+[21:10:52] (TEAM) BriceMashiro: надо бур сделать и найти ресурсы
+[21:10:58] (TEAM) BriceMashiro: поинт я пойду искать ресурсы
+[21:11:20] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:11:23] GABUK227: ребят, извините конечно, но я немного попздал из-за плохо инета
+[21:11:24] (TEAM) BriceMashiro: РЯДОМ с нами железо
+[21:11:29] GABUK227: *опоздал
+[21:11:37] (TEAM) BriceMashiro: поинт ты запомнил? здесь железо
+[21:11:38] GABUK227: можно уже к кому-нибудь?
+[21:11:57] (TEAM) BriceMashiro: медь
+[21:12:04] Vasto.Pro: Привет габук)
+[21:12:04] Dixon: Привет габук)
+[21:12:04] M4TV: Привет габук)
+[21:12:04] Kuka Cola Original: Привет габук)
+[21:12:04] kiktus.: Привет габук)
+[21:12:10] rpd198277#fixtf2:  Привет габук)
+[21:12:13] (TEAM) BriceMashiro: тоже железо
+[21:12:15] Goshan: Привет габук)
+[21:12:27] (TEAM) BriceMashiro: а уголь дохуя ценное?
+[21:12:35] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:12:37] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:12:39] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:12:55] (TEAM) Mr. Point: нам нужна органика
+[21:13:20] (TEAM) BriceMashiro: у нас блять остров железа и меди
+[21:13:50] василий каратаев: ДАВАЙТЕ ЗАКАЖЕМ КУПИМ ГАНЫ ГАНЫ
+[21:14:02] (TEAM) BriceMashiro: блять там уже кто-то заказывает
+[21:14:23] (TEAM) Mr. Point: ищите машины все
+[21:14:26] (TEAM) BriceMashiro: ТУТ
+[21:14:27] BriceMashiro: ЭТО
+[21:14:41] (TEAM) BriceMashiro: ТАНГСТЕН
+[21:14:44] (TEAM) BriceMashiro: нашел тангстент
+[21:14:45] василий каратаев: ЗОЛОЛТО
+[21:14:45] василий каратаев: КАК
+[21:14:48] (TEAM) BriceMashiro: че-то ценное я помню
+[21:15:14] (TEAM) BriceMashiro: чат пиши мне поинт че ты
+[21:16:02] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:16:17] Client "Maxaragg" connected.
+[21:16:30] Kuka Cola Original was killed by prop_physics
+[21:17:15] Mr. Point was killed by prop_physics
+[21:17:16] Client "Maxaragg" connected.
+[21:17:20] василий каратаев: Ц
+[21:17:21] (TEAM) BriceMashiro: все
+[21:17:24] (TEAM) BriceMashiro: я все выкопал нахуй
+[21:17:37] Client "Maxaragg" spawned in server <STEAM_0:1:243753537> (took 21 seconds).
+[21:18:12] (TEAM) Vasto.Pro: 4
+[21:19:03] василий каратаев: ДАВАЙТЕ ПРОДАВАТЬ ТУНГУСТЕН И УЖЕ ПОКУПАТЬ ФУЕЛЕРЫ И ВСЯКОГО РОДА КА
+[21:19:15] (TEAM) Goshan: я свинец нашел
+[21:19:29] (TEAM) BriceMashiro: а какой щас курс у тангенста?
+[21:19:58] (TEAM) BriceMashiro: 7 баксов за юнит
+[21:20:01] (TEAM) BriceMashiro: за тангенс
+[21:20:29] (TEAM) BriceMashiro: АААА ДЕРЕВО ПОЛЕЙТЕ
+[21:20:50] Temm4ancki: Лагает пизда
+[21:21:00] василий каратаев: ФИЗГАНЧИК
+[21:21:08] василий каратаев: ПОСТАВЬТЕ ЯЩЕК
+[21:21:34] (TEAM) BriceMashiro: И ГДЕ ДЕРЕВО которое я вытощил
+[21:21:54] (TEAM) BriceMashiro: дерево
+[21:22:02] GABUK227: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:22:54] (TEAM) BriceMashiro: ебать ЗОЛОТО???
+[21:22:56] (TEAM) BriceMashiro: У НАС ПОД НОСОМ
+[21:23:46] Yaicehvat: supply radio: gas
+[21:23:55] Temm4ancki was killed by prop_physics
+[21:23:59] (TEAM) BriceMashiro: ЩА
+[21:24:01] (TEAM) BriceMashiro: да
+[21:24:36] Mr. Point killed Temm4ancki using wep_jack_gmod_bas
+[21:24:39] (TEAM) BriceMashiro: проблемы босс?
+[21:24:55] (TEAM) BriceMashiro: плавлю золото
+[21:25:32] (TEAM) BriceMashiro: да дебилы вот верно
+[21:26:24] (TEAM) BriceMashiro: яблокие спелые!
+[21:26:25] (TEAM) Mr. Point: jmod_ez_inv
+[21:26:49] saken Kok was killed by ent_aboot_gmod_ezshippingcontainer
+[21:26:56] (TEAM) BriceMashiro: блин
+[21:26:59] (TEAM) BriceMashiro: че делать босс
+[21:27:11] (TEAM) BriceMashiro: неа
+[21:27:16] василий каратаев: МИСТЕР ПОИНТ ДОСТАНЬ ГАЗОВУЮ ШТУКУ 
+[21:27:27] (TEAM) BriceMashiro: ну блин зачем
+[21:27:37] (TEAM) kiktus.: В ЯЩИК НЕ КИДАТЬ РУДУ
+[21:27:55] (TEAM) BriceMashiro: газа у нас нету от слова совсем
+[21:28:38] (TEAM) BriceMashiro: я думаю сделать солнечную панель
+[21:28:46] василий каратаев: ИХ ЛУЧШЕ ЗАКУПАТЬ
+[21:29:16] (TEAM) BriceMashiro: АЛМАЗЫ
+[21:29:18] (TEAM) BriceMashiro: ГДЕ-ТО АЛМАЗЫ
+[21:29:23] (TEAM) BriceMashiro: У НАС АЛМАЗЫ
+[21:29:29] (TEAM) BriceMashiro: ВАСИЛИЙ
+[21:29:31] (TEAM) BriceMashiro: КОПАЕМ
+[21:29:32] (TEAM) Mr. Point: добывай полные штаны, их даже плавить не надо
+[21:29:33] (TEAM) BriceMashiro: СЕЙЧАС ЖЕ
+[21:29:43] (TEAM) Mr. Point: габюк тоже иди кирку получи
+[21:29:45] Goshan: *drop
+[21:29:46] (TEAM) Mr. Point: или машины дальше ищи
+[21:29:46] Goshan: *drop
+[21:29:47] Goshan: *drop
+[21:29:48] Goshan: *drop
+[21:30:30] (TEAM) BriceMashiro: 50 ЮНИТОВ добыли
+[21:30:49] Savik was killed by prop_physics
+[21:31:27] (TEAM) BriceMashiro: все вскопали
+[21:31:33] (TEAM) BriceMashiro: все
+[21:31:42] (TEAM) BriceMashiro: там только 100 и было
+[21:32:03] (TEAM) BriceMashiro: а че с алмазами делают?
+[21:32:24] (TEAM) BriceMashiro: я их в угол положу
+[21:32:25] (TEAM) BriceMashiro: аа
+[21:32:28] (TEAM) BriceMashiro: пажди
+[21:32:34] (TEAM) BriceMashiro: а золото продали?
+[21:32:47] (TEAM) BriceMashiro: надо печку улучшить
+[21:32:51] (TEAM) BriceMashiro: 60 партов
+[21:33:17] P0lyakov: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:33:18] P0lyakov: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:33:28] василий каратаев: МИСТЕР ПОНИТ КУПИ ДРЕЛ ЧТОБЫ УГОЛЬ ДОМОЙ ШОЛ
+[21:33:32] rpd198277#fixtf2: я афк
+[21:33:51] (TEAM) BriceMashiro: ой у меня чет конекшн проблемс пождите
+[21:34:15] Chupacabr: !menu
+[21:34:44] The time is now 09:34 PM.
+[21:34:50] (TEAM) BriceMashiro: смыслеее
+[21:34:51] (TEAM) BriceMashiro: бляяяя
+[21:34:55] (TEAM) BriceMashiro: ЕЧМЕНЬ
+[21:35:01] (TEAM) BriceMashiro: МНЕ БУКВАЛЬНО 6 ПАРТОВ НЕ ХВАТАЕТ
+[21:35:58] Savik was killed by ent_jack_gmod_ezsfg
+[21:36:16] (TEAM) BriceMashiro: печка улучшена
+[21:36:32] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:34] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:34] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:35] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:35] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:35] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:35] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:35] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:35] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:35] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:36] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:36] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:39] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:41] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:41] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:41] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:41] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:41] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:41] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:41] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:41] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:44] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:44] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:44] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:44] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:44] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:44] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:45] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:45] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:45] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:45] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:45] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:46] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:46] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:46] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:46] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:46] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:46] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:47] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:47] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:47] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:47] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:47] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:48] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:48] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:48] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:48] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:49] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:49] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:49] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:49] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:49] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:50] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:50] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:50] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:50] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:50] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:50] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:50] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:50] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:51] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:51] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:51] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:51] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:52] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:52] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:52] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:52] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:52] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:52] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:52] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:52] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:52] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:53] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:53] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:53] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:53] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:53] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:54] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:54] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:54] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:54] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:54] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:54] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:55] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:55] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:55] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:55] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:55] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:55] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:56] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:56] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:56] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:56] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:56] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:56] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:56] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:58] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:58] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:58] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:58] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:58] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:58] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:59] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:59] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:59] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:59] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:59] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:36:59] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:37:00] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:37:00] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:37:00] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:37:00] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:37:00] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:37:01] (TEAM) BriceMashiro: это  чееее
+[21:37:41] (TEAM) GABUK227: Нам уголь нужен?
+[21:37:46] (TEAM) BriceMashiro: а как
+[21:37:48] (TEAM) BriceMashiro: использовать
+[21:37:50] (TEAM) BriceMashiro: А НЕТУ
+[21:37:52] (TEAM) BriceMashiro: РЕСУРСОВ
+[21:37:53] (TEAM) saken Kok: "supply radio:help"
+[21:38:17] (TEAM) BriceMashiro: ахуеть скриптовые ошибки
+[21:38:21] (TEAM) BriceMashiro: пистолет не подобрать
+[21:38:33] (TEAM) GABUK227: Поинт, можешь перечислить ресурсы, которые нам сейчас нужны?
+[21:39:06] василий каратаев: ПРЕДЛАГАЮ ПОСТРОИТЬ РАДАР РУД И ОСМОТРЕТЬ НА НАЛИЧИЕ НЕФТИ
+[21:39:22] (TEAM) BriceMashiro: тестовы выстрел!
+[21:39:47] (TEAM) BriceMashiro: поинт в основном у тебя все деньги?
+[21:40:04] golub inside was killed by prop_physics
+[21:40:06] (TEAM) BriceMashiro: ладно василий я с тобой
+[21:40:25] василий каратаев: ЕСТЬ ИДЕЯ ПОДОМНУТЬ ЕЩЕ ЗИМНЕЙ ОСТРОВ
+[21:40:30] василий каратаев: ОН ДЕВСТВЕННО ПУСТ
+[21:40:43] (TEAM) BriceMashiro: я же там вроде кого-то видел
+[21:40:44] (TEAM) Mr. Point: ну если там что-то есть крутое
+[21:40:59] (TEAM) BriceMashiro: МЫ С василием на зимний остров
+[21:41:19] василий каратаев: ЭТО НАВЕРНОЕ НУБ ОДИНОЧКА БЫЛ РАСТРЕЛ
+[21:41:34] (TEAM) BriceMashiro: все
+[21:41:39] (TEAM) BriceMashiro: ща принесу энергию
+[21:41:43] (TEAM) Mr. Point: нужно ещё машинки разбирать
+[21:42:38] (TEAM) BriceMashiro: у нас электричества нету совсем???
+[21:43:10] (TEAM) BriceMashiro: у меня так же было
+[21:43:14] (TEAM) BriceMashiro: разбирай тогда
+[21:43:26] NL was killed by prop_physics
+[21:43:41] Mr. Point: *drop
+[21:44:05] василий каратаев: АЛМАЗ
+[21:44:09] (TEAM) BriceMashiro: ГДЕ
+[21:44:49] (TEAM) BriceMashiro: василий сколько юнитов?
+[21:44:57] василий каратаев: Я ТОЖЕ ОСЛЕП ОТ БЕЛЕЗНЫ
+[21:45:19] (TEAM) BriceMashiro: у меня монитор говное пересвечивает
+[21:45:22] (TEAM) BriceMashiro: я нечего не вижу
+[21:45:26] BriceMashiro: сап
+[21:45:33] (TEAM) BriceMashiro: да блииин
+[21:45:35] golub inside was killed by prop_physics
+[21:45:35] (TEAM) BriceMashiro: зачем
+[21:46:12] (TEAM) BriceMashiro: а щас они стоят...
+[21:46:22] (TEAM) BriceMashiro: 18 за юнит
+[21:46:47] (TEAM) BriceMashiro: не прощаю
+[21:46:50] S. ARHI: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:46:52] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:46:53] (TEAM) BriceMashiro: все
+[21:46:53] Yaroslav_101: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:46:55] ΛПТΞЧКλ ΔЛЬЯНСА: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:46:55] (TEAM) BriceMashiro: ВЫКОПАЛИ
+[21:46:56] sekta: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:47:00] (TEAM) BriceMashiro: 100 ЮНИТОВ
+[21:47:00] (TEAM) GABUK227: 109
+[21:47:05] (TEAM) BriceMashiro: я несу
+[21:47:47] (TEAM) BriceMashiro: щас продавать поинт?
+[21:47:50] (TEAM) BriceMashiro: ааа ты
+[21:47:51] (TEAM) BriceMashiro: будешь
+[21:48:04] (TEAM) BriceMashiro: они в углу будут
+[21:48:10] (TEAM) BriceMashiro: алмазы в углу
+[21:48:41] (TEAM) BriceMashiro: у меня кирка
+[21:48:53] (TEAM) BriceMashiro: гавук
+[21:48:55] (TEAM) BriceMashiro: че у тебя
+[21:49:14] (TEAM) GABUK227: Прочекал, тут больше кроме железа и меди ничего нет
+[21:49:18] Gray Clocker was killed by prop_physics
+[21:50:07] (TEAM) BriceMashiro: ЭЭЭ
+[21:50:14] (TEAM) BriceMashiro: СЕНСОР В ВОЗДУХЕ ЗАСТРЯЛ
+[21:50:22] (TEAM) BriceMashiro: а все
+[21:50:26] M4TV was killed by ent_jack_aidbox
+[21:50:32] (TEAM) BriceMashiro: я его ВЗЯТЬ Н ЕМОГУ
+[21:50:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[21:51:02] (TEAM) BriceMashiro: вязсля
+[21:51:14] (TEAM) BriceMashiro: а как его искать
+[21:51:16] василий каратаев: ЗАКУПАЙТЕ НЕФТЬ  БУДЕМ ГНАТЬ ТОПЛЫВ
+[21:51:20] василий каратаев: ТАК ЛЕГКО
+[21:51:33] Dropped "GABUK227" from server<STEAM_0:0:461884438>
+[21:51:38] kiktus.: сюда
+[21:51:49] (TEAM) BriceMashiro: так
+[21:51:51] (TEAM) BriceMashiro: че делаааать
+[21:51:52] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:54] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:54] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:54] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:54] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:54] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:54] Dixon: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:56] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:56] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:56] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:56] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:57] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:58] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:58] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:58] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:51:58] Goshan: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:52:31] (TEAM) BriceMashiro: сильвер
+[21:52:37] (TEAM) BriceMashiro: гнужно 100 сильвера
+[21:53:31] (TEAM) BriceMashiro: к тебе ечмень идет
+[21:53:49] (TEAM) BriceMashiro: МАШИНКА
+[21:53:58] василий каратаев: КИРКА ЕСТЬ?
+[21:54:06] (TEAM) BriceMashiro: ПОИНТ ПОМОГИИИ
+[21:54:06] василий каратаев: ДАВАЙ ЗАЩИЩАТЬ МЕНЯ ББУЕД
+[21:54:45] Client "GABUK227" connected.
+[21:55:05] (TEAM) BriceMashiro: А ГЕНЕРАТОРУ только газ и топливо нужно?
+[21:55:09] Client "GABUK227" spawned in server <STEAM_0:0:461884438> (took 24 seconds).
+[21:55:10] (TEAM) BriceMashiro: просто думаю солнечную панель сделать
+[21:55:13] (TEAM) BriceMashiro: поинт
+[21:55:32] (TEAM) BriceMashiro: турель упал
+[21:56:21] (TEAM) BriceMashiro: там дохуя людей
+[21:56:25] (TEAM) BriceMashiro: куда ечмень указывает
+[21:57:27] (TEAM) BriceMashiro: МАШИНАА
+[21:58:03] bib: supply radio: tnt
+[21:58:14] василий каратаев: МОГУ
+[21:58:15] василий каратаев: ЕЩО
+[21:58:25] (TEAM) BriceMashiro: да где достать сильвер???
+[21:58:36] bib: supply radio: stick grenades
+[21:58:36] (TEAM) BriceMashiro: солнечную панель сделать
+[21:58:38] (TEAM) BriceMashiro: на случай
+[21:59:19] (TEAM) GABUK227: Нашел золото
+[21:59:44] (TEAM) BriceMashiro: СИЛЬВЕР ДОРГОЙ ПИЗДЕЕЦ
+[21:59:45] (TEAM) BriceMashiro: ЕБАТЬ
+[21:59:50] (TEAM) BriceMashiro: я не куплю
+[22:00:05] (TEAM) GABUK227: мои сообщения же видно? 
+[22:00:10] (TEAM) BriceMashiro: че
+[22:00:17] (TEAM) BriceMashiro: ечмень че такое
+[22:00:21] (TEAM) BriceMashiro: че указал
+[22:01:13] василий каратаев: .!S
+[22:02:33] (TEAM) BriceMashiro: золото нашел 4 юнитка
+[22:02:46] (TEAM) BriceMashiro: а ты где габук
+[22:03:30] (TEAM) BriceMashiro: пионт
+[22:03:36] (TEAM) BriceMashiro: а у тебя уже есть
+[22:03:47] (TEAM) BriceMashiro: поинт какого цветы мы?
+[22:04:19] Vasto.Pro: /drop
+[22:04:25] Vasto.Pro: /me Предъявил IDN:[-|442nd|Рекрут|-|0111]
+[22:05:23] (TEAM) BriceMashiro: все кто одевает броню красимся в оранжевый
+[22:05:27] (TEAM) BriceMashiro: поинт давай так
+[22:07:12] Dropped "Gray Clocker" from server<STEAM_0:0:90429207>
+[22:07:41] василий каратаев: КЕРАКМИКИ ПРИНЕСИТ
+[22:07:43] Goshan: *grab
+[22:08:23] василий каратаев: 200 НАДА
+[22:09:41] (TEAM) BriceMashiro: так
+[22:09:44] (TEAM) BriceMashiro: ЧЕ ДЕЛАЕЕЕМ
+[22:09:52] василий каратаев: ВСО ЧТО НАДА ДЛЯ ВЕРТА
+[22:09:54] василий каратаев: СИНИЕ ПАРТСЫ
+[22:09:57] василий каратаев: И ЭЛЕКТРОНИКА
+[22:10:04] василий каратаев: ДАВАЙТЕ СКЛАДЫВАТЬ ГДЕ НЕИТЬ ВСО
+[22:10:08] (TEAM) BriceMashiro: мы ДАЛЕКО от вертолетка
+[22:10:27] (TEAM) BriceMashiro: bomb bey вообще сильная бомба?
+[22:10:52] (TEAM) BriceMashiro: ну че делаю парты?
+[22:11:03] (TEAM) BriceMashiro: ДЕЛАЮ ПАРТЫ
+[22:11:20] (TEAM) BriceMashiro: Делаю синие
+[22:11:39] (TEAM) BriceMashiro: стоп
+[22:11:43] (TEAM) BriceMashiro: а как синие парты делать
+[22:12:04] (TEAM) BriceMashiro: делаю базовые парты!
+[22:12:11] (TEAM) BriceMashiro: ДА БЛЯТЬ
+[22:12:13] василий каратаев: ЩАС БУДЕТ ТОПЛЫВО
+[22:12:23] (TEAM) BriceMashiro: КАРОЧ НУЖНО ЭЛЕКТРИЧЕСТВО
+[22:12:24] (TEAM) BriceMashiro: 200
+[22:12:26] (TEAM) BriceMashiro: ии
+[22:12:27] (TEAM) BriceMashiro: огня
+[22:12:30] (TEAM) BriceMashiro: че за огонь
+[22:12:41] (TEAM) BriceMashiro: ааа топливо
+[22:12:44] kiktus.: squad_menu в консоль
+[22:12:46] (TEAM) BriceMashiro: а оно из нефти как я понимаю?
+[22:12:46] Chupacabr suicided!
+[22:13:01] (TEAM) BriceMashiro: а где нефт так и не знгаем...
+[22:13:09] (TEAM) BriceMashiro: а его разве хватит?
+[22:13:12] василий каратаев: ДА ДА
+[22:13:28] Vasto.Pro suicided!
+[22:13:28] saken Kok suicided!
+[22:13:31] (TEAM) BriceMashiro: кароч прошу лишь об одном
+[22:13:37] sekta: .!pchat
+[22:13:39] (TEAM) BriceMashiro: предоставить МНЕ возможност ьопстроить вертолёт
+[22:13:41] (TEAM) BriceMashiro: пж
+[22:13:43] (TEAM) BriceMashiro: :3
+[22:14:03] Dixon: weapon_physgun
+[22:14:10] kiktus.: playermodel_selector
+[22:14:12] Dixon: playermodel_selector 
+[22:14:13] василий каратаев: Я МОГУ В ГОСТИ СХОДИТЬ К ДРУЗЬЯМ СПРОСИТЬ КАК ДЕЛА 
+[22:14:22] (TEAM) BriceMashiro: ты только вещи оставь
+[22:14:30] (TEAM) BriceMashiro: вещи свои оставь
+[22:15:19] (TEAM) kiktus.: а куда 
+[22:15:21] (TEAM) kiktus.: тимур
+[22:15:22] (TEAM) kiktus.: вы где?
+[22:15:38] (TEAM) BriceMashiro: БЛЯТЬ
+[22:15:49] (TEAM) BriceMashiro: НУ ЩАС
+[22:15:52] (TEAM) BriceMashiro: СЛУЧАЙНО НАЧНЕТ СТРЕЛЯТЬ
+[22:16:03] rpd198277#fixtf2 suicided!
+[22:16:33] bib killed GABUK227 using wep_jack_gmod_flintlockmusket
+[22:16:35] (TEAM) BriceMashiro: ТСТРЕЕЕ
+[22:16:36] (TEAM) BriceMashiro: ЬЯЛЯЯЯ
+[22:16:38] Yaicehvat killed Maxaragg using wep_jack_gmod_sniperrifle
+[22:16:46] Client "Raphael Ambrosius Cousteau" connected.
+[22:16:51] василий каратаев: ИХ СТО
+[22:16:57] (TEAM) BriceMashiro: сФЦ
+[22:16:59] василий каратаев: ПАТРОВ
+[22:16:59] (TEAM) BriceMashiro: ГНИЛДЫ
+[22:17:26] (TEAM) BriceMashiro: аА
+[22:17:30] (TEAM) BriceMashiro: ЩАС?
+[22:17:36] (TEAM) BriceMashiro: я сверху сделаю
+[22:17:47] (TEAM) BriceMashiro: да блять
+[22:18:05] (TEAM) BriceMashiro: так где бы...
+[22:18:09] (TEAM) BriceMashiro: да подвинь пж
+[22:18:17] (TEAM) BriceMashiro: прямо тут
+[22:18:19] (TEAM) BriceMashiro: сделаю
+[22:18:32] (TEAM) BriceMashiro: так
+[22:18:37] (TEAM) BriceMashiro: на счет 3
+[22:18:37] (TEAM) BriceMashiro: 2
+[22:18:39] (TEAM) BriceMashiro: ЛАДНО
+[22:18:52] (TEAM) BriceMashiro: БЛЯТЬ ГАЗ ЗАБЫЛ
+[22:18:52] Dropped "Goshan" from server<STEAM_0:0:246258123>
+[22:19:01] (TEAM) BriceMashiro: Лады...
+[22:19:07] Client "Raphael Ambrosius Cousteau" spawned in server <STEAM_0:1:590460920> (took 141 seconds).
+[22:19:27] василий каратаев: МЕДИ
+[22:19:27] bib was killed by prop_physics
+[22:19:29] (TEAM) BriceMashiro: СДЕЛЛА
+[22:19:41] (TEAM) BriceMashiro: ДЕРЕВЛО
+[22:19:42] (TEAM) BriceMashiro: ПОЛЕЙТЕ
+[22:19:43] (TEAM) BriceMashiro: БЛИИН
+[22:19:59] (TEAM) BriceMashiro: Ну че поинт хватает??
+[22:20:08] pojn87 was killed by ent_jack_gmod_ezwarmine
+[22:20:48] (TEAM) BriceMashiro: АХУЕТЬ
+[22:20:52] Dropped "Raphael Ambrosius Cousteau" from server<STEAM_0:1:590460920>
+[22:21:04] (TEAM) BriceMashiro: вертолету топливо нужно?
+[22:21:08] василий каратаев: ДАВАЙТЕ СРАЗУ БОМБЫ У НАС ЕХСТЬ ВОЗМОЖНОСТЬ СДЕЛАТЬ ПАРУ ИДИ МОЖЕТ Б�
+[22:21:12] (TEAM) BriceMashiro: кто
+[22:21:14] (TEAM) BriceMashiro: КТО СТРЕЛЯЛ
+[22:21:30] (TEAM) BriceMashiro: мащина
+[22:21:34] (TEAM) BriceMashiro: машина помогите
+[22:21:37] Client "Raphael Ambrosius Cousteau" connected.
+[22:22:13] Client "Raphael Ambrosius Cousteau" spawned in server <STEAM_0:1:590460920> (took 36 seconds).
+[22:22:37] (TEAM) BriceMashiro: че та на видном месте
+[22:22:39] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezwarmine
+[22:22:39] (TEAM) BriceMashiro: да
+[22:22:49] (TEAM) BriceMashiro: машинку разобрали
+[22:22:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezwarmine
+[22:23:10] (TEAM) BriceMashiro: немного золота есть
+[22:23:19] (TEAM) BriceMashiro: это чеее!!!!
+[22:23:45] (TEAM) BriceMashiro: золота надо плавииить!
+[22:24:22] Chupacabr: Rsddasd
+[22:25:05] (TEAM) BriceMashiro: ДЕРЕВОООО
+[22:25:15] Dropped "Raphael Ambrosius Cousteau" from server<STEAM_0:1:590460920>
+[22:25:19] Client "Raphael Ambrosius Cousteau" connected.
+[22:25:38] василий каратаев: ЖЕСТЬ У НАС ЗОЛОТО СЕЙЧАС БУДЕТ
+[22:25:40] Client "Raphael Ambrosius Cousteau" spawned in server <STEAM_0:1:590460920> (took 21 seconds).
+[22:25:41] (TEAM) BriceMashiro: блин а как похилиться!!!
+[22:25:54] василий каратаев: КУПЛЮ ЩАС МЕДОВ
+[22:26:09] kiktus.: федя
+[22:26:15] BriceMashiro: ахуеть когда я смотрю в центр у меня фпс до 5 падает
+[22:26:36] Raphael Ambrosius Cousteau suicided!
+[22:26:53] василий каратаев killed Raphael Ambrosius Cousteau using ent_jack_gmod_ezsentry
+[22:27:05] василий каратаев: ГАЗ НАДО
+[22:27:09] василий каратаев: МНОГО ГАЗА И ВОДЫ
+[22:27:12] василий каратаев: БОЛЬШЕ НЕ ЧЕГО
+[22:27:36] Dropped "Raphael Ambrosius Cousteau" from server<STEAM_0:1:590460920>
+[22:27:47] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:27:50] (TEAM) BriceMashiro: бомбу будешь делать?
+[22:28:13] (TEAM) BriceMashiro: как узнать сколько деньгу у тебя
+[22:28:49] (TEAM) BriceMashiro: походу тестит
+[22:29:02] (TEAM) BriceMashiro: турель
+[22:29:36] pojn87: /S К НАМ ПЛВЫУИТ
+[22:29:38] Dixon: ого как бингует
+[22:30:13] (TEAM) BriceMashiro: кого
+[22:30:15] bib killed S. ARHI using wep_jack_gmod_ssr
+[22:30:20] Dropped "Yaroslav_101" from server<STEAM_0:0:512387579>
+[22:30:24] (TEAM) BriceMashiro: кто то
+[22:30:26] (TEAM) BriceMashiro: К НАМ ИДЕТ
+[22:30:32] (TEAM) BriceMashiro: ОДИН ЧЕЛ
+[22:30:34] Dropped "S. ARHI" from server<STEAM_0:0:441121915>
+[22:30:56] (TEAM) BriceMashiro: габик не надо
+[22:30:58] (TEAM) BriceMashiro: ГАБИ
+[22:31:02] (TEAM) BriceMashiro: ДАВАЙ НЕ НАДО
+[22:31:24] pojn87: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:31:45] pojn87: /S СОВЕТУЮ УШКИ НА МАКУШКЕ И ГЛАЗА НА СПИНЕ
+[22:31:55] pojn87: /ы c
+[22:31:58] (TEAM) BriceMashiro: поинт кароч
+[22:32:00] (TEAM) BriceMashiro: габик говорит
+[22:32:07] (TEAM) BriceMashiro: что на маленьком острове сером
+[22:32:11] (TEAM) BriceMashiro: феолетовые ходили
+[22:32:18] (TEAM) BriceMashiro: возможно они договорились с кем то
+[22:32:23] (TEAM) BriceMashiro: вон там
+[22:32:35] (TEAM) BriceMashiro: некоторые ходили туда
+[22:32:59] (TEAM) BriceMashiro: че делаем поинт?
+[22:33:44] (TEAM) BriceMashiro: машина
+[22:33:48] (TEAM) BriceMashiro: василий помоги
+[22:34:12] (TEAM) BriceMashiro: значит делат гранатамёты?
+[22:34:40] (TEAM) BriceMashiro: тогда надо сделать пару ракетниц
+[22:34:43] (TEAM) BriceMashiro: что-бы сбивать
+[22:34:51] RusLanConnection: supply radio: airstrike smallbombs
+[22:35:20] (TEAM) BriceMashiro: как вылечиться?
+[22:35:31] василий каратаев: НУЖНО МЕДКИТ
+[22:35:52] (TEAM) BriceMashiro: МАСИЛИЙ
+[22:35:54] (TEAM) BriceMashiro: ВАСИЛИЙ
+[22:35:56] (TEAM) BriceMashiro: УБИРАЕМСЯ
+[22:35:59] (TEAM) BriceMashiro: УБОРКУ
+[22:36:00] (TEAM) BriceMashiro: СРОЧНО
+[22:36:21] (TEAM) BriceMashiro: ТАК
+[22:36:23] (TEAM) BriceMashiro: ТО ЧТО ПРОДАТЬ
+[22:36:25] (TEAM) BriceMashiro: ОСТАВЛЯЕМ
+[22:36:40] BriceMashiro: Мать чисто заставляет
+[22:36:42] BriceMashiro: нас убраться
+[22:37:21] Mr. Point killed Karasb using wep_jack_gmod_assaultrifle
+[22:37:40] sekta killed Mr. Point using wep_jack_gmod_lac
+[22:37:41] (TEAM) BriceMashiro: че за coolant
+[22:37:47] (TEAM) BriceMashiro: для турели
+[22:39:56] (TEAM) BriceMashiro: тунгстен продаю
+[22:40:16] (TEAM) BriceMashiro: как ящик для продажи сделать
+[22:40:58] (TEAM) BriceMashiro: что?
+[22:41:46] BriceMashiro: КТО ВОЗЛЕ НАС был
+[22:41:50] Dixon: bind кнопкка jmod_ez_inv
+[22:41:53] василий каратаев: В ЯЩИКЕ СЛОЖИЛ
+[22:42:10] (TEAM) BriceMashiro: Не идите по ОДИНОЧКЕ БЛЯЯЯТЬ
+[22:42:17] (TEAM) BriceMashiro: ГАДЮК ВЕРНУЛСЯ
+[22:42:18] (TEAM) BriceMashiro: БЫСТРО
+[22:42:39] (TEAM) BriceMashiro: ДА УПЛЫЛ ПОД ВОДОЙ
+[22:42:49] (TEAM) BriceMashiro: пацаны возвращаемся
+[22:42:52] (TEAM) BriceMashiro: мне кажется всё
+[22:43:02] (TEAM) BriceMashiro: кадюка епрст 
+[22:43:06] (TEAM) BriceMashiro: ты там щас один
+[22:43:10] (TEAM) BriceMashiro: ЧТО
+[22:43:12] (TEAM) BriceMashiro: В ЧАТ
+[22:43:13] (TEAM) BriceMashiro: ПИШИ
+[22:43:30] Yaicehvat: габук он на твоем острове
+[22:43:48] (TEAM) BriceMashiro: ЧТО
+[22:43:50] (TEAM) BriceMashiro: ВЗРЫВ
+[22:43:53] василий каратаев: !
+[22:43:55] Mr. Point killed Vasto.Pro using wep_jack_gmod_assaultrifle
+[22:43:59] (TEAM) BriceMashiro: поинт
+[22:44:00] (TEAM) BriceMashiro: что у тебя
+[22:44:03] (TEAM) BriceMashiro: бляяяяять!!!
+[22:44:17] M4TV killed Mr. Point using wep_jack_gmod_pas
+[22:44:17] (TEAM) BriceMashiro: ЧТООО
+[22:44:39] (TEAM) BriceMashiro: У НАС НА БАЗЕ
+[22:44:43] (TEAM) BriceMashiro: ОИДН ФЕОЛЕТОВЫЙ
+[22:44:47] (TEAM) BriceMashiro: ПОДЛ ВОДОЙ
+[22:44:58] (TEAM) BriceMashiro: ДА БЛЯТЬ НЕ ВЫСОВЫВАЙТЕ САК СИЛЬНО
+[22:46:08] (TEAM) BriceMashiro: ОДИН
+[22:46:24] василий каратаев: ДЕЛАЙ МЕДК
+[22:46:48] (TEAM) BriceMashiro: ЗДЕСЬ ОДНОВО
+[22:46:50] (TEAM) BriceMashiro: ВИДЕЛ
+[22:47:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezshippingcontainer
+[22:48:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezutilitycrate
+[22:49:26] (TEAM) BriceMashiro: ааааААААААААА
+[22:49:28] (TEAM) BriceMashiro: БЛЯЯЯТЬ
+[22:49:29] (TEAM) BriceMashiro: Я ЧУТЬ
+[22:49:33] (TEAM) BriceMashiro: ПОД УДАР НЕ ПОПАЛ
+[22:49:36] (TEAM) BriceMashiro: БУКВАЛЬНЕО
+[22:49:43] (TEAM) BriceMashiro: МНЕ ТОЖЕ
+[22:49:45] (TEAM) BriceMashiro: 5 ХП
+[22:49:50] (TEAM) BriceMashiro: НАМ НУЖНЫ ПУШКИ
+[22:50:05] BriceMashiro: любим
+[22:50:19] pojn87: со скалы палят по плывтауну
+[22:50:32] василий каратаев: ДАВАТЕ
+[22:50:39] (TEAM) BriceMashiro: на нужны
+[22:50:43] (TEAM) BriceMashiro: автоматические пушки
+[22:50:46] василий каратаев: ВЕРТ ПОЧТИ ГОТОВ
+[22:50:48] василий каратаев: КСТАТИ
+[22:50:51] василий каратаев: МОЖЕТ С ВЕРТА ТАКЖЕ
+[22:50:58] василий каратаев: ПРОСТО ЗАВИСНЕМ
+[22:51:51] (TEAM) BriceMashiro: ой
+[22:51:55] (TEAM) BriceMashiro: чуть на меня не упал
+[22:51:57] (TEAM) BriceMashiro: я бы здох
+[22:52:18] (TEAM) BriceMashiro: блин
+[22:52:48] (TEAM) BriceMashiro: я для теста кину
+[22:52:58] (TEAM) BriceMashiro: тестовая гранат!
+[22:53:13] (TEAM) BriceMashiro: это я!
+[22:53:26] (TEAM) BriceMashiro: дайте одну грену пж...
+[22:53:38] (TEAM) BriceMashiro: бери
+[22:53:44] Chupacabr was killed by prop_physics
+[22:53:47] василий каратаев: ЕСТЬ ВЕРТ
+[22:53:48] василий каратаев: ДАВАЙТЕ
+[22:53:49] (TEAM) BriceMashiro: ну ты шутнииииик поинт
+[22:53:55] (TEAM) BriceMashiro: я поменял его на автомат
+[22:54:24] (TEAM) BriceMashiro: да блять
+[22:54:58] (TEAM) BriceMashiro: а у пулемета отдача большая?
+[22:55:06] (TEAM) BriceMashiro: бляяяяять
+[22:55:10] (TEAM) BriceMashiro: кароч
+[22:55:12] (TEAM) BriceMashiro: я беру пулемет
+[22:55:17] (TEAM) BriceMashiro: БЛЯЯЯЯЯЯ
+[22:55:31] василий каратаев: ДА ВАЩЕ ГОВНО КАКЕО
+[22:55:45] (TEAM) BriceMashiro: У НАС же есть второй вертолет?
+[22:55:53] (TEAM) BriceMashiro: АААААА
+[22:55:54] (TEAM) BriceMashiro: ФУХ
+[22:55:56] (TEAM) BriceMashiro: успел
+[22:56:05] Dropped "rpd198277#fixtf2" from server<STEAM_0:0:575825780>
+[22:56:13] (TEAM) BriceMashiro: да блиииин НА ПУЛЕМЕТ НЕ ХВАТАЕТ
+[22:56:21] василий каратаев: ДАЙТЕ ЕМУ ДЕНЕГ
+[22:56:31] (TEAM) BriceMashiro: ОЙ 
+[22:56:32] василий каратаев: СЕК
+[22:56:44] RusLanConnection was killed by prop_physics
+[22:56:47] (TEAM) BriceMashiro: падаждите меня ребтяяяяяяя
+[22:56:48] pojn87: / я видел как с нашей стороны отплывали со штукинцей
+[22:57:07] (TEAM) BriceMashiro: какой план поинт? я прослушал
+[22:57:11] RusLanConnection teleported to ΛПТΞЧКλ ΔЛЬЯНСА
+[22:57:26] golub inside:  /s труба пропала
+[22:57:32] (TEAM) BriceMashiro: ПОИНТ Я С тобоЙ
+[22:57:46] (TEAM) BriceMashiro: лады
+[22:57:48] pojn87: / рядом с пустыней
+[22:57:56] (TEAM) BriceMashiro: КАРОч вася и чечел
+[22:58:02] (TEAM) BriceMashiro: давайте это не высовываться
+[22:58:08] (TEAM) BriceMashiro: за горой постоим
+[22:58:09] (TEAM) BriceMashiro: покурим
+[22:58:12] (TEAM) BriceMashiro: \ф
+[22:58:15] (TEAM) BriceMashiro: БЛЯТ ЬЯ ИСПУГАЛСЯ
+[22:58:24] (TEAM) BriceMashiro: ВАСЯ Я ДУМАЛ В МЕНЯ СТРЕЛЯЮТ
+[22:58:27] pojn87: вон
+[22:58:28] GABUK227: БываетXD
+[22:58:28] (TEAM) BriceMashiro: да
+[22:58:42] (TEAM) BriceMashiro: xt p
+[22:58:43] Client "Redoket" connected.
+[22:58:44] (TEAM) BriceMashiro: че за взрывы
+[22:59:00] (TEAM) BriceMashiro: ААА от туда
+[22:59:12] (TEAM) BriceMashiro: поит у тебя че?
+[22:59:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[22:59:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[23:00:13] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 90 seconds).
+[23:00:21] (TEAM) BriceMashiro: че видишь ечмень
+[23:00:29] (TEAM) BriceMashiro: он наш босс
+[23:00:32] (TEAM) BriceMashiro: боимся за него
+[23:01:09] (TEAM) BriceMashiro: перед уходом надо дерево полить...
+[23:01:16] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:01:19] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:01:21] Rulon Oboev: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:01:24] (TEAM) BriceMashiro: блЯЯЯЯТЯЬ
+[23:01:26] Maxaragg was killed by ent_aboot_gmod_ezshippingcontainer
+[23:01:27] (TEAM) BriceMashiro: ВАСИЛИЯ РАЗДОВИЛО
+[23:01:35] (TEAM) BriceMashiro: ААХАХАХАХАХ
+[23:01:36] Mr. Point: /charfallover 0
+[23:01:41] (TEAM) BriceMashiro: ДА НЕ ПРОСТО
+[23:01:45] (TEAM) BriceMashiro: василия машина раздовило
+[23:02:06] (TEAM) BriceMashiro: ечмень ты у нас снайпер
+[23:02:17] Redoket killed Redoket
+[23:02:34] (TEAM) BriceMashiro: оооооо
+[23:02:43] василий каратаев: ТЫ КТО КТО ТЫ
+[23:02:44] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[23:02:46] василий каратаев: СТОЯТЬЦ
+[23:02:52] Yaicehvat killed saken Kok using wep_jack_gmod_sniperrifle
+[23:02:55] Redoket: аыаыаыаыа
+[23:02:58] Chupacabr: рулон обоев
+[23:03:06] Redoket: я а что где зачем?
+[23:03:09] Chupacabr: хош иди
+[23:03:15] Yaicehvat: габук я его уложил
+[23:03:27] (TEAM) BriceMashiro: я щас
+[23:03:31] василий каратаев: ДАВАЙ
+[23:03:33] василий каратаев: БЕГИ 
+[23:03:35] василий каратаев: ОТСБЕА
+[23:03:42] Redoket: ЧТО ?
+[23:03:46] BriceMashiro killed M4TV using ent_jack_gmod_ezsentry
+[23:04:03] (TEAM) BriceMashiro: пацаны 
+[23:04:04] (TEAM) BriceMashiro: гкароч
+[23:04:07] (TEAM) BriceMashiro: в пещере
+[23:04:10] (TEAM) BriceMashiro: лежит рекотомет
+[23:04:16] (TEAM) Rulon Oboev: )
+[23:04:19] (TEAM) BriceMashiro: я просто не могу скрафтить потроны для него
+[23:04:29] (TEAM) BriceMashiro: турель
+[23:04:30] василий каратаев: НЕТ
+[23:04:33] (TEAM) BriceMashiro: ТСРЕЛЯЮ
+[23:04:43] BriceMashiro killed Redoket using ent_jack_gmod_ezsentry
+[23:04:53] (TEAM) BriceMashiro: Я НЕ ЗНАЮ
+[23:05:01] (TEAM) BriceMashiro: всЦЦ
+[23:05:05] василий каратаев: СЕК
+[23:05:15] (TEAM) BriceMashiro: здравье желаю
+[23:05:24] Vasto.Pro: /drop
+[23:06:16] (TEAM) BriceMashiro: lf
+[23:06:19] (TEAM) BriceMashiro: от туда стреляют
+[23:06:22] (TEAM) BriceMashiro: слышал и видел
+[23:06:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[23:06:35] василий каратаев: ЗАБРАСАЕМ ГАВНОМ
+[23:07:14] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[23:07:34] Client "Redoket" connected.
+[23:07:55] (TEAM) BriceMashiro: ЗАПИсЫВЕМ пацаны
+[23:07:58] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 24 seconds).
+[23:08:17] Vasto.Pro killed Redoket using wep_jack_gmod_sniperrifle
+[23:08:23] (TEAM) BriceMashiro: Я ТОЖе тогда?
+[23:08:41] (TEAM) BriceMashiro: ПОИНТ?
+[23:08:55] (TEAM) BriceMashiro: БЛЯЯЯЯ
+[23:08:57] (TEAM) BriceMashiro: ПОИНТ
+[23:09:02] Wheatley was killed by ent_jack_gmod_ezminirocket
+[23:09:03] Yaicehvat: габук осторожнее!
+[23:09:05] Vasto.Pro killed GABUK227 using wep_jack_gmod_sniperrifle
+[23:09:16] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[23:09:18] Mr. Point killed Kuka Cola Original using wep_jack_gmod_assaultrifle
+[23:09:24] NL killed Mr. Point using wep_jack_gmod_assaultrifle
+[23:09:25] sekta killed Dixon using wep_jack_gmod_lac
+[23:09:27] kiktus. killed ΛПТΞЧКλ ΔЛЬЯНСА using ent_jack_gmod_ezsentry
+[23:09:30] (TEAM) BriceMashiro: поинт упал
+[23:09:34] (TEAM) BriceMashiro: ПОИНТ УПАЛ
+[23:09:40] Dixon suicided!
+[23:10:12] NL killed BriceMashiro using wep_jack_gmod_assaultrifle
+[23:10:13] Vasto.Pro killed GABUK227 using wep_jack_gmod_sniperrifle
+[23:10:14] (TEAM) BriceMashiro: своии
+[23:10:27] GABUK227 suicided!
+[23:10:37] BriceMashiro: Я ПРОСТО ЗАСПАВНИЛСМЯ ИЗВЕНИТЕ
+[23:10:41] P0lyakov: А ок
+[23:11:02] Savik was killed by ent_jack_gmod_ezprojectilenade
+[23:11:22] NL killed Chupacabr using wep_jack_gmod_assaultrifle
+[23:11:25] Client "Redoket" connected.
+[23:11:27] NL killed pojn87 using wep_jack_gmod_shotrevolver
+[23:11:44] (TEAM) BriceMashiro: как РЕЙД?
+[23:11:48] Karasb was killed by ent_jack_gmod_ezprojectilenade
+[23:11:59] (TEAM) BriceMashiro: Есть кто живой?
+[23:12:01] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 36 seconds).
+[23:12:05] Mr. Point killed Karasb using ent_jack_gmod_ezsentry
+[23:12:35] Dropped "Wheatley" from server<STEAM_0:0:155354605>
+[23:12:42] Kuka Cola Original suicided!
+[23:12:43] Redoket: сорре я вас не слішу погодите
+[23:12:52] Redoket: бляяяять
+[23:12:55] Redoket: бляяяяять
+[23:12:57] kiktus.: supply radio: medkits
+[23:13:04] GABUK227 killed Redoket using wep_jack_gmod_smg
+[23:13:18] (TEAM) BriceMashiro: я не могу учавствовать дальше
+[23:13:24] (TEAM) BriceMashiro: отспупаю
+[23:13:56] BriceMashiro: свои
+[23:14:00] василий каратаев: ОНИ НОРМАЛЬНО ТАМ ПООТЛЕТАЛИ
+[23:14:46] BriceMashiro: василий отступил а я зддох
+[23:15:05] (TEAM) BriceMashiro: ну да...
+[23:15:08] (TEAM) BriceMashiro: поинт умер первым
+[23:15:09] (TEAM) BriceMashiro: я тоже
+[23:15:46] (TEAM) BriceMashiro: чего?
+[23:15:53] (TEAM) BriceMashiro: он пошел обратно
+[23:16:00] (TEAM) BriceMashiro: ту да
+[23:16:01] (TEAM) BriceMashiro: на рейд
+[23:16:27] Yaicehvat: габук ты где
+[23:16:45] василий каратаев: DTTTTHN
+[23:17:04] (TEAM) BriceMashiro: БЛЯЯЯЯЯТЬ
+[23:17:11] (TEAM) BriceMashiro: ДАЙТЕ ПАТРОНЫ ДЛЯ РАКЕТНИЦ
+[23:17:21] (TEAM) BriceMashiro: АХУЕТ ЬПОИНТ
+[23:17:22] (TEAM) BriceMashiro: ТЫ ЧЕГО
+[23:18:02] ΛПТΞЧКλ ΔЛЬЯНСА suicided!
+[23:18:52] (TEAM) ΛПТΞЧКλ ΔЛЬЯНСА: а что я сделал? Я ж вроде просто ящик распаковал
+[23:18:56] GABUK227 killed Maxaragg using wep_jack_gmod_smg
+[23:18:57] Redoket suicided!
+[23:20:13] василий каратаев: ЩАС
+[23:21:13] Redoket killed Redoket
+[23:21:30] RusLanConnection: supply radio: airstrike smallbombs
+[23:21:57] (TEAM) BriceMashiro: кто там
+[23:22:12] (TEAM) BriceMashiro: кароч я иду на них
+[23:22:12] GABUK227 was killed by ent_jack_gmod_ezminirocket
+[23:22:47] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[23:22:49] kiktus.: ало сын хуйни, ты куда полез?
+[23:23:07] (TEAM) BriceMashiro: кто они?
+[23:23:10] василий каратаев: А ВЕРТ ГДЕ
+[23:23:14] василий каратаев: А ВР
+[23:23:28] (TEAM) BriceMashiro: что?
+[23:23:45] (TEAM) BriceMashiro: да
+[23:23:48] (TEAM) BriceMashiro: просто пролагивае ту меня
+[23:24:13] BriceMashiro:  у меня 10 нахуй
+[23:24:26] василий каратаев: КУПЛЮ ВЗРЫВЧАТК
+[23:24:27] Yaicehvat: позорище
+[23:24:31] (TEAM) BriceMashiro: ай
+[23:24:35] (TEAM) BriceMashiro: сердце
+[23:24:36] RusLanConnection: 5 фпс
+[23:24:39] (TEAM) BriceMashiro: СЕРДЦЕЕЕЕЕ
+[23:24:41] BriceMashiro suicided!
+[23:24:41] pojn87: / я танцую они не попадают
+[23:24:51] P0lyakov: :D
+[23:24:56] RusLanConnection killed ΛПТΞЧКλ ΔЛЬЯНСА using wep_jack_gmod_assaultrifle
+[23:24:59] golub inside: класс
+[23:25:24] василий каратаев: 180
+[23:25:26] василий каратаев: 1800
+[23:26:25] василий каратаев: ЕСТЬ
+[23:26:50] василий каратаев: ЗАКОНЧИЛИС ДА ТАМ ЛЕГКО
+[23:27:00] василий каратаев: ДАЙВАЙТЕ БИГ БОМ СДЕЛАЕМ ИЗ 1200
+[23:27:05] (TEAM) BriceMashiro: красный свой же
+[23:27:05] василий каратаев: ИЛИ ДАВАЙТЕ К ДРУЗЬЯЕМ ПРИЛЕТИМ
+[23:27:10] (TEAM) BriceMashiro: вроде
+[23:27:24] (TEAM) BriceMashiro: оййй ребят я боюсь вас разачаровывать
+[23:27:33] Yaicehvat: ?
+[23:27:36] василий каратаев: НУ ЗАШИФРУЕМ
+[23:27:47] Temm4ancki: Василий тебя слышно
+[23:27:56] Temm4ancki: ой пизда
+[23:27:56] GABUK227: плывтаун
+[23:27:58] Temm4ancki: серверу
+[23:27:58] Yaicehvat: что с пингом пиздец
+[23:27:58] NL: все умерло
+[23:28:01] NL: бляха муха
+[23:28:03] Karasb: пинг 350, пизда
+[23:28:21] Temm4ancki: или это только я лагал
+[23:29:12] (TEAM) BriceMashiro: ну ты конечно троль
+[23:30:12] (TEAM) BriceMashiro: как в плыв таун писать?
+[23:30:35] василий каратаев: ВЫРУБИ
+[23:30:38] василий каратаев: ИЛИ В ДРУГИ
+[23:30:43] василий каратаев: ДАЙТЕ
+[23:31:01] василий каратаев: ДАЙТЕ ЧУЧУТЬ БАБАХОВ
+[23:31:08] (TEAM) BriceMashiro: добрый день
+[23:31:13] василий каратаев: ВОТ ЧУЧУТЬ ОСТАЕТСЯ ДО БОЛЬШОЙ 1200
+[23:31:19] василий каратаев: ЕСТЬ ЧУЦЧУТЬ
+[23:31:22] василий каратаев: ХИИМИИ
+[23:31:24] василий каратаев: ТАМ
+[23:31:32] василий каратаев: А ХИМОЗЫ
+[23:31:34] василий каратаев: ХИМММ
+[23:31:49] василий каратаев: ДАЙТИ ХИМОЗУ
+[23:32:12] василий каратаев: ХИМОЗУ
+[23:32:14] василий каратаев: ДАТЙЕ РПОШУ
+[23:32:24] василий каратаев: ДЛЯ БАБАХАОВ
+[23:32:32] василий каратаев: ЛАДНО
+[23:32:35] BriceMashiro killed pojn87 using ent_jack_gmod_ezsentry
+[23:32:38] василий каратаев: СКОЛЬКО ХИМИИ
+[23:32:46] василий каратаев: ДА ВСО ЧТО ЕСТЬ
+[23:32:52] василий каратаев: ОНА ДЕШЕВА
+[23:32:58] Yaicehvat killed Dixon using wep_jack_gmod_machinepistol
+[23:33:00] M4TV killed Yaicehvat using wep_jack_gmod_pas
+[23:33:08] василий каратаев: НА ФИОЛЕТОВЫХ
+[23:33:09] василий каратаев: ПРОСТО 
+[23:33:11] василий каратаев: СОТРЕМ
+[23:33:13] василий каратаев: ГОВНО
+[23:33:15] василий каратаев: ДАВАЙТЕ 
+[23:33:19] василий каратаев: ЗАШФРУЕИ
+[23:33:23] василий каратаев: ВЫ ЛЕТЕТЬ СОБИРОАЕЕТЕЬ?
+[23:33:30] василий каратаев: ЗАШИФРУЙТЕ
+[23:33:33] василий каратаев: ВЫЛЕТ
+[23:34:33] P0lyakov: Сброд, нашли ваш броник в арктике? Хотите забрать?
+[23:34:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfabricator
+[23:35:13] kiktus. killed Yaicehvat using wep_jack_gmod_lmg
+[23:36:38] M4TV killed GABUK227 using wep_jack_gmod_pas
+[23:36:49] Mr. Point killed saken Kok using wep_jack_gmod_assaultrifle
+[23:36:50] Mr. Point killed M4TV using wep_jack_gmod_assaultrifle
+[23:36:52] василий каратаев: ДРУЗЬЯ ПОМОГАЙТЕ
+[23:37:08] Vasto.Pro killed Mr. Point using wep_jack_gmod_amsr
+[23:37:20] saken Kok: ну и кто там пошел в жопу?))))
+[23:37:38] Dixon killed Dixon
+[23:37:49] Maxaragg killed BriceMashiro using wep_jack_gmod_assaultrifle
+[23:38:05] Chupacabr: шо те нада
+[23:38:07] saken Kok: АЗХАХАХАХАХАХАХ
+[23:38:13] василий каратаев: ДРУЗЬЯ ОДИН ВЕРТОЛЕТ НЕ НАШ!
+[23:38:33] Chupacabr: а чей
+[23:38:36] василий каратаев: !Ы
+[23:39:23] Maxaragg killed GABUK227 using wep_jack_gmod_assaultrifle
+[23:39:37] Chupacabr: что тварица
+[23:39:49] василий каратаев: ДРУЗЬЯ ПОКА НИЧО НЕДЕЛАЙЕТ
+[23:39:51] bib: военные козлы
+[23:40:05] Mr. Point:  /p почему брайс вышел ответьте
+[23:40:24] Chupacabr: интрудер алерт у плывисичников
+[23:40:25] Maxaragg killed василий каратаев using wep_jack_gmod_assaultrifle
+[23:41:09] василий каратаев: БЕРИ
+[23:41:35] василий каратаев: НАМ НУЖНО ЗАКАЗАТЬ ЕЩО ТРИ РАЗА
+[23:41:37] Dixon killed GABUK227 using wep_jack_gmod_machinepistol
+[23:41:38] василий каратаев: ТОЧНЕЕ ДВА
+[23:41:41] василий каратаев: ДАЙТЕ ДЕНЬГИ
+[23:41:50] BriceMashiro: это я
+[23:41:51] BriceMashiro: кароче....
+[23:41:55] BriceMashiro: проситься на работу
+[23:42:02] BriceMashiro: у вас какие щас полетические отношение?
+[23:42:06] BriceMashiro: я прост оустал от суеты
+[23:42:26] BriceMashiro: ээ.... меня уже все это не интересует...
+[23:42:29] BriceMashiro: да да
+[23:42:30] BriceMashiro: есть такое
+[23:42:43] BriceMashiro: я это и хотел спросить
+[23:42:49] BriceMashiro: просто буду у вас работать
+[23:42:55] Dixon killed GABUK227 using wep_jack_gmod_machinepistol
+[23:43:12] (TEAM) BriceMashiro: я просто устал
+[23:43:19] (TEAM) BriceMashiro: огромное вам спасибо
+[23:43:24] (TEAM) BriceMashiro: БЛЯЯЯЯЯЯЯТЬ
+[23:43:27] (TEAM) BriceMashiro: ДА НУУУ РЕАЛ?
+[23:43:34] (TEAM) BriceMashiro: ТОЕСТ TEAM ВСЕ ЭТО ВРЕМЯ НЕ РАБОТАЛ
+[23:43:37] (TEAM) BriceMashiro: И ВСЕ МОЛЧАЛИ НАХУЙ
+[23:43:45] (TEAM) BriceMashiro: ааа на растояниии
+[23:43:53] BriceMashiro: чат на растоянии работает?
+[23:44:08] (TEAM) BriceMashiro: этот
+[23:44:16] (TEAM) BriceMashiro: капец
+[23:44:17] (TEAM) BriceMashiro: че еще
+[23:44:24] (TEAM) BriceMashiro: кароч че у вас тут 
+[23:44:42] (TEAM) BriceMashiro: ебать вы конечно разжились
+[23:44:55] (TEAM) BriceMashiro: блять
+[23:44:57] sekta was killed by prop_physics
+[23:44:59] Chupacabr: плывиски нада поболтать
+[23:45:01] (TEAM) BriceMashiro: а возле контейнера спрей...
+[23:45:23] (TEAM) BriceMashiro: ЕБАТЬ ВЫ КОНЕЧНО ЗАВИДУЮ У НАС ТАКОГО НЕТУ
+[23:45:39] (TEAM) BriceMashiro: у нас с нефтью проблемы большие и стопливом
+[23:45:45] (TEAM) BriceMashiro: вертолет еле еле построили
+[23:45:50] (TEAM) BriceMashiro: по итогу сами же разбили
+[23:45:52] василий каратаев: ДАЙ ДЕНЕГ
+[23:45:57] василий каратаев: ДЕНЕГ
+[23:46:11] василий каратаев: ДАЙ ДЕНЕГ
+[23:46:13] василий каратаев: ДАЙ ДЕНЕГ
+[23:46:13] Dropped "Dixon" from server<STEAM_0:0:191738173>
+[23:46:25] (TEAM) BriceMashiro: машины?
+[23:46:30] (TEAM) BriceMashiro: там мы и решали проблемы с партами
+[23:46:36] (TEAM) BriceMashiro: и сечас решаем
+[23:46:48] василий каратаев: МЫ ЗАНЯТЫ МЫ ЗАНЯТЫ ДАВАЙТЕ ПРИБЕГИТЕ
+[23:46:58] василий каратаев: ПРИБЕГИТЕ
+[23:47:00] василий каратаев: САМИ
+[23:47:01] василий каратаев: ЗАНЯТЫ
+[23:47:17] василий каратаев: СТОЙ
+[23:47:18] василий каратаев: ЕЩО 60
+[23:47:22] BriceMashiro: КУДА
+[23:47:24] (TEAM) BriceMashiro: МОЙ МЕШОК
+[23:48:18] (TEAM) BriceMashiro: ЭТО ДА
+[23:49:15] (TEAM) BriceMashiro: мой мешок пропал... придется скрафтить снова
+[23:49:46] василий каратаев: ПОИНТ
+[23:49:49] василий каратаев: ЕСТЬ ДЛЯ 
+[23:49:49] василий каратаев: БОМ
+[23:49:51] василий каратаев: БОМ
+[23:49:54] (TEAM) BriceMashiro: a mimir
+[23:51:10] Chupacabr: плывиски смотрите в небеса
+[23:51:18] василий каратаев: С
+[23:51:37] Rulon Oboev was killed by ent_jack_gmod_eznapalm
+[23:51:44] M4TV was killed by ent_jack_gmod_ezfirehazard
+[23:51:46] Savik killed pojn87 using wep_jack_gmod_revolver
+[23:51:55] Rackman killed Kuka Cola Original using env_explosion
+[23:51:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcopper
+[23:51:59] Rackman killed saken Kok using env_explosion
+[23:52:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcopper
+[23:52:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcopper
+[23:52:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcopper
+[23:52:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcopper
+[23:52:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcopper
+[23:52:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcopper
+[23:52:12] Rackman killed M4TV using env_explosion
+[23:52:13] Maxaragg was killed by ent_jack_gmod_ezarmor_hrshoulder
+[23:52:21] Chupacabr killed kiktus. using wep_jack_gmod_lmg
+[23:52:32] Chupacabr killed Savik using wep_jack_gmod_lmg
+[23:52:33] Chupacabr killed Vasto.Pro using wep_jack_gmod_lmg
+[23:53:00] василий каратаев: ДРУЗЬЯ МОЛОДЦЫ!
+[23:53:18] василий каратаев: ДАВАЙ
+[23:53:19] василий каратаев: ЛАНКОМ
+[23:53:22] василий каратаев: 1200 БОМБ
+[23:53:24] василий каратаев: НЕОСТАНЕТСЯ
+[23:53:38] василий каратаев: НАДА ПРОСТО ПОВЫЩЕ ВЗЯТЬ
+[23:54:17] (TEAM) BriceMashiro: так тимчан можно немного энергии?
+[23:54:20] (TEAM) BriceMashiro: ящик сделать
+[23:54:26] (TEAM) BriceMashiro: так аа как..
+[23:54:31] василий каратаев: В ЯЩКЕ
+[23:54:35] василий каратаев: В Я ЩИКЕ
+[23:54:39] (TEAM) BriceMashiro: блин
+[23:55:00] (TEAM) BriceMashiro: мне просто не много для ящика нужно
+[23:55:34] (TEAM) golub inside: i
+[23:57:05] P0lyakov: ПТ что там по нашему вопросу?
+[23:57:35] (TEAM) BriceMashiro: для своих
+[23:57:38] (TEAM) BriceMashiro: дел
+[23:58:12] василий каратаев: СТООООП
+[23:58:13] василий каратаев: ЗАЧЕМ
+[23:58:15] василий каратаев: ИЛИ 
+[23:58:18] Yaicehvat: надо)
+[23:58:32] василий каратаев: А ФУХХ Я ДУМАЛ
+[23:58:43] василий каратаев: ДРУЗЬЯ К ВАМ ИДУТ!!!
+[23:58:48] василий каратаев: ДРУЗЬЯ 
+[23:58:54] василий каратаев: К ВАМ ИДУТ КАКЛЫ
+[23:58:56] василий каратаев: КАЛЫ
+[23:59:30] Rulon Oboev: /P ВАР ТАНДЕР
+[23:59:31] RusLanConnection: supply radio: airstrike bombs
+[23:59:32] GABUK227 killed GABUK227
+[23:59:53] Rackman killed Yaicehvat using env_explosion
+<Logging continued in "data/ulx_logs/08-28-24.txt">

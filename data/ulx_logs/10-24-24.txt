@@ -1,0 +1,684 @@
+[22:17:26] New map: gm_micronations
+[22:17:28] Client "sekta" connected.
+[22:17:29] Client "Mr. Point" connected.
+[22:17:47] Client "vasya karata" connected.
+[22:17:47] Client "pojn87" connected.
+[22:18:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_spawntimemodifier
+[22:18:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_cap_point
+[22:18:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_death_floor
+[22:18:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_doot_fountain
+[22:18:29] Client "Mr. Point" spawned in server <STEAM_0:0:84903252> (took 60 seconds).
+[22:18:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_elevator_neutral
+[22:18:33] Client "vasya karata" spawned in server <STEAM_0:0:814052183> (took 46 seconds).
+[22:18:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_elevator_neutral
+[22:18:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melonium
+[22:18:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_melonium_mine
+[22:18:45] vasya karata: ЭТО ВИРУСЫ
+[22:18:47] vasya karata: АРБУЗНЫЕ
+[22:18:48] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 80 seconds).
+[22:18:55] vasya karata: НИГЕРЫ
+[22:18:56] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 69 seconds).
+[22:19:03] vasya karata: НИИГЕРЫ
+[22:19:05] pojn87: валя
+[22:19:17] pojn87: баля
+[22:19:17] vasya karata: УБЕРИТЕ
+[22:19:20] vasya karata: ВСЕ РАВНО ЧАТ
+[22:19:22] vasya karata: ВСЕ ВИДЯТ
+[22:19:29] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:19:30] pojn87: ты тупой ниггер
+[22:19:36] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:19:41] sekta: sv_govorilka_lang ru
+[22:19:41] pojn87: эти бедняки из соедененного королевста
+[22:19:43] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:19:44] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:19:50] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:19:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:19:52] vasya karata: НИГЕР
+[22:19:53] pojn87: каждый чертый нигер в моей команде
+[22:19:53] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:19:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_silo
+[22:19:55] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:19:56] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:19:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_water_tank
+[22:19:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_drop_zone
+[22:20:03] vasya karata: ЧТО ТАКОЕ СИЛО
+[22:20:05] pojn87: каждый тупой богаче чем я
+[22:20:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melonium_plate
+[22:20:06] vasya karata: РАКЕТА ЧТОЛИ ЯДЕРНАЯ
+[22:20:10] sekta: хуй
+[22:20:13] pojn87: бам бам
+[22:20:17] Mr. Point<STEAM_0:0:84903252> spawned NPC npc_citizen
+[22:20:28] sekta<STEAM_0:0:57939554> spawned sent ent_melon_silo
+
+
+
+[22:22:53] New map: gm_micronations
+[22:22:54] Client "Mr. Point" connected.
+[22:23:06] Client "pojn87" connected.
+[22:23:10] Client "vasya karata" connected.
+[22:23:11] Client "Redoket" connected.
+[22:23:19] Client "Mr. Point" spawned in server <STEAM_0:0:84903252> (took 25 seconds).
+[22:23:20] Client "sekta" connected.
+[22:23:24] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 18 seconds).
+[22:23:25] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/sligwolf/westernloco/western_locov2.mdl
+[22:23:31] Client "vasya karata" spawned in server <STEAM_0:0:814052183> (took 21 seconds).
+[22:23:37] RusLanConnection added Mr. Point to group superadmin
+[22:23:39] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:23:41] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:23:42] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 22 seconds).
+[22:23:44] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:23:47] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:23:54] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:54] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:54] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:54] pojn87<STEAM_0:1:490319581> spawned model models/gibs/furniture_gibs/furniturewooddrawer003a_chunk03.mdl
+[22:23:54] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:54] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:54] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:54] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/gibs/furniture_gibs/furniturewooddrawer003a_chunk03.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/gibs/furniture_gibs/furniturewooddrawer003a_chunk03.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:23:57] pojn87<STEAM_0:1:490319581> spawned model models/props_phx/amraam.mdl
+[22:24:06] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 55 seconds).
+[22:25:02] sekta was killed by ent_poker_game
+[22:25:08] vasya karata was killed by ent_poker_game
+[22:25:20] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:20] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:20] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:20] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:20] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:20] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:21] pojn87<STEAM_0:1:490319581> spawned sent ent_melon_elevator_neutral
+[22:25:28] pojn87<STEAM_0:1:490319581> spawned sent ent_melonium
+[22:25:30] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:30] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:30] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:30] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:30] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:30] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:34] Redoket<STEAM_0:1:545449619> spawned ragdoll models/humans/group03/male_02.mdl
+[22:25:35] pojn87<STEAM_0:1:490319581> spawned sent ent_melon_melonium_mine
+[22:25:46] pojn87<STEAM_0:1:490319581> spawned sent ent_melon_outpost_point
+[22:25:49] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:25:51] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:51] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:51] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:51] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:51] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:51] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:53] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:53] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:53] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:53] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:53] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:53] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:25:54] Redoket<STEAM_0:1:545449619> spawned model models/jmod/resources/sandbag.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_lab/blastdoor001c.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_interiors/vendingmachinesoda01a_door.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_phx/misc/iron_beam3.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_phx/misc/iron_beam3.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_debris/concrete_column001a_core.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_interiors/vendingmachinesoda01a_door.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_lab/blastdoor001b.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/phxtended/tri2x2.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_phx/misc/iron_beam3.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_lab/blastdoor001c.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/hunter/tubes/tube1x1x2d.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/hunter/tubes/circle4x4c.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_plastic01.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_lab/blastdoor001c.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_lab/blastdoor001c.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_debris/concrete_section64floor001a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/phxtended/tri2x1solid.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_debris/concrete_section64floor001a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/phxtended/tri2x1solid.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_lab/blastdoor001a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_phx/misc/iron_beam2.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_phx/misc/iron_beam3.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_combine/combine_barricade_med01a.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_phx/misc/iron_beam3.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_plastic01.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/hunter/tubes/tubebend1x1x90.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/hunter/misc/cone1x05.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_phx/misc/iron_beam3.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_phx/misc/iron_beam3.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_lab/blastdoor001c.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/hunter/tubes/tube1x1x2d.mdl
+[22:26:06] Redoket<STEAM_0:1:545449619> spawned model models/props_borealis/bluebarrel001.mdl
+
+
+
+[22:27:53] New map: gm_micronations
+[22:28:17] Client "Mr. Point" connected.
+[22:28:26] Client "Redoket" connected.
+[22:28:26] Client "pojn87" connected.
+[22:28:28] Client "vasya karata" connected.
+[22:28:36] Client "Mr. Point" spawned in server <STEAM_0:0:84903252> (took 19 seconds).
+[22:28:41] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 15 seconds).
+[22:28:43] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 17 seconds).
+[22:28:44] Client "sekta" connected.
+[22:28:45] Client "vasya karata" spawned in server <STEAM_0:0:814052183> (took 17 seconds).
+[22:29:03] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 19 seconds).
+[22:29:12] pojn87: АЛЁ
+[22:29:14] vasya karata: КРАШАЙТЕ СРОЧНО
+[22:29:15] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:29:19] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:29:21] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:29:24] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:29:27] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/furniturestove001a.mdl
+[22:29:27] pojn87: СПАСИТЕ ГЕЙ НИГЕРОВ
+[22:29:27] RusLanConnection brought Mr. Point,Redoket,pojn87,sekta,vasya karata
+[22:29:36] pojn87: TFG
+[22:29:39] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:29:42] Redoket<STEAM_0:1:545449619> spawned sent ent_melon_water_tank
+[22:29:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:29:45] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:29:45] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:29:46] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:29:46] Redoket<STEAM_0:1:545449619> spawned sent ent_melon_cap_point
+[22:29:46] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:29:47] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:29:47] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:29:47] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:29:48] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:29:48] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:29:50] pojn87<STEAM_0:1:490319581> spawned sent ent_melon_outpost_point
+[22:29:52] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:29:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:29:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:29:58] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:30:02] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:30:03] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:30:05] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:30:08] sekta<STEAM_0:0:57939554> spawned sent ent_melon_outpost_point
+[22:30:09] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:30:09] sekta<STEAM_0:0:57939554> spawned sent ent_melon_outpost_point
+[22:30:13] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:30:15] sekta<STEAM_0:0:57939554> spawned sent ent_melon_cap_point
+[22:30:15] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:30:17] sekta<STEAM_0:0:57939554> spawned sent ent_melon_cap_point
+[22:30:21] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:30:29] Redoket<STEAM_0:1:545449619> spawned sent ent_melon_silo
+[22:30:31] Redoket<STEAM_0:1:545449619> spawned sent ent_melon_elevator_neutral
+[22:30:33] Redoket<STEAM_0:1:545449619> spawned sent ent_melonium
+[22:30:36] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_outpost_point
+[22:30:42] sekta<STEAM_0:0:57939554> spawned sent ent_melon_cap_point
+[22:30:43] sekta<STEAM_0:0:57939554> spawned sent ent_melon_cap_point
+[22:30:43] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:30:44] sekta<STEAM_0:0:57939554> spawned sent ent_melon_cap_point
+[22:30:45] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:30:46] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:30:47] sekta<STEAM_0:0:57939554> spawned sent ent_melon_cap_point
+[22:30:49] Redoket<STEAM_0:1:545449619> spawned sent ent_melon_outpost_point
+[22:31:00] pojn87<STEAM_0:1:490319581> spawned sent ent_melon_cap_point
+[22:31:04] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:31:06] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:31:09] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:31:10] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:31:11] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:31:38] vasya karata: СИНИЙ МОЙ
+[22:31:40] vasya karata: НИГЕРЫ
+[22:32:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:32:41] vasya karata: Я ХОЧУ ОДЫН
+[22:32:46] vasya karata: ПОЙДУ ЗЕЛЕНИ
+[22:32:59] vasya karata: Я ЗЕЛЕНЫЙ
+[22:33:33] RusLanConnection brought Mr. Point
+[22:33:55] vasya karata: ИНФИНИТИ ВАТЕР СТОИТ
+[22:34:01] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:34:03] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:34:05] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:34:09] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:34:11] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:34:15] Mr. Point<STEAM_0:0:84903252> spawned sent ent_melon_cap_point
+[22:34:41] vasya karata: Я ЖЕЛЙНЫЙ
+[22:34:43] vasya karata: ЗЕЛЕН
+[22:36:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_cap_point
+[22:36:50] sekta<STEAM_0:0:57939554> spawned sent ent_melon_cap_point
+[22:36:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_cap_point
+[22:36:54] sekta<STEAM_0:0:57939554> spawned sent ent_melon_cap_point
+[22:37:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_melon_outpost_point
+[22:37:11] RusLanConnection brought Mr. Point
+[22:37:16] vasya karata: НЕТУ НИ
+[22:37:20] vasya karata: НУ ТАМ
+[22:39:56] RusLanConnection brought Mr. Point
+[22:40:31] Redoket<STEAM_0:1:545449619> spawned sent ent_melon_outpost_point
+[22:40:38] Redoket<STEAM_0:1:545449619> spawned sent ent_melon_cap_point
+[22:42:07] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_office02.mdl
+[22:42:31] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_office02.mdl
+[22:42:35] Redoket<STEAM_0:1:545449619> spawned ragdoll models/props_c17/furnituremattress001a.mdl
+[22:43:43] vasya karata: ВАЙНА АРБАЗЫ
+[22:43:51] vasya karata: НИИИИИИГЕЕЕЕЕЕРС
+[22:44:27] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[22:44:34] Client "Redoket" connected.
+[22:44:51] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 17 seconds).
+
+
+
+[22:46:54] New map: gm_micronations
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_door01a.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/tire001c_car.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel02a.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/car001a_hatchback.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/items/car_battery01.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_axel01a.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/trappropeller_engine.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/monitor01b.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/plasticbucket001a.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_debris/metal_panel01a.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[22:47:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/gascan001a.mdl
+[22:47:02] Client "sekta" connected.
+[22:47:11] Client "pojn87" connected.
+[22:47:15] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 13 seconds).
+[22:47:22] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 11 seconds).
+[22:47:23] Client "Redoket" connected.
+[22:47:29] Client "vasya karata" connected.
+[22:47:40] Client "vasya karata" spawned in server <STEAM_0:0:814052183> (took 11 seconds).
+[22:47:40] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 17 seconds).
+[22:47:47] Client "Mr. Point" connected.
+[22:48:00] Client "Mr. Point" spawned in server <STEAM_0:0:84903252> (took 13 seconds).
+[22:48:07] sekta<STEAM_0:0:57939554> spawned sent ent_melon_silo
+[22:48:36] vasya karata: ПОСТАВЬТЕ МНЕ
+[22:48:41] vasya karata: ЗЕЛНЫЙ
+[22:48:53] RusLanConnection teleported to vasya karata
+[22:49:20] sekta<STEAM_0:0:57939554> spawned model models/cranes/crane_frame.mdl
+[22:49:25] sekta<STEAM_0:0:57939554> spawned model models/cranes/crane_frame.mdl
+[22:49:30] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:49:31] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:49:31] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:49:31] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:49:52] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:49:53] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:49:53] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:50:12] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[22:50:55] pojn87 suicided!
+[22:52:28] vasya karata: ПРОКАЧАТЬ ХРАМ
+[22:56:17] vasya karata: НИГА
+[22:57:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[22:57:44] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1.mdl
+[22:57:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1.mdl
+[22:59:18] vasya karata: ЭТО ПРОСТО 
+[22:59:20] vasya karata: ДОБАВИТ
+[22:59:23] vasya karata: ЮНИТОВ
+[23:01:54] vasya karata: БЫЛА ЖЕ ТИП НАСТРОЙКА ПРО ТУМАН ВОЙНЫ ИЛИ Я ЭТО ПРИДУМАЛ
+[23:02:43] vasya karata: СТРОЙТЕ
+[23:03:09] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:03:09] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:03:09] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:03:13] vasya karata: НИГАА
+[23:03:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:03:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:03:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:03:56] vasya karata:  А КАК
+[23:04:07] vasya karata: (
+[23:05:50] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[23:05:50] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[23:05:56] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[23:06:09] vasya karata: СТЕНЫ СТРОЯТСЯ ИЗ ВОДЫ
+[23:06:15] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/wood/wood_panel2x4.mdl
+[23:06:17] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/wood/wood_panel2x4.mdl
+[23:06:39] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/wood/wood_panel2x4.mdl
+[23:07:54] vasya karata: А ПРЯМО В ИГРЕ НЕЛЬЗЯ СОБРАТЬ?
+[23:08:08] pojn87 suicided!
+[23:08:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/wood/wood_panel2x4.mdl
+[23:14:11] vasya karata: УРА
+[23:14:23] vasya karata<STEAM_0:0:814052183> spawned model models/props_doors/door03_slotted_left.mdl
+[23:16:51] Dropped "sekta" from server<STEAM_0:0:57939554>
+[23:16:57] Dropped "Mr. Point" from server<STEAM_0:0:84903252>
+[23:21:02] Client "sekta" connected.
+[23:21:08] Client "sekta" connected.
+[23:21:22] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 14 seconds).
+[23:22:35] RusLanConnection teleported to vasya karata
+[23:25:41] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:25:42] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:25:42] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:25:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:26:23] vasya karata: КАК СОХРАНИТЬ
+[23:26:38] sekta<STEAM_0:0:57939554> spawned model models/props_phx/construct/metal_plate2x2.mdl
+[23:26:44] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:26:44] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:27:00] vasya karata: ПОСТРОИЛ ЭСКПЕРЕМЕНТАЛКУ
+[23:27:14] vasya karata: КАК В СУПРИМ КОМАНДЕРЕ ЗАВОД НА ГУСЕНЦИА
+[23:27:17] vasya karata: А
+[23:28:49] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:28:49] vasya karata<STEAM_0:0:814052183> spawned model models/props_doors/door03_slotted_left.mdl
+[23:28:49] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:28:49] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:28:49] vasya karata<STEAM_0:0:814052183> spawned model models/props_doors/door03_slotted_left.mdl
+[23:28:49] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:29:21] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:29:23] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:29:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:29:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:29:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:30:49] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:30:49] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:30:49] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:30:50] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:31:36] vasya karata: ПОШЛИ ПЕРВЫЕ ТАНКИ 
+[23:32:06] vasya karata: НУ
+[23:32:08] vasya karata: Я СОХРАНИЛ
+[23:32:16] vasya karata: НУ
+[23:32:20] vasya karata: ПОСТАВИЛ НАЗВАНИЕ
+[23:32:24] vasya karata: ЖМАЛ ЭНТЕР
+[23:32:27] vasya karata: КЛИК ПО ТАНКУ
+[23:32:29] vasya karata: СОХРАНИЛОС
+[23:33:50] vasya karata: АААА
+[23:33:53] vasya karata: ТАМ ЖЕ ЕСТЬ ЗАВОД
+[23:33:56] vasya karata: АСЕМБЛЕО
+[23:34:02] vasya karata: ПОСЛЕДНИЙ
+[23:34:06] vasya karata: САМЫЙ
+[23:34:31] vasya karata: ЗАВОД
+[23:35:21] sekta<STEAM_0:0:57939554> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[23:35:28] pojn87 killed sekta using crossbow_bolt
+[23:35:54] vasya karata: НИГА ДОЛГО
+[23:35:55] sekta<STEAM_0:0:57939554> spawned sent ent_melon_outpost_point
+[23:36:09] vasya karata: ОВЕРЛОК
+[23:36:43] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:36:43] vasya karata<STEAM_0:0:814052183> spawned model models/props_doors/door03_slotted_left.mdl
+[23:36:43] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:37:38] vasya karata: ЗАТО ДВИГАЕТСЯ ВРОДЕ НОРМ
+[23:39:06] RusLanConnection teleported to vasya karata
+[23:39:15] vasya karata: НУ СОБРАЛ
+[23:39:18] vasya karata: В АСМЕБЛЕ
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube075x075x025.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x1x1.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube1x150x1.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x2.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x2.mdl
+[23:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x3x025.mdl
+[23:39:50] vasya karata: ОН МОЙ
+[23:40:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:40:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:40:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:40:43] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:40:43] vasya karata<STEAM_0:0:814052183> spawned model models/props_doors/door03_slotted_left.mdl
+[23:40:43] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:43:27] pojn87 killed sekta using player
+[23:44:45] vasya karata: ПОКАЖЕМ
+[23:44:47] vasya karata: ЩАС
+[23:44:57] vasya karata: ВАРИТЬ ГРЕЧКУ В БАНКЕ
+[23:45:09] vasya karata: ЭТО БОМБАДИРОВЩИК
+[23:45:13] vasya karata: В НЕМ БОМБЫ
+[23:46:30] vasya karata: ПОСТАВЬ ОВЕР ЛОКЕРЫ
+[23:46:33] vasya karata: ОНИ УСКОРЯЮТ
+[23:48:04] vasya karata: НИГА
+[23:48:07] vasya karata: АТАКУЮТ
+[23:48:14] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:48:14] vasya karata<STEAM_0:0:814052183> spawned model models/props_doors/door03_slotted_left.mdl
+[23:48:14] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:48:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:48:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:48:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:48:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x2.mdl
+[23:48:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x2.mdl
+[23:48:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube05x1x05.mdl
+[23:48:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x05x1.mdl
+[23:48:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:48:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x2.mdl
+[23:48:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:50:22] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:51:16] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:51:16] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:51:16] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[23:51:38] pojn87 was killed by ent_melon_nuke
+[23:52:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:52:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:52:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:52:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x2.mdl
+[23:52:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x2.mdl
+[23:52:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube05x1x05.mdl
+[23:52:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x05x1.mdl
+[23:52:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:52:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x2.mdl
+[23:52:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:52:28] vasya karata: ПОБЕДА
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/025x025.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x1.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x05.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x05.mdl
+[23:52:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/025x025.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x1.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x05.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x05.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/025x025.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/025x025.mdl
+[23:53:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x05.mdl
+[23:53:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:53:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:53:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:53:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x2.mdl
+[23:53:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x2.mdl
+[23:53:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube05x1x05.mdl
+[23:53:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x05x1.mdl
+[23:53:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:53:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x2.mdl
+[23:53:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:54:06] vasya karata: НИГА
+[23:54:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x2.mdl
+[23:54:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:54:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:54:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:54:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:54:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate05x2.mdl
+[23:54:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:54:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube05x1x05.mdl
+[23:54:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x05x1.mdl
+[23:54:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x2.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube075x075x025.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x1x1.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube1x150x1.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x2.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x2.mdl
+[23:54:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x3x025.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube075x075x025.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x1x1.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube1x150x1.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x2.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x2.mdl
+[23:54:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x3x025.mdl
+[23:55:07] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_wire1x1.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x3x025.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x2.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube1x150x1.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x2.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate025x1.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/05x05x05.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube075x075x025.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x1x1.mdl
+[23:55:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/plates/plate1x1.mdl
+[23:55:08] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/construct/metal_wire1x2b.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x125x025.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/xqm/panel360.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube1x150x1.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/tubes/tube2x2x025d.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/tubes/tube1x1x1.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x1x1.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube05x05x025.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/pulleywheels_large01.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/tubes/tube2x2x025d.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x1x1.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/tubes/tube2x2x025d.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube05x05x025.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/pulleywheels_large01.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x125x025.mdl
+[23:56:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x2x025.mdl
+[23:56:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube1x150x1.mdl
+[23:56:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x05x1.mdl
+[23:56:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x05x1.mdl
+[23:56:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_canal/mattpipe.mdl
+[23:56:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/pulleywheels_small01.mdl
+[23:56:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x2x025.mdl
+[23:56:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_canal/mattpipe.mdl
+[23:56:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x1x1.mdl
+[23:56:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/pulleywheels_large01.mdl
+[23:56:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/pulleywheels_small01.mdl
+[23:56:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/pulleywheels_small01.mdl
+[23:56:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube1x150x1.mdl
+[23:56:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x05x1.mdl
+[23:56:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_canal/mattpipe.mdl
+[23:56:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x05x1.mdl
+[23:56:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_canal/mattpipe.mdl
+[23:56:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x1x1.mdl
+[23:56:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/pulleywheels_large01.mdl
+[23:56:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/pulleywheels_small01.mdl
+[23:56:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x2x025.mdl
+[23:57:56] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel001.mdl
+[23:57:56] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel001.mdl
+[23:57:56] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel001.mdl
+[23:57:57] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_borealis/bluebarrel001.mdl
+[23:58:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/pulleywheels_small01.mdl
+[23:58:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x05x1.mdl
+[23:58:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x05x1.mdl
+[23:58:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube1x150x1.mdl
+[23:58:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_canal/mattpipe.mdl
+[23:58:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/triangles/1x1x1.mdl
+[23:58:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x2x025.mdl
+[23:58:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/pulleywheels_small01.mdl
+[23:58:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/pulleywheels_large01.mdl
+[23:58:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_canal/mattpipe.mdl
+<Logging continued in "data/ulx_logs/10-25-24.txt">

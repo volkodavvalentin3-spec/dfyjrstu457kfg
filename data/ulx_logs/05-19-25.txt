@@ -1,0 +1,1809 @@
+<Logging continued from "data/ulx_logs/05-18-25.txt">
+[02:46:17] Client "Польские Пряники" connected.
+[02:47:28] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 71 seconds).
+[02:48:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[02:48:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[02:48:24] Client "Rackman" connected.
+[02:48:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[02:48:51] Польские Пряники suicided!
+[02:49:08] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 44 seconds).
+[02:49:21] Rackman teleported to Польские Пряники
+[02:49:41] Польские Пряники: !menu
+[02:49:51] Польские Пряники changed the map to gm_sro
+[02:49:51] Server is shutting down/changing levels.
+
+
+
+[02:50:03] New map: gm_sro
+[02:50:34] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 37 seconds).
+[02:50:43] Client "Mr_Pyro" connected.
+[02:50:46] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 49 seconds).
+[02:51:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezworkbench
+[02:51:30] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[02:51:37] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[02:51:38] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[02:51:39] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[02:51:43] Rackman<STEAM_0:0:221849271> spawned sent ent_rus_spawnbase
+[02:51:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezgas
+[02:51:51] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 68 seconds).
+[02:52:22] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[02:52:23] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezslam
+[02:52:26] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[02:52:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmortarshell
+[02:52:39] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[02:52:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[02:52:54] Польские Пряники suicided!
+[02:53:16] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_cratepack
+[02:53:21] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_pouch
+[02:53:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[02:53:27] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[02:54:03] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[02:54:03] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[02:54:08] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[02:54:15] Mr_Pyro killed Польские Пряники using ent_jack_gmod_ezfougasse
+[02:54:24] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:54:24] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:54:24] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:54:25] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:54:25] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:54:27] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:54:27] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:54:28] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:54:28] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:54:35] Rackman cloaked Themself by amount 0
+[02:54:47] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[02:54:47] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[02:54:51] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[02:55:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[02:55:05] Польские Пряники suicided!
+[02:55:14] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:55:14] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:55:15] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:55:15] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:55:15] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:55:15] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:55:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:55:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:55:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:55:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:55:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[02:55:31] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[02:55:37] Польские Пряники<STEAM_0:0:555258766> spawned sent item_healthkit
+[02:55:37] Польские Пряники<STEAM_0:0:555258766> spawned sent item_healthkit
+[02:55:37] Польские Пряники<STEAM_0:0:555258766> spawned sent item_healthkit
+[02:56:24] Польские Пряники suicided!
+[02:57:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[02:57:28] Польские Пряники suicided!
+[02:57:28] Польские Пряники killed Mr_Pyro using ent_jack_gmod_ezfougasse
+[02:57:57] Mr_Pyro teleported to Польские Пряники
+[02:57:57] Mr_Pyro: !goto Польские Пряники
+[02:58:13] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[02:58:14] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezrocketmotor
+[02:58:47] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[02:58:52] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsmallbomb
+[02:59:18] Польские Пряники froze Mr_Pyro
+[02:59:25] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[02:59:31] Польские Пряники unfroze Mr_Pyro
+[02:59:32] Mr_Pyro: !unfrezze Mr_Pyro
+[02:59:49] Польские Пряники froze Mr_Pyro
+[02:59:51] Польские Пряники unfroze Mr_Pyro
+[02:59:54] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbigbomb
+[02:59:54] Mr_Pyro suicided!
+[02:59:54] Mr_Pyro slayed Themself
+[02:59:54] Mr_Pyro: !slay Mr_Pyro
+[03:00:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[03:00:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezrocketmotor
+[03:00:10] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[03:00:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[03:00:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[03:00:34] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[03:00:34] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[03:00:54] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[03:00:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[03:01:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[03:01:05] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[03:01:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[03:02:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[03:02:55] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[03:03:16] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[03:03:29] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_helicopter_cod_ah6
+[03:03:35] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[03:03:39] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[03:04:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezheavyrocket
+[03:04:24] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[03:04:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezrocketpod
+[03:04:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[03:04:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[03:04:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[03:04:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[03:04:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[03:04:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[03:04:48] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[03:05:31] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezheavyrocket
+[03:06:01] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_helicopter_cod_ah6
+[03:06:15] Польские Пряники killed Mr_Pyro
+[03:06:32] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezheavyrocket
+[03:06:38] Mr_Pyro suicided!
+[03:06:48] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezheavyrocket
+[03:07:30] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_helicopter_cod_ah6
+[03:07:36] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezrocketpod
+[03:07:40] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezheavyrocket
+[03:07:40] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezheavyrocket
+[03:07:40] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezheavyrocket
+[03:07:48] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezheavyrocket
+[03:07:48] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezheavyrocket
+[03:07:53] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezheavyrocket
+[03:08:43] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[03:08:43] Польские Пряники suicided!
+[03:09:08] Client "Польские Пряники" connected.
+[03:09:58] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 50 seconds).
+[03:10:36] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate2x5.mdl
+[03:10:37] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate2x4.mdl
+[03:10:39] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate1x3.mdl
+[03:10:42] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate2x5.mdl
+[03:10:44] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate1x3.mdl
+[03:10:45] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate1x4.mdl
+[03:10:46] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate1x4.mdl
+[03:11:12] Rackman<STEAM_0:0:221849271> spawned model models/hunter/misc/shell2x2.mdl
+[03:12:32] Rackman<STEAM_0:0:221849271> spawned model models/hunter/misc/cone4x2mirrored.mdl
+[03:12:34] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:12:34] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:13:42] Польские Пряники killed Mr_Pyro using lvs_wheeldrive_dodtiger
+[03:14:06] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:14:06] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:14:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_lab/blastdoor001b.mdl
+[03:14:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:14:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:14:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_lab/blastdoor001b.mdl
+[03:14:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_lab/blastdoor001b.mdl
+[03:14:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:14:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:14:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_lab/blastdoor001b.mdl
+[03:14:58] Польские Пряники killed Mr_Pyro using lvs_wheeldrive_dodtiger
+[03:15:16] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:15:16] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:15:48] Mr_Pyro killed Польские Пряники using ent_jack_gmod_ezfougasse
+[03:15:49] Польские Пряники killed Mr_Pyro using rpg_missile
+[03:16:24] Mr_Pyro<STEAM_0:1:157056677> spawned ragdoll models/ruslan_playermodel.mdl
+[03:17:11] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:17:11] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:17:59] Польские Пряники was killed by ent_jack_gmod_ezherocket
+[03:18:18] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_rpg_round
+[03:18:18] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_rpg_round
+[03:18:18] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_rpg_round
+[03:18:18] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_rpg_round
+[03:18:19] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_rpg_round
+[03:18:24] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[03:18:38] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:53] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:53] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:53] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:54] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:54] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:55] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:55] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:55] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:56] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:56] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:56] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:57] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:18:58] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:00] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:00] Mr_Pyro was killed by lvs_helicopter_rebel
+[03:19:05] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:06] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:06] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:06] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:06] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:07] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:07] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:07] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:07] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:08] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:08] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:08] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:09] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:17] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:17] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:17] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:17] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:18] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:18] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:18] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:18] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:19] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:19] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:19] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:19] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:21] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:21] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:22] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:22] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:22] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:22] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:23] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:23] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:23] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:23] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:23] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:24] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:24] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:24] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[03:19:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[03:21:10] Rackman granted god mode upon Themself
+[03:21:20] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[03:21:22] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[03:21:27] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[03:21:38] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezpowerbank
+[03:21:43] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_citroen_type23
+[03:22:08] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumper
+[03:23:28] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_citroen_type23
+[03:24:03] Mr_Pyro set the hp for Themself to 10000
+[03:24:03] Mr_Pyro: !hp Mr_Pyro 10000
+[03:24:14] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgas
+[03:24:36] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumperlarge
+[03:24:46] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumperlarge
+[03:25:00] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumperlarge
+[03:25:23] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[03:26:01] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumperlarge
+[03:27:02] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezpowerbank
+[03:28:12] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:28:12] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:29:43] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:29:43] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:29:53] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:29:53] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:30:14] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:30:14] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:30:20] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[03:30:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[03:30:33] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[03:30:36] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[03:30:38] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[03:30:54] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:30:54] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:31:12] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:31:12] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[03:31:27] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[03:31:27] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[03:31:27] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[03:31:29] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezpowerbank
+[03:31:40] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[03:31:48] Польские Пряники cloaked Themself by amount 0
+[03:31:48] Польские Пряники: !cloak Пол
+[03:31:59] Rackman<STEAM_0:0:221849271> spawned sent ent_new_powerline
+[03:32:04] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[03:32:10] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[03:32:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[03:32:42] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[03:32:44] Rackman<STEAM_0:0:221849271> spawned sent ent_new_powerline
+[03:32:57] Rackman<STEAM_0:0:221849271> spawned sent ent_new_powerline
+[03:33:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[03:34:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[03:34:15] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgroundscanner
+[03:34:21] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[03:34:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[03:34:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[03:35:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[03:35:05] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[03:35:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbomb
+[03:35:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezincendiarybomb
+[03:35:58] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezpowerbank
+[03:36:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[03:37:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[03:37:18] Rackman revoked god mode from Themself
+[03:37:20] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[03:38:15] Client "kottlettta" connected.
+[03:38:15] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[03:38:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[03:38:22] Rackman granted god mode upon Themself
+[03:38:24] Rackman cloaked Themself by amount 0
+[03:38:31] Mr_Pyro: !goto п
+[03:38:36] Rackman to admins: Cмертные уже тут
+[03:38:37] Mr_Pyro teleported to Польские Пряники
+[03:38:37] Mr_Pyro: !goto Польские Пряники
+[03:38:55] Mr_Pyro teleported to Польские Пряники
+[03:38:55] Mr_Pyro: !goto Польские Пряники
+[03:39:23] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[03:39:43] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcrate
+[03:39:44] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcrate_uni
+[03:39:49] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezuranium
+[03:39:58] Польские Пряники was killed by prop_physics
+[03:40:10] Mr_Pyro to admins: А что это за сооружение вообще
+[03:40:20] Rackman to admins: Да по приколу
+[03:40:27] Client "kottlettta" spawned in server <STEAM_0:0:762322598> (took 132 seconds).
+[03:40:33] Rackman to admins: Чтоб нубы офигели
+[03:40:51] Польские Пряники to admins: але это xen
+[03:41:09] Mr_Pyro cloaked Themself by amount 0
+[03:41:09] Mr_Pyro: !cloak Mr_Pyro
+[03:41:21] Польские Пряники was killed by prop_physics
+[03:41:29] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezutilitycrate
+[03:41:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezuranium
+[03:42:53] Польские Пряники cloaked Themself by amount 127
+[03:42:55] Польские Пряники cloaked Themself by amount 127
+[03:43:48] Польские Пряники granted god mode upon Themself
+[03:44:43] Mr_Pyro to admins: Ракман, заспавнь свои технологии
+[03:44:53] Польские Пряники uncloaked Themself
+[03:44:53] Польские Пряники: !uncloak 
+[03:44:53] Mr_Pyro: !goto Mr_Pyro
+[03:44:59] Mr_Pyro teleported to Польские Пряники
+[03:44:59] Mr_Pyro: !goto Польские Пряники
+[03:44:59] Rackman to admins: Какие
+[03:45:39] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsprinkler
+[03:45:48] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[03:45:50] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[03:46:07] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[03:46:08] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[03:46:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[03:47:45] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezharpoon
+[03:47:55] Mr_Pyro to admins: Ну крутые
+[03:48:05] Польские Пряники set the hp for Themself to 400
+[03:48:11] Mr_Pyro to admins: я не знаю как их ещё описать
+[03:48:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:48:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:48:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:37] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:37] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:37] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:48:37] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:37] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:37] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:48:37] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:37] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:48:58] Rackman to admins: Тп ко мне
+[03:49:03] Польские Пряники teleported to Rackman
+[03:49:03] Польские Пряники: !goto Ra
+[03:49:08] Mr_Pyro: !goto Rackman\
+[03:49:13] Mr_Pyro teleported to Rackman
+[03:49:13] Mr_Pyro: !goto Rackman
+[03:49:15] Польские Пряники teleported to Rackman
+[03:49:15] Польские Пряники: !goto Ra
+[03:49:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:49:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:49:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:49:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:49:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:49:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:49:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:49:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:49:48] Rackman<STEAM_0:0:221849271> spawned model models/hunter/misc/sphere075x075.mdl
+[03:49:48] Rackman<STEAM_0:0:221849271> spawned model models/props_phx/construct/metal_dome360.mdl
+[03:49:49] Rackman<STEAM_0:0:221849271> spawned NPC npc_clawscanner
+[03:49:49] Rackman<STEAM_0:0:221849271> spawned model models/props_phx/construct/metal_dome360.mdl
+[03:49:57] Rackman<STEAM_0:0:221849271> spawned model models/hunter/misc/sphere075x075.mdl
+[03:49:57] Rackman<STEAM_0:0:221849271> spawned NPC npc_clawscanner
+[03:49:57] Rackman<STEAM_0:0:221849271> spawned model models/hunter/tubes/circle2x2c.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate1x1.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube05x1x05.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube025x075x025.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate05.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/xqm/afterburner1big.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate05.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube025x075x025.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube05x1x05.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned NPC npc_cscanner
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate05.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate05.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube025x075x025.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube025x075x025.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube05x1x05.mdl
+[03:50:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube05x1x05.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned NPC npc_cscanner
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate05.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube025x075x025.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube025x075x025.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube05x1x05.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate05.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube025x075x025.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned NPC npc_manhack
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate05.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned NPC npc_manhack
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate05.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube05x1x05.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/xqm/afterburner1big.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube05x1x05.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube05x1x05.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned NPC npc_manhack
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube025x075x025.mdl
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned NPC npc_manhack
+[03:50:04] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate1x1.mdl
+[03:50:15] Rackman<STEAM_0:0:221849271> spawned model models/xqm/deg360single.mdl
+[03:50:15] Rackman<STEAM_0:0:221849271> spawned model models/xqm/deg360single.mdl
+[03:50:15] Rackman<STEAM_0:0:221849271> spawned NPC npc_manhack
+[03:50:25] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:50:25] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:50:25] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:50:44] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:51:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:51:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:51:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:51:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:51:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:51:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:51:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:51:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:51:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:51:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[03:51:00] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:51:45] Client "Soldier_S.C.A.F" connected.
+[03:51:45] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[03:51:48] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_pz1jager
+[03:51:49] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_pz1jager
+[03:52:32] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[03:52:38] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_pz1bison
+[03:52:55] Mr_Pyro teleported to Rackman
+[03:52:55] Mr_Pyro: !goto Rackman
+[03:53:38] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_cratepack
+[03:53:40] Mr_Pyro to admins: А кто кстати сделал НЛО когда был евент с пришельцами (ещё тогда у Лу
+[03:53:55] Rackman to admins: Я, маннутко и поляков
+[03:53:59] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_pouch
+[03:54:04] Mr_Pyro to admins: Прикол
+[03:54:04] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[03:54:05] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[03:54:19] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:54:37] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsticknade
+[03:55:02] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsticknade
+[03:56:15] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_pz742
+[03:56:17] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_pz1bison
+[03:57:26] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:59:07] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[03:59:10] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[04:00:26] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[04:01:25] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[04:01:55] Польские Пряники teleported to Rackman
+[04:01:55] Польские Пряники: !goto Ra
+[04:02:14] Rackman<STEAM_0:0:221849271> spawned sent textscreen_base
+[04:02:31] Rackman<STEAM_0:0:221849271> spawned sent textscreen_base
+[04:03:30] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbombbay
+[04:03:46] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:03:59] Mr_Pyro uncloaked Themself
+[04:03:59] Mr_Pyro: !uncloak Mr_Pyro
+[04:04:09] Польские Пряники stripped weapons from Themself
+[04:04:09] Польские Пряники: !strip Пол
+[04:04:36] Client "Soldier_S.C.A.F" connected.
+[04:04:42] Client "Soldier_S.C.A.F" connected.
+[04:04:43] Rackman to admins: Посмотри на это кульфрум
+[04:04:54] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:05:39] Mr_Pyro teleported to Польские Пряники
+[04:05:40] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:06:35] Rackman cloaked Themself by amount 0
+[04:06:38] Rackman granted god mode upon Themself
+[04:07:00] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsentry
+[04:07:35] Mr_Pyro set the hp for Themself to 100
+[04:07:57] Rackman<STEAM_0:0:221849271> spawned sent lvs_trailer_zis3
+[04:08:02] Польские Пряники to admins: выруби год dshe
+[04:08:21] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezmunitions
+[04:08:50] Mr_Pyro teleported to Польские Пряники
+[04:08:59] Польские Пряники killed Mr_Pyro using wep_jack_gmod_hands
+[04:10:50] Mr_Pyro cloaked Themself by amount 0
+[04:10:50] Mr_Pyro: !cloak Mr_Pyro
+[04:11:04] Mr_Pyro teleported to Rackman
+[04:11:11] Mr_Pyro teleported to Rackman
+[04:13:09] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_eztimebomb
+[04:13:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[04:14:24] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_cratepack
+[04:14:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_pouch
+[04:14:32] Польские Пряники killed kottlettta using wep_jack_gmod_hands
+[04:14:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[04:14:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[04:14:45] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[04:14:53] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:14:54] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:15:22] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:15:23] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:15:23] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:15:24] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:15:24] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:17:19] Client "Ignoramus" connected.
+[04:17:40] Client "Soldier_S.C.A.F" connected.
+[04:18:35] Client "Ignoramus" spawned in server <STEAM_0:1:110949146> (took 76 seconds).
+[04:19:05] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[04:19:22] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:19:22] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:19:52] Польские Пряники killed kottlettta using wep_jack_gmod_hands
+[04:20:02] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:20:05] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:20:31] Mr_Pyro teleported to Польские Пряники
+[04:20:31] Mr_Pyro: !goto Польские Пряники
+[04:20:44] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[04:21:12] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:21:12] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:21:49] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:21:49] Rackman<STEAM_0:0:221849271> spawned sent sent_conveyor
+[04:22:22] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 282 seconds).
+[04:22:24] Ignoramus: !motd
+[04:23:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknade
+[04:23:40] Soldier_S.C.A.F to admins: админы что нового на сервере?
+[04:24:06] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[04:24:08] Rackman<STEAM_0:0:221849271> spawned sent lvs_trailer_zis3
+[04:24:09] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsticknade
+[04:24:11] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[04:24:58] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001a.mdl
+[04:25:43] Rackman killed Ignoramus
+[04:26:08] Soldier_S.C.A.F: хотел бы задатся вопросом
+[04:26:13] Soldier_S.C.A.F: что нового на сервере
+[04:26:18] Mr_Pyro teleported to Rackman
+[04:26:26] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[04:26:31] Rackman<STEAM_0:0:221849271> spawned sent lvs_trailer_zis3
+[04:26:31] Mr_Pyro cloaked Themself by amount 0
+[04:26:31] Mr_Pyro: !cloak Mr_Pyro
+[04:26:34] (csay from Польские Пряники) nichego
+[04:26:43] Mr_Pyro: !menu
+[04:26:48] Soldier_S.C.A.F: ну
+[04:27:00] Soldier_S.C.A.F: просто сервер похудел по весу
+[04:27:03] (Csay from Mr_Pyro) NICHEGO
+[04:27:32] Mr_Pyro stripped weapons from Themself
+[04:27:32] Mr_Pyro: !strip Mr_Pyro
+[04:27:37] Mr_Pyro suicided!
+[04:27:37] Mr_Pyro slayed Themself
+[04:27:37] Mr_Pyro: !slay Mr_Pyro
+[04:27:55] Mr_Pyro teleported to Польские Пряники
+[04:28:35] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[04:28:35] Soldier_S.C.A.F suicided!
+[04:28:44] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[04:29:03] kottlettta was killed by ent_jack_gmod_ezprimitivebench
+[04:29:14] Mr_Pyro set the hp for Themself to 100000
+[04:29:14] Mr_Pyro: !hp Mr_Pyro 100000
+[04:29:22] Rackman to admins: Тп
+[04:29:27] Польские Пряники: !goto Ra
+[04:29:29] Mr_Pyro teleported to Rackman
+[04:29:29] Mr_Pyro: !goto Rackman
+[04:29:31] Польские Пряники: !goto Ra
+[04:29:37] Польские Пряники teleported to Rackman
+[04:29:37] Польские Пряники: !goto Rack
+[04:30:17] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[04:30:57] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[04:31:01] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[04:31:02] Mr_Pyro teleported to Rackman
+[04:31:02] Mr_Pyro: !goto Rackman
+[04:31:04] Польские Пряники: !menu
+[04:31:09] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[04:31:12] The time is now 04:31 AM.
+[04:31:20] Rackman<STEAM_0:0:221849271> spawned sent lvs_trailer_zis3
+[04:31:38] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_lab/blastdoor001b.mdl
+[04:32:15] Польские Пряники: !menu
+[04:32:43] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[04:32:43] Польские Пряники set the jump power for Themself to 200
+[04:32:48] Польские Пряники: !menu
+[04:32:52] Польские Пряники set the jump power for Themself to 2
+[04:32:54] Польские Пряники set the jump power for Themself to 2
+[04:33:58] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[04:34:05] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_eztoolbox
+[04:34:12] Mr_Pyro stripped weapons from Themself
+[04:34:12] Mr_Pyro: !strip Mr_Pyro
+[04:35:08] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgas
+[04:35:35] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[04:36:55] Mr_Pyro teleported to Польские Пряники
+[04:36:56] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[04:37:09] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[04:37:09] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[04:37:18] Польские Пряники killed kottlettta using wep_jack_gmod_hands
+[04:37:40] Rackman to admins: Ужас готов
+[04:38:22] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[04:39:03] Dropped "kottlettta" from server<STEAM_0:0:762322598>
+[04:39:03] kottlettta suicided!
+[04:39:28] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[04:40:12] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[04:40:15] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[04:42:50] Mr_Pyro teleported to Rackman
+[04:42:50] Mr_Pyro: !goto Rackman
+[04:43:33] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[04:43:33] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[04:43:33] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[04:43:33] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[04:43:33] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[04:43:33] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[04:43:33] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[04:43:33] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[04:43:34] Client "klinskoe za 200" connected.
+[04:43:51] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[04:43:52] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[04:43:53] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[04:43:54] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[04:43:56] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[04:43:58] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[04:44:36] Польские Пряники: !goto Igro
+[04:44:41] Польские Пряники teleported to Ignoramus
+[04:44:41] Польские Пряники: !goto Igno
+[04:45:41] Ignoramus: я в курсе
+[04:45:56] Ignoramus: ок
+[04:45:57] Польские Пряники: !menu
+[04:46:09] Польские Пряники: !menu
+[04:46:34] Польские Пряники: !menu
+[04:46:37] Mr_Pyro killed Ignoramus using ent_jack_gmod_ezdynamite
+[04:46:56] Mr_Pyro brought Ignoramus
+[04:46:56] Mr_Pyro: !bring Ignoramus
+[04:46:59] Польские Пряники banned Ignoramus permanently (Оскорбления)
+[04:46:59] Dropped "Ignoramus" from server<STEAM_0:1:110949146>
+[04:46:59] Ignoramus suicided!
+[04:47:34] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[04:47:43] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[04:47:47] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[04:48:20] Польские Пряники: !menu
+[04:48:41] Польские Пряники unbanned steamid STEAM_0:1:110949146 (Ignoramus)
+[04:49:03] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 329 seconds).
+[04:50:13] Client "Ignoramus" connected.
+[04:50:25] Польские Пряники to admins: не бань он нубас
+[04:50:46] Client "Ignoramus" spawned in server <STEAM_0:1:110949146> (took 33 seconds).
+[04:50:51] Client "GemOfThem" connected.
+[04:51:45] Mr_Pyro teleported to Ignoramus
+[04:52:05] Client "GemOfThem" spawned in server <STEAM_0:1:71788607> (took 74 seconds).
+[04:52:28] Client "kottlettta" connected.
+[04:52:51] Client "Sannanore" connected.
+[04:52:57] Client "kottlettta" spawned in server <STEAM_0:0:762322598> (took 29 seconds).
+[04:53:12] Mr_Pyro stripped weapons from Themself
+[04:53:12] Mr_Pyro: !strip Mr_Pyro
+[04:53:15] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[04:53:15] Mr_Pyro suicided!
+[04:55:06] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/popcan01a.mdl
+[04:55:08] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/popcan01a.mdl
+[04:55:33] Client "Sannanore" connected.
+[04:56:01] Польские Пряники: я знаю
+[04:56:02] Client "Sannanore" spawned in server <STEAM_0:1:52589208> (took 29 seconds).
+[04:58:59] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknade
+[04:59:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[04:59:32] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[04:59:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[04:59:46] Sannanore: supply radio: fulton-crate
+[05:01:44] klinskoe za 200: я это припомн
+[05:01:49] Sannanore: забудь
+[05:02:04] Ignoramus: vete a la mierda
+[05:03:50] Rackman to admins: Я пойду, если кто-то сломает башню, выпустите демонов и позовите меня
+[05:03:53] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[05:03:53] Rackman suicided!
+[05:05:04] Sannanore: supply radio: fulton-crate
+[05:06:57] Client "Crystal" connected.
+[05:07:45] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[05:10:07] Польские Пряники killed kottlettta using wep_jack_gmod_hands
+[05:10:10] Client "Crystal" spawned in server <STEAM_0:0:626594767> (took 193 seconds).
+[05:11:56] Crystal: че это
+[05:12:33] Польские Пряники killed kottlettta using wep_jack_gmod_hands
+[05:12:33] Ignoramus was killed by ent_jack_aidbox
+[05:13:42] Польские Пряники killed Crystal using wep_jack_gmod_hands
+[05:15:42] Польские Пряники: !menu
+[05:16:04] Польские Пряники shocked Themself with 5 damage
+[05:16:06] Польские Пряники shocked Themself with 5 damage
+[05:16:07] Польские Пряники shocked Themself with 5 damage
+[05:16:07] Польские Пряники shocked Themself with 5 damage
+[05:16:09] Польские Пряники shocked Themself with 100 damage
+[05:16:15] Польские Пряники set the jump power for Themself to 200
+[05:16:19] Польские Пряники mauled Themself
+[05:16:34] Польские Пряники: !unmaul Пол
+[05:16:37] Польские Пряники was killed by npc_fastzombie
+[05:17:24] Польские Пряники set the hp for Themself to 800
+[05:17:24] Польские Пряники: !hp Пол 800
+[05:17:26] Польские Пряники: !menu
+[05:17:37] Польские Пряники blinded Themself by amount 255
+[05:17:38] Польские Пряники unblinded Themself
+[05:17:40] Польские Пряники blinded Themself by amount 75
+[05:17:42] Польские Пряники unblinded Themself
+[05:17:51] Польские Пряники set the color for Themself to 255 0 0 255
+[05:18:36] Польские Пряники set the material for Themself to models/debug/debugwhite
+[05:18:47] Sannanore was killed by ent_aboot_jsmod_ezcrate_fulton
+[05:19:03] Crystal: а вы не знаете где клинское за 200
+[05:19:06] Польские Пряники set the gravity for Themself to 0.5
+[05:19:06] Польские Пряники set the gravity for Themself to 0.5
+[05:19:19] Польские Пряники set the gravity for Themself to 0.2
+[05:19:20] Польские Пряники set the gravity for Themself to 0.2
+[05:19:24] Ignoramus: Déjame en paz
+[05:19:46] Ignoramus: No eres bienvenido aquí
+[05:19:48] Польские Пряники: !menu
+[05:19:52] GemOfThem killed Sannanore using tfa_doig43
+[05:20:08] Ignoramus: тщ
+[05:20:13] Польские Пряники set Themself's speeds to 400 and 800
+[05:20:21] Польские Пряники set Themself's speeds to 400 and 800
+[05:20:25] Польские Пряники set Themself's speeds to 20000 and 800
+[05:20:42] Польские Пряники: !menu
+[05:21:01] Ignoramus: no
+[05:21:08] Польские Пряники set the armor for Themself to 255
+[05:21:17] Ignoramus: No eres bienvenido aquí
+[05:21:35] Ignoramus: no druh
+[05:22:52] Crystal: занятно
+[05:23:04] Crystal: а кто это был
+[05:24:58] Crystal: нефть и железо как то далековато правда
+[05:25:37] kottlettta suicided!
+[05:27:53] Польские Пряники set the hp for Themself to 800
+[05:27:53] Польские Пряники: !hp Пол 800
+[05:27:57] Польские Пряники granted god mode upon Themself
+[05:27:57] Польские Пряники: !god Пол
+[05:28:19] Польские Пряники set the gravity for Themself to 0
+[05:28:33] Dropped "kottlettta" from server<STEAM_0:0:762322598>
+[05:28:33] kottlettta suicided!
+[05:28:46] Sannanore suicided!
+[05:29:58] Client "kottlettta" connected.
+[05:30:25] Польские Пряники: !menu
+[05:30:27] Client "kottlettta" spawned in server <STEAM_0:0:762322598> (took 29 seconds).
+[05:30:31] Польские Пряники set the gravity for Themself to 0.2
+[05:34:17] Sannanore: r_lod -1
+[05:35:26] Crystal: там ниче
+[05:39:19] klinskoe za 200: СВЯЩЕННОЕ СУЩЕСТВО
+[05:39:26] Ignoramus suicided!
+[05:39:29] Crystal: зачем солнечные панели
+[05:39:31] Crystal: если мы можем
+[05:39:35] Crystal: сделать генератор
+[05:39:36] klinskoe za 200: КОТОРОМУ ПОСВЕЩЕН АЛТАРЬ
+[05:39:38] Crystal: на жидком топливе
+[05:39:41] Crystal: и улучшить его просто
+[05:39:47] klinskoe za 200: ПРИМИ МОЙ ПОПКРОН
+[05:39:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/oildrum001.mdl
+[05:40:10] klinskoe za 200: СПАСИО
+[05:40:52] klinskoe za 200: ЧУВАКИ
+[05:41:02] Client "Filips" connected.
+[05:41:19] klinskoe za 200: МНЕ СУЩЕСТВО БОЧКУ ПОДАРИЛО
+[05:42:04] klinskoe za 200: КАКОЙ КРЕДИТ
+[05:42:08] klinskoe za 200: НЕ НАДО КРЕДИТ
+[05:42:25] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsmallbomb
+[05:42:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezrocketmotor
+[05:42:47] klinskoe za 200: ТЫ КРЕДИТ ВЗЯЛ????
+[05:42:59] klinskoe za 200: а откуда тогда деньги????
+[05:43:03] Client "MiniBober" connected.
+[05:43:25] klinskoe za 200: блять пиздец у нас уран есть чувак
+[05:43:37] klinskoe za 200: какой tungsten
+[05:43:46] klinskoe za 200: мы его на прокаченные детальки потратим
+[05:44:05] Client "Wladiii" connected.
+[05:44:18] klinskoe za 200: а щас что ты задумал?
+[05:44:28] Crystal: блин не я чето лучше в соло пойду
+[05:44:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznuke_small
+[05:44:37] klinskoe za 200: тааак ну я вижу
+[05:44:41] Crystal: и вам помогать буду
+[05:44:47] klinskoe za 200: а что именно ты взрывать будешь?
+[05:45:15] klinskoe za 200: БЛЯТЬ МЫ ОТ РАДИАЦИИ ПЕРЕДОХНЕМ
+[05:45:17] Client "Wladiii" spawned in server <STEAM_0:0:150043416> (took 72 seconds).
+[05:46:12] Dropped "Wladiii" from server<STEAM_0:0:150043416>
+[05:46:12] Wladiii suicided!
+[05:46:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[05:47:03] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[05:47:46] Client "Сaído" connected.
+[05:48:08] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[05:48:18] Client "Сaído" spawned in server <STEAM_0:1:724755571> (took 32 seconds).
+[05:48:26] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[05:48:53] Client "patrikalkas" connected.
+[05:49:08] Польские Пряники: МАГИЯ ПАЛЮБАСУ
+[05:49:18] Польские Пряники: АЛТАРЬ
+[05:49:32] Польские Пряники: А Я ТУТ БОГ
+[05:49:50] Польские Пряники: ЭТО НЕ БАГ
+[05:49:53] Польские Пряники: НО НЕ ЮЗАЙТЕ
+[05:49:54] Client "patrikalkas" connected.
+[05:49:54] Польские Пряники: ТАК
+[05:49:59] Польские Пряники: ИНАЧЕ ЗАБАНЯТ
+[05:50:59] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 65 seconds).
+[05:51:58] Client "Barney" connected.
+[05:52:03] klinskoe za 200: ЧЕТО ГОТОВИТЬСЯ
+[05:52:23] (TEAM) klinskoe za 200: Нpipe
+[05:52:28] klinskoe za 200: pipe
+[05:52:52] Client "Retro" connected.
+[05:53:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[05:53:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[05:55:23] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[05:55:29] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[05:55:31] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[05:55:42] Client "Great" connected.
+[05:56:26] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[05:56:35] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_sdkfz250
+[05:57:34] Client "Retro" spawned in server <STEAM_0:0:536016136> (took 282 seconds).
+[05:58:49] Retro: Эт че за хуйня.
+[06:00:23] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furniturechair001a.mdl
+[06:00:39] Польские Пряники: !MENU
+[06:00:48] Польские Пряники set the hp for Themself to 800
+[06:01:15] kottlettta was killed by ent_rus_spawnbase
+[06:02:13] Retro: Гойда
+[06:02:44] Retro: Я тут давно.
+[06:02:54] Retro: С ниm нет.
+[06:03:23] Retro: я реферат сдавал по радиации
+[06:03:24] Retro: я шарю.
+[06:05:10] Retro: Шарю.
+[06:06:19] Retro: Кто?
+[06:06:26] Retro: а 
+[06:06:28] Retro: нацик тот
+[06:06:30] Retro: понятно
+[06:06:33] Retro: mы его вчера выебали
+[06:06:58] Retro: а как блять скин поmенять нахуй
+[06:07:07] Retro: я похож на еблана.
+[06:07:10] klinskoe za 200: playermodel_selector
+[06:07:17] Retro: а куда вводить
+[06:07:20] Retro: в консоль?
+[06:08:30] Retro: он варит mет.
+[06:09:01] Client "̶U̶N̶D̶E̶R̶T̶A̶K̶E̶R" connected.
+[06:09:36] Retro: Алах ак бар!!!!!!!!!!!!!!!!!!!!
+[06:10:47] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[06:10:47] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[06:10:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[06:10:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[06:10:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[06:10:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[06:11:24] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezflashbang
+[06:11:27] Client "Barney" spawned in server <STEAM_0:0:99444119> (took 1169 seconds).
+[06:11:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezflashbang
+[06:11:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezflashbang
+[06:11:58] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezflashbang
+[06:12:10] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezgasnade
+[06:12:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezacorn
+[06:12:50] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[06:13:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[06:13:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznuke_small
+[06:13:21] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezstickynade
+[06:13:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezstickynade
+[06:13:32] Crystal: а?
+[06:13:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezstickynade
+[06:13:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezstickynade
+[06:13:52] Польские Пряники killed Barney using env_explosion
+[06:13:53] Crystal: роджер роджер
+[06:13:54] Crystal: прием
+[06:13:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[06:14:02] Crystal: че у вас там
+[06:14:06] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[06:14:08] GemOfThem was killed by ent_jack_aidbox
+[06:14:16] Crystal: ого
+[06:14:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfragnade
+[06:14:22] Crystal: вы ядерку делать будете?
+[06:14:33] Crystal: туда их
+[06:14:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbomb
+[06:14:39] Ignoramus: No entiendo
+[06:14:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[06:15:17] Client "P0lyakov" connected.
+[06:15:23] Client "P0lyakov" connected.
+[06:16:10] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 47 seconds).
+[06:17:08] Client "K1Pn1ch" connected.
+[06:17:24] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[06:18:36] kottlettta killed kottlettta
+[06:19:16] klinskoe za 200: ГРОМКО ПИЗДА
+[06:20:19] Client "K1Pn1ch" spawned in server <STEAM_0:1:52607904> (took 191 seconds).
+[06:21:59] GemOfThem: !motd
+[06:22:11] GemOfThem: jmod_ez_inv
+[06:22:55] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_eztoolbox
+[06:23:14] Ignoramus suicided!
+[06:24:00] Dropped "K1Pn1ch" from server<STEAM_0:1:52607904>
+[06:24:00] K1Pn1ch suicided!
+[06:24:20] Client "BATON" connected.
+[06:24:30] Client "K1Pn1ch" connected.
+[06:24:58] Client "K1Pn1ch" spawned in server <STEAM_0:1:52607904> (took 28 seconds).
+[06:25:24] K1Pn1ch: /s сосать хохлы 
+[06:26:07] Сaído to admins: админ
+[06:26:13] Сaído to admins: иди сюда
+[06:26:34] Польские Пряники: назови просто ночная бабочка
+[06:26:36] Польские Пряники: там лимит
+[06:26:43] Польские Пряники: редактировать можно
+[06:29:41] Retro killed kottlettta using ent_rus_jsmod_pipe
+[06:29:53] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/oildrum001.mdl
+[06:31:08] Dropped "P0lyakov" from server<STEAM_0:0:60570605>
+[06:31:08] P0lyakov suicided!
+[06:31:20] Barney killed Barney
+[06:31:30] kottlettta was killed by ent_rus_jsmod_pipe
+[06:31:30] Retro was killed by ent_rus_jsmod_pipe
+[06:32:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezarmor_jetmodule_admin
+[06:33:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezarmor_jumpmodule_admin
+[06:33:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezarmor_jetmodule_admin
+[06:34:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezcombinenade
+[06:34:18] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezcombinenade
+[06:37:23] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezcombineradio
+[06:37:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezairboatengine
+[06:37:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuel
+[06:37:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_ezchair
+[06:38:04] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_ezhealthvial
+[06:38:13] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_ezprojector
+[06:38:20] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_ezmelmet
+[06:38:28] Польские Пряники: !menu
+[06:38:28] Сaído to admins: адм, вопрос
+[06:38:40] Польские Пряники set the material for Themself to models/flesh
+[06:39:08] Польские Пряники: Nails
+[06:39:08] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbasicparts
+[06:39:58] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eztoolbox
+[06:41:43] kottlettta killed kottlettta
+[06:43:30] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbeartrap
+[06:43:31] kottlettta killed Сaído using wep_jack_gmod_ezpickaxe
+[06:43:50] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezflashbang
+[06:44:13] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknade
+[06:44:15] Сaído to admins: сукаа, тачка забагалась
+[06:45:10] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_renaultft_m
+[06:45:20] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:45:30] Client "P0lyakov" connected.
+[06:45:36] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:45:47] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep_mg
+[06:46:03] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[06:46:06] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 36 seconds).
+[06:48:48] Crystal: сухарики это баланит прием
+[06:48:57] Crystal: сухарики это баланит прием
+[06:49:07] Crystal: как у вас дела 
+[06:49:17] Crystal: я трейдингом вольфрама начал заниматься
+[06:49:24] Crystal: я советую вам побыстрее делать ядерное оружие
+[06:49:31] Crystal: я пойду проверю что там у них на базе
+[06:49:44] Crystal: ок
+[06:49:49] Crystal: а как координаты проверить
+[06:49:52] Crystal: напомни
+[06:49:54] Crystal: ок
+[06:49:59] Crystal: щас будет сделано
+[06:50:25] Client "Derkoletus" connected.
+[06:51:44] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[06:52:37] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[06:52:48] P0lyakov: Йо
+[06:52:58] P0lyakov: Йо можно к вам?
+[06:53:22] Client "Limitless Gregg" connected.
+[06:54:12] Client "Derkoletus" spawned in server <STEAM_0:1:616629252> (took 227 seconds).
+[06:55:03] Client "Limitless Gregg" spawned in server <STEAM_0:0:117395677> (took 101 seconds).
+[06:55:32] P0lyakov: Привет
+[06:55:37] Сaído killed Retro using lvs_renaultft_m
+[06:55:55] Сaído killed klinskoe za 200 using tfa_rs2v_akm
+[06:56:01] Сaído killed kottlettta using tfa_rs2v_akm
+[06:56:27] Польские Пряники: !goto Ca
+[06:56:35] klinskoe za 200 to admins: grif tp
+[06:56:46] Crystal: че происходит
+[06:59:25] Crystal: меня тоже можешь вылечить
+[06:59:37] Crystal: кстати координаты их базы 132 -135
+[06:59:41] Crystal: 132 -135
+[06:59:49] Crystal: они довольно хорошо там развились
+[06:59:50] Dropped "Сaído" from server<STEAM_0:1:724755571>
+[06:59:50] Сaído suicided!
+[06:59:58] Crystal: я вам буду привозить военную технику и помогать вам военно
+[07:00:26] K1Pn1ch: +необучаемый
+[07:02:21] Crystal: привет
+[07:02:25] Crystal: приветствую тебя солдат
+[07:02:49] Crystal: хз
+[07:02:54] Crystal: я щас строить собирался укрепления
+[07:03:06] Crystal: у нас есть керамика
+[07:04:27] Crystal: хз
+[07:04:42] Crystal: ну можешь
+[07:04:44] Crystal: впринципе
+[07:04:47] Crystal: буду благодарен
+[07:05:23] Crystal: спс
+[07:06:43] Crystal: сойдет
+[07:06:54] Limitless Gregg was killed by ent_jack_gmod_ezmedkit
+[07:06:59] Crystal: у нас скоро намечается война с другим государством
+[07:07:07] Crystal: bruuuuh
+[07:07:16] Crystal: поэтому мы строим укрепления
+[07:07:24] Crystal: саннанор оскорбил главу другой фракции
+[07:07:31] Crystal: это все что я знаю
+[07:07:41] Crystal: я хз будем ли участвовать в войне напрямую
+[07:07:52] Crystal: я согласился пока что только привозить военную технику на фронт
+[07:07:59] Crystal: и помогать с боеприпасами
+[07:09:53] Barney killed GemOfThem using ent_jack_gmod_ezfalloutparticle
+[07:09:58] Client "HEINZ" connected.
+[07:10:08] Crystal: пока я строю другую стену
+[07:10:14] Crystal: сможешь сюда провести линии электропередач
+[07:10:17] Crystal: и установить турель
+[07:10:20] Crystal: и включить ее
+[07:10:23] Crystal: чтоб работала
+[07:10:29] Crystal: можешь турель заказать
+[07:10:58] Barney killed K1Pn1ch using ent_jack_gmod_ezfalloutparticle
+[07:11:13] Barney suicided!
+[07:11:59] Client "HEINZ" spawned in server <STEAM_0:1:760492142> (took 121 seconds).
+[07:14:35] Client "Rackman" connected.
+[07:15:17] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 42 seconds).
+[07:15:17] K1Pn1ch killed K1Pn1ch
+[07:15:48] Rackman cloaked Themself by amount 0
+[07:15:48] Rackman cloaked Themself by amount 0
+[07:15:49] Rackman cloaked Themself by amount 0
+[07:15:51] Rackman granted god mode upon Themself
+[07:15:51] Rackman granted god mode upon Themself
+[07:15:58] Rackman to admins: Поразительно
+[07:16:03] Rackman to admins: Башня даже не повреждена
+[07:16:04] HEINZ: !voice SANS
+[07:16:07] Client "st_states" connected.
+[07:16:08] HEINZ: A
+[07:16:13] Rackman to admins: Я ожидал что её сломают первые же бомжи
+[07:16:38] HEINZ: 1
+[07:16:40] kottlettta killed klinskoe za 200 using tfa_verdun_tankgewehr
+[07:16:46] HEINZ: SANS
+[07:16:58] Client "PoPcat" connected.
+[07:17:12] kottlettta killed Retro using ent_jack_gmod_ezfalloutparticle
+[07:17:25] Crystal: что еще раз
+[07:17:31] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_flatcap
+[07:17:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_beanie
+[07:17:37] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_beanie
+[07:17:38] Derkoletus: Что такое coolant
+[07:17:39] kottlettta suicided!
+[07:17:42] Crystal: хлодогент
+[07:17:47] Crystal: он вроде повышает скорострельность турели
+[07:17:49] Crystal: или чет типо того
+[07:17:53] Ignoramus: supply radio: fulton-crate
+[07:18:07] Retro: Где mой лут блядь
+[07:18:13] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezarmor_longfallboots
+[07:18:18] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 80 seconds).
+[07:18:22] Crystal: я пока пойду привезу ПВО машину нашим
+[07:18:25] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_headset
+[07:18:59] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_urbtorso
+[07:20:40] Client "Miribaly" connected.
+[07:20:49] Crystal: клинское
+[07:20:54] Crystal: это вам
+[07:21:08] Crystal: вам что то надо?
+[07:21:12] Client "Miribaly" spawned in server <STEAM_0:1:933612180> (took 32 seconds).
+[07:22:09] Limitless Gregg killed Sannanore using tfa_doig43
+[07:22:28] Limitless Gregg killed Sannanore using tfa_doig43
+[07:22:42] Limitless Gregg killed Sannanore using tfa_doig43
+[07:22:50] Limitless Gregg killed K1Pn1ch using tfa_doig43
+[07:22:59] Limitless Gregg killed Sannanore using tfa_doig43
+[07:23:12] Limitless Gregg killed Sannanore using tfa_doig43
+[07:23:29] Limitless Gregg killed Sannanore using tfa_doig43
+[07:23:42] Limitless Gregg killed Sannanore using tfa_doig43
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:44] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/harpoon002a.mdl
+[07:23:52] Limitless Gregg killed Sannanore using tfa_doig43
+[07:24:20] Crystal: ок
+[07:24:22] Crystal: хорошо
+[07:24:55] Rackman<STEAM_0:0:221849271> spawned sent ent_rus_spawnbase
+[07:24:59] Rackman<STEAM_0:0:221849271> spawned sent ent_rus_spawnbase
+[07:25:11] Rackman<STEAM_0:0:221849271> spawned sent ent_rus_spawnbase
+[07:25:20] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_cratepack
+[07:25:27] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_pouch
+[07:25:59] Rackman stripped weapons from Themself
+[07:26:08] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[07:26:18] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[07:26:18] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[07:26:26] Sannanore: supply radio: detpacks
+[07:27:09] Crystal: дерколетус
+[07:27:17] klinskoe za 200: КРАФТИТЕ КОМПОНЕНТЫ ДЛЯ ЯДЕРКИ
+[07:27:24] Crystal: сделай нам пока что легкую броню
+[07:27:27] Dropped "P0lyakov" from server<STEAM_0:0:60570605>
+[07:27:27] P0lyakov suicided!
+[07:27:31] Crystal: и закажи пару турелей
+[07:27:48] PoPcat: здаров
+[07:28:00] PoPcat: ты кем будешь?
+[07:28:11] klinskoe za 200: ГРОМКО
+[07:28:18] Crystal: это радио
+[07:28:22] PoPcat was killed by ent_jack_gmod_ezprimitivebench
+[07:28:27] Dropped "PoPcat" from server<STEAM_0:1:564871456>
+[07:28:27] PoPcat suicided!
+[07:28:30] Crystal: нет
+[07:29:10] Crystal: и еще разгрузи железо пока я стену строю
+[07:30:11] klinskoe za 200: мс
+[07:30:14] Derkoletus: supply radio: sentry
+[07:30:18] klinskoe za 200: МНЕ НУЖЕН SANNANORE
+[07:30:34] klinskoe za 200: ГДЕ ОН
+[07:30:47] GemOfThem: НА КАРАНТИНЕ
+[07:31:01] klinskoe za 200: ПОКАЖИТЕ МНЕ ЕГО
+[07:31:59] Limitless Gregg killed Retro using tfa_doimg42
+[07:32:00] Limitless Gregg killed klinskoe za 200 using tfa_doimg42
+[07:32:02] GemOfThem killed kottlettta using tfa_doi_m16a1
+[07:33:13] Retro killed K1Pn1ch using lvs_wheeldrive_dodhalftrack_us
+[07:33:17] Retro killed Limitless Gregg using lvs_wheeldrive_dodhalftrack_us
+[07:33:25] Crystal: две турели вон на ту стену
+[07:33:38] Crystal: остальные я сам расставлю и подключу
+[07:34:07] Crystal: вроде наш хз
+[07:34:13] Crystal: крч
+[07:34:20] Crystal: мб
+[07:34:31] Crystal: подключи электричество к второй стене если хочешь
+[07:34:32] GemOfThem killed Limitless Gregg using lvs_trailer_zis3
+[07:34:36] Crystal: вместе с турелями
+[07:34:45] klinskoe za 200: надо два танка
+[07:34:52] klinskoe za 200: один танк снесуьт нахуй
+[07:35:09] klinskoe za 200: еьте
+[07:35:57] Dropped "Miribaly" from server<STEAM_0:1:933612180>
+[07:35:57] Miribaly suicided!
+[07:36:09] klinskoe za 200: СУКА
+[07:36:15] (TEAM) klinskoe za 200: Я НЕ ТО НАЖАЛ
+[07:36:45] Retro killed K1Pn1ch using lvs_wheeldrive_dodsherman
+[07:36:45] Limitless Gregg was killed by lvs_wheeldrive_dodwillyjeep
+[07:37:01] Retro killed K1Pn1ch using lvs_wheeldrive_dodsherman
+[07:37:06] Ignoramus killed kottlettta using lvs_wheeldrive_dodsherman
+[07:37:27] klinskoe za 200: ПИЗДА ИМ
+[07:37:52] Client "NotWinner" connected.
+[07:37:54] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[07:37:54] Rackman suicided!
+[07:38:26] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[07:38:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[07:38:42] klinskoe za 200 killed kottlettta using tfa_doimg34
+[07:39:13] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[07:39:15] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[07:39:44] (TEAM) klinskoe za 200: МЫ ИХ ТОЛПОЙ ДАВИТЬ 
+[07:39:54] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[07:39:55] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[07:41:08] Retro: шерmан и противтанковая пушка
+[07:41:12] Retro: а еще антитанк ружье
+[07:41:14] Retro: пушка на крыше.
+[07:41:17] Retro: шерmан внизу.
+[07:41:24] Retro: стоит роmбоm не пробить в лоб.
+[07:42:24] Ignoramus: !dance
+[07:42:38] Client "Hellinberg" connected.
+[07:43:36] Barney killed klinskoe za 200 using lvs_wheeldrive_dodtiger
+[07:43:53] Barney killed kottlettta using lvs_wheeldrive_dodtiger
+[07:43:53] Barney killed Retro using lvs_wheeldrive_dodtiger
+[07:44:02] Польские Пряники<STEAM_0:0:555258766> spawned sent joes_sam_turret_lvs
+[07:44:04] Польские Пряники<STEAM_0:0:555258766> spawned sent joes_sam_turret_lvs
+[07:44:42] Польские Пряники: !menu
+[07:45:03] (Csay from Польские Пряники) GOD ANGRY
+[07:45:34] Barney killed klinskoe za 200 using lvs_wheeldrive_dodtiger
+[07:45:54] Польские Пряники<STEAM_0:0:555258766> spawned sent edit_fog
+[07:46:48] Client "NotWinner" spawned in server <STEAM_0:1:235165473> (took 536 seconds).
+[07:47:07] Derkoletus: А хули хп фракции падает?
+[07:47:08] Client "Hellinberg" spawned in server <STEAM_0:0:27824887> (took 270 seconds).
+[07:47:12] Crystal: собери противотанковую пушку внутри нашего укрепления
+[07:47:14] Crystal: а
+[07:47:17] Crystal: хуй знает 
+[07:47:23] Crystal: из за альянся мб
+[07:47:31] klinskoe za 200: НА СКЛАДЕ НЕТ МЕСТА
+[07:47:32] Derkoletus: Походу
+[07:48:21] Польские Пряники killed Barney
+[07:48:31] klinskoe za 200: supply radio: sticky bomb
+[07:48:33] patrikalkas was killed by ent_jack_aidbox
+[07:48:34] (TEAM) klinskoe za 200: ТАК РИЛ
+[07:48:37] (TEAM) klinskoe za 200: ЯДЕРКУ
+[07:48:42] (TEAM) klinskoe za 200: ток у нипх пво
+[07:48:55] klinskoe za 200: есть
+[07:49:57] Derkoletus: Всё
+[07:49:59] GemOfThem killed NotWinner using tfa_verdun_tankgewehr
+[07:50:03] Derkoletus: Походу это конец
+[07:50:11] Crystal: у нас есть шансы еще
+[07:50:16] Crystal: нам нужно нанести удар первыми
+[07:50:35] Derkoletus: Ой
+[07:50:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezammo
+[07:50:38] Crystal: а куда нахуй
+[07:50:42] Derkoletus: Хз
+[07:50:53] klinskoe za 200: КТО ТЫ
+[07:50:56] klinskoe za 200: СТОЙ
+[07:51:02] (TEAM) klinskoe za 200: ЦСТРЕЛЯТЬ УДУ
+[07:51:02] Retro: 133
+[07:51:06] Retro: -135
+[07:51:20] Crystal: и че делать будем
+[07:51:23] Derkoletus: И что дальше?
+[07:51:24] NotWinner killed NotWinner
+[07:51:27] Derkoletus: Хз
+[07:51:31] Crystal: я хз
+[07:51:37] Crystal: щас вообще можно атаковать 
+[07:51:37] Dropped "NotWinner" from server<STEAM_0:1:235165473>
+[07:51:37] NotWinner suicided!
+[07:51:42] Crystal: как мы вообще вымерли
+[07:51:44] Derkoletus: Я теперь тумба юмба
+[07:51:44] K1Pn1ch killed kottlettta using tfa_verdun_tankgewehr
+[07:51:45] Crystal: как мамонты
+[07:52:00] Crystal: еще и мои 400к и 3к вольфрама на складе походу пропали
+[07:52:03] Crystal: ебаный насрал
+[07:52:10] Retro: 133 -135
+[07:52:18] Retro: x и y соотвественно.
+[07:52:27] patrikalkas: 133 -135
+[07:52:47] Derkoletus: Ладно я пойду
+[07:52:50] Derkoletus: Удачи
+[07:52:51] Crystal: давай поедем разбираться
+[07:52:53] Crystal: а ок
+[07:52:54] Crystal: пока
+[07:53:00] Dropped "Derkoletus" from server<STEAM_0:1:616629252>
+[07:53:00] Derkoletus suicided!
+[07:53:52] klinskoe za 200 killed K1Pn1ch using lvs_renaultft_m
+[07:53:57] patrikalkas: 133 -135
+[07:54:22] klinskoe za 200 killed GemOfThem using lvs_renaultft_m
+[07:54:24] Crystal: ПОЧЕМУ МОЯ ФРАКЦИЯ ПРОПАЛА
+[07:54:29] Crystal: НА НАС НЕ НАПАДАЛИ
+[07:54:35] klinskoe za 200 killed GemOfThem using lvs_renaultft_m
+[07:54:44] Crystal: А КУДА ОНИ ПРОПАЛИ
+[07:54:48] klinskoe za 200 suicided!
+[07:55:00] Crystal: и че мне щас делать
+[07:55:02] klinskoe za 200: ТОЧКА ОТКРЫТА
+[07:55:06] Crystal: давайте я вам свой танк привезу хотя бы
+[07:55:23] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[07:55:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[07:55:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[07:55:50] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[07:56:43] Barney killed Barney
+[07:57:08] Sannanore: supply radio: medium tank
+[07:57:10] GemOfThem killed klinskoe za 200 using lvs_wheeldrive_dodsherman
+[07:58:14] klinskoe za 200 was killed by ent_jack_aidbox
+[07:58:39] Retro killed Limitless Gregg using tfa_verdun_tankgewehr
+[07:58:41] klinskoe za 200: два танка едут к нам
+[07:59:07] Retro was killed by ent_jack_gmod_ezfalloutparticle
+[07:59:09] klinskoe za 200 was killed by ent_jack_gmod_ezfalloutparticle
+[07:59:25] kottlettta was killed by ent_jack_gmod_ezfalloutparticle
+[07:59:41] kottlettta was killed by ent_jack_gmod_ezfalloutparticle
+[07:59:58] Retro was killed by ent_jack_gmod_ezfalloutparticle
+[08:00:41] Crystal: я свой
+[08:01:17] kottlettta killed kottlettta
+[08:01:21] Crystal: я не могу напрямую участвовать в войне 
+[08:01:28] Crystal: и еще и мой медиум танк заблочен
+[08:01:39] Crystal: так что я побыстрому сделал вам легкий танк
+[08:01:49] patrikalkas: 133 -135
+[08:02:26] Crystal: сядьте кто то в легкий танк
+[08:02:28] Crystal: я не могу
+[08:02:37] Crystal: ты кто
+[08:02:44] Crystal: ясно
+[08:02:48] patrikalkas: 133 -135
+[08:03:07] Польские Пряники: У МЕНЯ ЕСТЬ КОЕ ЧТО ПО КРУЧЕ
+[08:03:16] Польские Пряники: ОПРОБУЙ
+[08:03:22] klinskoe za 200: спаио
+[08:03:52] K1Pn1ch killed Crystal using lvs_wheeldrive_dodsherman
+[08:03:55] kottlettta killed Ignoramus using lvs_wheeldrive_dodtiger
+[08:04:03] Dropped "Crystal" from server<STEAM_0:0:626594767>
+[08:04:03] Crystal suicided!
+[08:04:08] Retro: Не вы безmаmЫши нахуй
+[08:04:23] Dropped "Retro" from server<STEAM_0:0:536016136>
+[08:04:23] Retro suicided!
+[08:04:32] K1Pn1ch killed patrikalkas using lvs_wheeldrive_dodsherman
+[08:04:37] K1Pn1ch killed HEINZ using lvs_wheeldrive_dodsherman
+[08:04:42] Client "FighterX2500" connected.
+[08:04:51] Ignoramus killed kottlettta using lvs_wheeldrive_dodsherman
+[08:04:58] Польские Пряники: !MENU
+[08:05:12] Польские Пряники played sound lanrp/music/slave 2.ogg
+[08:05:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmunitions
+[08:05:31] Client "FighterX2500" spawned in server <STEAM_0:0:38041263> (took 49 seconds).
+[08:05:34] Ignoramus killed klinskoe za 200 using lvs_wheeldrive_dodsherman
+[08:06:25] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[08:06:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[08:06:55] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[08:07:01] kottlettta killed Barney using tfa_verdun_tankgewehr
+[08:07:32] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[08:07:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[08:07:42] klinskoe za 200 killed K1Pn1ch using lvs_renaultft_m
+[08:07:50] Ignoramus killed kottlettta using lvs_wheeldrive_dodsherman
+[08:08:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[08:08:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[08:08:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[08:08:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[08:08:57] Dropped "kottlettta" from server<STEAM_0:0:762322598>
+[08:08:57] kottlettta suicided!
+[08:09:05] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[08:09:26] Dropped "Ignoramus" from server<STEAM_0:1:110949146>
+[08:09:26] Ignoramus suicided!
+[08:09:29] Польские Пряники killed Barney using ent_jack_gmod_ezslam
+[08:09:29] Польские Пряники killed Sannanore using ent_jack_gmod_ezslam
+[08:09:30] GemOfThem was killed by prop_physics
+[08:09:44] klinskoe za 200 killed GemOfThem using lvs_renaultft_m
+[08:09:54] Limitless Gregg killed Hellinberg using tfa_doisten
+[08:10:32] klinskoe za 200 killed Sannanore using tfa_doig43
+[08:10:39] Limitless Gregg killed klinskoe za 200 using tfa_doisten
+[08:10:58] Dropped "Hellinberg" from server<STEAM_0:0:27824887>
+[08:10:58] Hellinberg suicided!
+[08:11:01] Client "Hellinberg" connected.
+[08:11:06] Client "Сaído" connected.
+[08:11:39] Client "Сaído" spawned in server <STEAM_0:1:724755571> (took 33 seconds).
+[08:11:41] Client "Hellinberg" spawned in server <STEAM_0:0:27824887> (took 40 seconds).
+[08:11:41] Dropped "GemOfThem" from server<STEAM_0:1:71788607>
+[08:11:41] GemOfThem suicided!
+[08:12:13] HEINZ killed HEINZ
+[08:12:20] Dropped "Barney" from server<STEAM_0:0:99444119>
+[08:12:20] Barney suicided!
+[08:12:43] Dropped "FighterX2500" from server<STEAM_0:0:38041263>
+[08:12:43] FighterX2500 suicided!
+[08:13:16] Sannanore killed K1Pn1ch using tfa_verdun_tankgewehr
+[08:13:24] K1Pn1ch killed Sannanore using tfa_doisten
+[08:13:24] K1Pn1ch killed Limitless Gregg using tfa_doisten
+[08:13:26] Dropped "Sannanore" from server<STEAM_0:1:52589208>
+[08:13:26] Sannanore suicided!
+[08:13:32] Dropped "Limitless Gregg" from server<STEAM_0:0:117395677>
+[08:13:32] Limitless Gregg suicided!
+[08:13:33] Dropped "K1Pn1ch" from server<STEAM_0:1:52607904>
+[08:13:33] K1Pn1ch suicided!
+[08:14:36] klinskoe za 200: ЕСТЬ ТУТ КТО???
+[08:15:48] Dropped "Hellinberg" from server<STEAM_0:0:27824887>
+[08:15:48] Hellinberg suicided!
+[08:16:06] Польские Пряники: не тебе
+[08:16:15] Польские Пряники: леопард
+[08:17:10] Польские Пряники: странно что мою вышку не затронули
+[08:18:47] klinskoe za 200: ЧУВАКИ ЭТО ПОЕДА
+[08:19:14] Сaído to admins: ГО РЕСТАРТ
+[08:19:17] Польские Пряники: ок
+[08:19:18] Польские Пряники: ща
+[08:19:22] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:19:22] Сaído killed klinskoe za 200 using tfa_rs2v_akm
+[08:19:22] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:19:22] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:19:23] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:19:23] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:19:27] Польские Пряники: ты нуб
+[08:19:27] HEINZ killed Сaído using lvs_renaultft_m
+[08:19:33] Польские Пряники brought HEINZ,klinskoe za 200,patrikalkas,Сaído
+[08:19:33] Польские Пряники: !bring *
+[08:19:56] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:20:25] Dropped "HEINZ" from server<STEAM_0:1:760492142>
+[08:20:25] HEINZ suicided!
+[08:20:40] Польские Пряники: можете покататся
+[08:20:42] Польские Пряники: на танке
+[08:20:45] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:20:58] Сaído killed patrikalkas using tfa_doik98_scop
+[08:21:19] klinskoe za 200: АШАЛЕТЬ
+[08:22:08] patrikalkas to admins: Пошли в гч в дс
+[08:22:16] Польские Пряники: сейчас тест обстрел
+[08:22:18] Польские Пряники: танка
+[08:22:19] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:22:38] klinskoe za 200: СТРЕЛЯЙ
+[08:25:16] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:25:41] Польские Пряники<STEAM_0:0:555258766> spawned model models/hunter/misc/cone4x2mirrored.mdl
+[08:25:41] Польские Пряники<STEAM_0:0:555258766> spawned model models/hunter/misc/shell2x2.mdl
+[08:27:04] klinskoe za 200: absolute cinema
+[08:27:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznuke_big
+[08:27:39] klinskoe za 200: О НЕТ
+[08:27:46] Польские Пряники killed klinskoe za 200 using ent_jack_gmod_eznuke_big
+[08:27:46] Польские Пряники killed Сaído using ent_jack_gmod_eznuke_big
+[08:27:46] Польские Пряники killed patrikalkas using ent_jack_gmod_eznuke_big
+[08:28:07] klinskoe za 200: нету
+[08:28:10] Польские Пряники: !menu
+[08:28:30] Польские Пряники changed the map to gm_sro_mountain_field
+[08:28:30] Server is shutting down/changing levels.
+
+
+
+[08:28:40] New map: gm_sro_mountain_field
+[08:29:12] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 37 seconds).
+[08:29:32] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 57 seconds).
+[08:29:41] Client "Сaído" spawned in server <STEAM_0:1:724755571> (took 66 seconds).
+[08:30:07] Сaído to admins: ТП ПЛМ
+[08:30:14] Сaído to admins: ПЛС*
+[08:30:15] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 100 seconds).
+[08:30:23] Польские Пряники teleported to Сaído
+[08:30:23] Польские Пряники: !goto С
+[08:31:15] klinskoe za 200: мишанька
+[08:31:28] klinskoe za 200: да
+[08:31:45] Польские Пряники: !menu
+[08:33:35] (TEAM) klinskoe za 200: давай
+[08:37:34] Польские Пряники teleported to patrikalkas
+[08:37:34] Польские Пряники: !goto pa
+[08:38:04] Сaído to admins: хотим твоё мнение выслушать
+[08:39:06] Польские Пряники teleported to Сaído
+[08:39:06] Польские Пряники: !goto С
+[08:40:55] Польские Пряники teleported to patrikalkas
+[08:40:55] Польские Пряники: !goto pa
+[08:41:04] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[08:42:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezatmine
+[08:43:55] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/concrete_barrier001a.mdl
+[08:44:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[08:44:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[08:45:41] Польские Пряники stripped weapons from Themself
+[08:45:41] Польские Пряники: !strip Пол
+[08:46:01] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[08:46:03] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[08:46:09] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[08:46:11] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[08:46:27] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_renaultft_m
+[08:48:14] patrikalkas was killed by lvs_helicopter_rebel
+[08:48:47] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[08:48:49] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_zis3
+[08:51:20] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider
+[08:51:53] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider_new
+[08:52:05] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[08:52:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezchlorinebomb
+[08:52:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[08:52:56] klinskoe za 200: нашел
+[08:53:31] klinskoe za 200: надо ящик с ресами
+[08:53:56] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[08:54:01] klinskoe za 200: ЭТО ЧЕ БЫЛО
+[08:54:02] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[08:54:03] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[08:54:17] patrikalkas was killed by prop_physics
+[08:54:36] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_rebel
+[08:54:42] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001c.mdl
+[08:54:59] Польские Пряники brought patrikalkas
+[08:54:59] Польские Пряники: !bring pa
+[08:55:54] klinskoe za 200: нука
+[08:56:03] klinskoe za 200: ЕХАНА БАБАЙ
+[08:56:24] klinskoe za 200: НЯМКА
+[08:56:36] klinskoe za 200: ТУПО ИЗ КУКУРУЗЫ
+[08:56:40] klinskoe za 200: РАДИ ПОПКОРНА
+[08:56:48] klinskoe za 200: ммммм
+[08:57:11] klinskoe za 200: сразу два поля нсделаем)
+[08:57:19] klinskoe za 200: БЛЯЯЯЯЯЯ
+[08:57:29] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_citroen_type23
+[08:57:30] patrikalkas: Тебя в дс не слышно
+[08:57:41] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[08:58:10] Польские Пряники<STEAM_0:0:555258766> spawned sent joes_sam_turret_lvs
+[08:58:26] Польские Пряники<STEAM_0:0:555258766> spawned sent joes_sam_turret_lvs
+[08:59:05] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:59:28] klinskoe za 200: есть такое
+[08:59:40] klinskoe za 200: да да да
+[08:59:53] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:59:55] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[08:59:58] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[09:00:24] Польские Пряники killed patrikalkas using lvs_helicopter_cod_ah6
+[09:01:03] Польские Пряники brought klinskoe za 200,patrikalkas,Сaído
+[09:01:03] Польские Пряники: !bring *
+[09:01:10] Польские Пряники returned klinskoe za 200 to their original position
+[09:01:10] Польские Пряники: !return kli
+[09:01:15] Польские Пряники returned Сaído to their original position
+[09:01:15] Польские Пряники: !return С
+[09:02:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsprinkler
+[09:02:12] (TEAM) klinskoe za 200: ну это апупенный аддон
+[09:02:25] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[09:02:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuel
+[09:02:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eztoolbox
+[09:02:50] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbasicparts
+[09:03:00] (TEAM) klinskoe za 200: оно пропадает
+[09:03:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuel
+[09:04:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[09:05:14] klinskoe za 200: ужас
+[09:05:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[09:05:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[09:05:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[09:05:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[09:06:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[09:06:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[09:07:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezgasnade
+[09:07:20] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezflashbang
+[09:07:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezroadflare
+[09:07:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezcornear
+[09:08:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezcornear
+[09:08:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezcornear
+[09:08:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezcornear
+[09:08:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezcornear
+[09:08:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezcornear
+[09:08:32] patrikalkas killed patrikalkas
+[09:09:26] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_sdkfz251_flak
+[09:09:48] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_kfz14
+[09:11:44] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_mh6
+[09:12:26] Client "Goshan" connected.
+[09:17:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[09:17:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[09:17:25] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[09:18:04] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[09:18:06] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[09:18:54] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[09:19:36] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_trainstation/trainstation_clock001.mdl
+[09:19:36] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_trainstation/trainstation_clock001.mdl
+[09:19:36] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_trainstation/trainstation_clock001.mdl
+[09:19:36] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_trainstation/trainstation_clock001.mdl
+[09:19:58] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:19:59] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:19:59] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:19:59] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:19:59] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:19:59] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:19:59] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:03] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:03] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:08] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[09:20:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:20:50] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[09:20:54] Client "Goshan" spawned in server <STEAM_0:0:246258123> (took 508 seconds).
+[09:21:24] Польские Пряники set the hp for Themself to 374912384
+[09:21:24] Польские Пряники: !hp Пол 374912384
+[09:22:12] Dropped "Goshan" from server<STEAM_0:0:246258123>
+[09:22:13] Goshan suicided!
+[09:22:22] Польские Пряники set the hp for patrikalkas to 1000
+[09:22:22] Польские Пряники: !hp pa 1000
+[09:22:25] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[09:22:49] Польские Пряники set the hp for patrikalkas to 2000
+[09:22:49] Польские Пряники: !hp pa 2000
+[09:23:23] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[09:23:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[09:23:42] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[09:23:42] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[09:23:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[09:23:53] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[09:24:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[09:24:11] Польские Пряники set the hp for Themself to 100
+[09:24:11] Польские Пряники: !hp Пол 100
+[09:27:36] patrikalkas killed Польские Пряники using wep_jack_gmod_hands
+[09:28:02] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[09:28:02] patrikalkas suicided!
+[09:32:48] Польские Пряники froze klinskoe za 200
+[09:32:52] Польские Пряники unfroze klinskoe za 200
+[09:35:23] klinskoe za 200: блин мне идти пора
+[09:35:27] klinskoe za 200: покеда
+[09:35:28] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[09:35:28] klinskoe za 200 suicided!
+[09:36:55] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[09:36:55] Польские Пряники suicided!
+[09:53:22] Client "Нео" connected.
+[09:55:13] Client "Нео" spawned in server <STEAM_0:1:592067358> (took 111 seconds).
+[09:55:29] Dropped "Сaído" from server<STEAM_0:1:724755571>
+[09:55:29] Сaído suicided!
+[09:55:56] Client "Mr. Headcrab" connected.
+[09:58:13] Client "Mr. Headcrab" spawned in server <STEAM_0:1:686661333> (took 137 seconds).
+[09:59:13] Client "Зелом" connected.
+[09:59:18] Dropped "Mr. Headcrab" from server<STEAM_0:1:686661333>
+[09:59:18] Mr. Headcrab suicided!
+[10:02:26] Client "АГАНИМ В ЖОПЕ" connected.
+[10:03:13] Client "АГАНИМ В ЖОПЕ" spawned in server <STEAM_0:1:74811748> (took 47 seconds).
+[10:04:05] Dropped "АГАНИМ В ЖОПЕ" from server<STEAM_0:1:74811748>
+[10:04:05] АГАНИМ В ЖОПЕ suicided!
+[10:06:56] Client "Зелом" spawned in server <STEAM_0:0:512215328> (took 463 seconds).
+[10:11:10] Dropped "Нео" from server<STEAM_0:1:592067358>
+[10:11:10] Нео suicided!
+[10:11:11] Client "Нео" connected.
+[10:15:04] Dropped "Зелом" from server<STEAM_0:0:512215328>
+[10:15:04] Зелом suicided!
+[10:45:38] Client "АГАНИМ В ЖОПЕ" connected.
+[10:46:23] Client "АГАНИМ В ЖОПЕ" spawned in server <STEAM_0:1:74811748> (took 45 seconds).
+[11:03:40] Client "neperon2" connected.
+[11:05:07] Client "Mr. Headcrab" connected.
+[11:05:33] Client "Mr. Headcrab" spawned in server <STEAM_0:1:686661333> (took 26 seconds).
+[11:06:29] Client "Seva" connected.
+[11:06:44] Dropped "Mr. Headcrab" from server<STEAM_0:1:686661333>
+[11:06:44] Mr. Headcrab suicided!
+[11:09:48] Client "HEINZ" connected.
+[11:10:42] Client "HEINZ" spawned in server <STEAM_0:1:760492142> (took 54 seconds).
+[11:14:09] Dropped "АГАНИМ В ЖОПЕ" from server<STEAM_0:1:74811748>
+[11:14:09] АГАНИМ В ЖОПЕ suicided!
+[11:16:08] Client "Derkoletus" connected.
+[11:16:46] Client "THEDESPOT8" connected.
+[11:17:26] Client "Derkoletus" spawned in server <STEAM_0:1:616629252> (took 78 seconds).
+[11:17:56] HEINZ: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:19:17] Client "THEDESPOT8" spawned in server <STEAM_0:0:559065866> (took 151 seconds).
+[11:19:41] Client "denchikslez11" connected.
+[11:28:39] Client "Rackman" connected.
+[11:29:51] Client "Rackman" connected.
+[11:30:17] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 26 seconds).
+[11:30:31] Rackman cloaked Themself by amount 0
+[11:30:31] Rackman cloaked Themself by amount 0
+[11:30:32] Rackman cloaked Themself by amount 0
+[11:30:34] Rackman granted god mode upon Themself
+[11:30:34] Rackman granted god mode upon Themself
+[11:30:39] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[11:30:47] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:30:48] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:30:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_pouch
+[11:30:56] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_cratepack
+[11:31:33] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[11:31:49] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[11:33:18] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:34:09] Dropped "HEINZ" from server<STEAM_0:1:760492142>
+[11:34:09] HEINZ suicided!
+[11:35:26] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[11:35:29] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:36:18] Client "denchikslez11" spawned in server <STEAM_0:0:614977140> (took 997 seconds).
+[11:36:30] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:36:31] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:36:31] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:36:32] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:36:34] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[11:36:34] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[11:38:41] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[11:38:42] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[11:40:53] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:41:16] THEDESPOT8: jmod_ez_inv
+[11:42:23] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[11:43:11] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:43:12] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:43:33] Client "๋D3buff" connected.
+[11:43:40] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:45:20] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:45:36] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:45:36] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:45:37] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:45:37] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:45:38] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:45:38] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:45:39] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:45:39] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:45:42] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[11:45:43] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[11:45:43] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[11:45:43] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[11:47:12] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:47:15] Client "๋D3buff" spawned in server <STEAM_0:1:766635302> (took 222 seconds).
+[11:49:53] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:50:11] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcrate
+[11:50:33] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:50:34] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:50:35] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:51:34] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[11:51:34] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[11:53:02] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:53:02] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:53:03] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:53:05] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezairboatengine
+[11:53:10] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[11:53:10] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[11:54:10] Client "Sannanore" connected.
+[11:54:38] Client "Sannanore" spawned in server <STEAM_0:1:52589208> (took 28 seconds).
+[11:57:33] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[11:59:31] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[11:59:31] Rackman suicided!
+[12:01:17] Dropped "Sannanore" from server<STEAM_0:1:52589208>
+[12:01:17] Sannanore suicided!
+[12:05:58] THEDESPOT8: "supply radio: help"
+[12:06:10] THEDESPOT8: "supply radio: help"
+[12:07:23] Client "Hellinberg" connected.
+[12:07:34] Derkoletus: Хай
+[12:07:44] Derkoletus: ПОБЕЖАЛИ
+[12:07:58] Derkoletus: я щас не могу говорить
+[12:08:18] Derkoletus: окак
+[12:10:38] Client "Rackman" connected.
+[12:10:40] Client "Hellinberg" spawned in server <STEAM_0:0:27824887> (took 197 seconds).
+[12:11:05] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 27 seconds).
+[12:11:17] Rackman cloaked Themself by amount 0
+[12:11:19] Rackman cloaked Themself by amount 0
+[12:11:20] Rackman cloaked Themself by amount 0
+[12:11:22] Rackman granted god mode upon Themself
+[12:11:22] Rackman granted god mode upon Themself
+[12:11:23] Derkoletus: Всё потом
+[12:11:27] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[12:11:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[12:11:45] Derkoletus: Нельзя
+[12:11:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[12:11:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[12:12:02] Dropped "denchikslez11" from server<STEAM_0:0:614977140>
+[12:12:02] denchikslez11 suicided!
+[12:12:10] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_f
+[12:12:11] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[12:12:24] Derkoletus killed THEDESPOT8 using wep_jack_gmod_ezshovel
+[12:12:29] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[12:12:32] Dropped "THEDESPOT8" from server<STEAM_0:0:559065866>
+[12:12:32] THEDESPOT8 suicided!
+[12:12:51] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[12:13:05] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[12:13:06] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[12:13:35] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[12:14:53] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[12:14:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[12:14:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[12:15:08] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[12:15:20] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[12:15:22] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[12:17:41] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001a.mdl
+[12:20:42] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezskylantern
+[12:22:00] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[12:24:23] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_citroen_type23
+[12:25:07] Dropped "๋D3buff" from server<STEAM_0:1:766635302>
+[12:25:07] ๋D3buff suicided!
+[12:26:22] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[12:27:54] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_pz1bison
+[12:28:11] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[12:28:17] Rackman<STEAM_0:0:221849271> spawned sent lvs_trailer_zis3
+[12:28:17] Rackman<STEAM_0:0:221849271> spawned sent lvs_trailer_zis3
+[12:28:48] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[12:29:35] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[12:29:42] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[12:33:26] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[12:33:30] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_pz1bison
+[12:33:39] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[12:34:03] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[12:35:11] Rackman<STEAM_0:0:221849271> spawned sent ent_rus_spawnbase
+[12:35:17] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[12:35:26] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[12:39:26] Rackman<STEAM_0:0:221849271> spawned sent lvs_helicopter_rebel
+[12:40:18] Hellinberg suicided!
+[12:40:42] Dropped "Hellinberg" from server<STEAM_0:0:27824887>
+[12:40:42] Hellinberg suicided!
+[12:42:19] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[12:42:19] Rackman suicided!
+[12:55:38] Dropped "Derkoletus" from server<STEAM_0:1:616629252>
+[12:55:38] Derkoletus suicided!
+[13:41:08] Client "АГАНИМ В ЖОПЕ" connected.
+[13:41:35] Client "АГАНИМ В ЖОПЕ" spawned in server <STEAM_0:1:74811748> (took 27 seconds).
+[14:41:36] Dropped "АГАНИМ В ЖОПЕ" from server<STEAM_0:1:74811748>
+[14:41:36] АГАНИМ В ЖОПЕ suicided!
+[14:41:54] Client "dominicjesusperezrodriguez7" connected.
+[20:04:57] Client "Польские Пряники" connected.
+[20:06:10] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 73 seconds).
+[20:07:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[20:07:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[20:07:24] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_junk/propane_tank001a.mdl
+[20:07:27] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_junk/propane_tank001a.mdl
+[20:08:29] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[20:08:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_junk/propane_tank001a.mdl
+[20:08:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_junk/propane_tank001a.mdl
+[20:08:56] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_junk/propane_tank001a.mdl
+[20:09:33] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_junk/propane_tank001a.mdl
+[20:10:00] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_junk/propane_tank001a.mdl
+[20:10:40] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_junk/propane_tank001a.mdl
+[20:10:56] Польские Пряники suicided!
+[20:11:35] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_junk/propane_tank001a.mdl
+[20:13:09] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_75mle1897
+[20:13:42] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_pak40
+[20:14:02] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_zis3
+[20:15:24] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_sa34
+[20:15:49] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_wz36
+[20:16:12] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider
+[20:16:29] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider
+[20:16:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:16:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:16:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:16:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:17:13] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider_new
+[20:17:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[20:18:00] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[20:18:22] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:18:23] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:18:24] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:18:25] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:18:26] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:19:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[20:19:30] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:19:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:19:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:19:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:19:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:19:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:19:39] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:19:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:19:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:21:06] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[20:22:21] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:22:23] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:22:23] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:22:23] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:22:24] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:22:24] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:23:14] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider_new
+[20:23:21] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[20:23:39] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_lab/blastdoor001b.mdl
+[20:23:53] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:23:56] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:23:56] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:23:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:23:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:23:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:29] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider
+[20:24:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[20:24:49] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider_new
+[20:25:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[20:25:49] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[20:27:44] Польские Пряники was killed by ent_jack_gmod_ezherocket
+[20:31:30] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznukerocket
+[20:34:23] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[20:34:23] Польские Пряники suicided!
+[21:16:37] Client "Польские Пряники" connected.
+[21:17:38] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 61 seconds).
+[21:18:49] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[21:19:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[21:19:55] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[21:20:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[21:20:30] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:32] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:32] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:32] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:32] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[21:20:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[21:21:03] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[21:21:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[21:21:18] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[21:21:20] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[21:21:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbomb
+[21:21:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbigbomb
+[21:22:08] Польские Пряники: !menu
+[21:22:18] Польские Пряники changed the map to gm_sro_duststorm
+[21:22:18] Server is shutting down/changing levels.
+
+
+
+[21:22:28] New map: gm_sro_duststorm
+[21:23:05] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 42 seconds).
+[21:51:19] Client "kottlettta" connected.
+[21:52:13] Client "kottlettta" spawned in server <STEAM_0:0:762322598> (took 54 seconds).
+[21:53:18] kottlettta: `EF
+[21:58:42] Dropped "kottlettta" from server<STEAM_0:0:762322598>
+[21:58:42] kottlettta suicided!
+[22:13:11] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[22:13:11] Польские Пряники suicided!
+<Logging continued in "data/ulx_logs/05-20-25.txt">

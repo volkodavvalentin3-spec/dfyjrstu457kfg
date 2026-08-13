@@ -1,0 +1,1939 @@
+<Logging continued from "data/ulx_logs/03-20-25.txt">
+[01:04:35] Client "Scorpi" connected.
+[01:09:05] Client "Mr_Pyro" connected.
+[01:11:20] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 135 seconds).
+[01:12:18] Client "Soldier_S.C.A.F" connected.
+[01:13:26] Client "глеб нуб" connected.
+[01:24:03] Mr_Pyro was killed by ent_aboot_gmod_ezshippingcontainer
+[01:29:18] Client "Soldier_S.C.A.F" connected.
+[01:32:23] Client "Scorpi" spawned in server <STEAM_0:0:434987990> (took 1668 seconds).
+[01:34:02] Scorpi: !menu
+[01:40:21] Mr_Pyro was killed by ent_aboot_gmod_ezshippingcontainer
+[01:42:29] Scorpi: Я ЛЮБЛЮ ПЛЫВИСКИ
+[01:42:36] Scorpi: ?
+[01:44:17] Client "Miribaly" connected.
+[01:44:44] Client "Miribaly" spawned in server <STEAM_0:1:933612180> (took 27 seconds).
+[01:49:50] Dropped "Scorpi" from server<STEAM_0:0:434987990>
+[01:49:50] Scorpi suicided!
+[01:52:04] Client "Scorpi" connected.
+[01:52:15] Miribaly: здраствуйте
+[01:53:05] Miribaly: я место искал для постройки базы и сюда забрел
+[01:53:37] Miribaly: CHAMPIONS
+[01:54:51] Client "Scorpi" spawned in server <STEAM_0:0:434987990> (took 167 seconds).
+[02:10:14] Dropped "Miribaly" from server<STEAM_0:1:933612180>
+[02:10:14] Miribaly suicided!
+[02:20:18] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[02:20:18] Mr_Pyro suicided!
+[02:20:59] Scorpi: Я ЛЮБЛЮ ПЛЫВИСКИ
+[02:31:44] Client "beliash" connected.
+[02:32:36] Client "zxcUGA BUGA" connected.
+[02:34:19] Client "zxcUGA BUGA" spawned in server <STEAM_0:0:845226198> (took 103 seconds).
+[02:39:57] Client "beliash" spawned in server <STEAM_0:0:822301453> (took 493 seconds).
+[02:41:40] Dropped "Scorpi" from server<STEAM_0:0:434987990>
+[02:41:40] Scorpi suicided!
+[02:44:57] Dropped "beliash" from server<STEAM_0:0:822301453>
+[02:44:57] beliash suicided!
+[02:45:06] Dropped "zxcUGA BUGA" from server<STEAM_0:0:845226198>
+[02:45:06] zxcUGA BUGA suicided!
+[02:52:19] Client "Ilyasikdum" connected.
+[02:53:09] Client "Ilyasikdum" spawned in server <STEAM_0:0:502262707> (took 50 seconds).
+[03:04:19] Dropped "Ilyasikdum" from server<STEAM_0:0:502262707>
+[03:04:19] Ilyasikdum suicided!
+[04:05:25] Client "kalpaster_66" connected.
+[04:05:40] Client "Chupacabr" connected.
+[04:06:15] Client "vasiliy karat" connected.
+[04:07:15] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 95 seconds).
+[04:07:17] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 62 seconds).
+[04:08:42] vasiliy karat to admins: карту почистить
+[04:08:48] vasiliy karat to admins: перезагрузить
+[04:09:02] Chupacabr to admins: щас билд мод обновлю
+[04:09:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[04:10:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_rus_spawnbase
+[04:10:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[04:10:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[04:10:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[04:10:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[04:10:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[04:11:06] vasiliy karat: нубское говно как все надоели
+[04:11:20] vasiliy karat: все нубы ты чупак нуб вобще тупой
+[04:11:29] Chupacabr: че
+[04:11:37] vasiliy karat: ничего
+[04:11:40] Chupacabr: падажи
+[04:11:55] vasiliy karat: перебанить всех
+[04:12:13] vasiliy karat: ты что щас доделал
+[04:12:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[04:12:59] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[04:13:01] vasiliy karat: о крутя
+[04:13:03] vasiliy karat: ку
+[04:13:35] vasiliy karat: давай башню зафигачим
+[04:13:42] Chupacabr: нет
+[04:13:45] Chupacabr: нехчау\
+[04:13:51] Chupacabr: нада двигатель добавмть
+[04:14:13] Chupacabr: 50 бп, 50 топливо, 50 стали
+[04:14:28] vasiliy karat: колесо
+[04:14:36] vasiliy karat: лвс ракета
+[04:14:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:14:56] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[04:15:11] vasiliy karat suicided!
+[04:15:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:15:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[04:15:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:15:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:15:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:15:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:15:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:15:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:15:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:16:05] vasiliy karat suicided!
+[04:16:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[04:16:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:16:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:16:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:16:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:16:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:16:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:16:30] vasiliy karat suicided!
+[04:16:32] Client "Jr_byba" connected.
+[04:16:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[04:17:04] vasiliy karat killed vasiliy karat
+[04:17:27] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gaz_aaa_72k
+[04:17:52] Client "Mr_Pyro" connected.
+[04:18:00] vasiliy karat killed Chupacabr using lvs_wheeldrive_gaz_aaa_72k
+[04:18:00] Chupacabr killed vasiliy karat using player
+[04:18:09] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodkuebelwagen_mg
+[04:18:40] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[04:19:00] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 68 seconds).
+[04:19:10] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodhalftrack_us
+[04:20:04] vasiliy karat to admins: зениткой сбивать ядерный ракеты
+[04:20:22] vasiliy karat killed Chupacabr using lvs_wheeldrive_dodhalftrack_us
+[04:20:29] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[04:20:37] vasiliy karat: ЧТО
+[04:21:00] vasiliy karat: А Я ПОМНЮ ЭТО ГОВНО 
+[04:21:23] vasiliy karat: КАРОЧЧЕ СИДЕЛИ В ВОЙСЕ СЕКРЕТНОМ
+[04:21:29] vasiliy karat: И ТУТ ДОКТОР ВАТ ЗАШЕЛ
+[04:21:34] vasiliy karat: ПРОСИЛ РУСЛАНА ЗАЙТИ
+[04:21:36] vasiliy karat: Я БЫЛ ТОГДА 
+[04:21:38] vasiliy karat: НО Я НЕ ЗАХОДИЛ
+[04:21:46] vasiliy karat: СМОТРЕЛ СТРИМ
+[04:21:58] vasiliy karat killed Chupacabr using tfa_doim1911
+[04:22:14] vasiliy karat: НАДО ВИДОС ПОСМОТРЕТЬ
+[04:22:15] vasiliy karat: ЩАС
+[04:22:36] vasiliy karat: ПЕРЕЗАГРУЖАЕМ КАРТУ
+[04:22:40] vasiliy karat: !MENU
+[04:23:00] vasiliy karat: !MENU
+[04:23:03] vasiliy karat changed the map to gm_sro
+[04:23:03] Server is shutting down/changing levels.
+
+
+
+[04:23:12] New map: gm_sro
+[04:23:40] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 33 seconds).
+[04:23:50] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 43 seconds).
+[04:23:55] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 48 seconds).
+[04:25:37] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezshovel
+[04:25:49] Chupacabr set the hp for Themself to 1000
+[04:25:49] Chupacabr: !hp ^ 1000
+[04:25:54] Chupacabr killed vasiliy karat using wep_jack_gmod_hands
+[04:26:07] Chupacabr killed Mr_Pyro using wep_jack_gmod_hands
+[04:26:44] Chupacabr: !kill
+[04:26:46] Chupacabr: !menu
+[04:26:55] Chupacabr set the hp for Themself to 100
+[04:31:05] Client "Jr_byba" connected.
+[04:31:49] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 44 seconds).
+[04:35:14] Client "Ilyasikdum" connected.
+[04:35:56] Client "Ilyasikdum" spawned in server <STEAM_0:0:502262707> (took 42 seconds).
+[04:36:00] Client "DefleroinBarfoin" connected.
+[04:36:21] Client "klinskoe za 200" connected.
+[04:37:13] Client "DefleroinBarfoin" spawned in server <STEAM_0:1:528046875> (took 73 seconds).
+[04:38:17] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[04:38:17] vasiliy karat suicided!
+[04:39:19] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[04:39:19] Chupacabr suicided!
+[04:40:17] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 236 seconds).
+[04:43:29] Client "[Б.А]SDkrisska" connected.
+[04:44:19] Client "[Б.А]SDkrisska" spawned in server <STEAM_0:1:586163264> (took 50 seconds).
+[04:44:19] Client "чики брики <3" connected.
+[04:50:03] Jr_byba killed [Б.А]SDkrisska using rust_eoka
+[04:50:10] Dropped "[Б.А]SDkrisska" from server<STEAM_0:1:586163264>
+[04:50:10] [Б.А]SDkrisska suicided!
+[04:50:21] Jr_byba killed Mr_Pyro using rust_boltrifle
+[04:50:31] Client "[Б.А]SDkrisska" connected.
+[04:50:44] Client "KAZAX" connected.
+[04:51:01] Client "[Б.А]SDkrisska" spawned in server <STEAM_0:1:586163264> (took 30 seconds).
+[04:51:35] Client "OZON Овощерезка" connected.
+[04:51:46] Client "KAZAX" spawned in server <STEAM_0:0:453830019> (took 62 seconds).
+[04:51:47] Jr_byba killed [Б.А]SDkrisska using wep_jack_gmod_ezpickaxe
+[04:52:09] Jr_byba killed [Б.А]SDkrisska using wep_jack_gmod_ezpickaxe
+[04:52:20] Jr_byba killed [Б.А]SDkrisska using rust_eoka
+[04:52:39] Jr_byba killed [Б.А]SDkrisska using rust_eoka
+[04:52:54] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[04:52:54] klinskoe za 200 suicided!
+[04:53:10] Dropped "KAZAX" from server<STEAM_0:0:453830019>
+[04:53:10] KAZAX suicided!
+[04:53:22] Client "OZON Овощерезка" spawned in server <STEAM_0:0:632928971> (took 107 seconds).
+[04:53:46] Jr_byba killed [Б.А]SDkrisska using rust_eoka
+[04:54:02] Jr_byba killed [Б.А]SDkrisska using wep_jack_gmod_ezpickaxe
+[04:54:42] Client "чики брики <3" spawned in server <STEAM_0:0:506663117> (took 623 seconds).
+[04:54:47] [Б.А]SDkrisska killed Jr_byba using wep_jack_gmod_ezpickaxe
+[04:54:52] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[04:54:52] Jr_byba suicided!
+[04:54:53] Dropped "чики брики <3" from server<STEAM_0:0:506663117>
+[04:54:53] чики брики <3 suicided!
+[04:55:16] Client "чики брики <3" connected.
+[04:55:44] Client "чики брики <3" spawned in server <STEAM_0:0:506663117> (took 28 seconds).
+[04:56:33] OZON Овощерезка: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:57:32] Client "Валера подпивас" connected.
+[05:10:18] Client "KAZAX" connected.
+[05:12:02] Dropped "Ilyasikdum" from server<STEAM_0:0:502262707>
+[05:12:02] Ilyasikdum suicided!
+[05:12:35] Client "Ilyasikdum" connected.
+[05:12:44] Client "Skrr Skra" connected.
+[05:13:04] Client "Ilyasikdum" spawned in server <STEAM_0:0:502262707> (took 29 seconds).
+[05:14:01] Client "Skrr Skra" connected.
+[05:14:53] Client "Skrr Skra" spawned in server <STEAM_0:1:67835559> (took 52 seconds).
+[05:17:37] Ilyasikdum was killed by ent_rus_jsmod_pipe
+[05:18:21] Client "MSG" connected.
+[05:20:24] Client "Шайтан" connected.
+[05:23:03] Client "Шайтан" spawned in server <STEAM_0:1:932814392> (took 159 seconds).
+[05:23:10] Dropped "Шайтан" from server<STEAM_0:1:932814392>
+[05:23:10] Шайтан suicided!
+[05:25:42] Client "MSG" spawned in server <STEAM_0:0:140515950> (took 441 seconds).
+[05:28:33] Client "Hellinberg" connected.
+[05:30:33] Client "Hellinberg" spawned in server <STEAM_0:0:27824887> (took 120 seconds).
+[05:40:23] чики брики <3: я насрал под себя
+[05:40:26] [Б.А]SDkrisska: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:40:32] чики брики <3: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:40:37] Client "nenahhov" connected.
+[05:42:22] Client "Scorpi" connected.
+[05:44:20] Client "Scorpi" spawned in server <STEAM_0:0:434987990> (took 118 seconds).
+[05:45:15] Dropped "Hellinberg" from server<STEAM_0:0:27824887>
+[05:45:15] Hellinberg suicided!
+[05:45:17] Client "Hellinberg" connected.
+[05:45:45] Client "Corey" connected.
+[05:45:51] Client "Hellinberg" spawned in server <STEAM_0:0:27824887> (took 34 seconds).
+[05:46:01] MSG was killed by ent_jack_aidbox
+[05:47:15] Client "Corey" spawned in server <STEAM_0:0:85624205> (took 90 seconds).
+[05:52:51] Client "maksumkolesnukov022" connected.
+[05:53:19] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 28 seconds).
+[05:55:13] MSG: 我才你妈
+[05:55:21] Hellinberg: Ща приду
+[05:55:44] MSG: 你们会说中文？
+[05:58:26] Dropped "Corey" from server<STEAM_0:0:85624205>
+[05:58:26] Corey suicided!
+[05:58:27] maksumkolesnukov022: УРАН
+[05:59:16] Dropped "DefleroinBarfoin" from server<STEAM_0:1:528046875>
+[05:59:16] DefleroinBarfoin suicided!
+[05:59:43] Client "Gorbat3ch" connected.
+[06:00:02] Hellinberg killed [Б.А]SDkrisska using rust_boltrifle
+[06:00:12] maksumkolesnukov022: ладно 
+[06:00:15] maksumkolesnukov022: не трогаем их
+[06:00:41] maksumkolesnukov022: руслан всё равно щас днями занят будет
+[06:00:41] Hellinberg: !motd
+[06:00:52] maksumkolesnukov022: нет
+[06:00:54] maksumkolesnukov022: он работу нашёл
+[06:00:56] Hellinberg: !motd
+[06:00:57] maksumkolesnukov022: кондиционерщик
+[06:01:25] maksumkolesnukov022: посмотри на жсурвивал кека, мб да
+[06:01:42] Hellinberg: !motd
+[06:02:00] Client "killben" connected.
+[06:06:06] Dropped "Ilyasikdum" from server<STEAM_0:0:502262707>
+[06:06:06] Ilyasikdum suicided!
+[06:06:53] Dropped "OZON Овощерезка" from server<STEAM_0:0:632928971>
+[06:06:53] OZON Овощерезка suicided!
+[06:07:14] maksumkolesnukov022: газ бы
+[06:08:43] maksumkolesnukov022: воды крч надо
+[06:08:55] maksumkolesnukov022: ГАЗ
+[06:12:25] maksumkolesnukov022: руслан в армию уйдёт и будет наш сервер
+[06:12:48] maksumkolesnukov022: ну строительство есть
+[06:13:08] maksumkolesnukov022: ну сам жмод говно в плане кода
+[06:13:20] maksumkolesnukov022: нука нука
+[06:13:24] maksumkolesnukov022: напиши мне в дс 
+[06:13:31] Hellinberg: Hellinberg#1386
+[06:14:08] Hellinberg: *drop*
+[06:14:14] Hellinberg: *drop
+[06:14:16] Hellinberg: drop*
+[06:14:33] Mr_Pyro killed Hellinberg using tfa_doimp40
+[06:15:28] maksumkolesnukov022: хочу себе пт винтовку
+[06:15:46] maksumkolesnukov022: она в фабрикаторе :(
+[06:15:54] maksumkolesnukov022: противотанковая
+[06:16:02] maksumkolesnukov022: на которой прыгать можно
+[06:16:13] maksumkolesnukov022: этажа 4 прыгает
+[06:16:19] maksumkolesnukov022: главное выжить
+[06:18:05] maksumkolesnukov022: едет кажись
+[06:18:09] maksumkolesnukov022: вон он
+[06:18:33] чики брики <3 killed Hellinberg using lvs_wheeldrive_dodwillyjeep
+[06:20:00] maksumkolesnukov022: чики брики
+[06:20:12] maksumkolesnukov022: я был админом 4 часа
+[06:20:26] maksumkolesnukov022: давайте заберём машину
+[06:20:31] maksumkolesnukov022: ну
+[06:20:36] maksumkolesnukov022: ядерку заспавнил за русланом
+[06:20:37] maksumkolesnukov022: пару раз
+[06:20:45] maksumkolesnukov022: ну я же не со зла
+[06:20:47] maksumkolesnukov022: я же
+[06:20:49] maksumkolesnukov022: добренький
+[06:20:51] maksumkolesnukov022: мирный ато
+[06:20:52] maksumkolesnukov022: м
+[06:21:04] maksumkolesnukov022: за машиной!
+[06:22:04] maksumkolesnukov022: ЗА МАШИНОЙ
+[06:22:26] Dropped "MSG" from server<STEAM_0:0:140515950>
+[06:22:26] MSG suicided!
+[06:22:32] Client "MSG" connected.
+[06:22:59] Client "MSG" spawned in server <STEAM_0:0:140515950> (took 27 seconds).
+[06:27:10] Hellinberg killed Skrr Skra using lvs_trailer_zis3
+[06:28:27] Dropped "MSG" from server<STEAM_0:0:140515950>
+[06:28:27] MSG suicided!
+[06:29:40] Client "iscander_S" connected.
+[06:30:10] Client "MSG" connected.
+[06:30:41] Client "MSG" spawned in server <STEAM_0:0:140515950> (took 31 seconds).
+[06:34:40] maksumkolesnukov022: а где
+[06:35:45] maksumkolesnukov022: я понял
+[06:35:51] maksumkolesnukov022: я 2 трупа их залутал 
+[06:35:58] maksumkolesnukov022: да
+[06:36:05] maksumkolesnukov022: ещё ящик притащил на лебёдке
+[06:36:12] maksumkolesnukov022: той же лебёдкой машину вытащил
+[06:36:32] Client "iscander_S" spawned in server <STEAM_0:0:78506074> (took 412 seconds).
+[06:36:37] maksumkolesnukov022: топлива мало очень
+[06:36:45] maksumkolesnukov022: в один конец только если
+[06:37:02] Client "Corey" connected.
+[06:37:13] maksumkolesnukov022: ящик чекни мб чё есть
+[06:37:36] Client "Corey" spawned in server <STEAM_0:0:85624205> (took 34 seconds).
+[06:39:55] maksumkolesnukov022: закажи фабрикатор
+[06:40:20] maksumkolesnukov022: топливо как раз немонго
+[06:41:14] maksumkolesnukov022: я знаю я жмод делал
+[06:43:28] maksumkolesnukov022: обратно топлива не хватит
+[06:44:37] Skrr Skra: Ф
+[06:46:06] maksumkolesnukov022: опана
+[06:47:12] MSG killed Hellinberg using lvs_wheeldrive_dodsherman
+[06:47:12] Skrr Skra killed maksumkolesnukov022
+[06:47:39] Skrr Skra killed Hellinberg using lvs_wheeldrive_dodsherman
+[06:47:50] maksumkolesnukov022: Я ЗАБАГОВАЛСЯ
+[06:48:02] maksumkolesnukov022: у меня камера не сдвинулась
+[06:48:07] maksumkolesnukov022: она у трупа
+[06:48:11] maksumkolesnukov022: ща перезайду
+[06:48:16] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[06:48:16] maksumkolesnukov022 suicided!
+[06:48:16] Client "maksumkolesnukov022" connected.
+[06:48:21] Skrr Skra killed Hellinberg using lvs_wheeldrive_dodsherman
+[06:48:37] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 21 seconds).
+[06:48:47] MSG killed Hellinberg using lvs_wheeldrive_dodsherman
+[06:49:19] Dropped "Hellinberg" from server<STEAM_0:0:27824887>
+[06:49:19] Hellinberg suicided!
+[06:49:21] Client "Hellinberg" connected.
+[06:49:57] Client "Hellinberg" spawned in server <STEAM_0:0:27824887> (took 36 seconds).
+[06:50:16] Skrr Skra killed Mr_Pyro using lvs_wheeldrive_dodsherman
+[06:50:39] MSG killed Mr_Pyro using lvs_wheeldrive_dodsherman
+[06:50:53] MSG killed Mr_Pyro using tfa_doispringfield
+[06:51:09] Client "Chupacabr" connected.
+[06:51:19] MSG killed Mr_Pyro using tfa_doispringfield
+[06:51:40] Skrr Skra killed Mr_Pyro using tfa_doisw1917
+[06:51:50] Skrr Skra killed Mr_Pyro using tfa_doithompsonm1a1
+[06:52:07] MSG killed Mr_Pyro using tfa_doispringfield
+[06:52:15] Hellinberg: supply radio: explosives
+[06:52:21] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 72 seconds).
+[06:53:13] MSG killed Mr_Pyro using tfa_doispringfield
+[06:53:19] Chupacabr: !menu
+[06:53:24] Chupacabr cloaked Themself by amount 0
+[06:53:26] Chupacabr granted god mode upon Themself
+[06:53:33] Chupacabr: !menu
+[06:53:39] maksumkolesnukov022: это их база?
+[06:53:49] Chupacabr teleported maksumkolesnukov022
+[06:53:53] maksumkolesnukov022: э
+[06:53:58] maksumkolesnukov022: непонял
+[06:54:02] maksumkolesnukov022: чупак
+[06:55:40] maksumkolesnukov022: всё, всосил
+[06:55:43] maksumkolesnukov022: всосали
+[06:55:45] maksumkolesnukov022: они
+[06:56:23] Skrr Skra killed Hellinberg using tfa_doithompsonm1a1
+[06:56:24] Hellinberg killed Skrr Skra using player
+[06:56:48] maksumkolesnukov022 killed Skrr Skra using tfa_doispringfield
+[06:57:10] MSG killed maksumkolesnukov022 using tfa_doispringfield
+[06:57:30] MSG killed maksumkolesnukov022 using tfa_doispringfield
+[06:57:35] Hellinberg killed MSG using tfa_doithompsonm1a1
+[06:57:37] Hellinberg killed Skrr Skra using tfa_doithompsonm1a1
+[06:58:00] Hellinberg killed Skrr Skra using tfa_doithompsonm1a1
+[06:58:11] Mr_Pyro killed Corey using tfa_doimp40
+[06:58:23] maksumkolesnukov022 killed Skrr Skra using tfa_doisw1917
+[06:58:24] Hellinberg killed MSG using tfa_doithompsonm1a1
+[06:58:37] Mr_Pyro killed MSG using tfa_doimp40
+[06:59:34] maksumkolesnukov022: куку
+[07:00:00] maksumkolesnukov022: потом тебе видосик покажу чупак
+[07:00:14] maksumkolesnukov022: и всё
+[07:00:25] maksumkolesnukov022: не, там был просто дебик с другой фракции
+[07:00:42] maksumkolesnukov022: физган бы
+[07:00:48] maksumkolesnukov022: ну или просто так да
+[07:01:27] maksumkolesnukov022: АХАХХАХА
+[07:01:30] maksumkolesnukov022: давай в дс
+[07:01:33] maksumkolesnukov022: покажу видосик
+[07:01:46] maksumkolesnukov022: чупак, зайдёшь?
+[07:02:32] Skrr Skra killed чики брики <3 using tfa_doik98_scop
+[07:05:39] maksumkolesnukov022: так я тут
+[07:05:49] maksumkolesnukov022: да показал
+[07:05:56] maksumkolesnukov022: да
+[07:06:19] maksumkolesnukov022: а, розовые, да
+[07:06:20] maksumkolesnukov022: ой
+[07:06:39] maksumkolesnukov022: разбери
+[07:06:41] maksumkolesnukov022: могилу
+[07:06:47] maksumkolesnukov022: у него есть
+[07:06:49] maksumkolesnukov022: тулбокс
+[07:06:51] maksumkolesnukov022: дай
+[07:07:20] maksumkolesnukov022 killed Hellinberg using tfa_doispringfield
+[07:08:13] maksumkolesnukov022: а то ресы пропадут
+[07:09:16] maksumkolesnukov022: ну я там тоже сижу
+[07:09:40] maksumkolesnukov022: ну новички чё с них взять
+[07:10:01] maksumkolesnukov022: мне всё можно
+[07:10:15] maksumkolesnukov022: закажи тачку 
+[07:10:21] maksumkolesnukov022: отвезём на базу
+[07:10:27] maksumkolesnukov022: грузовик закажи
+[07:10:38] maksumkolesnukov022: это джип
+[07:10:43] maksumkolesnukov022: а
+[07:10:45] maksumkolesnukov022: ладно
+[07:10:58] maksumkolesnukov022: мисклик
+[07:11:08] maksumkolesnukov022: договорнячок
+[07:11:16] maksumkolesnukov022: физган надо сделать
+[07:11:20] maksumkolesnukov022: погрузить ящики
+[07:11:28] Dropped "Scorpi" from server<STEAM_0:0:434987990>
+[07:11:28] Scorpi suicided!
+[07:12:07] maksumkolesnukov022: тулбокс выкини
+[07:12:08] maksumkolesnukov022: да
+[07:12:18] maksumkolesnukov022: а за что
+[07:12:23] maksumkolesnukov022: за ту кирку и тулбокс?
+[07:12:44] maksumkolesnukov022: грузовик бы
+[07:12:46] maksumkolesnukov022: а ты заказал да
+[07:12:53] maksumkolesnukov022: заказывай мы багачи
+[07:13:55] maksumkolesnukov022: ну ты 
+[07:13:58] Skrr Skra killed [Б.А]SDkrisska using tfa_doik98_scop
+[07:14:01] Skrr Skra killed чики брики <3 using tfa_doik98_scop
+[07:14:36] чики брики <3 killed Hellinberg using wep_jack_gmod_hands
+[07:14:38] Dropped "[Б.А]SDkrisska" from server<STEAM_0:1:586163264>
+[07:14:38] [Б.А]SDkrisska suicided!
+[07:14:38] maksumkolesnukov022: разбираем
+[07:14:39] Dropped "чики брики <3" from server<STEAM_0:0:506663117>
+[07:14:39] чики брики <3 suicided!
+[07:15:49] MSG: supply radio: officer armor
+[07:16:54] maksumkolesnukov022: уже всё
+[07:16:56] maksumkolesnukov022: мы победили
+[07:17:36] maksumkolesnukov022: хотя не
+[07:17:37] maksumkolesnukov022: оставь
+[07:18:17] maksumkolesnukov022: дада
+[07:20:05] maksumkolesnukov022: КУДА
+[07:20:12] maksumkolesnukov022: РЕВЕРС
+[07:20:19] maksumkolesnukov022: НЕ ТУДА
+[07:23:00] Chupacabr: !motd
+[07:23:28] maksumkolesnukov022: yjhv
+[07:23:30] maksumkolesnukov022: норм
+[07:24:06] maksumkolesnukov022: ЗАБУКСОВАЛИ
+[07:27:07] MSG killed Mr_Pyro using tfa_doithompsonm1a1
+[07:27:13] Skrr Skra killed maksumkolesnukov022 using tfa_doic96
+[07:27:22] maksumkolesnukov022: бред
+[07:27:29] maksumkolesnukov022: я пойду плакать
+[07:27:31] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[07:27:31] maksumkolesnukov022 suicided!
+[07:27:35] Skrr Skra was killed by lvs_wheeldrive_dodwillyjeep
+[07:28:22] Skrr Skra killed Hellinberg using tfa_doic96
+[07:31:34] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[07:33:32] Client "Timur" connected.
+[07:34:31] Client "Timur" spawned in server <STEAM_0:1:778579019> (took 59 seconds).
+[07:35:10] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[07:35:47] Chupacabr<STEAM_0:1:63230461> spawned model models/props_phx/wheels/trucktire.mdl
+[07:36:19] Dropped "Timur" from server<STEAM_0:1:778579019>
+[07:36:19] Timur suicided!
+[07:38:52] Client "maksumkolesnukov022" connected.
+[07:39:20] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 28 seconds).
+[07:40:31] Client "KIRKA" connected.
+[07:40:34] maksumkolesnukov022: ЗОЛОТО УПАЛО
+[07:40:52] Chupacabr<STEAM_0:1:63230461> spawned model models/props_vehicles/tire001a_tractor.mdl
+[07:40:59] Chupacabr<STEAM_0:1:63230461> spawned model models/props_vehicles/tire001a_tractor.mdl
+[07:41:15] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 44 seconds).
+[07:42:19] maksumkolesnukov022: вирус
+[07:43:03] maksumkolesnukov022: УРА ДА ДА
+[07:43:08] maksumkolesnukov022: ДА ДА ДА ДА
+[07:43:18] maksumkolesnukov022: ЗАКАЖИ ТАЧКУ
+[07:43:19] maksumkolesnukov022: И МИНУ
+[07:43:21] maksumkolesnukov022: БОМБУ
+[07:44:44] maksumkolesnukov022: у нас война есть с ними?
+[07:45:25] maksumkolesnukov022: ОГНЕМЁТ
+[07:47:14] maksumkolesnukov022: тулбокс есть?
+[07:47:42] maksumkolesnukov022: зажимай е
+[07:47:45] maksumkolesnukov022: и отпускай потом
+[07:48:04] maksumkolesnukov022: бейсик партсы бы 
+[07:48:07] maksumkolesnukov022: принести можете?
+[07:48:46] maksumkolesnukov022: ПОДЕРЖИТЕ МИНУ
+[07:49:03] maksumkolesnukov022: не
+[07:49:08] maksumkolesnukov022: об стену же били мы
+[07:49:09] maksumkolesnukov022: СТОЙ
+[07:49:45] maksumkolesnukov022: подержите
+[07:50:34] maksumkolesnukov022: как к ним лучше всего проехать
+[07:51:58] Hellinberg killed Skrr Skra using tfa_doik98
+[07:52:17] Client "Culfrum" connected.
+[07:52:58] Hellinberg killed Skrr Skra using tfa_doik98
+[07:52:58] Skrr Skra killed Mr_Pyro using player
+[07:53:20] Client "Culfrum" spawned in server <STEAM_0:0:555258766> (took 63 seconds).
+[07:53:20] Skrr Skra killed Hellinberg using tfa_doithompsonm1a1
+[07:53:27] maksumkolesnukov022 killed maksumkolesnukov022
+[07:53:57] MSG killed Mr_Pyro using tfa_doithompsonm1a1
+[07:54:45] Skrr Skra killed Culfrum using tfa_doik98
+[07:54:48] Culfrum: говно
+[07:55:05] Hellinberg killed MSG using tfa_doik98_scop
+[07:55:18] Hellinberg killed Skrr Skra using tfa_doik98_scop
+[07:55:45] maksumkolesnukov022: ЩИТ
+[07:56:14] Hellinberg killed Skrr Skra using tfa_doik98_scop
+[07:57:26] MSG killed maksumkolesnukov022 using tfa_doisw1917
+[07:57:34] Culfrum: С ДРУГОЙ СТОРОНЫ
+[07:57:37] Mr_Pyro was killed by entityflame
+[07:57:40] MSG was killed by entityflame
+[07:57:51] maksumkolesnukov022: ВПЕРЁД
+[07:58:00] Culfrum killed MSG using ent_jack_gmod_eznapalm
+[07:58:12] Hellinberg killed MSG using tfa_doik98_scop
+[07:58:29] maksumkolesnukov022: ЗАПИШУ ВИДОСИК
+[07:59:29] Skrr Skra was killed by entityflame
+[07:59:45] Skrr Skra killed Mr_Pyro using tfa_doithompsonm1a1
+[07:59:53] Skrr Skra killed Culfrum using tfa_doithompsonm1a1
+[07:59:54] Skrr Skra killed maksumkolesnukov022 using tfa_doithompsonm1a1
+[08:00:01] Hellinberg killed Skrr Skra using ent_jack_gmod_ezchlorineparticle
+[08:00:08] MSG killed MSG
+[08:00:09] maksumkolesnukov022: ОНИ ЗАГАЗОВАНЫ
+[08:00:13] maksumkolesnukov022: ВПЕРЁЁДД
+[08:00:22] Culfrum: НАПУКАЛИ
+[08:00:24] Hellinberg killed Skrr Skra using tfa_doik98_scop
+[08:00:25] maksumkolesnukov022: 85
+[08:00:28] Hellinberg killed MSG using ent_jack_gmod_ezchlorineparticle
+[08:00:38] Hellinberg killed Skrr Skra using tfa_doik98_scop
+[08:00:50] maksumkolesnukov022 killed MSG using ent_jack_gmod_ezchlorineparticle
+[08:00:56] maksumkolesnukov022 killed Skrr Skra using ent_jack_gmod_ezchlorineparticle
+[08:01:05] Mr_Pyro killed MSG using tfa_doithompsonm1a1
+[08:01:10] Hellinberg killed Skrr Skra using tfa_doik98_scop
+[08:01:15] Mr_Pyro killed MSG using tfa_doithompsonm1a1
+[08:01:18] Mr_Pyro killed maksumkolesnukov022 using ent_jack_gmod_ezatmine
+[08:01:25] Mr_Pyro killed MSG using tfa_doithompsonm1a1
+[08:01:30] Mr_Pyro killed Skrr Skra using tfa_doithompsonm1a1
+[08:01:41] Mr_Pyro killed Skrr Skra using tfa_doithompsonm1a1
+[08:01:45] Hellinberg killed MSG using ent_jack_gmod_ezchlorineparticle
+[08:02:06] Skrr Skra killed Skrr Skra
+[08:02:10] MSG killed MSG
+[08:02:17] Mr_Pyro killed Skrr Skra using tfa_doithompsonm1a1
+[08:02:23] Skrr Skra: Мы сдались уебища
+[08:02:24] Skrr Skra: Ау
+[08:02:28] Hellinberg killed Skrr Skra using ent_jack_gmod_ezchlorineparticle
+[08:02:33] Skrr Skra: Я не вижу нихуя тупоголовый
+[08:02:40] MSG killed MSG
+[08:02:46] Skrr Skra killed Skrr Skra
+[08:02:53] maksumkolesnukov022: НАДО
+[08:02:57] Hellinberg killed MSG using ent_jack_gmod_ezchlorineparticle
+[08:03:00] Hellinberg killed Skrr Skra using ent_jack_gmod_ezchlorineparticle
+[08:03:06] Mr_Pyro killed MSG using tfa_doithompsonm1a1
+[08:03:09] Mr_Pyro killed Skrr Skra using tfa_doithompsonm1a1
+[08:03:22] Hellinberg killed Skrr Skra using ent_jack_gmod_ezchlorineparticle
+[08:03:27] maksumkolesnukov022: У МЕН
+[08:03:27] Hellinberg killed MSG using ent_jack_gmod_ezchlorineparticle
+[08:03:35] maksumkolesnukov022 killed Skrr Skra using tfa_doik98
+[08:03:37] Hellinberg killed MSG using ent_jack_gmod_ezchlorineparticle
+[08:03:54] Hellinberg killed MSG using ent_jack_gmod_ezchlorineparticle
+[08:03:55] Hellinberg killed Skrr Skra using ent_jack_gmod_ezchlorineparticle
+[08:04:13] Hellinberg killed Skrr Skra using ent_jack_gmod_ezchlorineparticle
+[08:04:15] Culfrum killed MSG using ent_jack_gmod_ezchlorineparticle
+[08:04:16] maksumkolesnukov022: украли кажись
+[08:04:20] maksumkolesnukov022: у тех членов
+[08:04:31] Hellinberg killed Hellinberg
+[08:04:33] Culfrum killed Skrr Skra using tfa_doithompsonm1a1
+[08:04:38] maksumkolesnukov022: пАТРОНЫ
+[08:04:39] maksumkolesnukov022: ДАЙ
+[08:04:48] Culfrum killed Skrr Skra using tfa_doithompsonm1a1
+[08:04:57] MSG killed MSG
+[08:05:08] maksumkolesnukov022: ЗА НИМИ
+[08:05:19] Skrr Skra killed Skrr Skra
+[08:05:21] maksumkolesnukov022: ЗА НИМИ
+[08:05:33] maksumkolesnukov022: ВОТ ОН
+[08:05:33] MSG killed MSG
+[08:06:04] Hellinberg killed MSG using ent_jack_gmod_ezpowderkeg
+[08:06:13] Skrr Skra killed Skrr Skra
+[08:06:35] Client "gtagangsta2014" connected.
+[08:06:37] maksumkolesnukov022: да
+[08:06:52] maksumkolesnukov022: как угодно
+[08:06:59] maksumkolesnukov022: главное не русланом
+[08:07:00] Skrr Skra killed Skrr Skra
+[08:07:06] maksumkolesnukov022: фу такое имя иметь
+[08:07:21] Client "gtagangsta2014" spawned in server <STEAM_0:0:136760122> (took 46 seconds).
+[08:08:13] maksumkolesnukov022: ну тараканы
+[08:08:16] maksumkolesnukov022: чё с них взять
+[08:08:17] maksumkolesnukov022: унизили
+[08:08:25] maksumkolesnukov022: У НАС БЫЛО 25 ТЫСЯЧ
+[08:08:31] maksumkolesnukov022: И МЫ ПОШЛИ РАЗБИРАТСЯ
+[08:09:07] maksumkolesnukov022: она падает
+[08:09:16] maksumkolesnukov022: ну
+[08:09:58] maksumkolesnukov022: пойду дальше травить их
+[08:10:23] maksumkolesnukov022: они респавнились
+[08:10:27] maksumkolesnukov022: и пошла жага жага
+[08:10:33] maksumkolesnukov022: я одну бомбу с одной стороны поставил
+[08:10:39] maksumkolesnukov022: а на тачке влетел в другую сторону
+[08:10:43] maksumkolesnukov022: много ходов очко
+[08:10:43] Hellinberg: supply radio: explosives
+[08:11:01] Client "Нео" connected.
+[08:11:13] maksumkolesnukov022: они деф строят
+[08:11:39] maksumkolesnukov022: давай как немцы в деревни заходили
+[08:11:43] maksumkolesnukov022: и брали что хотели
+[08:12:18] maksumkolesnukov022: забирай машину
+[08:12:35] maksumkolesnukov022: а ты чё смотришь
+[08:13:11] maksumkolesnukov022: я слышу их
+[08:13:15] maksumkolesnukov022: копошатся
+[08:13:16] maksumkolesnukov022: тараканы
+[08:13:32] maksumkolesnukov022: дай физган
+[08:13:57] maksumkolesnukov022: ну они стоят тут
+[08:14:09] maksumkolesnukov022: дей го к нам
+[08:14:16] maksumkolesnukov022: ну мы бурятские символы
+[08:14:25] maksumkolesnukov022: 4
+[08:14:31] maksumkolesnukov022: опана
+[08:14:38] MSG:  你好
+[08:14:45] maksumkolesnukov022: физган у тебя?
+[08:14:51] maksumkolesnukov022: дай
+[08:15:49] Dropped "Skrr Skra" from server<STEAM_0:1:67835559>
+[08:15:49] Skrr Skra suicided!
+[08:16:10] gtagangsta2014 killed MSG using tfa_doithompsonm1a1
+[08:16:20] Dropped "MSG" from server<STEAM_0:0:140515950>
+[08:16:20] MSG suicided!
+[08:16:23] maksumkolesnukov022: немогу
+[08:16:36] maksumkolesnukov022: ФИЗГАН ПРОПАЛ
+[08:16:38] maksumkolesnukov022: ПОД
+[08:16:41] maksumkolesnukov022: СТОЛИЦЕЙ
+[08:16:49] maksumkolesnukov022: ща афк
+[08:17:48] Culfrum suicided!
+[08:17:54] maksumkolesnukov022: я тут
+[08:18:13] maksumkolesnukov022: ПОМОГИ
+[08:18:15] maksumkolesnukov022: ПЕРЕДВИНУТЬ
+[08:18:16] maksumkolesnukov022: СТОЛИЦУ
+[08:18:55] maksumkolesnukov022: КТО ТАМ СНАРУЖИ
+[08:19:36] Dropped "gtagangsta2014" from server<STEAM_0:0:136760122>
+[08:19:36] gtagangsta2014 suicided!
+[08:20:02] Client "Нео" spawned in server <STEAM_0:1:592067358> (took 541 seconds).
+[08:20:20] Dropped "iscander_S" from server<STEAM_0:0:78506074>
+[08:20:20] iscander_S suicided!
+[08:21:24] maksumkolesnukov022: МАМА КАКИЕ ПАРЫ У НАС ВОЙНА
+[08:21:37] maksumkolesnukov022: ТРУПНЫЙ ВИРУ
+[08:21:38] maksumkolesnukov022: да
+[08:21:48] maksumkolesnukov022: гугл диск скину потом
+[08:21:58] maksumkolesnukov022: Я ЗАРАЖЁН
+[08:22:00] maksumkolesnukov022: ЗАБЕРИ ФИЗГАН
+[08:22:12] Нео: !help
+[08:22:16] Culfrum killed maksumkolesnukov022 using rust_boltrifle
+[08:22:29] Нео: /help
+[08:22:37] Нео: суак
+[08:24:39] Client "Skrr Skra" connected.
+[08:24:52] maksumkolesnukov022: Я ЗДОРОВ
+[08:24:55] maksumkolesnukov022: НЕ ПОДХОДИ КО МНЕ
+[08:25:05] Client "Skrr Skra" spawned in server <STEAM_0:1:67835559> (took 26 seconds).
+[08:25:10] maksumkolesnukov022: лядно я разазился
+[08:25:32] Client "MSG" connected.
+[08:25:54] maksumkolesnukov022: поехали?
+[08:25:58] Нео: как жить
+[08:26:08] Client "MSG" spawned in server <STEAM_0:0:140515950> (took 36 seconds).
+[08:26:38] maksumkolesnukov022: я болею
+[08:26:44] maksumkolesnukov022: я на системе жизнеобеспечения
+[08:27:05] maksumkolesnukov022: чисто бенз с тачки в вену переливается
+[08:27:17] maksumkolesnukov022: бонус за безумный трюк
+[08:28:16] maksumkolesnukov022: иммунитет
+[08:28:18] Нео: а как предметы поднимать?
+[08:29:06] Нео: !menu
+[08:29:52] maksumkolesnukov022: это говностолица 
+[08:29:56] maksumkolesnukov022: ОНА ОТАРАКАНЕНА
+[08:30:13] Skrr Skra killed Нео using tfa_doic96
+[08:30:36] maksumkolesnukov022: кирка я с тобой
+[08:30:50] maksumkolesnukov022: не я просто на время с тобой поеду
+[08:30:52] maksumkolesnukov022: я с бурятами 
+[08:30:54] Нео: !menu
+[08:32:13] maksumkolesnukov022: ладно кирка я с тобой
+[08:32:40] maksumkolesnukov022: хочу себе сделать научную базу
+[08:32:46] maksumkolesnukov022: ну хз
+[08:32:55] maksumkolesnukov022: ну не вытянет пока
+[08:33:00] maksumkolesnukov022: движки ещё не добавили
+[08:33:02] maksumkolesnukov022: с пропеллерами
+[08:33:37] maksumkolesnukov022: 57кг весят
+[08:34:06] maksumkolesnukov022: дай 
+[08:34:15] maksumkolesnukov022: 2 гвоздя мало
+[08:34:17] maksumkolesnukov022: 4 
+[08:35:04] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[08:35:04] Chupacabr suicided!
+[08:35:51] maksumkolesnukov022: повыше
+[08:36:18] maksumkolesnukov022: ААА
+[08:36:47] maksumkolesnukov022: нам бы топливо
+[08:37:52] maksumkolesnukov022: кирка хочу лебёдку 
+[08:37:54] maksumkolesnukov022: на грузовик
+[08:39:16] maksumkolesnukov022: а куда нам
+[08:39:24] maksumkolesnukov022: я хочу сделать башню
+[08:39:33] maksumkolesnukov022: максутко пакостин корпорейшн
+[08:39:47] maksumkolesnukov022: СТОЙ
+[08:39:58] maksumkolesnukov022: не, просто чуть не да
+[08:40:32] Corey: supply radio: jeep
+[08:40:32] maksumkolesnukov022: это твой?
+[08:42:20] maksumkolesnukov022: смари чё есть
+[08:42:21] maksumkolesnukov022: у меня
+[08:42:35] Dropped "Corey" from server<STEAM_0:0:85624205>
+[08:42:35] Corey suicided!
+[08:43:36] maksumkolesnukov022: ну 
+[08:43:42] maksumkolesnukov022: вообще можно сделать типо 2 грузовика
+[08:44:07] maksumkolesnukov022: поставь лебёдку
+[08:44:09] maksumkolesnukov022: вперёд
+[08:44:20] maksumkolesnukov022: лебёдку
+[08:44:22] maksumkolesnukov022: переставь
+[08:44:30] maksumkolesnukov022: нет
+[08:44:32] maksumkolesnukov022: ПЕРЕСТАВЬ
+[08:44:33] maksumkolesnukov022: ЛЕБЁДКУ
+[08:44:36] maksumkolesnukov022: НА БАМПЕР
+[08:44:45] maksumkolesnukov022: ОТКРЕПИ ЕЁ НАХУЙ
+[08:45:03] maksumkolesnukov022: ОТКРЕПИ ЕЁ
+[08:45:11] maksumkolesnukov022: И ПОСТАВЬ
+[08:45:14] maksumkolesnukov022: НА БАМПЕР
+[08:45:28] maksumkolesnukov022: чтобы тащило за перднюю часть
+[08:45:30] maksumkolesnukov022: а то развернёт
+[08:46:49] maksumkolesnukov022: всё лимит
+[08:46:50] maksumkolesnukov022: длины
+[08:46:57] maksumkolesnukov022: гений
+[08:47:02] Client "[Б.А]SDkrisska" connected.
+[08:47:30] maksumkolesnukov022: спусти машину
+[08:47:33] maksumkolesnukov022: на ровну
+[08:47:41] Client "[Б.А]SDkrisska" spawned in server <STEAM_0:1:586163264> (took 39 seconds).
+[08:47:57] maksumkolesnukov022: ЭЭЭ
+[08:48:29] maksumkolesnukov022: а почему мы просто физганом не перетащили наверх
+[08:48:44] [Б.А]SDkrisska: /s вы где
+[08:48:58] [Б.А]SDkrisska: !s
+[08:49:00] Culfrum: Я ПИПИ
+[08:49:06] Hellinberg: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:49:13] (TEAM) [Б.А]SDkrisska: вы где
+[08:49:16] maksumkolesnukov022: крч стройся сверху
+[08:49:17] maksumkolesnukov022: а я тут
+[08:50:58] maksumkolesnukov022: ку
+[08:52:05] Culfrum: МЫ ТЕПЕРЬ АМЕРИКАНСКАЯ БАЗА
+[08:52:07] Нео: как жить
+[08:52:11] Нео: точнее
+[08:52:19] Нео: как вещи поднимать?
+[08:52:26] Нео: спасибо
+[08:52:44] (TEAM) Нео: а инвентарь:
+[08:52:52] Нео: а инвентарь?
+[08:52:58] MSG: инвентарь нужно биндить, загугли jmod
+[08:52:59] Нео: ладно
+[08:53:26] Dropped "Culfrum" from server<STEAM_0:0:555258766>
+[08:53:26] Culfrum suicided!
+[08:53:26] MSG killed Нео using tfa_doispringfield
+[08:54:36] Client "Pult4444" connected.
+[08:55:05] Skrr Skra killed Mr_Pyro using tfa_doimg42
+[08:56:10] Client "Jr_byba" connected.
+[08:56:43] Mr_Pyro killed Mr_Pyro
+[08:57:53] Нео: inv
+[08:57:57] Нео: !inv
+[08:58:00] Нео: -inv
+[08:58:03] Нео: /inv
+[08:59:28] Dropped "MSG" from server<STEAM_0:0:140515950>
+[08:59:28] MSG suicided!
+[09:00:11] Skrr Skra killed Нео using lvs_wheeldrive_bm13
+[09:00:16] Dropped "Нео" from server<STEAM_0:1:592067358>
+[09:00:16] Нео suicided!
+[09:00:42] Skrr Skra killed Mr_Pyro using tfa_doimg42
+[09:00:54] Skrr Skra killed Mr_Pyro using tfa_doimg42
+[09:01:13] Skrr Skra killed Hellinberg using tfa_doimg42
+[09:01:25] Skrr Skra killed Hellinberg using tfa_doimg42
+[09:01:55] Skrr Skra killed Hellinberg using tfa_doimg42
+[09:02:02] maksumkolesnukov022: выработку топлива понерфили вроде бы
+[09:02:07] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 357 seconds).
+[09:02:11] Mr_Pyro was killed by ent_rus_spawnbase
+[09:02:31] Skrr Skra killed Hellinberg using tfa_doimg42
+[09:02:37] Skrr Skra killed Mr_Pyro using tfa_doimg42
+[09:02:46] Skrr Skra killed Hellinberg using tfa_doimg42
+[09:03:24] maksumkolesnukov022: упал
+[09:03:25] Hellinberg killed Mr_Pyro using ent_jack_gmod_ezchlorineparticle
+[09:03:27] Hellinberg killed Hellinberg
+[09:04:11] Skrr Skra was killed by lvs_wheeldrive_dodwillyjeep
+[09:04:17] Dropped "Skrr Skra" from server<STEAM_0:1:67835559>
+[09:04:17] Skrr Skra suicided!
+[09:04:31] Mr_Pyro killed Mr_Pyro
+[09:04:51] maksumkolesnukov022: чувствую рестарт скоро надо
+[09:06:51] Hellinberg suicided!
+[09:06:51] Hellinberg killed Mr_Pyro using ent_jack_gmod_eztimebomb
+[09:11:05] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[09:11:05] maksumkolesnukov022 suicided!
+[09:13:34] Hellinberg killed Hellinberg
+[09:13:36] Dropped "Hellinberg" from server<STEAM_0:0:27824887>
+[09:13:36] Hellinberg suicided!
+[09:14:53] Mr_Pyro suicided!
+[09:14:54] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[09:14:54] Jr_byba suicided!
+[09:14:59] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[09:14:59] Mr_Pyro suicided!
+[09:21:50] Client "Cokpam" connected.
+[09:25:40] Client "finik" connected.
+[09:32:16] Client "OVERLORD" connected.
+[09:34:29] KIRKA was killed by ent_rus_spawnbase
+[09:40:41] Client "VasiliskÐ" connected.
+[09:42:25] Client "бугагашенька" connected.
+[09:42:27] Client "VasiliskÐ" spawned in server <STEAM_0:1:452030622> (took 106 seconds).
+[09:43:42] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 77 seconds).
+[09:45:00] бугагашенька: дароу
+[09:48:36] Client "Culfrum" connected.
+[09:51:04] Client "Culfrum" connected.
+[09:55:40] Client "Culfrum" connected.
+[09:56:46] бугагашенька: ! motd
+[09:56:54] бугагашенька: !motd
+[09:57:33] бугагашенька was killed by ent_rus_spawnbase
+[09:59:41] (TEAM) бугагашенька: jmod_ez_inv
+[10:03:35] Client "ZET" connected.
+[10:19:09] Client "ZET" spawned in server <STEAM_0:1:161302657> (took 934 seconds).
+[10:21:47] Client "Corey" connected.
+[10:22:56] бугагашенька was killed by ent_rus_spawnbase
+[10:23:00] Client "Corey" spawned in server <STEAM_0:0:85624205> (took 73 seconds).
+[10:23:05] бугагашенька was killed by ent_rus_spawnbase
+[10:25:45] Dropped "ZET" from server<STEAM_0:1:161302657>
+[10:25:45] ZET suicided!
+[10:31:15] Client "Kotik" connected.
+[10:32:10] Client "Kotik" spawned in server <STEAM_0:1:558349975> (took 55 seconds).
+[10:36:38] KIRKA killed Kotik using lvs_trailer_zis3
+[10:37:06] KIRKA was killed by lvs_trailer_zis3
+[10:37:17] Corey was killed by lvs_trailer_zis3
+[10:37:49] Kotik was killed by lvs_trailer_zis3
+[10:38:45] KIRKA killed Kotik using lvs_trailer_zis3
+[10:39:09] Corey: !motd
+[10:44:24] Client "Redoket" connected.
+[10:45:03] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 39 seconds).
+[10:50:48] Client "Мочеglouth" connected.
+[10:54:13] Client "Мочеglouth" spawned in server <STEAM_0:0:612066619> (took 205 seconds).
+[10:58:50] бугагашенька: zlthye. cnfywb.
+[10:58:56] бугагашенька: ядерную станцию
+[10:58:58] бугагашенька: типо
+[10:59:05] бугагашенька: ну не просто РИТЭГ
+[10:59:13] бугагашенька: АПОКАЛИПСИС РЕСОВ
+[10:59:15] бугагашенька: да
+[11:02:35] Dropped "Мочеglouth" from server<STEAM_0:0:612066619>
+[11:02:35] Мочеglouth suicided!
+[11:09:55] Client "Culfrum" connected.
+[11:10:52] Client "Culfrum" spawned in server <STEAM_0:0:555258766> (took 57 seconds).
+[11:11:54] Culfrum: РЕДОКЕТ
+[11:11:57] Culfrum: Я СЛЫШАЛ ВЫ 80
+[11:12:13] Redoket: Z 
+[11:12:17] Redoket: ОЙ
+[11:12:20] Culfrum: Z
+[11:12:29] Redoket: Я ЩАС ПОЙДУ КУШАТЬ МАЗГИ
+[11:12:36] Culfrum: У МЕНЯ КОЛОНКА С МЕТАЛЛИКОЙ
+[11:12:43] Redoket: ТВ ПОККА ЗА ГЛАВНОГО БУШ
+[11:12:49] Redoket: УЖАС
+[11:13:01] Culfrum: ЛАН
+[11:13:05] Redoket: Я ЩАС ЛИДЕРКУ ТЕБЕ ПЕРЕДАМ НА ВРЕМЯ\
+[11:13:15] Redoket: ТУТ УРАН
+[11:13:19] Redoket: ПРИНЕСИ
+[11:13:20] Redoket: ОЙ
+[11:13:28] Redoket: ДРЕЛЬ ЕСТЬ
+[11:13:31] Redoket: ЗАРЯЖЕНА
+[11:13:38] Redoket: НЕ
+[11:13:44] Redoket: 6НЕ НАДО
+[11:13:49] Culfrum: ЧО НАД СДЕЛАТЬ ЩАС
+[11:16:42] Culfrum: ааа
+[11:16:44] Culfrum: ААА
+[11:16:53] Culfrum: УРАНИУМ ЕНРИХТМЕНТ ТЕХНОЛОГИ
+[11:22:49] Redoket: ИДИОТ
+[11:22:52] Culfrum: а
+[11:22:55] Redoket: ТЫ ЧЕМ ЗАНИМАЕШСЯ
+[11:23:00] Culfrum: Я СЛЕЖУ
+[11:23:02] Redoket: ТЫ ДОЛЖЕН СТАВИТЬ УРАН
+[11:23:07] Culfrum: Я СПРОСИЛ ЧТО ДЕЛАТЬ
+[11:23:07] Redoket: БЫЛ
+[11:23:51] Redoket: ШДЕ
+[11:23:54] Redoket: ЕМА
+[11:23:58] Redoket: Е
+[11:24:02] Culfrum: ТУТ
+[11:24:03] Culfrum: АЛО
+[11:24:20] Culfrum: ТУТ ЖИЛКА
+[11:24:22] Culfrum: АЛО
+[11:24:24] Culfrum: ТУТО
+[11:24:32] Redoket: АУН
+[11:24:36] Redoket: АНУ
+[11:24:58] Redoket: ВСЕ
+[11:26:45] Culfrum: ВОДЫ
+[11:26:56] Redoket: БЫЛАА
+[11:26:58] (TEAM) Redoket: ГДЕТО
+[11:27:06] Redoket: О
+[11:27:11] Redoket: ЭТО КРУТО
+[11:27:58] Redoket: УЖАС
+[11:28:57] Redoket: А У ТЕБЯ УЖЕ
+[11:29:05] Redoket: Я ДУМАЛ БОЛТОВКИ КРАФТ
+[11:29:14] Culfrum: Я ДРОБОВИКИ ЛЮБЛЮ
+[11:29:19] Redoket: НУЖНО ДЕРЕВО
+[11:29:22] Culfrum: ДАМАГ АФИГЕВШИЙ И ЦЕЛИТСЯ НЕНАД
+[11:29:23] Culfrum: ЗА
+[11:29:24] Redoket: СКРОНЖАНИ ПЖ
+[11:29:24] Culfrum: ЩА
+[11:29:26] Redoket: Я ТОЖЕЦ
+[11:29:31] KIRKA killed Kotik using tfa_smc_ppsh_drum
+[11:29:42] Redoket: НО ТУТ ПРИ НАШЕМ ПОЛОЖЕНИИ НА ДАЛЬНЯК ТОЖЕ НУЖНО
+[11:31:06] Culfrum: О МОЙ ЛЮБИМЫЙ ТРЕК
+[11:31:57] Redoket: ДЕНЬГА
+[11:32:05] Culfrum: ЗАРАБОТАЛИ
+[11:32:09] Culfrum: МОЙ ЛЮБИМЫЙ ТРЕК
+[11:32:12] Redoket: ПОЕЛИ
+[11:32:15] Redoket: МОЗГИ
+[11:32:16] Culfrum: НАЕЛИ
+[11:32:41] Redoket: ЧЙ\
+[11:32:44] Redoket: ЧЁ
+[11:32:51] Culfrum: НЕНЕНЕН НОРМ ВСЕ
+[11:32:58] Redoket: ОК ТОГДА
+[11:33:30] Culfrum: ГАС
+[11:33:39] Redoket: ЩАС
+[11:33:50] Redoket: НАМ НУЖНО ПЕХОТА
+[11:34:11] Redoket: НАДО ВЕРБАНУТЬ ЧУВАЧКА КОТОРЫЙ ПО ДРУГУЮ СТОРОНУ РАЗЧЕЛИНЫ
+[11:34:19] Redoket: НАУЧИТЬ ЕГО МАЗГ ЕСТЬ
+[11:34:52] Redoket: СДЕЛАЙ ПАНЕЛИ ПОКА
+[11:34:56] Redoket: СОЛНЦЕ
+[11:35:22] Redoket: ВСО Я ДУМАЮ
+[11:35:28] Redoket: ТЕПЕР РАЗСТАВИТ
+[11:36:17] Redoket: ВОТ ПОВЕР ГОВНО
+[11:36:41] Redoket: ВОТ РЮКЗАК
+[11:38:40] Redoket: БЛЯТСТВО
+[11:38:44] Redoket: УРАН ДЕШЕВЕЕТ
+[11:38:51] Culfrum: ЗЛОЙ
+[11:39:15] Redoket: У ТЕБЯ РУКЗАК
+[11:39:16] Culfrum: ТЫ ЧО ВОЛШЕБНИ
+[11:39:19] Culfrum: А
+[11:39:22] Redoket: ПРОВЕДИ ЕЛЕКТРИЧЕСТВО
+[11:39:26] Redoket: К УРАН
+[11:39:34] Redoket: ЭТО МАГИЯ МОЗГОВ
+[11:39:43] Redoket: У НИХ КАТЮША
+[11:39:53] Redoket: ОНИ ТАМ ЧЁТО ХОДЯТ
+[11:41:39] Redoket: ХОРОШ
+[11:41:49] Redoket: ДАВАЙ
+[11:41:51] Redoket: СКОРЕЕ
+[11:41:57] Redoket: ДОБУДЬСЯ СРАНОЕ ЕЛЕКТР
+[11:42:08] Culfrum: ФИГА
+[11:42:12] Culfrum: 147 БАКСАВ
+[11:42:13] Redoket: ЕСТЬ
+[11:42:25] Client "tsypi1111" connected.
+[11:43:01] Culfrum: У НИХ ГОВНОЛЕТ
+[11:43:11] Culfrum: У НИХ ГОВНОЛЕТ
+[11:43:15] Redoket: НАМ НУЖНГО БУДЕТ ПОГОВОРИТЬ
+[11:43:20] Redoket: С ЛЮДЬМИ
+[11:43:25] Redoket: И НАУЧИТЬ ИХ ЕСТЬ
+[11:44:09] Redoket: СРАНЬ
+[11:44:14] Redoket: НУЖНО ПРО
+[11:44:14] Culfrum: -104 44
+[11:44:17] Redoket: ОК
+[11:44:30] Redoket: ТУРЕЛЬ ЩАС
+[11:44:36] Culfrum: ПРИДУМАЛИ
+[11:46:00] Redoket: ПОЕХАЛИ
+[11:46:04] Culfrum: ФИГА ТЫ ТЯЖЕЛЫЙ
+[11:46:09] Redoket: БЕРИ
+[11:46:35] Redoket: ДАВА
+[11:46:41] Redoket: ТОЛЬКО ВЫКЛЮЧИ
+[11:46:45] Redoket: ЧТОБЫ НЕ СПУГНУТЬ\
+[11:47:02] Redoket: ВАТАХЕЛЛ
+[11:47:10] Redoket: ДРАСТЕ
+[11:47:30] Culfrum: ЧО ОН НЕСЕТ
+[11:47:35] Redoket: ЧТО ТО
+[11:47:39] Redoket: ЭТО
+[11:47:48] Redoket: МЫ ТУТ С ПРЕДЛОЖЕНИКЕМ
+[11:48:09] Redoket: О СОТРУДНИЧЕСТВЕ
+[11:48:23] KIRKA killed Kotik using lvs_trailer_zis3
+[11:48:24] Redoket: МЫ МОЖЕМ ВАМ МНОГОМУ ЧЕМУ НАУЧИТЬ 
+[11:48:28] Redoket: ИЛИ ДЕНЕГ
+[11:48:29] Redoket: ДАТЬ
+[11:48:33] Redoket: МНОГО ЧТО
+[11:48:36] Redoket: ПРОДАТЬ
+[11:48:38] Redoket: ЯДЕР
+[11:48:39] Redoket: ОЙ
+[11:48:41] Redoket: НЕ ТО
+[11:48:44] Culfrum: ЯДРА ГЕЛИЯ
+[11:48:47] Redoket: НУ МНОГО МОЖЕМ
+[11:48:48] Redoket: ДА
+[11:48:57] Culfrum: БУДЕТЕ ГОВОРИТЬ ВЫСОКО
+[11:49:02] Redoket: НАУЧИТЬ ВАМ МОЗГИ ЕСТЬ
+[11:49:03] KIRKA was killed by lvs_wheeldrive_bm13
+[11:49:06] Redoket: ВАЖНАЯ ЧТУКА
+[11:49:11] Redoket: НУ КАК?
+[11:49:25] Redoket: НАМ ПРОСТО НУЖНЫ Э
+[11:49:27] Redoket: ЗАПАС
+[11:49:40] Redoket: ВЫ ПРОСТО НЕ ПРОБОВАЛИ
+[11:49:43] Redoket: ЭТО ВКУСНО
+[11:49:46] Culfrum: ЭТО КРУТО
+[11:49:50] Redoket: Я ОТВЕЧАЮ ЗА СВОИ СЛОВА
+[11:50:01] Culfrum: ЭТО КАК ПЕЛЬМЕНИ
+[11:50:06] Culfrum: НО ОНИ ДЛИННЫЕ
+[11:50:09] Redoket: Я НУ БЛИН
+[11:50:11] Redoket: ЛАДНО
+[11:50:25] Redoket: Я ВИДЕЛ К ВАМ ЧУВАЧКИ ИЗ ДРУГОЙ ФРАКЦИИ ПРИЕЗЖАЛИ
+[11:50:34] Redoket: МОЖЕТЕ СКАЗАТЬ ЗАЧЕМ?
+[11:50:36] Redoket: ПРОСТО
+[11:50:41] Redoket: СТРАШНО
+[11:50:44] Redoket: КАТЮША ТАМ
+[11:50:45] Redoket: БЫЛА
+[11:50:46] Culfrum: ЧОРТ Я КОЛОНКУ ВКЛЮЧИЛ
+[11:50:49] Redoket: И ЭОЙ
+[11:50:53] Redoket: БЛИН
+[11:50:53] Culfrum: ВСЕ
+[11:50:55] Culfrum: ПОЧИНИЛ
+[11:50:57] Redoket: ЗАЕЛА ЭТОТ\
+[11:51:01] Redoket: МАГНИТОФОН
+[11:51:06] Culfrum: ДАА
+[11:51:07] Redoket: НУ ВОТ ТАК ВОТ
+[11:51:09] Redoket: МЫ ПОНЯЛИ
+[11:51:21] Redoket: КУЛФРУМ
+[11:51:23] Culfrum: А
+[11:51:24] Redoket: ПЕРЕДАЙ
+[11:51:25] Redoket: МНЕ 
+[11:51:29] Culfrum: КОГО
+[11:51:34] Redoket: ЛИДЕРКУ
+[11:51:39] Kotik killed Corey using player
+[11:51:55] Redoket: ПРЕДЛОЖИЛ
+[11:51:56] Redoket: О
+[11:51:57] Redoket: ВОТ
+[11:52:01] Redoket: ТАК
+[11:52:10] Redoket: СЧ НРИМИ РАЗОБРАЛЬ
+[11:52:37] Kotik killed [Б.А]SDkrisska using player
+[11:54:23] Dropped "Culfrum" from server<STEAM_0:0:555258766>
+[11:54:23] Culfrum suicided!
+[11:55:21] Redoket: ЧЁ
+[11:55:25] бугагашенька killed Corey using player
+[11:55:38] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[11:55:38] Redoket suicided!
+[11:56:46] Client "Culfrum" connected.
+[11:57:41] Client "Skrr Skra" connected.
+[11:57:45] Client "Culfrum" spawned in server <STEAM_0:0:555258766> (took 59 seconds).
+[11:57:48] Client "MSG" connected.
+[11:58:28] Client "MSG" spawned in server <STEAM_0:0:140515950> (took 40 seconds).
+[11:58:40] Client "Skrr Skra" spawned in server <STEAM_0:1:67835559> (took 59 seconds).
+[11:59:45] Culfrum: ГОВНО Я НЕ ЗОНДБИ
+[11:59:50] Culfrum: МИР ФИГНИ
+[12:00:01] Dropped "Culfrum" from server<STEAM_0:0:555258766>
+[12:00:01] Culfrum suicided!
+[12:04:22] Skrr Skra suicided!
+[12:04:22] Skrr Skra killed MSG using ent_bazooka_shell_v2
+[12:07:28] Skrr Skra killed VasiliskÐ using ent_bazooka_shell_v2
+[12:07:57] Skrr Skra killed VasiliskÐ using ent_bazooka_shell_v2
+[12:08:10] Client "Jr_byba" connected.
+[12:08:20] Skrr Skra killed VasiliskÐ using ent_bazooka_shell_v2
+[12:08:33] Skrr Skra: supply radio: fulton-crate
+[12:09:33] Skrr Skra killed VasiliskÐ using tfa_doippk
+[12:09:51] Dropped "[Б.А]SDkrisska" from server<STEAM_0:1:586163264>
+[12:09:51] [Б.А]SDkrisska suicided!
+[12:12:13] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 243 seconds).
+[12:15:58] бугагашенька: да?
+[12:16:05] бугагашенька: взорвалася
+[12:16:12] бугагашенька: мдамс сука
+[12:18:05] бугагашенька killed Jr_byba using tfa_verdun_tankgewehr
+[12:18:16] Dropped "VasiliskÐ" from server<STEAM_0:1:452030622>
+[12:18:16] VasiliskÐ suicided!
+[12:18:18] Client "VasiliskÐ" connected.
+[12:18:50] Client "VasiliskÐ" spawned in server <STEAM_0:1:452030622> (took 32 seconds).
+[12:18:51] Dropped "VasiliskÐ" from server<STEAM_0:1:452030622>
+[12:18:51] VasiliskÐ suicided!
+[12:19:52] MSG killed Kotik using tfa_verdun_tankgewehr
+[12:20:16] Skrr Skra suicided!
+[12:20:48] Skrr Skra killed Jr_byba using wep_jack_gmod_hands
+[12:22:21] MSG killed бугагашенька using tfa_doim1912
+[12:22:30] MSG killed Jr_byba using tfa_doim1912
+[12:23:34] MSG killed KIRKA using tfa_doim1912
+[12:23:49] MSG killed Corey using tfa_doim1912
+[12:23:52] Skrr Skra killed бугагашенька using ent_bazooka_shell_v2
+[12:24:54] бугагашенька: кароче буду тут говорить
+[12:25:06] бугагашенька: вы на нас напали?
+[12:25:15] бугагашенька: иследователи,
+[12:25:16] MSG killed Jr_byba using tfa_doim1912
+[12:25:18] бугагашенька: нашу базу
+[12:25:26] бугагашенька: вопрос, а почему без обявления войны
+[12:25:29] бугагашенька: у нас 2 АФК
+[12:25:32] бугагашенька: нет
+[12:25:38] бугагашенька: а все
+[12:25:40] бугагашенька: извини
+[12:25:55] бугагашенька: ну да блять
+[12:26:02] бугагашенька: я в ахуе
+[12:26:04] бугагашенька: сука
+[12:26:07] бугагашенька: 3 чела афк
+[12:26:12] бугагашенька: я вижу тут бомбят
+[12:26:24] бугагашенька: было бы интереснее если бы была причина, но и так мойдет
+[12:26:33] бугагашенька: кхм
+[12:26:49] бугагашенька: ну тут сервер основан на 
+[12:26:51] бугагашенька: том
+[12:26:55] бугагашенька: што ИСТОРИЯ делаеться
+[12:26:59] бугагашенька: ну да
+[12:27:06] бугагашенька: просто было бы интереснее
+[12:27:12] бугагашенька: ну незнаю
+[12:27:18] бугагашенька: вы б могли увидеть уранувую штуку
+[12:27:24] бугагашенька: за уран начать
+[12:27:25] бугагашенька: войну
+[12:27:29] бугагашенька: я незнаю
+[12:27:40] бугагашенька: ну лады
+[12:27:43] бугагашенька: удачи епта
+[12:28:14] MSG killed Kotik using tfa_doim1912
+[12:28:36] бугагашенька: ну да
+[12:29:33] бугагашенька: это ихняя база
+[12:29:40] бугагашенька: кароч я с тем челом поговорил
+[12:29:54] бугагашенька: не
+[12:29:56] бугагашенька: не они
+[12:29:59] бугагашенька: но разхуячили
+[12:30:09] бугагашенька: они по приколу
+[12:30:14] бугагашенька: ну бля
+[12:30:20] бугагашенька: можно было бы за уран предявить
+[12:30:21] бугагашенька: там
+[12:30:24] бугагашенька: типо територия ваша
+[12:30:30] бугагашенька: куча причин
+[12:30:36] бугагашенька: было бы интереснее
+[12:30:42] бугагашенька: ну да
+[12:30:50] бугагашенька: по прикол
+[12:34:03] Skrr Skra: Я ЛЮБЛЮ ПЛЫВИСКИ
+[12:35:55] Client "VasiliskÐ" connected.
+[12:36:04] Skrr Skra killed KIRKA using ent_bazooka_shell_v2
+[12:36:09] Kotik was killed by lvs_trailer_zis3
+[12:36:31] MSG killed Jr_byba using tfa_doik98_scop
+[12:37:35] Dropped "Corey" from server<STEAM_0:0:85624205>
+[12:37:35] Corey suicided!
+[12:37:38] бугагашенька killed MSG using ent_bazooka_shell_v2
+[12:37:39] Client "VasiliskÐ" spawned in server <STEAM_0:1:452030622> (took 104 seconds).
+[12:37:59] бугагашенька killed MSG using ent_bazooka_shell_v2
+[12:38:08] MSG killed бугагашенька using tfa_doim1912
+[12:38:16] Skrr Skra killed KIRKA using ent_bazooka_shell_v2
+[12:38:18] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[12:39:05] Skrr Skra killed Kotik using tfa_doim1911
+[12:39:31] Dropped "Kotik" from server<STEAM_0:1:558349975>
+[12:39:31] Skrr Skra killed Jr_byba using ent_bazooka_shell_v2
+[12:40:19] Skrr Skra killed бугагашенька using ent_bazooka_shell_v2
+[12:40:32] Client "Kotik" connected.
+[12:41:06] MSG killed бугагашенька using tfa_doik98_scop
+[12:41:13] Client "KIRKA" connected.
+[12:41:17] Client "Kotik" spawned in server <STEAM_0:1:558349975> (took 45 seconds).
+[12:41:33] MSG killed VasiliskÐ using tfa_doik98_scop
+[12:41:53] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 40 seconds).
+[12:42:28] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[12:42:28] Jr_byba suicided!
+[12:42:58] Client "Jr_byba" connected.
+[12:44:08] Client "Mannytko" connected.
+[12:44:55] MSG killed KIRKA using tfa_doik98_scop
+[12:44:57] MSG killed Kotik using tfa_doik98_scop
+[12:45:06] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 128 seconds).
+[12:45:54] Kotik killed MSG using tfa_doik98_scop
+[12:46:06] (TEAM) Jr_byba: ш
+[12:46:18] Skrr Skra: supply radio: munitions
+[12:46:23] Client "Mannytko" spawned in server <STEAM_0:0:151021368> (took 135 seconds).
+[12:46:27] MSG killed бугагашенька using tfa_doik98_scop
+[12:46:35] MSG killed Kotik using tfa_doik98_scop
+[12:46:47] Skrr Skra killed KIRKA using tfa_doim1911
+[12:46:58] Mannytko granted god mode upon Themself
+[12:46:58] Mannytko: !god mann
+[12:47:00] Mannytko cloaked Themself by amount 0
+[12:47:00] Mannytko: !cloak mann
+[12:47:13] MSG killed Jr_byba using tfa_doippk
+[12:47:29] бугагашенька: В 2 СЛОВАХ
+[12:47:35] бугагашенька: НАС НАЧАЛИ АТАКОВАТЬ С РПГ
+[12:47:43] бугагашенька: ДА
+[12:47:46] бугагашенька: НУ ПО ПРИКОЛУэ
+[12:47:51] бугагашенька: МИНУС ПАРУ ЧАСОВ ГЕИМПЛЕЯ
+[12:48:00] бугагашенька: ДАЖЕ ПОСЛЕ КОНЦА ВОЙНЫ ОНИ АТАКОВАЛИ НАС
+[12:48:14] Mannytko teleported MSG
+[12:48:14] Mannytko teleported Skrr Skra
+[12:48:35] MSG: Три человека стояло
+[12:48:40] MSG: Двое из них по нам стреляло
+[12:48:51] бугагашенька: я был там
+[12:48:57] бугагашенька: ну да
+[12:49:51] бугагашенька: ЗА УРАН
+[12:49:54] бугагашенька: ЗА ТЕРИТОРИЮ
+[12:50:14] бугагашенька: ну да
+[12:50:19] бугагашенька: небыло обявления
+[12:50:21] бугагашенька: не видно
+[12:50:35] MSG: Мы сами с говном и палками шли, у вас огромная база. Война была объявл�
+[12:51:08] бугагашенька: щас попытаюся найти обявление
+[12:51:29] бугагашенька: ну да
+[12:51:49] бугагашенька: йоу
+[12:51:49] MSG: Мы играем в гарис мод, это даже не рп сервер, кенты
+[12:52:01] MSG: Это буквально дм сервак, тут все друг друга ебашут
+[12:52:03] бугагашенька: гоу в зарю?
+[12:52:10] Kotik: хз че это
+[12:52:12] бугагашенька: 5?
+[12:52:21] Kotik: а
+[12:52:24] бугагашенька: 3 были афк
+[12:52:26] Kotik: я в штурм бригаде
+[12:52:29] бугагашенька: 1 это я
+[12:52:33] бугагашенька: 5 это ерор
+[12:53:04] бугагашенька: да
+[12:53:07] бугагашенька: ТАК
+[12:53:09] бугагашенька: НАС БЫЛО 4
+[12:53:11] бугагашенька: 1 ЭТОРКА
+[12:53:13] бугагашенька: Да
+[12:53:19] бугагашенька: 1 афк всю войну был типо
+[12:53:21] бугагашенька: почти
+[12:53:22] бугагашенька: да
+[12:53:32] бугагашенька: ну да
+[12:53:55] бугагашенька: СТой
+[12:54:18] Kotik: !motd
+[12:54:19] бугагашенька: ну так ТЫ начинаеш
+[12:54:34] бугагашенька: РУИНЯТ ИГРУ
+[12:54:42] бугагашенька: ЧУВАК
+[12:54:50] бугагашенька: МЕЖДЫ ИНТЕРЕСНО ИГРОЙ И РУИНОМ ЕСТЬ МНОГО ЧЕГО
+[12:55:00] бугагашенька: можн ослово?
+[12:55:07] MSG: Если вы хотите просто поиграть в ПВЕ, создайте локальный сервер. В чё�
+[12:55:11] MSG: В чём проблема?
+[12:57:22] бугагашенька: да
+[12:59:18] бугагашенька: админ
+[12:59:21] бугагашенька: карту сменим?
+[12:59:23] бугагашенька: м?
+[12:59:48] бугагашенька: так давай голосование
+[12:59:55] бугагашенька: НАМ НАДО ГОЛОСОВАНИЕ НА СМЕНУ КАРТЫ
+[13:00:20] бугагашенька: АФК
+[13:02:39] Dropped "Mannytko" from server<STEAM_0:0:151021368>
+[13:02:39] Mannytko suicided!
+[13:03:38] бугагашенька: ПО ПРАВИЛАМ
+[13:03:41] бугагашенька: РУСЛАН
+[13:03:44] бугагашенька: И В ПРАВИЛАХ
+[13:05:47] бугагашенька: я помню 1 историю, админы заспавнили какойто алтарь которы топливо да
+[13:06:42] бугагашенька: ЭТО Я БЫЛ ЛОЛ
+[13:06:46] бугагашенька: я блы в том клане
+[13:08:28] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[13:08:28] KIRKA suicided!
+[13:08:43] Dropped "VasiliskÐ" from server<STEAM_0:1:452030622>
+[13:08:43] VasiliskÐ suicided!
+[13:10:13] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[13:10:13] Jr_byba suicided!
+[13:11:41] Skrr Skra suicided!
+[13:11:55] Dropped "Kotik" from server<STEAM_0:1:558349975>
+[13:11:55] Kotik suicided!
+[13:14:47] Dropped "MSG" from server<STEAM_0:0:140515950>
+[13:14:47] MSG suicided!
+[13:19:18] Skrr Skra was killed by entityflame
+[13:20:29] бугагашенька: ты помер от собственого огня да?
+[13:31:13] Dropped "Skrr Skra" from server<STEAM_0:1:67835559>
+[13:31:13] Skrr Skra suicided!
+[13:31:45] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[13:31:45] бугагашенька suicided!
+[15:48:57] Client "Redoket" connected.
+[15:49:36] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 39 seconds).
+[15:55:09] Redoket: supply radio: fulton-crate
+[16:02:27] Redoket killed Redoket
+[16:36:29] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[16:36:29] Redoket suicided!
+[20:07:06] Client "OVERLORD" connected.
+[20:18:58] Client "Culfrum" connected.
+[20:20:02] Client "Culfrum" spawned in server <STEAM_0:0:555258766> (took 64 seconds).
+[20:40:21] Dropped "Culfrum" from server<STEAM_0:0:555258766>
+[20:40:21] Culfrum suicided!
+[20:47:26] Client "OVERLORD" spawned in server <STEAM_0:0:638432650> (took 2420 seconds).
+[20:48:41] Dropped "OVERLORD" from server<STEAM_0:0:638432650>
+[20:48:41] OVERLORD suicided!
+[20:48:47] Client "OVERLORD" connected.
+[20:49:23] Client "OVERLORD" spawned in server <STEAM_0:0:638432650> (took 36 seconds).
+[20:58:06] Client "killben" connected.
+[21:12:45] Client "чефир" connected.
+[21:16:00] Client "vasiliy karat" connected.
+[21:16:30] Client "killben" spawned in server <STEAM_0:0:803570447> (took 1104 seconds).
+[21:17:38] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 98 seconds).
+[21:18:32] OVERLORD killed killben using tfa_doippk
+[21:19:24] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:19:53] Dropped "killben" from server<STEAM_0:0:803570447>
+[21:19:53] killben suicided!
+[21:20:00] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:21:38] Client "чефир" spawned in server <STEAM_0:1:872394525> (took 533 seconds).
+[21:23:33] Dropped "чефир" from server<STEAM_0:1:872394525>
+[21:23:33] чефир suicided!
+[21:24:42] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:24:44] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:26:11] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:29:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:29:37] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheatrocket
+[21:29:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:29:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:30:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[21:30:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[21:30:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[21:30:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[21:30:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[21:30:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[21:30:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[21:30:45] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:30:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:30:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:30:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:30:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:30:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:31:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[21:34:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:34:07] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:34:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:34:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:34:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[21:34:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:34:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:34:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:34:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:34:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:34:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:35:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:35:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:35:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:35:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:35:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:35:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:35:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:35:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:36:09] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:36:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:36:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[21:37:00] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[21:37:10] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[21:37:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[21:37:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[21:38:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezlandmine
+[21:38:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfirenade
+[21:39:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztnt
+[21:39:39] Client "Mr_Pyro" connected.
+[21:39:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[21:40:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[21:41:07] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 88 seconds).
+[21:42:32] vasiliy karat: ЖДЕМ ЧУПАКА
+[21:42:40] vasiliy karat: НЕТ
+[21:42:45] vasiliy karat: ОН ДОЛЖЕН СДЕЛАТЬ
+[21:42:51] vasiliy karat: ПАРУ ВЕЩЕЙ
+[21:42:55] vasiliy karat: ЧТОБЫ БЫЛО КРУТО
+[21:43:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezairboatengine
+[21:43:26] vasiliy karat: ВОТ ЭТО
+[21:43:28] vasiliy karat: Э
+[21:43:32] vasiliy karat: ВООБЩЕ
+[21:43:33] vasiliy karat: ПЛАН
+[21:43:43] vasiliy karat: ОН НЕ РАБОТАЕТ
+[21:43:46] vasiliy karat: ЕМУ БЕНЗ НАЛИТЬ
+[21:43:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[21:44:21] vasiliy karat: НОВЫЕ РАКЕТЫ
+[21:44:23] vasiliy karat: ОТ ДЖИМОДА
+[21:44:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:44:41] vasiliy karat: ОНИ УЖЕ В ПВО
+[21:44:46] vasiliy karat: СБИВАЕТ ВЕРТОЛЕТЫ
+[21:44:49] vasiliy karat: И ЯДЕРКИ
+[21:45:01] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[21:45:04] vasiliy karat: ВОТ
+[21:45:11] vasiliy karat: КАК Я ПОНЯЛ
+[21:45:15] vasiliy karat: ВСЕ ЕЩЕ БЕСКОНЕЧНЫЕ
+[21:45:30] vasiliy karat: НАВЕРНОЕ
+[21:45:42] Dropped "OVERLORD" from server<STEAM_0:0:638432650>
+[21:45:42] OVERLORD suicided!
+[21:45:43] vasiliy karat: ЭТО ДА
+[21:46:06] vasiliy karat: НУ ТАМ ИЗ ТЕСТОВ
+[21:46:08] vasiliy karat: ВОТ
+[21:46:09] vasiliy karat: ЕЩЕ
+[21:46:21] vasiliy karat: АВТОМАТИЧЕСКИЙ ДРОБОВИК
+[21:46:28] vasiliy karat: НУ
+[21:46:30] vasiliy karat: ПОЛУАВТОМАТ
+[21:46:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[21:47:13] vasiliy karat: ПОКА ЭТА РАКЕТА КАК ДЖАВЕЛИН РАБОТАЕТ
+[21:47:21] vasiliy karat: ИЛИ НЕТ
+[21:47:23] vasiliy karat: ЗАС
+[21:47:32] vasiliy karat: ЗАПУСТИ В МЕНЯ Я ЩАС ВТРАНСПОРТ СЯДУ
+[21:47:50] vasiliy karat: ОТРЯД СДЕЛЙ
+[21:48:02] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_citroen_type23
+[21:48:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:48:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:49:13] Mr_Pyro killed vasiliy karat
+[21:49:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[21:49:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:49:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:49:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:49:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:49:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:49:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:49:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:49:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:49:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:49:56] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:50:05] Mr_Pyro suicided!
+[21:50:36] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:50:40] vasiliy karat: ДАВАЙ ТЫ
+[21:50:41] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:50:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[21:50:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:50:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:50:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:50:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:50:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:50:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:50:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:51:12] vasiliy karat killed Mr_Pyro using env_explosion
+[21:51:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:51:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:51:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[21:51:22] vasiliy karat: !menu
+[21:51:26] vasiliy karat brought Mr_Pyro
+[21:51:40] vasiliy karat: УВОРАЧИВАЙСЯ ТЕПЕРЬ В РЕАЛЬНОМ БОЮ НИКТО ВИСЕТЬ НЕ БУДЕТ
+[21:51:43] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:52:10] vasiliy karat suicided!
+[21:52:22] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[21:52:25] vasiliy karat: ОЙ
+[21:52:37] vasiliy karat: НЕ ТО УДАЛИЛ
+[21:52:47] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:53:02] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[21:53:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[21:54:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[21:55:34] vasiliy karat killed Mr_Pyro using tfa_doienfield
+[21:55:46] vasiliy karat: ИЗ БОЛТОВКИ
+[21:55:50] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:55:58] vasiliy karat: ТАК
+[21:56:03] vasiliy karat: ДАЖЕ Я НЕ ОЖИДАЛ
+[21:56:04] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:56:16] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[21:56:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[21:56:25] vasiliy karat: ТО ЧТО В ЗАД ВЕРТОЛЕТУ
+[21:56:31] vasiliy karat: С ОДНОГО ВЫСТРЕЛА
+[21:56:34] vasiliy karat: А В СТЕКЛО 33
+[21:56:38] vasiliy karat: 3 ВЫСТРЕЛА
+[21:56:45] vasiliy karat: ЭТ ЖЕСТЬ
+[21:57:03] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_rebel
+[21:57:25] vasiliy karat: НУ
+[21:57:27] vasiliy karat: 105 УРОНА
+[21:57:54] vasiliy karat: НУЖНО ВСЕ ТАКИ ВЫПРОСИТЬ 600 ХП У ВЕРТОЛЕТА
+[21:59:08] vasiliy karat: ЖДЕМ ЧУПАКА
+[21:59:54] vasiliy karat: АЛЬТ+ШИФТ У
+[22:00:29] vasiliy karat: ЯДЕРНУЮ БОМБУ ВЗОЗВАЛИ
+[22:00:39] vasiliy karat: ТУТ РАДИАЦИЯ
+[22:00:54] vasiliy karat: А НЕ
+[22:00:55] vasiliy karat: ТУТ 
+[22:00:57] vasiliy karat: УРАН
+[22:00:58] vasiliy karat was killed by ent_jack_gmod_ezfalloutparticle
+[22:01:42] vasiliy karat: У МЕНЯ ТАК ЖЕ БЫЛО
+[22:01:49] vasiliy karat: НО ПРОШЛО
+[22:03:43] vasiliy karat killed Mr_Pyro using tfa_doim1911
+[22:04:04] Mr_Pyro killed vasiliy karat using tfa_blast_sjogren
+[22:04:19] vasiliy karat killed Mr_Pyro using tfa_doisw1917
+[22:04:32] vasiliy karat killed Mr_Pyro using tfa_doienfield
+[22:04:50] vasiliy karat: НАВЕРНОЕ ПЕРЕЗАПУЩУ 
+[22:13:32] vasiliy karat: ЧУПАК ЗАЙТИ НЕ МОЖЕТ
+[22:13:47] vasiliy karat: БЕСКОНЕЧНОЕ ПОДКЛЮЧЕНИЕ КАК У МЕНЯ
+[22:14:12] vasiliy karat: Я СЕГОДНЯ ПО ЭТОЙ ПРИЧИНЕ НЕ МОГ ЗАЙТИ
+[22:17:57] vasiliy karat: КТО НЕ РАБОТАЕТ
+[22:18:03] vasiliy karat: НУ НАВЕРНОЕ В МАЛЫХ
+[22:18:10] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezuranium
+[22:18:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezuranium
+[22:18:38] vasiliy karat killed vasiliy karat
+[22:18:39] vasiliy karat: !menu
+[22:18:43] vasiliy karat changed the map to gm_sro
+[22:18:43] Server is shutting down/changing levels.
+
+
+
+[22:18:51] New map: gm_sro
+[22:19:23] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 36 seconds).
+[22:19:31] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 44 seconds).
+[22:20:01] vasiliy karat: Я ПЕРЕЗАЙДУ
+[22:20:08] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[22:20:08] vasiliy karat suicided!
+[22:21:35] Client "Chupacabr" connected.
+[22:21:43] Mr_Pyro: ооо
+[22:22:13] Client "Шайтан" connected.
+[22:23:14] Client "vasiliy karat" connected.
+[22:23:38] Client "Шайтан" connected.
+[22:23:41] Client "Chupacabr" connected.
+[22:23:44] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 30 seconds).
+[22:24:17] Client "Шайтан" spawned in server <STEAM_0:1:932814392> (took 39 seconds).
+[22:24:29] vasiliy karat: А ТЫ ЧТО ЗА ФОТО СКИНУЛ
+[22:24:32] vasiliy karat: ЗАВИСЛО ЧТОЛ
+[22:24:40] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 59 seconds).
+[22:25:00] Шайтан: привет
+[22:25:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:25:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[22:25:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowderkeg
+[22:25:36] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[22:25:46] Шайтан: бля
+[22:25:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:25:52] Шайтан: ты же не умеешь?
+[22:25:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[22:25:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:25:58] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:25:58] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:25:58] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:26:00] Шайтан: или умеет?
+[22:26:11] vasiliy karat: НУ РАЗ ЕЩЕ НЕ УПАЛ
+[22:26:31] vasiliy karat killed vasiliy karat
+[22:26:31] vasiliy karat killed Шайтан
+[22:26:31] vasiliy karat killed Chupacabr using env_explosion
+[22:26:32] Шайтан: а они самонаводящиеся?
+[22:26:34] Шайтан: бля
+[22:26:41] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[22:26:58] Шайтан: дай админку =)
+[22:27:08] Шайтан: а жалко
+[22:27:15] Шайтан: как ты спавнишь
+[22:27:20] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[22:27:24] Шайтан: через обычное спавн меню?
+[22:27:46] Шайтан: ну я понял там ты протсо на ку нажимешь когджа спавнишь
+[22:27:49] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[22:27:58] Шайтан: бля
+[22:28:09] vasiliy karat: ОНИ
+[22:28:14] vasiliy karat: ПРОСТО ЛЕТЯТ ПО ТУПОМУ
+[22:28:17] vasiliy karat: ТЫ ВИДЕЛ В БЛИЗИ
+[22:28:18] Шайтан: бля я хотел написать чуть не вьебало
+[22:28:20] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[22:28:25] Шайтан: потом вьебало
+[22:28:38] Шайтан: е полетать
+[22:28:43] Шайтан: дай мне полетать
+[22:28:48] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[22:29:51] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[22:30:18] vasiliy karat: НУ ТАК СКАЗАЛИ ЧИНИТЬ
+[22:30:22] vasiliy karat: ЧТОБЫ ЛЕТАЛО КРУТО
+[22:31:31] Шайтан: да сука нахуй стреляйте
+[22:31:37] vasiliy karat: ЧТОБ СБИВАТЬ
+[22:32:08] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[22:32:33] Шайтан: я налетался
+[22:32:41] Шайтан: а есть самолеты?
+[22:32:44] vasiliy karat: НЕТ
+[22:32:49] Шайтан: блин жалко
+[22:33:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[22:33:22] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[22:33:31] Шайтан: паставь стандартный вертик
+[22:33:35] Шайтан: он попадет по нему
+[22:33:46] vasiliy karat: ТАК ЭТ ПОНЯТНО А НАМ НАДО ЧТОБЫ МЕЛКИЙ СБИВАЛ
+[22:33:50] Шайтан: да 
+[22:33:51] vasiliy karat: А ВООБЩЕ
+[22:33:52] Шайтан: бля
+[22:34:01] vasiliy karat: ЯДЕРНЫЕ РАКЕТЫ НУЖНО
+[22:34:06] vasiliy karat: ДЕЛАЙ СВ ЧИТС 1
+[22:34:12] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[22:34:13] Шайтан: заспавни вертки которово можно зделать тулбоксом
+[22:34:22] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[22:35:00] Шайтан: просто падал а потом полетел
+[22:35:02] vasiliy karat: КАКА РАЗНИТСЯ
+[22:35:11] vasiliy karat: ОН И БУДЕТ ТАК ДЕЛАТЬ
+[22:35:41] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[22:35:42] Шайтан: ракеты просто будут взраватся об постройки
+[22:35:48] vasiliy karat: СДЕЛАЙ ЧТОБ ЛЕТАЛИ КРУТО
+[22:35:57] Шайтан: бля дай машину чтоли
+[22:36:08] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_uc_bren
+[22:36:10] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_uc_bren
+[22:36:14] Шайтан: о ебать
+[22:36:16] Шайтан: спасибо
+[22:36:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[22:36:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:36:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:36:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:36:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:36:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:36:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:36:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:36:33] Шайтан: бля правда нихуя не видно
+[22:37:09] vasiliy karat killed vasiliy karat
+[22:37:09] vasiliy karat killed Chupacabr using env_explosion
+[22:37:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[22:37:44] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodhalftrack_us
+[22:38:14] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[22:38:30] vasiliy karat: МОЖЕТ ДЕВЕЛОПЕР КАКОЙ ТО 
+[22:38:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:38:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:38:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:38:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:38:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:38:57] vasiliy karat: НАПИСАЛО
+[22:39:23] vasiliy karat: А ТАМ КАК ТО
+[22:39:39] vasiliy karat: СДЕЛАЕШЬ
+[22:39:48] vasiliy karat: НУ ОСТАЛЬНОЕ ХОТЯБЫ
+[22:40:21] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodhalftrack_us
+[22:40:41] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:40:41] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:40:41] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:40:42] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:40:42] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:40:42] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:40:42] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:40:42] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:40:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezrocketpod
+[22:41:31] Шайтан killed vasiliy karat using lvs_wheeldrive_uc_bren
+[22:41:46] Шайтан killed vasiliy karat using lvs_wheeldrive_uc_bren
+[22:41:57] Chupacabr killed Mr_Pyro
+[22:42:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[22:42:07] Шайтан killed vasiliy karat using lvs_wheeldrive_uc_bren
+[22:42:08] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[22:42:12] Mr_Pyro was killed by lvs_wheeldrive_uc_bren
+[22:42:22] Шайтан: дай другую
+[22:42:27] Шайтан: это хуйня
+[22:42:30] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[22:42:32] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_kfz14
+[22:42:34] (TEAM) Шайтан: я нихуя не вижу на ней
+[22:42:41] vasiliy karat: ВО
+[22:42:42] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:42:42] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:42:42] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:42:47] Шайтан: я вертик сбить хочсу
+[22:42:49] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:43:01] vasiliy karat killed Chupacabr using env_explosion
+[22:43:01] vasiliy karat suicided!
+[22:43:08] Шайтан: БЛЯТЬ ЕЩЕ ЛУЧШЕ
+[22:43:12] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:43:13] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:43:13] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:43:25] vasiliy karat: ЧТОБЫ ЛЕТЕЛА СНАЧАЛО ВПЕРЕД А НЕ НАЗАД
+[22:43:28] Шайтан: дай я тоже хочу его посбивать
+[22:43:40] vasiliy karat: НА РАКЕТУ
+[22:43:41] Шайтан: дай турельку чтоли
+[22:43:52] vasiliy karat killed vasiliy karat
+[22:43:52] vasiliy karat killed Chupacabr using env_explosion
+[22:44:12] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:44:12] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:44:12] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:44:12] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:44:12] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:44:12] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:44:12] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:44:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[22:44:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezrocketpod
+[22:44:31] vasiliy karat suicided!
+[22:44:43] Шайтан: а че мне делать тут?
+[22:44:59] Шайтан: дай я его тоже сбить хочу сука
+[22:45:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:16] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:16] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:17] Шайтан: я имел машину
+[22:45:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:45:19] vasiliy karat: ПАДАВИС
+[22:45:22] vasiliy karat: МАШИНУ
+[22:45:25] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodhalftrack_us
+[22:45:29] Шайтан: ОООО
+[22:45:33] Шайтан: спс
+[22:46:40] Chupacabr suicided!
+[22:46:40] Chupacabr killed vasiliy karat using env_explosion
+[22:47:07] vasiliy karat: СДЕЛАТЬ ЧТОБЫ РАКЕТА НАВОДИЛАСЬ КОГДА В ПОЛЕТЕ
+[22:47:11] Mr_Pyro killed Шайтан using lvs_helicopter_cod_ah6
+[22:47:12] vasiliy karat: А НЕ СРАЗУ
+[22:47:26] vasiliy karat: ДА
+[22:47:27] Шайтан: я пососал
+[22:47:46] Шайтан: ну налетался?
+[22:47:52] Шайтан: я хоть рас попал?
+[22:47:58] Шайтан: по тебе
+[22:48:28] vasiliy karat suicided!
+[22:48:58] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[22:48:58] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[22:49:41] Шайтан killed vasiliy karat
+[22:49:47] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[22:49:58] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:49:58] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:49:58] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:49:58] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:49:59] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:49:59] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:49:59] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:50:00] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:50:01] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:50:38] Mr_Pyro suicided!
+[22:50:54] Шайтан: ты с 1 раза не понял?
+[22:51:06] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:06] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:06] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:07] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:07] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:07] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:07] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:07] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:07] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:07] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:07] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:08] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:08] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:16] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:16] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:29] Mr_Pyro killed vasiliy karat
+[22:51:39] vasiliy karat: ДАВАЙ ПИРО ТЫ
+[22:51:42] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[22:51:47] vasiliy karat: А ТО Я НУБ
+[22:51:51] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:51] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:51] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezheavyrocket
+[22:51:54] Шайтан: слышно?
+[22:52:23] Шайтан: хочччччччччччччччччччччччччччччччч другу?
+[22:52:56] vasiliy karat: СДЕЛАЙ ПОЛ СЕКИ
+[22:53:16] vasiliy karat: ПОЛ СЕК
+[22:53:28] Шайтан: стреляй
+[22:53:37] Шайтан: ааа
+[22:53:39] Шайтан: понял
+[22:53:45] Chupacabr killed Шайтан
+[22:53:58] vasiliy karat: НУ ЩАС СТАЛО НОРМАЛЬНО НО ВСЕ ЕЩЕ ПО ДИБИЛЬНОМУ
+[22:53:59] vasiliy karat: СДЕЛАЙ ЧТОБЫ
+[22:54:03] vasiliy karat: НА ТАНКИ НЕ
+[22:54:09] vasiliy karat: ПИЛИНГОВАЛОСЬ
+[22:54:11] vasiliy karat: ПИРО
+[22:54:15] vasiliy karat: САДИСЬ В ТАЧКУ
+[22:54:20] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gaz67
+[22:54:28] vasiliy karat: КАВИНСКИЙ
+[22:54:32] vasiliy karat: ДРАЙВ
+[22:54:43] Шайтан: она уебещная
+[22:54:44] vasiliy karat suicided!
+[22:54:44] vasiliy karat killed Chupacabr using env_explosion
+[22:54:54] vasiliy karat: ЯДЕРНЫЕ РАКЕТЫ
+[22:54:56] vasiliy karat: ТЕПЕРЬ
+[22:55:02] vasiliy karat: СВ ЧИТС
+[22:55:02] vasiliy karat: 1
+[22:55:12] vasiliy karat: ЧТОБЫ СБИВАЛО ЧАЩЕ
+[22:55:15] vasiliy karat: ЧЕМ НЕ СБИВАЛО
+[22:55:36] vasiliy karat: НАВЕРНОЕ
+[22:55:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[22:56:04] vasiliy karat: ПОСТАВЬ
+[22:56:05] vasiliy karat: УСТАНОВКУ
+[22:56:17] vasiliy karat: ПВО
+[22:56:18] vasiliy karat: УСТАНОВКУ
+[22:56:24] Chupacabr<STEAM_0:1:63230461> spawned sent joes_sam_turret_lvs
+[22:56:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[22:57:00] vasiliy karat: ДИБИЛЬНЫЙ КРЮУ
+[22:57:02] vasiliy karat: ЩАС
+[22:57:04] vasiliy karat: Я С БОКУ
+[22:57:10] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[22:57:29] vasiliy karat: КАКАЯ СМЕХОТА
+[22:57:30] vasiliy karat: ОНА НАФЕГ
+[22:57:33] vasiliy karat: ГИГАНТСКИЙ КРЮК
+[22:57:37] vasiliy karat: ДЕЛАЕТ
+[22:58:19] vasiliy karat: УДАЛИ ГОВНО
+[22:58:21] vasiliy karat: ИЛИ НЕНАДО
+[22:58:26] Шайтан: !motd
+[22:58:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[22:58:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[22:59:19] Шайтан suicided!
+[22:59:19] Mr_Pyro suicided!
+[22:59:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[23:00:00] vasiliy karat: ДОБЫВАТЬ
+[23:00:05] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgroundscanner
+[23:00:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[23:00:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[23:00:41] vasiliy karat: ЗАЧЕМ ТОЛЬКО
+[23:00:44] vasiliy karat: СДЕЛАЛИ ТАК
+[23:00:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:01:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:01:40] Шайтан: ты летать умеешь?
+[23:01:51] Шайтан:  нихуя
+[23:01:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[23:02:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:02:48] Client "tivan9958" connected.
+[23:03:11] Chupacabr killed Chupacabr
+[23:03:20] Шайтан: дай
+[23:03:27] vasiliy karat: ЗАКОНОМЕРНЫЙ ВОПРОС
+[23:03:29] Шайтан: он сказал почему незя без крбка
+[23:03:37] Шайтан: крука
+[23:03:41] Шайтан: крюка
+[23:03:49] vasiliy karat to admins: МОЖНО СДЕЛАТЬ НЕ ТОЧКУ А СФЕРУ
+[23:03:54] vasiliy karat to admins: ГДЕ БАБАХ БУДЕТ
+[23:03:56] vasiliy karat: НЕЗНАЮ
+[23:04:10] vasiliy karat to admins: БОЛЬШЕ МЕТРА
+[23:04:23] vasiliy karat to admins: +- МЕТР1
+[23:04:36] vasiliy karat: А
+[23:04:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:05:01] vasiliy karat: А ОНА
+[23:05:05] vasiliy karat: ОНА ТОЧКУ ВЫЦЕЛИВАЕТ
+[23:05:07] vasiliy karat: ИЛИ ЧТО
+[23:05:17] vasiliy karat: ОНА МОЖЕТ ТОЧКУ
+[23:05:24] vasiliy karat: РАСШИРИТЬ
+[23:05:25] vasiliy karat: ВОТ
+[23:05:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:05:50] vasiliy karat: ПЕРЕСТАВЬ
+[23:05:53] vasiliy karat: ОНА НА ПЕРЕЗАРЯДКУ
+[23:05:57] Chupacabr<STEAM_0:1:63230461> spawned sent joes_sam_turret_lvs
+[23:05:59] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:06:15] Шайтан suicided!
+[23:06:15] Mr_Pyro suicided!
+[23:06:15] vasiliy karat suicided!
+[23:06:15] Chupacabr suicided!
+[23:06:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:06:42] vasiliy karat suicided!
+[23:06:49] Mr_Pyro suicided!
+[23:07:05] vasiliy karat: Я ПОЧИСТИЛ КАРТУ
+[23:07:43] Шайтан: хочешь фокус?
+[23:07:52] vasiliy karat: ПЕРЕСТАВЬ
+[23:07:53] Шайтан: ударь меня 3 раза
+[23:07:53] vasiliy karat: ПРОВ
+[23:07:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:07:59] Шайтан: бля
+[23:08:00] Chupacabr<STEAM_0:1:63230461> spawned sent joes_sam_turret_lvs
+[23:08:02] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:08:04] Шайтан: урон маленкий
+[23:08:06] Шайтан: ща
+[23:08:25] Шайтан: бля хуяня крч
+[23:08:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:09:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:09:18] Шайтан: ОН тупо не попадает
+[23:09:23] vasiliy karat: ОНА МОЖЕТ
+[23:09:25] vasiliy karat: С ДЕТОНИРОВАТЬ
+[23:09:29] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:09:33] Шайтан: ну и говорю же
+[23:09:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:10:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:10:42] Шайтан: не все равно
+[23:10:51] Шайтан: не попадает
+[23:11:00] Шайтан: может скорость увелисить
+[23:11:09] vasiliy karat: МОЖЕТ ПЕРЕДЕЛАТЬ ГОВНО ЧТОБЫ ОНА ЛЕТЕЛА ЗА НЕЙ И БАБАХАЛО
+[23:11:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:11:49] Шайтан: ближе укже
+[23:11:56] vasiliy karat: МОЖЕШЬ
+[23:11:58] vasiliy karat: СДЕЛАТЬ
+[23:12:13] vasiliy karat: А
+[23:12:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmoab
+[23:12:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:12:20] Шайтан: дайте мне запустить
+[23:12:37] Шайтан: дайте визган
+[23:12:40] vasiliy karat: СДЕЛАЙ КАК КОГДА ОНА СБИВАЛА
+[23:12:51] Шайтан: спавнь бомбу
+[23:12:52] Client "Nepthsyy" connected.
+[23:12:55] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:13:21] Шайтан: запускайте
+[23:13:55] Шайтан: а че зах
+[23:14:03] Chupacabr<STEAM_0:1:63230461> spawned sent joes_sam_turret_lvs
+[23:14:04] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:14:20] Шайтан: о
+[23:14:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:14:27] Шайтан: зато попала
+[23:14:53] Шайтан: может бомба просто скашвает путь типо 
+[23:14:56] vasiliy karat: АЛЬТ У
+[23:15:06] Шайтан: траэктория у нее така страная
+[23:15:07] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:15:13] Шайтан: стой
+[23:15:21] Шайтан: она летить вот так
+[23:15:21] Client "Nepthsyy" connected.
+[23:15:43] Шайтан: тапо полукругом и из за этого возможно
+[23:15:58] Шайтан: не?
+[23:16:35] Шайтан: ЗАпускайте я сверху посмотрю
+[23:17:39] Шайтан: НЕ ВРОДе прямая линия
+[23:17:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:18:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:18:53] Dropped "Шайтан" from server<STEAM_0:1:932814392>
+[23:18:53] Шайтан suicided!
+[23:19:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:19:44] Mr_Pyro suicided!
+[23:19:46] vasiliy karat suicided!
+[23:20:41] Chupacabr<STEAM_0:1:63230461> spawned sent joes_sam_turret_lvs
+[23:20:55] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:21:21] vasiliy karat: ТАМ ЖЕ БЫЛ КОГ
+[23:21:23] vasiliy karat: КОД
+[23:21:26] vasiliy karat: СТАРОЙ РАКЕТН
+[23:21:30] vasiliy karat: МОЖЕТ ОТТУДА
+[23:21:43] vasiliy karat: ОНА РАБОТАЕТ
+[23:21:46] vasiliy karat: НОВАЯ СИСТЕМА
+[23:21:49] vasiliy karat: ЭТО РАКЕТА
+[23:21:53] vasiliy karat: НОВМЯ
+[23:21:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:24:58] Mr_Pyro: Я сейчас, отойду ненадолго
+[23:26:23] vasiliy karat: НАВЕРНОЕ ОНА НЕ РАБОТАЛО
+[23:26:26] vasiliy karat: НУ ВОТ
+[23:26:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezheavyrocket
+[23:26:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:26:46] vasiliy karat: СДЕЛАТЬ
+[23:26:50] vasiliy karat: ЧТОБЫ СБИВАЛА ЧАЩЕ
+[23:26:53] vasiliy karat: И ВСЕ
+[23:26:56] vasiliy karat: ПОФЕГ НА КРЮК
+[23:27:05] vasiliy karat: ПОСТАВЬ ЕЩЕ 2
+[23:27:06] vasiliy karat: ПРО
+[23:27:10] Chupacabr<STEAM_0:1:63230461> spawned sent joes_sam_turret_lvs
+[23:27:12] Chupacabr<STEAM_0:1:63230461> spawned sent joes_sam_turret_lvs
+[23:27:35] vasiliy karat: ПОСТАВЬ 2
+[23:27:37] vasiliy karat: ИЛИ 3
+[23:27:39] Chupacabr<STEAM_0:1:63230461> spawned sent joes_sam_turret_lvs
+[23:27:41] Chupacabr<STEAM_0:1:63230461> spawned sent joes_sam_turret_lvs
+[23:27:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:28:32] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[23:28:43] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[23:29:26] vasiliy karat: НУ КОГДА ДВА ПВО УЖЕ НЕ РЕАЛЬНО ЧЕТО ДЕЛАТЬ ВЕРТОЛЕТАМ
+[23:29:34] Chupacabr<STEAM_0:1:63230461> spawned sent joes_sam_turret_lvs
+[23:30:08] vasiliy karat: А
+[23:30:54] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[23:31:27] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[23:31:47] vasiliy karat to admins: ТЕПЕРЬ СВАРКУ, ДРОБОВИК, МОТОР
+[23:31:57] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[23:32:00] vasiliy karat<STEAM_0:0:814052183> spawned sent joes_sam_turret_lvs
+[23:32:53] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_rebel
+[23:34:05] vasiliy karat to admins: ДИБИЛИЗМ КАКОЙ ТО ПОЧЕМУ НЕЛЬЗЯ СРАЗУ ЦЕЛИТЬ В ТОЧКУ
+[23:34:53] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_rebel
+[23:35:26] Chupacabr<STEAM_0:1:63230461> spawned sent joes_sam_turret_lvs
+[23:36:03] vasiliy karat: ЭТОТ БЕГЕМОТ СБИТЬ СЛОЖНЕЕ ЧЕМ МЕЛКИЙ
+[23:36:17] Chupacabr killed vasiliy karat using tfa_blast_sjogren
+[23:36:19] vasiliy karat: ДОБАВЬ В 
+[23:36:22] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezaluminum
+[23:36:22] vasiliy karat: ФАБРИКА
+[23:36:22] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[23:36:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[23:36:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[23:36:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[23:36:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[23:36:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[23:36:42] vasiliy karat: ЭТИМ ДРОБАШЕМ ВЕРТОЛЕТЫ СБИВАТЬ
+[23:37:00] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[23:38:14] Chupacabr killed vasiliy karat using tfa_blast_sjogren
+[23:38:30] vasiliy karat: ИНОГДА ВЫГЛЯДЕЛО ТАК
+[23:38:43] vasiliy karat: ЧТО ПУЛИ ПРОЛЕТАЮТ ЧЕРЕЗ ВЕРТ
+[23:39:00] vasiliy karat: СВАРКУ
+[23:39:05] vasiliy karat: И МОТОРЧИК
+[23:39:15] vasiliy karat: А МОТОР УЖЕ НОВЫЙ?
+[23:39:29] Chupacabr killed vasiliy karat using tfa_blast_sjogren
+[23:39:29] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_jmod_ezweapon_alyxgun
+[23:39:45] Chupacabr killed vasiliy karat using tfa_blast_sjogren
+[23:41:46] Mr_Pyro: ВАСЯ
+[23:41:50] Mr_Pyro: ХЭНДС АП
+[23:42:09] Mr_Pyro: ХЭДПАС АППАР
+[23:42:30] Mr_Pyro killed vasiliy karat using tfa_blast_sjogren
+[23:42:40] vasiliy karat killed Mr_Pyro using tfa_blast_sjogren
+[23:42:56] vasiliy karat: ПОЧЕМУ СЕЙЧАС ИГРАЮТ НУБЫ
+[23:43:11] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezfabricator
+[23:43:18] vasiliy karat: ПОЧЕМУ ОНИ НЕ ВОЮЮТ
+[23:43:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezwater
+[23:43:22] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbattery
+[23:43:22] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgas
+[23:43:29] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezchemicals
+[23:43:47] vasiliy karat: Я ГОТОВ ВОЕВАТЬ С ОДНОЙ БОЛТОВКОЙ
+[23:43:49] vasiliy karat: БАМ
+[23:43:50] vasiliy karat: БАМ
+[23:43:54] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgas
+[23:43:54] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbattery
+[23:44:05] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezworkbench
+[23:44:44] Client "F4V3ns" connected.
+[23:45:26] vasiliy karat: ВО ВСЕХ ВОЙНАХ В КОТОРЫХ Я УЧАВСТВОВАЛ В ПУСТЫНЕ БЫЛИ КРУТЫЕ
+[23:45:29] vasiliy karat: СТАВИЛ ФОРПОСТ
+[23:45:31] vasiliy karat: И ШЛИ ДАВИТЬ
+[23:45:37] vasiliy karat: СТОЛЬКО ТРУПОВ
+[23:45:41] vasiliy karat: ПРОСТО МЯСОРУБКА
+[23:45:58] vasiliy karat: Я ТОЖЕ
+[23:46:01] vasiliy karat: МЫ ТОГДА ПРОИГРАЛИ
+[23:46:21] Client "F4V3ns" spawned in server <STEAM_0:0:144997869> (took 97 seconds).
+[23:48:14] vasiliy karat: РАДИО
+[23:48:16] vasiliy karat: МЕН
+[23:48:20] vasiliy karat: ТОТ КОТОРЫЙ
+[23:48:22] vasiliy karat: ПРОДАЕТ
+[23:48:23] vasiliy karat: НАМ
+[23:48:27] vasiliy karat: РЕСУРСЫ
+[23:48:34] vasiliy karat: ПРИЛЕТЕЛ СЮДА САМ
+[23:48:53] Client "Skrr Skra" connected.
+[23:49:07] vasiliy karat: ЩАС ОБНОВЛЮ
+[23:49:29] vasiliy karat: ПРОПИШИ
+[23:49:31] vasiliy karat: ЧТО ОТПРАВИЛ
+[23:49:37] vasiliy karat: КАНСОЛ
+[23:49:38] vasiliy karat: В ИГРЕ
+[23:50:28] vasiliy karat: ДОЛГИ 890 К
+[23:50:39] vasiliy karat: НЕ ЭТО НЕ Я
+[23:50:45] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezfabricator
+[23:50:53] Dropped "F4V3ns" from server<STEAM_0:0:144997869>
+[23:50:53] F4V3ns suicided!
+[23:51:04] vasiliy karat: А ТЫ ПРОПИСАЛ
+[23:51:08] vasiliy karat: В КАНСОЛЬ
+[23:51:10] vasiliy karat: В ИГРЕ
+[23:51:17] vasiliy karat: НУ ЗНАЧИТ ТЫ НУБ
+[23:51:20] vasiliy karat: ЧТО ТО ТАМ СДЕЛАЛ
+[23:51:29] vasiliy karat: 38
+[23:53:01] vasiliy karat killed Chupacabr using tfa_doi_marinebayonet
+[23:53:03] vasiliy karat: А
+[23:53:08] vasiliy karat: Я ДУМАЛ У НЕГО БЕСМЕРТИЕ
+[23:56:03] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbasicparts
+[23:56:50] vasiliy karat: ПОСМОТ
+[23:57:11] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[23:58:29] vasiliy karat: ДРОБОВИК ИЗ БАЛВАНИСТАНА
+[23:58:34] vasiliy karat: СДЕЛАННЫЙ 
+[23:58:47] vasiliy karat: ВИДИТЕ ЭТИ ЧАСЫ
+[23:59:45] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_helicopter_cod_ah6
+[23:59:57] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezmunitions
+[23:59:57] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezmunitions
+[23:59:58] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezmunitions
+[23:59:58] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezmunitions
+<Logging continued in "data/ulx_logs/03-22-25.txt">

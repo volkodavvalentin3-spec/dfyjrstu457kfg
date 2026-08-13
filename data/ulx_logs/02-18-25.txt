@@ -1,0 +1,1339 @@
+<Logging continued from "data/ulx_logs/02-17-25.txt">
+[00:07:56] Client "shtor" connected.
+[00:08:00] Client "freedom is slavery" connected.
+[00:08:32] Client "Mini_pekka" connected.
+[00:09:03] Client "Mini_pekka" spawned in server <STEAM_0:1:809480583> (took 31 seconds).
+[00:09:05] Client "shtor" spawned in server <STEAM_0:1:780776716> (took 69 seconds).
+[00:10:09] Client "freedom is slavery" spawned in server <STEAM_0:0:806335049> (took 129 seconds).
+[00:11:07] Client "whatnow" connected.
+[00:14:48] Client "whatnow" spawned in server <STEAM_0:0:897920465> (took 221 seconds).
+[00:16:14] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:18] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:18] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:18] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:19] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:19] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:19] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:19] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:19] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:20] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:20] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:20] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:20] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:21] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:21] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:21] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:21] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:21] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:22] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:16:42] whatnow: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:21:37] Dropped "whatnow" from server<STEAM_0:0:897920465>
+[00:21:37] whatnow suicided!
+[00:27:16] Client "adiOS" connected.
+[00:28:55] Client "adiOS" spawned in server <STEAM_0:0:41186306> (took 99 seconds).
+[00:29:31] Client "Джош" connected.
+[00:31:43] Client "Джош" spawned in server <STEAM_0:1:41659573> (took 132 seconds).
+[00:31:52] freedom is slavery was killed by ent_jack_gmod_ezmedkit
+[00:34:57] freedom is slavery was killed by ent_jack_gmod_ezmedkit
+[00:38:11] shtor killed freedom is slavery using wep_jack_gmod_bas
+[00:39:19] shtor killed freedom is slavery using wep_jack_gmod_bas
+[00:51:15] shtor killed Mini_pekka using wep_jack_gmod_bas
+[00:51:20] Dropped "Mini_pekka" from server<STEAM_0:1:809480583>
+[00:51:20] Mini_pekka suicided!
+[00:54:52] Client "YarchaStone" connected.
+[00:56:28] Client "YarchaStone" spawned in server <STEAM_0:0:768420704> (took 96 seconds).
+[00:58:34] YarchaStone: jmod_ez_inv
+[00:59:01] shtor killed YarchaStone using wep_jack_gmod_ezshovel
+[01:00:40] adiOS killed YarchaStone using player
+[01:03:03] Dropped "Джош" from server<STEAM_0:1:41659573>
+[01:03:03] Джош suicided!
+[01:04:02] Client "Vendetta" connected.
+[01:18:38] Client "scarv" connected.
+[01:21:19] Dropped "YarchaStone" from server<STEAM_0:0:768420704>
+[01:21:19] YarchaStone suicided!
+[01:21:59] adiOS killed freedom is slavery using wep_jack_gmod_bas
+[01:22:04] shtor killed adiOS using wep_aboot_jmod_akm
+[01:22:19] shtor killed adiOS using wep_aboot_jmod_akm
+[01:22:32] shtor killed adiOS using wep_aboot_jmod_akm
+[01:22:42] shtor killed adiOS using wep_aboot_jmod_akm
+[01:22:51] shtor killed adiOS using wep_aboot_jmod_akm
+[01:23:05] shtor killed adiOS using wep_aboot_jmod_akm
+[01:23:23] shtor killed adiOS using wep_aboot_jmod_akm
+[01:23:24] Dropped "adiOS" from server<STEAM_0:0:41186306>
+[01:23:24] adiOS suicided!
+[01:24:41] Client "scarv" spawned in server <STEAM_0:1:837092997> (took 363 seconds).
+[01:26:50] Client "t0945591" connected.
+[01:28:07] Dropped "scarv" from server<STEAM_0:1:837092997>
+[01:28:07] scarv suicided!
+[01:30:32] Client "Zoidberg" connected.
+[01:33:33] shtor was killed by build_prop
+[01:34:50] shtor was killed by build_prop
+[01:38:37] Client "scarv" connected.
+[01:39:03] Client "scarv" spawned in server <STEAM_0:1:837092997> (took 26 seconds).
+[01:39:44] Client "KeJin" connected.
+[01:41:34] scarv: Я ЛЮБЛЮ ПЛЫВИСКИ
+[01:42:02] Dropped "scarv" from server<STEAM_0:1:837092997>
+[01:42:02] scarv suicided!
+[01:42:29] freedom is slavery killed shtor using wep_jack_gmod_smg
+[01:43:05] shtor killed freedom is slavery using wep_jack_gmod_smg
+[01:43:08] Client "kosmokot" connected.
+[01:43:15] Dropped "freedom is slavery" from server<STEAM_0:0:806335049>
+[01:43:15] freedom is slavery suicided!
+[01:43:22] Dropped "shtor" from server<STEAM_0:1:780776716>
+[01:43:22] shtor suicided!
+[01:43:59] Client "kosmokot" spawned in server <STEAM_0:0:41186306> (took 51 seconds).
+[01:55:49] kosmokot: supply radio: fulton-crate
+[02:04:52] kosmokot: supply radio: mini bounding mines
+[02:04:56] kosmokot: supply radio: mini bounding mines
+[02:07:59] kosmokot: supply radio: fulton-crate
+[02:10:09] kosmokot: supply radio: tnt
+[02:11:44] Client "Tra ta ta" connected.
+[02:16:30] Client "Wallsee x NPS" connected.
+[02:25:37] Dropped "kosmokot" from server<STEAM_0:0:41186306>
+[02:25:37] kosmokot suicided!
+[02:34:13] Client "Soldier_S.C.A.F" connected.
+[02:38:55] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 282 seconds).
+[02:44:45] Soldier_S.C.A.F: админы (если кто есть) зделайте очистку карты мусора полно пж
+[02:44:56] Soldier_S.C.A.F to admins: админы (если кто есть) зделайте очистку карты мусора полно пж
+[02:45:02] Soldier_S.C.A.F: !menu
+[02:45:12] The time is now 02:45 AM.
+[02:46:44] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[02:46:44] Soldier_S.C.A.F suicided!
+[04:47:32] Client "Сырный пакетик" connected.
+[05:59:10] Client "Redoket" connected.
+[05:59:12] Client "Delixit" connected.
+[05:59:51] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 41 seconds).
+[06:00:57] Client "beliashالله أكبر" connected.
+[06:00:59] Client "Delixit" spawned in server <STEAM_0:0:845226198> (took 107 seconds).
+[06:02:51] Client "beliashالله أكبر" spawned in server <STEAM_0:0:822301453> (took 114 seconds).
+[06:13:52] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgas
+[06:33:13] Client "Добрый волшебник" connected.
+[06:38:31] beliashالله أكبر was killed by ent_rus_gmod_ezpowerline
+[06:38:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsteel
+[06:38:55] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:40:41] Client "Добрый волшебник" spawned in server <STEAM_0:0:807814746> (took 448 seconds).
+[06:45:25] Redoket suicided!
+[06:46:13] Client "Xantares" connected.
+[06:46:14] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:46:14] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:46:14] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:46:17] Dropped "Добрый волшебник" from server<STEAM_0:0:807814746>
+[06:46:17] Добрый волшебник suicided!
+[06:47:10] Client "бугагашенька" connected.
+[06:47:46] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 36 seconds).
+[06:49:09] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:49:09] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:49:11] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:50:57] Dropped "beliashالله أكبر" from server<STEAM_0:0:822301453>
+[06:50:57] beliashالله أكبر suicided!
+[06:51:06] Client "beliashالله أكبر" connected.
+[06:51:33] Client "beliashالله أكبر" spawned in server <STEAM_0:0:822301453> (took 27 seconds).
+[06:52:07] beliashالله أكبر: /P CJKM
+[06:52:16] beliashالله أكبر: /PСОЛОЪ
+[06:52:56] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:52:56] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:52:56] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:53:18] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[06:53:18] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[06:57:19] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:57:19] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:57:20] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[06:59:04] beliashالله أكبر: supply radio: fulton-crate
+[07:00:02] Client "shokoladka" connected.
+[07:01:04] Client "shokoladka" spawned in server <STEAM_0:0:846260107> (took 62 seconds).
+[07:05:03] beliashالله أكبر: supply radio: gold
+[07:05:19] beliashالله أكبر: supply radio: gold
+[07:05:25] Redoket suicided!
+[07:06:25] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_hazmat
+[07:06:29] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[07:06:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[07:07:04] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezuranium
+[07:09:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezweapon_lmg
+[07:09:26] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[07:09:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgas
+[07:29:36] Client "ON" connected.
+[07:31:02] Redoket: FKT
+[07:31:08] Redoket: АЛЕ
+[07:31:18] Redoket: ЧТО НАД
+[07:31:37] Redoket: ВОДА НУЖНА?
+[07:31:46] Redoket: ЧТО
+[07:31:58] Redoket: ПЛОХО СЛЫШ
+[07:32:03] бугагашенька: нет спасибо
+[07:32:09] Redoket: А ОК
+[07:32:16] Redoket: ТАК ЧТО ТЫ ТУТ ДЕЛАЕШЬя?
+[07:32:36] бугагашенька: ищю клан куда вступить, нашел куча тунгестена и купил у 1 клана машину
+[07:32:44] бугагашенька: ну по приколу
+[07:32:51] Redoket: НУ, ЛАДНО
+[07:33:02] Redoket: Я ВРОДЕ САМ ТУТ СПРАВЛЯЮСЬ
+[07:33:10] Redoket: ТОЛЬКО ТЫ НЕ ГОВОРИ НИКОМ ПРО УРАН
+[07:33:15] Redoket: НЕ СТОИТ
+[07:33:24] бугагашенька: окей, мне проблемы не надо
+[07:33:32] Redoket: НУ, ВОТ И ВСЁ
+[07:33:44] бугагашенька: я возможно еще приеду, попробую у тебя купить РИТЭГ
+[07:33:51] Redoket: ОКЭ
+[07:33:51] бугагашенька: ну уранувую штуку для энергии
+[07:33:54] бугагашенька: удачи
+[07:34:00] Redoket: И ТЕБЕ НЕ ХВОРАТ!
+[07:34:00] бугагашенька: а она примерно сколько?
+[07:34:06] Redoket: 700 УРАН
+[07:34:16] бугагашенька: по деньгам
+[07:34:17] Redoket: ИЛИ ТЫ ПРО СТОИМОСТ?
+[07:34:21] бугагашенька: да
+[07:34:27] Redoket: Я ЗАПЛАТИЛ БЫ ТОПЛИВОМ
+[07:34:46] Redoket: 500 ДАВАЙ КОГДА БУДЕТ У ТЕБЯ
+[07:34:53] бугагашенька: щас все будет хах
+[07:34:54] Redoket: ТОГДА СМОЖЕШЬ ПРИХОДИТЬ
+[07:34:56] бугагашенька: жди
+[07:35:04] Redoket: ЧЗХ
+[07:39:42] Redoket: ТАК
+[07:39:46] бугагашенька: усе
+[07:40:01] Redoket: ОКЕЙ
+[07:40:04] Redoket: ЩАС БУДТ
+[07:41:21] Redoket: ДЕРЖ
+[07:41:25] Redoket: ОК
+[07:41:50] Redoket: СПС
+[07:43:43] Client "TypicalName" connected.
+[07:43:55] бугагашенька: вкратце
+[07:43:56] (TEAM) бугагашенька: я
+[07:44:03] бугагашенька: я к вас с НЕОТКАЗНЫМ ПРЕДЛОЖЕНИЕМ
+[07:44:08] бугагашенька: торг уместен
+[07:44:13] бугагашенька: урановый генератор энергии
+[07:44:20] бугагашенька: взамен на то што вам надо
+[07:44:25] бугагашенька: ну не надо и вы можеет продать
+[07:44:31] бугагашенька: но какойто 1 ресурс
+[07:44:33] бугагашенька: окей?
+[07:44:55] бугагашенька: я могу показать генератор но надо базовый части
+[07:45:02] бугагашенька: ну тунгестен самый дорогой и легки
+[07:45:04] бугагашенька: й
+[07:45:09] бугагашенька: што?
+[07:45:12] бугагашенька: я не слышу
+[07:45:24] бугагашенька: понятно
+[07:45:31] бугагашенька: можно у вас взять базовые части?
+[07:47:30] бугагашенька was killed by ent_jack_gmod_ezsentry
+[07:50:21] бугагашенька: я за 10 тунгестена (500 баксов)
+[07:50:27] бугагашенька: возму базовые части
+[07:50:29] бугагашенька: окей?
+[07:50:43] бугагашенька: 52 штуки
+[07:50:49] бугагашенька: я пойду удачи вам!
+[07:55:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[07:56:57] Redoket: ХАЙ
+[07:57:08] Redoket: ЧТО ЭТО У ТЕБЯ
+[07:57:10] бугагашенька: непротив штоб я продавал твой РИТЭГ?
+[07:57:18] (TEAM) бугагашенька: ето то шт оя у тебя купил
+[07:57:18] Redoket: НА ЧТО7?
+[07:57:40] бугагашенька: што скажут, в основном топливо тунгинстен (он по 40 за штуку) и много че
+[07:57:46] бугагашенька: где то так
+[07:57:57] Redoket: ТЫ ИМ ХОЧЕШЬ ПРОДАТЬ?
+[07:58:00] бугагашенька: оборудование буду покупать у тебя если че
+[07:58:05] бугагашенька: да, там 1 клан и все
+[07:58:08] бугагашенька: они отказали
+[07:58:10] Redoket: ДЭАМ
+[07:58:12] Redoket: НУ
+[07:58:13] бугагашенька: а 2
+[07:58:22] бугагашенька: недостаточно развиты штоб их ВОЩЕ ИСПОЛЬЗОВАТЬ
+[07:58:29] Redoket: ЗНАЕШЬ У НАС НЕМНОГО ТАКИЕ СЕБЕ
+[07:58:32] Redoket: ОТНОШЕНИЯ
+[07:58:37] Redoket: ЛУЧШЕ НЕ СТОИТ
+[07:58:45] Redoket: ХОТЯ ЭТО ТВОЁ ДЕЛО
+[07:58:48] бугагашенька: не бойся, я скажу што мое
+[07:58:53] Redoket: ЗА ПОСЛЕДСТВИЯ Я НЕ РУЧАЮСЬ
+[07:59:00] Redoket: ОК
+[07:59:01] бугагашенька: можно я куплю у тебя топливо?
+[07:59:45] бугагашенька: так покупаю?
+[07:59:57] Redoket: СОРЯН НО НТ
+[08:00:03] Redoket: У МЕНЯ ЭТО И ТАК НЕТУ
+[08:00:10] бугагашенька: все просрал?
+[08:00:13] Redoket: Я ИЗЗА ЭТОГО У ТЕБЯ ПОКУПЛ
+[08:00:18] Redoket: НЕТ ЕЩЁ
+[08:00:25] бугагашенька: не продаеш да?
+[08:00:30] Redoket: НО Я ЭГО ПРОДАВАТ НЕ БУДУ
+[08:00:37] Redoket: НЕТ
+[08:00:45] бугагашенька: лады я поехал друг если не будеш продавать
+[08:00:47] бугагашенька: удачи!
+[08:00:49] Redoket: ОК
+[08:00:51] бугагашенька: еще заеду если че
+[08:00:56] Redoket: И ТЕБЕ НЕ ХВОРАТЬ!!!
+[08:03:19] Client "Rackman" connected.
+[08:03:49] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 30 seconds).
+[08:03:58] Redoket: 'nj
+[08:04:05] Redoket: ЭТО
+[08:04:12] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/fence01a.mdl
+[08:04:12] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:04:12] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:04:12] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:04:12] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:04:12] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[08:04:12] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:04:12] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[08:04:12] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[08:04:12] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:04:20] Redoket: Я ХОТЕЛ СНАРЯЖЕНИЕ ЗАБРАТЬ СВОЁ
+[08:04:32] Redoket: ЧТО С МАШИНЫ
+[08:04:41] Redoket: КОГДА Я УМЕР
+[08:04:54] Redoket: ВАШ ЧЕЛ МЕНЯ ВЗОРВЛ
+[08:05:05] Client "vasiliy karat" connected.
+[08:05:10] Redoket: А ВЕЩИ МОИ
+[08:05:14] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/fence01a.mdl
+[08:05:14] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:05:14] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:05:14] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:05:14] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:05:14] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[08:05:14] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:05:14] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[08:05:14] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[08:05:14] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[08:05:23] Redoket: ИХ ТАМ НЕТ
+[08:05:34] Redoket: О ДАРОВА
+[08:05:50] Redoket: У ТЕБЯ МОЙ ПУЛЕМЁТ
+[08:05:54] Redoket: ВЕРНИ
+[08:06:01] Redoket: ЕГО У ТЕБЯ НЕ БЫЛО
+[08:06:07] Redoket: ВЕРНИ
+[08:06:09] Redoket: ИНАЧЕ
+[08:06:13] Redoket: ПОСЛЕДСТВИЯ
+[08:06:24] Redoket: ВСЁ
+[08:06:24] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 79 seconds).
+[08:06:33] Redoket: ПОКА БУДЕМ СЧИТАТЬ ЧТО СОЧЛИСЬ
+[08:06:48] Redoket: И НЕ ТЫЧЬ В МЕНЯ СВОИМИ ПУКАЛКАМИ
+[08:06:55] Redoket: Я ИОЖЕ МОГУ
+[08:07:02] Delixit: писать научись
+[08:07:03] Redoket: B
+[08:07:15] Redoket: ВСЕ
+[08:07:31] Redoket: ЧТОТО НАМЕЧАЁТСЯ
+[08:07:34] Rackman: !menu
+[08:07:40] Rackman granted god mode upon Themself
+[08:07:40] Redoket: ЭТО МЫ ПОСМОТРИМ
+[08:07:43] Rackman cloaked Themself by amount 0
+[08:07:44] Rackman cloaked Themself by amount 0
+[08:08:13] Redoket: ПРИВ
+[08:08:15] vasiliy karat: ПРИВЕТ
+[08:08:30] Redoket: ЧЁТА КТО ТА ЕСТЬ
+[08:08:33] Redoket: ЧОТА ИНТЕРЕСНО
+[08:08:37] Redoket: ПОСМОТРИМ
+[08:09:09] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:09:55] vasiliy karat: ЗДРАСТЕ
+[08:10:08] vasiliy karat: Я ИЩУ ФРАКЦИЮ ДЛЯ ВСТУПЛЕНИЯ К ВАМ МОЖНО?
+[08:10:21] vasiliy karat: А ЧТО ВЫ ЗА ФРАКЦИЯ
+[08:10:30] Delixit: да
+[08:11:09] бугагашенька: вы преглашаете меня в команду???
+[08:11:17] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[08:12:14] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[08:12:33] vasiliy karat to admins: БУДУ ПОДГАВАРИВАТЬ ЛИДЕРА НА РАЗРЫВ АЛЬЯНСА И ВНЕЗАПНОЕ НАПАДЕНИЕ
+[08:12:38] vasiliy karat: ПОЧЕМУ 
+[08:12:43] vasiliy karat: МЫ В АЛЬЯНСЕ
+[08:12:44] shokoladka: ?
+[08:12:47] vasiliy karat: С ОБЕЗЬЯНАМИ
+[08:12:48] Redoket: !MENU
+[08:12:55] vasiliy karat: ПУСТЬ ПО КЛЕТКАМ В ЗООПАРКАХ СИДЯТ
+[08:13:00] shokoladka: надо так
+[08:13:06] vasiliy karat: НЕНАДА
+[08:13:14] shokoladka: В ЧЕМ ПРОБЛЕМА?
+[08:13:16] vasiliy karat: НУЖНО РАЗВИТЬСЯ И ПОКАЗАТЬ ГДЕ ИХ МЕСТО
+[08:13:25] shokoladka: Я ЗНАЮ ГДЕ ОНИ\
+[08:13:26] vasiliy karat: РАЗОРВАТЬ АЛЬЯНС И ВЫГНАТЬ С РЕГИОНА!
+[08:13:29] vasiliy karat: ТОЛЬКО
+[08:13:30] vasiliy karat: ПОТОМ
+[08:13:33] vasiliy karat: МЫ НЕ ГОТОВЫ
+[08:13:36] vasiliy karat: А ТАК
+[08:13:43] Redoket to admins: ЭПИК
+[08:13:44] vasiliy karat: Я БУДУ ДЕЛАТЬ ЧТО ТЫ СКАЖЕШ
+[08:13:51] shokoladka: ОК
+[08:14:36] vasiliy karat: НЕНАДА СДЕЛО
+[08:14:38] vasiliy karat: НАЗОВИТЕ
+[08:14:40] vasiliy karat: ЭТО
+[08:14:42] vasiliy karat: ПРЕДЛОЖЕНИЕ
+[08:14:46] vasiliy karat: НО НЕ СДЕЛКА
+[08:15:01] бугагашенька: я подожду немного
+[08:15:20] vasiliy karat: ХММ
+[08:15:26] vasiliy karat: ЛИДЕР
+[08:15:27] vasiliy karat: ЧТО СКАЖЕТЕ
+[08:15:34] shokoladka: НУ Я НЕ ПРОТИВ
+[08:15:46] shokoladka: Я СОГЛАШАЮСЬ
+[08:16:06] shokoladka: АГА
+[08:16:35] vasiliy karat: ЗДРАСТВУЙТЕ
+[08:16:38] бугагашенька: я к вам с предложением
+[08:16:43] бугагашенька: кое каким
+[08:16:48] бугагашенька: но скорее всего вы откажитеся
+[08:16:52] shokoladka: МЫ ПОКА НЕ МОЖЕМ
+[08:16:53] бугагашенька: иза вашего малого развития
+[08:16:59] бугагашенька: ладно
+[08:17:04] vasiliy karat: ИНВЕСТИРУЙТЕ В НАШЕ РАЗВИТИЕ
+[08:17:09] shokoladka: У НАС СДЕЛАКА С БИБИЗЯНАМИ
+[08:17:11] бугагашенька: я прост осказать што я могу если што продать вам РИТЭГ
+[08:17:18] shokoladka: НЕЕЕТ
+[08:17:20] бугагашенька: знаете што ето?
+[08:17:31] vasiliy karat: НЕ УВЕРЕН
+[08:17:32] shokoladka: Я ЗНАЮ,НОО...
+[08:17:42] vasiliy karat: !menu
+[08:17:43] бугагашенька: вкратце штука для выробатки энергии через уран
+[08:17:55] shokoladka: У НАС ПОКА НУЛЕВАЯ БАЗА
+[08:17:55] бугагашенька: максимальный уровень энергии
+[08:17:55] Client "Гуччи Бургер" connected.
+[08:17:58] бугагашенька: ну да
+[08:18:00] shokoladka: Я ЗНАЮ
+[08:18:02] бугагашенька: я вас сказать
+[08:18:15] бугагашенька: когда будете СИЛЬНЫМИ и БОЛЬШЫМИ позовите, или я к вам прийду
+[08:18:19] бугагашенька: если шт оя могу и покупать
+[08:18:28] vasiliy karat: А МОЖЕТЕ ЦЕНУ НАЗВАТЬ ЭТО ЖЕ ВСЕ НЕ БЕСПЛАТНО
+[08:18:32] бугагашенька: машины,ресурсы,и всякие штуки
+[08:18:34] бугагашенька: хммм
+[08:18:37] shokoladka: ОК
+[08:18:58] Client "RusLanConnection" connected.
+[08:18:59] бугагашенька: примерно 30000-100000 
+[08:19:07] vasiliy karat: БОЛЬШОЙ РАЗБРОС
+[08:19:08] бугагашенька: торг уместен
+[08:19:13] shokoladka: пока что не соглашаемся
+[08:19:16] бугагашенька: ну давайте 50000
+[08:19:25] бугагашенька: могу со временем поднять, так што думайте
+[08:19:25] shokoladka: нет у нас деня
+[08:19:29] бугагашенька: удачи вам мои друзья!
+[08:19:31] shokoladka: денег вообще нету
+[08:19:45] vasiliy karat: ШОКОЛАД
+[08:19:57] vasiliy karat: У МЕНЯ К ТЕБЕ ПРЕДЛОЖЕНИЕ ОДНО
+[08:20:06] Client "Henali" connected.
+[08:20:12] vasiliy karat: МОЖЕТ БИБИЗЯН ПОДГОВОРИТЬ ЧТОБЫ ОНИ ОТНЯЛИ У НИХ И ОТДАЛИ НАМ 
+[08:20:15] vasiliy karat: ЭТОТ РИТЕГ
+[08:20:20] vasiliy karat: ЗАЧЕМ СИЛЬНЫЕ РАЗВИТЫЕ ДРУЗЬЯ
+[08:20:28] vasiliy karat: ЕСЛИ ОНИ НЕ МОГУТ ОТНЯТЬ
+[08:20:39] shokoladka: ну можно
+[08:20:44] shokoladka: впринцепи
+[08:20:55] vasiliy karat: ПОСТАВЬ РАДИО И ПОПРОБУЕМ СВЯЗАТЬСЯ С НИМИ
+[08:21:13] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 135 seconds).
+[08:21:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_rocketlauncher
+[08:21:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_rocketlauncher
+[08:22:27] vasiliy karat: ОКЕЙ
+[08:23:04] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_flak
+[08:23:46] RusLanConnection teleported to vasiliy karat
+[08:24:12] vasiliy karat: РУСЛАН КОНЕШКЕН ВСТУПАЙ ВО ФРАКЦИЮ НАМ ЩАС НАШИ 
+[08:24:14] vasiliy karat: ДРУЗЬЯ
+[08:24:16] vasiliy karat: ОТНИМУТ
+[08:24:20] vasiliy karat: У ДРУГИЗ
+[08:24:22] vasiliy karat: И НАМ ПРИНЕСУТ
+[08:24:26] vasiliy karat: РИТЕГ
+[08:24:36] shokoladka: хахаха
+[08:24:40] shokoladka: ок
+[08:24:58] shokoladka: ну да
+[08:25:02] vasiliy karat: ШОКОЛАД ПОЗВОНИ\
+[08:25:05] vasiliy karat: ПОЗВОНИ ДРУГАМ
+[08:25:27] shokoladka: а как (я прост не давно на серваке)
+[08:25:35] vasiliy karat: ТОГДА СЕКУНДУ
+[08:25:55] vasiliy karat: У НАС ЕСТЬ ДЕНЬГИ?
+[08:25:59] shokoladka: нет
+[08:25:59] vasiliy karat: 450 ДЖУБАКСОВ?
+[08:26:04] shokoladka: ноу
+[08:26:08] vasiliy karat: ДА
+[08:26:09] vasiliy karat: ДА
+[08:26:16] vasiliy karat: БИБИЗЯНЫ
+[08:26:17] vasiliy karat: НЕТ
+[08:26:20] vasiliy karat: ПРИЕЗЖАЙТЕ
+[08:26:22] vasiliy karat: ПОГОВОРИМ 
+[08:26:38] vasiliy karat: ПРОДАВАЙ
+[08:26:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[08:26:46] vasiliy karat to admins: Я НЕ МОГУ
+[08:26:51] vasiliy karat to admins: ЩАС ДВУЖУХУ
+[08:26:56] vasiliy karat to admins: И ВОТ ПОТОМ
+[08:27:02] RusLanConnection teleported to Redoket
+[08:27:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[08:27:14] vasiliy karat: МАЛОВАТО
+[08:27:19] vasiliy karat: ПРОДАЙ 200 ТУНГУСТЕНА
+[08:27:37] Client "Гуччи Бургер" spawned in server <STEAM_0:0:715326629> (took 582 seconds).
+[08:27:48] shokoladka: 7
+[08:28:17] Гуччи Бургер: /y <color=255,0,0>СДАВАЙСЯ!<color=65,105,225>ОРУЖИЕ ИЗ РУК УБРАЛ!<color=100,120,0>РУКИ ВВЕРХ!
+[08:28:20] Гуччи Бургер: /me показал военный билет: [115241] [Обуньков Д.Д] {РЯД} [ПДР] [-]
+[08:28:21] vasiliy karat: ОТПРАВЛЯЙ
+[08:28:22] vasiliy karat: АЛЬТ У
+[08:28:25] vasiliy karat: В
+[08:28:35] vasiliy karat: ВОЗЬМИ НОРМ ПУШКИ Я НАКРАФТИЛ ЧУЧУТЬ
+[08:28:38] vasiliy karat: ВОТ В ЯЩИКЕ
+[08:28:56] vasiliy karat: ВО
+[08:28:59] vasiliy karat: ДЕСЯТКА
+[08:29:10] vasiliy karat: А
+[08:29:20] shokoladka: что кому отправить?
+[08:29:31] vasiliy karat: ОНИ УЖЕ ПО РАДИО СКАЗАЛИ ЧТО
+[08:29:33] vasiliy karat: ЛЕТЯТ НА ВЕРТЕ
+[08:29:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[08:29:38] shokoladka: ну
+[08:29:39] shokoladka: а
+[08:29:42] vasiliy karat: ХОТЯ ЧЕТ НЕ ЛЕТЯТ
+[08:29:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_pistol
+[08:29:45] vasiliy karat: ЭЙ
+[08:29:47] vasiliy karat: ПРИЕМ
+[08:29:48] vasiliy karat: ПРИЕМ
+[08:29:48] shokoladka: у них вертолет сбили
+[08:29:57] vasiliy karat: ДАВАЙТЕ
+[08:29:58] vasiliy karat: ПО РАДИО
+[08:30:03] vasiliy karat: МЫ ПРОСТО ХОТИМ
+[08:30:05] vasiliy karat: ПО РАДИО
+[08:30:13] vasiliy karat: ЕСТЬ ФРАКЦИЯ ТОРГАШИ
+[08:30:22] Client "maksumkolesnukov022" connected.
+[08:30:24] vasiliy karat: ВЫ ЖЕ НАШИ ДРУЗЬЯ ВЕРНО
+[08:30:36] Гуччи Бургер: /ooc что тут делать надо нахуй
+[08:30:41] shokoladka: повтори ему
+[08:30:41] vasiliy karat: ОТНИМИТЕ У ТОРГАШЕЙ РИТЕГ И НАМ ЕГО ОТДАЙТЕ ИНВЕСТИЦИЯ 
+[08:30:42] vasiliy karat: В НАШЕ
+[08:30:48] vasiliy karat: ОБЩЕЕ
+[08:30:49] shokoladka: бля повтори
+[08:30:51] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 29 seconds).
+[08:30:51] vasiliy karat: БУДУЩЕЕ
+[08:31:09] vasiliy karat: ПОМОЕМУ ОНИ НЕ СЛЫШАЛИ
+[08:31:12] vasiliy karat: ОТОШЛИ ОТ РАДИО
+[08:31:13] vasiliy karat: НУ ЛАДНО
+[08:31:18] vasiliy karat: А ВОТ
+[08:31:27] vasiliy karat: ДАВАЙТЕ МЫ ПОМОЕМ
+[08:31:30] vasiliy karat: ПОМОЖЕМ
+[08:31:35] Redoket: !menu
+[08:31:45] Redoket brought maksumkolesnukov022
+[08:31:51] vasiliy karat: ЛАДНО
+[08:31:51] maksumkolesnukov022: ку
+[08:31:56] maksumkolesnukov022: на спавне нашёл
+[08:32:00] shokoladka:  блин
+[08:32:00] vasiliy karat: ДАВАЙ РАЗОВЬЕМСЯ СТЕНЫ ПОСТРОИМ
+[08:32:04] vasiliy karat: ЧТОЛИ
+[08:32:05] shokoladka: ок
+[08:32:08] maksumkolesnukov022: РУСЛАН КОГДА СВАРКА
+[08:32:09] maksumkolesnukov022: ГАВНАЕД
+[08:32:13] vasiliy karat: БУР ПОСТАВИМ НА КЕРАМИКУ
+[08:32:22] shokoladka: она за текстурами
+[08:32:25] vasiliy karat: А
+[08:32:29] maksumkolesnukov022: он уже забрал у меня админку
+[08:32:33] maksumkolesnukov022: он ничего не сделает уже
+[08:32:39] vasiliy karat: ОКЕЙ
+[08:32:41] RusLanConnection teleported and jailed maksumkolesnukov022
+[08:32:45] maksumkolesnukov022: ой
+[08:32:56] vasiliy karat: СКРАФТИ ТУЛ БОКС
+[08:33:00] vasiliy karat: А ВО
+[08:33:02] vasiliy karat: Я ДУМАЛ ТЫ РАДИО
+[08:33:08] vasiliy karat: НУ ВСЕ КАРОЧЕ
+[08:33:08] maksumkolesnukov022: НЕ БУДЕТ У ТЕБЯ ЯДЕР
+[08:33:11] vasiliy karat: РАЗБИРАЙ Я ТУТ ПОСМОТРЮ РУДЫ
+[08:33:37] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs.mdl
+[08:33:43] maksumkolesnukov022: РАДИО ТОЖЕ НЕ ДАМ
+[08:33:43] vasiliy karat: ВО
+[08:33:51] maksumkolesnukov022: ХВАТИТ ЭТО ТЕРПЕТЬ
+[08:33:56] maksumkolesnukov022: ТРОН ЗАШАТАЛСЯ
+[08:33:59] maksumkolesnukov022: СВОБОДУ ПОПУГАЯМ
+[08:34:01] maksumkolesnukov022: ой не то
+[08:34:37] vasiliy karat: О КРУТЯК
+[08:35:16] vasiliy karat: ДАВАЙТЕ
+[08:35:18] vasiliy karat: ОТНИМЕМ
+[08:35:22] vasiliy karat: РИТЕГ У ТОРГОВЦЕВ
+[08:35:33] vasiliy karat: ПРОСТО УЛЬТИМАТУМ ПОСТАВЬТЕ
+[08:35:52] vasiliy karat: КОНЕЧНО ПОД ЗАЩИТОЙ
+[08:35:57] vasiliy karat: ЕГО НУНО В ПОМЕЩЕНИЕ
+[08:36:02] vasiliy karat: ОН РАДИАКТИВНЫЙ
+[08:36:24] vasiliy karat: ДА ЗАЧЕМ ПЛАН ПРОСТО УЛЬТИМАТУМ СТАВЬТЕ 
+[08:36:28] vasiliy karat: СИЛОЙ ЗАБЕРЕМ
+[08:36:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[08:36:36] vasiliy karat: ЧЕ ОНИ ОДНИ ПОЛЬЗУЮТСЯ
+[08:36:39] vasiliy karat: ВСЕМ НАДО
+[08:36:41] vasiliy karat: И ЗАБИРАЕМ
+[08:36:41] maksumkolesnukov022: дай мне
+[08:36:45] RusLanConnection stripped weapons from Redoket
+[08:36:45] RusLanConnection: !strip Redoket
+[08:36:47] vasiliy karat: САМИ ОТДАДУТ ДАЖЕ
+[08:36:53] vasiliy karat: НУ ДАВАЙТЕ ТОГДА МЫ
+[08:36:57] Гуччи Бургер: где я блять
+[08:36:58] vasiliy karat: А ВЫ НАС ПРОСТО 
+[08:37:01] Гуччи Бургер: че тут ваще делать
+[08:37:01] vasiliy karat: ПРОФИНАНСИРУЕТЕ
+[08:37:07] vasiliy karat: МЫ МОЖЕМ
+[08:37:08] vasiliy karat: ПОМОЧЬ
+[08:37:12] vasiliy karat: САДИМСЯ
+[08:37:22] vasiliy karat: ПОШЛИ ПОМОЖЕМ БРАТКАМИ
+[08:37:27] Гуччи Бургер: ЧЕ ТУТ ДЕЛАТЬ НАХЪУЙ НУЖНо
+[08:37:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_pistol
+[08:37:32] maksumkolesnukov022: ладно я принзнаю свою ошибку я больше не буду
+[08:37:34] maksumkolesnukov022: понять и простить
+[08:37:36] RusLanConnection unjailed maksumkolesnukov022
+[08:37:41] vasiliy karat: ХОТЯ ДА ЗНАЕШЬ
+[08:37:42] Гуччи Бургер: ну а где лут брать
+[08:37:43] vasiliy karat: ПУСТЬ САМИ
+[08:37:45] Гуччи Бургер: где оружие брать
+[08:37:45] vasiliy karat: РАЗБИРАЮТСЯ
+[08:37:49] vasiliy karat: ВОТ ТАКАЯ ВОТ 
+[08:37:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_pistol
+[08:37:52] vasiliy karat: ДИПЛОМАТИЯ
+[08:38:02] Гуччи Бургер: так я это взял где то
+[08:38:18] Гуччи Бургер: ну блять объясните
+[08:38:21] Гуччи Бургер: а не уходить
+[08:38:31] Гуччи Бургер: новичку объясните как играть здесь
+[08:39:04] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[08:39:04] maksumkolesnukov022 suicided!
+[08:39:11] Гуччи Бургер: можешь отвезти?
+[08:39:55] shokoladka: мискил
+[08:40:02] shokoladka: мисклик
+[08:40:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[08:40:42] Гуччи Бургер: давай
+[08:40:50] Гуччи Бургер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:40:59] Гуччи Бургер: че за плывиски
+[08:41:03] Гуччи Бургер: я это не писал
+[08:41:07] shokoladka: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:41:08] shokoladka: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:41:08] shokoladka: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:41:13] Гуччи Бургер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:41:19] Гуччи Бургер: в ф4
+[08:41:21] Гуччи Бургер: какой клан?
+[08:41:55] vasiliy karat: В МОТД
+[08:41:57] vasiliy karat: ВСЕ ЕСТЬ
+[08:42:04] Гуччи Бургер: !motd
+[08:42:07] shokoladka: да
+[08:42:13] shokoladka: !motd
+[08:42:30] (TEAM) shokoladka: h
+[08:42:33] Гуччи Бургер: f rfr 
+[08:42:35] Гуччи Бургер: а как биндить
+[08:42:56] shokoladka: bind 
+[08:43:19] Гуччи Бургер: вписал
+[08:43:22] Гуччи Бургер: что дальше?
+[08:43:23] shokoladka: i
+[08:43:39] Гуччи Бургер: а мы воевать с кем то будем?
+[08:43:47] Гуччи Бургер: /drop
+[08:43:55] vasiliy karat: БУДЕМ ВОЕВАТЬ
+[08:43:57] Гуччи Бургер: нет
+[08:44:00] vasiliy karat: Я УВЕРЕН
+[08:44:05] Гуччи Бургер: как выбросить
+[08:44:07] Гуччи Бургер: повтори
+[08:44:17] vasiliy karat: МЫ ПОСТАВИМ ИМ УЛЬТИМАТУМ!
+[08:44:20] shokoladka: ,'rcgtqc
+[08:44:25] vasiliy karat: ЛИБО ПУСТЬ ВЫПОЛНЯЮТ УСЛОВИЕ
+[08:44:26] vasiliy karat: ЛИБО
+[08:44:27] shokoladka: бекспейс
+[08:44:30] vasiliy karat: МЫ ВВОДИМ ВОЙСКА
+[08:44:35] Гуччи Бургер: так давайте щяс меня обучите 
+[08:44:40] Гуччи Бургер: и сделаем им окупацию
+[08:44:44] Гуччи Бургер: СВО точнее сделаем им
+[08:45:01] vasiliy karat: ДА ЕМАЕ
+[08:45:07] vasiliy karat: КТО
+[08:45:09] Гуччи Бургер: будем малаю ебашить
+[08:45:10] vasiliy karat: МАЛАЯ ЛАНКОМИЯ
+[08:45:13] Гуччи Бургер: и торговцов
+[08:45:23] vasiliy karat: НЕ ПУСТЬ ПРИХОДЯТ И ГОВОРЯТ НА КАКИХ УСЛОВИЯХ АЛЬЯНС
+[08:45:46] Гуччи Бургер: бекспейс в инвентаре?
+[08:45:48] Гуччи Бургер: или где
+[08:45:57] vasiliy karat: Я ЩАС АФК МИНУТУ
+[08:46:00] Гуччи Бургер: че за бекспейс
+[08:46:11] Гуччи Бургер: конечно
+[08:46:29] Гуччи Бургер: у меня только кпас и таб
+[08:46:33] Гуччи Бургер: ниче другого
+[08:46:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezweapon_lmg
+[08:46:46] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezweapon_rocketlauncher
+[08:46:47] shokoladka: чтоб удалить текст 
+[08:46:52] shokoladka: кнопка
+[08:46:58] Гуччи Бургер: а
+[08:47:00] Гуччи Бургер: ебать
+[08:47:07] Гуччи Бургер: ага
+[08:47:23] Гуччи Бургер: jmod_ez_inv вот это же надо было биндить?
+[08:47:39] shokoladka: bind и например i
+[08:47:46] Гуччи Бургер: я уже забиндил
+[08:48:18] Гуччи Бургер: да
+[08:48:30] Гуччи Бургер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:48:33] shokoladka: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:48:33] shokoladka: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:48:33] shokoladka: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:48:33] shokoladka: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:48:39] vasiliy karat: ПЛЫВИСКИ
+[08:48:43] vasiliy karat: ГЛУБОКИЙ ЛОР
+[08:48:48] vasiliy karat: ЛОСТ МЕДИЯ
+[08:48:53] vasiliy karat: Я ПОМНЮ
+[08:48:54] Гуччи Бургер: у меня 6 недоступно
+[08:48:56] vasiliy karat: Я ТАМ БЫЛ
+[08:49:22] Гуччи Бургер: а где я буду появлятся?
+[08:49:25] Гуччи Бургер: тту же?
+[08:49:28] Client "KTO" connected.
+[08:49:45] Гуччи Бургер: тоесть если меня убьют то я заспавнюсь в пизде мира какой то?
+[08:49:56] vasiliy karat: ВОН СПАВНЕР СТОИТ
+[08:50:02] vasiliy karat: ИЛИ НЕТ
+[08:50:03] vasiliy karat: ВОТ
+[08:50:05] vasiliy karat: ДА ВОТ
+[08:50:15] vasiliy karat: ТАМ ЕСТЬ ГАЙД
+[08:50:18] Client "KTO" spawned in server <STEAM_0:0:12354372> (took 50 seconds).
+[08:50:20] Гуччи Бургер: дай мне оружие тогда пойдем убивать негодяев
+[08:50:20] vasiliy karat: ВИДЕО ГАЙД ОТ СОЗДАТЕЛЯ
+[08:50:25] бугагашенька: здрасте
+[08:50:31] Dropped "KTO" from server<STEAM_0:0:12354372>
+[08:50:31] KTO suicided!
+[08:50:36] vasiliy karat: ДА ЗАЧЕМ
+[08:50:38] бугагашенька: окей
+[08:50:39] vasiliy karat: МЯСНОЙ ШТУРМ
+[08:50:41] vasiliy karat: И ПОШЕЛ
+[08:50:42] Гуччи Бургер: Да
+[08:50:42] vasiliy karat: УРААА
+[08:50:43] Гуччи Бургер: Да 
+[08:50:44] Гуччи Бургер: да
+[08:50:45] vasiliy karat: ГРАНАТЫ
+[08:50:50] Гуччи Бургер: Василый правильно говорит
+[08:50:51] vasiliy karat: РУЖЬЯ
+[08:50:52] бугагашенька: вкратце
+[08:50:55] Гуччи Бургер: мы как побежим на них
+[08:50:57] Гуччи Бургер: они обосрутся
+[08:51:02] Гуччи Бургер: и  будут сдаватся
+[08:51:03] vasiliy karat: УМИРАЕМ СПАВНИМСЯ БЕРЕМ ОРУЖИЯ И
+[08:51:03] бугагашенька: я по поводу предложения присоидинится к вам в клан
+[08:51:06] vasiliy karat: БЕЗ ПЕРЕДЫШКИ
+[08:51:07] vasiliy karat: БЕЖИМ
+[08:51:09] бугагашенька: вы знаете?
+[08:51:09] vasiliy karat: УРАААААА
+[08:51:10] shokoladka: да
+[08:51:13] vasiliy karat: ЗАКИДЫВАЕМ ГРЕНАМИ
+[08:51:21] vasiliy karat: ОНИ ОБАСРУТСЯ САМИ СДАДУТСЯ
+[08:51:23] shokoladka: хахах ты про что
+[08:51:24] бугагашенька: вас плохо слышно в чат 
+[08:51:28] vasiliy karat: ПРО ШТУРМ
+[08:51:31] shokoladka: бля пон
+[08:51:34] vasiliy karat: ТОРГАШИ ЖЕ ГОРДЫЕ
+[08:51:40] vasiliy karat: ПОЛЮБОМУ УСЛОВИЯ НАШИ НЕ ПРИМУТ
+[08:51:43] shokoladka: он один там
+[08:51:44] vasiliy karat: И БУДУТ ВОЕВАТЬ С НАМИ
+[08:51:45] Гуччи Бургер: пошлите брать тогда оружие
+[08:51:54] beliashالله أكبر: АЛЬЯНС ИЛИ ЧТО
+[08:51:57] shokoladka: идем за мной
+[08:52:16] бугагашенька: ВАШ ДРУГ ПРЕДЛОЖИЛ ВСТУПИТЬ К ВАМ
+[08:52:25] Гуччи Бургер: а как одеть
+[08:52:30] бугагашенька: ИМЕННО В КАЧЕСТВЕ ЧЕЛОВЕКА А НЕ АЛЬЯНСА
+[08:52:33] бугагашенька: ПОНЯЛИ?
+[08:52:39] vasiliy karat: КРУТАЯЯ КЕПКА
+[08:52:42] Гуччи Бургер: как скин сменить
+[08:52:46] Гуччи Бургер: Мы как фашисты
+[08:52:54] vasiliy karat: НУ ДА
+[08:52:59] vasiliy karat: !motd
+[08:53:06] vasiliy karat: playermodel_selector - поменять скин
+[08:53:07] бугагашенька: ну у меня нет в общество базы, там есть  заброшеная, я могу ресы от туд�
+[08:53:07] Гуччи Бургер: осталось только тигры сделать
+[08:53:08] бугагашенька: там
+[08:53:11] Гуччи Бургер: и штурмом поехать на них
+[08:53:15] Гуччи Бургер: playermodel_selector
+[08:53:21] бугагашенька: 2 паровые печи на 4 уровень вроде
+[08:53:21] Гуччи Бургер: !playermodel_selector
+[08:53:23] бугагашенька: што?
+[08:53:24] vasiliy karat: НЕТ
+[08:53:26] Гуччи Бургер: /playermodel_selector
+[08:53:29] бугагашенька: ага
+[08:53:37] vasiliy karat: МЫ БОГАТЫ МОЖЕМ ЗАКАЗАТЬ С  БОЛЬШОЙ ЗЕМЛИ
+[08:53:40] vasiliy karat: ПО РАДИО
+[08:53:41] бугагашенька: он уже тут у меня
+[08:53:46] vasiliy karat: НУ У НАС 30 К
+[08:53:50] vasiliy karat: ОН СТОИТ 10
+[08:53:52] vasiliy karat: ДА
+[08:53:54] vasiliy karat: ПОЛОВИНА
+[08:53:59] vasiliy karat: СЧИТАЙ
+[08:54:01] vasiliy karat: НО СТОИТ
+[08:54:05] shokoladka: ага
+[08:54:08] Гуччи Бургер: торговцов нету?
+[08:54:10] vasiliy karat: НАЙДИ ЕГО
+[08:54:11] Гуччи Бургер: их уже выебали?
+[08:54:14] shokoladka: нет
+[08:54:17] vasiliy karat: ДА НАЙДЕМ
+[08:54:21] vasiliy karat: У КОГО ЧЕ ОТНЯТЬ
+[08:55:13] vasiliy karat: ДАВАЙТЕ ПРЕВРАТИМ МАЛУЮ ЛАНКОМИЮ В РАБА
+[08:55:26] vasiliy karat: ОНИ ДОЛЖНЫ
+[08:55:30] vasiliy karat: ОТВЕТИИТЬ ПЕРЕД СУДОМ
+[08:55:42] vasiliy karat: ПУСТЬ ОТПРАВЯТ НАМ ВИНОВНОГО
+[08:55:48] vasiliy karat: НУ ТОЕСТЬ ПУСТЬ САМ ПРИЙДЕТ
+[08:56:02] vasiliy karat: РАСТРЕЛЯЕМ И ЗАБЕРЕМ ВЕЩИ В КОМПЕНСАЦИЮ
+[08:56:10] vasiliy karat: НУ ВОТ
+[08:56:36] vasiliy karat: ПОТРЕБУЙ НЕВЫПОЛНИМЫХ УСЛОВИЙ
+[08:56:40] vasiliy karat: И ПОЙДЕМ
+[08:56:47] vasiliy karat: В ЗЕРГ РАШ
+[08:56:53] vasiliy karat: ГУЧИ
+[08:56:58] vasiliy karat: У ТЕБЯ ВИНТОВКА ЕСТЬ?
+[08:56:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpumpjack
+[08:57:02] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[08:57:02] Гуччи Бургер: нету сэр
+[08:57:13] Гуччи Бургер: я взял ее?
+[08:57:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpumpjack
+[08:57:13] vasiliy karat: ВСЕ НА АЛЬТ+У
+[08:57:21] vasiliy karat: ВОТ ПАТРАШКИ
+[08:57:21] shokoladka: ко мне так обращайся
+[08:57:22] Гуччи Бургер: мне нужны патроны
+[08:57:31] vasiliy karat: УЛЕТЕЛИ
+[08:57:32] shokoladka: ты чо
+[08:58:02] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[08:58:02] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[08:58:04] Гуччи Бургер: ехала пидоров ебашить
+[08:58:08] vasiliy karat: ЩАС ЩАС
+[08:58:11] vasiliy karat: СОБЛЮДЯТСЯ ВСЕ
+[08:58:18] vasiliy karat: ПОДГОТВИТЕЛЬНЫЕ СОБЫТИЯ
+[08:58:20] vasiliy karat: И ПОЙДЕМ
+[08:58:22] Гуччи Бургер: жалко конечно что винтовка
+[08:58:24] Гуччи Бургер: а не автомат
+[08:58:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsteel
+[08:58:33] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[08:58:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezprecparts
+[08:58:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezprecparts
+[08:58:49] vasiliy karat: ПОШЛИТЕ
+[08:58:50] vasiliy karat: ПОШЛИТЕ
+[08:58:52] vasiliy karat: БЫСТРЕЕ
+[08:59:06] Client "The crazy rabbit" connected.
+[08:59:08] Гуччи Бургер: мы победим
+[08:59:10] Гуччи Бургер: парни
+[08:59:23] vasiliy karat: ДАВАЙТЕ
+[08:59:24] vasiliy karat: Я ГРАНАТ
+[08:59:25] vasiliy karat: СДЕЛАЮ
+[08:59:36] Гуччи Бургер: Василый делай хорошое оружие
+[08:59:41] Гуччи Бургер: что бы пидоров въебать можно было
+[08:59:57] vasiliy karat: ГУЧИ
+[08:59:59] vasiliy karat: ТЫ УМЕЕШЬ
+[09:00:02] vasiliy karat: ПОЛЬЗОВАТЬСЯ
+[09:00:04] Гуччи Бургер: да
+[09:00:10] Гуччи Бургер: а как в инвентарь положить
+[09:00:14] Гуччи Бургер: о боже мой я умираю
+[09:00:15] vasiliy karat: ПКМ 
+[09:00:16] Гуччи Бургер: ебанный пиздец
+[09:00:17] vasiliy karat: Е
+[09:00:23] Гуччи Бургер: ой
+[09:00:33] vasiliy karat: ВО
+[09:00:40] vasiliy karat: ПКМ+R
+[09:00:56] vasiliy karat: ДУМАЮ ВОЛНОВАТЬСЯ НЕ СТОИТ 
+[09:01:02] vasiliy karat: МЫ ЕГО ТОЛПОЙ ЗАГАСИМ
+[09:01:09] Гуччи Бургер: мне нужно полечится
+[09:01:13] Гуччи Бургер: у менея 31 хп
+[09:01:14] vasiliy karat: СЕЙЧАС
+[09:01:18] vasiliy karat: ЧТО НИТЬ НАЙДУ
+[09:01:29] Client "The crazy rabbit" spawned in server <STEAM_0:0:756675100> (took 143 seconds).
+[09:01:32] vasiliy karat: ЩЕ НЕ ВС
+[09:02:54] vasiliy karat: ВО ДА
+[09:02:56] Гуччи Бургер: нихуя себе
+[09:03:05] vasiliy karat: ПОШЛИТЦЕ
+[09:03:27] vasiliy karat: ДАВАЙ ПОМЕНЯЕМСЯ
+[09:03:29] Гуччи Бургер: можно мне тоже ак?
+[09:03:29] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[09:03:29] RusLanConnection suicided!
+[09:03:34] vasiliy karat: ДРОП
+[09:03:47] vasiliy karat: НАЙДЕМ А ДАВВАЙТЕ
+[09:03:51] vasiliy karat: МАШИНУ КУПИМ ХОТЯ НЕ
+[09:03:56] vasiliy karat: ЛУЧШЕ ПЕШКОДРАЛОМ
+[09:04:20] Гуччи Бургер: я слышу взрыви черт возьми
+[09:04:29] vasiliy karat: ОТКУДА  
+[09:04:29] Гуччи Бургер: война близко
+[09:04:33] Гуччи Бургер: вон там
+[09:04:38] Гуччи Бургер: выстрели
+[09:05:22] vasiliy karat: ОБЯВИ ИМ ТОЖЕ ВОЙНУ ЧТОБЫ МЫ МОГЛИ ХП ФРАКЦИИ
+[09:05:25] vasiliy karat: ХОТЯ
+[09:05:27] vasiliy karat: ВРОДЕ УЖЕ МОЖЕМ
+[09:05:31] vasiliy karat: НУ ЛАДНО
+[09:05:41] vasiliy karat: А МОЖЕМ ЛАДН
+[09:05:44] Гуччи Бургер: то вроде кентов
+[09:05:47] Гуччи Бургер: наших
+[09:05:48] vasiliy karat: ВИЖУ СТЕНУ
+[09:06:09] vasiliy karat: НЕ
+[09:06:10] vasiliy karat: Я С НИМИ
+[09:06:24] vasiliy karat: УНИЧТОЖИТЬ
+[09:06:27] vasiliy karat: ОРУЖИЕ
+[09:06:28] vasiliy karat: ИЛИ
+[09:06:29] Dropped "Delixit" from server<STEAM_0:0:845226198>
+[09:06:29] Delixit suicided!
+[09:06:30] vasiliy karat: ЗАБРАТЬ СЕБЕ
+[09:06:35] vasiliy karat: ДАВАЙТЕ ЗАБЕРЕМ БОМБУ
+[09:06:38] Гуччи Бургер: давай предадим его
+[09:06:47] Гуччи Бургер: ПРЕДАДИМ ЕГО
+[09:06:47] Redoket killed beliashالله أكبر using lvs_wheeldrive_dodtiger
+[09:06:51] Гуччи Бургер: и столько всего заберем
+[09:07:04] Гуччи Бургер: ладно шучу
+[09:07:13] shokoladka: т
+[09:07:24] vasiliy karat: ДА ГДЕ ОНИ
+[09:07:35] vasiliy karat: У МЕНЯ РАКЕТОМЕТ
+[09:07:37] vasiliy karat: ТАМ ТАН
+[09:07:38] vasiliy karat: К
+[09:07:42] vasiliy karat: НЕ ВЫЛАЗИЕТЕ
+[09:08:07] Гуччи Бургер suicided!
+[09:08:07] Гуччи Бургер killed shokoladka using ent_jack_gmod_ezsticknade
+[09:08:07] vasiliy karat suicided!
+[09:08:12] vasiliy karat killed beliashالله أكبر using ent_jack_gmod_ezsticknade
+[09:08:21] vasiliy karat suicided!
+[09:08:25] (TEAM) shokoladka: бляяяьь
+[09:08:29] shokoladka: я на спавне
+[09:08:42] (TEAM) shokoladka: я на спавне,НИКАМУ 
+[09:08:45] shokoladka: ГГ
+[09:08:55] vasiliy karat: НИГА
+[09:08:58] (TEAM) shokoladka: НИКОМУ НЕ ВСТУПАТЬ В БОЙ С ЭТИМИ ТВАРЯМИ
+[09:09:05] (TEAM) shokoladka: ИНАЧЕ
+[09:09:15] (TEAM) shokoladka: МЫ РАЗВАЛИМСЯ НА 3 ЧАСТИ
+[09:09:16] Redoket killed vasiliy karat using lvs_wheeldrive_dodtiger
+[09:09:59] Redoket killed vasiliy karat
+[09:10:04] (TEAM) shokoladka: СУКА
+[09:10:06] Гуччи Бургер: дай ганик
+[09:10:08] vasiliy karat suicided!
+[09:10:09] Гуччи Бургер: я его убью
+[09:10:12] (TEAM) shokoladka: НЕ НАДО
+[09:10:13] Гуччи Бургер: отвечаю
+[09:10:17] Гуччи Бургер: Я ЕГО УБЬЮ ОТВЕЧАЮ
+[09:10:17] Redoket killed vasiliy karat using lvs_wheeldrive_dodtiger
+[09:10:26] (TEAM) shokoladka: ШСУКА\
+[09:10:26] Гуччи Бургер: он уже тут
+[09:10:29] (TEAM) shokoladka: ВЫ ЧО
+[09:10:43] (TEAM) shokoladka: НЕ ВСТУПАТЬ СЛЫШИТЕ? НЕ ВСТУПАПЙТЕ В КОНТАКТ С НИМИ
+[09:10:53] vasiliy karat: У НЕГО СКОРО КОНЧАТСЯ СНАРЯДЫ 
+[09:10:57] vasiliy karat: ТЕРПИМ ДАВЛЕНИЕ
+[09:10:58] Redoket killed beliashالله أكبر
+[09:10:58] Redoket killed Гуччи Бургер
+[09:10:59] Redoket killed vasiliy karat
+[09:11:03] (TEAM) shokoladka: СКУА
+[09:11:09] vasiliy karat: ЛАДНО
+[09:11:19] Гуччи Бургер: где оружие взять
+[09:11:31] Гуччи Бургер: где оружие взять василый
+[09:11:33] vasiliy karat: У ТЕБЯ
+[09:11:45] vasiliy karat: ЩАС
+[09:12:14] beliashالله أكبر: supply radio: sticky bomb
+[09:12:16] vasiliy karat: ВОЗМОЖНО ОНИ ВЗЯЛИ ВВЕРХ
+[09:12:17] vasiliy karat: НО
+[09:12:18] vasiliy karat: МЫ
+[09:12:20] vasiliy karat: ЕСТЬ
+[09:12:20] Гуччи Бургер: пошли делать мясной штурм на его базу
+[09:12:26] vasiliy karat: supply radio: sticky bomb
+[09:12:28] vasiliy karat: СДЕЛАЕМ ЗАСАДУ
+[09:12:37] vasiliy karat: ЛЕТЯТ
+[09:13:30] Гуччи Бургер: у меня оружия не будет?
+[09:13:34] vasiliy karat: НЕ
+[09:13:37] vasiliy karat: МУШКЕТ ЭТО КАЛ
+[09:13:38] vasiliy karat: ВЫБРОСИ
+[09:13:48] vasiliy karat: ДРУГОГО ПОКА НЕТУ
+[09:14:09] shokoladka: БЛЯТЬ
+[09:14:12] Гуччи Бургер: мы убьем его!
+[09:14:16] shokoladka: ЭТО ПИЗДА
+[09:14:21] shokoladka: МЫ НЕ СМОЖЕМ
+[09:14:26] vasiliy karat: СМОЖЕМ
+[09:14:31] vasiliy karat: ГРАНАТЫ ЕСТЬ
+[09:14:34] shokoladka: ОН НА БРОНИРОВАННОМ ТАНКЕ НА ЕГО БАЗЕ
+[09:14:45] shokoladka: МЫ НАКИК НЕ СМОЖЕМ
+[09:14:53] shokoladka: БЛЯЬТ
+[09:15:02] shokoladka: НЕЕЕЕТ
+[09:15:14] vasiliy karat: ВПЕРЁЁЁЁЁЁЁЁЁД
+[09:15:25] бугагашенька: кароче
+[09:15:26] Гуччи Бургер: МНЕ СТРАШНО
+[09:15:28] vasiliy karat: СДЕЛАЕМ ЗАСАДУ
+[09:15:29] бугагашенька: ты сиди тут
+[09:15:33] (TEAM) shokoladka: БЛЯТЬ
+[09:15:39] бугагашенька: как только я тут появлюся бери оружие броню и едем
+[09:15:44] бугагашенька: если будет ядерный бум
+[09:15:50] бугагашенька: просто беги под гору
+[09:15:54] vasiliy karat: СТОЙ ПОСМОТРЮ СЕЙЧАС МОЛЧИМ
+[09:15:56] бугагашенька: сюды
+[09:15:58] бугагашенька: вот так
+[09:16:00] (TEAM) shokoladka: ВЫ ГДЕ СУКА
+[09:16:07] vasiliy karat: УЕХАЛ
+[09:16:08] (TEAM) бугагашенька: я
+[09:16:12] бугагашенька: я тебя не слышу
+[09:16:17] vasiliy karat: А ВОТ
+[09:16:21] vasiliy karat: СЮДА
+[09:16:26] vasiliy karat: ОНИ ТАМ
+[09:16:31] vasiliy karat: БЕЖИМ
+[09:16:33] бугагашенька: моя тебя не слышать твоя писать в чат
+[09:16:40] vasiliy karat: АЛЬЯНСЕР
+[09:16:43] The crazy rabbit: ок
+[09:16:47] Client "kosmokot" connected.
+[09:17:15] vasiliy karat: ДА
+[09:17:16] vasiliy karat: ПОШЛИ
+[09:17:18] vasiliy karat: ШОКОЛАД
+[09:17:21] shokoladka: МИСКЛИК
+[09:17:28] vasiliy karat: НАМ БЫ МАШИНУ
+[09:17:32] vasiliy karat: МЫ БЫ ПРИВЕЗЛИ
+[09:17:34] vasiliy karat: КЕРАМИКУ
+[09:17:40] Client "kosmokot" spawned in server <STEAM_0:0:41186306> (took 53 seconds).
+[09:17:40] beliashالله أكبر: supply radio: jeep
+[09:17:42] vasiliy karat: А ВОТ ВИЖУ
+[09:17:45] vasiliy karat: ВИЖУ ДЖИП
+[09:17:47] vasiliy karat: СВОБОДНЫЙ
+[09:17:47] beliashالله أكبر: supply radio: jeep
+[09:18:29] бугагашенька: сиди тут
+[09:18:33] бугагашенька: Я ТЕБЯ НЕ СЛЫШУ
+[09:18:34] бугагашенька: ПИШИ
+[09:18:36] vasiliy karat: ТОПЛИВО
+[09:18:36] бугагашенька: В ЧАИ
+[09:18:37] Гуччи Бургер: ПАРНИ СДЕЛАЙТЕ МНЕ ГРАНАТОМЕТ
+[09:18:38] бугагашенька: чат
+[09:18:48] Гуччи Бургер: ЧТО ТО ВЗРЫВНОЕ СДЕЛАЙТЕ
+[09:18:49] Rackman: !Menu
+[09:18:51] Гуччи Бургер: Я ЕГО ВЗОРВУ
+[09:18:52] Гуччи Бургер: СУКУ
+[09:18:55] Rackman teleported to The crazy rabbit
+[09:18:56] Rackman teleported to beliashالله أكبر
+[09:18:57] бугагашенька: кароче сиди тут
+[09:19:01] The crazy rabbit: окккк
+[09:19:05] бугагашенька: удачи
+[09:19:17] бугагашенька: как только появлюся бери пушки и броню
+[09:19:20] бугагашенька: удачи
+[09:19:51] бугагашенька: щас
+[09:20:04] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[09:20:15] beliashالله أكبر: supply radio: explosives
+[09:20:19] Гуччи Бургер: пульки для этого можете сделать?
+[09:20:24] Гуччи Бургер: пульки для этого можете сделать?
+[09:20:42] Гуччи Бургер: где кейс
+[09:20:47] бугагашенька: удачи братец
+[09:20:50] бугагашенька: если че
+[09:20:57] бугагашенька: смотри че там по оружиям
+[09:21:07] бугагашенька: такс
+[09:21:07] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznade_impact
+[09:21:14] бугагашенька: бери пушки и броню обороняйся тут
+[09:21:31] vasiliy karat: Я СВОЙ
+[09:22:14] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[09:22:24] Гуччи Бургер: ТРУПНЫЙ ВИРУС У МЕНЯ
+[09:22:28] Гуччи Бургер:  СПАСИ
+[09:22:40] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:22:40] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:22:40] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:22:40] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:22:40] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:22:40] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:22:50] Гуччи Бургер: КАК ВЫЛЕЧИТСЯ ОТ ТРУПНОГО ВИРУСА
+[09:23:01] Гуччи Бургер: КАК ВЫЛЕЧИТСЯ ОТ ТРУПНОГО ВИРУСА СУКА
+[09:23:03] Гуччи Бургер: СПАСИТЕ
+[09:23:17] Гуччи Бургер: СДЕЛАЙ МНЕ ХИЛКУ
+[09:23:18] Гуччи Бургер: я умираю
+[09:23:25] Гуччи Бургер: это не работает
+[09:23:29] Гуччи Бургер: УМИРАААЮ
+[09:23:41] Гуччи Бургер: КАК ЗАПРАВИТЬ
+[09:23:45] vasiliy karat: КОСМОКОТ А ТЫ ЗНАЕШЬ
+[09:23:47] vasiliy karat: ГДЕ РЕДОКЕТ
+[09:23:47] бугагашенька killed бугагашенька
+[09:23:56] vasiliy karat: НАПРАВЛЕНИЕ УКАЖИ
+[09:24:01] Гуччи Бургер: 38 хп у меня
+[09:24:11] vasiliy karat: СПАСИБО ТЫ ПОМОГ В НАШЕЙ ПОБЕДЕ
+[09:24:27] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:24:27] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:24:27] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:24:27] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:24:54] Гуччи Бургер: как взять хилку
+[09:24:58] The crazy rabbit: а где всё оружие хронится?
+[09:25:11] shokoladka: АЛЬТ Е
+[09:25:12] Гуччи Бургер: АЛЬТ Е НЕ РАБОТАЕТ
+[09:25:20] vasiliy karat: ГОВНО
+[09:25:25] Гуччи Бургер: нету у меня в инвентаре
+[09:25:28] Гуччи Бургер: 33 хп парни полечите
+[09:25:34] Гуччи Бургер: УМИРАЮ ПАРНИ
+[09:25:53] Гуччи Бургер: все я на нуле
+[09:25:55] Гуччи Бургер: надо ище
+[09:26:04] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsticknadebundle
+[09:27:16] Гуччи Бургер: когда этот вирус блядский пройдет
+[09:27:18] vasiliy karat was killed by ent_jack_gmod_ezsentry
+[09:27:41] Гуччи Бургер: дайте хавку
+[09:27:52] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:27:52] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:27:52] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:27:52] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:27:52] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:27:52] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:28:32] Rackman<STEAM_0:0:221849271> spawned sent lvs_maxim
+[09:28:40] Гуччи Бургер: 42 хп
+[09:29:01] The crazy rabbit: а машину разбирпть
+[09:29:03] Гуччи Бургер: где василый
+[09:29:03] vasiliy karat to admins: ТОТАЛ НИГЕР ДЕФ ЗАКАЗЫВАЙ САМОЛЕТ ПРОЛЕТАЕТ НО НЕ ДОСТАВЛЯЕТ
+[09:29:09] Гуччи Бургер: У МЕНЯ ИММУНИТЕТ
+[09:29:12] The crazy rabbit: разбирать
+[09:29:13] vasiliy karat to admins: ПРОСТО ТРОЛИТ
+[09:29:17] vasiliy karat to admins: ЛЕТАЕТ ТУТ
+[09:29:18] The crazy rabbit: ?
+[09:29:20] Гуччи Бургер: теперь похилится надо
+[09:29:23] The crazy rabbit: ок
+[09:29:38] Rackman<STEAM_0:0:221849271> spawned sent lvs_trailer_zis3
+[09:29:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[09:29:48] The crazy rabbit: это че?
+[09:29:50] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[09:29:55] Rackman<STEAM_0:0:221849271> spawned sent lvs_trailer_zis3
+[09:29:57] The crazy rabbit: взрыв
+[09:30:19] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[09:30:21] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[09:30:27] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[09:30:27] Rackman stripped weapons from Themself
+[09:30:27] Rackman: !strip Rackman
+[09:30:30] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[09:30:53] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezutilitycrate
+[09:31:19] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[09:31:34] Rackman teleported to vasiliy karat
+[09:31:34] Rackman: !goto vasiliy karat
+[09:31:52] Гуччи Бургер: ШОКОЛАДКА как писать вобщий?
+[09:32:15] Гуччи Бургер: он будет нападать или нет?
+[09:32:31] vasiliy karat: РАКМАН ПОДАРИ ВОДУ
+[09:32:33] vasiliy karat: 100 ЮНИТОВ
+[09:32:35] vasiliy karat: И ГАЗ
+[09:32:42] vasiliy karat: НИФЕГА СПАСИБО
+[09:32:57] Redoket: сорян
+[09:33:08] Redoket: прсти
+[09:33:11] Redoket: мис клик
+[09:33:12] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[09:33:59] Гуччи Бургер: там вроде кто то был
+[09:34:33] vasiliy karat: КТО СО МНОЙ НА
+[09:34:36] vasiliy karat: ОХОТУ
+[09:34:39] vasiliy karat: ПО ТИГРАМ
+[09:34:52] vasiliy karat: СНАРЯДЫ
+[09:34:54] vasiliy karat: И ТОПЛИВО
+[09:35:33] vasiliy karat: КУПИТЕ ПАТРОН ДЛЯ ПУШКИ
+[09:35:36] vasiliy karat: ПРОШУ
+[09:35:42] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[09:36:24] Client "azazinka" connected.
+[09:36:25] Гуччи Бургер: черт....
+[09:36:27] Client "Zanaxas" connected.
+[09:36:34] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznutrients
+[09:36:44] Client "azazinka" connected.
+[09:36:51] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznutrients
+[09:36:54] Client "какащке" connected.
+[09:36:56] Гуччи Бургер: а мне
+[09:36:58] vasiliy karat: А
+[09:37:01] vasiliy karat: ВОЗЬМИ
+[09:37:03] vasiliy karat: ИЗ ЯШИКА
+[09:37:06] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfieldhospital
+[09:37:08] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[09:37:13] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezmedsupplies
+[09:37:14] Client "D3ST" connected.
+[09:37:18] Гуччи Бургер: все
+[09:37:42] Гуччи Бургер: я если что буду прикрывать
+[09:37:48] Гуччи Бургер: с этим гранотометом
+[09:37:51] Гуччи Бургер: стой
+[09:37:56] Гуччи Бургер: там он хочет с нами
+[09:38:32] Гуччи Бургер: СТОЙ
+[09:39:18] Гуччи Бургер: ЗА ОРАНЖЕВУЮ ИМПЕРИЮ!!!!
+[09:39:26] Гуччи Бургер: СМЕРТЬ МАКАЛОЛИИ!!
+[09:39:27] vasiliy karat: ФИЗГАН У КОГО
+[09:39:55] Гуччи Бургер: СМЕРТЬ МАКАЛОЛИИ БРАТЬЯ
+[09:39:59] Гуччи Бургер: мы победим в этой войне
+[09:40:19] vasiliy karat: СМОТРИТЕ И СЛУШАЙТЕ
+[09:40:21] Redoket killed бугагашенька using lvs_wheeldrive_dodtiger
+[09:40:26] shokoladka: ?
+[09:40:31] vasiliy karat: ИЩЕМ ТАНК
+[09:40:33] Redoket killed The crazy rabbit using lvs_wheeldrive_dodtiger
+[09:40:38] vasiliy karat: БУГАГ ГДЕ ТАНК
+[09:40:45] vasiliy karat: ЭТО СВОЙ
+[09:40:48] Гуччи Бургер: а 
+[09:40:54] vasiliy karat: БУГАГА ГДЕ ТАНК
+[09:41:00] Rackman teleported to vasiliy karat
+[09:41:00] Rackman: !goto vasiliy karat
+[09:41:03] vasiliy karat: ПОШЛИТЕ Я ЗНАЮ ГДЕ ОН
+[09:41:17] The crazy rabbit: /me поклонился
+[09:41:30] Dropped "The crazy rabbit" from server<STEAM_0:0:756675100>
+[09:41:30] The crazy rabbit suicided!
+[09:41:44] Client "Zanaxas" spawned in server <STEAM_0:0:621535856> (took 317 seconds).
+[09:42:11] vasiliy karat: ДАВАЙТЕ ЗАПРАВИССЯ
+[09:42:21] Гуччи Бургер: кто то аирдроп вызвал
+[09:42:25] Client "azazinka" spawned in server <STEAM_0:1:527147091> (took 341 seconds).
+[09:42:38] vasiliy karat: ЛАДНО ПОЕХАЛИ НА БАЗУ ЕГО
+[09:42:58] vasiliy karat: ВСЕ
+[09:42:59] vasiliy karat: ЕДЕМ
+[09:43:16] vasiliy karat: ОЙ
+[09:43:20] vasiliy karat: ТОЛКАНИТЕ
+[09:43:24] vasiliy karat: МЫ ЩАС ВЫЛЕТИМ
+[09:43:27] vasiliy karat: ДА НЕ ТУДА
+[09:43:32] vasiliy karat: В ОБРАТКУ
+[09:43:35] vasiliy karat: ВО
+[09:43:57] Client "D3ST" spawned in server <STEAM_0:1:47178108> (took 403 seconds).
+[09:44:03] Client "какащке" spawned in server <STEAM_0:0:868000893> (took 429 seconds).
+[09:44:17] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[09:44:18] Zanaxas killed D3ST using wep_jack_gmod_hands
+[09:44:32] vasiliy karat: ДАВАЙТЕ
+[09:44:52] D3ST killed azazinka using wep_jack_gmod_hands
+[09:45:13] vasiliy karat: ДА НЕ СТРЕЛЙ
+[09:45:25] D3ST killed azazinka using wep_jack_gmod_hands
+[09:45:28] vasiliy karat: МЫ НЕ МОЖЕМ ЖДАТЬ
+[09:45:34] vasiliy karat: ПОЕХАЛИ
+[09:45:37] vasiliy karat: ОНИ НАШЛИ
+[09:45:58] Гуччи Бургер: хахахаха
+[09:45:59] Гуччи Бургер: сука
+[09:46:03] Dropped "Zanaxas" from server<STEAM_0:0:621535856>
+[09:46:03] Zanaxas suicided!
+[09:46:20] Гуччи Бургер: ВОТ БАЗА ЕГО вроде
+[09:46:21] vasiliy karat: ЗАХОДИМ
+[09:46:34] Dropped "какащке" from server<STEAM_0:0:868000893>
+[09:46:34] какащке suicided!
+[09:46:47] vasiliy karat: Я ЩАС
+[09:46:48] vasiliy karat: ТУТ
+[09:47:20] D3ST: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:47:31] Dropped "D3ST" from server<STEAM_0:1:47178108>
+[09:47:31] D3ST suicided!
+[09:47:57] Dropped "azazinka" from server<STEAM_0:1:527147091>
+[09:47:57] azazinka suicided!
+[09:48:15] vasiliy karat: НЕЕЕЕТ
+[09:48:17] vasiliy karat: Я СДАЮС
+[09:48:26] Гуччи Бургер: и че делать
+[09:48:36] vasiliy karat: А Я НАНЕС УРОН?
+[09:48:41] shokoladka was killed by ent_jack_gmod_ezprojectilenade
+[09:48:41] vasiliy karat: НЕФИГА
+[09:48:58] vasiliy karat: НАДО БЫЛО ИЗ ДАЛЕКА
+[09:48:59] Dropped "shokoladka" from server<STEAM_0:0:846260107>
+[09:48:59] shokoladka suicided!
+[09:49:00] vasiliy karat: НУ ЛАДНО
+[09:49:04] vasiliy karat: ХОРОШАЯ МАШИНКА
+[09:49:08] beliashالله أكبر was killed by ent_jack_gmod_ezprojectilenade
+[09:49:08] beliashالله أكبر killed бугагашенька using env_explosion
+[09:49:18] Гуччи Бургер: я случайно
+[09:49:22] Гуччи Бургер: я случайно пацаны
+[09:49:23] Dropped "beliashالله أكبر" from server<STEAM_0:0:822301453>
+[09:49:23] beliashالله أكبر suicided!
+[09:49:28] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[09:49:28] бугагашенька suicided!
+[09:51:00] Redoket was killed by ent_jack_gmod_ezprojectilenade
+[09:51:37] Redoket killed Гуччи Бургер using wep_jack_gmod_lmg
+[09:51:42] Dropped "Гуччи Бургер" from server<STEAM_0:0:715326629>
+[09:51:42] Гуччи Бургер suicided!
+[09:53:49] vasiliy karat to admins: А ГДЕ БОМБА ТО
+[09:53:55] vasiliy karat to admins: ГДЕ ОНА БЫЛА
+[09:54:11] vasiliy karat to admins: ВОТ У ТЕБЯ ЛЕТАЮ
+[09:54:18] vasiliy karat: ЕМАЕ
+[09:54:21] vasiliy karat: МОГЛИ ВЫТАЩИТЬ
+[09:54:24] vasiliy karat: И УЖЕ ВЫЙГРАТ
+[09:54:27] Redoket: МОГЛИ
+[09:54:31] vasiliy karat: НУ ЛАДНО ЛАДНО
+[09:54:35] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[09:54:35] vasiliy karat suicided!
+[09:54:52] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[09:54:52] Redoket suicided!
+[09:55:13] Dropped "kosmokot" from server<STEAM_0:0:41186306>
+[09:55:13] kosmokot suicided!
+[09:55:25] Rackman: !menu
+[09:55:37] Rackman changed the map to gm_whiten
+[09:55:37] Server is shutting down/changing levels.
+
+
+
+[09:56:23] New map: gm_whiten
+[09:57:03] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 73 seconds).
+[09:57:44] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[09:58:24] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube6x6x05.mdl
+[09:58:40] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube6x6x05.mdl
+[09:58:47] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube4x8x1.mdl
+[09:58:51] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x4x025.mdl
+[09:58:52] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x4x05.mdl
+[09:58:55] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x6x025.mdl
+[09:59:22] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube4x8x05.mdl
+[09:59:58] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube6x6x025.mdl
+[10:01:06] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezarmor_combinesuit
+[10:01:15] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_jmod_ezweapon_ar3
+[10:01:21] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezfloorsentry
+[10:01:30] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezfloorsentry
+[10:01:48] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[10:02:30] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrtg
+[10:02:48] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezpowerbank
+[10:02:53] Rackman: !g0d
+[10:03:08] Rackman: !menu
+[10:03:13] Rackman granted god mode upon Themself
+[10:04:42] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezarmor_combinesuit
+[10:04:46] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_jmod_ezweapon_ar2
+[10:05:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube3x3x025.mdl
+[10:05:03] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube6x6x025.mdl
+[10:05:54] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezfloorsentry
+[10:05:57] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[10:06:33] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezfloorsentry
+[10:06:34] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezfloorsentry
+[10:07:04] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[10:10:30] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:10:30] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:10:30] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:10:30] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:10:30] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:10:30] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:10:30] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:11:08] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:19] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:21] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:22] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:24] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:25] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:25] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:26] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:26] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:26] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:27] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:27] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:29] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:29] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:30] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:11:31] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[10:12:14] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:12:15] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:12:15] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:12:17] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_intmonitor001.mdl
+[10:12:17] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_intmonitor001.mdl
+[10:12:19] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:12:19] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:12:20] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_intmonitor001.mdl
+[10:12:20] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_intmonitor001.mdl
+[10:12:48] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:12:48] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:12:49] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:13:05] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combinethumper001a.mdl
+[10:14:55] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:14:55] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:14:55] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:14:55] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:14:55] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:14:55] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:14:56] Rackman<STEAM_0:0:221849271> spawned NPC npc_zombie
+[10:18:25] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumper
+[10:18:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[10:18:30] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:18:47] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgroundscanner
+[10:18:49] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:19:15] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumperlarge
+[10:19:17] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:20:19] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumperlarge
+[10:20:23] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumperlarge
+[10:20:27] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumper
+[10:22:00] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[10:22:24] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumperlarge
+[10:22:26] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:23:03] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[10:23:19] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezplatinum
+[10:23:20] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezprecparts
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube6x6x05.mdl
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube4x8x05.mdl
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_intmonitor001.mdl
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_intmonitor001.mdl
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combine_monitorbay.mdl
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube6x6x05.mdl
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube2x6x025.mdl
+[10:26:01] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube6x6x025.mdl
+[10:26:02] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube6x6x025.mdl
+[10:26:15] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezthumper
+[10:28:27] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[10:28:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[10:29:31] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[10:29:57] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhopperhornet
+[10:30:09] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhopperhornet
+[10:30:30] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:30:47] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:06] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:07] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:25] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:27] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:28] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:29] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:29] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:30] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:30] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:31] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:32] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:32] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:32] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:33] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:33] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:33] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:34] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:35] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:35] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:35] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:36] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:36] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:37] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:31:41] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhopperhornet
+[10:31:42] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhopperhornet
+[10:31:42] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhopperhornet
+[10:31:43] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhopperhornet
+[10:33:31] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhopperhornet
+[10:33:33] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhoppermine
+[10:33:34] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezhopperhornet
+[10:35:09] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[10:35:09] Rackman suicided!
+[12:13:59] Client "StepCool:3" connected.
+[12:15:36] Client "StepCool:3" spawned in server <STEAM_0:1:612022891> (took 97 seconds).
+[12:24:29] Dropped "StepCool:3" from server<STEAM_0:1:612022891>
+[12:24:29] StepCool:3 suicided!
+[21:42:21] Client "Soldier_S.C.A.F" connected.
+[21:46:46] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 265 seconds).
+[21:47:56] Soldier_S.C.A.F: !menu
+[21:49:41] Soldier_S.C.A.F: !menu
+[21:50:37] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[21:50:37] Soldier_S.C.A.F suicided!
+<Logging continued in "data/ulx_logs/02-19-25.txt">

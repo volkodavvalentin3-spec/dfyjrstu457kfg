@@ -1,0 +1,1484 @@
+<Logging continued from "data/ulx_logs/08-08-25.txt">
+[01:47:48] Client "Soldier_S.C.A.F" connected.
+[02:07:30] Client "Soldier_S.C.A.F" connected.
+[02:23:57] Client "Soldier_S.C.A.F" connected.
+[02:25:57] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 120 seconds).
+[03:09:01] Client "Rick Alecter" connected.
+[03:17:45] Client "Iuck and money" connected.
+[03:32:12] Client "Джон" connected.
+[03:36:09] Client "Джон" spawned in server <STEAM_0:1:743083427> (took 237 seconds).
+[03:38:09] Dropped "Джон" from server<STEAM_0:1:743083427>
+[03:38:09] Джон suicided!
+[03:42:31] Client "Джон" connected.
+[03:43:19] Client "Джон" spawned in server <STEAM_0:1:743083427> (took 48 seconds).
+[03:48:25] Dropped "Джон" from server<STEAM_0:1:743083427>
+[03:48:25] Джон suicided!
+[04:09:07] Client "Джон" connected.
+[04:09:57] Client "Джон" spawned in server <STEAM_0:1:743083427> (took 50 seconds).
+[04:13:18] Client "Kerchinsky #bloodrust" connected.
+[04:13:49] Client "богдан." connected.
+[04:14:01] Client "Kerchinsky #bloodrust" spawned in server <STEAM_0:1:591953064> (took 43 seconds).
+[04:15:28] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 99 seconds).
+[04:18:37] Kerchinsky #bloodrust<STEAM_0:1:591953064> changed their name to Kerchinsky
+[04:20:43] Kerchinsky: !motd
+[04:20:49] Kerchinsky: !motd
+[04:21:06] богдан.: у меня баг с ходьбой моделек блять
+[04:21:17] богдан.: ты ща пушку держишь?
+[04:21:27] богдан.: она у тебя тупо на спине
+[04:21:36] богдан.: а остальные модельки в тпозе
+[04:21:44] богдан.: ща попробую
+[04:21:46] Dropped "богдан." from server<STEAM_0:1:815266334>
+[04:21:46] богдан. suicided!
+[04:21:52] Client "богдан." connected.
+[04:22:15] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 23 seconds).
+[04:23:04] Client "CYBORG_CLASSIC" connected.
+[04:23:49] Джон: !motd
+[04:25:32] Джон was killed by ent_jack_gmod_ezaugerdrill
+[04:26:19] Dropped "богдан." from server<STEAM_0:1:815266334>
+[04:26:19] богдан. suicided!
+[04:26:38] Client "богдан." connected.
+[04:27:06] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 28 seconds).
+[04:31:21] Soldier_S.C.A.F: драсте
+[04:31:38] Soldier_S.C.A.F: да сервер вышел после обновления
+[04:31:53] Soldier_S.C.A.F: пушки по каждой нации
+[04:32:09] Soldier_S.C.A.F: правда многое вооружие очень не уместно прописано
+[04:32:23] Soldier_S.C.A.F: ну ладушки
+[04:32:27] Soldier_S.C.A.F: я поехал дальше
+[04:32:45] Client "CYBORG_CLASSIC" spawned in server <STEAM_0:1:795329949> (took 581 seconds).
+[04:34:55] Soldier_S.C.A.F: драсте
+[04:35:06] богдан.: ч
+[04:35:14] богдан.: у меня все в тпозе ходят
+[04:35:15] Джон: !motd
+[04:35:20] Soldier_S.C.A.F: хм
+[04:35:27] CYBORG_CLASSIC: !motd
+[04:35:33] Soldier_S.C.A.F: ведать иза обновления гаррис мода
+[04:35:40] Soldier_S.C.A.F: у меня тоже такое есть
+[04:35:49] богдан.: изза обновы сервере я так понимаю
+[04:35:54] богдан.: раньше такого небыло
+[04:36:00] Soldier_S.C.A.F: ну фиг его знает
+[04:36:12] богдан.: я уже 2 раза перезапустил
+[04:37:05] Soldier_S.C.A.F: скрафтил
+[04:37:10] Dropped "богдан." from server<STEAM_0:1:815266334>
+[04:37:10] богдан. suicided!
+[04:37:18] Soldier_S.C.A.F: да берите
+[04:37:22] Soldier_S.C.A.F: мне он не нужен
+[04:37:40] Soldier_S.C.A.F: да норм
+[04:37:50] Soldier_S.C.A.F: дальше
+[04:37:52] Soldier_S.C.A.F: за горами
+[04:38:17] Soldier_S.C.A.F: ну пока актива нет
+[04:38:30] Soldier_S.C.A.F: да и немног доробатватся будет
+[04:38:46] Soldier_S.C.A.F: это уже позже будет
+[04:38:52] Soldier_S.C.A.F: дней так через пару
+[04:39:05] Soldier_S.C.A.F: честно
+[04:39:13] Soldier_S.C.A.F: тут много оружия не имейет логики
+[04:39:15] Client "богдан." connected.
+[04:39:17] Soldier_S.C.A.F: просто не УМЕСТНО
+[04:39:41] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 26 seconds).
+[04:39:55] Soldier_S.C.A.F: что ж уже тогда
+[04:39:59] Soldier_S.C.A.F: я пойду по делам
+[04:40:12] Client "klinskoe za 200" connected.
+[04:40:13] Soldier_S.C.A.F: удачной вам игры
+[04:40:15] Soldier_S.C.A.F: а хоя
+[04:40:17] Soldier_S.C.A.F: хотя*
+[04:40:26] Soldier_S.C.A.F: пойду клинского встречу
+[04:41:06] Client "Xvideos" connected.
+[04:42:13] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 121 seconds).
+[04:42:45] Dropped "богдан." from server<STEAM_0:1:815266334>
+[04:42:45] богдан. suicided!
+[04:42:47] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[04:42:47] klinskoe za 200 suicided!
+[04:44:47] Soldier_S.C.A.F: да он с инет разбирается
+[04:45:12] Soldier_S.C.A.F: кстати
+[04:45:18] Soldier_S.C.A.F: я нашёл уран на спавне
+[04:45:29] Client "богдан." connected.
+[04:45:29] Soldier_S.C.A.F: хм
+[04:45:33] Soldier_S.C.A.F: логично
+[04:46:29] Client "богдан." connected.
+[04:46:57] Client "klinskoe za 200" connected.
+[04:46:57] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 28 seconds).
+[04:47:41] богдан.: ДААААААААААААААААААААААААААААААААААА
+[04:47:45] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 48 seconds).
+[04:47:49] богдан.: АНИМАЦИИ ПОЯВИЛИСЬ СУКА
+[04:48:08] Soldier_S.C.A.F: нихуя себе у тебя страйдер
+[04:48:08] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[04:48:08] klinskoe za 200 suicided!
+[04:49:10] Client "Xvideos" spawned in server <STEAM_0:0:550328768> (took 484 seconds).
+[04:49:31] Джон: !motd
+[04:49:45] Soldier_S.C.A.F: кстати
+[04:49:52] Soldier_S.C.A.F: прям на спавне уран
+[04:52:18] Client "klinskoe za 200" connected.
+[04:52:50] Джон: !motd
+[04:53:07] Soldier_S.C.A.F: зачем я тебе сдался?
+[04:53:10] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 52 seconds).
+[04:53:21] CYBORG_CLASSIC: !motd
+[04:53:31] Soldier_S.C.A.F: оу
+[04:53:37] Soldier_S.C.A.F: так экономика же сломана
+[04:53:51] CYBORG_CLASSIC: !motd
+[04:54:12] Soldier_S.C.A.F: ЧУВААААААААК
+[04:54:19] klinskoe za 200: ЧУВВАААААК
+[04:54:24] Soldier_S.C.A.F: ЧУВААААААААААК
+[04:54:32] klinskoe za 200: ЧУВАААААААААААААК
+[04:54:35] Soldier_S.C.A.F: ох
+[04:54:44] klinskoe za 200: давно мы ТУТ не виделись
+[04:54:51] Soldier_S.C.A.F: нормально так
+[04:55:07] Soldier_S.C.A.F: тот танк им отдал
+[04:55:14] klinskoe za 200: джонам?
+[04:55:16] Soldier_S.C.A.F: да
+[04:55:25] klinskoe za 200: я знаю этих балбесов
+[04:55:31] klinskoe za 200: не самые хорошие ребятки
+[04:55:44] Soldier_S.C.A.F: ну мне это уже ладно то
+[04:55:56] Soldier_S.C.A.F: пойду наверное тогда
+[04:56:03] klinskoe za 200: ну почему бы и нет
+[04:56:15] Soldier_S.C.A.F: хотя последние для прикола
+[04:56:22] Soldier_S.C.A.F: уран принису им
+[04:56:23] Soldier_S.C.A.F: :D
+[04:56:28] klinskoe za 200: ням ням
+[04:57:27] Soldier_S.C.A.F: да норм все
+[04:57:44] Soldier_S.C.A.F: смотри  че принес!
+[04:57:56] Soldier_S.C.A.F: уран
+[04:57:58] Soldier_S.C.A.F: :D
+[04:58:02] богдан.: а че с экономикой случилось
+[04:58:06] Soldier_S.C.A.F: сломалось
+[04:58:11] богдан.: понял
+[04:58:17] Soldier_S.C.A.F: чупака менять будет
+[04:58:35] Soldier_S.C.A.F: да этот
+[04:58:48] Soldier_S.C.A.F: который руслану помогает
+[04:59:06] богдан.: это я
+[04:59:53] Soldier_S.C.A.F: чтож
+[04:59:58] Soldier_S.C.A.F: перед уходоим
+[05:00:07] Soldier_S.C.A.F: я хочу самую тупую вещь сделать
+[05:00:57] Soldier_S.C.A.F: нука
+[05:01:01] Soldier_S.C.A.F: присоедени меня
+[05:01:18] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[05:01:18] Soldier_S.C.A.F suicided!
+[05:04:07] богдан.: да сука
+[05:04:21] богдан.: я грядку делаю
+[05:06:56] богдан.: это не я
+[05:07:07] богдан.: ДАБЛЯТЬ
+[05:09:19] Client "бугагашенька" connected.
+[05:09:58] богдан.: тихо грядка растет
+[05:10:02] CYBORG_CLASSIC killed богдан. using tfa_doik98_scop
+[05:10:10] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 51 seconds).
+[05:10:22] Dropped "богдан." from server<STEAM_0:1:815266334>
+[05:10:22] богдан. suicided!
+[05:13:28] Client "patrikalkas" connected.
+[05:13:38] klinskoe za 200: нигга
+[05:13:42] klinskoe za 200: я тебя вижу
+[05:13:47] бугагашенька: БУУУ
+[05:13:55] бугагашенька: че как тебе обнова???
+[05:14:01] klinskoe za 200: нууу
+[05:14:10] klinskoe za 200: прикольная
+[05:14:20] klinskoe za 200: но у soldier scafa сгорело
+[05:14:25] бугагашенька: ???
+[05:14:38] бугагашенька: это кто блять
+[05:14:39] klinskoe za 200: ну у чувака что музыку сдезь сделал
+[05:14:51] klinskoe za 200: и за военную тематику шарит
+[05:14:52] бугагашенька: как?
+[05:15:11] Dropped "CYBORG_CLASSIC" from server<STEAM_0:1:795329949>
+[05:15:11] CYBORG_CLASSIC suicided!
+[05:15:14] klinskoe za 200: за советов у тебя вместо мосины и макарова каряк и вальтер
+[05:15:15] Dropped "Xvideos" from server<STEAM_0:0:550328768>
+[05:15:15] Xvideos suicided!
+[05:15:25] klinskoe za 200: ну там такая штука 
+[05:15:32] бугагашенька: поняо
+[05:15:39] бугагашенька: я понял про што он
+[05:15:46] бугагашенька: мля а че все ливают
+[05:15:54] бугагашенька: пиздец обидно сервер 
+[05:16:00] бугагашенька: крутой же сервер был
+[05:16:02] klinskoe za 200: да ща
+[05:16:06] klinskoe za 200: зайдет админ
+[05:16:07] бугагашенька: помню когда иза людей пинг был
+[05:16:09] klinskoe za 200: поменяет карту
+[05:16:12] бугагашенька: кул
+[05:16:17] klinskoe za 200: и класс все будет
+[05:16:20] бугагашенька: уры
+[05:16:24] klinskoe za 200: все рестарта ждут
+[05:16:25] бугагашенька: и через сколько?
+[05:16:32] klinskoe za 200: а это не известно
+[05:16:48] klinskoe za 200: ждем
+[05:17:02] klinskoe za 200: кстате ты слышал про новую фичу пуль?
+[05:17:15] бугагашенька: я видел там чето точность поменяли
+[05:17:21] бугагашенька: на данной пушке
+[05:17:28] бугагашенька: ну или я забыл
+[05:17:33] klinskoe za 200: не не
+[05:17:35] klinskoe za 200: про пули
+[05:17:36] бугагашенька: так че за фича?
+[05:17:45] klinskoe za 200: туман
+[05:17:48] бугагашенька: аааа
+[05:17:52] бугагашенька: крутяк
+[05:18:02] бугагашенька: я кстате думал тут погоду добавили лол
+[05:18:06] klinskoe za 200: (касается ЗЕНИТКИ)
+[05:18:15] klinskoe za 200: если бы
+[05:18:23] klinskoe za 200: нет ни одного аддона рабочего
+[05:18:29] klinskoe za 200: (пнв не зочет работать)
+[05:18:39] бугагашенька: а зачем нам нпв
+[05:18:50] бугагашенька: лампы бы добавили какие-то
+[05:18:53] бугагашенька: и усе
+[05:18:58] klinskoe za 200: ну типо чтоб ночью видеть, если тема уж зашла про погоду
+[05:19:08] klinskoe za 200: а в бою как?
+[05:19:08] бугагашенька: ну можно день оставлять
+[05:19:10] klinskoe za 200: выдаст
+[05:19:19] бугагашенька: лампы яркие нужны
+[05:19:25] бугагашенька: што бы ночью тебя и ты врага видел
+[05:19:28] бугагашенька: ну либо
+[05:19:34] бугагашенька: ты ничего так и не видиш
+[05:19:35] klinskoe za 200: ну чето бе 
+[05:19:41] бугагашенька: ну погода это погода
+[05:19:45] бугагашенька: банально дождь
+[05:19:50] бугагашенька: эт - видимость
+[05:20:02] klinskoe za 200: заставит сервак леч
+[05:20:09] бугагашенька: ???
+[05:20:14] klinskoe za 200: при поздних стадиях игры
+[05:20:22] klinskoe za 200: контента на 8 гигов
+[05:20:26] klinskoe za 200: у всех 15-30 фпс
+[05:20:35] klinskoe za 200: 130-200 пинга и дождь еще
+[05:20:36] бугагашенька: ппц
+[05:20:39] klinskoe za 200: смэрть
+[05:20:44] бугагашенька: СМЭРТЬ
+[05:20:47] бугагашенька: ладно
+[05:20:52] бугагашенька: когда админ
+[05:20:56] бугагашенька: прийдет???
+[05:21:06] klinskoe za 200: если чупака заикается про вайп
+[05:21:10] klinskoe za 200: значит прийдет
+[05:21:13] klinskoe za 200: а когда не ясно
+[05:21:18] бугагашенька: кул
+[05:21:21] бугагашенька: афк
+[05:29:40] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 972 seconds).
+[05:31:48] klinskoe za 200: сосиски
+[05:31:52] бугагашенька: ы
+[05:32:28] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[05:32:28] patrikalkas suicided!
+[05:33:22] Client "patrikalkas" connected.
+[05:33:55] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 33 seconds).
+[05:35:53] Client "Sain Louress" connected.
+[05:36:02] klinskoe za 200: фыфаыа
+[05:36:19] klinskoe za 200: стоямба
+[05:36:30] klinskoe za 200: да
+[05:36:40] klinskoe za 200: так у меня заначка с пушками
+[05:37:10] klinskoe za 200: справедливо
+[05:37:52] (TEAM) klinskoe za 200: немного тут)
+[05:38:06] klinskoe za 200: тут чувак тестил обнову
+[05:38:11] klinskoe za 200: у него валялось
+[05:38:16] klinskoe za 200: очень много оружия
+[05:38:43] klinskoe za 200: советы используют каряк и вальтер
+[05:38:46] klinskoe za 200: ну так 
+[05:38:47] klinskoe za 200: к слову
+[05:39:05] klinskoe za 200: >:]
+[05:40:35] klinskoe za 200: да ладно получится у тебя 
+[05:40:37] klinskoe za 200: :]
+[05:41:31] klinskoe za 200: "слушай парень, я ведь инженер и уиею решать проблемы"
+[05:42:49] klinskoe za 200: афигеть 
+[05:43:12] klinskoe za 200: тот самый парень из техаса с крупнокалиберной малышкой!
+[05:43:23] klinskoe za 200: ну типо
+[05:43:47] klinskoe za 200: короче 
+[05:44:08] klinskoe za 200: tank destroyer это танк для того чтоб танки убивать 
+[05:44:12] klinskoe za 200: но против пехоты
+[05:44:24] klinskoe za 200: ничего не сможет сделать
+[05:44:28] klinskoe za 200: почти
+[05:45:57] klinskoe za 200: в motd есть
+[05:46:01] klinskoe za 200: !motd
+[05:46:06] patrikalkas: !motd
+[05:46:40] klinskoe za 200: бывает
+[05:48:17] klinskoe za 200: опачки
+[05:48:33] klinskoe za 200: почти удобно
+[05:50:45] klinskoe za 200: ой ой
+[05:50:48] klinskoe za 200: а
+[05:50:51] klinskoe za 200: даже так 
+[05:52:49] klinskoe za 200: уютненько
+[05:53:51] klinskoe za 200: какой ужасы
+[05:53:55] klinskoe za 200: ужас*
+[05:54:20] klinskoe za 200: то что ящик так улетел
+[05:55:36] klinskoe za 200: опа
+[05:56:43] klinskoe za 200: АААА
+[05:56:50] klinskoe za 200: ЧУПАКА это
+[05:57:00] klinskoe za 200: не акусный шоколад поел
+[05:57:10] Client "Говноед Барсуков" connected.
+[05:57:36] klinskoe za 200: много обещающее имя
+[05:58:05] klinskoe za 200: ЧЕГО
+[05:58:27] klinskoe za 200: ЭТО ЧТО НАХУЙ
+[05:58:44] (TEAM) klinskoe za 200: БЛЯТЬ БЛЯТЬ НЕТ НЕТ НЕЕЕТ
+[05:58:50] klinskoe za 200: НЕ ДАЙ СУКА БОГ
+[05:59:04] klinskoe za 200: ОН ЧЕ РЕАЛЬНО ЖИВУЮ ЭКОНОМИКУ СДЕЛАЛИ?
+[05:59:13] klinskoe za 200: они*
+[05:59:39] klinskoe za 200: ну кстате можно >:]
+[06:00:18] klinskoe za 200: крутая ткань почти 300 стоит что
+[06:00:50] Client "Sain Louress" spawned in server <STEAM_0:1:779612370> (took 1497 seconds).
+[06:00:51] Client "Арабский котик" connected.
+[06:01:38] klinskoe za 200: пупупууу
+[06:01:42] klinskoe za 200: не знаю
+[06:02:29] klinskoe za 200: ну кстате
+[06:02:30] klinskoe za 200: не не
+[06:02:35] klinskoe za 200: война плохо
+[06:02:38] klinskoe za 200: а и еще 
+[06:02:56] klinskoe za 200: У ДЖОНА ЕСТЬ ТЯЖЕЛЫЙ ТАНК Н
+[06:04:28] klinskoe za 200: короче я так понял у нас бомж.выживание учитывая это крутое радио
+[06:05:13] klinskoe za 200: я знаю прям мега крутое место, там и нефть и вода и керамика
+[06:05:31] klinskoe za 200: но генерация руды в жмоде не мое почтение(
+[06:05:42] klinskoe za 200: там вода и керамика под водой 
+[06:05:51] klinskoe za 200: так что там только нефть
+[06:06:02] klinskoe za 200: это ужас 
+[06:06:38] Client "Арабский котик" spawned in server <STEAM_0:1:644714594> (took 347 seconds).
+[06:07:37] Dropped "Sain Louress" from server<STEAM_0:1:779612370>
+[06:07:37] Sain Louress suicided!
+[06:08:40] Client "Говноед Барсуков" spawned in server <STEAM_0:1:740939622> (took 690 seconds).
+[06:11:37] Арабский котик was killed by ent_jack_gmod_ezrefinery
+[06:16:21] klinskoe za 200: здрасте
+[06:16:36] klinskoe za 200: какими судьбами?
+[06:16:44] бугагашенька: просто смотрим че и как
+[06:16:51] klinskoe za 200: ну ладно...
+[06:18:51] Dropped "Говноед Барсуков" from server<STEAM_0:1:740939622>
+[06:18:51] Говноед Барсуков suicided!
+[06:18:53] klinskoe za 200 killed бугагашенька using tfa_doistg44
+[06:18:54] klinskoe za 200 killed Арабский котик using tfa_doistg44
+[06:18:54] Арабский котик killed klinskoe za 200 using player
+[06:18:59] бугагашенька suicided!
+[06:19:00] бугагашенька: идиотина...
+[06:19:08] бугагашенька: ДОЛБОЕБ
+[06:19:12] бугагашенька: НАХУЯ ТІ СТРЕЛЬНУЛ
+[06:19:15] Client "Говноед Барсуков" connected.
+[06:19:28] бугагашенька killed Арабский котик using wep_jack_gmod_hands
+[06:19:44] Арабский котик killed бугагашенька using wep_jack_gmod_hands
+[06:19:47] Client "Говноед Барсуков" spawned in server <STEAM_0:1:740939622> (took 32 seconds).
+[06:20:01] бугагашенька: йооооу
+[06:20:03] Говноед Барсуков: Жарова
+[06:20:12] Говноед Барсуков killed Арабский котик using wep_jack_gmod_hands
+[06:20:22] Говноед Барсуков: ебнутый
+[06:20:25] бугагашенька: почему кого і я не позвал все идиоті
+[06:20:40] Говноед Барсуков: але правила не нарушай
+[06:20:47] бугагашенька killed Арабский котик using wep_jack_gmod_hands
+[06:20:53] Говноед Барсуков: че за звуки ебанутый
+[06:21:03] Арабский котик killed Говноед Барсуков using wep_jack_gmod_hands
+[06:21:43] Dropped "Арабский котик" from server<STEAM_0:1:644714594>
+[06:21:43] Арабский котик suicided!
+[06:23:22] бугагашенька: прошу извинения иза моего друга идиота
+[06:23:30] бугагашенька: о 
+[06:23:31] Говноед Барсуков: ты на спавне был?
+[06:23:32] бугагашенька: дарова
+[06:23:34] Говноед Барсуков: привет
+[06:24:27] Говноед Барсуков: а кто владелец базы?
+[06:24:39] Говноед Барсуков: ну тут пальба была наверно
+[06:24:41] Говноед Барсуков: трупняки
+[06:24:44] klinskoe za 200: да
+[06:24:48] Говноед Барсуков: вам бы дверь
+[06:25:01] klinskoe za 200: у всех
+[06:25:10] klinskoe za 200: нет нет
+[06:25:24] Говноед Барсуков: ребят
+[06:25:26] klinskoe za 200: чупака накодил
+[06:25:29] klinskoe za 200: ждем
+[06:25:36] Говноед Барсуков: что делать если ерорки на некоторых ентити
+[06:25:41] klinskoe za 200: качать контент
+[06:25:44] klinskoe za 200: :/
+[06:25:49] Говноед Барсуков: А где коллекцию найтит?
+[06:25:51] klinskoe za 200: motd
+[06:25:54] Говноед Барсуков: !motd
+[06:26:03] Говноед Барсуков: Спасибо
+[06:26:06] klinskoe za 200: ну оружие не продается
+[06:26:14] klinskoe za 200: только утилизируется
+[06:26:15] klinskoe za 200: неа
+[06:26:24] Говноед Барсуков: фига
+[06:26:36] Говноед Барсуков: а вы в фракции какой то
+[06:26:38] Говноед Барсуков: ?
+[06:26:42] klinskoe za 200: грязные руки
+[06:26:49] Говноед Барсуков: это название?
+[06:26:50] бугагашенька: а че грзніе
+[06:26:52] klinskoe za 200: да 
+[06:26:58] бугагашенька: а че грязные???
+[06:27:02] Говноед Барсуков: в крови
+[06:27:04] Говноед Барсуков: наверно
+[06:27:09] klinskoe za 200: так надо
+[06:27:10] бугагашенька: а я думал рукоблудствовали
+[06:27:14] klinskoe za 200: ужас
+[06:27:19] klinskoe za 200: кукурузный шарик
+[06:27:20] Говноед Барсуков: Экономика один из самых интересных методов развития
+[06:27:23] Говноед Барсуков: в играх вообще
+[06:27:24] бугагашенька: ?
+[06:27:49] Говноед Барсуков: после ванильного сухого жмода так приятно ощущяется
+[06:28:00] бугагашенька: круто
+[06:28:14] Говноед Барсуков: А можно в фракцию вступить?
+[06:28:26] бугагашенька: лады я устал
+[06:28:37] бугагашенька: без убийств я не ливну, всем удачи я ливаю
+[06:38:16] Говноед Барсуков: а вещи при выходе сохраняются?
+[06:38:16] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[06:38:16] patrikalkas suicided!
+[06:38:17] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[06:38:17] бугагашенька suicided!
+[06:38:17] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[06:38:17] klinskoe za 200 suicided!
+[06:38:17] Dropped "Говноед Барсуков" from server<STEAM_0:1:740939622>
+[06:38:17] Говноед Барсуков suicided!
+[06:38:17] Dropped "Kerchinsky" from server<STEAM_0:1:591953064>
+[06:38:17] Kerchinsky suicided!
+[06:38:17] Dropped "Джон" from server<STEAM_0:1:743083427>
+[06:38:17] Джон suicided!
+[06:38:54] Client "Chupacabr" connected.
+[06:40:19] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 85 seconds).
+[06:40:42] Chupacabr: !menu
+[06:40:47] Chupacabr changed the map to gm_sro
+[06:40:47] Server is shutting down/changing levels.
+
+
+
+[06:41:00] New map: gm_sro
+[06:41:23] Client "patrikalkas" connected.
+[06:41:25] Client "klinskoe za 200" connected.
+[06:41:29] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 36 seconds).
+[06:41:44] Client "богдан." connected.
+[06:41:47] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 24 seconds).
+[06:42:14] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 49 seconds).
+[06:42:38] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[06:42:38] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[06:42:38] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[06:42:45] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztitanium
+[06:42:47] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[06:42:47] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[06:43:05] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 81 seconds).
+[06:43:06] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[06:43:23] Client "Kerchinsky" connected.
+[06:43:44] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezworkbench
+[06:43:48] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbattery
+[06:43:49] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgas
+[06:43:57] Client "Kerchinsky" spawned in server <STEAM_0:1:591953064> (took 34 seconds).
+[06:44:15] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[06:44:15] Chupacabr suicided!
+[06:44:20] Kerchinsky: !motd
+[06:44:41] klinskoe za 200: ништяк
+[06:45:06] klinskoe za 200: справедливо
+[06:47:03] klinskoe za 200: я пошел искать местечко
+[06:47:41] klinskoe za 200: ПИЗДААААА
+[06:47:43] klinskoe za 200: АЛЕ
+[06:47:53] klinskoe za 200: КРУТОЙ РЕСУРС НАШЕЛСЯ
+[06:48:32] klinskoe za 200: БЛЯТЬ
+[06:48:37] богдан.: пофиксили уже?
+[06:48:39] klinskoe za 200: да
+[06:48:40] Client "Mr.Bitcoin" connected.
+[06:48:53] klinskoe za 200: и я случайно купил не нужный динамит
+[06:48:55] klinskoe za 200: :/
+[06:48:59] богдан.: примите альиянс
+[06:49:14] богдан.: ну ладн
+[06:49:25] богдан.: я если че под мостом 
+[06:50:03] klinskoe za 200: руслан убрал посылки с броней
+[06:50:50] klinskoe za 200: ужас
+[06:51:19] klinskoe za 200: уран
+[06:55:58] klinskoe za 200: кстате 
+[06:56:14] klinskoe za 200: я бы щас добыл +-700 урана для генератора
+[06:56:31] klinskoe za 200: уж слишком он хорош
+[07:02:21] klinskoe za 200: нууу для меня это м16 
+[07:02:28] klinskoe za 200: точное и больно бъёт
+[07:02:45] (TEAM) klinskoe za 200: справедливо
+[07:04:39] Client "Soldier_S.C.A.F" connected.
+[07:07:08] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 149 seconds).
+[07:07:35] Soldier_S.C.A.F: ебанный в рот
+[07:07:41] Soldier_S.C.A.F: КАКОГО ХУЯ ТУТ СТЕНА
+[07:07:56] Soldier_S.C.A.F: эй!
+[07:07:59] Soldier_S.C.A.F: это ЧО
+[07:08:25] Soldier_S.C.A.F: нихуя себе прям вблизь спавна
+[07:08:31] klinskoe za 200: мне кажется админы будут чуть чуть так ругаться
+[07:09:25] Soldier_S.C.A.F: а мы за какую нацию?
+[07:10:12] Soldier_S.C.A.F: зачем столько панелек
+[07:10:27] Soldier_S.C.A.F: так хватило бы и пару штук
+[07:10:31] Soldier_S.C.A.F: для первой энергии
+[07:10:50] Soldier_S.C.A.F: а че прикол с ЛЭПами не знаешь
+[07:12:08] (TEAM) klinskoe za 200: DAAAAMN
+[07:12:17] klinskoe za 200: смотря на цену золота
+[07:12:17] Soldier_S.C.A.F: че случилось
+[07:12:21] klinskoe za 200: я афигеваю
+[07:12:24] klinskoe za 200: и еще
+[07:12:31] klinskoe za 200: она 260 стоит
+[07:12:37] Soldier_S.C.A.F: пизда...
+[07:12:50] klinskoe za 200: я видел жилу с 14к единицами золота
+[07:13:29] klinskoe za 200: ужас :/
+[07:13:56] klinskoe za 200: АХАХ
+[07:14:00] Soldier_S.C.A.F: нихуя себе не дорого....
+[07:14:01] klinskoe za 200: какой ужас
+[07:14:18] Soldier_S.C.A.F: а да
+[07:14:19] Client "Джон" connected.
+[07:15:14] Client "Джон" spawned in server <STEAM_0:1:743083427> (took 55 seconds).
+[07:16:00] Soldier_S.C.A.F: эх
+[07:16:04] Soldier_S.C.A.F: СШТ бы сделать
+[07:16:35] Soldier_S.C.A.F: так
+[07:16:40] Soldier_S.C.A.F: огнестрел на первое время есть
+[07:17:12] Soldier_S.C.A.F: аптечки тоже
+[07:17:44] Soldier_S.C.A.F: хм
+[07:17:54] Soldier_S.C.A.F: что за тип там у скал
+[07:18:10] Soldier_S.C.A.F: я проверю
+[07:18:11] klinskoe za 200: ркс
+[07:18:46] Soldier_S.C.A.F: здраствуйте!
+[07:18:55] Soldier_S.C.A.F: чем промышляете?
+[07:19:05] Soldier_S.C.A.F: понятно
+[07:19:14] Soldier_S.C.A.F: да я вас от туда заметил
+[07:19:21] Soldier_S.C.A.F: решил проверить
+[07:19:27] Soldier_S.C.A.F: ладно
+[07:19:32] Soldier_S.C.A.F: всего хорошего
+[07:19:56] Soldier_S.C.A.F: нет
+[07:20:06] Soldier_S.C.A.F: кароч
+[07:20:10] Soldier_S.C.A.F: просто мирный тип
+[07:20:48] Soldier_S.C.A.F: аптечки же в ящике есть
+[07:20:58] klinskoe za 200: они в запасе
+[07:21:01] klinskoe za 200: на крайняк
+[07:21:05] Soldier_S.C.A.F: понял
+[07:24:57] Soldier_S.C.A.F: да сука
+[07:25:01] klinskoe za 200: бывает
+[07:25:23] (TEAM) Soldier_S.C.A.F: знаешь клин
+[07:25:39] (TEAM) Soldier_S.C.A.F: думаю завтра вот сделать фракцию
+[07:25:48] (TEAM) Soldier_S.C.A.F: которая будет предприятием
+[07:26:00] (TEAM) Soldier_S.C.A.F: и реализуем проект SSH1T
+[07:26:17] klinskoe za 200: ну впринципе
+[07:26:21] klinskoe za 200: можно будет
+[07:26:25] Soldier_S.C.A.F: ну да
+[07:26:29] Soldier_S.C.A.F: взять нацистов
+[07:26:35] Soldier_S.C.A.F: да из тигра
+[07:26:39] Soldier_S.C.A.F: целый СШТ
+[07:26:41] Soldier_S.C.A.F: ммм
+[07:26:54] klinskoe za 200: самое главное сделать его
+[07:27:01] klinskoe za 200: а то зря делал правильно?
+[07:27:10] Soldier_S.C.A.F: опыт в танкостроении есть
+[07:27:19] klinskoe za 200: даже так
+[07:27:27] Soldier_S.C.A.F: но
+[07:27:34] Soldier_S.C.A.F: главное проверить эффективность
+[07:28:52] Client "Franklin_i2e | [Maggot]" connected.
+[07:29:04] Soldier_S.C.A.F: хм
+[07:29:06] Soldier_S.C.A.F: ладно уж
+[07:29:08] Soldier_S.C.A.F: пока
+[07:29:11] (TEAM) klinskoe za 200: я очень хочу спатеньки
+[07:29:16] klinskoe za 200: покеда ребятки
+[07:29:21] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[07:29:21] klinskoe za 200 suicided!
+[07:31:32] Soldier_S.C.A.F: итак
+[07:31:38] Soldier_S.C.A.F: какие приказания будут
+[07:32:14] Soldier_S.C.A.F: можно в целом нефть добывать
+[07:33:07] Soldier_S.C.A.F: кхм
+[07:33:11] Soldier_S.C.A.F: трубя для этого есть
+[07:33:39] Soldier_S.C.A.F: подлечитесь
+[07:34:07] Client "А ПО ЖОПЕ!?" connected.
+[07:34:27] Soldier_S.C.A.F: про реактор могу понять
+[07:34:42] Client "FoLime" connected.
+[07:34:52] Soldier_S.C.A.F: не слишком практично
+[07:35:09] Client "А ПО ЖОПЕ!?" spawned in server <STEAM_0:1:557416607> (took 62 seconds).
+[07:36:09] Soldier_S.C.A.F: надо бы фарбрикатор сделать
+[07:37:52] Soldier_S.C.A.F: есть контакт!
+[07:38:43] Soldier_S.C.A.F: так
+[07:38:58] Soldier_S.C.A.F: думаю разместить реактор к концу туннеля
+[07:39:08] Soldier_S.C.A.F: лол
+[07:39:15] Soldier_S.C.A.F: тебе изоляция не смущяет
+[07:40:53] Soldier_S.C.A.F: могу помочь с постройкой
+[07:41:47] Soldier_S.C.A.F: хм
+[07:45:26] богдан.: драсте
+[07:45:51] Soldier_S.C.A.F: я просто поверх сделал
+[07:45:52] богдан.: что здесб происходит
+[07:45:56] Soldier_S.C.A.F: дабы не морочится
+[07:46:18] Client "FoLime" spawned in server <STEAM_0:1:548346148> (took 696 seconds).
+[07:48:01] Soldier_S.C.A.F: хм
+[07:48:05] богдан.: че происходит тут
+[07:48:36] богдан.: как дела у вас
+[07:48:41] Soldier_S.C.A.F: нормально
+[07:48:48] богдан.: сносите чтоли
+[07:48:51] Soldier_S.C.A.F: ну
+[07:48:56] Soldier_S.C.A.F: чуток стен не наши
+[07:49:03] Soldier_S.C.A.F: но лидер хочет по делекатнее
+[07:49:04] богдан.: это я поставил
+[07:49:15] Soldier_S.C.A.F: снести не сможешь?
+[07:49:31] богдан.: ну если договоримся что территория тут будет общая
+[07:49:38] Soldier_S.C.A.F: хм
+[07:49:47] Soldier_S.C.A.F: я сейчас к лидеру обращюсь
+[07:49:49] богдан.: здесь спавн все таки
+[07:49:53] Soldier_S.C.A.F: может поинтересуется
+[07:50:01] Джон: supply radio: fulton-crate
+[07:50:06] Soldier_S.C.A.F: товарищь лидер!
+[07:50:17] Soldier_S.C.A.F: у нас человек хочет поговорить
+[07:50:51] богдан.: о том что не стоит застравивать территорию моста
+[07:51:02] богдан.: пусть это будет общая территория
+[07:51:08] богдан.: стены эти я уберу
+[07:51:37] богдан.: ну туннель ладно
+[07:52:07] богдан.: ну я на будующее, вдруг были такие планы
+[07:54:00] Soldier_S.C.A.F: да не
+[07:54:04] Soldier_S.C.A.F: оно уже так будет
+[07:55:57] Client "CYBORG_CLASSIC" connected.
+[07:56:44] Client "CYBORG_CLASSIC" spawned in server <STEAM_0:1:795329949> (took 47 seconds).
+[07:57:00] богдан.: привет
+[07:57:31] Soldier_S.C.A.F: вас могу ещё понять
+[07:57:44] Soldier_S.C.A.F: но не всегда может быть идеально
+[07:58:16] богдан. killed CYBORG_CLASSIC using ent_jack_gmod_ezboundingmine
+[07:59:31] богдан.: драсте
+[07:59:38] богдан.: нет
+[07:59:42] богдан.: просто гуляю
+[08:01:48] Soldier_S.C.A.F: к чорту его
+[08:01:53] богдан.: кого
+[08:01:57] Soldier_S.C.A.F: да 
+[08:02:03] Soldier_S.C.A.F: просто лидера хочу покинуть
+[08:02:08] богдан.: а что такое
+[08:02:10] Soldier_S.C.A.F: слишком аристократичный
+[08:02:14] богдан.: много требует?:
+[08:02:27] Soldier_S.C.A.F: да и мягкий
+[08:02:36] Soldier_S.C.A.F: ну
+[08:02:37] богдан.: ого
+[08:02:41] Soldier_S.C.A.F: и немного подыграю
+[08:02:50] богдан.: на меня не сваливай
+[08:03:09] богдан.: а к кому пойдешь
+[08:03:10] Soldier_S.C.A.F: минута пошла
+[08:03:16] Soldier_S.C.A.F: я сам пойду
+[08:03:19] богдан.: ок
+[08:03:43] Kerchinsky: who are you?
+[08:03:51] Kerchinsky: what do you need 
+[08:07:28] Soldier_S.C.A.F: драсте
+[08:07:45] Dropped "FoLime" from server<STEAM_0:1:548346148>
+[08:07:45] FoLime suicided!
+[08:07:50] Dropped "А ПО ЖОПЕ!?" from server<STEAM_0:1:557416607>
+[08:07:50] А ПО ЖОПЕ!? suicided!
+[08:09:15] Soldier_S.C.A.F: привет
+[08:10:43] богдан. suicided!
+[08:13:08] богдан.: че как
+[08:13:18] богдан.: понял
+[08:14:03] Soldier_S.C.A.F: драсте
+[08:14:12] Soldier_S.C.A.F: можно к вам?
+[08:14:20] Soldier_S.C.A.F: у меня просто тяжелая ситуация
+[08:14:32] Soldier_S.C.A.F: просто как сказать
+[08:14:38] Soldier_S.C.A.F: я лидера предал...
+[08:14:52] Soldier_S.C.A.F: слишком аристрокатичный
+[08:14:56] Soldier_S.C.A.F: да и мягкий
+[08:15:15] Soldier_S.C.A.F: из меня боец ниче
+[08:15:41] CYBORG_CLASSIC: !motd
+[08:15:42] Soldier_S.C.A.F: баг
+[08:15:54] Soldier_S.C.A.F: цена немного не соотвествует
+[08:16:07] Soldier_S.C.A.F: там по продаже если следить
+[08:16:35] Soldier_S.C.A.F: да
+[08:16:52] Soldier_S.C.A.F: ну он ниче даже
+[08:17:03] Soldier_S.C.A.F: хотя как у меня с ним было
+[08:17:05] Soldier_S.C.A.F: м-да
+[08:17:12] Dropped "богдан." from server<STEAM_0:1:815266334>
+[08:17:12] богдан. suicided!
+[08:17:18] Soldier_S.C.A.F: я могу помочь
+[08:17:47] Soldier_S.C.A.F: нет
+[08:17:50] Soldier_S.C.A.F: дискорда нет
+[08:18:27] Client "BeTTa" connected.
+[08:19:15] Soldier_S.C.A.F: угу
+[08:19:16] patrikalkas was killed by ent_jack_gmod_ezfalloutparticle
+[08:19:18] Soldier_S.C.A.F: но
+[08:19:21] Soldier_S.C.A.F: оно уже кончается
+[08:19:59] Soldier_S.C.A.F: да уж
+[08:20:04] Soldier_S.C.A.F: у него целый бункер
+[08:22:12] Soldier_S.C.A.F: хм
+[08:22:19] Soldier_S.C.A.F: хочешь проверить на ресурсы?
+[08:23:53] Soldier_S.C.A.F: сойдет
+[08:24:38] Soldier_S.C.A.F: но ресурсы
+[08:27:38] Soldier_S.C.A.F: нефть разве что
+[08:27:44] Soldier_S.C.A.F: но не думаю что зацепит
+[08:28:12] Soldier_S.C.A.F: отойди
+[08:29:18] Soldier_S.C.A.F: полечись
+[08:29:44] Soldier_S.C.A.F: хм
+[08:30:04] Soldier_S.C.A.F: а он ведь решил
+[08:30:10] Client "BeTTa" connected.
+[08:30:12] Soldier_S.C.A.F: полностью изолироватся
+[08:30:26] Soldier_S.C.A.F: да
+[08:30:44] Soldier_S.C.A.F: этот дебил туда стреляет
+[08:31:16] Soldier_S.C.A.F: да уж
+[08:32:15] Soldier_S.C.A.F: ох
+[08:32:18] Soldier_S.C.A.F: у него турель
+[08:32:25] Client "BeTTa" spawned in server <STEAM_0:1:518409584> (took 135 seconds).
+[08:32:56] Soldier_S.C.A.F: хах
+[08:33:18] Soldier_S.C.A.F: там он
+[08:33:20] Soldier_S.C.A.F: в бункере
+[08:33:29] Dropped "BeTTa" from server<STEAM_0:1:518409584>
+[08:33:29] BeTTa suicided!
+[08:33:40] Soldier_S.C.A.F: мимо
+[08:34:00] Soldier_S.C.A.F: он внутри
+[08:34:47] Soldier_S.C.A.F: осторожно
+[08:34:51] Soldier_S.C.A.F: он выцеливает нас
+[08:36:57] Client "Говноед Барсуков" connected.
+[08:37:26] Client "Говноед Барсуков" spawned in server <STEAM_0:1:740939622> (took 29 seconds).
+[08:39:08] Soldier_S.C.A.F: ДА ЕБАНАЯ СНАЙПЕКА
+[08:39:16] Soldier_S.C.A.F: НЕНАВИЖУ ОПТИКУ
+[08:39:37] Soldier_S.C.A.F: фух
+[08:39:41] Soldier_S.C.A.F: рядом пролетело
+[08:41:16] Джон killed Говноед Барсуков using tfa_doithompsonm1a1
+[08:41:18] Soldier_S.C.A.F: это не оН
+[08:42:32] Soldier_S.C.A.F: че там
+[08:42:40] Говноед Барсуков: знаю
+[08:42:42] Говноед Барсуков: уже опробовал
+[08:42:43] Soldier_S.C.A.F: ну ка!
+[08:42:50] Soldier_S.C.A.F: попробуй арт.пушку сделать
+[08:42:58] Soldier_S.C.A.F: а я им займусь
+[08:43:09] Говноед Барсуков: вам помочь?
+[08:44:15] patrikalkas killed Soldier_S.C.A.F using tfa_doienfield_scop
+[08:45:38] Soldier_S.C.A.F: значит так!
+[08:45:44] Soldier_S.C.A.F: нужна пушка
+[08:46:15] Soldier_S.C.A.F: арт пушка
+[08:46:26] Soldier_S.C.A.F: артереллийская
+[08:46:34] CYBORG_CLASSIC killed patrikalkas using tfa_doispringfield_scop
+[08:46:40] Client "amylhoskins" connected.
+[08:46:42] Soldier_S.C.A.F: слушай
+[08:46:55] Soldier_S.C.A.F: можно взрывчатку заказать
+[08:47:02] Soldier_S.C.A.F: а все остальное так добуду
+[08:47:06] Soldier_S.C.A.F: +снаряды нужны
+[08:47:32] Soldier_S.C.A.F: блять
+[08:47:36] Soldier_S.C.A.F: слишком дорого
+[08:48:46] Client "amylhoskins" connected.
+[08:49:38] Говноед Барсуков: !motd
+[08:50:02] Soldier_S.C.A.F: вот сука
+[08:50:25] patrikalkas killed Soldier_S.C.A.F using tfa_doimp40
+[08:50:37] patrikalkas killed Джон using tfa_doimp40
+[08:50:56] Soldier_S.C.A.F: нЕТИ
+[08:51:39] patrikalkas killed Джон using tfa_doithompsonm1a1
+[08:51:40] patrikalkas killed CYBORG_CLASSIC using tfa_doithompsonm1a1
+[08:51:48] patrikalkas killed Джон using tfa_doithompsonm1a1
+[08:51:54] patrikalkas killed CYBORG_CLASSIC using tfa_doithompsonm1a1
+[08:53:43] patrikalkas killed Джон using tfa_doithompsonm1a1
+[08:53:43] patrikalkas killed CYBORG_CLASSIC using tfa_doithompsonm1a1
+[08:53:53] patrikalkas killed Джон using tfa_doithompsonm1a1
+[08:53:55] Soldier_S.C.A.F was killed by ent_jack_gmod_ezsentry
+[08:53:58] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[08:53:58] Soldier_S.C.A.F suicided!
+[08:54:14] patrikalkas killed Джон using tfa_doithompsonm1a1
+[08:54:59] patrikalkas killed Джон using tfa_doithompsonm1a1
+[08:55:09] patrikalkas killed Джон using tfa_doithompsonm1a1
+[08:55:21] patrikalkas killed Джон using tfa_doithompsonm1a1
+[08:55:32] patrikalkas killed Джон using tfa_doithompsonm1a1
+[08:58:41] Kerchinsky killed Говноед Барсуков using tfa_doig43
+[09:02:43] Client "FRED01" connected.
+[09:03:10] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[09:03:10] patrikalkas suicided!
+[09:04:46] Говноед Барсуков: !motd
+[09:10:15] Говноед Барсуков: supply radio: basic parts
+[09:10:25] Говноед Барсуков: supply radio:help
+[09:11:32] Говноед Барсуков: !motd
+[09:12:31] Говноед Барсуков: Да бывает
+[09:12:34] Говноед Барсуков: я сам ахуел
+[09:12:38] Говноед Барсуков: Нормально
+[09:12:45] Говноед Барсуков: а как фракцию сделать
+[09:13:04] Говноед Барсуков: Ооо
+[09:13:06] Говноед Барсуков: и да 
+[09:13:07] Dropped "Kerchinsky" from server<STEAM_0:1:591953064>
+[09:13:07] Kerchinsky suicided!
+[09:13:11] Говноед Барсуков: О нихуя
+[09:16:13] Client "stayloyal" connected.
+[09:17:42] Client "stayloyal" spawned in server <STEAM_0:0:647771193> (took 89 seconds).
+[09:19:52] Говноед Барсуков: Добрый день
+[09:20:10] Говноед Барсуков: Дома больше нет
+[09:20:14] Говноед Барсуков: Корпоративные войны
+[09:20:24] Говноед Барсуков: Биоружие 
+[09:20:33] Говноед Барсуков: Чем?
+[09:20:43] Говноед Барсуков: Ну можете прилечь
+[09:20:47] Говноед Барсуков: и присоеденится
+[09:21:04] Говноед Барсуков: Давайте
+[09:21:12] Говноед Барсуков: Спасибо
+[09:21:35] Говноед Барсуков: Снизилась скорость поворта земли
+[09:21:45] Говноед Барсуков: Один день длится 75 часов
+[09:22:11] Говноед Барсуков: Хотите присоединтся?
+[09:22:14] Говноед Барсуков: Я вам помогу
+[09:22:29] Говноед Барсуков: оно привязано ко мне
+[09:22:34] Говноед Барсуков: так что нет
+[09:22:38] Говноед Барсуков: оу
+[09:22:43] Говноед Барсуков: Ого
+[09:22:46] Говноед Барсуков: ргб подсветка
+[09:22:57] Говноед Барсуков: Могу предложить тему
+[09:23:02] Говноед Барсуков: по заработку
+[09:23:07] Говноед Барсуков: мне очень нужен напарник
+[09:23:22] Говноед Барсуков: Вы копаете ресурсы мы строим дрель продаваем ресурсы
+[09:23:26] Говноед Барсуков: купаемся в деньгах
+[09:23:32] Говноед Барсуков: да
+[09:24:04] Говноед Барсуков: Lf
+[09:24:06] Говноед Барсуков: Да
+[09:24:36] Говноед Барсуков: Гениально
+[09:24:45] Говноед Барсуков: Но сейчас нужно закупить газ
+[09:25:11] Говноед Барсуков: Возьмите
+[09:25:16] Говноед Барсуков: много плохих людей ходит
+[09:25:21] Джон killed CYBORG_CLASSIC using tfa_doimp40
+[09:25:24] Говноед Барсуков: 2-3
+[09:26:02] Говноед Барсуков: Я советую не высовыватся
+[09:26:11] Говноед Барсуков: у них оружие в разы лучше нашего
+[09:26:15] Говноед Барсуков: они снесут нас минометами?
+[09:27:30] Говноед Барсуков: Черт
+[09:27:35] Говноед Барсуков: ты первым открыл пальбу?
+[09:27:44] Говноед Барсуков: Ладно
+[09:28:44] Client "vasiliy karat" connected.
+[09:29:55] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 71 seconds).
+[09:31:03] Говноед Барсуков: Брат
+[09:31:15] Говноед Барсуков: Тебе если надо пользуйся версатком
+[09:31:17] Говноед Барсуков: большим
+[09:31:30] Говноед Барсуков: и как патроны производить?
+[09:31:40] Говноед Барсуков: неа
+[09:31:57] Говноед Барсуков: Можете вернуть кирку?
+[09:32:08] Говноед Барсуков: да
+[09:32:15] Говноед Барсуков: главное чтоб не гнил
+[09:32:30] Говноед Барсуков: Спасибо
+[09:32:34] Говноед Барсуков: если надо обращайтесь
+[09:33:21] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[09:33:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[09:34:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[09:34:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[09:35:10] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[09:35:13] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:43] Говноед Барсуков: Cth
+[09:35:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:45] Говноед Барсуков: Cth
+[09:35:48] Говноед Барсуков: Умираю
+[09:35:52] Говноед Барсуков: Вирус
+[09:35:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:35:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:36:01] Говноед Барсуков: Есть еда?
+[09:36:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:36:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:36:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[09:38:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:29] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:37] Говноед Барсуков killed stayloyal using rust_boltrifle
+[09:38:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:38:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:39:53] Dropped "Джон" from server<STEAM_0:1:743083427>
+[09:39:53] Джон suicided!
+[09:40:01] Client "Джон" connected.
+[09:40:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[09:41:00] Client "Джон" spawned in server <STEAM_0:1:743083427> (took 59 seconds).
+[09:41:04] Говноед Барсуков: это ты что делашеь
+[09:41:13] Говноед Барсуков: и?
+[09:41:23] stayloyal killed Говноед Барсуков using rust_eoka
+[09:42:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[09:42:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:42:32] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:42:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[09:45:39] stayloyal was killed by entityflame
+[09:48:45] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[09:48:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[09:48:56] Client "солдат" connected.
+[09:49:01] Джон killed CYBORG_CLASSIC using ent_jack_gmod_ezsticknade
+[09:53:19] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 263 seconds).
+[09:55:08] Client "RusLanConnection" connected.
+[09:55:32] stayloyal killed солдат using tfa_doimp40
+[09:56:32] stayloyal killed солдат using tfa_doimp40
+[09:56:51] Dropped "солдат" from server<STEAM_0:0:845922848>
+[09:56:51] солдат suicided!
+[09:57:07] CYBORG_CLASSIC killed stayloyal using tfa_doispringfield_scop
+[09:57:16] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 128 seconds).
+[09:57:45] RusLanConnection cloaked Themself by amount 0
+[09:58:28] Говноед Барсуков: Помогите
+[09:58:32] Говноед Барсуков: умираб
+[09:58:38] Говноед Барсуков: трупный вирус
+[09:58:44] Джон killed Говноед Барсуков using tfa_doimp40
+[09:59:41] Джон killed CYBORG_CLASSIC using tfa_doimp40
+[10:00:01] vasiliy karat to admins: катющ
+[10:00:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[10:00:55] Говноед Барсуков: supply radio: make loan
+[10:01:15] vasiliy karat to admins: че чупак почниит
+[10:01:21] Говноед Барсуков: supply radio: make loan
+[10:01:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[10:01:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[10:02:00] Говноед Барсуков: supply radio: make loan
+[10:02:03] vasiliy karat: обвалил тугнесте
+[10:02:20] vasiliy karat: ну и кто чупак после этого
+[10:02:37] vasiliy karat: может
+[10:02:39] vasiliy karat: ошибки
+[10:02:42] vasiliy karat: ест
+[10:03:46] vasiliy karat: там другые цены
+[10:04:22] Джон killed Говноед Барсуков using tfa_doimp40
+[10:04:22] vasiliy karat to admins: лампочки
+[10:04:27] Dropped "Говноед Барсуков" from server<STEAM_0:1:740939622>
+[10:04:27] Говноед Барсуков suicided!
+[10:08:28] vasiliy karat to admins: у меня еророа нет
+[10:08:42] RusLanConnection uncloaked Themself
+[10:08:49] vasiliy karat to admins: я просто клок не включил
+[10:08:53] vasiliy karat to admins: и летаю
+[10:10:14] vasiliy karat to admins: щас щас зацени
+[10:10:17] CYBORG_CLASSIC killed RusLanConnection using tfa_doispringfield_scop
+[10:10:25] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[10:10:27] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[10:10:28] RusLanConnection cloaked Themself by amount 0
+[10:10:35] vasiliy karat to admins: говно литл берда нету
+[10:10:46] vasiliy karat to admins: постаь
+[10:10:53] vasiliy karat to admins: поставь литл берда
+[10:11:05] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[10:11:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[10:11:30] RusLanConnection teleported to CYBORG_CLASSIC
+[10:12:07] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_t60
+[10:12:48] RusLanConnection teleported to CYBORG_CLASSIC
+[10:13:39] vasiliy karat to admins: слишком яркие
+[10:14:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[10:15:58] stayloyal killed CYBORG_CLASSIC using tfa_doithompsonm1a1
+[10:16:16] RusLanConnection teleported to CYBORG_CLASSIC
+[10:16:42] Джон killed stayloyal using tfa_doimp40
+[10:20:52] Client "Aremind" connected.
+[10:20:57] Client "dante" connected.
+[10:21:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[10:22:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[10:22:21] Client "Aremind" spawned in server <STEAM_0:1:504966072> (took 89 seconds).
+[10:22:44] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[10:22:44] RusLanConnection suicided!
+[10:23:53] Aremind: !motd
+[10:24:14] Client "RusLanConnection" connected.
+[10:25:13] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 59 seconds).
+[10:25:18] Aremind: я немец
+[10:26:08] vasiliy karat: это кто
+[10:26:31] vasiliy karat: во
+[10:26:33] vasiliy karat: думаю норма
+[10:26:34] vasiliy karat: ль
+[10:26:40] vasiliy karat: ну я от тебя
+[10:26:40] vasiliy karat: вдиле
+[10:26:45] Джон killed stayloyal using tfa_doithompsonm1a1
+[10:26:49] Client "disha" connected.
+[10:26:55] vasiliy karat: а не
+[10:27:09] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[10:27:18] vasiliy karat: нид аммо нид аммо нид релоад
+[10:27:41] vasiliy karat: поменй
+[10:28:51] vasiliy karat: каждый трасирующи
+[10:28:59] stayloyal killed vasiliy karat using tfa_doienfield
+[10:29:15] stayloyal killed vasiliy karat using tfa_doienfield
+[10:29:25] Джон killed stayloyal using tfa_doithompsonm1a1
+[10:29:35] Aremind: ЧЕМ
+[10:29:36] Aremind: НАХУЙ
+[10:29:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[10:29:55] Client "Kerchinsky" connected.
+[10:30:01] Aremind: БЛЯТЬ
+[10:30:10] Aremind: еболои блять там
+[10:30:16] vasiliy karat: бери вентовку
+[10:30:24] Client "Kerchinsky" spawned in server <STEAM_0:1:591953064> (took 29 seconds).
+[10:30:25] vasiliy karat: бери вентовку
+[10:30:27] vasiliy karat: бери
+[10:30:29] vasiliy karat: вентовку
+[10:30:33] vasiliy karat: забрал?
+[10:30:35] vasiliy karat: возьми
+[10:30:37] vasiliy karat: вентовку
+[10:30:52] vasiliy karat suicided!
+[10:31:01] CYBORG_CLASSIC killed Aremind using tfa_doithompsonm1a1
+[10:31:05] Джон killed RusLanConnection using tfa_doithompsonm1a1
+[10:31:10] RusLanConnection teleported to CYBORG_CLASSIC
+[10:31:11] RusLanConnection teleported to CYBORG_CLASSIC
+[10:31:13] vasiliy karat killed CYBORG_CLASSIC using tfa_doim1garand
+[10:31:13] Джон killed Aremind using tfa_doithompsonm1a1
+[10:31:21] RusLanConnection brought CYBORG_CLASSIC
+[10:32:16] Aremind: че за х
+[10:32:22] Aremind: чэ это было
+[10:33:04] RusLanConnection banned CYBORG_CLASSIC permanently (перепутал с дарк рп сервером)
+[10:33:04] Dropped "CYBORG_CLASSIC" from server<STEAM_0:1:795329949>
+[10:33:04] CYBORG_CLASSIC suicided!
+[10:33:32] vasiliy karat: пингани чупака еще раз он в сети
+[10:33:47] vasiliy karat: пусть сюда идет вонючий чупак
+[10:33:57] Aremind: великий руслан
+[10:34:14] vasiliy karat: он безумец
+[10:35:33] RusLanConnection brought Джон
+[10:36:19] stayloyal: supply radio: global message
+[10:36:25] Dropped "Kerchinsky" from server<STEAM_0:1:591953064>
+[10:36:25] Kerchinsky suicided!
+[10:36:44] Dropped "Джон" from server<STEAM_0:1:743083427>
+[10:36:44] Джон suicided!
+[10:37:07] vasiliy karat: если чупак быстро починит щас
+[10:37:13] vasiliy karat: можно быстро пинганут
+[10:37:55] vasiliy karat: да ладно иногда хорошая резня
+[10:38:01] vasiliy karat: когда каждый согласен
+[10:38:27] vasiliy karat: ламчок
+[10:39:03] Client "disha" spawned in server <STEAM_0:0:573752413> (took 734 seconds).
+[10:39:13] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[10:39:18] vasiliy karat: отойдите назад
+[10:39:19] vasiliy karat: мееня
+[10:39:22] vasiliy karat: на чучуть даль
+[10:39:46] Client "Джон" connected.
+[10:39:54] vasiliy karat: во чупак щас зайдет надеюс к нам
+[10:40:04] vasiliy karat: ну он в гмод
+[10:40:44] Client "Джон" spawned in server <STEAM_0:1:743083427> (took 58 seconds).
+[10:43:37] stayloyal was killed by ent_jack_gmod_ezfalloutparticle
+[10:43:38] disha: !motd
+[10:43:45] disha: !motd
+[10:43:49] Aremind: ... а Гитлер таакже говорил " А почему?..."
+[10:45:02] stayloyal was killed by ent_jack_gmod_ezfalloutparticle
+[10:45:33] stayloyal was killed by ent_jack_gmod_ezfalloutparticle
+[10:46:03] stayloyal: supply radio: fulton-crate
+[10:46:27] Aremind: !motd
+[10:48:45] disha: !motd
+[10:49:22] disha: !motd
+[10:49:55] Dropped "stayloyal" from server<STEAM_0:0:647771193>
+[10:49:55] stayloyal suicided!
+[10:51:14] Aremind: Аллах акбар!
+[10:53:27] vasiliy karat to admins: я американец втф
+[10:53:51] vasiliy karat to admins: я щас их сам забаню
+[10:54:10] vasiliy karat to admins: анархия
+[10:54:19] vasiliy karat to admins: а не хаос военный бомбежки
+[10:54:55] Aremind: У каждого своя логика. Но Руслану надо подчиняться. 1984
+[10:55:15] Client "Redoket" connected.
+[10:56:20] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 65 seconds).
+[10:57:26] Aremind: на мосту лучше не делать ничего
+[11:02:46] vasiliy karat to admins: чупак быстрее чини говно
+[11:05:24] vasiliy karat suicided!
+[11:06:03] disha: !motd
+[11:06:46] vasiliy karat: руслан конешкен когда удалишь уже ядерную ракету сколько можно
+[11:06:52] vasiliy karat: когда летит 
+[11:06:56] vasiliy karat: вообще че делать
+[11:07:02] vasiliy karat: я даже убежать не могу
+[11:07:13] vasiliy karat: ракета взрывается
+[11:07:19] vasiliy karat: убивает меня и весь свой сквад
+[11:07:32] RusLanConnection banned Джон permanently (Foul language)
+[11:07:32] Dropped "Джон" from server<STEAM_0:1:743083427>
+[11:07:32] Джон suicided!
+[11:08:00] vasiliy karat: чуть не вскрылось что у донатеров щит
+[11:08:26] vasiliy karat: можно
+[11:08:31] vasiliy karat: через меня плати
+[11:09:00] vasiliy karat: руслан это все говорит потому что боится что люди узнают
+[11:09:03] vasiliy karat: поэтому через меня
+[11:09:05] vasiliy karat: плата идет
+[11:09:27] vasiliy karat: когда пинг всех стариков
+[11:09:32] vasiliy karat: когда чупак идиот починит
+[11:11:55] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[11:11:55] Redoket suicided!
+[11:12:43] disha: птички
+[11:13:19] Aremind: Аллах акбар!
+[11:13:20] Aremind: Аллах акбар!
+[11:27:37] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[11:28:17] vasiliy karat: ОФЕГЕЛ?
+[11:28:20] vasiliy karat killed Aremind using wep_jack_gmod_ezshovel
+[11:28:41] vasiliy karat: какое дебелизм вонючая мина
+[11:28:47] vasiliy karat: как так
+[11:29:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[11:30:36] vasiliy karat: тактическая перезарядка на лан рп 
+[11:30:43] vasiliy karat: когда 
+[11:32:05] vasiliy karat: взял
+[11:32:12] vasiliy karat: ну взял
+[11:32:20] Aremind: вас слішно
+[11:32:21] vasiliy karat: по карманам расфосавал
+[11:33:34] vasiliy karat: добавили штурмгевер
+[11:34:20] disha: !motd
+[11:43:21] disha: !motd
+[11:44:05] Client "Chupacabr" connected.
+[11:44:45] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 40 seconds).
+[11:45:49] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezaidradio
+[11:45:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbattery
+[11:46:07] RusLanConnection teleported to Chupacabr
+[11:46:09] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[11:47:08] disha: !motd
+[11:50:47] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[11:50:47] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[11:50:48] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[11:50:48] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[11:50:58] Client "BeTTa" connected.
+[11:51:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[11:51:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[11:51:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[11:51:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[11:51:29] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[11:51:30] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[11:51:30] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[11:51:37] vasiliy karat: ракман расказал историю из жизни
+[11:51:41] vasiliy karat: сам упал
+[11:51:55] Aremind: 3
+[11:51:56] Aremind: 2
+[11:51:57] Aremind: 1
+[11:51:59] Client "BeTTa" spawned in server <STEAM_0:1:518409584> (took 61 seconds).
+[11:52:04] disha killed Aremind using tfa_doimp40
+[11:52:08] Chupacabr: он под градусом просто скатывается со стены
+[11:52:09] vasiliy karat: сколько нужно выпить чтобы э
+[11:52:11] vasiliy karat: лететь
+[11:52:20] vasiliy karat: шарик с гелием
+[11:52:31] disha: у мене приход
+[11:53:00] Dropped "BeTTa" from server<STEAM_0:1:518409584>
+[11:53:00] BeTTa suicided!
+[11:53:24] Client "BeTTa" connected.
+[11:53:25] disha killed Aremind using tfa_doimp40
+[11:53:55] Client "BeTTa" spawned in server <STEAM_0:1:518409584> (took 31 seconds).
+[11:54:29] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[11:57:09] Client "бугагашенька" connected.
+[11:57:51] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 42 seconds).
+[11:58:05] бугагашенька: ЫЫЫЫ
+[11:58:15] Client "novohopersk90" connected.
+[11:59:07] BeTTa: /me ауаа
+[11:59:11] BeTTa: /me ауаа
+[11:59:12] BeTTa: /me ауаа
+[11:59:14] BeTTa: /me ауаа
+[11:59:30] disha: щас
+[11:59:37] disha: подожди, микрофон подключу
+[12:00:30] Dropped "BeTTa" from server<STEAM_0:1:518409584>
+[12:00:30] BeTTa suicided!
+[12:01:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:02:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:02:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:03:04] Aremind to admins: руслан, плз, соблюдай жєнескую коніенцию я безоружен
+[12:03:18] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:03:18] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:03:18] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:03:19] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:03:19] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:03:19] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:03:19] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:03:19] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:03:19] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:03:28] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[12:03:32] Client "novohopersk90" spawned in server <STEAM_0:0:538797841> (took 317 seconds).
+[12:03:56] (csay from RusLanConnection) пока чупак фиксит -  развлекаемся
+[12:04:15] бугагашенька: РАСИСТЫ
+[12:04:40] RusLanConnection killed Aremind using tfa_doim3greasegun
+[12:06:03] бугагашенька: jmod_ez_inv
+[12:06:07] disha: !motd
+[12:06:11] RusLanConnection teleported to disha
+[12:07:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[12:08:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/blastdoor001c.mdl
+[12:08:37] vasiliy karat: почен
+[12:13:35] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[12:13:41] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider_new
+[12:13:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:14:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:14:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:14:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:14:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:14:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:15:22] disha suicided!
+[12:15:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:16:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:16:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:16:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:16:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:16:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:18:13] Dropped "novohopersk90" from server<STEAM_0:0:538797841>
+[12:18:13] novohopersk90 suicided!
+[12:18:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:18:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezifakpacket
+[12:18:57] RusLanConnection killed disha using tfa_doim1919
+[12:19:42] vasiliy karat: ну
+[12:19:49] vasiliy karat: почему цены дургеи
+[12:20:28] RusLanConnection killed disha using tfa_doim3greasegun
+[12:21:16] vasiliy karat: supply radio: make loan
+[12:21:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:21:34] RusLanConnection killed Aremind using tfa_doim1919
+[12:21:38] RusLanConnection killed disha using tfa_doim1919
+[12:23:39] Aremind: ! я капитулирую в этой бойне. Немцы капитулируют.
+[12:24:14] Aremind to admins: я капитулирую в этой бойне. Немец капитулирует. Руслан победил. у ме�
+[12:28:20] бугагашенька killed RusLanConnection using tfa_doienfield
+[12:28:48] бугагашенька: СЮДА ИДИТЕ
+[12:28:51] бугагашенька: СЮДЫ
+[12:28:54] бугагашенька: СЮДА ИДИТЕ ЕПРСТ
+[12:30:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:30:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[12:33:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_t34_42
+[12:33:17] RusLanConnection was killed by lvs_t34_42
+[12:33:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_t34_42
+[12:34:14] RusLanConnection killed Aremind using lvs_t34_42
+[12:34:14] RusLanConnection killed disha using lvs_t34_42
+[12:34:34] бугагашенька: ИДИТЕ ВНИЗ
+[12:34:36] бугагашенька: ТАМ ПАТРИКИ
+[12:34:39] бугагашенька: АПТЕЧКИ
+[12:34:40] бугагашенька: ЕДА
+[12:34:41] бугагашенька: КРЧ
+[12:34:54] бугагашенька: ТАМ ВСЕ СНИЗУ
+[12:34:58] бугагашенька: ок
+[12:36:41] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbattery
+[12:37:08] Aremind to admins: Руслан Конекшин, мы горный гарнизон СС капитулируем перед вами из-з�
+[12:37:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:37:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:37:21] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:37:21] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[12:37:29] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[12:37:54] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_t60
+[12:39:15] RusLanConnection cloaked Themself by amount 0
+[12:39:56] vasiliy karat: нущ
+[12:42:14] vasiliy karat: нущ
+[12:42:39] Client "indert" connected.
+[12:44:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:45:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[12:45:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[12:45:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[12:45:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[12:45:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[12:45:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[12:45:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[12:46:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[12:46:05] vasiliy karat: нущ
+[12:47:09] Dropped "Aremind" from server<STEAM_0:1:504966072>
+[12:47:09] Aremind suicided!
+[12:47:20] RusLanConnection cloaked Themself by amount 0
+[12:47:30] Client "VolniceV" connected.
+[12:48:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider_new
+[12:48:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:48:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:48:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:48:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:48:58] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[12:48:59] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[12:49:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[12:49:35] vasiliy karat: ВООО
+[12:49:37] vasiliy karat: ПОЧИНИЛСОЬ
+[12:49:58] vasiliy karat: потом сломатся
+[12:50:55] RusLanConnection teleported to бугагашенька
+[12:50:56] RusLanConnection teleported to vasiliy karat
+[12:50:56] RusLanConnection teleported to бугагашенька
+[12:51:02] vasiliy karat: ватащайт
+[12:51:05] vasiliy karat: какое гов
+[12:51:42] бугагашенька: jmod_ez_inv
+[12:53:44] vasiliy karat: нет
+[12:53:45] vasiliy karat: говно
+[12:53:49] vasiliy karat: 100 тунгустен
+[12:53:51] vasiliy karat: 655
+[12:53:58] vasiliy karat: хотя должно 1100
+[12:54:00] vasiliy karat: 11000
+[12:54:23] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[12:54:23] vasiliy karat suicided!
+[12:54:24] Client "vasiliy karat" connected.
+[12:54:57] Client "indert" spawned in server <STEAM_0:1:920011634> (took 738 seconds).
+[12:55:06] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 42 seconds).
+[12:55:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[12:55:29] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[12:55:37] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[12:55:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[12:55:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[12:55:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezplatinum
+[12:55:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezplatinum
+[12:55:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezplatinum
+[12:55:45] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[12:55:45] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[12:55:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[12:55:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztungsten
+[12:55:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznutrients
+[12:55:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznutrients
+[12:55:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgold
+[12:55:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgold
+[12:56:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezadvtextiles
+[12:56:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezadvtextiles
+[12:56:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezadvtextiles
+[12:56:05] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[12:56:05] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[12:56:09] Dropped "disha" from server<STEAM_0:0:573752413>
+[12:56:09] disha suicided!
+[12:57:08] Client "VolniceV" spawned in server <STEAM_0:0:176496528> (took 578 seconds).
+[12:57:08] RusLanConnection teleported to Chupacabr
+[12:57:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:58:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[12:58:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[12:59:22] RusLanConnection teleported to indert
+[12:59:22] RusLanConnection teleported to VolniceV
+[12:59:24] RusLanConnection teleported to бугагашенька
+[12:59:45] RusLanConnection uncloaked Themself
+[13:00:57] Dropped "indert" from server<STEAM_0:1:920011634>
+[13:00:57] indert suicided!
+[13:04:25] RusLanConnection cloaked Themself by amount 0
+[13:04:31] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:04:31] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:04:31] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:04:32] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:04:32] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:04:32] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:04:48] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[13:04:50] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[13:04:52] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[13:04:56] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:04:56] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:04:56] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:04:57] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[13:04:57] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[13:04:58] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_zombie
+[13:04:59] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[13:04:59] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_poisonzombie
+[13:05:00] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:09] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:10] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:10] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:10] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:10] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:10] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:11] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:16] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:16] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:20] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:20] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:23] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:24] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_fastzombie
+[13:05:30] Dropped "VolniceV" from server<STEAM_0:0:176496528>
+[13:05:30] VolniceV suicided!
+[13:08:15] RusLanConnection uncloaked Themself
+[13:09:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[13:11:57] Client "Redoket" connected.
+[13:12:28] Client "Redoket" connected.
+[13:13:17] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 49 seconds).
+[13:14:05] RusLanConnection teleported to Redoket
+[13:14:33] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[13:14:33] vasiliy karat suicided!
+[13:14:33] Client "vasiliy karat" connected.
+[13:15:03] Redoket killed RusLanConnection using tfa_doistg44
+[13:15:15] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 42 seconds).
+[13:15:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[13:15:46] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbattery
+[13:15:46] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbattery
+[13:16:08] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eznutrients
+[13:16:15] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezifakpacket
+[13:16:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[13:16:33] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[13:16:33] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[13:16:41] Redoket: supply radio: flamethrower kit
+[13:16:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[13:16:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[13:17:21] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezifakpacket
+[13:17:30] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[13:17:30] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[13:17:30] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[13:17:30] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[13:17:30] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[13:17:30] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[13:17:36] Redoket killed бугагашенька using tfa_doiowen
+[13:18:28] Redoket killed Chupacabr using tfa_doiowen
+[13:19:29] бугагашенька killed Redoket using tfa_doimp40
+[13:23:25] бугагашенька killed Redoket using tfa_doik98_scop
+[13:25:23] Redoket: supply radio: flamethrower kit
+[13:25:32] Redoket: supply radio: flares
+[13:31:44] бугагашенька killed RusLanConnection using tfa_doik98_scop
+[13:31:51] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[13:31:54] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[13:31:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[13:31:55] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztungsten
+[13:32:32] vasiliy karat: гайв моней в косно
+[13:32:50] бугагашенька killed RusLanConnection using tfa_doik98_scop
+[13:33:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[13:34:31] RusLanConnection killed бугагашенька using tfa_doienfield_scop
+[13:34:49] бугагашенька was killed by build_prop
+[13:34:53] Redoket killed RusLanConnection using tfa_doik98_scop
+[13:35:10] бугагашенька was killed by build_prop
+[13:36:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[13:36:29] RusLanConnection killed Redoket using tfa_doip38
+[13:37:51] RusLanConnection killed Redoket using tfa_doip38
+[13:37:59] бугагашенька killed RusLanConnection using tfa_doimp40
+[13:38:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[13:38:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[13:39:23] Redoket killed бугагашенька using tfa_doip38
+[13:39:24] бугагашенька: РАСИСТ
+[13:43:21] бугагашенька: йооооу
+[13:43:23] бугагашенька: руслын
+[13:43:25] бугагашенька:  яливаю
+[13:43:26] бугагашенька: удачи
+[13:43:40] бугагашенька: Я ЧЕРНЫЙ
+[13:43:47] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[13:43:47] бугагашенька suicided!
+[13:47:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[13:48:07] RusLanConnection killed Redoket using tfa_doimg42
+[13:49:07] Redoket killed RusLanConnection using tfa_doienfield_scop
+[13:50:23] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[13:50:23] vasiliy karat suicided!
+[13:50:23] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[13:50:23] Redoket suicided!
+[13:50:23] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[13:50:23] Chupacabr suicided!
+[13:50:23] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[13:50:23] RusLanConnection suicided!
+[13:50:24] Client "Кифир" connected.
+[13:50:29] Client "vasiliy karat" connected.
+[13:51:13] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 44 seconds).
+[13:51:19] Client "RusLanConnection" connected.
+[13:51:48] Client "В О4KО КОЛЮ ТРЕБАН" connected.
+[13:51:58] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 39 seconds).
+[13:51:59] Client "Chupacabr" connected.
+[13:52:01] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[13:52:02] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[13:52:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[13:52:07] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[13:52:13] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[13:52:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[13:52:31] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 32 seconds).
+[13:53:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[13:54:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[13:55:04] RusLanConnection killed vasiliy karat using tfa_doimg42
+[13:55:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[13:56:11] vasiliy karat killed RusLanConnection using tfa_doi_m16a1
+[13:56:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[13:58:44] vasiliy karat: чупак когда
+[13:58:45] vasiliy karat: чин
+[13:58:48] vasiliy karat killed Chupacabr using tfa_doi_m16a1
+[13:58:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedkit
+[13:58:55] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[13:58:59] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[13:59:53] vasiliy karat killed Chupacabr using tfa_rs2v_akm
+[14:00:06] vasiliy karat killed RusLanConnection using tfa_doistg44
+[14:00:16] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[14:01:52] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furniturebathtub001a.mdl
+[14:04:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[14:04:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[14:04:54] Chupacabr: !menu
+[14:04:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[14:04:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[14:04:59] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[14:04:59] Chupacabr changed the map to gm_sro
+[14:04:59] Server is shutting down/changing levels.
+
+
+
+[14:05:11] New map: gm_sro
+[14:05:43] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 39 seconds).
+[14:05:50] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 46 seconds).
+[14:05:57] Client "vasiliy karat" connected.
+[14:06:34] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[14:06:39] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 42 seconds).
+
+
+
+[14:07:37] New map: gm_sro_duststorm
+[14:07:54] Client "vasiliy karat" connected.
+[14:08:39] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 45 seconds).
+[14:09:29] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[14:09:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[14:11:02] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[14:12:28] Client "RusLanConnection" connected.
+[14:13:17] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 49 seconds).
+[14:13:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[14:13:37] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[14:13:37] RusLanConnection suicided!
+[14:13:38] Client "RusLanConnection" connected.
+[14:14:12] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 34 seconds).
+[14:14:30] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[14:14:30] RusLanConnection suicided!
+[14:16:25] Client "RusLanConnection" connected.
+[14:17:08] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 43 seconds).
+[14:17:18] RusLanConnection was killed by lvs_helicopter_cod_ah6
+[14:17:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[14:18:44] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[14:18:54] RusLanConnection was killed by ent_jack_gmod_ezherocket
+[14:19:24] RusLanConnection killed vasiliy karat
+[14:19:40] vasiliy karat: все чупак никогда не почи нит
+[14:19:46] vasiliy karat: не поиграем
+[14:19:48] vasiliy karat: никогда
+[14:19:48] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[14:19:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[14:20:13] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznutrients
+[14:20:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznutrients
+[14:20:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[14:20:41] vasiliy karat killed RusLanConnection using tfa_blast_sjogren
+[14:20:45] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[14:20:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezapple
+[14:20:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezapple
+[14:21:12] vasiliy karat killed RusLanConnection using tfa_rs2v_l1a1
+[14:21:51] vasiliy karat killed RusLanConnection using weapon_pistol
+[14:22:28] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[14:22:28] RusLanConnection suicided!
+[14:25:04] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[14:25:04] vasiliy karat suicided!
+[23:39:14] Client "Soldier_S.C.A.F" connected.
+[23:42:38] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 204 seconds).
+<Logging continued in "data/ulx_logs/08-10-25.txt">

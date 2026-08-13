@@ -1,0 +1,1690 @@
+<Logging continued from "data/ulx_logs/05-07-25.txt">
+[00:40:01] Client "LonePlayer022" connected.
+[00:40:38] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 37 seconds).
+[00:58:51] Client "klinskoe za 200" connected.
+[01:00:39] Client "Miyagi" connected.
+[01:05:50] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[01:05:50] LonePlayer022 suicided!
+[01:05:56] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 425 seconds).
+[01:08:13] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[01:08:13] klinskoe za 200 suicided!
+[01:08:34] Client "LonePlayer022" connected.
+[01:08:35] Client "Дядя Богдан" connected.
+[01:10:16] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 577 seconds).
+[01:11:43] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[01:11:43] Miyagi suicided!
+[01:14:54] Client "Дядя Богдан" spawned in server <STEAM_0:0:919352780> (took 379 seconds).
+[01:15:16] Dropped "Дядя Богдан" from server<STEAM_0:0:919352780>
+[01:15:16] Дядя Богдан suicided!
+[01:15:54] Client "TBOi_Bata" connected.
+[01:16:39] Client "TBOi_Bata" spawned in server <STEAM_0:0:636493435> (took 45 seconds).
+[01:17:32] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 538 seconds).
+[01:20:18] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[01:20:18] LonePlayer022 suicided!
+[01:24:10] Client "LonePlayer022" connected.
+[01:24:30] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 20 seconds).
+[01:25:07] Client "Нео" connected.
+[01:26:58] Client "Нео" spawned in server <STEAM_0:1:592067358> (took 111 seconds).
+[01:28:37] Client "Toxa08" connected.
+[01:28:44] Нео: приает
+[01:29:03] Нео: да
+[01:29:06] Нео: это нормально
+[01:29:15] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 38 seconds).
+[01:29:34] Toxa08: lanrp ошибку у всех вызывает?
+[01:29:40] Toxa08: мда
+[01:29:45] Нео killed LonePlayer022 using rust_eoka
+[01:29:49] Toxa08: крафты работают в тул бокс?
+[01:30:05] Toxa08: магия
+[01:30:22] Нео: тоже пролагнуло?
+[01:30:38] Нео: эээ
+[01:30:43] Нео: а почему ерорка
+[01:32:04] Нео: что блять
+[01:32:07] Нео: почему ерорка
+[01:32:58] Нео: сука
+[01:33:35] Нео: так мы без сквада
+[01:33:37] Нео: ща сделеаю
+[01:34:25] Нео: да я просто хотел говно пушки сделать и уйти
+[01:34:42] Нео: ща
+[01:34:47] Нео: патронов надо накрафтить
+[01:35:45] Нео: а
+[01:36:27] Нео: ебать
+[01:38:00] Client "Дядя Богдан" connected.
+[01:38:04] Нео: о
+[01:38:10] Нео: я его знаю
+[01:39:57] Client "Дядя Богдан" spawned in server <STEAM_0:0:919352780> (took 117 seconds).
+[01:40:02] Client "Chelik333" connected.
+[01:40:31] Дядя Богдан: ку
+[01:40:32] Нео: привет
+[01:40:40] Нео: давай к нам
+[01:40:45] Дядя Богдан: батя ты че на улице играешь
+[01:41:06] Дядя Богдан: нихуя не понимаю жалко руслан спит пофиксить не может
+[01:41:20] Нео: у тебя тоже ящики ерорки?
+[01:41:23] Дядя Богдан: ага
+[01:41:25] Дядя Богдан: у всех
+[01:41:40] Нео: ща обновлю
+[01:41:42] Дядя Богдан: руки ерорные
+[01:41:52] Дядя Богдан: я тоже переустановил контент но всех так
+[01:41:54] Нео: у меня норм
+[01:42:33] Нео: это имба оружие ближнего боя
+[01:42:36] Дядя Богдан: во странно половина жмода норм а другая нет
+[01:43:20] Дядя Богдан: интересно чего руслан успел сделать за ночь такого
+[01:44:09] Дядя Богдан: мда
+[01:44:21] Client "07 V finale" connected.
+[01:44:23] Дядя Богдан: может пойти жмод скачать вручную модом?
+[01:44:26] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 264 seconds).
+[01:44:54] Нео: ты кто
+[01:45:13] Нео: что у вас
+[01:45:14] Нео: да
+[01:45:16] LonePlayer022 killed Дядя Богдан using tfa_doim1911
+[01:45:21] Toxa08 killed Нео using tfa_doip38
+[01:45:36] Toxa08 killed Chelik333 using tfa_doik98_scop
+[01:45:37] LonePlayer022 killed Нео using tfa_doim1911
+[01:45:40] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[01:45:40] Chelik333 suicided!
+[01:45:40] Toxa08 killed TBOi_Bata using tfa_doik98_scop
+[01:45:45] Toxa08 killed Дядя Богдан using tfa_doik98_scop
+[01:46:27] Дядя Богдан killed Toxa08 using wep_jack_gmod_ezaxe
+[01:46:30] Дядя Богдан killed LonePlayer022 using wep_jack_gmod_ezaxe
+[01:46:35] Дядя Богдан: бєєм
+[01:46:42] Дядя Богдан: ну я
+[01:46:43] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[01:46:43] LonePlayer022 suicided!
+[01:46:45] Dropped "Toxa08" from server<STEAM_0:0:33704276>
+[01:46:45] Toxa08 suicided!
+[01:46:46] Дядя Богдан: сигмо
+[01:46:57] Нео: что это
+[01:47:01] Нео: о
+[01:47:05] Нео: это валтер
+[01:47:11] Client "Chelik333" connected.
+[01:47:14] Нео: алт е
+[01:47:23] Нео: нельзя
+[01:47:28] Нео: там нужну бумажные
+[01:47:41] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 30 seconds).
+[01:47:42] Дядя Богдан: давайте признаем йока и топор самые сильные
+[01:47:50] Нео: очевидно
+[01:48:09] Нео: я дор сих пор поиню как пулеметчика в спину топором завалил
+[01:48:16] Дядя Богдан: я их ваншотнул топором а йока делает +птср ниче не видно
+[01:48:33] Нео: йоу
+[01:48:35] Нео: белыш
+[01:48:39] Нео: отдавай все
+[01:48:44] Дядя Богдан killed Chelik333 using rust_eoka
+[01:48:48] Дядя Богдан: хахахаха
+[01:48:49] Нео: гагарин
+[01:48:55] Нео killed Chelik333 using tfa_doim1911
+[01:49:10] Нео: надо переежать
+[01:49:14] Нео: у меня тоже
+[01:49:15] Нео: да
+[01:49:20] Нео: да
+[01:49:21] Дядя Богдан: да
+[01:49:30] Нео: ящики берите
+[01:49:39] Нео: ладно
+[01:49:40] (TEAM) Нео: мтойте
+[01:49:43] Нео: стойте
+[01:49:44] Нео: обратно
+[01:49:56] Дядя Богдан killed Chelik333 using rust_eoka
+[01:50:08] Дядя Богдан: хрустнуло
+[01:50:23] Дядя Богдан: йока же самое мощное если попасть
+[01:50:49] Нео: ящик
+[01:50:51] Нео: лучше
+[01:52:16] Нео: тут норм как думаете
+[01:52:29] Нео: так стенке построи
+[01:52:31] (TEAM) Нео: м
+[01:52:32] Нео: м
+[01:52:34] Дядя Богдан: нормально
+[01:52:39] Дядя Богдан: у нас йоки
+[01:52:40] Нео: н
+[01:52:47] Нео: бля
+[01:52:48] Client "BikinBottom_Nightmare" connected.
+[01:52:53] Нео: а где тулбокс мой
+[01:52:58] Дядя Богдан: о ща бикини ахуеет
+[01:53:02] Нео: построй крутой верстак
+[01:53:38] Дядя Богдан: он иглается
+[01:53:39] Нео: у нас компонентов не хватает на крутой
+[01:53:45] Дядя Богдан: мутим
+[01:53:48] Дядя Богдан: компоненты
+[01:54:21] Client "BikinBottom_Nightmare" spawned in server <STEAM_0:1:78187775> (took 93 seconds).
+[01:54:54] Дядя Богдан: бинокль надо
+[01:55:18] Нео: конечно
+[01:55:32] Дядя Богдан: не это кусты
+[01:56:13] Нео: пизда
+[01:56:31] Нео: хах
+[01:57:00] Нео: дядя кинь приглос в сквад
+[01:57:34] Дядя Богдан: это после боя с развитыми
+[01:57:46] Дядя Богдан: не
+[01:57:56] Дядя Богдан: когда с вальтерами эти
+[01:58:22] Дядя Богдан: ДАВАЙ ДАВАЙ ЗАКИДЫВАЙ МУСОРОМ
+[01:58:25] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 844 seconds).
+[01:58:51] Нео: ща
+[01:59:01] Client "P0lyakov" connected.
+[01:59:08] Дядя Богдан: ну слушайте на 170 есть столбик какой то
+[01:59:17] Client "Soldier_S.C.A.F" connected.
+[01:59:47] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 46 seconds).
+[02:00:50] Дядя Богдан: майкл джордан
+[02:01:17] Нео: отойдите
+[02:01:36] Нео: я на него сталь и собирал
+[02:01:44] 07 V finale: как мень открыть ?
+[02:01:50] Dropped "P0lyakov" from server<STEAM_0:0:60570605>
+[02:01:50] P0lyakov suicided!
+[02:02:28] Нео: да
+[02:03:27] Dropped "07 V finale" from server<STEAM_0:1:151313539>
+[02:03:27] 07 V finale suicided!
+[02:03:49] Client "07 V finale" connected.
+[02:04:17] Нео: нЕТ
+[02:04:23] Нео: Я ПЫТАЛСЯ ОЛИН РАЗ
+[02:04:25] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 36 seconds).
+[02:05:58] Client "Soldier_S.C.A.F" connected.
+[02:06:04] Client "Soldier_S.C.A.F" connected.
+[02:06:23] Дядя Богдан: винтовка тут
+[02:06:26] Дядя Богдан: возьмите
+[02:06:29] Client "Soldier_S.C.A.F" connected.
+[02:06:33] 07 V finale: !voise
+[02:06:51] Дядя Богдан: у меня 15 хп
+[02:07:02] Dropped "07 V finale" from server<STEAM_0:1:151313539>
+[02:07:02] 07 V finale suicided!
+[02:07:25] Нео: ДА
+[02:07:41] Client "07 V finale" connected.
+[02:07:54] Нео: он на спавне будет
+[02:08:19] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 38 seconds).
+[02:08:33] Нео: спасибо
+[02:08:45] Нео: этот фундамент не застраиваем
+[02:08:51] Нео: да
+[02:09:13] Нео: можно на фундаменте но он будет спавниться на земле
+[02:09:50] Дядя Богдан: вроде никого нет
+[02:10:10] Нео: я так и хотел
+[02:10:41] Дядя Богдан: 100
+[02:11:05] Дядя Богдан: топовое место солнце хорошо ловит
+[02:11:34] Нео: бля)
+[02:11:35] Дядя Богдан: мда
+[02:11:41] Dropped "07 V finale" from server<STEAM_0:1:151313539>
+[02:11:41] 07 V finale suicided!
+[02:11:42] Дядя Богдан: ну тугштен хорошо продается
+[02:12:02] Нео: тут туркменестан есть
+[02:12:05] Нео: под нами
+[02:12:10] Client "Mr_Pyro" connected.
+[02:12:10] Дядя Богдан: тут
+[02:12:25] Дядя Богдан: он дорого продается вроде
+[02:12:32] Нео: 5на30 так делаем
+[02:12:34] Дядя Богдан: но не золото
+[02:13:12] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 62 seconds).
+[02:13:19] TBOi_Bata killed Дядя Богдан using wep_jack_gmod_ezpickaxe
+[02:13:28] Нео: ебать
+[02:13:31] Client "Miyagi" connected.
+[02:13:50] Client "07 V finale" connected.
+[02:13:50] Нео: да там хитбоксы удара сломаны
+[02:13:54] Mr_Pyro cloaked Themself by amount 0
+[02:13:54] Mr_Pyro: !cloak
+[02:14:02] Нео: оно вправо сверху бьёт
+[02:14:05] Mr_Pyro: !slay
+[02:14:06] Нео: а не напрямую
+[02:14:10] Mr_Pyro suicided!
+[02:14:10] Mr_Pyro slayed Themself
+[02:14:10] Mr_Pyro: !slay mr
+[02:14:39] Mr_Pyro uncloaked Themself
+[02:14:39] Mr_Pyro: !uncloak
+[02:14:42] Mr_Pyro cloaked Themself by amount 0
+[02:14:42] Mr_Pyro: !cloak
+[02:14:45] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 74 seconds).
+[02:14:50] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 60 seconds).
+[02:14:54] Нео: помянем
+[02:15:00] Mr_Pyro cloaked Themself by amount 0
+[02:15:00] Mr_Pyro: !cloak
+[02:15:03] Нео: да)
+[02:15:09] Нео: на верстаке
+[02:16:20] Нео: не)
+[02:16:24] Нео: только попкорн
+[02:17:01] Нео: она нужна в основном для постройки
+[02:17:08] Нео: типо фундаментов
+[02:17:10] Нео: стенок
+[02:17:23] Дядя Богдан: кирамексика
+[02:17:34] Дядя Богдан: админов нет
+[02:17:59] BikinBottom_Nightmare: Ты получил 143518 JBux!
+[02:18:00] Дядя Богдан: я тут неделюку играю
+[02:18:15] Дядя Богдан: я просто и за джмод шарил
+[02:18:19] Chelik333: supply radio: pump jack
+[02:18:19] Нео: че за чепух к нам хочет
+[02:18:21] Chelik333: supply radio: pump jack
+[02:18:31] Нео: допустим приму
+[02:18:31] Дядя Богдан: может 07
+[02:18:37] 07 V finale: /s ?
+[02:18:44] Нео: если хуйню будет творить сразу убивайте
+[02:18:52] 07 V finale: /p ?
+[02:18:55] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[02:18:55] Miyagi suicided!
+[02:19:00] Client "Miyagi" connected.
+[02:19:00] 07 V finale: !s
+[02:19:02] Нео: у меня снайперка
+[02:19:08] Нео: съебал
+[02:19:19] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodwillyjeep
+[02:19:23] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_compressor
+[02:19:23] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_turbo
+[02:19:27] Dropped "07 V finale" from server<STEAM_0:1:151313539>
+[02:19:27] 07 V finale suicided!
+[02:19:29] Chelik333: supply radio: pump jack
+[02:19:30] Client "Miyagi" spawned in server <STEAM_0:0:628068017> (took 30 seconds).
+[02:19:33] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodwillyjeep
+[02:19:34] Нео: не успел(
+[02:19:35] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_missile
+[02:19:37] Chelik333: supply radio: pump jack
+[02:19:38] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_turbo
+[02:19:39] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_compressor
+[02:19:50] Нео: это туркменестан
+[02:19:52] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodwillyjeep
+[02:19:55] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_compressor
+[02:19:55] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_turbo
+[02:20:20] Дядя Богдан: невидимый гандон шалит
+[02:20:24] Дядя Богдан: ебать он полетел
+[02:20:32] Нео: по мойму пайро админ
+[02:20:39] Дядя Богдан: 10к за туркменистан ебат
+[02:20:44] Mr_Pyro: 100 ghjw
+[02:20:46] Mr_Pyro: проц
+[02:20:54] Дядя Богдан: одмин обуз
+[02:20:58] Mr_Pyro: арбуз
+[02:21:04] Mr_Pyro: ай ай
+[02:21:04] Нео: он разбился
+[02:21:06] Дядя Богдан: блин вот шалун
+[02:21:09] Mr_Pyro: как так то
+[02:21:10] Нео: я отсюда вижу
+[02:21:13] Дядя Богдан: с клоака хотяб выйди
+[02:21:21] Нео: на 151
+[02:21:29] Нео: я спизжю твой джип
+[02:21:32] Нео: сука
+[02:21:38] Mr_Pyro: сервер сломан
+[02:21:39] Нео: это ящик
+[02:21:44] Нео: что бы ресурсы носит
+[02:21:46] Нео: ь
+[02:22:14] Нео: тут вода
+[02:22:25] Нео: для химии
+[02:22:27] Нео: тоже
+[02:22:32] Mr_Pyro: нига
+[02:22:43] Mr_Pyro: привет
+[02:22:43] Нео: я тоже не могу
+[02:22:48] Нео: я прост оне знаю как
+[02:22:49] Mr_Pyro: как тебе апдейт
+[02:22:57] Mr_Pyro: да
+[02:23:06] Mr_Pyro: хах
+[02:23:20] Нео: я знаю
+[02:23:55] BikinBottom_Nightmare: КРЧ
+[02:23:59] BikinBottom_Nightmare: ЗАКАЖИ СТАЛИ И БАЗИКСОВ
+[02:24:03] BikinBottom_Nightmare: СДЕЛАЙ КОНТЕЙНЕР ИЛИ СУНДУК
+[02:24:05] BikinBottom_Nightmare: Я ЩА ПРИДУ
+[02:24:12] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_ammo
+[02:24:23] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_ammo
+[02:24:37] Нео: сигма
+[02:24:42] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_ammo
+[02:24:48] Дядя Богдан: 0 павер
+[02:24:51] Дядя Богдан: мечта
+[02:24:54] Нео: за нихуя по сути получили фабрикатор
+[02:25:10] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_compressor
+[02:25:17] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_aboot_jmod_ezweapon_usp
+[02:25:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_aboot_gmod_ezarmor_jumpmodule
+[02:25:26] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_fumo_gmod_ezchair
+[02:25:28] Дядя Богдан: 360 туркменистана за сколько ща посмотрим
+[02:25:44] Нео: это футон для продажи
+[02:25:49] Дядя Богдан: туркменистан упал
+[02:25:55] Дядя Богдан: блин
+[02:26:05] Дядя Богдан: за экономикой надо смотреть
+[02:27:03] Дядя Богдан: 1к за 100
+[02:27:08] Дядя Богдан: ждем
+[02:27:19] Дядя Богдан: тут 
+[02:27:26] Дядя Богдан: сколько стоит и продается
+[02:27:37] Дядя Богдан: надо видос ща пересмотреть там про экономику говорилось
+[02:27:40] Mr_Pyro: !motd
+[02:27:46] Mr_Pyro: jmod_ez_econ
+[02:27:54] Дядя Богдан: спасибо
+[02:28:37] Дядя Богдан: ждем
+[02:28:48] BikinBottom_Nightmare: supply radio: drill
+[02:29:09] Дядя Богдан: все я чувствую рынок
+[02:29:33] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_helicopter_cod_ah6
+[02:29:45] Нео: бляяя
+[02:29:50] Нео: ерорка летающия
+[02:30:04] Дядя Богдан: пво надо
+[02:30:52] Mr_Pyro: !menu
+[02:31:12] Дядя Богдан: не туркменистан слишком нестабилен
+[02:31:18] Дядя Богдан: тут не угадаешь курс
+[02:31:23] Дядя Богдан: вот железо растёт
+[02:31:24] Нео: ок
+[02:32:02] BikinBottom_Nightmare: supply radio: basic parts
+[02:32:10] Client "07 V finale" connected.
+[02:33:06] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 56 seconds).
+[02:33:16] Нео: почему эта хуйня не робит?
+[02:34:20] Дядя Богдан: бля вот бы уран найти и перерабатывать
+[02:34:20] 07 V finale: !modd
+[02:34:26] Дядя Богдан: никогда не продавал его
+[02:34:45] Дядя Богдан: это надо делать в хазмате
+[02:35:21] Chelik333 to admins: у меня фабрикатор в полу застрял
+[02:35:33] Mr_Pyro teleported to Chelik333
+[02:35:33] Mr_Pyro: !goto che
+[02:35:45] Нео: уголь нашелц
+[02:36:17] 07 V finale: че
+[02:36:31] 07 V finale: ребят
+[02:36:51] 07 V finale: меня по воздуху перенесло
+[02:37:00] 07 V finale: высшие силы балуяца
+[02:37:08] 07 V finale: да
+[02:37:17] Дядя Богдан: уголь бесполезен
+[02:37:17] 07 V finale: какой командой 1 меню открыть
+[02:37:25] Нео: топливо для генератора
+[02:37:28] Нео: а тту нефть
+[02:37:30] Mr_Pyro: Найс контейнер
+[02:37:34] Дядя Богдан: вот нефть надо
+[02:37:51] 07 V finale: ну когда заходиш мень с правилами и тд 
+[02:37:58] 07 V finale: какой командой
+[02:38:07] Miyagi: motd
+[02:38:24] 07 V finale: !motd
+[02:38:48] 07 V finale: ща скачаю 
+[02:38:58] 07 V finale: контент
+[02:39:14] 07 V finale: !motd
+[02:39:33] Dropped "07 V finale" from server<STEAM_0:1:151313539>
+[02:39:33] 07 V finale suicided!
+[02:40:07] Dropped "Miyagi" from server<STEAM_0:0:628068017>
+[02:40:07] Miyagi suicided!
+[02:41:01] Client "drevoeb" connected.
+[02:44:09] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezaidradio
+[02:44:12] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbattery
+[02:44:17] Client "07 V finale" connected.
+[02:44:17] BikinBottom_Nightmare was killed by ent_jack_gmod_ezaugerdrill
+[02:44:27] Дядя Богдан: нет
+[02:45:10] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_healthkit
+[02:45:11] Mr_Pyro<STEAM_0:1:157056677> spawned sent item_healthkit
+[02:45:28] BikinBottom_Nightmare: supply radio: builder kit
+[02:45:34] BikinBottom_Nightmare: supply radio: drill
+[02:45:40] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 83 seconds).
+[02:45:55] Нео: Какое оружие ты себе хочешь?
+[02:46:01] Дядя Богдан was killed by ent_rus_jsmod_pipe
+[02:46:08] Нео: а дробаш?
+[02:46:15] Дядя Богдан: СУКА Я ЕБАЛ ЭТИ ТРУБЫ БЛЯ
+[02:46:37] Нео: Кто-то ебет трубы по ночям...
+[02:46:43] BikinBottom_Nightmare: supply radio: drill
+[02:47:17] Нео: delete c jhe;btv
+[02:47:39] Нео: стрельни по нему
+[02:47:46] Нео: 100% оценит
+[02:47:54] Нео: бля
+[02:48:25] Дядя Богдан: у нас деньги есть
+[02:49:01] Нео: бля
+[02:49:31] Нео: ух бляы
+[02:49:42] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezcornear
+[02:49:42] Дядя Богдан: газанул
+[02:49:45] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezcornear
+[02:49:49] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezcornear
+[02:49:52] Нео: а нахуя ты газ кинул
+[02:49:54] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezcornear
+[02:50:08] Дядя Богдан: противогазы заказывай
+[02:50:12] Нео: дп ты выживешь по идеи
+[02:50:17] TBOi_Bata killed Дядя Богдан using rust_eoka
+[02:50:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_gasmask
+[02:50:21] Нео: у тебя 25 хп останется
+[02:50:24] Нео killed TBOi_Bata using tfa_doim1911
+[02:50:29] Нео: йоу?
+[02:50:37] Client "drevoeb" spawned in server <STEAM_0:0:798415479> (took 576 seconds).
+[02:50:45] Нео: мы какой то хуйнюй заниамться начали
+[02:51:13] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/pot01a.mdl
+[02:51:17] drevoeb: ГДЕ Я НАХУЙ
+[02:51:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/pot02a.mdl
+[02:51:42] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/canister02a.mdl
+[02:52:16] Mr_Pyro: gjtk
+[02:52:19] Mr_Pyro: поел
+[02:52:23] Нео: приятного
+[02:52:36] Нео: хз
+[02:52:38] Нео: ароде не
+[02:52:46] Mr_Pyro: !goto neo
+[02:52:47] Нео: вижу
+[02:52:49] Нео: с ерокой
+[02:52:50] drevoeb: вода..
+[02:53:01] Mr_Pyro: !goto нео
+[02:53:02] TBOi_Bata was killed by ent_jack_gmod_ezrefinery
+[02:53:02] drevoeb: ядовитая сука...
+[02:53:05] Нео: хахахаах
+[02:53:07] Дядя Богдан: на нахуй
+[02:53:23] Нео: ты кто?
+[02:53:24] drevoeb: даров
+[02:53:27] drevoeb: я новичек
+[02:53:30] Mr_Pyro uncloaked Themself
+[02:53:30] Mr_Pyro: !uncloak
+[02:53:30] drevoeb: а что?
+[02:53:31] Нео: ладно
+[02:53:36] Mr_Pyro cloaked Themself by amount 0
+[02:53:36] Mr_Pyro: !cloak
+[02:53:36] Нео: а что сюда пришел?
+[02:53:39] Dropped "07 V finale" from server<STEAM_0:1:151313539>
+[02:53:39] 07 V finale suicided!
+[02:53:40] drevoeb: и почему ты в ерораах?
+[02:53:48] drevoeb: ну это 1 что я увидел
+[02:53:54] drevoeb: вот решил посмотреть
+[02:53:57] Client "07 V finale" connected.
+[02:53:58] Нео: это потмоу что ночью походу конетент обновили
+[02:54:02] drevoeb: мда
+[02:54:06] Нео: это у всех
+[02:54:09] drevoeb: о трупик
+[02:54:11] Mr_Pyro: он зафризился
+[02:54:15] Нео: а что у тебя в руках?
+[02:54:15] Mr_Pyro: труп
+[02:54:20] Mr_Pyro: его только руками
+[02:54:21] drevoeb: руки?
+[02:54:24] Нео: пердушка?
+[02:54:30] drevoeb: еще нашёл ерор и самопал
+[02:54:39] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 42 seconds).
+[02:54:42] drevoeb: вальтер 93п
+[02:54:45] Дядя Богдан: я опять споткнулся но птср нету
+[02:54:46] drevoeb: ой не
+[02:54:50] Нео: это он у тебя ерорка
+[02:54:51] drevoeb: п93
+[02:54:52] Нео: у меня тоже
+[02:54:55] drevoeb: ии
+[02:55:21] Нео: они кстати начинают со временем пускать трпуный газ
+[02:55:32] drevoeb: поэтому их нада закапать
+[02:55:44] Нео: да просто выкинуть подальше
+[02:55:53] drevoeb: а там что?
+[02:55:57] Нео: так ты сюда пришел потому что новичок?
+[02:56:03] Нео: там наша баща
+[02:56:07] drevoeb: ммм
+[02:56:07] Нео: база*
+[02:56:08] Дядя Богдан: чуваки сервак будет отключен
+[02:56:15] drevoeb: ну да просто гуляю смотрю что тут
+[02:56:33] Нео: почему будет выключен?
+[02:56:46] drevoeb: уу
+[02:56:49] Нео: иди понюхай
+[02:56:53] drevoeb: нефть гоните
+[02:56:59] Mr_Pyro: !menu
+[02:57:09] drevoeb: верстак улучьшенный
+[02:57:14] Client "sorapopacka228" connected.
+[02:57:19] Дядя Богдан: нюхать бебру?
+[02:57:20] (csay from Mr_Pyro) Возможно скоро выключат сервер
+[02:57:21] Нео: а откуда ты это знаешь если новичок?
+[02:57:27] Mr_Pyro: !menu
+[02:57:32] drevoeb: ну так я немного то вчера поиграл
+[02:57:36] drevoeb: но не все знаю..
+[02:57:39] Mr_Pyro:  
+[02:57:41] drevoeb: да и гайд смотрел
+[02:57:43] Mr_Pyro: !menu
+[02:57:48] (csay from Mr_Pyro) gjtkn
+[02:57:48] drevoeb: там всё это показали
+[02:57:54] Нео: ты че
+[02:57:58] Нео: ладно
+[02:58:25] Нео: ты блять как будто в хиджабе
+[02:58:32] Нео: спасибо
+[02:58:44] drevoeb: это фильтр вроде
+[02:58:46] Нео: так ты прост посмотреть пришел?
+[02:58:51] Нео: это труба прсото
+[02:58:52] drevoeb: ну да
+[02:58:55] drevoeb: а
+[02:59:00] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezaidradio
+[02:59:05] drevoeb: а как ресы с собой таскать?
+[02:59:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbattery
+[02:59:29] Нео: крафтишь на обчно верстаке ящик такой как у меня наспине 
+[02:59:33] TBOi_Bata: supply radio: flamethrower
+[02:59:33] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[02:59:36] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[02:59:36] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[02:59:38] drevoeb: мгм
+[02:59:41] Нео: заходишь в менюшку и там 5grab
+[02:59:52] drevoeb: понял
+[02:59:52] Нео: ну типо инвентарь
+[03:00:00] drevoeb: спасиб
+[03:00:04] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezaidradio
+[03:00:06] drevoeb: ну я побежал тогда
+[03:00:07] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbattery
+[03:00:09] drevoeb: удачи!
+[03:00:13] Нео: вот там мосьтик есть
+[03:00:14] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[03:00:17] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[03:00:17] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[03:00:19] drevoeb: да ладно
+[03:00:20] Нео: вот там
+[03:00:29] Нео: в газ побежал)
+[03:00:32] Нео: че
+[03:00:35] Нео: кто там
+[03:00:40] Нео: ладно
+[03:01:14] Нео: бля
+[03:01:15] Нео: наверно
+[03:01:43] BikinBottom_Nightmare to admins: тп помоги пж
+[03:01:52] Mr_Pyro teleported to BikinBottom_Nightmare
+[03:01:52] Mr_Pyro: !goto biki
+[03:01:55] Mr_Pyro: да да
+[03:02:02] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbattery
+[03:02:11] Нео: бля
+[03:02:16] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbasicparts
+[03:02:16] Нео: как то он близко
+[03:02:25] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbattery
+[03:02:31] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpickaxe
+[03:02:36] Нео: а
+[03:02:39] Нео: что
+[03:02:59] Нео: там на скале база
+[03:03:04] Нео: я через снайперку вижу
+[03:03:08] Mr_Pyro: да
+[03:03:15] Нео: там шиповский ящик
+[03:03:17] Нео: как у нас
+[03:03:30] Нео: я так и хотел
+[03:03:41] Дядя Богдан: ладно я выходить буду всё равно сервер выключат
+[03:03:44] Дядя Богдан: меня залутайте
+[03:03:58] Дядя Богдан: я всё полезное сделал
+[03:04:01] Нео: (
+[03:04:01] Дядя Богдан: нефть провёл
+[03:04:10] Дядя Богдан: вернусь вечером когда сервак починят
+[03:04:14] Нео: ок
+[03:04:14] Mr_Pyro: !menu
+[03:04:15] Дядя Богдан: жалко конечно
+[03:04:17] Нео was killed by lvs_wheeldrive_dodwillyjeep
+[03:04:17] Dropped "Дядя Богдан" from server<STEAM_0:0:919352780>
+[03:04:17] Дядя Богдан suicided!
+[03:04:19] Нео: СУКА
+[03:04:26] Dropped "drevoeb" from server<STEAM_0:0:798415479>
+[03:04:26] drevoeb suicided!
+[03:04:42] Нео: ух сука
+[03:04:46] Нео: наш?
+[03:05:24] Нео: а где мой вальт трофейный
+[03:06:55] Нео to admins: переверни машину я её только купил(
+[03:07:07] Mr_Pyro: так
+[03:07:09] Mr_Pyro: смотри
+[03:07:14] Mr_Pyro: если транспорт перевернулся
+[03:07:22] Mr_Pyro: возьтми пропик
+[03:07:49] Mr_Pyro: вот
+[03:07:54] Нео: спасибо
+[03:09:08] Нео: йоу
+[03:09:10] Нео: поехали
+[03:13:37] 07 V finale: /me показал военный билет: Cоронцев А.А. | РЯД | 102-й МСП | СТРЛК | - | -
+[03:15:10] 07 V finale: /me показал военный билет: Cоронцев А.А. | РЯД | 102-й МСП | СТРЛК | - | -
+[03:15:32] Нео: qke
+[03:15:34] Нео: ЙОУ
+[03:18:31] 07 V finale: ! ок
+[03:18:34] 07 V finale: // ок
+[03:18:40] 07 V finale: /global
+[03:22:53] BikinBottom_Nightmare to admins: я в текстуре
+[03:23:10] BikinBottom_Nightmare to admins: причем я в горе
+[03:23:21] Mr_Pyro teleported to BikinBottom_Nightmare
+[03:23:21] Mr_Pyro: !goto biki
+[03:23:28] Mr_Pyro: как
+[03:23:43] Mr_Pyro: !menu
+[03:23:49] Mr_Pyro brought BikinBottom_Nightmare
+[03:24:10] Mr_Pyro: чё скинули 1000р?
+[03:24:20] Mr_Pyro: хахахы
+[03:24:32] Mr_Pyro: хэх
+[03:26:24] Mr_Pyro<STEAM_0:1:157056677> spawned sent sent_speedtube_illegal
+[03:29:32] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_helicopter_cod_ah6
+[03:29:37] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_helicopter_cod_ah6
+[03:29:43] Нео: ЙОУ
+[03:30:49] Dropped "07 V finale" from server<STEAM_0:1:151313539>
+[03:30:49] 07 V finale suicided!
+[03:30:59] Client "07 V finale" connected.
+[03:32:02] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 63 seconds).
+[03:32:54] Mr_Pyro was killed by build_prop
+[03:32:59] BikinBottom_Nightmare to admins: я застрял
+[03:33:07] Mr_Pyro: !goto biki
+[03:33:19] Mr_Pyro teleported to BikinBottom_Nightmare
+[03:33:19] Mr_Pyro: !goto biki
+[03:33:26] Mr_Pyro: позор
+[03:33:29] Нео: йоу
+[03:33:33] Нео: я съездил уже
+[03:33:43] Нео: продал челу всю базу)
+[03:33:51] Нео: у него там радио стояло
+[03:33:58] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_flametank
+[03:34:00] Нео: я заказал ящик для продажи
+[03:34:09] Нео: и скинул все ресы туда
+[03:34:21] Нео: ты кто
+[03:34:25] 07 V finale: чем заняца
+[03:34:41] Нео: а зачем ты все время к нам кидаешь запросы?
+[03:35:01] 07 V finale: да сам попробовал развиваца не получилось хочю с вами
+[03:35:08] Нео: а че с нами
+[03:35:12] 07 V finale: что ?
+[03:35:21] Нео: это тоже
+[03:35:34] 07 V finale: я пока понял что где надо скачать и посмотреть вышел раз 30
+[03:35:45] 07 V finale: потом я верстак открыть не мог
+[03:35:51] 07 V finale: дальже 1
+[03:35:53] Нео: там дерева надо
+[03:35:58] Нео: что бы он работал
+[03:36:17] Нео: я не играю только день
+[03:36:30] Нео: пизда ты округлил
+[03:36:34] Нео: даже не неделя
+[03:36:37] 07 V finale: жаль людей мало
+[03:36:44] Нео: вчера было много
+[03:36:54] Нео: сегодня ближе у вечеру многие зайдут
+[03:37:15] 07 V finale: так мне чем заняца ?
+[03:37:23] Нео: пошли я покажу тебе как жить
+[03:37:27] Нео: есть
+[03:37:40] Нео: с фракциоников можно деньги залутать
+[03:38:04] Нео: ты понял же как крафтить верстак?
+[03:38:08] 07 V finale: да
+[03:38:19] Нео: ты понял как нанем разбирать?
+[03:38:31] 07 V finale: да я до радио развился
+[03:38:41] Нео: пиздец
+[03:38:42] Нео: а как
+[03:38:55] 07 V finale: чтоб радио запитать нужно электричество
+[03:38:55] Нео: без заправки верстака как ты его сделал?
+[03:38:58] 07 V finale: я скравтил
+[03:39:07] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezclusterbomb
+[03:39:09] 07 V finale: там кста мои ресы ещё в контенере остались гдето
+[03:39:17] Нео: в тулбоксе
+[03:39:19] 07 V finale: боксом
+[03:39:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezlandmine
+[03:39:30] Нео: а как ты его сделал если ты ен заправлял верстак?ъ
+[03:39:34] 07 V finale: я просто не понял что верстак не открывался
+[03:39:43] (TEAM) Нео: надо дереваа положить
+[03:39:44] Mr_Pyro suicided!
+[03:39:50] Нео: надо дерева полопжить
+[03:40:02] 07 V finale: я разобрал верстак который заправил иза того что не понял как его под
+[03:40:10] 07 V finale: как в глобал писать ?
+[03:40:16] Нео: через радио
+[03:40:28] Нео: смотри
+[03:40:34] Нео: теперь работает
+[03:40:39] 07 V finale: да
+[03:40:50] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_flametank
+[03:40:52] Нео: это базовые компоненты их нужно очень много
+[03:40:59] Нео: сделай себе тулбоес
+[03:41:01] 07 V finale: а от куда у тя гравити ган ?
+[03:41:08] Нео: его можно сделать
+[03:41:10] Нео: не пизди
+[03:41:33] Нео: во сигма
+[03:41:36] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezlandmine
+[03:41:37] Client "DrScotch" connected.
+[03:42:00] 07 V finale: половина кортинок фиолетовые
+[03:42:05] 07 V finale: я скочал контент
+[03:42:06] Нео: теперь что бы у тебя не было миллион всяких ресурсов на полу крафтишь
+[03:42:11] Нео: это норм
+[03:42:15] Mr_Pyro suicided!
+[03:42:50] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_flametank
+[03:42:59] 07 V finale: ок
+[03:43:09] Нео: вот это ящик
+[03:43:16] Нео: ага
+[03:43:33] Нео: вот ящик
+[03:43:43] Mr_Pyro suicided!
+[03:43:43] Mr_Pyro slayed Themself
+[03:43:43] Mr_Pyro: !slay mr
+[03:44:04] Нео: а еще это просто удобнее
+[03:44:18] Нео: ща подожди
+[03:44:23] Нео: СТОЙ
+[03:44:29] Нео: тебе срочно надо?
+[03:44:31] 07 V finale: /me показал военный билет: Cоронцев А.А. | РЯД | 102-й МСП | СТРЛК | - | -
+[03:44:37] Нео: я хотел покататья
+[03:44:42] Нео: пограбить
+[03:44:46] Нео: да не
+[03:44:49] Нео: я нашел базу
+[03:44:53] Нео: номральную
+[03:45:07] Нео: ладно
+[03:45:13] Нео: а через сколько вернешься?
+[03:45:21] Нео: а ок
+[03:45:52] Нео: продолжим курс выживания
+[03:46:03] Нео: ты никто без этой штуки
+[03:46:12] Нео: вот этой
+[03:46:31] 07 V finale: рафтеры знают
+[03:46:38] Нео: растеры*
+[03:46:41] 07 V finale: да
+[03:46:43] 07 V finale: /me показал военный билет: Cоронцев А.А. | РЯД | 102-й МСП | СТРЛК | - | -
+[03:46:54] Нео: тут еще одно оружие есть из раста
+[03:47:12] Нео: йока
+[03:47:13] Client "DrScotch" spawned in server <STEAM_0:0:22374993> (took 336 seconds).
+[03:47:16] Нео: да
+[03:47:20] Нео: я уже ему показал
+[03:47:36] Нео: мы кстати почти на танк накопили
+[03:47:44] Нео: иди найди пока 7 тысяч
+[03:47:50] Нео: так легкий быстрый
+[03:47:54] Нео: ээээ
+[03:48:03] Нео: это не стоит 7
+[03:48:11] Dropped "DrScotch" from server<STEAM_0:0:22374993>
+[03:48:11] DrScotch suicided!
+[03:48:50] Нео: сомтри
+[03:48:53] Нео: смотри
+[03:49:07] Нео: для того тчо бы не доыбвать ресурсы все время так нужно построить доб
+[03:49:37] 07 V finale: я знаю азы дж мода
+[03:49:44] 07 V finale: /me показал военный билет: Cоронцев А.А. | РЯД | 102-й МСП | СТРЛК | - | -
+[03:49:46] Нео: еба ты везучий
+[03:50:14] Нео: ща
+[03:50:34] Нео: еееее
+[03:50:53] Нео: кончилось место
+[03:51:01] 07 V finale: зн
+[03:51:33] Client "Raiden Kitrov" connected.
+[03:52:31] 07 V finale: из рек вода добывается ?
+[03:52:35] Нео: не
+[03:52:42] Client "Raiden Kitrov" connected.
+[03:52:42] Нео: там кто то нассал очень давно
+[03:52:49] Нео: она теперь бьёт
+[03:53:02] Нео: воду тут выкачивают
+[03:53:47] Нео: ок
+[03:53:52] 07 V finale: топливо из завода невтяного ?
+[03:53:57] Нео: да
+[03:54:31] Нео: сукаааааааааа
+[03:54:47] Client "Raiden Kitrov" connected.
+[03:55:19] 07 V finale: я пошол в место где много невти стали  воды
+[03:55:20] Нео: у тебя ящик прозрачный?
+[03:55:23] Нео: стой
+[03:57:19] Нео to admins: а че делать ели ящик прозрачный стал?
+[03:59:45] Mr_Pyro: !goto нео
+[03:59:51] Mr_Pyro: !menu
+[03:59:56] Mr_Pyro teleported to Нео
+[04:00:01] Client "Raiden Kitrov" spawned in server <STEAM_0:0:202310128> (took 314 seconds).
+[04:00:03] Mr_Pyro: что случилось
+[04:00:12] Нео: ящик прозрачный
+[04:00:22] Mr_Pyro: где
+[04:00:28] Mr_Pyro: примерно
+[04:00:32] Mr_Pyro: а
+[04:00:36] Нео: этот
+[04:00:47] Нео: спасибо
+[04:00:52] Нео: а как ты это сделал?
+[04:00:52] Dropped "Raiden Kitrov" from server<STEAM_0:0:202310128>
+[04:00:52] Raiden Kitrov suicided!
+[04:01:09] Mr_Pyro: вкл выкл а потом вкл колизию
+[04:01:19] Mr_Pyro: такое бывает
+[04:01:24] Mr_Pyro: там просто скрипт есть
+[04:01:31] Нео: лол
+[04:01:34] Mr_Pyro: который выкл колизию иногда у пропов
+[04:01:40] Mr_Pyro: для оптимизации
+[04:01:43] Client "Raiden Kitrov" connected.
+[04:02:29] Dropped "07 V finale" from server<STEAM_0:1:151313539>
+[04:02:29] 07 V finale suicided!
+[04:02:32] Client "Raiden Kitrov" spawned in server <STEAM_0:0:202310128> (took 49 seconds).
+[04:02:49] Dropped "Raiden Kitrov" from server<STEAM_0:0:202310128>
+[04:02:49] Raiden Kitrov suicided!
+[04:03:37] Mr_Pyro<STEAM_0:1:157056677> spawned NPC npc_rollermine
+[04:03:43] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfuel
+[04:04:40] Client "Raiden Kitrov" connected.
+[04:04:55] Mr_Pyro<STEAM_0:1:157056677> spawned NPC npc_rollermine
+[04:05:43] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfuel
+[04:05:49] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezammo
+[04:06:13] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_junk/gascan001a.mdl
+[04:06:38] Mr_Pyro<STEAM_0:1:157056677> spawned NPC npc_rollermine
+[04:07:33] Mr_Pyro<STEAM_0:1:157056677> spawned NPC npc_rollermine
+[04:07:33] Mr_Pyro<STEAM_0:1:157056677> spawned NPC npc_rollermine
+[04:07:33] Mr_Pyro<STEAM_0:1:157056677> spawned NPC npc_rollermine
+[04:07:34] Mr_Pyro<STEAM_0:1:157056677> spawned NPC npc_rollermine
+[04:07:34] Mr_Pyro<STEAM_0:1:157056677> spawned NPC npc_rollermine
+[04:07:34] Mr_Pyro<STEAM_0:1:157056677> spawned NPC npc_rollermine
+[04:07:34] Mr_Pyro<STEAM_0:1:157056677> spawned NPC npc_rollermine
+[04:07:49] Mr_Pyro<STEAM_0:1:157056677> spawned NPC npc_rollermine
+[04:09:36] Mr_Pyro was killed by ent_jack_gmod_ezsentry
+[04:11:05] Chelik333: supply radio: medium tank
+[04:11:20] Chelik333: supply radio: jeep
+[04:11:23] Client "07 V finale" connected.
+[04:12:53] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 90 seconds).
+[04:13:22] Chelik333: supply radio: medium tank
+[04:19:24] 07 V finale: развиваюсь
+[04:19:31] 07 V finale: пока дальже нацию не создал
+[04:19:36] Нео: _erog_
+[04:20:04] Нео: верт
+[04:20:20] Нео: У НЕГО НОЛЖ
+[04:20:34] Нео: ДП НЕ
+[04:28:00] Dropped "07 V finale" from server<STEAM_0:1:151313539>
+[04:28:00] 07 V finale suicided!
+[04:29:24] Client "07 V finale" connected.
+[04:30:49] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 85 seconds).
+[04:33:32] BikinBottom_Nightmare was killed by ent_jack_aidbox
+[04:33:43] Client "Ротор" connected.
+[04:36:19] BikinBottom_Nightmare: supply radio: precision parts
+[04:42:28] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[04:42:28] Mr_Pyro suicided!
+[04:48:17] Client "Raiden Kitrov" connected.
+[05:00:38] Client "Raiden Kitrov" spawned in server <STEAM_0:0:202310128> (took 741 seconds).
+[05:04:09] Dropped "Raiden Kitrov" from server<STEAM_0:0:202310128>
+[05:04:09] Raiden Kitrov suicided!
+[05:05:45] TBOi_Bata killed Нео using lvs_wheeldrive_dodwillyjeep
+[05:06:20] BikinBottom_Nightmare: supply radio: coal
+[05:07:37] TBOi_Bata was killed by ent_jack_gmod_ezsentry
+[05:09:34] 07 V finale: пр
+[05:09:50] 07 V finale: можеш посмотреть чё у меня с электричеством
+[05:10:24] 07 V finale: печка не работает заправил деревом а соленчные панели ток в ручную
+[05:10:54] 07 V finale: а как подкулючить чтоб не собирать
+[05:15:16] BikinBottom_Nightmare was killed by ent_jack_gmod_ezsentry
+[05:20:36] BikinBottom_Nightmare was killed by ent_jack_gmod_ezsentry
+[05:20:39] Dropped "BikinBottom_Nightmare" from server<STEAM_0:1:78187775>
+[05:20:39] BikinBottom_Nightmare suicided!
+[05:23:25] 07 V finale suicided!
+[05:23:51] 07 V finale: помоги с электричеством
+[05:24:05] 07 V finale: не переходит
+[05:24:09] 07 V finale: в повербанк
+[05:25:44] 07 V finale: конвеир не разбирается
+[05:26:33] 07 V finale: и от повербанка к линии ?
+[05:26:41] 07 V finale: кстате
+[05:26:54] 07 V finale: могу менять сталь на воду не надо ?
+[05:27:08] 07 V finale: ну ладно через рынок
+[05:27:24] 07 V finale: 075
+[05:27:31] 07 V finale: ааа
+[05:27:44] 07 V finale: да я згнаю
+[05:28:20] 07 V finale: ок
+[05:37:10] Client "бугагашенька" connected.
+[05:38:08] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 58 seconds).
+[05:38:28] Chelik333 to admins: че урановой центрифуге надо?
+[05:39:05] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[05:39:05] бугагашенька suicided!
+[05:39:06] Client "бугагашенька" connected.
+[05:39:30] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 24 seconds).
+[05:43:49] TBOi_Bata: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:45:51] TBOi_Bata killed 07 V finale using lvs_wheeldrive_dodsherman
+[05:46:02] TBOi_Bata killed 07 V finale using lvs_wheeldrive_dodsherman
+[05:46:03] 07 V finale: сдаюс
+[05:46:14] 07 V finale: зашо
+[05:46:27] 07 V finale: а ?
+[05:46:42] 07 V finale: что ?
+[05:48:59] Нео killed Chelik333 using lvs_wheeldrive_dodsherman
+[05:49:37] Нео was killed by ent_jack_gmod_ezsentry
+[05:50:46] 07 V finale was killed by ent_jack_gmod_ezprimitivebench
+[05:51:03] TBOi_Bata was killed by ent_jack_gmod_ezsentry
+[05:52:21] Нео: supply radio: timebombs
+[05:53:35] Нео: supply radio: timebombs
+[05:56:13] Chelik333 was killed by ent_jack_gmod_ezfalloutparticle
+[05:58:05] Client "Лёша вазелин" connected.
+[06:01:34] TBOi_Bata was killed by entityflame
+[06:01:34] Нео was killed by entityflame
+[06:01:54] Chelik333 killed Нео using tfa_doimg42
+[06:02:50] Chelik333 killed Нео using tfa_doimg42
+[06:03:33] TBOi_Bata was killed by ent_jack_gmod_ezsentry
+[06:04:10] Нео: да за шо
+[06:04:11] Нео killed Chelik333 using ent_jack_gmod_ezslam
+[06:04:11] Нео suicided!
+[06:06:44] Нео: supply radio: timebombs
+[06:09:42] Chelik333 was killed by ent_jack_gmod_ezsentry
+[06:10:00] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[06:10:00] Chelik333 suicided!
+[06:10:46] Client "arikberegovenko" connected.
+[06:11:11] 07 V finale to admins: застрял
+[06:12:18] TBOi_Bata killed бугагашенька using ent_jack_gmod_ezslam
+[06:12:18] TBOi_Bata killed Нео
+[06:12:18] TBOi_Bata killed TBOi_Bata
+[06:23:30] бугагашенька killed TBOi_Bata using wep_jack_gmod_ezpickaxe
+[06:24:19] бугагашенька killed Нео using wep_jack_gmod_ezpickaxe
+[06:25:00] TBOi_Bata killed TBOi_Bata
+[06:25:08] Нео killed Нео
+[06:25:53] TBOi_Bata suicided!
+[06:27:25] бугагашенька suicided!
+[06:27:25] бугагашенька killed Нео using ent_jack_gmod_eztimebomb
+[06:28:12] Нео killed Нео
+[06:28:17] бугагашенька killed TBOi_Bata using tfa_doim1911
+[06:28:38] TBOi_Bata killed Нео using ent_jack_gmod_ezstickynade
+[06:29:23] Client "arikberegovenko" spawned in server <STEAM_0:1:913955895> (took 1117 seconds).
+[06:29:30] Нео killed TBOi_Bata using wep_jack_gmod_hands
+[06:29:49] бугагашенька killed TBOi_Bata using lvs_wheeldrive_dodwillyjeep
+[06:29:55] TBOi_Bata killed бугагашенька using env_explosion
+[06:30:18] Нео: supply radio: truck
+[06:30:25] TBOi_Bata killed TBOi_Bata
+[06:30:49] Нео: supply radio: timebombs
+[06:31:13] Dropped "TBOi_Bata" from server<STEAM_0:0:636493435>
+[06:31:13] TBOi_Bata suicided!
+[06:31:34] Dropped "Нео" from server<STEAM_0:1:592067358>
+[06:31:34] Нео suicided!
+[06:33:33] Dropped "arikberegovenko" from server<STEAM_0:1:913955895>
+[06:33:33] arikberegovenko suicided!
+[06:37:08] Client "kir" connected.
+[06:39:02] Client "ffpls" connected.
+[06:39:14] Client "kir" connected.
+[06:41:24] Client "ffpls" spawned in server <STEAM_0:1:127809655> (took 142 seconds).
+[06:41:33] Client "kir" spawned in server <STEAM_0:0:532288565> (took 139 seconds).
+[06:42:27] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[06:42:27] бугагашенька suicided!
+[06:43:01] Client "John" connected.
+[06:43:40] ffpls: Я ЛЮБЛЮ ПЛЫВИСКИ
+
+
+
+[13:10:53] New map: gm_sro_duststorm
+[13:16:14] Client "Raiden Kitrov" connected.
+[13:16:50] Client "RusLanConnection" connected.
+[13:17:05] Client "vasiliy karat" connected.
+[13:18:33] Client "Chelik333" connected.
+[13:18:41] Client "Польские Пряники" connected.
+[13:19:33] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 148 seconds).
+[13:19:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezworkbench
+[13:20:27] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodkuebelwagen
+[13:20:28] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodkuebelwagen
+[13:20:43] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodkuebelwagen
+[13:21:06] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 256 seconds).
+[13:21:13] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodwillyjeep
+[13:21:28] vasiliy karat killed RusLanConnection using lvs_wheeldrive_dodwillyjeep
+[13:21:54] vasiliy karat killed RusLanConnection using lvs_wheeldrive_dodwillyjeep
+[13:22:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[13:22:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[13:22:24] vasiliy karat: ЧТО СЛУЧЛОСЬ ТО
+[13:22:30] Client "Польские Пряники" connected.
+[13:23:04] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_rebel
+[13:23:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[13:23:29] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[13:23:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsatchelcharge
+[13:23:45] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 75 seconds).
+[13:24:29] vasiliy karat: ОШИБКА
+[13:25:00] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodspaehwagen
+[13:25:07] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 394 seconds).
+[13:25:28] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[13:25:28] Польские Пряники suicided!
+[13:26:15] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[13:26:15] vasiliy karat suicided!
+[13:26:22] Client "Дядя Богдан" connected.
+[13:26:58] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/wood_crate001a.mdl
+[13:29:01] Client "Raiden Kitrov" spawned in server <STEAM_0:0:202310128> (took 767 seconds).
+[13:29:49] Raiden Kitrov: [lanrp] addons/lanrp/lua/autorun/player/sh_damage.lua:305: bad argument #1 to 'Material' (string expected, got nil)  1. Mater
+[13:30:02] Client "Польские Пряники" connected.
+[13:30:56] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 54 seconds).
+[13:33:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[13:33:49] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[13:33:55] Client "Дядя Богдан" spawned in server <STEAM_0:0:919352780> (took 453 seconds).
+[13:34:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[13:34:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[13:34:24] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[13:34:39] Дядя Богдан: а че ниче не поменялось
+[13:34:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[13:34:53] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[13:34:54] Дядя Богдан: руслан а че изменилось
+[13:35:04] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[13:35:10] Дядя Богдан: а почему контент поломался
+[13:35:18] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[13:35:18] Дядя Богдан: бэкапы есть?
+[13:35:29] Дядя Богдан: бекапы старые только?
+[13:35:30] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[13:35:40] Дядя Богдан: сервера
+[13:35:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[13:35:51] Дядя Богдан: мда
+[13:35:53] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[13:35:58] Дядя Богдан: гарри надрочил
+[13:36:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[13:36:13] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[13:36:22] Дядя Богдан: слушай а если попробовать перезалить
+[13:36:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[13:36:48] Дядя Богдан: перезалить коллекцию может
+[13:36:58] Дядя Богдан: давайте гмод9
+[13:37:04] Дядя Богдан: пряники
+[13:37:07] Дядя Богдан: ПРЯНИКИ
+[13:37:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[13:37:22] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[13:37:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsmallbomb
+[13:37:53] Дядя Богдан: мда что то с автораном срёт в консоль
+[13:38:04] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsmallbomb
+[13:38:04] Дядя Богдан: кстати не слышно звука чата
+[13:38:12] Client "Toxa08" connected.
+[13:38:26] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[13:38:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[13:38:43] Дядя Богдан: бэбэбэбэбэ
+[13:38:56] Дядя Богдан: руслан очень умное
+[13:39:16] Дядя Богдан: руслан чувствувать васюха и стал очень умный
+[13:39:24] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[13:39:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[13:39:43] Дядя Богдан: это всё скибиди туалеты
+[13:40:05] Дядя Богдан: 12 часов вечера почти
+[13:40:12] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 120 seconds).
+[13:40:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[13:40:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:40:47] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:40:51] Дядя Богдан: помню на нуаре меня ограбили на заправке ниггеры 
+[13:41:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:41:08] Дядя Богдан: это на клиенте прикол не сервера
+[13:41:18] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[13:41:34] Client "LonePlayer022" connected.
+[13:41:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:41:55] Дядя Богдан: очень умное
+[13:42:09] Дядя Богдан: бан навсегда
+[13:42:12] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[13:42:19] Client "vasiliy karat" connected.
+[13:42:23] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[13:42:27] Raiden Kitrov killed RusLanConnection using wep_jack_gmod_ezaxe
+[13:42:28] Toxa08 was killed by ent_jack_gmod_ezhebomb
+[13:42:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:42:35] Raiden Kitrov killed Chelik333 using wep_jack_gmod_ezaxe
+[13:42:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:42:57] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 38 seconds).
+[13:43:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:43:12] Raiden Kitrov killed Chelik333 using wep_jack_gmod_ezaxe
+[13:43:13] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:43:17] Raiden Kitrov killed RusLanConnection using wep_jack_gmod_ezaxe
+[13:43:41] Raiden Kitrov killed Toxa08 using wep_jack_gmod_ezaxe
+[13:43:48] Raiden Kitrov killed Дядя Богдан using wep_jack_gmod_ezaxe
+[13:44:06] Raiden Kitrov killed Дядя Богдан using wep_jack_gmod_ezaxe
+[13:44:10] Raiden Kitrov killed Toxa08 using wep_jack_gmod_ezaxe
+[13:44:22] Toxa08 killed Raiden Kitrov using wep_jack_gmod_ezaxe
+[13:44:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:44:58] Raiden Kitrov killed vasiliy karat using wep_jack_gmod_ezshovel
+[13:45:03] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[13:45:07] Toxa08 killed Raiden Kitrov using wep_jack_gmod_ezaxe
+[13:45:43] Raiden Kitrov killed Toxa08 using rust_eoka
+[13:45:44] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[13:45:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:45:48] vasiliy karat killed Raiden Kitrov using rust_eoka
+[13:45:52] vasiliy karat suicided!
+[13:46:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:46:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:46:07] Raiden Kitrov killed Toxa08 using wep_jack_gmod_ezaxe
+[13:46:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezrocketmotor
+[13:46:23] Raiden Kitrov killed Toxa08 using wep_jack_gmod_ezaxe
+[13:46:29] Дядя Богдан: Я ЛЮБЛЮ ПЛЫВТСР
+[13:46:31] Raiden Kitrov: Я ЛЮБЛЮ ПЛЫВИСКИ
+[13:46:38] Toxa08 killed Raiden Kitrov using rust_eoka
+[13:46:46] Дядя Богдан killed Toxa08 using wep_jack_gmod_ezaxe
+[13:47:06] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[13:47:07] Дядя Богдан was killed by ent_jack_gmod_ezaxe
+[13:47:14] vasiliy karat: МАЕНКРАФТ
+[13:47:18] Raiden Kitrov killed RusLanConnection using wep_jack_gmod_ezaxe
+[13:47:22] Client "Crystal" connected.
+[13:47:24] Raiden Kitrov killed Toxa08 using wep_jack_gmod_ezaxe
+[13:47:25] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezboundingmine
+[13:47:25] RusLanConnection killed Raiden Kitrov
+[13:47:25] RusLanConnection killed vasiliy karat
+[13:47:25] RusLanConnection killed Дядя Богдан
+[13:47:36] RusLanConnection granted god mode upon Themself
+[13:47:51] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[13:47:51] Toxa08 killed Raiden Kitrov using wep_jack_gmod_ezaxe
+[13:48:07] Польские Пряники suicided!
+[13:48:28] Chelik333 killed Toxa08 using rust_boltrifle
+[13:49:21] Польские Пряники killed Toxa08 using npc_tripmine
+[13:49:44] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:49:44] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:49:48] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:49:48] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:49:48] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:49:48] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:49:48] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:49:49] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:49:49] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:49:49] vasiliy karat killed Польские Пряники using lvs_missile
+[13:49:49] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:50:06] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:50:07] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:50:07] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:50:07] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:50:07] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:50:07] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_missile
+[13:50:36] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_maxim
+[13:51:14] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezammo
+[13:51:23] vasiliy karat suicided!
+[13:51:37] Дядя Богдан: СУКААА
+[13:52:13] Дядя Богдан: нам капец
+[13:52:15] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_vehicle_spammer
+[13:52:16] RusLanConnection teleported and jailed Themself
+[13:52:19] RusLanConnection unjailed Themself
+[13:52:21] RusLanConnection teleported and jailed Raiden Kitrov
+[13:52:23] Дядя Богдан: это
+[13:52:23] RusLanConnection teleported and jailed Дядя Богдан
+[13:52:25] Дядя Богдан: ээ
+[13:52:33] Дядя Богдан: руслан слишком умное
+[13:52:35] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 661 seconds).
+[13:52:36] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_maxim
+[13:52:47] RusLanConnection unjailed Дядя Богдан
+[13:52:48] RusLanConnection unjailed Raiden Kitrov
+[13:52:55] Дядя Богдан: НЕЕЕТ
+[13:52:57] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_maxim
+[13:52:58] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_maxim
+[13:53:09] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[13:53:13] Дядя Богдан: РАЙДЕН ЭТО НАША СУДЬБА
+[13:53:19] Дядя Богдан: БЕЛКА И СТРЕЛКА
+[13:53:31] Польские Пряники killed LonePlayer022 using tfa_doik98_scop
+[13:53:35] Дядя Богдан: эль руслан казнил неверных
+[13:53:53] Дядя Богдан: ХАХАХАХ
+[13:53:57] vasiliy karat: ПРОДАТЬ НА ФУЛТОНЕ
+[13:54:15] Дядя Богдан: руслан очень умное
+[13:54:31] Польские Пряники: О
+[13:54:35] Польские Пряники: БУДУТ МЕШЕНЬКАМИ
+[13:54:37] Польские Пряники: ЩА
+[13:54:55] vasiliy karat: ТАМ ЛЕГКО ПРОСТО НУЖНО ЖМАТЬ НА ЛКМ
+[13:55:07] Дядя Богдан: на что жать
+[13:55:13] Польские Пряники killed Raiden Kitrov using tfa_doik98_scop
+[13:55:29] Польские Пряники: МЕНЯ ПОСАДИЛИ
+[13:55:35] Польские Пряники: ЗА УБИЙСТВО ДЖОНА КЕНЕДИ
+[13:56:33] Польские Пряники: !SLAY REI
+[13:56:36] Raiden Kitrov suicided!
+[13:56:36] Польские Пряники slayed Raiden Kitrov
+[13:56:36] Польские Пряники: !SLAY RAI
+[13:57:12] Chelik333 killed Raiden Kitrov using rust_boltrifle
+[13:57:16] Польские Пряники suicided!
+[13:57:16] Польские Пряники slayed Themself
+[13:57:16] Польские Пряники: !SLAY Пол
+[13:57:56] Дядя Богдан: руслан очень умное
+[13:57:58] Польские Пряники: ТЫ В МЕНЯ КИНУЛ
+[13:58:01] Польские Пряники killed Raiden Kitrov using tfa_doiluger
+[13:58:02] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[13:58:42] Chelik333 killed LonePlayer022 using rust_boltrifle
+[13:58:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsmokenade
+[13:58:54] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsignalnade
+[13:59:08] Chelik333 killed LonePlayer022 using rust_boltrifle
+[13:59:21] Польские Пряники killed Raiden Kitrov using crossbow_bolt
+[14:00:07] vasiliy karat: АЭ ТО ПИСТОЛЕТ
+[14:00:37] vasiliy karat: СДЕЛАТЬ ЧТОБЫ ЗА НУТРМЕНТЫ БЫЛО ЛЕГЧЕ ВЫСВАБАЖДАТЬСЯ
+[14:00:40] Raiden Kitrov killed Toxa08 using wep_jack_gmod_ezaxe
+[14:00:42] vasiliy karat: СИЛЬНЫЙ НАЕЛСЯ
+[14:00:48] LonePlayer022 killed Chelik333 using wep_jack_gmod_ezaxe
+[14:00:50] Польские Пряники killed Raiden Kitrov using tfa_doig43
+[14:00:52] Client "Crystal" spawned in server <STEAM_0:0:626594767> (took 810 seconds).
+[14:01:00] Дядя Богдан: руслан очень умное?
+[14:01:01] Dropped "Raiden Kitrov" from server<STEAM_0:0:202310128>
+[14:01:01] Raiden Kitrov suicided!
+[14:01:03] Client "Raiden Kitrov" connected.
+[14:01:46] Crystal: блин
+[14:01:50] Client "Raiden Kitrov" spawned in server <STEAM_0:0:202310128> (took 47 seconds).
+[14:02:13] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[14:02:13] Chelik333 suicided!
+[14:02:17] Client "Redoket" connected.
+[14:02:30] Client "Chelik333" connected.
+[14:02:38] Дядя Богдан: ТУТ ЗАХОРОНЕН ТОХА
+[14:02:44] Дядя Богдан: ДРУЗЬЯ
+[14:02:46] Crystal: у меня одного ерроры в руках у людей?
+[14:02:53] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 36 seconds).
+[14:02:55] Польские Пряники killed Toxa08 using tfa_doi_marinebayonet
+
+
+
+[14:04:26] New map: gm_sro_duststorm
+[14:04:44] Client "Raiden Kitrov" connected.
+[14:05:15] Client "vasiliy karat" connected.
+[14:05:48] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 33 seconds).
+[14:05:57] Client "Польские Пряники" connected.
+[14:06:14] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[14:06:27] Client "Дядя Богдан" connected.
+[14:06:32] Client "RusLanConnection" connected.
+[14:06:48] Client "Crystal" connected.
+[14:06:52] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 55 seconds).
+[14:07:17] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[14:07:55] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_maxim
+[14:08:01] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_maxim
+[14:08:06] Client "Raiden Kitrov" spawned in server <STEAM_0:0:202310128> (took 202 seconds).
+[14:08:28] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_kfz14
+[14:08:37] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodhalftrack_us
+[14:09:55] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 203 seconds).
+[14:10:01] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[14:10:04] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:07] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:21] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:21] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:22] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:22] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:23] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:23] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:26] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:26] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:26] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:26] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:27] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:27] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_missile
+[14:10:28] Польские Пряники was killed by ent_jack_gmod_ezherocket
+[14:10:29] RusLanConnection was killed by ent_jack_gmod_ezherocket
+[14:10:49] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[14:10:49] Польские Пряники suicided!
+[14:10:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[14:11:03] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gaz67
+
+
+
+[14:12:06] New map: gm_sro_duststorm
+[14:12:33] Client "Raiden Kitrov" connected.
+
+
+
+[14:13:00] New map: gm_sro_duststorm
+[14:13:55] Client "RusLanConnection" connected.
+[14:15:05] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 70 seconds).
+[14:15:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz2c
+[14:15:40] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sherman_m4a3
+[14:15:43] Client "Польские Пряники" connected.
+[14:15:48] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodhalftrack_us
+[14:15:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodhalftrack_us
+[14:15:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_dodtiger
+[14:15:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[14:16:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[14:16:02] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodsherman
+[14:16:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+
+
+
+[14:17:22] New map: gm_sro_duststorm
+
+
+
+[14:17:53] New map: gm_sro_duststorm
+[14:17:53] Client "Дядя Богдан" connected.
+[14:17:53] Client "Дядя Богдан" connected.
+[14:18:01] Client "Raiden Kitrov" connected.
+[14:19:33] Client "Crystal" connected.
+[14:20:17] Client "Польские Пряники" connected.
+[14:20:54] Client "RusLanConnection" connected.
+[14:21:07] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 50 seconds).
+[14:21:26] Client "Дядя Богдан" spawned in server <STEAM_0:0:919352780> (took 213 seconds).
+[14:21:45] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_dshk_12mm
+[14:21:47] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_dshk_12mm
+[14:22:07] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 73 seconds).
+[14:22:17] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[14:22:22] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_dshk_12mm
+[14:22:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_dshk_12mm
+[14:22:33] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodwillyjeep
+[14:22:35] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_dshk_12mm
+[14:22:36] Дядя Богдан: руслан
+[14:22:42] Дядя Богдан: уже лучше
+[14:22:50] Дядя Богдан: у меня звучит чат
+[14:22:55] Дядя Богдан: и не какает в консоль
+[14:23:00] Польские Пряники<STEAM_0:0:555258766> spawned model models/hunter/plates/plate075x075.mdl
+[14:23:08] Дядя Богдан: почти победа
+[14:23:19] Client "Crystal" spawned in server <STEAM_0:0:626594767> (took 226 seconds).
+[14:23:24] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[14:23:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodhalftrack_us
+[14:23:44] Дядя Богдан: у меня ерророк нет кроме рук
+[14:23:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[14:24:04] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_dodtiger
+[14:24:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[14:24:27] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodwillyjeep_mg
+[14:24:39] Польские Пряники was killed by lvs_wheeldrive_dodwillyjeep_mg
+[14:24:52] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_dshk_12mm
+
+
+
+[14:25:13] New map: gm_sro_duststorm
+[14:25:32] Client "Польские Пряники" connected.
+[14:25:40] Client "Дядя Богдан" connected.
+[14:26:10] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 38 seconds).
+[14:26:19] Client "vasiliy karat" connected.
+[14:26:31] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_maxim
+[14:26:33] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_maxim
+[14:26:47] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 28 seconds).
+[14:26:58] Client "Дядя Богдан" spawned in server <STEAM_0:0:919352780> (took 78 seconds).
+[14:27:36] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[14:27:58] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_rus_jsmod_pipe
+[14:28:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezarmor_pouch
+[14:28:18] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_cratepack
+[14:28:24] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbasicparts
+[14:28:26] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_helicopter_cod_ah6
+[14:28:29] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_amc_p16
+[14:28:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eztoolbox
+[14:29:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_rus_jsmod_pipe
+[14:30:13] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[14:30:17] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[14:30:51] Client "Crystal" connected.
+[14:31:47] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_sdkfz251_base
+[14:32:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmunitions
+[14:32:54] Client "Crystal" spawned in server <STEAM_0:0:626594767> (took 123 seconds).
+[14:33:09] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[14:33:18] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[14:33:20] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_ba64
+[14:33:24] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_amc_p16
+[14:34:09] Дядя Богдан: бывает
+[14:34:14] Crystal: ахах кек
+[14:34:28] Crystal: бля почему я черный
+[14:34:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[14:34:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[14:34:53] Crystal: !motd
+[14:34:54] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[14:34:54] vasiliy karat suicided!
+[14:35:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezstickynade
+[14:35:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[14:35:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[14:35:53] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[14:36:26] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezatmine
+[14:36:33] Польские Пряники suicided!
+[14:36:54] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[14:37:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eztnt
+[14:37:10] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eztnt
+[14:37:14] Dropped "Crystal" from server<STEAM_0:0:626594767>
+[14:37:14] Crystal suicided!
+[14:37:57] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_renaultft_m
+[14:38:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[14:38:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[14:38:13] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[14:38:15] Client "Crystal" connected.
+[14:38:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[14:38:22] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[14:38:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[14:38:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[14:38:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[14:38:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[14:38:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[14:39:06] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[14:39:31] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_renaultft_m
+[14:39:49] Client "Crystal" spawned in server <STEAM_0:0:626594767> (took 94 seconds).
+[14:41:47] Дядя Богдан: мяу
+[14:41:54] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eztimebomb
+[14:41:58] Дядя Богдан: нет
+[14:42:00] Дядя Богдан: сука
+[14:42:08] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eztimebomb
+[14:42:25] Польские Пряники killed Crystal using ent_jack_gmod_eztimebomb
+[14:42:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznuke_small
+[14:42:54] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[14:43:03] Польские Пряники was killed by ent_jack_gmod_ezhebomb
+[14:43:49] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[14:43:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[14:44:45] Дядя Богдан: одмин веселится
+[14:44:53] Crystal: занятно
+[14:44:53] Дядя Богдан: вы очень умное
+[14:45:10] Дядя Богдан: как вам моя берлога
+[14:45:26] Crystal: ахуенно
+[14:45:33] Crystal: я б тут жил
+[14:45:42] Дядя Богдан: могу и вам смастерить
+[14:45:47] Crystal: давай
+[14:47:23] Crystal: я могу тебе помочь 
+[14:47:31] Дядя Богдан: я знаю что делать
+[14:47:37] Crystal: ок
+[14:48:07] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[14:48:07] Польские Пряники suicided!
+[14:54:14] Client "Raiden Kitrov" connected.
+[14:55:39] Client "Raiden Kitrov" spawned in server <STEAM_0:0:202310128> (took 85 seconds).
+[14:58:21] Dropped "Raiden Kitrov" from server<STEAM_0:0:202310128>
+[14:58:21] Raiden Kitrov suicided!
+[14:58:57] Дядя Богдан: всё
+[14:59:06] Crystal: кайф
+[14:59:29] Дядя Богдан: ваша пуленепробиваемая берлога
+[14:59:47] Crystal: спс
+[14:59:54] Дядя Богдан: секретная техника египтян
+[15:00:02] Crystal: ахах
+[15:00:04] Дядя Богдан: все два дома ваши
+[15:00:06] Дядя Богдан: дарю
+[15:00:10] Дядя Богдан: я просто выхожу
+[15:00:13] Crystal: жесть спс
+[15:00:24] Crystal: два по цене одного
+[15:00:30] Dropped "Дядя Богдан" from server<STEAM_0:0:919352780>
+[15:00:30] Дядя Богдан suicided!
+[15:02:05] Dropped "Crystal" from server<STEAM_0:0:626594767>
+[15:02:05] Crystal suicided!
+[16:31:56] Client "Mr_Pyro" connected.
+[16:33:09] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 73 seconds).
+[16:34:25] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_aboot_gmod_ezarmor_jetmodule_admin
+[16:35:01] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[16:35:10] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[16:35:11] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[16:35:12] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[16:35:12] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[16:35:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[16:35:14] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[16:35:15] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgold
+[16:35:16] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfissilematerial
+[16:35:17] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfissilematerial
+[16:35:17] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfissilematerial
+[16:35:18] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezadvtextiles
+[16:35:19] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezadvtextiles
+[16:35:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezadvtextiles
+[16:36:27] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_rp_dodtiger
+[16:36:28] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[16:36:50] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_citroen_type23
+[16:36:55] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_fiat_621
+[16:37:04] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbattery
+[16:37:06] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezaidradio
+[16:37:58] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_compressor
+[16:37:59] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_exhaust
+[16:38:00] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_gauge
+[16:38:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_exhaust
+[16:39:07] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_citroen_type23
+[16:39:11] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_compressor
+[16:39:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_turbo
+[16:39:14] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_gauge
+[16:39:32] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_citroen_type23
+[16:39:35] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_compressor
+[16:39:37] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_gauge
+[16:39:37] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_turbo
+[16:40:01] Client "baccabab" connected.
+[16:40:22] Mr_Pyro cloaked Themself by amount 0
+[16:40:22] Mr_Pyro: !cloak
+[16:40:37] Mr_Pyro stripped weapons from Themself
+[16:40:37] Mr_Pyro: !strip mr
+[16:40:51] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_gasmask
+[16:41:39] Mr_Pyro stripped weapons from Themself
+[16:41:39] Mr_Pyro: !strip mr
+[16:59:56] Mr_Pyro: !menu
+[17:00:18] (Csay from Mr_Pyro) тест
+[17:00:22] (csay from Mr_Pyro) message
+[17:00:47] (Csay from Mr_Pyro) ох зря...
+[17:00:58] (Csay from Mr_Pyro) ЗРЯ ВЫ ЭТО СДЕЛАЛИ
+[17:01:48] Mr_Pyro: !ЬУТГ
+[17:01:53] Mr_Pyro: !menu
+[17:02:03] Mr_Pyro: !menu
+[17:05:06] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[17:05:06] Mr_Pyro suicided!
+[17:05:44] Client "Mr_Pyro" connected.
+[17:06:44] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 60 seconds).
+[17:07:04] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_flametank
+[17:08:03] Mr_Pyro: !menu
+[17:08:07] Mr_Pyro cleared decals
+[17:14:21] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[17:14:21] Mr_Pyro suicided!
+[19:28:17] Client "52" connected.
+[21:54:05] Client "Chelik333" connected.
+[22:01:11] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 426 seconds).
+[22:18:59] Client "Mr_Pyro" connected.
+[22:20:21] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 82 seconds).
+[22:21:00] Mr_Pyro cloaked Themself by amount 0
+[22:21:00] Mr_Pyro: !cloak
+[22:21:41] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_rus_jsmod_pipe
+[22:21:45] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_rus_sorter
+[22:21:51] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_rus_spawnbase
+[22:22:17] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezprimitivebench
+[22:22:20] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezworkbench
+[22:22:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_rus_gmod_ezpowerline
+[22:22:23] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfabricator
+[22:22:28] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbattery
+[22:22:30] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbattery
+[22:22:37] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezwood
+[22:22:57] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezgas
+[22:24:04] Mr_Pyro stripped weapons from Themself
+[22:24:04] Mr_Pyro: !strip mr
+[22:26:19] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodwillyjeep
+[22:26:22] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_citroen_type23
+[22:26:29] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_gazm1
+[22:26:31] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_horch
+[22:26:44] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_trailer_schneider_new
+[22:26:47] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_trailer_schneider
+[22:27:44] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_helicopter_cod_ah6
+[22:27:55] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodsherman
+[22:28:50] Mr_Pyro: !motd
+[22:30:12] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezaidradio
+[22:32:33] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[22:32:33] Mr_Pyro suicided!
+[22:33:58] Client "LonePlayer022" connected.
+[22:35:03] Client "07 V finale" connected.
+[22:36:38] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 95 seconds).
+[22:37:59] 07 V finale: !moed
+[22:38:06] 07 V finale: !mode
+[22:38:16] 07 V finale: !mood
+[22:38:20] 07 V finale: g
+[22:38:33] 07 V finale: /@@@
+[22:38:37] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 279 seconds).
+[22:38:43] 07 V finale: !mooed
+[22:38:46] Dropped "07 V finale" from server<STEAM_0:1:151313539>
+[22:38:46] 07 V finale suicided!
+[22:38:48] Client "07 V finale" connected.
+[22:39:21] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 33 seconds).
+[22:39:35] LonePlayer022: ,
+[22:39:42] 07 V finale: какой камандой меню открыть
+[22:39:47] 07 V finale: с командами
+[22:39:49] LonePlayer022: всмы
+[22:39:55] LonePlayer022: .!motd
+[22:40:03] LonePlayer022: без точки
+[22:40:09] 07 V finale: !motd
+[22:40:23] 07 V finale: го тимейтами будем ?
+[22:40:29] 07 V finale: ток я контент скачаю
+[22:40:33] 07 V finale: я уже играл
+[22:40:51] LonePlayer022: я чекаю
+[22:40:56] LonePlayer022: руслан пофиксил или нет
+[22:41:05] 07 V finale: что именно ?
+[22:41:15] LonePlayer022: Что у тебя объекты
+[22:41:20] LonePlayer022: Могут быть ероры
+[22:41:26] Chelik333: supply radio: pump jack
+[22:41:27] 07 V finale: нет я видел ерор
+[22:41:30] LonePlayer022: Крч прикол с контом сервера произошли
+[22:41:32] 07 V finale: вон стоит
+[22:41:37] LonePlayer022: :/
+[22:42:09] 07 V finale: ток у меня ?
+[22:42:14] LonePlayer022: у всех
+[22:42:19] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[22:42:19] LonePlayer022 suicided!
+[22:42:20] 07 V finale: ок
+[22:42:38] Dropped "07 V finale" from server<STEAM_0:1:151313539>
+[22:42:38] 07 V finale suicided!
+[22:45:45] Client "07 V finale" connected.
+[22:46:44] Client "07 V finale" spawned in server <STEAM_0:1:151313539> (took 59 seconds).
+[22:46:57] Client "Польские Пряники" connected.
+[22:48:07] Client "Mr_Pyro" connected.
+[22:48:10] 07 V finale: !moed
+[22:48:15] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 78 seconds).
+[22:48:16] 07 V finale: !mode
+[22:48:22] 07 V finale: !moode
+[22:48:29] 07 V finale: !meod
+[22:49:18] Польские Пряники: !menu
+[22:49:20] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 73 seconds).
+[22:49:20] 07 V finale: как меню открыть
+[22:49:30] 07 V finale: !menu
+[22:49:31] Польские Пряники removed all access rights from Mr_Pyro
+[22:49:35] 07 V finale: не это
+[22:49:40] Польские Пряники: f4
+[22:49:45] 07 V finale: а как на серв заходиш
+[22:50:08] 07 V finale to admins: меню где команда начинается на !mo
+[22:50:47] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbomb
+[22:51:11] Польские Пряники: .!mot
+[22:51:15] Польские Пряники: .!motd
+[22:51:20] 07 V finale: !motd
+[22:51:36] Польские Пряники suicided!
+[22:51:36] Польские Пряники killed Mr_Pyro using ent_jack_gmod_ezbomb
+[22:51:36] Польские Пряники killed 07 V finale using ent_jack_gmod_ezbomb
+[22:52:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbomb
+[22:52:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbomb
+[22:52:38] 07 V finale: !motd
+[22:52:52] Польские Пряники killed Mr_Pyro
+[22:53:04] Mr_Pyro: ВЕРНИ
+[22:53:14] Mr_Pyro: НИНАВИЖУ ТЕБЯ
+[22:53:15] Польские Пряники killed Mr_Pyro
+[22:53:15] Польские Пряники killed Польские Пряники
+[22:53:30] Польские Пряники: !MENU
+[22:53:42] Польские Пряники added Mr_Pyro to group admin
+[22:53:46] Mr_Pyro: УРА
+[22:53:50] Mr_Pyro: ТЫ ДОБРЫЙ ЧЕЛОВЕК
+[22:53:53] Mr_Pyro: СПАСИБО ТЕБЕ
+[22:53:56] Mr_Pyro: ЛЮБЛЮ ТЕБЬЯ\
+[22:53:56] Польские Пряники killed Mr_Pyro using tfa_doibren
+[22:54:33] Mr_Pyro: КУЛЬФРУМ
+[22:55:28] Client "LonePlayer022" connected.
+[22:55:53] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 25 seconds).
+[22:56:02] LonePlayer022: АМ НЯМ
+[22:56:50] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[22:56:50] Chelik333 suicided!
+[22:57:35] 07 V finale: харе тролить
+[22:58:57] Польские Пряники: !menu
+[22:59:14] Польские Пряники gave Themself 56 rounds
+[23:00:21] Mr_Pyro cloaked Themself by amount 0
+[23:00:21] Mr_Pyro: !cloak
+[23:00:52] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbomb
+[23:01:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[23:01:10] Польские Пряники killed Mr_Pyro using ent_jack_gmod_ezclusterbuster_skeet
+[23:01:12] Польские Пряники suicided!
+[23:02:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_ezutilitycrate
+[23:02:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezshippingcontainer
+[23:02:34] LonePlayer022 to admins: напомни, за что ты забанил Лудомана?
+[23:02:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezshippingcontainer
+[23:03:03] LonePlayer022: поня
+[23:03:05] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jmod_ezweapon_apisr
+[23:03:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezharpoon
+[23:03:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezharpoon
+[23:04:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezairboatengine
+[23:04:21] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezthumperlarge
+[23:04:35] Client "Дмитрий Уткин" connected.
+[23:04:42] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezpowertools
+[23:04:49] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[23:05:03] Client "Дмитрий Уткин" connected.
+[23:05:30] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_mortar
+[23:05:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmortarshell
+[23:05:33] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmortarshell
+[23:05:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmortarshell
+[23:05:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmortarshell
+[23:05:34] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmortarshell
+[23:06:36] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 93 seconds).
+[23:08:20] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[23:08:23] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[23:09:05] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[23:09:21] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[23:09:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[23:10:02] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[23:10:12] Польские Пряники suicided!
+[23:10:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[23:10:55] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[23:11:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[23:11:14] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[23:11:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[23:11:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezminimore
+[23:11:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfirenade
+[23:12:39] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsmallbomb
+[23:13:03] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[23:13:14] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[23:13:22] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheatrocket
+[23:13:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheatrocket
+[23:13:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheatrocket
+[23:14:08] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezboundingmine
+[23:14:23] Польские Пряники cloaked Themself by amount 0
+[23:14:23] Польские Пряники: !cloak
+[23:14:41] Польские Пряники teleported to Дмитрий Уткин
+[23:14:41] Польские Пряники: !goto Дми
+[23:14:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsmallbomb
+[23:15:32] LonePlayer022 to admins: ыыыыыыыыы, я скрафтил физгин и он упал под текстуры(((((((((((((
+[23:15:43] Польские Пряники teleported to LonePlayer022
+[23:15:43] Польские Пряники: !goto Lone
+[23:15:59] LonePlayer022: :)
+[23:16:51] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezstickynade
+[23:17:05] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[23:17:21] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[23:17:30] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[23:17:45] Польские Пряники killed Польские Пряники
+[23:18:02] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_pz1command
+[23:18:29] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_renaultft_f
+[23:18:45] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_pz742
+[23:18:59] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_pz742
+[23:19:15] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_pz1b
+[23:19:58] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_pz1jager
+[23:20:13] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_wespe
+[23:20:51] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_pz1munition
+[23:21:30] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_rus_spawnbase
+[23:21:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[23:21:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfumigator
+[23:21:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_rus_spawnbase
+[23:21:51] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbigbomb
+[23:22:39] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznukerocket
+[23:26:01] Польские Пряники uncloaked Themself
+[23:26:01] Польские Пряники: !uncloak Пол
+[23:26:56] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_rus_spawnbase
+[23:26:57] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_rus_spawnbase
+[23:28:00] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsmallbomb
+[23:28:39] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsmallbomb
+[23:28:47] Польские Пряники suicided!
+[23:29:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbuster
+[23:30:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfougasse
+[23:30:28] Польские Пряники uncloaked Themself
+[23:30:28] Польские Пряники: !uncloak
+[23:30:33] Польские Пряники cloaked Themself by amount 0
+[23:30:33] Польские Пряники: !cloak Пол
+[23:30:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezrocketmotor
+[23:31:06] Польские Пряники killed LonePlayer022 using ent_jack_gmod_ezfougasse
+[23:31:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbigbomb
+[23:31:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezrocketmotor
+[23:32:20] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznukerocket
+[23:32:22] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezrocketmotor
+[23:33:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezarmor_hazmat
+[23:35:21] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznuke_small
+[23:35:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznavalmine
+[23:35:51] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[23:41:09] Mr_Pyro: !goto польские
+[23:41:29] Mr_Pyro teleported to Польские Пряники
+[23:41:29] Mr_Pyro: !goto Польские Пряники
+[23:44:15] 07 V finale to admins: что нужно для работы вертстака 2 тира газ и ?
+[23:44:26] Mr_Pyro: !giti 07
+[23:44:33] Mr_Pyro teleported to 07 V finale
+[23:44:33] Mr_Pyro: !goto 07
+[23:45:02] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[23:45:02] Дмитрий Уткин suicided!
+[23:45:33] Mr_Pyro teleported to Польские Пряники
+[23:45:33] Mr_Pyro: !goto Польские Пряники
+[23:46:41] 07 V finale to admins: как подобрать гравити ган
+[23:46:51] Mr_Pyro teleported to 07 V finale
+[23:46:51] Mr_Pyro: !goto 07
+[23:47:37] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/pot01a.mdl
+[23:47:58] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_combine/breenglobe.mdl
+[23:49:19] Mr_Pyro: !uncloak Польские Пряники
+[23:51:20] 07 V finale to admins: вопрос
+[23:51:27] Mr_Pyro teleported to 07 V finale
+[23:51:27] Mr_Pyro: !goto 07
+[23:53:47] 07 V finale killed 07 V finale
+[23:54:14] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_gasmask
+[23:54:22] Польские Пряники teleported to 07 V finale
+[23:54:22] Польские Пряники: !goto 07
+[23:54:28] Mr_Pyro: u
+[23:54:30] Польские Пряники: если у тебя есть уже
+[23:54:32] 07 V finale killed 07 V finale
+[23:54:32] Польские Пряники: что то
+[23:54:40] Польские Пряники: 6 слоту
+[23:54:44] Польские Пряники: то выкинь
+[23:55:00] Mr_Pyro stripped weapons from Themself
+[23:55:00] Mr_Pyro: !strip mr
+[23:55:00] Польские Пряники cloaked Mr_Pyro by amount 0
+[23:55:00] Польские Пряники: !cloak mr
+[23:55:07] Польские Пряники cloaked Themself by amount 0
+[23:55:07] Польские Пряники: !cloak Пол
+[23:55:18] Mr_Pyro teleported to Польские Пряники
+[23:55:18] Mr_Pyro: !goto П
+[23:55:28] Mr_Pyro teleported to Польские Пряники
+[23:55:28] Mr_Pyro: !goto Польские Пряники
+[23:55:52] Mr_Pyro: ало
+[23:56:02] Mr_Pyro: ты мне говорил?
+[23:56:13] Mr_Pyro teleported to Польские Пряники
+[23:56:13] Mr_Pyro: !goto Польские Пряники
+[23:57:35] Польские Пряники: че
+[23:57:45] Mr_Pyro: алё
+[23:57:52] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[23:57:52] Польские Пряники suicided!
+<Logging continued in "data/ulx_logs/05-09-25.txt">

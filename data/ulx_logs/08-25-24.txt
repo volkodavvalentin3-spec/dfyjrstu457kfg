@@ -1,0 +1,33 @@
+[23:00:36] New map: gm_micronations
+[23:01:46] Client "василий каратаев" connected.
+[23:02:10] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 24 seconds).
+[23:02:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[23:05:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_smg
+[23:05:34] василий каратаев killed RusLanConnection using wep_jack_gmod_assaultrifle
+[23:05:38] василий каратаев: КРАФТ СЛОМЛА
+[23:05:48] RusLanConnection teleported to василий каратаев
+[23:05:59] RusLanConnection: я вроде починил
+[23:08:03] василий каратаев: НЕРАБИТ
+[23:08:05] василий каратаев: НЕРАЬИТ
+[23:08:06] василий каратаев: КРАТФ
+[23:09:14] василий каратаев: УРА
+[23:10:43] василий каратаев: НУ ВСО Я БАГАТЫЙ
+[23:15:52] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[23:16:28] Client "василий каратаев" connected.
+[23:16:48] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 20 seconds).
+[23:18:26] василий каратаев: ehf
+[23:18:28] василий каратаев: YTN
+[23:18:29] василий каратаев: НЕТ
+[23:20:09] василий каратаев was killed by prop_physics
+[23:23:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[23:45:34] василий каратаев: ВАТАХЕЕЕЕЕЕЛ 
+[23:53:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_vehicles/carparts_wheel01a.mdl
+[23:53:55] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/reciever01a.mdl
+[23:53:56] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/reciever01b.mdl
+[23:53:56] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/reciever01c.mdl
+[23:53:56] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/reciever01c.mdl
+[23:53:57] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/reciever01d.mdl
+[23:54:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprimitivebench
+[23:55:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[23:55:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+<Logging continued in "data/ulx_logs/08-26-24.txt">

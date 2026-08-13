@@ -1,0 +1,950 @@
+<Logging continued from "data/ulx_logs/04-10-25.txt">
+[00:11:23] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[00:11:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpickaxe
+[00:11:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[00:12:37] Client "kosmokot" connected.
+[00:38:32] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[00:38:32] Redoket suicided!
+[00:40:43] Client "Redoket" connected.
+[00:41:23] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 40 seconds).
+[00:42:17] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsentry
+[00:42:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezprecparts
+[00:42:23] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[00:46:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgold
+[00:46:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgold
+[00:46:07] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgold
+[00:46:07] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgold
+[00:46:07] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgold
+[00:46:07] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgold
+[00:46:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezaidradio
+[00:46:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[00:48:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[00:49:20] Client "." connected.
+[00:49:57] Client "." connected.
+[00:50:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezprecparts
+[00:55:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[00:55:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[00:55:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[00:55:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[00:56:02] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[00:56:04] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmunitions
+[00:56:04] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmunitions
+[00:56:37] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[00:57:03] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[00:58:12] Redoket: !MENU
+[00:58:17] Redoket cloaked Themself by amount 0
+[01:15:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[01:15:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[01:16:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsteel
+[01:16:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsteel
+[01:23:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[01:23:36] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[01:23:36] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[01:23:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[01:26:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpickaxe
+[01:27:01] Client "judickaelrakoto6" connected.
+[01:37:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgold
+[01:37:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgold
+[01:43:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[01:44:25] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_rebel
+[01:52:54] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:52:54] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:52:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:52:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:52:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:02] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:03] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:03] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[01:53:30] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[01:58:05] Redoket: ЧО
+[01:58:23] Redoket: !MENU
+[01:58:25] Redoket uncloaked Themself
+[02:04:39] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezpowertools
+[02:04:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[02:10:43] Redoket: ЧО
+[02:10:50] Redoket: Я ПОНЯЛ
+[02:10:57] Redoket: ТАК ЧЁ ТЫ ПРОСТО В АДМИН ЧАТ НЕ НАПИСАЛ
+[02:11:01] Redoket: ИЛИ В ГЛОБАЛ
+[02:13:21] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:23] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:27] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:29] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:30] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:32] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:34] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:35] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:39] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:43] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:51] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_uc_dt
+[02:13:54] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:56] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:57] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:13:58] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:14:00] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:14:00] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:14:02] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:14:12] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:14:13] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[02:24:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezaugerdrill
+[02:24:29] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[02:26:27] Redoket: Я ПОНЯЛ
+[02:28:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[02:29:20] Mr_Pyro: Е
+[02:32:34] Mr_Pyro killed Redoket using lvs_helicopter_cod_ah6
+[02:35:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[02:36:56] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:38:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmunitions
+[02:38:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmunitions
+[02:38:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[02:38:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[02:38:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[02:38:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[02:38:49] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezammo
+[02:39:42] Redoket killed Mr_Pyro using lvs_helicopter_cod_ah6
+[02:40:20] Redoket killed Mr_Pyro using lvs_helicopter_cod_ah6
+[02:40:42] Client "𝓚𝖔𝝇𝖒𝖔𝝇" connected.
+[02:41:42] Redoket<STEAM_0:1:545449619> spawned sent lvs_helicopter_cod_ah6
+[02:52:45] Client "𝓚𝖔𝝇𝖒𝖔𝝇" spawned in server <STEAM_0:0:778086905> (took 723 seconds).
+[02:55:05] Dropped "𝓚𝖔𝝇𝖒𝖔𝝇" from server<STEAM_0:0:778086905>
+[02:55:05] 𝓚𝖔𝝇𝖒𝖔𝝇 suicided!
+[02:56:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezprimitivebench
+[03:06:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[03:06:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[03:20:41] Mr_Pyro: -44 57
+[03:30:04] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezwood
+[03:30:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezwood
+[03:30:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezwood
+[03:30:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezwood
+[03:30:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezwood
+[03:30:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezwood
+[03:30:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezwood
+[03:30:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezwood
+[03:30:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgroundscanner
+[03:30:57] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[03:32:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezheavyrocket
+[03:32:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezheavyrocket
+[03:32:47] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[03:36:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[03:38:51] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[03:48:07] Mr_Pyro: -44 57э
+[03:48:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[03:49:24] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[03:49:41] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[03:49:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[03:50:03] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[03:50:18] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[03:50:24] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[03:50:33] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[03:59:28] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[03:59:28] Redoket suicided!
+[03:59:58] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[03:59:58] Mr_Pyro suicided!
+[04:00:11] Client "afromen" connected.
+[04:00:21] Client "Шайтан" connected.
+[04:02:23] Client "Шайтан" spawned in server <STEAM_0:1:932814392> (took 122 seconds).
+[04:02:40] Dropped "Шайтан" from server<STEAM_0:1:932814392>
+[04:02:40] Шайтан suicided!
+[04:03:40] Client "afromen" spawned in server <STEAM_0:0:630661310> (took 209 seconds).
+[04:07:43] Dropped "afromen" from server<STEAM_0:0:630661310>
+[04:07:43] afromen suicided!
+[04:27:36] Client "LonePlayer022" connected.
+[04:30:05] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 149 seconds).
+[04:50:29] LonePlayer022 was killed by build_prop
+[05:03:28] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[05:03:28] LonePlayer022 suicided!
+[06:06:01] Client "mifag4" connected.
+[06:07:09] Client "burnovomd" connected.
+[06:08:01] Client "mifag4" spawned in server <STEAM_0:1:934372859> (took 120 seconds).
+[06:09:38] Client "burnovomd" spawned in server <STEAM_0:1:821505188> (took 149 seconds).
+[06:27:18] Client "Toxa08" connected.
+[06:27:53] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 35 seconds).
+[06:32:00] burnovomd was killed by prop_physics
+[06:33:13] (TEAM) mifag4: i
+[06:33:23] (TEAM) mifag4: u
+[06:33:54] mifag4 suicided!
+[06:46:53] (TEAM) mifag4: I
+[06:48:44] (TEAM) mifag4: I
+[07:05:52] burnovomd killed mifag4 using wep_jack_gmod_ezshovel
+[07:07:35] burnovomd killed mifag4 using tfa_doig43
+[07:09:26] burnovomd killed mifag4 using player
+[07:12:55] Client "XLEBYC" connected.
+[07:14:08] Client "afromen" connected.
+[07:14:58] Client "afromen" spawned in server <STEAM_0:0:630661310> (took 50 seconds).
+[07:15:50] Client "XLEBYC" spawned in server <STEAM_0:1:615225475> (took 175 seconds).
+[07:17:26] afromen was killed by ent_jack_gmod_ezsentry
+[07:18:42] Dropped "XLEBYC" from server<STEAM_0:1:615225475>
+[07:18:42] XLEBYC suicided!
+[07:19:02] Client "kruyb" connected.
+[07:21:31] Toxa08: производство
+[07:22:41] Client "XLEBYC" connected.
+[07:23:10] Client "XLEBYC" spawned in server <STEAM_0:1:615225475> (took 29 seconds).
+[07:24:02] afromen killed mifag4 using tfa_doig43
+[07:24:49] Client "kruyb" connected.
+[07:27:19] (TEAM) burnovomd: микрофон не работает что ли
+[07:29:02] mifag4 killed afromen using tfa_doim1918
+[07:29:55] mifag4 killed afromen using tfa_doim1918
+[07:30:57] mifag4 killed afromen using tfa_doim1918
+[07:31:36] mifag4 killed afromen using tfa_doim1918
+[07:32:31] mifag4 killed afromen using rust_eoka
+[07:40:34] afromen: /me показал военный билет: [4627] [Гузанов Д.И] {РЯД} [12 Гв.МСП] [-] (-) |-|
+[07:41:45] Client "Renka" connected.
+[07:43:09] Client "Renka" connected.
+[07:49:22] Client "Culfrum" connected.
+[07:49:25] afromen killed mifag4 using tfa_doig43
+[07:51:10] Client "Culfrum" spawned in server <STEAM_0:0:555258766> (took 108 seconds).
+[07:52:04] afromen killed mifag4 using tfa_doimg34
+[07:53:07] Client "чпокал твои щеки" connected.
+[07:54:25] Toxa08: хей бои
+[07:54:29] Culfrum: А
+[07:54:33] Culfrum: ЧТО
+[07:54:36] burnovomd suicided!
+[07:54:39] Toxa08: сзади
+[07:55:37] Culfrum: ЧУТЬ НЕ ПОМЕР
+[07:55:43] Toxa08: тоже
+[07:56:13] Client "Шайтан" connected.
+[07:57:34] Client "Шайтан" spawned in server <STEAM_0:1:932814392> (took 81 seconds).
+[07:58:06] Dropped "Шайтан" from server<STEAM_0:1:932814392>
+[07:58:06] Шайтан suicided!
+[08:00:02] Culfrum: ЕМАЕ
+[08:00:06] Culfrum: ИЗОБРЕТИТЕ ТУНГСТЕН
+[08:00:14] Toxa08: так у нас снизу
+[08:00:17] Toxa08: его запасы
+[08:00:21] Toxa08: только бур надо провести
+[08:00:39] afromen killed mifag4 using tfa_doimg34
+[08:01:31] Culfrum: ВОДИЧКА
+[08:02:03] Toxa08: не робит
+[08:02:07] Toxa08: или я не так делал
+[08:02:33] afromen killed mifag4 using tfa_doimg34
+[08:03:30] Culfrum: ВСЁ Я НА ГАИТИ
+[08:04:48] Culfrum: НИЧЕ НЕТУ
+[08:05:16] Toxa08: ниче это чё
+[08:05:26] Culfrum: НИЧЕ У ЛЮДЕЙ НЕТУ
+[08:05:30] Toxa08: аа это да
+[08:05:30] Culfrum: Я МОГУ ЕЩЕ ПРОЛЕТЕТЬ
+[08:07:09] Dropped "afromen" from server<STEAM_0:0:630661310>
+[08:07:09] afromen suicided!
+[08:09:02] Culfrum: РЕБЯТА
+[08:09:04] Culfrum: Я РОДИЛ
+[08:09:08] Culfrum: СТОЛИЦУ
+[08:09:09] Culfrum: ПОШЛИТЕ
+[08:09:13] Culfrum: ОБЗОР БАЗЫ
+[08:09:23] Toxa08: чаво
+[08:09:29] Culfrum: Я ЭТО ВСЕ РОДИЛ
+[08:09:46] Toxa08: это слишком круто чтобы было правдой
+[08:10:27] Toxa08: можем тогда перенести сюда наши запасы 
+[08:12:34] Culfrum: МОЖЕМ
+[08:12:36] Culfrum: ЩЯ
+[08:12:41] Toxa08: да я так посмотрел
+[08:12:47] Toxa08: тут как то хреново по реса
+[08:12:48] Toxa08: м
+[08:12:53] Culfrum: ТАК ЗАБРАТЬ СЕБЕ
+[08:12:55] Culfrum: ЗАЧИТ
+[08:12:56] Toxa08:  у нас там и тунген
+[08:12:58] Toxa08: и вода
+[08:13:01] Toxa08: ну да
+[08:13:03] Toxa08: можно
+[08:13:04] Culfrum: ЩА Я ЗАБЕРУ
+[08:13:41] Culfrum: СТОЙ
+[08:13:43] Culfrum: ОТДАЙ
+[08:13:49] Toxa08: по ящикам?
+[08:13:54] Culfrum: ДА
+[08:14:06] Toxa08: ахаха
+[08:14:06] Culfrum: НИФИГАСЕБЕ
+[08:14:11] Toxa08: ну тоже гемплей
+[08:14:42] Culfrum: НАДО БЫЛО ВЕРТ БРАТЬ
+[08:14:45] Culfrum: ЧУВАК
+[08:14:53] Culfrum: ВОЗЬМИ ТАМ КОРОБКУ СЕБЕ В ИНВЕНТАРЬ
+[08:14:58] Culfrum: И ИДИ К СТОЛИЦЕ
+[08:15:00] Culfrum: И ТЕПАЙСЯ
+[08:15:17] Culfrum: БУРЛАКИ
+[08:15:19] Culfrum: НА ВОЛГЕ
+[08:17:09] Culfrum: ПАТРОНЫ НАД
+[08:17:22] Culfrum: ЩА
+[08:17:40] Toxa08: а их как
+[08:17:44] Culfrum: ТОЖ
+[08:18:01] (TEAM) mifag4: ПАМАГИТЕ
+[08:18:06] Culfrum: ПРИНЕСИ 
+[08:18:08] mifag4: ААААААААААААААААААААААААААААА
+[08:18:08] Culfrum: БЕЙЗИКИ
+[08:18:23] (TEAM) mifag4: БЛЛЛЛЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯ
+[08:18:30] Toxa08: ахах
+[08:18:33] Culfrum suicided!
+[08:18:33] Toxa08: куча попкорна
+[08:18:34] Culfrum: АЙ
+[08:18:37] Toxa08: ?
+[08:18:47] Toxa08: тебя смело
+[08:18:50] Toxa08: в момента
+[08:19:43] Dropped "mifag4" from server<STEAM_0:1:934372859>
+[08:19:43] mifag4 suicided!
+[08:19:49] Dropped "burnovomd" from server<STEAM_0:1:821505188>
+[08:19:49] burnovomd suicided!
+[08:20:44] Culfrum: В КОРОПКИ
+[08:20:55] Toxa08: гдеты их находишь
+[08:20:59] Culfrum: КОГО
+[08:21:03] Toxa08: пушки
+[08:21:03] Culfrum: БЕЙЗИК ПАРТСЫ
+[08:21:05] Culfrum: И ВСЕ
+[08:21:07] Culfrum: А
+[08:21:08] Culfrum: ПУШКИ
+[08:21:12] Culfrum: КРУТЫЕ ПУШКИ
+[08:22:18] Toxa08: unreal задача
+[08:23:18] Culfrum: ВСЕ Я НА ГАИТИ
+[08:23:21] Culfrum: ПЕРЕНЕСИ НА НАШУ БАЗУ
+[08:38:09] Client "Шайтан" connected.
+[08:38:56] Client "Шайтан" spawned in server <STEAM_0:1:932814392> (took 47 seconds).
+[08:41:27] Шайтан: че делайте?
+[08:41:43] Toxa08: вещи носим
+[08:41:43] Culfrum: НЕ РУССКИЙ ЧЕЛОВЕК
+[08:41:44] Шайтан: тут турели есть?
+[08:41:50] Toxa08: нету
+[08:42:07] Шайтан: че толкаешся
+[08:42:36] Шайтан: интересно вам выживать одним?
+[08:42:43] Toxa08: тут были только что
+[08:42:45] Toxa08: 6
+[08:42:48] Шайтан: и
+[08:42:53] Шайтан: че как?
+[08:42:54] Toxa08: пропали(
+[08:42:57] Шайтан: нууу
+[08:42:59] Шайтан: понятно
+[08:43:30] Toxa08: мда
+[08:43:37] Шайтан: вам не скушно?
+[08:43:41] Toxa08: не
+[08:43:47] Шайтан: капец вы
+[08:43:56] Toxa08: находим развлечение 
+[08:44:03] Toxa08: ну и еще не сделали ядерку
+[08:44:23] Шайтан: были бы возможности я бы стал гигантом и вы бы от меня убегали нахуй
+[08:44:31] Toxa08: )
+[08:44:36] Culfrum: ПОСАДКА САМОЛЕТА
+[08:44:46] Шайтан: это верталет
+[08:44:51] Culfrum: ЭТО САМОЛЕТ
+[08:45:01] Шайтан: ладно называй как хош
+[08:46:39] Toxa08 was killed by ent_aboot_gmod_ezshippingcontainer
+[08:46:54] Toxa08: да куда
+[08:46:58] Toxa08: патроны
+[08:46:59] Шайтан: надо
+[08:47:00] Шайтан: мне
+[08:47:03] Toxa08: так тут же
+[08:47:08] Шайтан: надо
+[08:47:08] Toxa08: 1440
+[08:47:32] Culfrum: Я ТЕБЯ УЧИЛ
+[08:47:36] Culfrum: УПАКОПКА
+[08:47:43] Toxa08: так я его
+[08:47:47] Toxa08: до сталицы
+[08:50:12] Culfrum: ДАЙ ПОЛЕТАТЬ
+[08:50:18] Culfrum: ДАЙ ПОЛЕТАТЬ
+[08:51:00] Culfrum: ДАЙ ПОЛЕТАТЬ
+[08:51:03] Culfrum: НА ЛИТЛ
+[08:51:20] Шайтан: хихихихих
+[08:51:24] Шайтан: зделай себе
+[08:51:26] Culfrum: НЕ
+[08:51:28] Culfrum: ДАЙ СЮДА
+[08:51:30] Шайтан: ресов дохуя
+[08:51:33] Culfrum: И ЧО
+[08:51:40] Culfrum: ДАЙ ПОЛЕТАЮ
+[08:51:46] Шайтан: А НИ ЧО НОРМ ОБЩАЙСЯ
+[08:51:56] Culfrum: ТЫ КУКУМБЕР
+[08:52:03] Шайтан: =)
+[08:53:19] Шайтан: не хотите уран поискать?
+[08:54:16] Toxa08: как их запаковываь
+[08:54:20] Toxa08: ?
+[08:54:22] Culfrum: BOX
+[08:54:25] Culfrum: В ТУЛС
+[08:54:28] Toxa08: аа
+[08:54:30] Culfrum: ТУЛБОКС
+[08:55:58] Client "Дмитрий Уткин" connected.
+[08:56:04] Шайтан: не хотите уран поискать?
+[08:56:04] Toxa08: поиск урана
+[08:56:07] Toxa08: конечно
+[08:56:08] Шайтан: а вот
+[08:56:13] Шайтан: ну ищите 
+[08:56:18] Шайтан: мне тут с вами скучно
+[08:56:25] Шайтан: и кстати
+[08:56:30] Culfrum: НУ НЕ ИГРАЙ
+[08:56:36] Culfrum: НЕ НРАВИТСЯ НЕ ИГРАЙ
+[08:56:40] Шайтан: кульфрум вертик боевой взорвал
+[08:56:41] Шайтан: пока
+[08:56:42] Dropped "Шайтан" from server<STEAM_0:1:932814392>
+[08:56:42] Шайтан suicided!
+[08:56:43] Culfrum: НЕ
+[08:56:47] Culfrum: НИЧЕ Я НЕ ВЗРЫВАЛ
+[08:56:53] Culfrum: Я НА СВОЕМ ЛЕТАЮ
+[08:57:01] Culfrum: Я ПОПРОСИЛ У НЕГО ВЕРТ ПОЛЕТАТЬ
+[08:57:02] Toxa08: знаем
+[08:57:06] Culfrum: ОН ГОВОРИТ САМ СКРАФТЬ
+[08:57:06] Client "Дмитрий Уткин" spawned in server <STEAM_0:0:449777562> (took 68 seconds).
+[08:57:13] Culfrum: И НА СВОЕМ ПОЛЕТЕЛ
+[09:01:07] Client "LonePlayer022" connected.
+[09:01:50] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 43 seconds).
+[09:03:17] Toxa08: нашел
+[09:03:55] Toxa08: нашел уран
+[09:03:58] Culfrum: ЗАЧЕМ
+[09:04:10] Dropped "Дмитрий Уткин" from server<STEAM_0:0:449777562>
+[09:04:10] Дмитрий Уткин suicided!
+[09:04:10] Toxa08: для ядерного чего-то
+[09:04:13] Culfrum: НЕ
+[09:04:26] Toxa08: ну на всякий просто теперь мы знаем где он
+[09:05:38] Culfrum: ААХХАХА ЧТО
+[09:05:40] Culfrum: БАГИЭ
+[09:05:43] Toxa08: чё
+[09:05:47] Culfrum: А НЕ
+[09:05:48] Culfrum: КАРОЧЕ
+[09:05:52] Culfrum: У МЕНЯ ВЕРТ ТИХИМ БЫЛ
+[09:05:59] Culfrum: И ПОТОМ РЕЗКО ВЖЖЖЖЖЖЖЖЖЖЖЖЖ
+[09:06:01] Toxa08: а ну ты ж в кабине 
+[09:06:05] Culfrum: НЕ
+[09:06:12] Culfrum: Я НЕ В КАБИНЕ
+[09:06:23] Culfrum: ПРОВЕРЯЕМ
+[09:11:03] Toxa08: ну незнаю
+[09:12:08] Toxa08: как она упадет
+[09:13:03] Toxa08: ну это как повезет)
+[09:17:00] Culfrum: АЙ
+[09:17:07] Culfrum: ДЕРЬМО
+[09:17:11] Culfrum: КАКАШКА
+[09:17:14] Toxa08: минимальная потеря 
+[09:17:21] Toxa08: у нас ресурсов на еще 100 таких
+[09:17:22] Toxa08: )
+[09:17:27] Culfrum: ВСЕРАВНО
+[09:17:40] Client "enrique meñique" connected.
+[09:18:03] Culfrum: БЛИН
+[09:18:08] Culfrum: А ЧО ВЫ НЕ ПЕРЕЛОЖИТЕ
+[09:18:13] Toxa08: кого
+[09:18:19] Culfrum: РЕСЫ ИЗ ВЕРХНЕГО
+[09:18:21] Culfrum: В НИЖНИЙ
+[09:18:24] Toxa08: нету места
+[09:18:26] Toxa08: в нижнем
+[09:19:50] Client "enrique meñique" connected.
+[09:24:40] Toxa08: чё
+[09:24:46] Culfrum: А
+[09:24:54] Toxa08: ведут по нам огонь!
+[09:24:57] Toxa08: по башне
+[09:25:23] Culfrum: ВХОДЫ
+[09:25:25] Culfrum: ЗАБЛОКИРУЙТЕ
+[09:26:19] Toxa08: ага 
+[09:26:23] Toxa08: окей щя
+[09:26:37] Toxa08: тут
+[09:27:05] Toxa08: много
+[09:27:59] Client "Redoket" connected.
+[09:28:47] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 48 seconds).
+[09:36:30] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfragnade
+[09:36:36] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztnt
+[09:37:14] Redoket: !MENU
+[09:37:28] (csay from Redoket) ДЕЛАЙТЕ ДРАМУ!
+[09:37:36] (csay from Redoket) ИНАЧЕ ПЕРЕЗАПУСК
+[09:37:36] LonePlayer022: НЕЕЕЕТ
+[09:37:40] LonePlayer022: ГОООО
+[09:37:57] Redoket: !mENU
+[09:38:04] (csay from Redoket) Я ХОЧУ ДРАМУ
+[09:39:20] LonePlayer022: Иди нахуй
+[09:40:00] Client "vasiliy karat" connected.
+[09:41:14] Redoket: !MENU
+[09:41:25] Redoket cloaked Themself by amount 0
+[09:41:49] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 109 seconds).
+[09:42:13] LonePlayer022: СЪЕБАЛИСЬ ОТСЮДА
+[09:42:19] LonePlayer022: ВАША БАШНЯ ХУЙНЯ
+[09:42:25] Redoket: лон плеер
+[09:42:29] LonePlayer022: ы
+[09:42:32] Redoket: я дам тебе дар
+[09:42:38] Redoket: чтобы ты мог отпор
+[09:42:45] Redoket: считапй это
+[09:42:48] Redoket: от богов
+[09:42:51] Redoket: бензина
+[09:42:58] Culfrum: ЧТО
+[09:43:08] Redoket: и мата по меньше ток
+[09:43:13] Redoket: а то по попе
+[09:43:59] Culfrum: ДЕРЬМО\
+[09:45:24] Redoket: дар 2
+[09:45:49] Culfrum: ТЫ ГЛУПЫЙ
+[09:45:56] Culfrum: ХУРР
+[09:47:56] Redoket: к тебе идут
+[09:49:21] Culfrum: СКИНЬТЕ МУНИШНС
+[09:49:28] Toxa08: на рпг?
+[09:49:32] Culfrum: ДАЪ
+[09:49:46] Culfrum: Я ТУТ
+[09:49:57] Culfrum: 24 -70 Я
+[09:50:33] Culfrum: АА
+[09:50:36] LonePlayer022: У меня 14 хп
+[09:50:46] Culfrum: ОБЪЯВИ
+[09:51:59] LonePlayer022 killed Culfrum using tfa_doimg42
+[09:52:57] Redoket: !menu
+[09:52:59] Redoket uncloaked Themself
+[09:53:41] Culfrum to admins: БАГ ТУПОЙ
+[09:54:47] LonePlayer022 suicided!
+[09:57:19] Redoket killed Culfrum using tfa_doimg42
+[09:57:21] Redoket killed Toxa08 using tfa_doimg42
+[09:57:43] Toxa08 killed Redoket using tfa_doim1garand
+[09:57:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezaxe
+[09:58:01] vasiliy karat: А ГДЕ НАШЕ ВСЕ
+[09:58:34] LonePlayer022 killed Culfrum using ent_panzerschreck_shell_v2
+[09:58:34] LonePlayer022 suicided!
+[09:59:30] vasiliy karat: РАДИ
+[10:00:32] vasiliy karat: ВРАГИ НАС МОГУТ СЛЫШАТ
+[10:00:39] vasiliy karat: А
+[10:02:29] vasiliy karat: ВЫЗЫВАЙ
+[10:03:21] Toxa08 killed Redoket using tfa_doimg42
+[10:03:36] Redoket was killed by ent_jack_gmod_ezprimitivebench
+[10:03:44] vasiliy karat: УХОДИМ
+[10:04:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[10:05:23] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezaxe
+[10:05:50] Redoket killed Toxa08 using ent_jack_gmod_eznapalm
+[10:05:52] Redoket killed Culfrum using ent_jack_gmod_eznapalm
+[10:06:12] Redoket killed XLEBYC using ent_jack_gmod_eznapalm
+[10:06:14] Redoket was killed by entityflame
+[10:06:31] Culfrum to admins: РЕДОКЕТ НЕЗЯ
+[10:07:18] Culfrum killed LonePlayer022 using ent_panzerschreck_shell_v2
+[10:10:06] Toxa08 killed LonePlayer022 using tfa_doithompsonm1a1
+[10:13:53] vasiliy karat: БАЗА ПРИЕМ Я МОЖЕТ ЩАС ПРОДАМ 
+[10:14:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezifakpacket
+[10:14:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezifakpacket
+[10:15:12] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezifakpacket
+[10:15:14] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezifakpacket
+[10:15:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezifakpacket
+[10:15:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezifakpacket
+[10:15:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezifakpacket
+[10:15:17] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezifakpacket
+[10:15:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezifakpacket
+[10:15:27] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmunitions
+[10:15:29] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmunitions
+[10:15:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmedsupplies
+[10:16:11] Redoket killed Culfrum using ent_panzerschreck_shell_v2
+[10:16:15] Culfrum: ГОВНО
+[10:16:18] Culfrum: АТАКУЮТ
+[10:16:32] Toxa08 killed Redoket using tfa_doithompsonm1a1
+[10:16:36] vasiliy karat: ПРОДАТЬ НУЖНО
+[10:16:49] vasiliy karat: ПОМОГИТЕ ПОСТАВИТ
+[10:16:59] Culfrum: АДАЙ
+[10:17:02] Culfrum: ОГНЕМЕТ
+[10:17:52] vasiliy karat: ГД
+[10:18:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpickaxe
+[10:19:27] Culfrum: ФИЗГАН
+[10:19:29] (TEAM) Culfrum: ПОТОМ
+[10:19:31] Culfrum: ПРИНЕСИ
+[10:20:58] Culfrum: КУПИ ХПШКИ
+[10:21:02] Toxa08: щя
+[10:21:08] Culfrum: И МЕДКИТ
+[10:21:37] vasiliy karat: 600 БАБАХИ
+[10:21:53] vasiliy karat: МОЖЕТ МИНОМЕТ ДА ХОЧУ
+[10:22:03] Culfrum: ОНИ СТОЛИЦУ ЗАБРАЛИ
+[10:22:05] Culfrum killed Redoket using tfa_doimp40
+[10:24:35] Culfrum: СКИНЬ ХПШКИ
+[10:24:39] Culfrum: МЕДКИТ
+[10:24:43] Toxa08: щя
+[10:25:18] Toxa08: на
+[10:28:21] Culfrum killed LonePlayer022 using tfa_doimp40
+[10:28:50] vasiliy karat killed Culfrum using tfa_doig43
+[10:28:53] Culfrum: ГОВНО
+[10:31:38] LonePlayer022: Пускай они нахуй идут
+[10:33:16] vasiliy karat: ЗАРЯДИ БУР
+[10:33:25] Culfrum: ДЕНЬГИ ЗАРАБОТАЙТЕ
+[10:33:31] Toxa08: щя будут 
+[10:35:24] vasiliy karat: У МЕНЯ МИНОМЕТ
+[10:35:35] vasiliy karat: МЫ ПОДОЙДЕМ
+[10:35:39] vasiliy karat: ДА И ОБЫЧНАЯ ПУШКА
+[10:35:43] vasiliy karat: НЕ ДОЛЕТИТ ОТСЮДА
+[10:36:23] Client "бугагашенька" connected.
+[10:36:32] Culfrum: ИДИОТЫ
+[10:37:06] vasiliy karat: ХОЧЕТСЯ СОБРАТЬ 3000 ЭКСПЛОЗИВС
+[10:37:06] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 43 seconds).
+[10:37:08] vasiliy karat: И 
+[10:37:09] vasiliy karat: 100
+[10:37:11] vasiliy karat: 100 СНАРЯДОМ
+[10:37:14] vasiliy karat: БУДЕТ
+[10:38:09] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[10:38:09] бугагашенька suicided!
+[10:38:35] vasiliy karat: ДАЙ МЫ ПРОТИВОГАЗЫ НАТЯНЕМ
+[10:38:47] vasiliy karat: ДА НЕ ТУТ ВИРУС
+[10:39:01] vasiliy karat: КАРОЧЕ ДАВАЙ ЛУЧШЕ ОБЫЧНУЮ ПУШКУ СДЕЛАЕМ
+[10:39:21] vasiliy karat: ЭТО КУПИМ
+[10:39:44] vasiliy karat: АЛЯРМ
+[10:40:07] vasiliy karat: ЩАС Я ЕГО
+[10:42:17] Redoket killed Culfrum using tfa_doik98
+[10:42:29] Culfrum: ВЫ ЧО УМИРАЕТЕ
+[10:42:32] Culfrum: Я ВАМ ВРЕМЯ ДАЛ
+[10:42:33] Culfrum: НА АТАКУ
+[10:42:37] Culfrum: НА ЗАЩИТУ
+[10:42:37] Toxa08: мы не умираем
+[10:42:40] Culfrum: А ВЫ ТУТ
+[10:42:43] Culfrum: ГОВНОМ ЗАНИМАЕТЕСЬ
+[10:42:54] Culfrum: Я КОМУ ВРЕМЯ ВЫЙГРАЛ
+[10:42:59] Culfrum: ЧТО БЫ ВЫ НИФИГА НЕ ДЕЛАЛИ
+[10:43:05] Toxa08: bruh
+[10:43:34] vasiliy karat: ТАМ ЯЩИК ПРИТАЩИТЕ ПЖ
+[10:43:45] vasiliy karat: ДАВАЙ
+[10:44:37] Toxa08 killed XLEBYC using tfa_doilewis
+[10:44:48] vasiliy karat: МОЖЕТ ПОПРОСИТЬ ИХ КАПИТУЛИРОВАТЬ
+[10:44:54] vasiliy karat: ОНИ У НАС НА МУШКЕ
+[10:44:56] vasiliy karat: ВСЕ
+[10:44:59] vasiliy karat: ОТДАТУТ НАМ ДЕНЬГИ
+[10:45:00] LonePlayer022: а
+[10:45:06] vasiliy karat: МОЖЕТ ЕЩЕ УСЛОВИЯ ПРИДУМАЕМ
+[10:45:11] vasiliy karat: ДАВАЙ Я МОГУ ЗА ТЕБЯ 
+[10:45:15] vasiliy karat: ЧТО СКАЗАТЬ
+[10:45:52] Client "Ленин я!" connected.
+[10:46:05] Redoket killed XLEBYC using tfa_doik98_scop
+[10:46:06] vasiliy karat: ДАВАЙТЕ 
+[10:46:12] vasiliy karat: НАПИШИТИ ЧТОБ СДАВАЛИСЬ
+[10:46:19] Dropped "XLEBYC" from server<STEAM_0:1:615225475>
+[10:46:19] XLEBYC suicided!
+[10:46:26] Culfrum: ГОВНОО
+[10:46:36] Culfrum: ОТДАЙ ЛИДЕРСТВО
+[10:47:07] vasiliy karat: РПГ ВРОДЕ НЕ ДОЛЕТИТ
+[10:47:12] vasiliy karat: ВРОДЕ
+[10:49:25] vasiliy karat: Я ОТОЙДУ ПОКА
+[10:49:43] Toxa08: курфур
+[10:49:46] Culfrum: А
+[10:50:12] Toxa08: во
+[10:50:23] Culfrum: ТЫ
+[10:50:25] Culfrum: ХУРРЕП
+[10:50:42] Toxa08: а да?
+[10:50:58] Toxa08: не ! я только его добыл впервые
+[10:51:07] Toxa08: :D
+[10:51:11] LonePlayer022: Теперь, отдавайте нам деньги и ресурсы!
+[10:53:06] Toxa08: ой
+[10:53:10] Toxa08: вы тут
+[10:53:46] Toxa08: башню лучше не надо
+[10:53:50] Toxa08: сервер упадет
+[10:53:51] Toxa08: )
+[10:54:34] Culfrum: ГОВНО
+[10:54:54] Culfrum: Я НЕ БУДУ СДАВАТСЯ РЕДОКЕТУ
+[10:55:07] Culfrum: ПОКА
+[10:55:34] Toxa08 suicided!
+[10:56:26] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[10:56:26] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[10:58:14] Redoket killed Redoket
+[10:58:14] Redoket killed LonePlayer022
+[10:58:42] Culfrum: НИКАКОГО РЕДОКЕТА
+[10:58:47] Culfrum: Я НЕ ХОЧУ ЕМУ СДАВАТСЯ
+[10:58:52] Toxa08: удачи
+[10:59:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[10:59:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[10:59:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[10:59:27] Redoket killed Redoket
+[10:59:29] Toxa08: why
+[10:59:37] Toxa08: why you shoot
+[10:59:40] LonePlayer022: СИСЯ МАСИСЯ!!!
+[10:59:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[11:00:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[11:00:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[11:00:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[11:00:16] Redoket killed Toxa08 using ent_jack_gmod_ezstickynade
+[11:00:46] LonePlayer022 killed Toxa08 using tfa_doithompsonm1a1
+[11:01:26] Culfrum: ТЫ КТО
+[11:01:31] Culfrum killed Toxa08 using tfa_doim1911
+[11:01:36] Toxa08: чё зх
+[11:01:37] Toxa08 suicided!
+[11:02:01] Culfrum: ГОВНО
+[11:03:35] Culfrum killed LonePlayer022 using tfa_doim1911
+[11:04:21] Toxa08: а чё все умерли?
+[11:07:15] Culfrum: НЕ
+[11:07:34] Culfrum: СТОЯТЬ
+[11:07:40] Culfrum: НЕ ДВИГАЙСЯ
+[11:07:46] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[11:07:46] Redoket suicided!
+[11:07:46] Toxa08: обоже
+[11:07:48] Toxa08: gun
+[11:07:49] Culfrum: А
+[11:07:50] Client "Redoket" connected.
+[11:07:53] Client "бугагашенька" connected.
+[11:07:59] Toxa08: yf
+[11:08:00] Toxa08: на
+[11:08:08] Culfrum: СЕБЕ
+[11:08:14] Toxa08: да я хожу брожу
+[11:08:25] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 35 seconds).
+[11:08:30] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 37 seconds).
+[11:08:46] Culfrum: НЕЕЕ
+[11:09:04] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[11:09:04] vasiliy karat suicided!
+[11:09:16] Culfrum: Я НЕ СДАМСЯ РЕДОКЕТУ
+[11:10:09] Culfrum: Я НЕ СДАМСЯ РЕДОКЕТУ
+[11:10:42] Culfrum: Я НЕ СДАМСЯ РЕДОКЕТУ
+[11:10:53] Culfrum: Я НЕ СДАМСЯЯЯ
+[11:11:08] Toxa08: понятно
+[11:11:08] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[11:11:11] Toxa08: админ абуз
+[11:11:12] бугагашенька was killed by lvs_wheeldrive_dodhalftrack_us
+[11:11:13] Redoket killed Culfrum using lvs_wheeldrive_dodhalftrack_us
+[11:11:23] Culfrum: Я НЕ СДАМСЯ ЧЕРТОВЫМ ЛИБЕРАЛАМ
+[11:11:26] Redoket killed бугагашенька using lvs_wheeldrive_dodhalftrack_us
+[11:11:27] Redoket killed Culfrum using lvs_wheeldrive_dodhalftrack_us
+[11:11:32] бугагашенька suicided!
+[11:11:39] Culfrum was killed by lvs_wheeldrive_dodhalftrack_us
+[11:11:45] бугагашенька was killed by lvs_wheeldrive_dodhalftrack_us
+[11:11:54] Culfrum was killed by lvs_wheeldrive_dodhalftrack_us
+[11:12:02] Culfrum: БУДЬ ЛЕДЯНЫМ ЧЕЛОВЕКОМ
+[11:12:06] Redoket killed Culfrum using lvs_wheeldrive_dodhalftrack_us
+[11:12:30] Culfrum was killed by ent_jack_gmod_ezprimitivebench
+[11:12:48] Culfrum: НЕ
+[11:12:52] Redoket killed Culfrum using lvs_wheeldrive_dodhalftrack_us
+[11:12:52] Culfrum: НЕ СДАМСЯ
+[11:13:24] (TEAM) бугагашенька: хы
+[11:13:32] Redoket killed Culfrum using lvs_wheeldrive_dodhalftrack_us
+[11:13:35] Culfrum: ДЕРЬМО
+[11:13:44] бугагашенька: еба
+[11:13:51] Redoket killed бугагашенька using lvs_wheeldrive_dodhalftrack_us
+[11:14:07] Culfrum: А ВОТ И ВСЕ
+[11:14:15] Culfrum: ТАК НЕЛЬЗЯ
+[11:14:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eznuke_big
+[11:14:21] Culfrum: ТАК НЛЬЗЯ!!!!!!!!
+[11:14:25] Redoket: МОЖНО
+[11:14:28] Culfrum: НЕ
+[11:14:30] Culfrum: РУСЛАН
+[11:14:33] Culfrum: НЕ РАЗРЕШИЛ
+[11:14:43] бугагашенька: блять....
+[11:14:45] Redoket killed LonePlayer022 using ent_jack_gmod_eznuke_big
+[11:14:45] Redoket suicided!
+[11:14:45] Redoket killed Toxa08 using ent_jack_gmod_eznuke_big
+[11:14:45] Redoket killed Culfrum using ent_jack_gmod_eznuke_big
+[11:14:45] Redoket killed бугагашенька using ent_jack_gmod_eznuke_big
+[11:14:50] LonePlayer022 suicided!
+[11:14:50] Redoket suicided!
+[11:14:50] Toxa08 suicided!
+[11:14:50] Culfrum suicided!
+[11:14:50] Redoket: !MENU
+[11:14:55] LonePlayer022 suicided!
+[11:14:55] Redoket suicided!
+[11:14:55] Toxa08 suicided!
+[11:14:58] LonePlayer022: НАБИТЬ ЕБАЛО!
+[11:15:00] LonePlayer022 suicided!
+[11:15:00] Redoket suicided!
+[11:15:04] Redoket changed the map to gm_sro_highcliffs with gamemode jsurvival
+[11:15:04] Server is shutting down/changing levels.
+
+
+
+[11:15:15] New map: gm_sro_highcliffs
+[11:15:42] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 33 seconds).
+[11:15:43] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 34 seconds).
+[11:15:50] бугагашенька: ОПЫ
+[11:15:51] бугагашенька: ТАКС
+[11:15:54] бугагашенька: стой
+[11:15:55] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 46 seconds).
+[11:15:55] бугагашенька: стой
+[11:15:57] бугагашенька: сой
+[11:15:58] бугагашенька: стой
+[11:16:07] бугагашенька: гоу к омне в офракцию?
+[11:16:17] LonePlayer022 killed бугагашенька using wep_jack_gmod_hands
+[11:16:18] бугагашенька: кто бьет меня тот впидор
+[11:16:32] Client "Culfrum" spawned in server <STEAM_0:0:555258766> (took 83 seconds).
+[11:16:35] бугагашенька: вай пизда
+[11:16:51] Culfrum: ГДЕ Я РОДИЛСЯ
+[11:17:37] Dropped "Culfrum" from server<STEAM_0:0:555258766>
+[11:17:37] Culfrum suicided!
+[11:18:33] Client "Мочеglouth" connected.
+[11:24:01] Dropped "Toxa08" from server<STEAM_0:0:33704276>
+[11:24:01] Toxa08 suicided!
+[11:27:26] Client "Мочеglouth" spawned in server <STEAM_0:0:612066619> (took 533 seconds).
+[11:32:23] Dropped "Мочеglouth" from server<STEAM_0:0:612066619>
+[11:32:23] Мочеglouth suicided!
+[11:38:31] Client "nentroin_тень" connected.
+[11:47:54] Client "nentroin_тень" connected.
+[11:50:43] бугагашенька suicided!
+[11:50:46] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[11:50:46] бугагашенька suicided!
+[11:51:53] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[11:51:53] LonePlayer022 suicided!
+[11:53:17] Client "nentroin_тень" spawned in server <STEAM_0:1:840412663> (took 323 seconds).
+[11:55:22] Dropped "nentroin_тень" from server<STEAM_0:1:840412663>
+[11:55:22] nentroin_тень suicided!
+[12:00:24] Client "ABOBUS_3000" connected.
+[12:21:34] Client "georgiy27.12" connected.
+[13:11:07] Client "Redoket" connected.
+[13:11:39] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 32 seconds).
+[13:12:02] Redoket<STEAM_0:1:545449619> spawned sent lvs_maxim
+[13:12:04] Redoket<STEAM_0:1:545449619> spawned sent lvs_maxim
+[13:13:02] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:13:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:13:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:13:18] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:13:22] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:13:23] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:13:24] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:13:25] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:13:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[13:13:42] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmoab
+[13:13:46] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezincendiarybomb
+[13:13:49] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfirenade
+[13:13:50] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezincendiarybomb
+[13:13:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezclusterbomb
+[13:14:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezclusterbomb
+[13:14:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbomb
+[13:14:12] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbigbomb
+[13:14:25] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztorpedo
+[13:14:26] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsmallbomb
+[13:14:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsmallbomb
+[13:14:36] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezincendiarybomb
+[13:14:36] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezincendiarybomb
+[13:14:36] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezincendiarybomb
+[13:14:46] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezherocket
+[13:14:51] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezincendiarybomb
+[13:15:23] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_pz1bison
+[13:15:29] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:15:30] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:15:30] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:15:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:15:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:15:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:15:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:15:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:15:54] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m
+[13:17:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:17:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:17:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:17:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:18:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:18:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:18:25] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_wespe
+[13:18:44] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_pz2c
+[13:19:02] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_t70
+[13:19:32] Redoket<STEAM_0:1:545449619> spawned sent lvs_trailer_schneider
+[13:19:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezthermobaricbomb
+[13:19:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezclusterbomb
+[13:23:17] Client "Chelik333" connected.
+[13:23:51] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodtiger
+[13:23:56] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m
+[13:23:57] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m
+[13:23:57] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m
+[13:25:26] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgas
+[13:26:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgas
+[13:30:25] Client "RusLanConnection" connected.
+[13:32:05] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 100 seconds).
+[13:32:47] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_pz1bison
+[13:33:27] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_f
+[13:33:36] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_pz1bison
+[13:33:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[13:34:05] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_pz1bison
+[13:34:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:12] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:21] RusLanConnection teleported to Redoket
+[13:34:23] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_pz1bison
+[13:34:25] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:26] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:27] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:29] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:30] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:33] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[13:34:49] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:50] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:51] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:51] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:52] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:53] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:34:54] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:35:04] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[13:35:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:35:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:35:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:35:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:35:12] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:35:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:35:14] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:35:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:35:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:36:07] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 770 seconds).
+[13:39:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[13:39:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[13:39:45] Redoket was killed by ent_jack_gmod_ezherocket
+[13:39:59] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[13:41:31] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_kfz14
+[13:41:37] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:41:37] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztnt
+[13:42:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[13:42:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztnt
+[13:42:50] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztnt
+[13:43:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[13:43:54] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodhalftrack_us
+[13:44:01] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_flametank
+[13:44:15] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m
+[13:44:35] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_pz1bison
+[13:44:45] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[13:45:38] RusLanConnection killed Redoket
+[13:46:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz3e
+[13:46:33] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_flametank
+[13:46:37] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[13:47:19] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m
+[13:47:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[13:47:52] Redoket killed RusLanConnection using tfa_doiluger
+[13:48:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezworkbench
+[13:48:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[13:48:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgas
+[13:50:22] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezarmor_flametank
+[13:50:37] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[13:50:45] Redoket: !MENU
+[13:50:50] Redoket teleported to RusLanConnection
+[13:51:03] RusLanConnection killed Redoket using tfa_doisten
+[13:52:27] Redoket killed RusLanConnection using tfa_doiwelrod
+[13:55:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[13:56:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[13:56:32] RusLanConnection teleported to Redoket
+[13:57:07] RusLanConnection teleported to Chelik333
+[13:57:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[13:57:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[13:57:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[13:57:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[13:58:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[13:58:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[13:58:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[13:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[14:01:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[14:01:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[14:01:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[14:16:14] Client "msggway" connected.
+[14:16:57] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezaidradio
+[14:16:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[14:18:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsignalnade
+[14:19:49] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[14:19:50] Chelik333 suicided!
+[14:20:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfougasse
+[14:20:44] Redoket suicided!
+[14:22:55] Client "бугагашенька" connected.
+[14:23:23] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_fiat_508
+[14:23:28] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 33 seconds).
+[14:23:47] бугагашенька: ВЫ НЕ ЗВАЛИ А Я ПРИМЕРСЯ
+[14:23:49] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_bm13
+[14:23:51] бугагашенька: МНЕ ДЕЛАТЬ НЕХУЙ ЛОЛ
+[14:23:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfirenade
+[14:24:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[14:24:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[14:24:34] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_t1
+[14:25:48] бугагашенька: велл велл велл
+[14:25:55] бугагашенька: че с моей бейз
+[14:26:54] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodwillyjeep
+[14:26:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezincendiarybomb
+[14:27:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[14:27:18] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[14:27:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezatmine
+[14:27:46] бугагашенька: кул
+[14:27:49] бугагашенька: че сказать
+[14:27:54] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodtiger
+[14:28:25] Redoket killed Redoket
+[14:28:44] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezaidradio
+[14:28:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[14:29:03] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_amc_p16
+[14:29:28] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_bmw_r75_upd
+[14:31:05] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[14:31:05] RusLanConnection suicided!
+[14:41:50] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[14:41:50] Redoket suicided!
+[14:53:06] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[14:53:06] бугагашенька suicided!
+[22:45:09] Client "this is my stand... #TMKBUD" connected.
+[22:58:45] Client "this is my stand... #TMKBUD" spawned in server <STEAM_0:1:231835179> (took 816 seconds).
+[23:01:02] Dropped "this is my stand... #TMKBUD" from server<STEAM_0:1:231835179>
+[23:01:02] this is my stand... #TMKBUD suicided!
+<Logging continued in "data/ulx_logs/04-12-25.txt">

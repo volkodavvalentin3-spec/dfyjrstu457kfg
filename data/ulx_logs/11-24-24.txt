@@ -1,0 +1,51 @@
+<Logging continued from "data/ulx_logs/11-23-24.txt">
+[00:02:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[00:02:14] Redoket<STEAM_0:1:545449619> spawned model models/props/cs_office/sofa.mdl
+[00:02:18] Redoket<STEAM_0:1:545449619> spawned model models/props/cs_office/radio.mdl
+[00:03:00] Redoket<STEAM_0:1:545449619> spawned model models/props/cs_office/paper_towels.mdl
+[00:04:13] RusLanConnection killed Bot01 using wep_jack_gmod_assaultrifle
+[00:04:24] RusLanConnection brought Bot01
+[00:06:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[00:06:21] RusLanConnection set the hp for Everyone to 100
+[00:07:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_cabr
+[00:07:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_revolver
+[00:07:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_sr
+[00:07:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amr
+[00:08:46] Server is shutting down/changing levels.
+
+
+
+[00:12:24] New map: gm_sro
+[00:12:42] Client "Chupacabr" connected.
+[00:12:43] Client "Redoket" connected.
+[00:13:15] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 32 seconds).
+[00:13:25] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 43 seconds).
+[00:13:30] Server is shutting down/changing levels.
+
+
+
+[00:13:50] New map: gm_sro
+[00:14:12] Client "Chupacabr" connected.
+[00:14:24] Server is shutting down/changing levels.
+
+
+
+[00:14:49] New map: gm_sro
+[00:17:06] Client "Bot01" connected.
+[00:17:06] Client "Bot01" spawned in server <BOT> (took 155 seconds).
+[00:17:08] RusLanConnection brought Bot01
+[00:17:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[00:17:43] Client "василий каратаев" connected.
+[00:17:49] Server is shutting down/changing levels.
+
+
+
+[15:22:11] New map: gm_sro
+[15:22:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[15:22:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[15:22:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[15:22:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[15:23:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwood
+[15:25:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwood
+[15:25:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[15:28:22] Server is shutting down/changing levels.

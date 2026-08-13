@@ -1,0 +1,25 @@
+AddCSLuaFile()
+
+ENT.Type = "anim"
+ENT.Base = "sent_speedpad"
+DEFINE_BASECLASS("sent_speedpad")
+
+ENT.PrintName = "Speedpad x5"
+ENT.Author = "Digaly"
+ENT.Contact = ""
+ENT.Purpose = "See for yourself."
+ENT.Information = "See for yourself."
+ENT.Category = "Speedpads + Jumppads"
+
+ENT.Spawnable = true
+ENT.AdminSpawnable = true
+ENT.Editable = true
+
+if SERVER then
+    function ENT:Initialize()
+        BaseClass.Initialize(self)
+
+        self:SetColor(Color(100, 100, 255, 255))
+        self:SetSpeed(500)
+    end
+end

@@ -1,0 +1,17 @@
+{
+  "title": "[TFA][AT] Rust Firearms",
+  "type": "weapon",
+  "tags": [
+    "realism",
+    "movie"
+  ],
+  "ignore": [
+    "*.md",
+    "_workfolder/*",
+    "decompiled/*",
+    "anims/*",
+    "*.smd",
+    "arccw.jpg",
+    ".gitattributes"
+  ]
+}

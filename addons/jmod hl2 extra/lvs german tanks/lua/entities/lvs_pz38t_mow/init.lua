@@ -1,0 +1,80 @@
+AddCSLuaFile( "shared.lua" )
+AddCSLuaFile( "sh_tracks.lua" )
+AddCSLuaFile( "sh_turret.lua" )
+AddCSLuaFile( "cl_init.lua" )
+AddCSLuaFile( "cl_optics.lua" )
+AddCSLuaFile( "cl_tankview.lua" )
+include("shared.lua")
+include("sh_tracks.lua")
+include("sh_turret.lua")
+
+function ENT:OnSpawn( PObj )
+	local ID = self:LookupAttachment( "machinegun" )
+	local Muzzle = self:GetAttachment( ID )
+	self.SNDTurretMGf = self:AddSoundEmitter( self:WorldToLocal( Muzzle.Pos ), "lvs/vehicles/sherman/mg_loop.wav", "lvs/vehicles/sherman/mg_loop_interior.wav" )
+	self.SNDTurretMGf:SetSoundLevel( 95 )
+	self.SNDTurretMGf:SetParent( self, ID )
+
+	local ID = self:LookupAttachment( "turret_machinegun" )
+	local Muzzle = self:GetAttachment( ID )
+	self.SNDTurretMG = self:AddSoundEmitter( self:WorldToLocal( Muzzle.Pos ), "lvs/vehicles/sherman/mg_loop.wav", "lvs/vehicles/sherman/mg_loop_interior.wav" )
+	self.SNDTurretMG:SetSoundLevel( 95 )
+	self.SNDTurretMG:SetParent( self, ID )
+
+	local ID = self:LookupAttachment( "turret_cannon" )
+	local Muzzle = self:GetAttachment( ID )
+	self.SNDTurret = self:AddSoundEmitter( self:WorldToLocal( Muzzle.Pos ), "weapons/37mm_pak35.wav", "weapons/37mm_pak35.wav" )
+	self.SNDTurret:SetSoundLevel( 95 )
+	self.SNDTurret:SetParent( self, ID )
+
+	local DriverSeat = self:AddDriverSeat( Vector(0,0,60), Angle(0,-90,0) )
+	DriverSeat.HidePlayer = true
+
+	local GunnerSeat = self:AddPassengerSeat( Vector(88,-20,32), Angle(0,-90,0) )
+	GunnerSeat.HidePlayer = true
+	self:SetGunnerSeat( GunnerSeat )
+
+	self:AddEngine( Vector(-30,-15,30), Angle(0,180,0) )
+	self:AddFuelTank( Vector(-40,15,15), Angle(0,0,0), 600, LVS.FUELTYPE_PETROL, Vector(-15,-10,0),Vector(20,10,35) )
+
+	-- front upper wedge center
+	self:AddArmor( Vector(50,0,72), Angle(80,0,0), Vector(17,-30,-10), Vector(50,30,5), self.FrontArmorHP, self.FrontArmor )
+
+	self:AddArmor( Vector(54,0,30), Angle(5,0,0), Vector(0,-30,0), Vector(30,30,10), self.SideArmorHP, self.SideArmor )
+
+	self:AddArmor( Vector(82,0,32), Angle(112,0,0), Vector(-5,-30,0), Vector(15,30,5), self.FrontArmorHP, self.FrontArmor )
+
+	-- side armor left
+	self:AddArmor( Vector(10,15,43), Angle(0,0,0), Vector(-82,5,-20), Vector(40,15,13), self.SideArmorHP, self.SideArmor )
+
+	-- side armor right
+	self:AddArmor( Vector(10,-15,43), Angle(0,0,0), Vector(-82,-15,-20), Vector(40,-5,13), self.SideArmorHP, self.SideArmor )
+
+	-- top armor
+	self:AddArmor( Vector(10,0,42), Angle(0,0,0), Vector(-35,-20,-20), Vector(40,20,13), self.RearArmorHP, self.RearArmor )
+
+	-- turret
+	local TurretArmor = self:AddArmor( Vector(14,0,55), Angle(0,0,0), Vector(-37,-25,0), Vector(26,25,25), self.TurretArmorHP, self.TurretArmor )
+	TurretArmor.OnDestroyed = function( ent, dmginfo ) if not IsValid( self ) then return end self:SetTurretDestroyed( true ) end
+	TurretArmor.OnRepaired = function( ent ) if not IsValid( self ) then return end self:SetTurretDestroyed( false ) end
+	TurretArmor:SetLabel( "Turret" )
+	self:SetTurretArmor( TurretArmor )
+
+	-- rear up
+	self:AddArmor( Vector(-40,0,40), Angle(-10,0,0), Vector(-15,-30,0), Vector(23,30,15), self.SideArmorHP, self.SideArmor )
+	self:AddArmor( Vector(-70,0,30), Angle(-25,0,0), Vector(-15,-30,0), Vector(23,30,15), self.SideArmorHP, self.SideArmor )
+
+
+	-- rear down
+	self:AddArmor( Vector(-83,0,15), Angle(-10,0,0), Vector(-5,-30,0), Vector(5,30,20), self.FrontArmorHP, self.FrontArmor )
+
+	
+	self:AddTrailerHitch( Vector(-90,0,22), LVS.HITCHTYPE_MALE )
+	
+	-- fuel tank
+	self:AddFuelTank( Vector(-70,0,20), Angle(0,0,0), 600, LVS.FUELTYPE_PETROL, Vector(-5,-30,0),Vector(5,30,35) )
+
+	-- ammo rack weakspot
+	self:AddAmmoRack( Vector(23.38,-16,30.32), Vector(10,0,62.5), Angle(90,90,0), Vector(-9.25,-12.25,-6.25), Vector(9.25,12.25,6.25) )
+	self:AddAmmoRack( Vector(23.38,16,30.32), Vector(10,0,62.5), Angle(90,90,0), Vector(-9.25,-12.25,-6.25), Vector(9.25,12.25,6.25) )
+end

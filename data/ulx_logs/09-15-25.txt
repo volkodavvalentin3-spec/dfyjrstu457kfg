@@ -1,0 +1,1916 @@
+<Logging continued from "data/ulx_logs/09-14-25.txt">
+[02:15:07] Client "Aremind" connected.
+[02:16:01] Client "Aremind" spawned in server <STEAM_0:1:504966072> (took 54 seconds).
+[02:18:36] Dropped "Aremind" from server<STEAM_0:1:504966072>
+[02:18:36] Aremind suicided!
+[03:25:48] Client "Magamed" connected.
+[03:27:41] Client "Magamed" spawned in server <STEAM_0:0:126228018> (took 113 seconds).
+[03:41:39] Magamed: !Menu
+[03:42:47] Client "KIRKA" connected.
+[03:54:17] Magamed was killed by ent_jack_gmod_ezfalloutparticle
+[03:54:45] Dropped "Magamed" from server<STEAM_0:0:126228018>
+[03:54:45] Magamed suicided!
+[04:02:40] Client "Redoket" connected.
+[04:03:26] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 46 seconds).
+[04:03:51] Redoket: !MENU'
+[04:03:55] Redoket: !MENU
+[04:04:47] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodtiger
+[04:05:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:05:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:05:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:06:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:06:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:06:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:06:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[04:06:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[04:06:51] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[04:07:07] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:07:07] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:07:07] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:07:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:07:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:07:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:07:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:07:56] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztnt
+[04:07:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[04:08:33] Client "GreenPixel11" connected.
+[04:08:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:08:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:08:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:08:44] Redoket suicided!
+[04:08:54] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezatmine
+[04:09:27] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 54 seconds).
+[04:09:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezatmine
+[04:09:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezlandmine
+[04:09:49] Redoket suicided!
+[04:10:42] Redoket: Щас перезапуск
+[04:10:45] Redoket: !menu
+[04:10:52] Redoket changed the map to gm_sro_duststorm with gamemode jsurvival
+[04:10:52] Server is shutting down/changing levels.
+
+
+
+[04:11:03] New map: gm_sro_duststorm
+[04:11:34] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 36 seconds).
+[04:11:43] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 45 seconds).
+[04:18:34] Client "Egorik" connected.
+[04:20:14] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 100 seconds).
+[04:20:41] Client "Хищный анус" connected.
+[04:21:32] Egorik: !motd
+[04:21:40] Client "Хищный анус" spawned in server <STEAM_0:1:125235601> (took 59 seconds).
+[04:21:55] Egorik: 7
+[04:22:04] Egorik: п
+[04:22:52] Egorik: !motd
+[04:24:37] Redoket<STEAM_0:1:545449619> spawned sent ent_fumo_gmod_ezarmorplate_large
+[04:24:50] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsmokenade
+[04:24:56] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[04:24:58] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[04:25:02] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsmallbomb
+[04:25:04] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:27:47] Redoket<STEAM_0:1:545449619> spawned sent ent_lanrp_jmod_kar98k
+[04:28:17] Egorik: !motd
+[04:31:01] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m_rp
+[04:31:02] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m_rp
+[04:31:04] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m_rp
+[04:33:38] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_t34_57
+[04:33:52] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[04:33:52] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[04:33:52] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[04:33:53] Redoket<STEAM_0:1:545449619> spawned sent item_healthkit
+[04:34:03] Redoket<STEAM_0:1:545449619> spawned sent lvs_trailer_schneider
+[04:34:17] Redoket<STEAM_0:1:545449619> spawned sent lvs_trailer_schneider_new
+[04:34:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_mortar
+[04:34:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmortarshell
+[04:34:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmortarshell
+[04:34:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmortarshell
+[04:34:33] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezmortarshell
+[04:34:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezworkbench
+[04:34:42] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbattery
+[04:34:44] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezgas
+[04:37:56] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[04:39:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezvirusbomb
+[04:39:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezshieldgen
+[04:39:37] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezflashbang
+[04:39:41] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezflashbang
+[04:39:49] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezflashbang
+[04:40:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezflashbang
+[04:40:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezflashbang
+[04:40:26] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfumigator
+[04:40:56] Redoket killed Redoket
+[04:42:13] Redoket: !menu
+[04:42:18] Redoket cloaked Themself by amount 0
+[04:43:09] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/furnituredrawer001a_shard01.mdl
+[04:44:12] Redoket<STEAM_0:1:545449619> spawned model models/props_interiors/pot02a.mdl
+[04:44:41] Redoket<STEAM_0:1:545449619> spawned model models/gibs/wood_gib01d.mdl
+[04:47:04] Redoket<STEAM_0:1:545449619> spawned model models/props_junk/metal_paintcan001b.mdl
+[04:47:49] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[04:47:49] Redoket suicided!
+[04:48:16] GreenPixel11: !motd
+[04:48:17] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[04:48:17] Egorik suicided!
+[04:48:19] Client "Egorik" connected.
+[04:48:45] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 26 seconds).
+[04:49:22] Egorik: !motd
+[04:49:35] Client "Redoket" connected.
+[04:50:13] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 38 seconds).
+[04:52:01] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/lockers001a.mdl
+[04:52:33] Redoket: !menu
+[04:53:28] Client "Тим Тайм" connected.
+[04:53:45] Redoket: У вас есть моделька радио
+[04:53:53] Redoket: Мне кажется сервер
+[04:54:10] Redoket: не загрузил контент потому что у меня ерор
+[04:54:15] Redoket: у вас есть?
+[04:54:23] Redoket: та еп
+[04:54:27] Redoket: щас перезайду
+[04:54:36] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[04:54:36] Redoket suicided!
+[04:56:19] Хищный анус: пиздец нахуй блять
+[05:00:08] Client "Redoket" connected.
+[05:00:14] Client "Тим Тайм" spawned in server <STEAM_0:1:610753227> (took 406 seconds).
+[05:00:46] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 38 seconds).
+[05:09:26] Хищный анус: !motd
+[05:10:06] Тим Тайм: !motd
+[05:10:11] Тим Тайм: !motd
+[05:10:50] Тим Тайм: !motd
+[05:12:48] Egorik: supply radio: builder kit
+[05:13:21] Тим Тайм: !motd
+[05:13:31] Тим Тайм: playermodel_selector
+[05:13:48] Client "Magamed" connected.
+[05:14:43] Client "Magamed" spawned in server <STEAM_0:0:126228018> (took 55 seconds).
+[05:16:20] Egorik: !motd
+[05:16:53] Magamed: Привет
+[05:17:06] Magamed: Надо точку дислокации
+[05:17:16] Тим Тайм: !motd
+[05:18:27] Magamed: Привет!
+[05:18:28] Magamed: Редокет
+[05:22:00] Client "Лудоман" connected.
+[05:22:01] Хищный анус killed Хищный анус
+[05:28:07] Client "vasiliy karat" connected.
+[05:28:59] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 52 seconds).
+[05:29:16] Client "Soldier_S.C.A.F" connected.
+[05:29:49] vasiliy karat to admins: о вода не черная из далека
+[05:30:51] Client "Лудоман" spawned in server <STEAM_0:0:781818033> (took 531 seconds).
+[05:31:58] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 162 seconds).
+[05:33:19] Soldier_S.C.A.F to admins: слишком обыденно видеть кланы одиночки рофлянутся решили :D
+[05:33:29] Redoket: !menu
+[05:33:37] Redoket cloaked Themself by amount 0
+[05:33:41] Redoket: !menu
+[05:33:51] Redoket teleported to Лудоман
+[05:33:53] vasiliy karat: жомби
+[05:33:54] Redoket teleported to vasiliy karat
+[05:34:04] vasiliy karat to admins: Разбанили жудомана пусть гемблит
+[05:34:10] vasiliy karat: вода теперь  не чорная
+[05:34:12] Redoket: !menu
+[05:34:12] vasiliy karat: ура
+[05:34:14] Redoket teleported to vasiliy karat
+[05:34:16] Redoket teleported to Лудоман
+[05:34:52] Magamed: РЕБЯТА
+[05:34:55] Magamed: РЕБЯТА
+[05:34:57] Magamed: Привет
+[05:35:00] Soldier_S.C.A.F: здарова
+[05:35:12] Magamed: Че 5 будем?
+[05:35:17] Magamed: К нам еще 1 прибежит
+[05:35:22] Client "Mannytko" connected.
+[05:35:36] Magamed: Кидайте пока заявки
+[05:35:39] vasiliy karat: киборги на сро незнали
+[05:35:46] Magamed: Пойдемте пока на базу
+[05:35:48] Client "Польские Пряники" connected.
+[05:36:03] Magamed: ого
+[05:36:18] Magamed: Солдат ты с нами?
+[05:36:31] Soldier_S.C.A.F: да хотел по своему
+[05:36:34] Magamed: Ну ок
+[05:36:36] Soldier_S.C.A.F: ну
+[05:36:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[05:36:39] Soldier_S.C.A.F: ради ресурсов!
+[05:36:41] vasiliy karat: я зомби вирусом заболел
+[05:36:48] Magamed: Пойдемте
+[05:37:06] vasiliy karat to admins: редокет оставь его
+[05:37:07] Magamed: СКАФ
+[05:37:12] Soldier_S.C.A.F: че
+[05:37:15] Magamed: Ты можешь рядом построиться
+[05:37:23] Magamed: если хоч
+[05:37:28] Soldier_S.C.A.F: ай ладно
+[05:37:31] Soldier_S.C.A.F: много одиночек
+[05:37:38] Soldier_S.C.A.F: поэтому денусь куда нибудь
+[05:37:57] Soldier_S.C.A.F: мм
+[05:37:59] Soldier_S.C.A.F: прям в углу
+[05:38:06] Magamed: Ага
+[05:38:26] Soldier_S.C.A.F: я щя
+[05:38:28] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 160 seconds).
+[05:38:30] Хищный анус: Ты кто?
+[05:38:31] Client "Mannytko" spawned in server <STEAM_0:0:151021368> (took 189 seconds).
+[05:38:32] Лудоман: !motd
+[05:38:41] vasiliy karat: я заболел зомби вирусом помоги
+[05:38:47] Хищный анус: Не подходи!
+[05:38:56] Redoket: !menu
+[05:38:59] Dropped "Mannytko" from server<STEAM_0:0:151021368>
+[05:38:59] Mannytko suicided!
+[05:39:02] Redoket teleported to Польские Пряники
+[05:39:02] Redoket teleported to Польские Пряники
+[05:39:03] Redoket teleported to Польские Пряники
+[05:39:03] Redoket teleported to Польские Пряники
+[05:39:04] Redoket teleported to Польские Пряники
+[05:39:04] Redoket teleported to Польские Пряники
+[05:39:04] Redoket teleported to Польские Пряники
+[05:39:05] Redoket teleported to Польские Пряники
+[05:39:05] Redoket teleported to Польские Пряники
+[05:39:06] Redoket teleported to Польские Пряники
+[05:39:06] Redoket teleported to Польские Пряники
+[05:39:06] Redoket teleported to Польские Пряники
+[05:39:07] Redoket teleported to Польские Пряники
+[05:39:07] Redoket teleported to Польские Пряники
+[05:39:07] Redoket teleported to Польские Пряники
+[05:39:08] Redoket teleported to Польские Пряники
+[05:39:08] Redoket teleported to Польские Пряники
+[05:39:08] Redoket teleported to Польские Пряники
+[05:39:08] Redoket teleported to Польские Пряники
+[05:39:09] Client "Mannytko" connected.
+[05:39:38] Client "Mannytko" spawned in server <STEAM_0:0:151021368> (took 29 seconds).
+[05:39:40] Client "zюka" connected.
+[05:39:42] vasiliy karat: смотри
+[05:39:44] vasiliy karat: смотри
+[05:39:45] vasiliy karat: я зомби
+[05:39:53] Redoket: !menu
+[05:39:56] Redoket teleported to Mannytko
+[05:39:56] Redoket teleported to Mannytko
+[05:40:08] Польские Пряники: КТО
+[05:40:09] Redoket<STEAM_0:1:545449619> spawned NPC npc_zombine
+[05:40:13] Польские Пряники: БЛИН ЧТО ТАКОЕ
+[05:40:15] Польские Пряники: КТО КРИЧИТ
+[05:40:29] Польские Пряники: ДРОБОВИК ХОЧУ
+[05:40:39] Magamed: не хочеш
+[05:41:26] Хищный анус: стой там!
+[05:41:34] Хищный анус: Где?
+[05:42:02] Хищный анус: Твою ж мать!
+[05:42:10] Хищный анус: Что тут происходит?
+[05:42:15] Redoket: папарации
+[05:42:16] Хищный анус: Бери дробовик
+[05:42:29] vasiliy karat to admins: можно
+[05:42:43] Хищный анус: Дробовика не будет
+[05:42:44] Хищный анус: давай
+[05:42:50] Redoket<STEAM_0:1:545449619> spawned NPC npc_zombie
+[05:42:51] Magamed: Польский
+[05:42:53] Польские Пряники: А
+[05:42:54] Magamed: у  тебя каряк есть?
+[05:42:57] Польские Пряники: ДА
+[05:43:00] Magamed: ок
+[05:43:02] Redoket<STEAM_0:1:545449619> spawned NPC npc_zombie
+[05:43:12] Польские Пряники: ДАВАЙТЕ РАЗБОГАТЕЕМ
+[05:43:20] Redoket<STEAM_0:1:545449619> spawned NPC npc_zombie
+[05:43:28] Redoket<STEAM_0:1:545449619> spawned NPC npc_zombie
+[05:43:30] Хищный анус: скок там патрон?
+[05:43:33] Client "нет повода слезам" connected.
+[05:43:49] vasiliy karat to admins: эпик ник
+[05:44:25] Magamed: А откуда адванчет текстетелс
+[05:44:29] Magamed: Или как она на русском
+[05:44:31] Польские Пряники: СКРАФТИЛИ
+[05:44:32] Dropped "Лудоман" from server<STEAM_0:0:781818033>
+[05:44:32] Лудоман suicided!
+[05:44:33] vasiliy karat: !menu
+[05:44:44] Хищный анус killed Redoket using tfa_doim1912
+[05:44:47] Хищный анус: Блять
+[05:44:51] Client "Лудоман" connected.
+[05:44:55] Хищный анус: ЧЕ
+[05:44:58] vasiliy karat cloaked Themself by amount 0
+[05:45:04] Хищный анус: невидимые?
+[05:45:15] Хищный анус: ЗОБИМИ
+[05:45:21] Client "Лудоман" spawned in server <STEAM_0:0:781818033> (took 30 seconds).
+[05:45:22] Redoket<STEAM_0:1:545449619> spawned NPC npc_antlionguard
+[05:45:42] Польские Пряники: РАЗБОГАТЕЛИ
+[05:46:01] Soldier_S.C.A.F: я тут!
+[05:46:08] Mannytko: *растегнул ширинку
+[05:46:28] Хищный анус: Ублюдок
+[05:46:32] Хищный анус: Патрон нет
+[05:46:38] Soldier_S.C.A.F: паровые машины!
+[05:46:48] Magamed: supply radio: global message
+[05:46:58] Magamed: Очень круто...
+[05:47:00] vasiliy karat: двери щас
+[05:47:07] vasiliy karat: их пока
+[05:47:10] Польские Пряники: НАД ОТКЛЮЧИТ
+[05:47:13] Польские Пряники: ЧЕРЕЗ ПОВЕРБАНК
+[05:47:24] vasiliy karat: наверное убрать нормальными методами нельзя только взорвать детпак�
+[05:47:31] vasiliy karat: давай удалю
+[05:47:32] Soldier_S.C.A.F: кстати
+[05:47:40] Soldier_S.C.A.F: а не проще к стенке перенески контейнер
+[05:47:43] Soldier_S.C.A.F: а то не удобно
+[05:47:54] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs.mdl
+[05:47:55] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs.mdl
+[05:47:55] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs.mdl
+[05:47:55] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs.mdl
+[05:47:55] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs.mdl
+[05:47:55] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs.mdl
+[05:47:55] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs.mdl
+[05:47:56] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs.mdl
+[05:48:05] Польские Пряники: ВСЕ
+[05:48:07] Польские Пряники: ПОЧИНИЛИ
+[05:48:09] Польские Пряники: РАДИО
+[05:48:21] Soldier_S.C.A.F: карорч
+[05:48:24] Хищный анус: че это
+[05:48:29] Хищный анус: там летает что-то
+[05:48:30] Soldier_S.C.A.F: я наверное контейнер к стенке поставлю
+[05:48:34] Soldier_S.C.A.F: а то не очень удобно
+[05:48:45] Magamed: дава
+[05:48:58] Redoket<STEAM_0:1:545449619> spawned ragdoll models/gibs/fast_zombie_torso.mdl
+[05:49:12] Хищный анус: че это было
+[05:49:32] Хищный анус: НАПАДАЙ
+[05:49:45] Хищный анус killed Redoket using tfa_doim1912
+[05:49:49] Хищный анус: убил
+[05:50:03] Client "zюka" spawned in server <STEAM_0:0:523969861> (took 623 seconds).
+[05:50:18] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs.mdl
+[05:50:19] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs_rib.mdl
+[05:50:19] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs_scapula.mdl
+[05:50:20] Redoket<STEAM_0:1:545449619> spawned model models/gibs/hgibs_spine.mdl
+[05:50:23] Redoket<STEAM_0:1:545449619> spawned model models/props_c17/doll01.mdl
+[05:50:29] Redoket<STEAM_0:1:545449619> spawned model models/props_junk/glassbottle01a.mdl
+[05:50:37] Redoket<STEAM_0:1:545449619> spawned model models/props_lab/bindergraylabel01b.mdl
+[05:50:51] Хищный анус: Прощай брат, с богом
+[05:50:56] Хищный анус: ОПА НИХУЯ
+[05:51:03] Хищный анус: о
+[05:51:08] Хищный анус: тут зомби
+[05:51:09] Redoket: never goon
+[05:51:11] Хищный анус: обитают
+[05:51:18] Soldier_S.C.A.F: годнота!
+[05:51:32] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[05:51:32] Egorik suicided!
+[05:51:49] zюka: хуесосы
+[05:51:56] Хищный анус: Я даже не успел тюрьму отстроить..
+[05:52:05] zюka: привет
+[05:52:10] Хищный анус: Вы кто?
+[05:52:13] Хищный анус: Я из Лазаря
+[05:52:19] zюka: Пенис\
+[05:52:26] Хищный анус: А...
+[05:52:31] Soldier_S.C.A.F: магамед
+[05:52:35] Хищный анус: Фанаты
+[05:52:35] Magamed: ?
+[05:52:43] Soldier_S.C.A.F: может сначало сканером пройтись?
+[05:52:50] Хищный анус: Э
+[05:52:50] Soldier_S.C.A.F: вдруг годный рес будет
+[05:52:53] Magamed: Бля чет тупанул
+[05:53:09] Magamed: Тогда просто перестроим границу немного
+[05:53:39] Redoket: !menu
+[05:53:39] Mannytko cloaked Themself by amount 0
+[05:53:41] Soldier_S.C.A.F: ооо
+[05:53:41] Redoket teleported to Mannytko
+[05:53:42] Redoket teleported to Mannytko
+[05:53:42] Redoket teleported to Mannytko
+[05:53:42] Redoket teleported to Mannytko
+[05:53:43] Redoket teleported to Mannytko
+[05:53:43] Soldier_S.C.A.F: стой!
+[05:53:43] Redoket teleported to Mannytko
+[05:53:44] Redoket teleported to Mannytko
+[05:53:46] Redoket teleported to Mannytko
+[05:53:47] Redoket teleported to Mannytko
+[05:53:47] Redoket teleported to Mannytko
+[05:53:47] Redoket teleported to Mannytko
+[05:53:48] Redoket teleported to Mannytko
+[05:53:48] Redoket teleported to Mannytko
+[05:53:48] Redoket teleported to Mannytko
+[05:53:48] Redoket teleported to Mannytko
+[05:53:48] Mannytko<STEAM_0:0:151021368> spawned NPC npc_zombie
+[05:53:49] Mannytko<STEAM_0:0:151021368> spawned NPC npc_zombie
+[05:53:50] Mannytko<STEAM_0:0:151021368> spawned NPC npc_fastzombie
+[05:53:51] Mannytko<STEAM_0:0:151021368> spawned NPC npc_fastzombie
+[05:53:51] Redoket teleported to Mannytko
+[05:53:52] Soldier_S.C.A.F: нефть надо
+[05:53:54] Хищный анус: ТВОЖ
+[05:53:54] Soldier_S.C.A.F: очень
+[05:53:57] Mannytko<STEAM_0:0:151021368> spawned NPC npc_zombie
+[05:53:57] Mannytko<STEAM_0:0:151021368> spawned NPC npc_fastzombie
+[05:54:02] Хищный анус: там что-то летает
+[05:54:02] Soldier_S.C.A.F: мм
+[05:54:06] Redoket<STEAM_0:1:545449619> spawned NPC npc_poisonzombie
+[05:54:07] Soldier_S.C.A.F: лучше свою иметь
+[05:54:13] Mannytko<STEAM_0:0:151021368> spawned NPC npc_antlionguard
+[05:54:21] Хищный анус: Дробовик против зомби хорош
+[05:54:28] Redoket<STEAM_0:1:545449619> spawned NPC npc_monk
+[05:54:40] Redoket<STEAM_0:1:545449619> spawned NPC npc_pigeon
+[05:54:40] Redoket<STEAM_0:1:545449619> spawned NPC npc_pigeon
+[05:54:41] Redoket<STEAM_0:1:545449619> spawned NPC npc_pigeon
+[05:54:43] Redoket<STEAM_0:1:545449619> spawned NPC npc_pigeon
+[05:54:44] Redoket<STEAM_0:1:545449619> spawned NPC npc_pigeon
+[05:54:45] Redoket<STEAM_0:1:545449619> spawned NPC npc_pigeon
+[05:54:52] Redoket: ptichki
+[05:54:58] Mannytko set the hp for Themself to 2147483647
+[05:54:59] Redoket: ptichki
+[05:55:03] zюka: помогите пожалуйста
+[05:55:04] Mannytko<STEAM_0:0:151021368> spawned NPC npc_poisonzombie
+[05:55:11] Mannytko set the hp for zюka to 1
+[05:55:14] Mannytko set the hp for zюka to 5
+[05:55:15] Redoket<STEAM_0:1:545449619> spawned NPC npc_clawscanner
+[05:55:16] Mannytko ignited zюka for 300 seconds
+[05:55:17] Mannytko extinguished zюka
+[05:55:19] Soldier_S.C.A.F: оу
+[05:55:20] Mannytko ignited zюka for 300 seconds
+[05:55:21] Mannytko extinguished zюka
+[05:55:21] Redoket<STEAM_0:1:545449619> spawned NPC npc_rollermine
+[05:55:30] Soldier_S.C.A.F: прям спериди?
+[05:55:31] Mannytko set the material for zюka to models/props_lab/Tank_Glass001
+[05:55:32] zюka was killed by npc_rollermine
+[05:55:33] Mannytko reset the material for zюka
+[05:55:59] Redoket: !menu
+[05:56:02] Redoket teleported to Mannytko
+[05:56:02] Redoket teleported to Mannytko
+[05:56:02] Redoket teleported to Mannytko
+[05:56:03] Redoket teleported to Mannytko
+[05:56:03] Redoket teleported to Mannytko
+[05:56:04] Redoket teleported to Mannytko
+[05:56:04] Redoket teleported to Mannytko
+[05:56:04] Redoket teleported to Mannytko
+[05:56:04] Redoket teleported to Mannytko
+[05:56:05] Redoket teleported to Mannytko
+[05:56:05] Redoket teleported to Mannytko
+[05:56:06] Redoket teleported to Mannytko
+[05:56:06] Redoket teleported to Mannytko
+[05:56:06] Redoket teleported to Mannytko
+[05:56:07] Redoket teleported to Mannytko
+[05:56:07] Redoket teleported to Mannytko
+[05:56:07] Redoket teleported to Mannytko
+[05:56:08] Redoket teleported to Mannytko
+[05:56:08] Redoket teleported to Mannytko
+[05:56:08] Redoket teleported to Mannytko
+[05:56:09] Redoket teleported to Mannytko
+[05:56:09] Redoket teleported to Mannytko
+[05:56:09] Redoket teleported to Mannytko
+[05:56:10] Redoket teleported to Mannytko
+[05:56:10] Redoket teleported to Mannytko
+[05:56:10] Redoket teleported to Mannytko
+[05:56:10] Redoket teleported to Mannytko
+[05:56:11] Redoket teleported to Mannytko
+[05:56:11] Redoket teleported to Mannytko
+[05:56:11] Redoket teleported to Mannytko
+[05:56:11] Redoket teleported to Mannytko
+[05:56:12] Redoket teleported to Mannytko
+[05:56:12] Redoket teleported to Mannytko
+[05:56:12] Redoket teleported to Mannytko
+[05:56:12] Redoket teleported to Mannytko
+[05:56:13] Redoket teleported to Mannytko
+[05:56:13] Redoket teleported to Mannytko
+[05:56:13] Redoket teleported to Mannytko
+[05:56:13] Redoket teleported to Mannytko
+[05:56:14] Redoket teleported to Mannytko
+[05:56:14] Redoket teleported to Mannytko
+[05:56:14] Redoket teleported to Mannytko
+[05:56:14] Redoket teleported to Mannytko
+[05:56:15] Redoket teleported to Mannytko
+[05:56:15] Redoket teleported to Mannytko
+[05:56:15] Redoket teleported to Mannytko
+[05:56:16] Redoket teleported to Mannytko
+[05:56:16] Redoket teleported to Mannytko
+[05:56:16] Redoket teleported to Mannytko
+[05:56:16] Redoket teleported to Mannytko
+[05:56:16] Soldier_S.C.A.F: сука
+[05:56:16] Redoket teleported to Mannytko
+[05:56:17] Redoket teleported to Mannytko
+[05:56:17] Redoket teleported to Mannytko
+[05:56:17] Redoket teleported to Mannytko
+[05:56:17] Redoket teleported to Mannytko
+[05:56:18] Redoket teleported to Mannytko
+[05:56:18] Redoket teleported to Mannytko
+[05:56:18] Redoket teleported to Mannytko
+[05:56:18] Redoket teleported to Mannytko
+[05:56:19] Redoket teleported to Mannytko
+[05:56:19] Redoket teleported to Mannytko
+[05:56:19] Redoket teleported to Mannytko
+[05:56:19] Redoket teleported to Mannytko
+[05:56:20] Redoket teleported to Mannytko
+[05:56:20] Redoket teleported to Mannytko
+[05:56:20] Redoket teleported to Mannytko
+[05:56:21] Redoket teleported to Mannytko
+[05:56:21] Redoket teleported to Mannytko
+[05:56:21] Redoket teleported to Mannytko
+[05:56:21] Redoket teleported to Mannytko
+[05:56:22] Redoket teleported to Mannytko
+[05:56:24] Mannytko uncloaked Themself
+[05:56:37] zюka: f
+[05:56:41] zюka: f
+[05:56:44] Magamed: Ага
+[05:56:45] zюka: jfjjfj
+[05:56:48] Magamed: Бензин?
+[05:56:50] zюka: aaa
+[05:56:58] zюka: Привет как делда
+[05:56:59] Magamed: Мне кажется
+[05:57:05] Magamed: Нам лучше дать ему что он хочет
+[05:57:08] Magamed: и дать ему уйти
+[05:57:13] zюka: хищный хуесос
+[05:57:20] Magamed: Неа
+[05:57:21] Redoket: !menu
+[05:57:24] zюka: /ooc Ублюдки что тут делать мне пиздец щас
+[05:57:25] Redoket uncloaked Themself
+[05:57:26] Soldier_S.C.A.F: тима!
+[05:57:29] Soldier_S.C.A.F: лечитесь
+[05:57:32] zюka: /ad пва
+[05:57:39] Magamed: Не трогай
+[05:57:42] Magamed: ПОЛОЖ
+[05:57:42] Soldier_S.C.A.F: эй!
+[05:57:46] Soldier_S.C.A.F: вы кто такой
+[05:57:52] Magamed killed Redoket using tfa_doik98
+[05:57:55] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_zombie
+[05:57:56] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_zombie
+[05:57:57] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_zombie
+[05:57:57] Mannytko killed Magamed using wep_jack_gmod_hands
+[05:57:57] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_zombie
+[05:57:58] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_zombie
+[05:58:15] Soldier_S.C.A.F: откуда такая силишя!
+[05:58:25] Soldier_S.C.A.F: ебать
+[05:58:28] Soldier_S.C.A.F: я чуть не помер
+[05:59:17] Soldier_S.C.A.F: ЗОМБИ
+[05:59:33] Magamed killed Redoket using tfa_doik98
+[05:59:37] Хищный анус to admins: можете трупы почистить? Страж немного некомфортный прям у верстаков
+[05:59:55] Magamed: ЗАЙДИТЕ Я БЫСТРЕЕ ОБУСТРОЮ ГРАНИЦУ!
+[06:00:00] Soldier_S.C.A.F: Я ПРИКРОЮ
+[06:00:02] Magamed: ОТОЙДИТЕ
+[06:00:05] Magamed: СКАФ ЗАЙДИ
+[06:00:05] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:00:14] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:00:15] Magamed: Я НЕ ЗНАЮ МАЛЕНЬКИЙ 9 ЛЕТНИЙ МАЛЬЧИК
+[06:00:21] Польские Пряники killed Redoket using tfa_doiwebley
+[06:00:23] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:00:24] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:00:25] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:00:25] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:00:28] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_hrshoulder
+[06:00:30] Soldier_S.C.A.F: ААА
+[06:00:30] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_pouch
+[06:00:32] Mannytko<STEAM_0:0:151021368> spawned sent ent_jack_gmod_ezarmor_metalpot
+[06:00:32] Soldier_S.C.A.F: ТИРАНИДЫ!
+[06:00:47] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:00:47] Magamed: УЙДИ
+[06:00:49] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:00:49] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:00:53] Soldier_S.C.A.F: да
+[06:00:53] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezpounder
+[06:00:54] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:00:55] Magamed: ТЫ НЕ СВОЙ
+[06:00:56] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:00:57] Soldier_S.C.A.F: потому что патроны
+[06:00:57] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:00:59] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:01:00] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:01:01] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:01:01] Soldier_S.C.A.F: ограничены из хл2
+[06:01:03] Mannytko<STEAM_0:0:151021368> spawned sent ent_aboot_gmod_ezharpoon
+[06:01:05] Хищный анус was killed by ent_jack_gmod_ezfalloutparticle
+[06:01:06] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:01:06] Лудоман killed zюka using tfa_smc_ppsh_drum
+[06:01:06] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:01:07] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:01:07] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:01:24] zюka: одни хуесосы играют
+[06:01:25] Soldier_S.C.A.F: я
+[06:01:27] Dropped "zюka" from server<STEAM_0:0:523969861>
+[06:01:27] zюka suicided!
+[06:01:27] Soldier_S.C.A.F: на ПОСТ
+[06:01:33] Mannytko<STEAM_0:0:151021368> spawned NPC npc_fastzombie
+[06:01:33] Mannytko<STEAM_0:0:151021368> spawned NPC npc_fastzombie
+[06:01:34] Mannytko<STEAM_0:0:151021368> spawned NPC npc_fastzombie
+[06:01:34] Mannytko<STEAM_0:0:151021368> spawned NPC npc_fastzombie
+[06:01:34] Mannytko<STEAM_0:0:151021368> spawned NPC npc_fastzombie
+[06:01:37] Soldier_S.C.A.F: ЗОМБИ
+[06:01:58] Mannytko killed Soldier_S.C.A.F using ent_aboot_gmod_ezharpoon
+[06:02:24] Mannytko suicided!
+[06:02:30] Magamed killed Redoket using tfa_smc_ppsh_drum
+[06:02:45] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_zombine
+[06:02:47] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_zombine
+[06:02:48] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_zombine
+[06:02:57] Soldier_S.C.A.F: фух
+[06:03:33] Soldier_S.C.A.F: А ЧЕ Я ВЕЩИ НЕ МОГУ ВЗЯТЬ
+[06:03:48] Soldier_S.C.A.F: ой
+[06:03:53] Soldier_S.C.A.F: тулган :D
+[06:04:02] Хищный анус: Не пугай, нет, вон тем
+[06:04:09] Польские Пряники stripped weapons from Soldier_S.C.A.F
+[06:04:09] Польские Пряники: !strip Soldier
+[06:04:12] vasiliy karat: !menu
+[06:04:16] vasiliy karat granted god mode upon Themself
+[06:04:16] Хищный анус: Там парни далеко
+[06:04:17] Soldier_S.C.A.F: теперь рук нет...
+[06:04:19] Польские Пряники: !menu
+[06:04:52] Soldier_S.C.A.F: ну не утопится же
+[06:04:58] Soldier_S.C.A.F: ААА
+[06:05:02] Soldier_S.C.A.F: ЩЯС НАХУЙ ПОЛУЧАТ
+[06:05:09] Magamed: Забегайте я быстрее обустрою
+[06:05:09] Soldier_S.C.A.F: ЩЯ
+[06:05:13] Magamed: ПРЯНИКИ
+[06:05:21] Magamed: ДА ПРЯНИКИ БЛЯТЬ
+[06:05:33] Magamed: ВЫ КТО?
+[06:05:42] Magamed: КТО КТО?
+[06:05:52] Magamed: И ЧТО ВАМ НАДО ТУТ?
+[06:05:57] Magamed: аа
+[06:06:01] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:06:01] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:06:01] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:06:01] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:06:02] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:06:02] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_antlion
+[06:06:07] Magamed: спасибо
+[06:06:12] Magamed: нам сейчас очень дао
+[06:06:18] Magamed: на нас нападают очемнь много зомби
+[06:06:40] Magamed: подержи труп у стены
+[06:06:41] Soldier_S.C.A.F: ПИЗДЕЦ
+[06:06:44] Magamed: давай прьбем его к ней
+[06:06:45] Soldier_S.C.A.F: ТАМ ЖУКИ НАСТУПАЮТ!
+[06:06:52] Soldier_S.C.A.F: КУЛЬФРУМ!
+[06:06:56] Soldier_S.C.A.F: ЖУКИ НАСТУПАЮТ
+[06:07:06] Magamed: сука застряло!
+[06:07:11] Magamed: бляха
+[06:07:18] Magamed: Слыш оставь тут
+[06:07:23] Magamed: мы все сами перенесем потом
+[06:07:26] Magamed: еще раз спасибо!
+[06:07:30] Magamed: ага
+[06:07:46] Magamed: Неси на базу
+[06:07:48] Magamed: лудик
+[06:08:18] Mannytko uncloaked Themself
+[06:08:21] Mannytko set the hp for Themself to 255
+[06:08:22] Mannytko set the hp for Redoket to 255
+[06:08:27] Magamed: Чего?
+[06:08:40] Magamed: хаахх
+[06:09:35] Magamed: Как дверь в проем поместить
+[06:09:36] Mannytko set the hp for Redoket to 455
+[06:09:37] Soldier_S.C.A.F: о боже...
+[06:09:37] Mannytko set the hp for Themself to 455
+[06:09:42] Magamed: ?
+[06:10:08] Magamed: да полож
+[06:10:49] Mannytko set the hp for Themself to 455
+[06:10:58] Soldier_S.C.A.F: ай
+[06:11:00] Soldier_S.C.A.F: воняет все
+[06:11:07] Soldier_S.C.A.F: я на пост!
+[06:11:25] vasiliy karat: !menu
+[06:11:27] vasiliy karat revoked god mode from Themself
+[06:11:30] vasiliy karat uncloaked Themself
+[06:11:46] Mannytko set the hp for Themself to 455
+[06:11:50] vasiliy karat stripped weapons from Themself
+[06:11:50] vasiliy karat: !strip ^
+[06:12:15] Magamed: ПОЛЬСКИЕ НЕ ВЫХОДИТЕ НАМ 
+[06:12:28] Хищный анус was killed by ent_jack_aidbox
+[06:12:31] Soldier_S.C.A.F: ебать еррорка
+[06:12:46] Mannytko set the hp for Themself to 455
+[06:14:04] Soldier_S.C.A.F: ТАНК
+[06:14:44] Redoket killed Soldier_S.C.A.F using tfa_doim1912
+[06:14:52] Soldier_S.C.A.F: ТАНК
+[06:15:02] Mannytko set the hp for Themself to 455
+[06:15:06] Soldier_S.C.A.F: БЛЯТЬ
+[06:15:08] Soldier_S.C.A.F: ОГОНЬ
+[06:15:10] Redoket killed Лудоман using lvs_pz38t_mow
+[06:15:44] GreenPixel11: /me Нажал на кнопку в кормане
+[06:16:09] Soldier_S.C.A.F: НАЗАД
+[06:16:13] Хищный анус killed Хищный анус
+[06:16:19] Польские Пряники was killed by entityflame
+[06:16:23] Magamed killed Mannytko using tfa_smc_ppsh_drum
+[06:16:29] Magamed was killed by lvs_pz38t_mow
+[06:16:38] vasiliy karat: зомби приболел
+[06:17:18] vasiliy karat: умри и тебе дадут ружье в броню и гранату
+[06:17:38] Mannytko set the hp for Themself to 455
+[06:17:41] Mannytko set the hp for Redoket to 455
+[06:17:42] Mannytko set the hp for vasiliy karat to 455
+[06:17:42] Soldier_S.C.A.F: хах!
+[06:17:46] Soldier_S.C.A.F: я неуязвим!
+[06:17:57] vasiliy karat: ПОШЛИ
+[06:18:00] vasiliy karat: Я ЗНАЮ ГДЕ
+[06:18:34] vasiliy karat: ЗООООМБИИ
+[06:18:37] vasiliy karat: МАЗГИ
+[06:18:43] Magamed: чего?
+[06:18:52] Magamed: ДА!
+[06:18:56] Magamed: НА ПРОСТО ЕБУТ !
+[06:19:00] Magamed: СТОЙ
+[06:19:05] Magamed: Я ЩАС ПОПРОБУЮ НАЦЕПИТЬ НА НИХ
+[06:19:07] Magamed: ЛИПУЧКУ
+[06:19:41] Soldier_S.C.A.F: я покрошил
+[06:19:45] Soldier_S.C.A.F: с танка
+[06:19:53] vasiliy karat: ЭТО НЕ СТОЛИЦА
+[06:19:54] vasiliy karat: УХОДИМ
+[06:20:09] Magamed: ЧЕ
+[06:20:16] Magamed: ПРИ СПАВНЕ ДАЕТ
+[06:20:20] Magamed: ДА
+[06:20:21] vasiliy karat killed GreenPixel11 using tfa_doik98
+[06:20:24] Magamed: ОРУЖИЕ И КАСКИ
+[06:20:34] Хищный анус to admins: а че танк неубиваемый?
+[06:20:36] Magamed: ТАНК ПУСТ?
+[06:20:38] Soldier_S.C.A.F: ДА
+[06:20:55] vasiliy karat to admins: ружье не работает же
+[06:20:58] Magamed: ЧЕЙ ОН ВООБЩЕ
+[06:21:01] Mannytko killed GreenPixel11 using tfa_doik98
+[06:21:03] vasiliy karat to admins: гебальт киньте
+[06:21:24] Magamed: Я ЗАРАЗИЛСЯ
+[06:21:32] Magamed: ОК
+[06:21:53] Soldier_S.C.A.F: турели?
+[06:21:56] Magamed: ТАМ НА МОЛОНИТ НАПАЛИ КАК Я ПОНЯЛ
+[06:21:58] Soldier_S.C.A.F: а
+[06:21:58] vasiliy karat: мазги
+[06:22:00] Magamed: НА С В ПОКОЕ
+[06:22:00] Soldier_S.C.A.F: помогу
+[06:22:15] vasiliy karat: надо
+[06:22:18] vasiliy karat: зомби миномет
+[06:22:36] vasiliy karat: мазги в кредит
+[06:22:36] Client "богдан." connected.
+[06:22:38] Magamed: МОЖЕТ КУПИМ?
+[06:22:42] Client "богдан." connected.
+[06:22:44] Magamed: ДА
+[06:22:48] Client "богдан." connected.
+[06:22:50] Magamed: ЩАС
+[06:22:54] Soldier_S.C.A.F: ТУТ ПУСТЬ
+[06:22:57] Soldier_S.C.A.F: на всякий
+[06:23:09] vasiliy karat: МАЗИГ
+[06:23:25] vasiliy karat: ОБЪЯВИ ВОЙНУ НА ПРАВО
+[06:23:33] Soldier_S.C.A.F: ТАНК
+[06:23:57] Хищный анус was killed by ent_jack_gmod_ezfalloutparticle
+[06:23:58] Magamed was killed by lvs_pz38t_mow
+[06:23:59] Soldier_S.C.A.F killed Redoket
+[06:24:14] vasiliy karat killed Польские Пряники using tfa_doik98
+[06:24:29] Mannytko set the hp for Themself to 455
+[06:24:35] vasiliy karat: МАЗГОХОДЫ
+[06:24:38] Soldier_S.C.A.F: они админы
+[06:24:40] Soldier_S.C.A.F: им можно
+[06:24:40] Mannytko killed Soldier_S.C.A.F using tfa_doik98
+[06:24:44] Mannytko killed Польские Пряники using tfa_doik98
+[06:24:54] vasiliy karat: ЕСТЬ МАЗГИ
+[06:24:59] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 131 seconds).
+[06:25:00] vasiliy karat was killed by ent_jack_gmod_ezsticknade
+[06:25:02] Mannytko killed Польские Пряники using tfa_smc_ppsh_drum
+[06:25:10] Mannytko killed Лудоман using tfa_smc_ppsh_drum
+[06:25:12] Magamed killed Redoket using tfa_smc_ppsh_drum
+[06:25:27] Mannytko killed Magamed using tfa_smc_ppsh_drum
+[06:26:13] Лудоман killed Mannytko using tfa_doik98
+[06:26:22] Soldier_S.C.A.F: да блять
+[06:26:24] Soldier_S.C.A.F: откуда танки!
+[06:26:33] Хищный анус killed Хищный анус
+[06:26:34] Redoket killed Польские Пряники using tfa_doik98
+[06:26:35] Mannytko set the hp for Themself to 455
+[06:26:35] vasiliy karat: ЗОМБИ МИНМЕТ
+[06:26:42] vasiliy karat: КУПИ
+[06:26:43] vasiliy karat: ВЗРЫВЧАТК
+[06:26:49] богдан.: вы зондбе
+[06:26:59] Magamed killed Redoket using tfa_smc_ppsh_drum
+[06:27:12] vasiliy karat: КАКИЕ НА ВКУС ИНОПЛАНЕТЯНСКИЕ МОЗГИ?
+[06:27:25] Soldier_S.C.A.F: а у нипх денег нет
+[06:27:30] богдан.: вы не имеете право есть мои мозги
+[06:27:31] Magamed: ЧТО ЭТО
+[06:27:38] Magamed: НЕСИ НА БАЗУ
+[06:27:41] vasiliy karat: КТО ЭТО СКАЗАЛ
+[06:28:11] Soldier_S.C.A.F: там кажись снайпер на горе!
+[06:29:37] Magamed: Просто уроды зараженые...
+[06:29:46] Magamed: Взяли все разгромили
+[06:29:54] Soldier_S.C.A.F: там лагерь!
+[06:29:56] Magamed: А я хотел по нормальному 
+[06:29:58] Soldier_S.C.A.F: на западе!
+[06:30:11] богдан.: а вы откуда
+[06:30:13] Soldier_S.C.A.F: дайка бинокль
+[06:30:13] Magamed: Думаешь это их?
+[06:30:16] богдан.: понял
+[06:30:20] Soldier_S.C.A.F: НУЖЕ
+[06:30:35] Soldier_S.C.A.F: нет не они
+[06:30:41] Magamed: что
+[06:30:43] Soldier_S.C.A.F: угу
+[06:30:47] Soldier_S.C.A.F: хм
+[06:30:49] Magamed: Посмотрим
+[06:30:51] Soldier_S.C.A.F: можно просто в базу кинуть
+[06:30:58] Soldier_S.C.A.F: их радиацией будет пиздить
+[06:31:29] Soldier_S.C.A.F: жаль стрелять не удобно
+[06:31:40] Soldier_S.C.A.F: дак ещё и метко попадают
+[06:31:59] vasiliy karat: А Я
+[06:32:21] Soldier_S.C.A.F: я вижу дым!
+[06:32:30] Soldier_S.C.A.F: кажись там их база
+[06:32:37] Soldier_S.C.A.F: я на разведку!
+[06:32:43] Soldier_S.C.A.F: на верную...
+[06:32:44] Тим Тайм: аль маджидун вы кто здрасте
+[06:32:44] Magamed: Давайте пойдем на разведку
+[06:32:51] vasiliy karat: ЗОМБИ КОРОВАН
+[06:32:52] Soldier_S.C.A.F: нет
+[06:32:54] Soldier_S.C.A.F: я один пойду!
+[06:32:58] Magamed: один?
+[06:33:03] Soldier_S.C.A.F: танк!
+[06:33:16] Soldier_S.C.A.F: к тем заехал
+[06:33:26] vasiliy karat: ТОЧКУ
+[06:33:27] vasiliy karat: ЗАБЕРИТЕ
+[06:33:29] Client "RusLanConnection" connected.
+[06:33:45] vasiliy karat: НЕЛЗ
+[06:33:48] vasiliy karat: КУПИМ НОВУ
+[06:35:09] Magamed: ЗАЧЕМ
+[06:35:13] Польские Пряники: там
+[06:35:20] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 111 seconds).
+[06:35:22] Польские Пряники: там
+[06:35:24] Польские Пряники: они
+[06:35:25] vasiliy karat: АГОНЬ НА ПАДАВЛЕНИЕ
+[06:35:27] Польские Пряники: да
+[06:35:40] RusLanConnection cloaked Themself by amount 0
+[06:35:43] vasiliy karat: ЭТО ЧЕЛОВЕЧЕСКИ ТАНК
+[06:35:44] RusLanConnection granted god mode upon Themself
+[06:35:48] vasiliy karat: КАЖЕТСЯ
+[06:35:50] vasiliy karat: Я НЕ ВИЖУ
+[06:36:01] Хищный анус: Да-да?
+[06:36:04] vasiliy karat: ТОЧКУ
+[06:36:06] vasiliy karat: ПОСТАВЬТЕ
+[06:36:06] Тим Тайм: я уже 10 минут стою вы кто
+[06:36:20] Хищный анус: Лазарь, ты на моей территории. Ты кто?
+[06:36:31] Тим Тайм: аль маджидун
+[06:36:42] Redoket killed Magamed using tfa_doik98
+[06:36:49] Тим Тайм: не знаете где зомби негодяи что угрожают пустыне?
+[06:36:51] Хищный анус: Понял.. и чего хотите?
+[06:36:53] Хищный анус: Вон там
+[06:36:57] богдан.: я мирный
+[06:36:58] Redoket killed GreenPixel11 using tfa_doik98
+[06:37:01] Тим Тайм: спасибо
+[06:37:01] Хищный анус: На той базе
+[06:37:07] Тим Тайм: а их враги
+[06:37:10] Хищный анус: там же
+[06:37:12] vasiliy karat: НА НАШЕЙ БАЗЕ КТО ТО
+[06:37:12] Тим Тайм: ну рейдеры пустынные
+[06:37:16] Тим Тайм: понял
+[06:37:17] vasiliy karat: ТЕПАЕМСЯ
+[06:37:19] Хищный анус: рейдеры на базе той живут
+[06:37:20] vasiliy karat: И НАЖАМИ
+[06:37:24] Хищный анус: а где зомби - хуй знает
+[06:37:25] vasiliy karat: ЧЕРЕЗ
+[06:37:26] vasiliy karat: ГОРОДА
+[06:37:31] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[06:37:31] GreenPixel11 suicided!
+[06:37:32] Хищный анус: Я им помогать сейчас собираюсь
+[06:37:37] Тим Тайм: я тоже
+[06:37:38] vasiliy karat: вот
+[06:37:39] vasiliy karat: ГОТОВ
+[06:37:41] Magamed: не бери
+[06:37:44] Хищный анус: Не попади под обстрел
+[06:37:45] Magamed: эТО МОЕ!
+[06:37:52] vasiliy karat: НАДО
+[06:37:55] vasiliy karat: НЕ РАБОТАЕТ
+[06:37:56] Redoket killed Soldier_S.C.A.F using tfa_smc_ppsh_drum
+[06:38:06] Тим Тайм: мне одному очково если честно
+[06:38:07] Soldier_S.C.A.F: я им точку снес
+[06:38:12] vasiliy karat: РАЗОБРАЛИ
+[06:38:19] Хищный анус: Я поэтому им и буду помогать отсюда
+[06:38:26] Тим Тайм: ладно
+[06:38:29] vasiliy karat: ЗОМБИ ПРОСТУДА
+[06:38:35] vasiliy karat: РАЗОБРАЛИ
+[06:38:39] Dropped "Magamed" from server<STEAM_0:0:126228018>
+[06:38:39] Magamed suicided!
+[06:38:44] Client "𝓟𝓞𝓞𝓛" connected.
+[06:38:47] Client "Magamed" connected.
+[06:39:27] Client "Magamed" spawned in server <STEAM_0:0:126228018> (took 40 seconds).
+[06:39:50] vasiliy karat: ПРИЕМ ЗОМБИ
+[06:39:53] vasiliy karat: ЕСЛИ КТО СЛЫШИТ
+[06:39:56] vasiliy karat: ТУТ МОЖНО ДЕЛАТЬ ТАНКИ
+[06:39:59] vasiliy karat: НА БАЗЕ
+[06:40:09] Mannytko killed Magamed using tfa_doimp40
+[06:40:11] Тим Тайм: вы с зомби воюете?
+[06:40:53] Soldier_S.C.A.F: да сука
+[06:40:58] Soldier_S.C.A.F: КАК СТРЕЛЯТЬ
+[06:41:02] Soldier_S.C.A.F: аиминг хуйня
+[06:41:03] Лудоман killed Redoket using tfa_smc_ppsh_drum
+[06:41:37] RusLanConnection teleported to Лудоман
+[06:41:58] Тим Тайм: могу я помочь с зомби вам?
+[06:42:02] Client "Ăm₤ģą|Вован." connected.
+[06:42:08] vasiliy karat: МОЖНО НА СТОЛИЦУ ТЕПАТЬСЯ
+[06:42:31] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[06:42:31] Польские Пряники suicided!
+[06:43:14] vasiliy karat: ТАМ НЕТ МЕДКОМЕНТОВ
+[06:44:07] Magamed: солдатб ля
+[06:44:11] Magamed: Солдат бля
+[06:44:34] Тим Тайм was killed by ent_jack_gmod_ezsentry
+[06:45:22] Magamed: Пошло все назуй
+[06:45:25] Dropped "Magamed" from server<STEAM_0:0:126228018>
+[06:45:25] Magamed suicided!
+[06:45:35] vasiliy karat: поэтому дайте мозги
+[06:45:51] vasiliy karat: дайте мощги
+[06:45:52] Soldier_S.C.A.F: эх
+[06:45:55] Хищный анус: Да?
+[06:45:55] Soldier_S.C.A.F: мы проиграли
+[06:46:02] Хищный анус: Зомби заняли вашу базу?
+[06:46:04] vasiliy karat: дайте мощги
+[06:46:13] Soldier_S.C.A.F: да блять
+[06:46:17] Soldier_S.C.A.F: хп себе накручивают
+[06:46:27] Soldier_S.C.A.F: и ты следом
+[06:46:31] Mannytko was killed by ent_jack_gmod_ezsticknade
+[06:46:31] Лудоман was killed by ent_jack_gmod_ezsticknade
+[06:46:32] Client "kazper" connected.
+[06:46:42] Client "Magamed" connected.
+[06:46:54] Soldier_S.C.A.F: да наша фракция уже щяс расформируется
+[06:46:56] vasiliy karat: это лазар
+[06:47:01] Хищный анус: Хуево..
+[06:47:08] Soldier_S.C.A.F: к сожелению так
+[06:47:15] Soldier_S.C.A.F: зомби перли как из колды
+[06:47:18] vasiliy karat: лазар
+[06:47:21] Client "Magamed" spawned in server <STEAM_0:0:126228018> (took 39 seconds).
+[06:47:26] vasiliy karat: нада ехать
+[06:47:29] Soldier_S.C.A.F: а все
+[06:47:32] Soldier_S.C.A.F: нету фракии
+[06:47:39] богдан.: как тут дела обстоят
+[06:48:16] Тим Тайм: короче в пизду играть изза зомби невозможно на сервере
+[06:48:20] Dropped "Тим Тайм" from server<STEAM_0:1:610753227>
+[06:48:20] Тим Тайм suicided!
+[06:48:29] богдан.: а?
+[06:48:32] Soldier_S.C.A.F: не я стрелял
+[06:48:35] vasiliy karat: я считаю что они должны мазги
+[06:48:37] Soldier_S.C.A.F: он
+[06:48:37] богдан.: я из банании
+[06:48:44] богдан. killed Лудоман using tfa_doimp40
+[06:48:46] vasiliy karat: мозги предъявите
+[06:48:51] vasiliy karat: достаньте мозги
+[06:49:00] Client "HanOFF" connected.
+[06:49:03] Soldier_S.C.A.F: кстати
+[06:49:04] Хищный анус: Какиех переговоров? Меня просили помощи, я увидел вас там с оружием.. �
+[06:49:09] Soldier_S.C.A.F: а вы че хп накручивали?
+[06:49:18] Хищный анус: Мне не сообщили
+[06:49:26] Soldier_S.C.A.F: а че вы были живучими
+[06:49:31] Soldier_S.C.A.F: что ППШ не брал
+[06:49:53] Soldier_S.C.A.F: хотя вопрос может к василию
+[06:50:01] Soldier_S.C.A.F: он ведь в основном штурмовал
+[06:50:10] Хищный анус: почему вообще зомбаки с оружием)0
+[06:50:15] vasiliy karat: умные зомби
+[06:50:18] Хищный анус: нихуя себе
+[06:50:22] Magamed: !motd
+[06:50:26] богдан.: чем докажешь что это твоя база
+[06:50:28] vasiliy karat: это глубокий лор лан рп из давно так сложилось
+[06:50:34] богдан.: точка тут моя стоит
+[06:50:35] Лудоман killed богдан. using tfa_doim1912
+[06:50:38] Хищный анус: мне так же
+[06:50:42] Soldier_S.C.A.F: правда стрелять вабще не удобно
+[06:50:53] Soldier_S.C.A.F: TFA такое уж
+[06:51:06] Хищный анус: еще и это иммерсивное
+[06:51:10] Лудоман killed богдан. using tfa_doim1912
+[06:51:23] Лудоман killed богдан. using tfa_doim1912
+[06:51:35] Лудоман killed богдан. using tfa_doisw1917
+[06:51:54] богдан.: у тебя фракции нет дибил
+[06:51:57] Лудоман killed богдан. using tfa_doisw1917
+[06:52:13] Лудоман killed богдан. using tfa_doik98
+[06:52:30] богдан.: тут нет никакой фракции
+[06:52:35] богдан.: вот я и пришел хули
+[06:52:37] Хищный анус: есть
+[06:52:44] Mannytko<STEAM_0:0:151021368> spawned sent ent_rus_spawnbase
+[06:52:45] Soldier_S.C.A.F: м-да уж
+[06:52:56] Хищный анус: потестил газик
+[06:53:04] Soldier_S.C.A.F: организиваность фиговая была вабще в целом
+[06:53:44] Soldier_S.C.A.F: хм
+[06:53:49] Soldier_S.C.A.F: может карту тогда вайпить
+[06:53:56] Soldier_S.C.A.F: а то после войны постоянно срач
+[06:54:24] Soldier_S.C.A.F: хм
+[06:54:30] Soldier_S.C.A.F: а как насчет идеи
+[06:54:42] Soldier_S.C.A.F: если в ЛАН рп госпиталь буду делать
+[06:54:54] Soldier_S.C.A.F: санитарию всю эту
+[06:55:11] богдан. to admins: а что делать если фултон не летит и не открывается
+[06:55:15] Redoket: мщк
+[06:55:17] Redoket: мозщк
+[06:55:44] Client "Egorik" connected.
+[06:55:49] Magamed: вирус на 1хп останавливается
+[06:56:11] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[06:56:11] Redoket suicided!
+[06:56:50] Dropped "Mannytko" from server<STEAM_0:0:151021368>
+[06:56:50] Mannytko suicided!
+[06:56:56] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 72 seconds).
+[06:57:03] богдан. to admins: ну блин
+[06:57:43] Magamed: ты кто
+[06:57:46] Client "MARIaRTI" connected.
+[06:57:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[06:58:15] Soldier_S.C.A.F: циц
+[06:58:17] Soldier_S.C.A.F: я медик
+[06:59:56] Soldier_S.C.A.F to admins: кстати есть смысл вайпить просто каждой войны срач полнейший
+[07:00:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[07:00:09] Client "HanOFF" spawned in server <STEAM_0:0:195071499> (took 669 seconds).
+[07:00:10] Egorik: supply radio: dynamite
+[07:00:15] Client "kazper" connected.
+[07:00:49] богдан.: ты кто
+[07:00:52] Soldier_S.C.A.F: медик
+[07:01:01] богдан.: понятно
+[07:01:11] богдан.: спасибо большое
+[07:01:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[07:01:47] Client "Redoket" connected.
+[07:02:23] Soldier_S.C.A.F to admins: кстати я как-то не пойму прикола
+[07:02:33] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 46 seconds).
+[07:02:34] Soldier_S.C.A.F to admins: я во время войны точку разобрал
+[07:02:43] Soldier_S.C.A.F to admins: и когда растаскивал ресы
+[07:02:53] Soldier_S.C.A.F to admins: из неоткуда появился враг
+[07:03:04] Soldier_S.C.A.F to admins: как понимать подобный баг?
+[07:03:08] Magamed: supply radio: fluid bottler
+[07:03:10] RusLanConnection revoked god mode from Themself
+[07:03:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[07:03:22] Client "kazper" spawned in server <STEAM_0:0:453342682> (took 187 seconds).
+[07:03:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[07:04:33] RusLanConnection uncloaked Themself
+[07:04:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[07:04:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[07:05:02] RusLanConnection teleported to Redoket
+[07:05:10] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[07:05:12] Magamed: supply radio: flares
+[07:05:19] Magamed: supply radio: flares
+[07:05:25] богдан. killed HanOFF using tfa_smc_ppsh_drum
+[07:05:26] богдан. killed Egorik using tfa_smc_ppsh_drum
+[07:05:57] Dropped "HanOFF" from server<STEAM_0:0:195071499>
+[07:05:57] HanOFF suicided!
+[07:06:01] Soldier_S.C.A.F: supply radio: car
+[07:06:14] Magamed: supply radio: flares
+[07:06:16] Client "HanOFF" connected.
+[07:06:35] kazper: !motd
+[07:06:50] Client "HanOFF" spawned in server <STEAM_0:0:195071499> (took 34 seconds).
+[07:07:30] RusLanConnection set the hp for Redoket to 100
+[07:07:31] RusLanConnection set the hp for Themself to 100
+[07:07:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[07:08:02] Redoket killed Redoket
+[07:08:34] RusLanConnection killed RusLanConnection
+[07:08:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[07:08:46] RusLanConnection killed RusLanConnection
+[07:09:04] HanOFF: авп
+[07:09:16] Soldier_S.C.A.F: хех
+[07:09:24] RusLanConnection teleported to vasiliy karat
+[07:09:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[07:09:46] Redoket killed Redoket
+[07:09:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[07:10:03] Хищный анус: cfg
+[07:10:05] Хищный анус: сап
+[07:10:10] Хищный анус: Я тут тюрьму строю
+[07:10:13] Soldier_S.C.A.F: а
+[07:10:33] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[07:10:33] RusLanConnection suicided!
+[07:10:53] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[07:10:53] Redoket suicided!
+[07:11:14] Soldier_S.C.A.F: медик
+[07:11:24] Soldier_S.C.A.F: проигрововало
+[07:11:53] богдан.: привет
+[07:12:02] Soldier_S.C.A.F: кстати
+[07:12:07] Soldier_S.C.A.F: а не хотите нового вайпа?
+[07:12:11] Magamed: Хотим
+[07:12:23] Soldier_S.C.A.F: василий еще тут
+[07:12:26] Soldier_S.C.A.F: попрошу его
+[07:12:37] Лудоман: !votemap
+[07:12:42] Magamed: !menu
+[07:12:47] Soldier_S.C.A.F to admins: василий! люди хотят вайпа одобришь голосование?
+[07:14:15] Soldier_S.C.A.F: хм
+[07:14:26] Лудоман: supply radio: global message
+[07:14:29] Soldier_S.C.A.F to admins: василий только не говори что ты там отошел
+[07:14:41] Soldier_S.C.A.F to admins: придется лазейкой обойтись пока оно ещё есть
+[07:14:45] Soldier_S.C.A.F: !menu
+[07:14:57] Soldier_S.C.A.F to admins: а я думал ещё будет смена карты
+[07:15:14] Soldier_S.C.A.F: руслан вышел
+[07:15:19] Soldier_S.C.A.F: supply radio: global message
+[07:15:21] vasiliy karat: !menu
+[07:15:27] Soldier_S.C.A.F: supply radio: global message
+[07:15:41] богдан.: supply radio: global message
+[07:16:04] vasiliy karat: !menu
+[07:16:21] vasiliy karat started a vote (меняем карту?)
+[07:16:21] Soldier_S.C.A.F voted for: да
+[07:16:22] vasiliy karat voted for: да
+[07:16:22] Хищный анус voted for: нет
+[07:16:23] богдан. voted for: нет
+[07:16:23] Лудоман voted for: да
+[07:16:23] HanOFF: !motd
+[07:16:24] kazper voted for: да
+[07:16:24] Egorik voted for: да
+[07:16:41] Vote results: Option 'да' won. (5/9)
+[07:16:46] Soldier_S.C.A.F: ЕЕЕЕ
+[07:17:32] богдан.: !menu
+[07:18:24] vasiliy karat: !menu
+[07:18:35] vasiliy karat started a votemap with options gm_sro gm_sro_duststorm gm_sro_mountain_field
+[07:18:38] HanOFF voted for: gm_sro_mountain_field
+[07:18:38] богдан. voted for: gm_sro_duststorm
+[07:18:39] Хищный анус voted for: gm_sro
+[07:18:40] Лудоман voted for: gm_sro_mountain_field
+[07:18:40] Soldier_S.C.A.F voted for: gm_sro_mountain_field
+[07:18:41] kazper voted for: gm_sro_mountain_field
+[07:18:42] vasiliy karat voted for: gm_sro
+[07:18:52] Egorik voted for: gm_sro
+[07:18:55] Dropped "Хищный анус" from server<STEAM_0:1:125235601>
+[07:18:55] Хищный анус suicided!
+[07:18:55] Vote results: Vote was unsuccessful.
+[07:19:22] vasiliy karat: !menu
+[07:19:24] vasiliy karat started a votemap with options gm_sro gm_sro_duststorm gm_sro_mountain_field
+[07:19:26] vasiliy karat voted for: gm_sro_duststorm
+[07:19:26] Egorik voted for: gm_sro
+[07:19:26] Soldier_S.C.A.F voted for: gm_sro
+[07:19:26] kazper voted for: gm_sro_mountain_field
+[07:19:26] богдан. voted for: gm_sro_duststorm
+[07:19:30] Лудоман voted for: gm_sro_mountain_field
+[07:19:44] Vote results: Vote was unsuccessful.
+[07:20:35] Soldier_S.C.A.F to admins: повтор!
+[07:21:31] Soldier_S.C.A.F: оу
+[07:21:39] Soldier_S.C.A.F: так ты у меня в списке друзей есть
+[07:21:49] Soldier_S.C.A.F: с уголочка вроде помню
+[07:23:07] Soldier_S.C.A.F to admins: василий надо вайпить
+[07:23:15] Soldier_S.C.A.F to admins: давай повторное голосование
+[07:23:41] Soldier_S.C.A.F to admins: одну из тверх карт можно убрать
+[07:23:53] Soldier_S.C.A.F to admins: трех*
+[07:24:09] Soldier_S.C.A.F: я заключитл!
+[07:24:16] vasiliy karat: !menu
+[07:24:25] vasiliy karat: !Menu
+[07:24:29] vasiliy karat changed the map to gm_sro_duststorm
+[07:24:29] Server is shutting down/changing levels.
+
+
+
+[07:24:39] New map: gm_sro_duststorm
+[07:25:06] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 32 seconds).
+[07:25:07] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 33 seconds).
+[07:25:08] Client "HanOFF" spawned in server <STEAM_0:0:195071499> (took 34 seconds).
+[07:25:09] Client "Лудоман" spawned in server <STEAM_0:0:781818033> (took 35 seconds).
+[07:25:10] Client "kazper" spawned in server <STEAM_0:0:453342682> (took 36 seconds).
+[07:25:10] Egorik suicided!
+[07:25:18] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 44 seconds).
+[07:25:18] Лудоман suicided!
+[07:25:18] HanOFF suicided!
+[07:25:25] Client "Magamed" spawned in server <STEAM_0:0:126228018> (took 51 seconds).
+[07:25:25] Лудоман suicided!
+[07:25:37] Client "GreenPixel11" connected.
+[07:26:06] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 92 seconds).
+[07:26:11] Dropped "Лудоман" from server<STEAM_0:0:781818033>
+[07:26:11] Лудоман suicided!
+[07:26:12] Client "Лудоман" connected.
+[07:26:14] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 37 seconds).
+[07:26:36] Client "Лудоман" spawned in server <STEAM_0:0:781818033> (took 24 seconds).
+[07:27:20] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[07:27:20] GreenPixel11 suicided!
+[07:29:13] (TEAM) Egorik: ш
+[07:30:33] Magamed: РАБОТАЙТЕ РАБЫ!
+[07:31:15] Magamed: КАЗПЕР СТАНЕТ СОЛНЕЧНЫМ И ЗОЛОТЫМ КАК ЗОЛОТО
+[07:34:47] Client "Виктор Тетерев" connected.
+[07:36:39] Client "Виктор Тетерев" spawned in server <STEAM_0:0:504265752> (took 112 seconds).
+[07:38:08] Виктор Тетерев: я тулбокс взял у тебя
+[07:38:57] Client "Vigy vigy vigy" connected.
+[07:39:46] Soldier_S.C.A.F: ЭЙ
+[07:40:00] Soldier_S.C.A.F: вернул
+[07:40:36] Soldier_S.C.A.F: УШЕЛ ОТСЮДА БЫСТРО
+[07:40:44] Soldier_S.C.A.F: 5
+[07:40:45] Soldier_S.C.A.F: 4
+[07:40:47] Soldier_S.C.A.F: 3
+[07:40:48] Soldier_S.C.A.F: 2
+[07:40:49] Soldier_S.C.A.F: 1
+[07:41:21] Soldier_S.C.A.F: И НЕ ВЗДУМАЙ РЯДОМ РАЗВИВАТСЯ!!!
+[07:41:28] Виктор Тетерев: почему
+[07:41:42] Soldier_S.C.A.F: ни привета ни слова!
+[07:41:46] Soldier_S.C.A.F: ВАБЩЕ
+[07:41:53] Soldier_S.C.A.F: пришёл и начел трогать вещи!
+[07:41:54] Client "Vigy vigy vigy" spawned in server <STEAM_0:1:501631169> (took 177 seconds).
+[07:41:55] (TEAM) Виктор Тетерев: т
+[07:41:59] Виктор Тетерев: тут моя база
+[07:42:05] Soldier_S.C.A.F: не красиво с твоей стороны1
+[07:43:01] Magamed: playermodel_selector 
+[07:43:08] (TEAM) Лудоман: !motd
+[07:44:51] Виктор Тетерев: нифига я ураниум нашел
+[07:44:59] Soldier_S.C.A.F: ЭТОЙ МОЙ УРАН СУКА
+[07:45:03] Виктор Тетерев: нет
+[07:45:04] Soldier_S.C.A.F: Я ЕГО ПЕРВЫМ НАШЕЛ
+[07:45:21] Виктор Тетерев: вон там твоя база
+[07:45:25] Виктор Тетерев: вот моя 
+[07:45:28] Виктор Тетерев: моя где уран
+[07:45:33] Soldier_S.C.A.F: Я СКАНЕРОМ БЛЯТЬ ИСКАЛ
+[07:45:36] Soldier_S.C.A.F: И НЕ ПИЗДИ ТУТ
+[07:45:40] (TEAM) HanOFF: e
+[07:45:42] Soldier_S.C.A.F: У ТЕБЯ ТОЧКИ ЕЩЁ НЕТ
+[07:46:59] Vigy vigy vigy: !motd
+[07:47:21] Dropped "богдан." from server<STEAM_0:1:815266334>
+[07:47:21] богдан. suicided!
+[07:48:15] Soldier_S.C.A.F: а тебя не ебет
+[07:48:19] Soldier_S.C.A.F: что радиация будет пиздить
+[07:48:32] Виктор Тетерев: дрель убери с моей базы
+[07:48:41] Soldier_S.C.A.F: МОЕ ПРЕТИНДОВАНИЕ
+[07:48:52] Soldier_S.C.A.F: я был тут когда ты ещё фракцию не создал
+[07:49:19] Soldier_S.C.A.F: так
+[07:49:44] Soldier_S.C.A.F: как думаешь
+[07:49:49] Soldier_S.C.A.F: поступим по хорошему
+[07:49:53] Soldier_S.C.A.F: или по плохму
+[07:50:01] Soldier_S.C.A.F: ВЫБИРАЙ
+[07:50:12] Виктор Тетерев: с базы уйди моей
+[07:50:18] Soldier_S.C.A.F: я тебя понял
+[07:50:20] Виктор Тетерев was killed by build_prop
+[07:55:30] Soldier_S.C.A.F: ДАЖЕ НЕ ДУМАЙ\
+[07:55:43] Soldier_S.C.A.F: ПРЕТЕНДОВАНИЕ НА МОЕЙ СТОРОНЕ
+[07:55:51] Soldier_S.C.A.F: АХ ТЫ СУКА
+[07:56:04] Soldier_S.C.A.F killed Виктор Тетерев using ent_jack_gmod_eztimebomb
+[07:56:30] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doippk
+[07:56:33] Client "GreenPixel11" connected.
+[07:57:10] Client "богдан." connected.
+[07:57:10] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 37 seconds).
+[07:57:14] Vigy vigy vigy: fffffffffffffffff
+[07:58:22] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doippk
+[07:58:35] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 85 seconds).
+[07:59:07] Виктор Тетерев: supply radio: car
+[07:59:07] Vigy vigy vigy: *drop
+[07:59:34] HanOFF: !menu
+[07:59:36] HanOFF: !menu
+[07:59:36] HanOFF: !menu
+[07:59:58] Magamed: ТЫ КТО?
+[08:00:04] HanOFF: !help
+[08:00:29] богдан.: supply radio: fulton-crate
+[08:01:45] Dropped "богдан." from server<STEAM_0:1:815266334>
+[08:01:45] богдан. suicided!
+[08:01:46] Client "богдан." connected.
+[08:02:04] Vigy vigy vigy: *drop
+[08:02:10] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 24 seconds).
+[08:04:14] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[08:04:14] GreenPixel11 suicided!
+[08:05:33] богдан.: supply radio: fulton-crate
+[08:06:00] Виктор Тетерев killed Soldier_S.C.A.F using rust_boltrifle
+[08:06:44] богдан.: тебя танк атакует?
+[08:06:46] Лудоман: \
+[08:07:00] богдан.: захзфаХЗхазХФЗАХЗФАхЗХАзфха
+[08:07:04] богдан.: фдцадфЦазэ
+[08:07:05] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:07:08] богдан.: харош
+[08:07:13] Soldier_S.C.A.F: вот сука
+[08:07:28] богдан.: я заражен осторожно
+[08:07:32] богдан.: кстати
+[08:07:33] Soldier_S.C.A.F: я уже заразился
+[08:07:34] богдан.: прими альянс
+[08:07:43] Magamed: Я ТАНК БАБАХУЮ?
+[08:07:46] богдан.: я тебя спонсировать буду
+[08:07:48] богдан.: нене
+[08:07:53] богдан.: он же открыт
+[08:07:57] Soldier_S.C.A.F: ПОМОГАЙТЕ СУКА
+[08:08:06] (TEAM) Egorik: i
+[08:08:21] Magamed killed Виктор Тетерев using tfa_doimp40
+[08:08:27] Soldier_S.C.A.F: БЕГОМ
+[08:08:34] Виктор Тетерев killed Лудоман
+[08:08:34] Виктор Тетерев killed Magamed
+[08:08:34] Magamed killed kazper using env_explosion
+[08:08:34] Magamed killed Vigy vigy vigy using env_explosion
+[08:08:45] Виктор Тетерев: supply radio: car
+[08:08:45] Soldier_S.C.A.F: БЕГОМ
+[08:08:47] Soldier_S.C.A.F: БЕГОМ
+[08:08:58] Soldier_S.C.A.F: ДА
+[08:09:14] kazper killed Виктор Тетерев using rust_boltrifle
+[08:09:30] богдан.: пушки берите
+[08:09:42] Soldier_S.C.A.F: ИЩИТЕ!
+[08:10:01] Magamed was killed by lvs_wheeldrive_dodkuebelwagen
+[08:10:42] богдан.: это порохом надо
+[08:10:48] Soldier_S.C.A.F: так!
+[08:10:55] Soldier_S.C.A.F: одного на мою базу охранять
+[08:11:01] Soldier_S.C.A.F: остольным!
+[08:11:06] Soldier_S.C.A.F: расыпится
+[08:11:09] Soldier_S.C.A.F: и искать его!
+[08:11:21] Лудоман killed vasiliy karat using tfa_doimp40
+[08:11:24] Egorik was killed by ent_rus_jsmod_pipe
+[08:11:38] богдан.: ОН ЗДЕСЬ
+[08:11:41] Soldier_S.C.A.F: это не он!
+[08:11:43] богдан.: СЮДА
+[08:11:55] Soldier_S.C.A.F: это он на спавне!
+[08:11:57] богдан. killed Виктор Тетерев using tfa_doig43
+[08:12:15] Soldier_S.C.A.F: Я НАШЕЛ ЕГО
+[08:12:19] Soldier_S.C.A.F: ОН ЗА ГОРОЙ!
+[08:12:22] Soldier_S.C.A.F: ВСЕ ЗА МНОЙ
+[08:12:40] богдан.: я его ликвилировал
+[08:12:47] Виктор Тетерев: supply radio: car
+[08:12:58] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:13:01] богдан.: тетерев красный
+[08:13:03] Soldier_S.C.A.F: УБИЛ!
+[08:13:14] Soldier_S.C.A.F: СТОЯТЬ!
+[08:13:19] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:14:10] Soldier_S.C.A.F: НА СПАВНЕ КАРАУЛЬТЕ
+[08:14:13] Soldier_S.C.A.F: Я ЗА НИМ
+[08:14:41] Soldier_S.C.A.F: где чувак!
+[08:14:47] Soldier_S.C.A.F: здесь бегал!
+[08:14:56] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:15:50] богдан. killed Виктор Тетерев using tfa_doig43
+[08:15:59] Soldier_S.C.A.F: СТОЯТЬТ
+[08:16:04] Soldier_S.C.A.F: СДАВАЙСЯ
+[08:16:05] Client "PoPcat" connected.
+[08:16:09] Soldier_S.C.A.F: ТЕБЕ НЕГУДА БЕЖАТЬ
+[08:16:14] Soldier_S.C.A.F: 3
+[08:16:15] Soldier_S.C.A.F: 2
+[08:16:16] Soldier_S.C.A.F: 1
+[08:16:22] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:16:40] Soldier_S.C.A.F: ты!
+[08:16:46] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:16:55] Soldier_S.C.A.F: СТОЯТЬ!
+[08:16:58] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:17:15] Soldier_S.C.A.F: СТОЙ СУКА!
+[08:17:25] Виктор Тетерев: у меня фракции нет иди нахуй
+[08:17:33] Soldier_S.C.A.F: СУД НАД ТОБОЙ БУДЕТ
+[08:17:41] Виктор Тетерев: фракции по суду нету
+[08:17:48] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:18:17] Soldier_S.C.A.F: ДА СДАВАЙСЯ УЖЕ
+[08:18:24] Soldier_S.C.A.F: ТЕБЕ НЕГДЕ СРАДЖАТИСЯ!
+[08:18:46] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:18:58] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:19:08] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:19:11] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 186 seconds).
+[08:19:21] HanOFF: rfr
+[08:19:34] HanOFF: !motd
+[08:19:59] богдан.: ураааа салююют
+[08:20:04] Soldier_S.C.A.F: ХЕЛП
+[08:20:09] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:20:11] Dropped "Лудоман" from server<STEAM_0:0:781818033>
+[08:20:11] Лудоман suicided!
+[08:20:20] Soldier_S.C.A.F: ОН НЕ УГОМОНИТЯ
+[08:20:22] Dropped "kazper" from server<STEAM_0:0:453342682>
+[08:20:22] kazper suicided!
+[08:20:23] богдан.: САЛЮТ СМОТРИТЕ
+[08:20:28] PoPcat: ахаахах
+[08:20:31] богдан.: вон там
+[08:20:33] Dropped "Magamed" from server<STEAM_0:0:126228018>
+[08:20:33] Magamed suicided!
+[08:20:38] Dropped "Vigy vigy vigy" from server<STEAM_0:1:501631169>
+[08:20:38] Vigy vigy vigy suicided!
+[08:20:54] Soldier_S.C.A.F: ХЕЛП
+[08:21:06] Dropped "PoPcat" from server<STEAM_0:1:564871456>
+[08:21:06] PoPcat suicided!
+[08:21:07] Виктор Тетерев: пингует
+[08:21:44] Soldier_S.C.A.F killed Виктор Тетерев using wep_jack_gmod_ezaxe
+[08:21:50] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[08:21:50] vasiliy karat suicided!
+[08:24:02] HanOFF: !help
+[08:24:05] HanOFF: !
+[08:24:12] HanOFF: !menu
+[08:24:18] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:24:55] HanOFF: !Ыйы\цуфка\\\\\\\\\\\\\\\
+[08:24:58] Client "PoPcat" connected.
+[08:25:00] Dropped "богдан." from server<STEAM_0:1:815266334>
+[08:25:00] богдан. suicided!
+[08:25:31] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 33 seconds).
+[08:25:41] Dropped "PoPcat" from server<STEAM_0:1:564871456>
+[08:25:41] PoPcat suicided!
+[08:27:18] Soldier_S.C.A.F: !motd
+[08:28:46] Виктор Тетерев suicided!
+[08:30:52] HanOFF: !modt
+[08:31:00] Виктор Тетерев was killed by ent_jack_gmod_ezsticknade
+[08:31:09] HanOFF: !motd
+[08:31:59] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:32:21] Dropped "HanOFF" from server<STEAM_0:0:195071499>
+[08:32:21] HanOFF suicided!
+[08:34:55] Soldier_S.C.A.F killed Виктор Тетерев using tfa_doig43
+[08:35:32] Виктор Тетерев: supply radio: timebombs
+[08:35:48] Виктор Тетерев: supply radio: timebombs
+[08:35:56] Client "krilz" connected.
+[08:37:37] Виктор Тетерев suicided!
+[08:37:37] Виктор Тетерев killed Soldier_S.C.A.F using ent_jack_gmod_eztimebomb
+[08:38:08] Client "krilz" spawned in server <STEAM_0:1:89998932> (took 132 seconds).
+[08:39:18] Виктор Тетерев killed Soldier_S.C.A.F using lvs_wheeldrive_dodwillyjeep
+[08:39:57] (TEAM) Egorik: i
+[08:40:20] Виктор Тетерев was killed by ent_jack_gmod_ezsticknade
+[08:41:26] Soldier_S.C.A.F: пидораса кусок!
+[08:41:31] Client "Хищный анус" connected.
+[08:42:08] Soldier_S.C.A.F: да он нарушает ещё правила
+[08:42:24] Client "Хищный анус" spawned in server <STEAM_0:1:125235601> (took 53 seconds).
+[08:42:38] Soldier_S.C.A.F: иза этого нуба!
+[08:42:48] Soldier_S.C.A.F: все фракии втянулись
+[08:43:25] Soldier_S.C.A.F: и да кстати
+[08:43:31] Soldier_S.C.A.F: жалоба поступила в дс сервер
+[08:44:28] Soldier_S.C.A.F: вот из ролевого ниче не вел
+[08:44:31] Soldier_S.C.A.F: ни истории
+[08:44:47] Soldier_S.C.A.F: ты сам блять пошел к моей базе
+[08:45:03] Soldier_S.C.A.F: блять какой же ты ДОТОШНЫЙ
+[08:45:21] Soldier_S.C.A.F: +у тебя доказательст нету
+[08:45:43] Soldier_S.C.A.F: а с хуяли я тебе поверю
+[08:45:46] Soldier_S.C.A.F: что ты демку записал
+[08:46:20] Soldier_S.C.A.F: по фактам соберу то
+[08:46:26] Soldier_S.C.A.F: что вытворял
+[08:46:37] Soldier_S.C.A.F: 1 начел без причины лазеть по базе
+[08:46:47] Soldier_S.C.A.F: 2 поселился рядом иза чего были притензии
+[08:47:27] Client "vasiliy karat" connected.
+[08:48:10] Виктор Тетерев: ты меня не имеешь право обзывать понял?
+[08:48:14] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 47 seconds).
+[08:48:19] Soldier_S.C.A.F: Soldier_S.C.A.F: не красиво с твоей стороны1Виктор Тетерев: нифига я ураниум 
+[08:48:26] Soldier_S.C.A.F: блять не полное
+[08:48:28] Soldier_S.C.A.F: но кароч
+[08:48:53] Soldier_S.C.A.F: так нашёл когда ты фракцию ещё не имел
+[08:48:59] Soldier_S.C.A.F: +не повод
+[08:49:02] vasiliy karat: !menu
+[08:49:04] Soldier_S.C.A.F: что если рядом поселился
+[08:49:08] Soldier_S.C.A.F: значит ресы есть
+[08:49:13] vasiliy karat cloaked Themself by amount 0
+[08:49:30] Soldier_S.C.A.F to admins: василий!
+[08:49:34] Soldier_S.C.A.F to admins: у нас капец....
+[08:49:39] Soldier_S.C.A.F to admins: срочно тп
+[08:49:49] vasiliy karat: ало
+[08:50:03] vasiliy karat: что случилос
+[08:50:06] Soldier_S.C.A.F: в общем василий
+[08:50:15] Soldier_S.C.A.F: это будет на долго
+[08:50:19] Виктор Тетерев: меня чел убил когда я ураниум добывал
+[08:50:26] Виктор Тетерев: якобы претензии были
+[08:50:28] Soldier_S.C.A.F: уран я первым нашёл!
+[08:50:30] Виктор Тетерев: без войны
+[08:50:32] Soldier_S.C.A.F: до твоей фракции!
+[08:50:51] Soldier_S.C.A.F: если рядом= факт что уже мне пренадлежит
+[08:50:59] vasiliy karat: кто сказал что без войны убивать нелзя
+[08:51:10] Виктор Тетерев: !motd
+[08:51:14] Soldier_S.C.A.F: у меня были притензии
+[08:51:20] Soldier_S.C.A.F: +я его отгонял
+[08:51:23] Soldier_S.C.A.F: но он не слушался
+[08:51:38] Soldier_S.C.A.F: блядь
+[08:51:44] Soldier_S.C.A.F: у меня на базе
+[08:51:48] Soldier_S.C.A.F: на момент до войны
+[08:51:53] Soldier_S.C.A.F: был
+[08:51:59] Soldier_S.C.A.F: контейнер.верстак.сканер
+[08:52:04] Soldier_S.C.A.F: +куча ресурсов
+[08:52:06] Soldier_S.C.A.F: а У ТЕБЯ
+[08:52:16] Soldier_S.C.A.F: кроме столика и сканера ниче не было
+[08:52:34] Soldier_S.C.A.F: блядь
+[08:52:39] Soldier_S.C.A.F: вот представь что в жизни
+[08:52:46] Soldier_S.C.A.F: ты найдешь нефть на участке
+[08:52:57] Soldier_S.C.A.F: не перебивать!
+[08:53:12] Хищный анус killed vasiliy karat using wep_jack_gmod_hands
+[08:53:13] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[08:53:13] Egorik suicided!
+[08:53:14] Хищный анус: ой
+[08:53:15] Soldier_S.C.A.F: вот нашлась нефть на участке
+[08:53:19] Soldier_S.C.A.F: и как бы
+[08:53:24] Soldier_S.C.A.F: логично что твое будет
+[08:53:25] Soldier_S.C.A.F: НО
+[08:53:27] Хищный анус: я походу убил
+[08:53:29] Хищный анус: невидимку
+[08:53:37] vasiliy karat: !menu
+[08:53:38] vasiliy karat uncloaked Themself
+[08:53:39] Soldier_S.C.A.F: на самом деле оно принадлежит государстве
+[08:53:49] Хищный анус: какому государству
+[08:53:49] Soldier_S.C.A.F: ну я это так и объяснил
+[08:53:57] Soldier_S.C.A.F: ТЫ КАКОЙ ЖОПОЙ ДУМАЕШЬ
+[08:54:01] Хищный анус: у меня в руках 300 грамм демократии
+[08:54:08] Soldier_S.C.A.F: а фракция это разве не как государство
+[08:54:17] Soldier_S.C.A.F: и да
+[08:54:21] Soldier_S.C.A.F: это разборка
+[08:54:24] Soldier_S.C.A.F: тут можно так
+[08:54:52] Хищный анус: скаф
+[08:54:57] Хищный анус: о чем спор?
+[08:55:05] Soldier_S.C.A.F: да нуб полнейший
+[08:55:13] Soldier_S.C.A.F: иза него вот проблемвы
+[08:55:35] Soldier_S.C.A.F: 1 были притензии
+[08:55:46] Soldier_S.C.A.F: 2 огрызался со мной
+[08:56:06] Soldier_S.C.A.F: предостовлял выбор
+[08:56:08] Soldier_S.C.A.F: но!
+[08:56:13] Soldier_S.C.A.F: ты пошёл по плохому пути
+[08:56:18] Soldier_S.C.A.F: иза чего шла война
+[08:56:25] Soldier_S.C.A.F: но вот в чем прикол
+[08:56:35] Soldier_S.C.A.F: он вёл войну фактически без базы
+[08:56:39] Виктор Тетерев: Soldier_S.C.A.F: такSoldier_S.C.A.F: как думаешьSoldier_S.C.A.F: поступим по хорошемуSoldier_S.
+[08:56:44] Soldier_S.C.A.F: но как бы уже не уважение к игре
+[08:57:10] Хищный анус: !motd
+[08:57:57] Soldier_S.C.A.F: и да
+[08:58:00] Soldier_S.C.A.F: ты логически
+[08:58:07] vasiliy karat: секунду
+[08:58:08] Soldier_S.C.A.F: толком не вёл РП процессы
+[08:58:23] Soldier_S.C.A.F: блять
+[08:58:33] Soldier_S.C.A.F: тебе название сервера ниче не напоминает
+[08:58:50] Soldier_S.C.A.F: это режим
+[08:58:55] Soldier_S.C.A.F: а само название
+[08:59:20] Soldier_S.C.A.F: ой какой же ты тугодумный
+[08:59:28] Soldier_S.C.A.F: название сервера в табе глянь
+[08:59:34] Хищный анус: подхиль
+[08:59:55] Soldier_S.C.A.F: ясень пень что это не прям даркРП
+[08:59:57] Soldier_S.C.A.F: НО
+[09:00:11] Soldier_S.C.A.F: здесь можно как сильно отыгрывать 
+[09:00:14] Soldier_S.C.A.F: так и не очень
+[09:00:34] Soldier_S.C.A.F: были
+[09:00:46] Soldier_S.C.A.F: это и была притензия!
+[09:00:51] Soldier_S.C.A.F: в РП виде
+[09:01:00] Виктор Тетерев: Soldier_S.C.A.F: такSoldier_S.C.A.F: как думаешьSoldier_S.C.A.F: поступим по хорошемуSoldier_S.
+[09:01:30] Виктор Тетерев: поправьте меня админ если я не прав
+[09:01:34] vasiliy karat: а как они тебе базу сломали какой такой багоюз
+[09:03:22] Виктор Тетерев: админ говорите теперь вы
+[09:03:29] Soldier_S.C.A.F: да подожди
+[09:03:31] Виктор Тетерев: я закончил
+[09:03:40] Soldier_S.C.A.F: он выводы ещё делать будет
+[09:03:50] Soldier_S.C.A.F: так как во первых
+[09:03:54] Soldier_S.C.A.F: ситуация сложная
+[09:03:57] Soldier_S.C.A.F: вторая!
+[09:04:03] Soldier_S.C.A.F: оно долгое
+[09:04:09] Soldier_S.C.A.F: за всё время щяс
+[09:04:15] Soldier_S.C.A.F: уже 30 мин потратили
+[09:04:52] Soldier_S.C.A.F: и да василий карат
+[09:04:57] Soldier_S.C.A.F: когда я с ним воевал
+[09:05:11] Soldier_S.C.A.F: то проблема была вот в чем
+[09:05:13] Хищный анус: выключи радио пж
+[09:05:17] Хищный анус: я поторгую
+[09:05:22] Хищный анус: на е
+[09:05:31] Soldier_S.C.A.F: помимо отсуствия базы
+[09:05:33] Хищный анус: а как ты включил?
+[09:05:34] Soldier_S.C.A.F: или лагеря
+[09:05:45] Soldier_S.C.A.F: хотя погоди
+[09:05:53] Soldier_S.C.A.F: админ вы тут?
+[09:06:07] Soldier_S.C.A.F: да кажись отошёл...
+[09:06:18] Виктор Тетерев: афкъ\
+[09:06:28] krilz was killed by ent_rus_jsmod_pipe
+[09:07:23] Soldier_S.C.A.F: блядь был бы руслан
+[09:07:32] Soldier_S.C.A.F: он бы побыстрейе объяснил наши косяки
+[09:07:36] Soldier_S.C.A.F: хотя как сказать
+[09:07:53] vasiliy karat: так
+[09:07:57] Soldier_S.C.A.F: о
+[09:07:59] Soldier_S.C.A.F: ты ожил!
+[09:08:39] vasiliy karat: так
+[09:08:53] Виктор Тетерев: чо было
+[09:09:59] Soldier_S.C.A.F: м-да
+[09:10:00] vasiliy karat: я считаю что логично если рядом с фракции по сильнее есть фракция оди
+[09:11:14] Виктор Тетерев: как торговля?
+[09:11:27] Хищный анус: из 12к уже 59 сделал
+[09:11:30] vasiliy karat: а да насчет фракций одиночек
+[09:12:17] Виктор Тетерев: ты что-то быстро продаешь
+[09:12:28] Хищный анус: ну так система тут такая
+[09:12:28] vasiliy karat: если нет идеи для фракции зачем создавать новую 
+[09:12:28] Soldier_S.C.A.F: погоди
+[09:12:35] Виктор Тетерев: не я то знаю
+[09:12:36] vasiliy karat: можно больше гемплея словить если скооперироваться
+[09:12:42] Soldier_S.C.A.F: я тем более
+[09:12:44] Виктор Тетерев: я с 20к 1.5 лямов сделал
+[09:12:49] Soldier_S.C.A.F: хотел больницу создать
+[09:12:53] Soldier_S.C.A.F: как бы уже мирное
+[09:12:53] Хищный анус: покупаешь в большом количестве, цена резко поднимается
+[09:12:57] Хищный анус: и продаешь пока не упала
+[09:13:02] vasiliy karat: потом я вижу постоянно что ты пересоздаешь фракцию и пытаешься так в�
+[09:13:12] vasiliy karat: воевать дальше
+[09:14:02] Виктор Тетерев: ну так баг против бага
+[09:14:06] vasiliy karat: понятно
+[09:14:09] vasiliy karat: баг против бага
+[09:14:12] vasiliy karat: множим баги
+[09:14:20] Виктор Тетерев: мне багом фракцию снесли
+[09:14:21] vasiliy karat: можно мне написать что они там багоюзят 
+[09:14:22] Виктор Тетерев: я его снес
+[09:14:30] Soldier_S.C.A.F: постройка разве баг!?
+[09:14:32] vasiliy karat: и мы бы решили вопрос
+[09:14:49] Soldier_S.C.A.F: фига блин логика конечно таки
+[09:14:51] Виктор Тетерев: я ничего не писал админам
+[09:14:57] Soldier_S.C.A.F: у построек масса под 50к
+[09:15:00] Виктор Тетерев: ну так кто первый меня багом сломал?
+[09:15:03] Soldier_S.C.A.F: поэтому так и вышло
+[09:15:17] Виктор Тетерев: тоесть точка под весом 50к ломается?
+[09:15:26] Виктор Тетерев: хотя сама весит около 200
+[09:15:30] Виктор Тетерев: но
+[09:15:37] Soldier_S.C.A.F: а ты скажи умник такой
+[09:15:39] Виктор Тетерев: от взрывов она не ломается
+[09:15:41] vasiliy karat: понимаешь эта историю вижу не в первый раз
+[09:16:57] Soldier_S.C.A.F: тем более
+[09:17:02] Soldier_S.C.A.F: как ты объяснишь с тем
+[09:17:09] Soldier_S.C.A.F: что у тебя было столько денег
+[09:17:15] Soldier_S.C.A.F: что ты даже танки покупал
+[09:17:26] Виктор Тетерев: ну так я кредит взял в чате видно
+[09:17:35] Soldier_S.C.A.F: для тебя*
+[09:17:41] Soldier_S.C.A.F: другие фракции
+[09:17:45] Soldier_S.C.A.F: не будут видеть
+[09:18:05] Soldier_S.C.A.F: да и кредитная система так себе
+[09:18:11] Soldier_S.C.A.F: потом всё дорого будет
+[09:18:34] Виктор Тетерев: я деньги вложил в ресы и отнес челу на горе
+[09:18:43] Виктор Тетерев: потом продал когда долги выросли
+[09:19:23] vasiliy karat: кароче все что я вижу что сильная фракция выгнала одиночку с урана пр
+[09:19:30] vasiliy karat: причем соседа ближнего
+[09:19:38] Виктор Тетерев: ещё что бы больше заработать
+[09:19:45] Виктор Тетерев: надо золото добывать
+[09:20:02] Виктор Тетерев: кинул золото продал оно упало закупил и продал то что закупил и добыл
+[09:20:15] Виктор Тетерев: оно падает на 30 единиц оттуда закупаешь
+[09:20:39] Виктор Тетерев: фракция то не сильная
+[09:20:42] Виктор Тетерев: он 1 в ней 
+[09:20:47] Виктор Тетерев: просто я без оружия
+[09:20:54] Виктор Тетерев: поэтому он меня и убил
+[09:21:01] Soldier_S.C.A.F: сила будет имется виду виде
+[09:21:11] Soldier_S.C.A.F: технологий.вооружения и т.д.
+[09:21:20] Soldier_S.C.A.F: так кстати тоже в жизни задействено
+[09:21:24] Виктор Тетерев: 1 пистолет?
+[09:21:33] vasiliy karat: так вы еще оба одиночки
+[09:21:38] vasiliy karat: и меня позвали чтобы 
+[09:21:39] vasiliy karat: кароче
+[09:21:42] Soldier_S.C.A.F: были*
+[09:21:47] vasiliy karat: забанить бы всех
+[09:22:57] Виктор Тетерев: а чо банить то всех
+[09:23:02] vasiliy karat: всех забанить
+[09:23:11] Soldier_S.C.A.F: ну блин
+[09:23:12] Виктор Тетерев: просто чуть чуть создатель не до глядел
+[09:23:16] Soldier_S.C.A.F: я то в отличии от него
+[09:23:20] Виктор Тетерев: и совершил оплошность 
+[09:23:22] Soldier_S.C.A.F: нормально играю
+[09:23:23] Soldier_S.C.A.F: чем он
+[09:23:30] Soldier_S.C.A.F: который редко играет
+[09:23:31] Виктор Тетерев: я спокойно уран добывал
+[09:23:38] vasiliy karat: виктор ты похоже не понимаешь про что сервак
+[09:23:44] Виктор Тетерев: мою базу багом сломали
+[09:23:47] Виктор Тетерев: нет я то понял
+[09:23:54] Виктор Тетерев: я 2 недели играю
+[09:24:04] Виктор Тетерев: я знаю что по фракциям и для чего они
+[09:24:09] Виктор Тетерев: но я то хотел сначала развиться
+[09:24:14] Soldier_S.C.A.F: нифига! логика....
+[09:24:16] Виктор Тетерев: а потом ролевые игры делать
+[09:24:27] vasiliy karat: у нас есть локальный прикол на этот счет понимаешь
+[09:24:28] Виктор Тетерев: я и дипломатию тут вел
+[09:24:35] Soldier_S.C.A.F: чувак
+[09:24:36] vasiliy karat: 20 минуточек на развитие потом рп
+[09:24:37] Soldier_S.C.A.F: ты влип
+[09:24:53] Виктор Тетерев: ну так 20 минут
+[09:25:00] Виктор Тетерев: мою базу сломали через 3
+[09:25:03] Виктор Тетерев: багом
+[09:25:08] Soldier_S.C.A.F: я уже за 7 минут
+[09:25:15] Виктор Тетерев: я либо должен был выйти
+[09:25:16] Soldier_S.C.A.F: имел контейнер с верстаком
+[09:25:18] Виктор Тетерев: либо отомстить
+[09:25:22] Виктор Тетерев: либо жб написать
+[09:25:25] Виктор Тетерев: а жб я не могу
+[09:25:32] Виктор Тетерев: обхода нету и демки
+[09:26:10] Виктор Тетерев: чел хотел сделать мирную больницу
+[09:26:16] Виктор Тетерев: но первое что он скрафтил пистолет
+[09:26:22] Виктор Тетерев: и подошел с ним ко мне
+[09:26:30] Soldier_S.C.A.F: потому что лез ко мне!
+[09:26:33] Виктор Тетерев: вот это я понимаю отыгровка
+[09:26:48] Soldier_S.C.A.F: ну вот представь
+[09:26:49] Client "finik" connected.
+[09:26:54] Soldier_S.C.A.F: к тебе бомж будет лезть
+[09:27:01] Виктор Тетерев: я к нему лез только по приколу что я сделал так это взял его сканер
+[09:27:05] Виктор Тетерев: и побегал перед ним
+[09:27:14] Soldier_S.C.A.F: по приколу просто так никто не играет чувак...
+[09:27:14] Виктор Тетерев: типо я вор
+[09:27:33] Виктор Тетерев: он видил что я без оружный тем более я сразу вернул ему его
+[09:27:39] Виктор Тетерев: и построился рядом с ним
+[09:27:50] Виктор Тетерев: он написал что бы я не смел рядом строится
+[09:28:18] Виктор Тетерев: Soldier_S.C.A.F: такSoldier_S.C.A.F: как думаешьSoldier_S.C.A.F: поступим по хорошемуSoldier_S.
+[09:28:31] Soldier_S.C.A.F: ты уже 7 раз это повторяешь
+[09:28:39] Виктор Тетерев: Soldier_S.C.A.F: ЭЙSoldier_S.C.A.F: вернулSoldier_S.C.A.F: УШЕЛ ОТСЮДА БЫСТРОSoldier_S.C.A.F: 5Soldier
+[09:28:44] Виктор Тетерев: это мирный врач?
+[09:28:47] Виктор Тетерев: как он сказал
+[09:28:59] Soldier_S.C.A.F: но к слову!
+[09:29:02] Хищный анус: supply radio: builder kit
+[09:29:05] Soldier_S.C.A.F: персонал может иметь оружие
+[09:29:15] Soldier_S.C.A.F: так что подумай дважды
+[09:29:17] Виктор Тетерев: где ты в больнице видел такое интересно
+[09:29:27] Soldier_S.C.A.F: охраники к примеру
+[09:29:34] Виктор Тетерев: ты буквально в форме врача чел
+[09:29:43] Soldier_S.C.A.F: ИЗ ХЛ2
+[09:29:46] Виктор Тетерев: подумать тебе надо дважды чем такое писать
+[09:30:06] Виктор Тетерев: я слушаю админ теперь ва
+[09:30:07] Виктор Тетерев: с
+[09:30:21] Виктор Тетерев: что да как
+[09:30:22] Client "finik" spawned in server <STEAM_0:1:876581716> (took 213 seconds).
+[09:30:36] Хищный анус: 800к уже
+[09:30:41] Виктор Тетерев: красава
+[09:30:59] vasiliy karat: кароче решим так 
+[09:31:00] Dropped "finik" from server<STEAM_0:1:876581716>
+[09:31:00] finik suicided!
+[09:31:01] Client "finik" connected.
+[09:31:05] Client "finik" connected.
+[09:31:09] vasiliy karat: !menu
+[09:31:15] Виктор Тетерев: !menu
+[09:32:06] Client "finik" spawned in server <STEAM_0:1:876581716> (took 61 seconds).
+[09:32:26] Виктор Тетерев: !menu
+[09:33:19] Client "🔰🅻🅴🆂🅰🅶🆁🔰" connected.
+[09:33:28] finik: здрасте?
+[09:33:35] finik: можно к вам?
+[09:33:47] finik: уважймые
+[09:33:52] vasiliy karat banned Виктор Тетерев permanently ( 20minrp)
+[09:33:52] Dropped "Виктор Тетерев" from server<STEAM_0:0:504265752>
+[09:33:52] Виктор Тетерев suicided!
+[09:33:58] vasiliy karat: а вам я скажу
+[09:34:00] finik: я хочу к вам присоединится
+[09:34:22] vasiliy karat: вот нельзя билд пропами
+[09:34:23] Хищный анус: скаф, принимать финика?
+[09:34:26] vasiliy karat: ломать говно
+[09:34:34] vasiliy karat: билд пропы не ломать а строить
+[09:34:44] vasiliy karat: а этот дурак уже давно фигней мается
+[09:34:53] Soldier_S.C.A.F: понял
+[09:34:58] Soldier_S.C.A.F: и спасибо за объяснение
+[09:35:02] Хищный анус: я ничего не понял, но за время вашего спора заработал 767к
+[09:35:04] vasiliy karat: позвали меня
+[09:35:07] Soldier_S.C.A.F: такого больше не будет
+[09:35:07] vasiliy karat: из за войны одиночек
+[09:35:13] vasiliy karat: за ресурсы
+[09:35:14] vasiliy karat: кароче
+[09:35:25] Soldier_S.C.A.F: ради одной залежи урана...
+[09:35:27] Soldier_S.C.A.F: боже
+[09:35:33] Soldier_S.C.A.F: я такой прикол с лета не видал
+[09:35:50] vasiliy karat: попробуйте на месте решить вопрос
+[09:35:53] vasiliy karat: а еще
+[09:36:17] vasiliy karat: ничего еще 
+[09:36:22] vasiliy karat: я пошел
+[09:36:24] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[09:36:24] vasiliy karat suicided!
+[09:36:39] Soldier_S.C.A.F: эх
+[09:36:44] Soldier_S.C.A.F: настолько геморно было
+[09:36:46] Хищный анус: скафик
+[09:36:48] Soldier_S.C.A.F: если честно
+[09:36:52] Хищный анус: как пользоваться мотором?
+[09:36:52] Soldier_S.C.A.F: ой
+[09:36:53] Хищный анус: бля
+[09:37:00] Soldier_S.C.A.F: я стал частью дерева :D
+[09:37:02] Хищный анус: дерева нет на топор
+[09:37:25] Soldier_S.C.A.F: все
+[09:37:26] Хищный анус: ну все..
+[09:37:28] Soldier_S.C.A.F: я ток могу пить
+[09:37:31] Soldier_S.C.A.F: :D
+[09:37:34] Хищный анус: ой
+[09:37:35] Хищный анус: бля
+[09:37:36] Soldier_S.C.A.F: ай
+[09:37:40] Хищный анус: я лес сломал весь
+[09:37:52] Soldier_S.C.A.F: хочешь прикол с пальмами
+[09:38:15] finik: !menu
+[09:38:21] Хищный анус: и че за прикол
+[09:38:23] Soldier_S.C.A.F: оу
+[09:38:32] Soldier_S.C.A.F: не уж то деревья сделали частью карты
+[09:38:49] Soldier_S.C.A.F: на ка!
+[09:38:49] Dropped "finik" from server<STEAM_0:1:876581716>
+[09:38:49] finik suicided!
+[09:38:54] Soldier_S.C.A.F: бейсиков надо
+[09:39:24] Хищный анус: че ты делаешь..
+[09:39:25] Soldier_S.C.A.F: действительно
+[09:39:29] Soldier_S.C.A.F: эти деревья
+[09:39:32] Хищный анус: пофиксили баг какой-то?
+[09:39:33] Soldier_S.C.A.F: стали частью карты
+[09:39:35] Soldier_S.C.A.F: ну
+[09:39:41] Soldier_S.C.A.F: они раньше динамическими были
+[09:39:45] Client "🔰🅻🅴🆂🅰🅶🆁🔰" spawned in server <STEAM_0:0:522556809> (took 386 seconds).
+[09:39:50] Soldier_S.C.A.F: теперь к карте относятся
+[09:40:14] Soldier_S.C.A.F: лол
+[09:40:18] Хищный анус: ахахахаа
+[09:40:18] Soldier_S.C.A.F: то дерево упоковал
+[09:40:22] Client "finik" connected.
+[09:40:23] Хищный анус: сап
+[09:40:35] Soldier_S.C.A.F: хм
+[09:40:38] Soldier_S.C.A.F: датапаки
+[09:40:45] Soldier_S.C.A.F: так блин!
+[09:40:50] Хищный анус: а как ты
+[09:40:50] Soldier_S.C.A.F: этот уран я сам нашёл
+[09:40:52] Хищный анус: их на себя надел
+[09:40:54] Soldier_S.C.A.F: а ещё
+[09:40:58] Soldier_S.C.A.F: у нас разборка была
+[09:41:03] Client "finik" spawned in server <STEAM_0:1:876581716> (took 41 seconds).
+[09:41:06] Soldier_S.C.A.F: иза урана сука...
+[09:41:17] Soldier_S.C.A.F: XD
+[09:41:18] Хищный анус: разупаковка дерева
+[09:41:26] Хищный анус: вон тот танк
+[09:41:41] Soldier_S.C.A.F: XD
+[09:41:43] Soldier_S.C.A.F: ЕБАТЬ
+[09:41:44] Хищный анус: скаф
+[09:41:47] Хищный анус: ЕБТАЬ
+[09:41:48] Soldier_S.C.A.F: Я РЕСУРС УПОКОВАЛ!!!!
+[09:41:56] Хищный анус: и танку ваще похуй
+[09:42:24] Soldier_S.C.A.F: эх
+[09:42:27] Soldier_S.C.A.F: я пойду тогда
+[09:42:33] finik: r dfv vj;yj&
+[09:42:36] Хищный анус: гойда
+[09:42:37] Soldier_S.C.A.F: финик
+[09:42:40] finik: к вам можно?
+[09:42:49] Soldier_S.C.A.F: все
+[09:42:56] Soldier_S.C.A.F: я пошёл ловить инсульт жопы
+[09:43:28] Soldier_S.C.A.F: о нет
+[09:43:29] Soldier_S.C.A.F: я тону
+[09:43:39] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[09:43:39] Soldier_S.C.A.F suicided!
+[09:43:48] krilz: supply radio: detpacks
+[09:44:58] finik: верстаком можно вспользоватся?
+[09:48:19] krilz killed 🔰🅻🅴🆂🅰🅶🆁🔰 using tfa_doippk
+[09:51:33] Хищный анус: финик
+[09:51:39] Хищный анус: готов узреть новые технологии?
+[09:52:25] Хищный анус: не хотел я давить
+[09:52:30] Хищный анус: я тестил моторы
+[09:52:38] Хищный анус: дерево..
+[09:53:17] Хищный анус: садись
+[09:53:28] Хищный анус: ОНА САМА ЕДЕТ
+[09:54:10] finik was killed by ent_jack_gmod_ezmedkit
+[09:54:35] Хищный анус: да
+[09:54:37] Хищный анус: ну как
+[09:54:41] Хищный анус: незнакомец, но с моего отряда
+[09:54:49] Хищный анус: давай тебе нацепим 300 моторов
+[09:54:56] Хищный анус: почему
+[09:54:58] Хищный анус: давай давай
+[09:55:07] Хищный анус: да похуй
+[09:55:08] Хищный анус: нет
+[09:55:49] Хищный анус: логисты
+[09:55:58] Хищный анус: ништяк
+[09:55:59] Dropped "🔰🅻🅴🆂🅰🅶🆁🔰" from server<STEAM_0:0:522556809>
+[09:55:59] 🔰🅻🅴🆂🅰🅶🆁🔰 suicided!
+[09:56:01] Dropped "krilz" from server<STEAM_0:1:89998932>
+[09:56:01] krilz suicided!
+[09:56:02] Хищный анус: у меня 812к теперь
+[09:57:44] Хищный анус: надо все сюда
+[09:58:30] Хищный анус: сейчас мы будем тестировать
+[09:58:32] Хищный анус: кое что
+[09:58:40] finik: броне пластины?
+[09:58:49] Хищный анус: нет
+[09:58:51] Хищный анус: механику
+[09:59:16] Хищный анус: так
+[09:59:21] Хищный анус: где керамика
+[10:01:26] Хищный анус: физган есть у тебя?
+[10:01:29] Хищный анус: бля ща приду
+[10:01:37] finik: нету
+[10:02:40] Client "3BEZDA" connected.
+[10:02:47] finik: нету физгана
+[10:02:49] Client "GreenPixel11" connected.
+[10:03:39] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 50 seconds).
+[10:06:30] finik: как башню починить?
+[10:08:39] finik: во
+[10:10:33] finik: я поехал кашмарить
+[10:15:44] Client "Штурмовик" connected.
+[10:16:30] Client "Штурмовик" spawned in server <STEAM_0:1:62314930> (took 46 seconds).
+[10:16:48] finik: лифт?
+[10:19:11] finik: пострелять решил
+[10:19:18] finik: не по тебе
+[10:19:24] finik: в скваде
+[10:22:38] Хищный анус: меня слышно?
+[10:22:44] Хищный анус: пиздец
+[10:23:03] Хищный анус: нефть качает
+[10:23:28] Dropped "Штурмовик" from server<STEAM_0:1:62314930>
+[10:23:28] Штурмовик suicided!
+[10:26:35] Dropped "finik" from server<STEAM_0:1:876581716>
+[10:26:35] finik suicided!
+[10:38:28] Client "Майор Гойда" connected.
+[10:38:29] Client "Майор Гойда" connected.
+[10:40:15] Client "Майор Гойда" connected.
+[10:44:00] Client "Майор Гойда" connected.
+[10:49:08] Dropped "Хищный анус" from server<STEAM_0:1:125235601>
+[10:49:08] Хищный анус suicided!
+[10:54:39] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[10:54:39] GreenPixel11 suicided!
+[11:09:47] Client "Egorik" connected.
+[11:11:20] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 93 seconds).
+[11:26:35] Egorik was killed by entityflame
+[12:02:07] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[12:02:07] Egorik suicided!
+[12:57:57] Client "Майор Гойда" connected.
+[12:59:05] Client "Майор Гойда" spawned in server <STEAM_0:1:73980364> (took 68 seconds).
+[12:59:46] Dropped "Майор Гойда" from server<STEAM_0:1:73980364>
+[12:59:46] Майор Гойда suicided!
+[13:45:59] Client "Redoket" connected.
+[13:46:41] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 42 seconds).
+[13:47:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:47:45] Redoket killed Redoket
+[13:48:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:48:03] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:48:26] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:48:27] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezrocketmotor
+[13:48:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:48:52] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezrocketmotor
+[13:49:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezrocketmotor
+[13:49:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:49:53] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:50:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:50:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:50:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:50:17] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:50:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:50:21] Redoket killed Redoket
+[13:50:27] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:50:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:50:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[13:51:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:14] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:14] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:14] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:14] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:18] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:51:24] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsatchelcharge
+[13:51:57] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsatchelcharge
+[13:52:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:52:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:52:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:52:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:52:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:52:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:52:17] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpowderkeg
+[13:52:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfirenade
+[13:52:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[13:53:03] Redoket was killed by ent_jack_gmod_ezfalloutparticle
+[13:56:52] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[14:01:03] Redoket: !menu
+[14:01:19] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[14:01:19] Redoket suicided!
+[15:01:27] Client "RusLanConnection" connected.
+[15:03:24] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 117 seconds).
+[15:04:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[15:07:03] Client "MARUSYA" connected.
+[15:15:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[15:16:50] Client "maksumkolesnukov022" connected.
+[15:17:36] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 46 seconds).
+[15:17:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[15:18:33] RusLanConnection killed maksumkolesnukov022 using tfa_doim1911
+[15:18:58] maksumkolesnukov022 to admins: админ тут ситуация без войны надают
+[15:20:27] maksumkolesnukov022: надо чёт сделать с этими т0 оружиями
+[15:20:31] maksumkolesnukov022: тупыми
+[15:20:42] maksumkolesnukov022: по карте нубы делают валяются
+[15:20:51] maksumkolesnukov022: мусорят
+[15:20:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammobox_bppc
+[15:21:37] maksumkolesnukov022 killed RusLanConnection using tfa_doimp40
+[15:21:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezarmorplate_small
+[15:22:36] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[15:23:02] RusLanConnection killed maksumkolesnukov022 using lvs_m4_mow
+[15:23:21] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_t60
+[15:24:12] RusLanConnection killed maksumkolesnukov022 using lvs_t60
+[15:25:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[15:29:36] maksumkolesnukov022 killed RusLanConnection using tfa_verdun_tankgewehr
+[15:33:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[15:33:40] RusLanConnection banned maksumkolesnukov022 for 1 hour (Griefer)
+[15:33:40] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[15:33:40] maksumkolesnukov022 suicided!
+[15:33:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[15:35:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[15:36:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[15:43:48] Client "Redoket" connected.
+[15:44:35] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 47 seconds).
+[15:44:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[15:44:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[15:44:54] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[15:44:59] Redoket killed Redoket
+[15:45:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[15:45:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[15:46:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[15:46:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[15:50:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[15:50:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[15:51:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_ushead
+[15:51:19] RusLanConnection was killed by ent_aboot_jsmod_ezcrate_fulton
+[15:52:33] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[15:52:33] RusLanConnection suicided!
+[16:11:05] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[16:11:05] Redoket suicided!
+[23:39:07] Client "Egorik" connected.
+<Logging continued in "data/ulx_logs/09-16-25.txt">

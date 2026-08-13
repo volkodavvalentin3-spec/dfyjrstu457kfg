@@ -1,0 +1,3488 @@
+[04:50:17] New map: gm_sro
+
+
+
+[04:56:01] New map: gm_sro
+[04:56:36] Client "RusLanConnection" connected.
+
+
+
+[04:58:35] New map: gm_sro
+[04:58:42] Client "RusLanConnection" connected.
+[04:59:47] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 65 seconds).
+[05:00:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[05:00:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[05:01:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[05:01:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amr
+[05:01:48] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[05:01:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[05:02:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[05:02:22] RusLanConnection was killed by joes_sam_turret_lvs
+[05:02:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[05:02:36] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[05:03:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[05:03:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+
+
+
+[05:06:48] New map: gm_sro
+[05:07:13] Client "RusLanConnection" connected.
+[05:07:15] Client "RusLanConnection" connected.
+[05:07:34] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 19 seconds).
+[05:08:05] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[05:08:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[05:08:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[05:08:49] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[05:13:40] Server is shutting down/changing levels.
+
+
+
+[05:15:20] New map: gm_sro
+
+
+
+[05:20:12] New map: gm_whiten
+[05:20:33] Client "RusLanConnection" connected.
+[05:20:54] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 21 seconds).
+[05:21:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[05:22:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[05:23:37] Client "Javelin/NLAW" connected.
+[05:24:41] Client "good morning suka" connected.
+[05:25:20] Client "Rackman" connected.
+[05:25:48] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 28 seconds).
+[05:26:23] Client "LonePlayer022" connected.
+[05:27:05] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 42 seconds).
+[05:27:36] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[05:27:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[05:27:55] Client "LonePlayer022" connected.
+[05:27:57] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[05:27:58] Client "Rackman" connected.
+[05:28:10] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 15 seconds).
+[05:28:13] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 15 seconds).
+[05:28:30] Client "good morning suka" spawned in server <STEAM_0:1:640583108> (took 229 seconds).
+[05:29:06] Client "SSeregaN" connected.
+[05:29:09] LonePlayer022: bruh
+[05:29:14] good morning suka: руслан
+[05:29:24] good morning suka: Я на сингле не проверял
+[05:29:37] good morning suka: А можно сломать вон те деревья и флаг?
+[05:29:48] Client "SSeregaN" spawned in server <STEAM_0:1:172655048> (took 42 seconds).
+[05:29:49] Client "Javelin/NLAW" connected.
+[05:30:07] good morning suka: `
+[05:30:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[05:30:12] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[05:30:28] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[05:30:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[05:30:31] LonePlayer022: /s В какой градус бежать?
+[05:30:33] Client "M4TV" connected.
+[05:31:10] Client "Javelin/NLAW" spawned in server <STEAM_0:0:195821096> (took 81 seconds).
+[05:31:27] Client "M4TV" spawned in server <STEAM_0:1:558724298> (took 54 seconds).
+[05:33:04] good morning suka: playermodel_selectot
+[05:33:16] Javelin/NLAW: -playermodel_selectot
+[05:33:31] good morning suka: cигма
+[05:33:45] good morning suka: не
+[05:33:47] Dropped "Javelin/NLAW" from server<STEAM_0:0:195821096>
+[05:33:49] Client "Hofbräu_" connected.
+[05:34:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[05:34:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[05:34:09] good morning suka: неплох
+[05:34:39] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[05:34:39] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[05:34:44] good morning suka: что?
+[05:34:46] Client "Javelin/NLAW" connected.
+[05:35:10] Client "Javelin/NLAW" spawned in server <STEAM_0:0:195821096> (took 24 seconds).
+[05:35:42] Client "Hofbräu_" spawned in server <STEAM_0:1:589191153> (took 113 seconds).
+[05:36:08] Rackman brought LonePlayer022
+[05:36:08] Rackman: !bring LonePlayer022
+[05:36:32] good morning suka: мне перезайти нужно
+[05:36:40] Dropped "good morning suka" from server<STEAM_0:1:640583108>
+[05:36:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezshovel
+[05:37:25] Javelin/NLAW: Минетка
+[05:37:56] Javelin/NLAW: )
+[05:38:06] Client "who" connected.
+[05:38:33] Client "who" spawned in server <STEAM_0:1:850601274> (took 27 seconds).
+[05:38:52] who: `
+[05:40:36] LonePlayer022: Чо здесь будет?
+[05:40:47] LonePlayer022: Просто фундаминт?
+[05:40:51] who: ОНО ЧТО ТО ЗАПОДОЗРЕЛО
+[05:41:03] Javelin/NLAW: Ещкере
+[05:41:14] LonePlayer022: Рак
+[05:41:38] M4TV killed who using wep_jack_gmod_ezaxe
+[05:41:42] M4TV killed Javelin/NLAW using wep_jack_gmod_ezaxe
+[05:42:14] LonePlayer022: :/
+[05:42:29] LonePlayer022: Планировщик от бога, ну ладно
+[05:42:43] who: Это я
+[05:42:59] who: тебе ещё нужна помощь?
+[05:44:40] Client ".pinkman" connected.
+[05:45:38] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[05:45:38] Dropped "Javelin/NLAW" from server<STEAM_0:0:195821096>
+[05:45:38] Dropped "SSeregaN" from server<STEAM_0:1:172655048>
+[05:46:19] Client "LonePlayer022" connected.
+[05:46:19] Client "Javelin/NLAW" connected.
+[05:46:21] Client "SSeregaN" connected.
+[05:46:35] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 16 seconds).
+[05:46:36] Client "SSeregaN" spawned in server <STEAM_0:1:172655048> (took 15 seconds).
+[05:46:42] Client "Javelin/NLAW" spawned in server <STEAM_0:0:195821096> (took 23 seconds).
+[05:47:01] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[05:47:02] Client "Rackman" connected.
+[05:47:19] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 17 seconds).
+[05:47:40] Client "LeOS" connected.
+[05:48:01] Rackman killed SSeregaN using wep_jack_gmod_ezaxe
+[05:48:26] Rackman: !menu
+[05:49:05] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[05:49:30] Client "LonePlayer022" connected.
+[05:49:35] who: привет
+[05:49:43] Client "LeOS" spawned in server <STEAM_0:0:98544853> (took 123 seconds).
+[05:49:47] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 17 seconds).
+[05:51:00] Rackman: supply radio: drill
+[05:51:11] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezaidradio
+[05:51:13] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[05:51:31] LeOS: motd
+[05:51:32] SSeregaN: !motd
+[05:51:33] LeOS: !motd
+[05:51:38] SSeregaN: !motd
+[05:51:47] SSeregaN: bind кнопка jmod_ez_inv
+[05:51:57] SSeregaN:  !motd
+[05:51:59] SSeregaN: !motd
+[05:52:48] LeOS: https://steamcommunity.com/sharedfiles/filedetails/?id=3377797407
+[05:53:06] LeOS: !voice (в чат)
+[05:53:08] LeOS: !voice 
+[05:53:34] SSeregaN: sfdf\
+[05:53:39] LeOS: asdasda
+[05:53:43] LeOS: lol
+[05:53:47] LeOS: LOL
+[05:53:53] LeOS: кек
+[05:54:01] LeOS: пиздец нахуй блеать
+[05:54:22] LeOS: asdasdas
+[05:54:32] LeOS: asdasd
+[05:54:44] LeOS: asdasd
+[05:54:50] LeOS: я и бл
+[05:54:52] LeOS: я и бал
+[05:55:05] LeOS: jmod_ez_inv 
+[05:56:22] SSeregaN: bind кнопка jmod_ez_inv
+[05:57:13] SSeregaN: !motd
+[05:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[05:59:02] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[05:59:23] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:00:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:00:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:00:57] RusLanConnection was killed by joes_sam_turret_lvs
+[06:01:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:01:44] RusLanConnection granted god mode upon Themself
+[06:02:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:02:55] Client "дядя-шофер" connected.
+[06:03:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:03:58] LonePlayer022 killed Javelin/NLAW using wep_jack_gmod_ezaxe
+[06:04:05] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:04:06] Client "дядя-шофер" spawned in server <STEAM_0:0:585511652> (took 71 seconds).
+[06:04:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:04:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:04:48] who killed LonePlayer022 using wep_jack_gmod_flintlockmusket
+[06:05:14] дядя-шофер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:05:54] Client "PTSR Instructor" connected.
+[06:06:06] LonePlayer022 killed Javelin/NLAW using wep_jack_gmod_flintlockmusket
+[06:07:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+
+
+
+[06:07:33] New map: gm_whiten
+[06:07:48] Client "RusLanConnection" connected.
+[06:07:55] Client "SSeregaN" connected.
+[06:08:08] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 20 seconds).
+[06:08:12] Client "SSeregaN" spawned in server <STEAM_0:1:172655048> (took 17 seconds).
+[06:08:33] Client "LeOS" connected.
+[06:08:50] Client "LeOS" spawned in server <STEAM_0:0:98544853> (took 17 seconds).
+[06:09:05] Client "Rackman" connected.
+[06:09:16] Client "василий каратаев" connected.
+[06:09:22] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[06:09:23] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 18 seconds).
+[06:09:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+
+
+
+[06:09:53] New map: gm_whiten
+[06:09:59] Client "RusLanConnection" connected.
+[06:10:04] Client "SSeregaN" connected.
+[06:10:20] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 21 seconds).
+[06:10:20] Client "SSeregaN" spawned in server <STEAM_0:1:172655048> (took 16 seconds).
+[06:10:26] Client "Rackman" connected.
+[06:10:44] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 18 seconds).
+[06:10:52] Client "Mr_Pyro" connected.
+[06:10:59] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[06:11:02] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:12:11] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 79 seconds).
+[06:12:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:12:39] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:12:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:12:48] Client "LonePlayer022" connected.
+[06:13:04] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 16 seconds).
+[06:13:20] Client "Javelin/NLAW" connected.
+[06:13:46] Client "Javelin/NLAW" spawned in server <STEAM_0:0:195821096> (took 26 seconds).
+[06:14:32] Client "who" connected.
+[06:14:39] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:14:53] Client "who" spawned in server <STEAM_0:1:850601274> (took 21 seconds).
+[06:15:01] RusLanConnection was killed by joes_sam_turret_lvs
+[06:15:38] Client "василий каратаев" connected.
+[06:16:08] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 30 seconds).
+[06:16:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:17:06] василий каратаев: УРА
+[06:17:14] василий каратаев: ОПЯТ ВСЕ ТТЕЖЕЛО
+[06:17:22] RusLanConnection was killed by joes_sam_turret_lvs
+[06:17:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:17:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:18:07] Client "LENusiiK" connected.
+[06:18:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:19:29] Client "дядя-шофер" connected.
+[06:19:29] Client "PTSR Instructor" connected.
+[06:19:31] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[06:19:47] Client "дядя-шофер" spawned in server <STEAM_0:0:585511652> (took 18 seconds).
+[06:20:08] Client "PTSR Instructor" spawned in server <STEAM_0:1:546487121> (took 39 seconds).
+[06:20:24] Client "LENusiiK" spawned in server <STEAM_0:0:187688358> (took 137 seconds).
+[06:20:32] Rackman brought LonePlayer022
+[06:20:32] Rackman: !bring LonePlayer022
+[06:21:16] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[06:22:48] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:23:04] Rackman: Ало
+[06:23:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:23:39] RusLanConnection was killed by joes_sam_turret_lvs
+[06:23:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:24:03] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[06:24:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:24:26] RusLanConnection was killed by joes_sam_turret_lvs
+[06:24:42] RusLanConnection granted god mode upon Themself
+[06:24:43] RusLanConnection granted god mode upon Themself
+[06:24:52] RusLanConnection cloaked Themself by amount 0
+[06:26:50] Client "[C4]кружка" connected.
+[06:26:57] Client "beliashالله أكبر" connected.
+[06:27:24] RusLanConnection granted god mode upon Themself
+[06:27:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:27:39] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:28:14] Client "[C4]кружка" spawned in server <STEAM_0:1:103795725> (took 84 seconds).
+[06:28:23] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[06:28:27] Client "beliashالله أكبر" spawned in server <STEAM_0:0:822301453> (took 90 seconds).
+[06:29:10] [C4]кружка: !menu
+[06:29:32] [C4]кружка to Rackman: теперь самое веселое, найти вас
+[06:29:43] Rackman: !menu
+[06:29:52] Client "Mr_Pyro" connected.
+[06:29:58] Rackman to [C4]кружка: Восток, N
+[06:30:25] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 33 seconds).
+[06:30:57] Rackman: !menu
+[06:31:04] Rackman to [C4]кружка: Умри, поставил спавн
+[06:31:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[06:31:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[06:31:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[06:32:12] who was killed by ent_jack_aidbox
+[06:32:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_backpack
+[06:33:34] Client ".pinkman" connected.
+[06:33:35] Dropped "Javelin/NLAW" from server<STEAM_0:0:195821096>
+[06:33:48] Dropped "who" from server<STEAM_0:1:850601274>
+[06:34:12] Client ".pinkman" spawned in server <STEAM_0:0:241804584> (took 38 seconds).
+[06:34:19] Client "NotWinner" connected.
+[06:34:26] Rackman: !menu
+[06:34:46] Rackman to Mr_Pyro: Короче, у нас 2 базы, если хочешь на мою, то умри и на спавн
+[06:34:47] Client "NotWinner" spawned in server <STEAM_0:1:235165473> (took 28 seconds).
+[06:35:34] Mr_Pyro: !s Rackman ок
+[06:37:24] beliashالله أكبر killed Mr_Pyro using wep_aboot_jmod_annabelle
+[06:37:34] Client "patrickkane1997" connected.
+[06:39:02] Client "Chupacabr" connected.
+[06:39:20] Client "patrickkane1997" spawned in server <STEAM_0:0:444745902> (took 106 seconds).
+[06:39:35] patrickkane1997: !ulx
+[06:39:42] patrickkane1997: !menu
+[06:40:02] RusLanConnection revoked access "ulx psay" to group user
+[06:40:17] LonePlayer022: /s алё
+[06:40:25] Client "МАНДАРИН" connected.
+[06:40:26] RusLanConnection teleported to василий каратаев
+[06:40:27] RusLanConnection teleported to василий каратаев
+[06:40:28] RusLanConnection teleported to василий каратаев
+[06:40:28] RusLanConnection teleported to василий каратаев
+[06:40:29] RusLanConnection teleported to василий каратаев
+[06:40:29] RusLanConnection teleported to василий каратаев
+[06:40:30] RusLanConnection teleported to василий каратаев
+[06:40:30] RusLanConnection teleported to василий каратаев
+[06:40:30] RusLanConnection teleported to василий каратаев
+[06:40:30] RusLanConnection teleported to василий каратаев
+[06:40:31] RusLanConnection teleported to василий каратаев
+[06:40:31] RusLanConnection teleported to василий каратаев
+[06:40:31] RusLanConnection teleported to василий каратаев
+[06:40:32] RusLanConnection teleported to василий каратаев
+[06:40:32] RusLanConnection teleported to василий каратаев
+[06:40:32] RusLanConnection teleported to василий каратаев
+[06:40:32] RusLanConnection teleported to василий каратаев
+[06:40:33] RusLanConnection teleported to василий каратаев
+[06:40:33] RusLanConnection teleported to василий каратаев
+[06:40:33] RusLanConnection teleported to василий каратаев
+[06:40:34] RusLanConnection teleported to василий каратаев
+[06:40:34] RusLanConnection teleported to василий каратаев
+[06:40:34] RusLanConnection teleported to василий каратаев
+[06:40:34] RusLanConnection teleported to василий каратаев
+[06:40:35] RusLanConnection teleported to василий каратаев
+[06:40:35] RusLanConnection teleported to василий каратаев
+[06:40:36] RusLanConnection teleported to василий каратаев
+[06:40:36] RusLanConnection teleported to василий каратаев
+[06:40:36] RusLanConnection teleported to василий каратаев
+[06:40:37] RusLanConnection teleported to василий каратаев
+[06:40:37] RusLanConnection teleported to василий каратаев
+[06:40:37] RusLanConnection teleported to василий каратаев
+[06:40:38] RusLanConnection teleported to василий каратаев
+[06:40:38] RusLanConnection teleported to василий каратаев
+[06:40:38] RusLanConnection teleported to василий каратаев
+[06:40:38] RusLanConnection teleported to василий каратаев
+[06:40:39] RusLanConnection teleported to василий каратаев
+[06:40:39] RusLanConnection teleported to василий каратаев
+[06:40:40] RusLanConnection teleported to василий каратаев
+[06:40:40] RusLanConnection teleported to василий каратаев
+[06:40:41] RusLanConnection teleported to василий каратаев
+[06:40:41] RusLanConnection teleported to василий каратаев
+[06:40:41] RusLanConnection teleported to василий каратаев
+[06:40:42] RusLanConnection teleported to василий каратаев
+[06:40:42] RusLanConnection teleported to василий каратаев
+[06:40:42] RusLanConnection teleported to василий каратаев
+[06:40:42] RusLanConnection teleported to василий каратаев
+[06:40:43] RusLanConnection teleported to василий каратаев
+[06:40:43] RusLanConnection teleported to василий каратаев
+[06:40:43] RusLanConnection teleported to василий каратаев
+[06:40:44] RusLanConnection teleported to василий каратаев
+[06:40:44] RusLanConnection teleported to василий каратаев
+[06:40:44] RusLanConnection teleported to василий каратаев
+[06:40:45] RusLanConnection teleported to василий каратаев
+[06:40:45] RusLanConnection teleported to василий каратаев
+[06:40:45] RusLanConnection teleported to василий каратаев
+[06:40:45] RusLanConnection teleported to василий каратаев
+[06:40:45] дядя-шофер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:40:45] RusLanConnection teleported to василий каратаев
+[06:40:46] RusLanConnection teleported to василий каратаев
+[06:40:46] RusLanConnection teleported to василий каратаев
+[06:40:46] RusLanConnection teleported to василий каратаев
+[06:40:46] RusLanConnection teleported to василий каратаев
+[06:40:47] RusLanConnection teleported to василий каратаев
+[06:40:47] RusLanConnection teleported to василий каратаев
+[06:41:21] RusLanConnection banned василий каратаев permanently (говно)
+[06:42:37] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 215 seconds).
+[06:44:29] patrickkane1997 to admins: гайс я верстак скрафтил но я им пользоваться даже не могу
+[06:44:36] Rackman: !menu
+[06:44:38] RusLanConnection teleported to patrickkane1997
+[06:44:45] patrickkane1997: не мое
+[06:44:57] patrickkane1997: деревом?
+[06:45:13] patrickkane1997: lf
+[06:45:15] patrickkane1997: да
+[06:45:20] patrickkane1997: все работает
+[06:45:29] patrickkane1997: спасибо
+[06:46:42] Client "МАНДАРИН" spawned in server <STEAM_0:1:859767205> (took 377 seconds).
+[06:48:15] [C4]кружка: и как обычно место рождения алмазов посреди угля
+[06:48:31] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:33] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:34] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:34] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:34] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:34] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:34] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:35] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:35] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:35] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:35] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:35] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:35] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:36] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:36] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:36] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:36] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:36] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:36] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:36] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:37] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:37] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:48:37] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:49:15] дядя-шофер killed МАНДАРИН using wep_aboot_jmod_annabelle
+[06:50:16] МАНДАРИН: обосрался
+[06:50:39] МАНДАРИН: тебя плохо слышно
+[06:51:01] МАНДАРИН: я только зашел, хз чо тут делаать
+[06:51:09] дядя-шофер: [eq
+[06:51:12] дядя-шофер: хуй
+[06:51:37] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsolargenerator
+[06:51:41] МАНДАРИН: бля
+[06:52:24] LonePlayer022 was killed by ent_jack_gmod_ezpumpjack
+[06:54:50] МАНДАРИН: а?
+[06:54:57] LonePlayer022: Фракция
+[06:55:00] LonePlayer022: Ну сквад
+[06:55:07] МАНДАРИН: я только зашел, ниче не знаю
+[06:55:16] МАНДАРИН: да
+[06:55:21] МАНДАРИН: новенький
+[06:55:34] LonePlayer022: База
+[06:56:41] МАНДАРИН: я хз что тут делать
+[06:56:51] МАНДАРИН: хочу с кем то поиграть
+[06:57:12] LonePlayer022: !motd
+[06:57:21] МАНДАРИН: !motd
+[06:58:03] МАНДАРИН: !motd
+[06:58:14] МАНДАРИН: jmod_ez_inv
+[06:58:25] МАНДАРИН: !jmod_ez_inv
+[06:58:43] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[06:58:50] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[06:58:58] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[06:58:59] Client "Heartless" connected.
+[06:59:05] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwarmine
+[06:59:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[06:59:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[06:59:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[07:00:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[07:00:09] МАНДАРИН: почему?
+[07:00:19] МАНДАРИН: я не знаю что здесь делать одному
+[07:00:27] [C4]кружка: ровно 80
+[07:00:37] МАНДАРИН: ок, спасибо(
+[07:00:54] [C4]кружка: .
+[07:01:00] Rackman: !voirce korps
+[07:01:19] Mr_Pyro: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:01:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[07:01:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[07:01:22] [C4]кружка: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:02:03] МАНДАРИН: нет
+[07:02:07] МАНДАРИН: я умераю
+[07:02:36] МАНДАРИН: !motd
+[07:03:41] василий каратаев: О УРА
+[07:03:51] Client "Redoket" connected.
+[07:04:01] Chupacabr: странник
+[07:04:06] Chupacabr: мимо проходящмй
+[07:04:23] (TEAM) SSeregaN: ЗАБОР СНЕСЛИ
+[07:04:27] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 36 seconds).
+[07:04:27] (TEAM) SSeregaN: ПО МНЕ ХЕРАЧАТ
+[07:05:27] Redoket: !menu
+[07:05:31] Redoket teleported to Rackman
+[07:06:06] Rackman: У нас 2 базы
+[07:06:10] Rackman: Эта защищенная
+[07:06:13] Rackman: И вторая богатая
+[07:06:19] Rackman: Ты можешь пойти на вторую или тут быть
+[07:06:24] Rackman: У нас тут нихуя нет
+[07:06:27] Rackman: Кроме тсла
+[07:06:28] Rackman: стали
+[07:06:35] Rackman: Иди к богатой
+[07:06:39] Rackman: Градус 135
+[07:06:49] Rackman: !goto LonePlayer022
+[07:06:51] василий каратаев: МЕНЯ ПРИКРЕПИИЛИ СЮДА
+[07:06:53] Rackman teleported to LonePlayer022
+[07:06:53] Rackman: !goto LonePlayer022
+[07:07:02] Rackman teleported to Redoket
+[07:07:02] Rackman: !goto Redoket
+[07:07:25] RusLanConnection: !VOICE
+[07:09:01] василий каратаев: YTPYF
+[07:11:16] RusLanConnection teleported to василий каратаев
+[07:11:22] василий каратаев: 600 МЕДКИТОВ
+[07:11:34] василий каратаев: ОКЕЙ
+[07:12:08] (TEAM) SSeregaN: обратно идите
+[07:14:20] МАНДАРИН: я вообще не ебу как здесь че делать
+[07:14:32] дядя-шофер killed patrickkane1997 using wep_jack_gmod_sniperrifle
+[07:14:58] МАНДАРИН: в соло пиздец
+[07:15:04] дядя-шофер: заминируй всех
+[07:15:06] МАНДАРИН: спасибо за инфу
+[07:15:24] Client "𝙁𝙧𝙚𝙣𝙘𝙝𝙢𝙖" connected.
+[07:15:46] дядя-шофер: а я прицельо ебашил
+[07:16:22] RusLanConnection teleported to Rackman
+[07:16:28] Dropped "МАНДАРИН" from server<STEAM_0:1:859767205>
+[07:16:34] Client "МАНДАРИН" connected.
+[07:16:59] Client "МАНДАРИН" spawned in server <STEAM_0:1:859767205> (took 25 seconds).
+[07:18:27] RusLanConnection teleported to .pinkman
+[07:19:07] василий каратаев: ПРИЕМ
+[07:19:08] василий каратаев: ПРИЕМ
+[07:19:09] василий каратаев: ПРИЕМ
+[07:19:12] василий каратаев: ПРИЕМ
+[07:19:17] василий каратаев: ИДЕТ КТОТО
+[07:19:30] МАНДАРИН: бля
+[07:19:49] МАНДАРИН: ни кто не хочкт меня в пати
+[07:21:01] LonePlayer022 killed МАНДАРИН using wep_jack_gmod_flintlockmusket
+[07:21:12] beliashالله أكبر: !pchat
+[07:21:16] RusLanConnection teleported to Rackman
+[07:21:32] beliashالله أكبر: !pchat мы нашли золт
+[07:22:52] МАНДАРИН: к
+[07:23:05] Client "Pomidor4ik" connected.
+[07:23:22] василий каратаев: ПРИЕМ
+[07:23:23] василий каратаев: ПРИМЕ
+[07:23:24] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:23:32] Client "Mr. Point" connected.
+[07:23:39] МАНДАРИН: y
+[07:23:40] василий каратаев: АЛЕ
+[07:23:43] василий каратаев: АЛЕ
+[07:23:50] василий каратаев: Я МОГУ
+[07:23:54] RusLanConnection teleported to Rackman
+[07:24:06] василий каратаев: ОКЕЙ
+[07:24:10] василий каратаев: ВАМ ПРИВЕЗТИ
+[07:24:12] василий каратаев: ТОПЛИВО?
+[07:24:12] МАНДАРИН: y
+[07:25:14] NotWinner: Чё тебе
+[07:25:15] МАНДАРИН: привет
+[07:25:16] Client "M4TV" connected.
+[07:25:32] (TEAM) LENusiiK: мы нашли уголь и базу пинкмана
+[07:25:39] МАНДАРИН: я зашел на сервер, 2 клана не хочет со мной играть, я в душе не ебу чё ту
+[07:25:46] NotWinner: ну гайд посмотри
+[07:25:49] Client "M4TV" spawned in server <STEAM_0:1:558724298> (took 33 seconds).
+[07:25:49] LENusiiK: машине пизда не едет как жафриженая
+[07:25:53] МАНДАРИН: в соло бля
+[07:25:58] NotWinner: Так я в соло
+[07:25:58] (TEAM) LENusiiK: машине пизда не едет как жафриженая
+[07:26:04] василий каратаев: А ГДЕ ФИЩГАН
+[07:26:04] (TEAM) SSeregaN: вы где?
+[07:26:05] patrickkane1997: я дед пихто
+[07:26:09] (TEAM) SSeregaN: уголь нашли?
+[07:26:13] МАНДАРИН: а как то же оружие в руки взять, альт не работает
+[07:26:19] NotWinner: Альт е
+[07:26:22] NotWinner: Альт + е
+[07:26:34] МАНДАРИН: ну я так и делаю, по итогу нихуя
+[07:26:44] NotWinner: Мб у тебя клава хуями покрылась
+[07:26:54] МАНДАРИН: у меня на альт присесть
+[07:26:57] NotWinner: А
+[07:26:59] NotWinner: Ну так вот
+[07:27:02] МАНДАРИН: бля
+[07:27:05] NotWinner: Меняй на ходьбу
+[07:27:10] МАНДАРИН: бля
+[07:27:35] Dropped "МАНДАРИН" from server<STEAM_0:1:859767205>
+[07:29:04] Client "Mr. Point" spawned in server <STEAM_0:0:84903252> (took 332 seconds).
+[07:29:24] NotWinner killed patrickkane1997 using wep_jack_gmod_bas
+[07:29:31] RusLanConnection: !motd
+[07:29:43] patrickkane1997 killed Mr. Point using wep_jack_gmod_ezaxe
+[07:29:45] patrickkane1997: хаха
+[07:29:48] patrickkane1997: я тебя убил
+[07:29:52] Dropped "M4TV" from server<STEAM_0:1:558724298>
+[07:29:52] patrickkane1997: я тебя убил
+[07:29:55] patrickkane1997: поинт
+[07:29:58] patrickkane1997: на
+[07:30:00] patrickkane1997: *drop
+[07:30:04] patrickkane1997: ъм
+[07:30:19] patrickkane1997: короче эээ
+[07:30:27] patrickkane1997: вот к этим
+[07:30:30] patrickkane1997: иди сюда
+[07:30:38] Mr. Point: плыв
+[07:30:40] RusLanConnection teleported to Mr. Point
+[07:30:41] patrickkane1997: смотри 
+[07:30:46] patrickkane1997: вот к ним не иди
+[07:30:51] patrickkane1997: они убивают каждого
+[07:30:54] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:55] patrickkane1997: кто появится рядом с ними
+[07:30:56] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:56] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:56] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:56] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:56] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:57] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:57] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:57] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:57] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:57] SSeregaN: И с чего это
+[07:30:57] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:58] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:58] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:58] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:59] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:30:59] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:00] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:00] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:00] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:00] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:00] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:00] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:00] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:00] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:01] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:02] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:02] SSeregaN: мы убиваем всех
+[07:31:02] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:02] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:02] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:02] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:02] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:02] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:03] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:03] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:03] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:03] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:03] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:03] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:04] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:04] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:04] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:04] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:04] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:04] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:04] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:04] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:04] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:04] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:05] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:05] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:05] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:05] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:05] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:05] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:05] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:05] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:05] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:05] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:06] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:06] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:06] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:06] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:06] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:06] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:06] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:06] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:07] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:07] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:09] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:09] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:10] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:10] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:18] patrickkane1997: короче не иди к ним
+[07:31:18] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:19] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:19] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:19] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:21] patrickkane1997: они мочат всех!11
+[07:31:24] Client "Pomidor4ik" connected.
+[07:31:34] (TEAM) SSeregaN: бельяш
+[07:31:40] (TEAM) SSeregaN: они тут f2 спамят
+[07:31:43] (TEAM) SSeregaN: ахуевшие
+[07:31:43] patrickkane1997: брин сам по себе маньяк
+[07:31:49] patrickkane1997: так он желтый к тому же
+[07:31:53] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:31:59] patrickkane1997: не верю
+[07:32:02] RusLanConnection teleported to SSeregaN
+[07:32:19] LENusiiK: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:32:22] LENusiiK: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:32:23] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:32:27] patrickkane1997: срочно скрафти бомбу и разнеси их базу
+[07:32:41] patrickkane1997: давай
+[07:32:58] (TEAM) LENusiiK: п
+[07:33:17] patrickkane1997: короче 
+[07:33:18] patrickkane1997: покедова
+[07:33:23] дядя-шофер: !s ХУУУУУУУУУУУЙ
+[07:34:38] Client "Pomidor4ik" spawned in server <STEAM_0:1:531329273> (took 194 seconds).
+[07:34:42] patrickkane1997: !motd
+[07:34:49] Redoket was killed by ent_jack_aidbox
+[07:35:12] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:35:13] SSeregaN killed дядя-шофер using wep_jack_gmod_amr
+[07:35:14] patrickkane1997: !voice gomosek
+[07:35:15] patrickkane1997: вывыфв
+[07:35:21] RusLanConnection teleported to Mr. Point
+[07:36:36] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:36:36] Client "P0lyakov" connected.
+[07:36:37] SSeregaN killed LENusiiK using wep_jack_gmod_amr
+[07:37:02] beliashالله أكبر: я отойду
+[07:38:00] SSeregaN killed Mr. Point using wep_jack_gmod_amr
+[07:38:00] RusLanConnection: !motd
+[07:38:07] василий каратаев: НЕЗНАЮ СРОПСИ
+[07:38:11] василий каратаев: У НАЧАЛСВТА
+[07:38:12] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 96 seconds).
+[07:38:21] Redoket: НАЧАЛСТЬВО
+[07:38:23] SSeregaN killed LENusiiK using wep_jack_gmod_amr
+[07:38:32] RusLanConnection teleported to Mr. Point
+[07:38:36] Dropped "Pomidor4ik" from server<STEAM_0:1:531329273>
+[07:38:39] RusLanConnection teleported to patrickkane1997
+[07:38:40] Redoket: ракман
+[07:38:44] RusLanConnection brought Mr_Pyro
+[07:38:47] RusLanConnection returned Mr_Pyro to their original position
+[07:38:47] Redoket: ПРИЕМ
+[07:38:49] RusLanConnection brought Mr. Point
+[07:38:50] Redoket: ПРИЕМ
+[07:38:54] Redoket: ПРИЕМ
+[07:38:56] Redoket: ПРИЕМ
+[07:38:57] patrickkane1997: я понял
+[07:38:58] Redoket: ПРИЕМ
+[07:38:58] Redoket: ПРИЕМ
+[07:38:59] Redoket: ПРИЕМ
+[07:39:01] Redoket: ЕПРИЕМ
+[07:39:02] patrickkane1997: приглашай
+[07:39:14] patrickkane1997: а как
+[07:39:17] patrickkane1997: я сто лет уже не играл
+[07:39:38] patrickkane1997: мне кажется тут невидимый админ
+[07:39:50] patrickkane1997: у меня есть
+[07:40:07] patrickkane1997: тут нету гвотер2
+[07:40:13] patrickkane1997: так что никак мы не разольем её
+[07:40:23] patrickkane1997: ладно что будем делать
+[07:40:39] patrickkane1997: мне кажется это летающий трололо
+[07:41:00] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:41:03] patrickkane1997: скрафтим
+[07:41:04] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:41:32] patrickkane1997: как там заапгрейдить станок этот
+[07:41:37] patrickkane1997: я хочу крафтить крутые пушки
+[07:41:49] RusLanConnection teleported to Mr. Point
+[07:41:50] Mr. Point: плыв
+[07:41:51] P0lyakov: t
+[07:41:53] Client "Сырный пакетик" connected.
+[07:41:58] patrickkane1997: круто
+[07:42:00] Mr. Point: !плыв
+[07:42:05] patrickkane1997: давай корпс
+[07:42:06] Dropped "LENusiiK" from server<STEAM_0:0:187688358>
+[07:42:08] patrickkane1997: чтобы страшно было
+[07:42:09] Mr. Point: !!voice rx
+[07:42:09] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_eztoolbox
+[07:42:12] Mr. Point: плыв
+[07:42:17] patrickkane1997:  !voice lan
+[07:42:18] Mr. Point: дади
+[07:42:18] patrickkane1997: а
+[07:42:20] P0lyakov<STEAM_0:0:60570605> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[07:42:23] patrickkane1997: а
+[07:42:26] patrickkane1997: нормально
+[07:42:26] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezgold
+[07:42:28] RusLanConnection teleported to P0lyakov
+[07:42:28] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezgold
+[07:42:30] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezgold
+[07:42:31] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezgold
+[07:42:33] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezgold
+[07:42:34] Client "Kriptonski" connected.
+[07:42:35] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezgold
+[07:42:36] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezgold
+[07:42:39] Client "Сырный пакетик" connected.
+[07:42:49] patrickkane1997: я знаю где
+[07:42:53] patrickkane1997: а ну ладно
+[07:43:05] patrickkane1997: что
+[07:43:12] patrickkane1997: понял
+[07:43:19] patrickkane1997: надо ящики
+[07:43:20] patrickkane1997: скрафтить
+[07:43:30] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezworkbench
+[07:43:32] patrickkane1997: железный который каждый инвалид ставит?
+[07:43:32] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezprimitivebench
+[07:43:42] patrickkane1997: я в деле
+[07:43:47] patrickkane1997: круто
+[07:44:03] patrickkane1997 to admins: полтергейст помоги перевернуть контейнер
+[07:44:05] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbattery
+[07:44:07] Client "LENusiiK" connected.
+[07:44:10] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezwood
+[07:44:16] Client "Сырный пакетик" spawned in server <STEAM_0:0:617253467> (took 97 seconds).
+[07:44:16] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezgas
+[07:44:24] RusLanConnection teleported to patrickkane1997
+[07:44:27] Client "LENusiiK" connected.
+[07:44:27] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[07:44:28] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[07:44:29] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[07:44:38] patrickkane1997: магия
+[07:44:47] patrickkane1997: полтергейст спасибо
+[07:44:48] RusLanConnection killed Mr. Point using ent_aboot_gmod_ezshippingcontainer
+[07:44:58] patrickkane1997: не иди ка ты нахой такой полтергейст нам не нужен
+[07:45:00] RusLanConnection brought Mr. Point
+[07:45:01] Client "LENusiiK" spawned in server <STEAM_0:0:187688358> (took 34 seconds).
+[07:45:12] P0lyakov<STEAM_0:0:60570605> spawned sent ent_rus_spawnbase
+[07:45:18] patrickkane1997: плоть а ты можешь это недарозумение починиеть
+[07:45:29] RusLanConnection teleported to P0lyakov
+[07:45:30] patrickkane1997: ну блин
+[07:45:33] P0lyakov: tyty
+[07:45:42] patrickkane1997: его разве не разорвало
+[07:45:50] patrickkane1997: нам надо убрать труп
+[07:45:56] patrickkane1997: труп может заразить нас
+[07:46:02] Mr. Point: pluv
+[07:46:04] Mr. Point: плыв
+[07:46:29] patrickkane1997: ана
+[07:47:00] василий каратаев: ДАВАЙТЕ КАТЮШУ СДЕЛАЕМ
+[07:47:07] василий каратаев: Я СЧИТАЮ КРУТАЯ ВЕЩ
+[07:47:32] RusLanConnection teleported to Mr. Point
+[07:47:36] patrickkane1997: отлично
+[07:48:05] василий каратаев: ЧУПАК
+[07:48:06] василий каратаев: ПОЕХАЛИ
+[07:48:08] василий каратаев: РАЗВЕДУЕМ
+[07:48:10] василий каратаев: СДЕЛАЕМ ДЖИП
+[07:48:13] василий каратаев: МОЖЕТ
+[07:48:19] василий каратаев: НАРУШИМ ЦИКЛ ПЕРЕРАБОТКИ УРАНА
+[07:48:21] patrickkane1997: поинт
+[07:48:23] василий каратаев: НЕВЗНАЧАЙ
+[07:48:25] patrickkane1997: а как
+[07:48:28] patrickkane1997: я просто нуб
+[07:48:34] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[07:48:34] patrickkane1997: как крафтить крутой верстак
+[07:48:34] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[07:48:52] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/fence01a.mdl
+[07:48:53] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/fence01a.mdl
+[07:48:53] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/fence01a.mdl
+[07:48:53] patrickkane1997: нашел
+[07:48:55] patrickkane1997: круто
+[07:48:55] василий каратаев: ПОЕХАЛИ
+[07:48:56] василий каратаев: ЧУПАК
+[07:49:01] patrickkane1997: электричество?
+[07:49:08] василий каратаев: НУ ЕСЛИ ХОЧЕШЬ ХОТИМ ПОСМОТРЕТЬ
+[07:49:12] patrickkane1997: у меня тут вроде было
+[07:49:22] patrickkane1997: и газ
+[07:49:25] patrickkane1997: у менря он тоже есть
+[07:49:29] patrickkane1997: щяс найду
+[07:49:49] beliashالله أكبر: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:49:52] дядя-шофер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:50:09] patrickkane1997: меди
+[07:50:11] RusLanConnection teleported to P0lyakov
+[07:50:12] patrickkane1997: вон онац
+[07:50:20] Сырный пакетик: !psay .pinkman на каком азимуте?
+[07:50:24] Сырный пакетик: !menu
+[07:50:30] дядя-шофер: гениус
+[07:50:36] patrickkane1997: омг он админ
+[07:50:39] василий каратаев: БАЗУ ПИНКМАНА
+[07:50:40] patrickkane1997: у него ФИЗГАН!!1
+[07:50:42] василий каратаев: ПОСМОТРИМ
+[07:50:45] patrickkane1997: я видел
+[07:51:00] patrickkane1997: а ты можешь закрепить
+[07:51:01] patrickkane1997: физганом?
+[07:51:07] patrickkane1997: а ну ладно
+[07:51:10] patrickkane1997: перемести верстак поближе
+[07:51:12] patrickkane1997: к контейнеру
+[07:51:25] patrickkane1997: надо слушай построить забор 
+[07:51:27] patrickkane1997: вокруг базы
+[07:51:34] patrickkane1997: вон туда
+[07:51:38] василий каратаев: У НИХ ЗАВОД ПО ПЕРЕРАБОТКЕ
+[07:51:43] RusLanConnection teleported to Rackman
+[07:51:55] patrickkane1997: увидел
+[07:51:58] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_eztoolbox
+[07:52:10] Client "geniy" connected.
+[07:52:27] patrickkane1997: слушай 
+[07:52:32] patrickkane1997: нам надо бы пушек накрафтить
+[07:52:34] patrickkane1997: для защиты
+[07:52:38] patrickkane1997: омг
+[07:52:42] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[07:52:44] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[07:52:45] patrickkane1997: как дропнуть
+[07:52:46] patrickkane1997: пушку
+[07:52:54] .pinkman: крч мб через час пойду чай пить а потом вернусь
+[07:52:55] patrickkane1997: как в роблоксе
+[07:53:04] patrickkane1997: скрафти шлем
+[07:53:05] patrickkane1997: как у меня
+[07:53:12] patrickkane1997: можно пройтись
+[07:53:16] patrickkane1997: посмотреть как у всех дела
+[07:53:21] patrickkane1997: ну и ограбить кого нибуть
+[07:53:26] patrickkane1997: по случаю
+[07:53:26] LENusiiK: // руслан помоги
+[07:53:45] Rackman: supply radio: advanced parts
+[07:54:54] василий каратаев: ПРИЕМ
+[07:54:59] василий каратаев: БАЗА СИНИХ
+[07:55:00] Client "LeOS" connected.
+[07:55:43] Client "МАНДАРИН" connected.
+[07:56:00] LENusiiK: /// руслан
+[07:56:10] Client "LeOS" spawned in server <STEAM_0:0:98544853> (took 70 seconds).
+[07:56:14] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[07:56:46] P0lyakov<STEAM_0:0:60570605> spawned sent lvs_helicopter_rebel
+[07:56:53] P0lyakov<STEAM_0:0:60570605> spawned sent lvs_helicopter_rebel
+[07:57:10] P0lyakov: H
+[07:57:14] Redoket: supply radio: steel
+[07:57:43] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[07:58:00] Client "МАНДАРИН" spawned in server <STEAM_0:1:859767205> (took 137 seconds).
+[07:59:21] Redoket: supply radio: munitions
+[07:59:32] LeOS: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:59:35] PTSR Instructor: Я ЛЮБЛЮ ПЛЫВИСКИ
+[07:59:56] василий каратаев: УЗНАЛИ ПРИМЕРНЫЕ КООРДИНАТЫ БУДЕМ ОБОИХ БАЗ
+[07:59:56] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[08:00:10] василий каратаев: СИНИЕ -140 102 
+[08:00:11] Client "Temm4ancki" connected.
+[08:00:19] василий каратаев: Э ЩА
+[08:00:33] NotWinner: Здарова
+[08:00:44] NotWinner: Бензин есть?
+[08:00:50] RusLanConnection teleported to P0lyakov
+[08:00:55] NotWinner: За сколько продаёшь бензин?
+[08:00:56] МАНДАРИН: пиздец
+[08:01:02] NotWinner: Чё
+[08:01:05] NotWinner: нет
+[08:01:10] василий каратаев: БЕРИТЕ НИГЕРА В ПЛЕН
+[08:01:10] NotWinner: Спустись, у тебя микро пропадает
+[08:01:11] МАНДАРИН: я нихуя не нашел
+[08:01:16] василий каратаев: НАСИЛЬНО ПОЙТЕ БЕНЗИОМ
+[08:01:25] Client "Temm4ancki" spawned in server <STEAM_0:0:120410965> (took 74 seconds).
+[08:01:25] NotWinner: Что есть?
+[08:01:29] NotWinner: напиши это пиздец
+[08:01:35] Rackman: Денег сколько?
+[08:01:36] NotWinner: 907 РОБАКСОВ
+[08:01:43] Rackman: Боюсь тебе этого не хватит
+[08:01:45] P0lyakov: H
+[08:01:47] Rackman: У нас самого его млао
+[08:01:51] NotWinner: Так у меня стила дохуя
+[08:01:53] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:01:55] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:01:55] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:01:56] RusLanConnection teleported to Rackman
+[08:01:57] Rackman: У нас тоже много стила
+[08:02:00] Rackman: Тут 2 месторождения
+[08:02:01] NotWinner: Воды
+[08:02:03] NotWinner: Угля
+[08:02:04] Rackman: И вода есть
+[08:02:04] МАНДАРИН: а почему я подыхаю
+[08:02:07] Rackman: И уголь рядом
+[08:02:11] Rackman: Даже алмазы
+[08:02:13] NotWinner: Похуй тогда
+[08:02:24] SSeregaN killed МАНДАРИН using wep_jack_gmod_amr
+[08:02:26] МАНДАРИН: бля
+[08:02:33] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[08:02:39] МАНДАРИН: тут?
+[08:03:41] МАНДАРИН: привет
+[08:03:52] NotWinner: Чё вы тут
+[08:03:54] NotWinner: Бродите
+[08:03:56] NotWinner: Втроём
+[08:03:58] МАНДАРИН: можно с вами?
+[08:04:10] МАНДАРИН: менч никто не берет
+[08:04:17] МАНДАРИН: я заходил час назад
+[08:04:28] МАНДАРИН: бля(
+[08:04:32] NotWinner: Вы бензопийцы?
+[08:04:45] NotWinner: За что бензин отдаёте?
+[08:04:48] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezceramic
+[08:04:52] NotWinner: Денег мало, ресами могу мб
+[08:04:54] NotWinner: Ну лан
+[08:04:59] LeOS: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:04:59] LeOS: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:05:04] LeOS: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:05:07] василий каратаев: МОГУ ПОКАЗАТЬ НАГЛЯДНО
+[08:05:08] NotWinner: Кто враг человечества?
+[08:05:13] дядя-шофер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:05:13] Redoket: СИНИЕ -140 102 
+[08:05:16] василий каратаев: ГДЕ ИХ БАЗЫ
+[08:05:16] МАНДАРИН: пошел я нахуй?
+[08:05:21] василий каратаев: И ЖЕЛТЫЕ
+[08:05:23] василий каратаев: ПОШЛИ ПОКАЖУ
+[08:05:23] NotWinner: Кто враг человечества?
+[08:05:34] василий каратаев: ЩАС СЯДТЕ В ДЖИП
+[08:05:36] МАНДАРИН: я не знаю, ничего не помню
+[08:05:41] NotWinner: Ладно похуй
+[08:05:43] NotWinner: Иди ко мне
+[08:05:44] Dropped "LeOS" from server<STEAM_0:0:98544853>
+[08:05:50] МАНДАРИН: так
+[08:06:08] NotWinner: Так на хуй
+[08:06:09] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezcrate_uni
+[08:06:11] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezcrate_uni
+[08:06:11] NotWinner: Вот моя база блять
+[08:06:14] дядя-шофер killed beliashالله أكبر using wep_jack_gmod_dmr
+[08:06:15] NotWinner: Делай чё хочешь
+[08:06:16] RusLanConnection teleported to Temm4ancki
+[08:06:17] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezcrate_uni
+[08:06:26] Сырный пакетик: supply radio: tungsten
+[08:06:30] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezflashbang
+[08:06:34] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezflashbang
+[08:06:36] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezflashbang
+[08:06:43] patrickkane1997 killed Mr. Point using wep_lanrp_jmod_kar98k
+[08:06:44] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezflashbang
+[08:06:45] василий каратаев: И ЕЩЕ ОДНА
+[08:06:48] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezflashbang
+[08:06:50] василий каратаев: ВПЕРЕДИ
+[08:06:51] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezflashbang
+[08:06:54] NotWinner: Альт + е
+[08:06:59] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezflashbang
+[08:07:04] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezflashbang
+[08:07:05] МАНДАРИН: не работает
+[08:07:10] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezflashbang
+[08:07:14] NotWinner: Бля я хуй тогда знает
+[08:07:15] Mr. Point killed patrickkane1997 using wep_lanrp_jmod_kar98k
+[08:07:15] (TEAM) SSeregaN: ОБРАТНО
+[08:07:16] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezcsnade
+[08:07:21] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezcsnade
+[08:07:23] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezcsnade
+[08:07:23] NotWinner: Ща
+[08:07:28] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezcsnade
+[08:07:31] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezcsnade
+[08:08:06] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsignalnade
+[08:08:27] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsignalnade
+[08:08:35] NotWinner: Ты на шаг альт поставил?
+[08:08:39] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezshovel
+[08:08:48] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezshovel
+[08:08:48] NotWinner: ВЫ ЧЁ НА ХЪУЙ
+[08:08:51] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezshovel
+[08:08:53] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezshovel
+[08:08:55] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezshovel
+[08:08:57] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezshovel
+[08:09:00] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezshovel
+[08:09:07] МАНДАРИН: он был на приседе, а сейчас на x присед
+[08:09:16] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_pas
+[08:09:19] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_pas
+[08:09:24] василий каратаев: ghbtv
+[08:09:24] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_pas
+[08:09:26] NotWinner: Я тогда хз
+[08:09:26] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_pas
+[08:09:27] василий каратаев: ПРИЕМ
+[08:09:33] василий каратаев: НУ
+[08:09:35] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[08:09:36] василий каратаев: У НАС ДВА ТАНКА
+[08:09:38] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_pas
+[08:09:42] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_smg
+[08:09:44] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_smg
+[08:09:46] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_smg
+[08:09:48] василий каратаев: КАТЮША С БОЕПРИПАСАМИ НА НЕСКОЛЬКО ЗАЛПОВ
+[08:09:49] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_smg
+[08:09:52] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_smg
+[08:09:52] василий каратаев: КООРДИНАТЫ ИХ БАЗ 2
+[08:09:55] василий каратаев: СИНИХ И УРАНИСТОВ
+[08:09:57] МАНДАРИН: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:09:59] NotWinner: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:10:02] василий каратаев: Я В ПРИ ОРУЖИИ И БРОНЕ
+[08:10:04] василий каратаев: ЩАС СКАЖУ ИМ
+[08:10:07] василий каратаев: ЧТОБ ОДЕВАЛИСЬ
+[08:10:11] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_dmr
+[08:10:12] МАНДАРИН: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:10:14] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_dmr
+[08:10:17] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_dmr
+[08:10:24] МАНДАРИН: блять че
+[08:10:28] NotWinner: Чё
+[08:10:33] Dropped "beliashالله أكبر" from server<STEAM_0:0:822301453>
+[08:10:35] МАНДАРИН: я на ф1 нажал
+[08:10:37] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezammo
+[08:10:41] МАНДАРИН: и вот это 
+[08:10:43] Client "beliashالله أكبر" connected.
+[08:10:44] МАНДАРИН: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:10:56] МАНДАРИН: ф2
+[08:10:59] LENusiiK to admins: помоги
+[08:11:09] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_gasmask
+[08:11:13] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_gasmask
+[08:11:16] Client "beliashالله أكبر" spawned in server <STEAM_0:0:822301453> (took 33 seconds).
+[08:11:17] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_gasmask
+[08:11:20] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_gasmask
+[08:11:24] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_gasmask
+[08:11:28] LENusiiK to admins: помогите достать машину
+[08:11:48] RusLanConnection teleported to LENusiiK
+[08:11:58] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_mltorso
+[08:12:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/lockers001a.mdl
+[08:12:04] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_mltorso
+[08:12:07] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_mltorso
+[08:12:11] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_mtorso
+[08:12:14] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_mtorso
+[08:12:17] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_mtorso
+[08:12:19] василий каратаев: У ТЕБЯ МУШКЕТ
+[08:12:23] василий каратаев: ВОЗЬМИ ПУШКУ ПО ЛУЧШЕ
+[08:12:27] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_mhead
+[08:12:30] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_mhead
+[08:12:35] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_mhead
+[08:12:48] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_lhead
+[08:12:55] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_lhead
+[08:12:58] Redoket<STEAM_0:1:545449619> spawned sent lvs_renaultft_m
+[08:13:03] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_lhead
+[08:13:44] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_pouch
+[08:13:47] василий каратаев: НАВЕСТИСЬ НЕ МОГУ
+[08:13:48] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_pouch
+[08:13:52] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_pouch
+[08:13:59] Client "mox" connected.
+[08:13:59] NotWinner: А ты
+[08:14:03] NotWinner: Забиндил кнопку I?
+[08:14:10] василий каратаев: ЗАРЯЖАЙ
+[08:14:12] МАНДАРИН: lf
+[08:14:13] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_backpack
+[08:14:13] МАНДАРИН: да
+[08:14:17] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_backpack
+[08:14:22] NotWinner: Ща к тебе тепнутся
+[08:14:22] Redoket killed beliashالله أكبر using lvs_renaultft_m
+[08:14:26] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_backpack
+[08:14:29] МАНДАРИН: спасибо
+[08:14:37] василий каратаев: ЕЩЕ ЕЩ
+[08:14:39] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_parachute
+[08:14:43] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_parachute
+[08:14:46] [C4]кружка: честно, не знаю
+[08:14:49] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_parachute
+[08:14:51] василий каратаев killed SSeregaN using lvs_bomb
+[08:14:57] василий каратаев: ЕЩ ЕЩЕ
+[08:14:58] NotWinner killed Rackman using wep_jack_gmod_bas
+[08:15:01] МАНДАРИН: РАБОТАЕТ
+[08:15:02] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezweapon_smg
+[08:15:02] NotWinner: ТУДА
+[08:15:23] NotWinner: Делай себе
+[08:15:25] василий каратаев: Я ЕДУ НА БАЗУ
+[08:15:26] NotWinner: Чё хочешь
+[08:15:38] василий каратаев: ЧЕ НЕ СЛЫШУ
+[08:15:38] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezaidradio
+[08:15:42] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbattery
+[08:15:52] LENusiiK was killed by ent_jack_gmod_ezprojectilenade
+[08:16:01] LonePlayer022 killed beliashالله أكبر using lvs_renaultft_m
+[08:16:09] МАНДАРИН was killed by ent_jack_gmod_ezsentry
+[08:16:14] Redoket killed PTSR Instructor using wep_jack_gmod_fas
+[08:16:19] Redoket was killed by entityflame
+[08:17:02] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezmunitions
+[08:17:06] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezmunitions
+[08:17:09] василий каратаев: КРАФТИ
+[08:17:09] василий каратаев: СНАРЯДЫ
+[08:17:13] RusLanConnection teleported to Rackman
+[08:17:17] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezmunitions
+[08:17:23] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezammo
+[08:17:32] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezfuel
+[08:17:34] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezfuel
+[08:17:47] P0lyakov<STEAM_0:0:60570605> spawned sent lvs_helicopter_rebel
+[08:17:49] P0lyakov<STEAM_0:0:60570605> spawned sent lvs_helicopter_rebel
+[08:18:00] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezfuel
+[08:18:08] RusLanConnection teleported to Rackman
+[08:18:14] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsentry
+[08:18:14] [C4]кружка: что спросить?
+[08:18:19] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbasicparts
+[08:18:38] [C4]кружка: Прием, как слышно
+[08:18:54] дядя-шофер killed SSeregaN using wep_jack_gmod_dmr
+[08:19:15] Client "Super_idol" connected.
+[08:19:36] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezammo
+[08:19:37] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbattery
+[08:19:47] МАНДАРИН killed дядя-шофер using wep_jack_gmod_sniperrifle
+[08:20:01] SSeregaN killed МАНДАРИН using wep_jack_gmod_dmr
+[08:20:04] Rackman killed beliashالله أكبر using wep_jack_gmod_dmr
+[08:20:17] SSeregaN killed Redoket using wep_jack_gmod_dmr
+[08:20:21] МАНДАРИН was killed by ent_jack_gmod_ezprojectilenade
+[08:20:27] RusLanConnection teleported to Rackman
+[08:20:30] Temm4ancki: !motd
+[08:21:00] SSeregaN killed Chupacabr using wep_jack_gmod_dmr
+[08:21:02] Rackman killed SSeregaN using wep_jack_gmod_dmr
+[08:21:23] beliashالله أكبر was killed by ent_jack_gmod_ezprojectilenade
+[08:21:32] МАНДАРИН was killed by ent_jack_gmod_ezprojectilenade
+[08:21:38] Rackman was killed by ent_jack_gmod_ezprojectilenade
+[08:21:38] PTSR Instructor was killed by ent_jack_gmod_ezprojectilenade
+[08:21:45] МАНДАРИН: fkj
+[08:22:25] дядя-шофер killed МАНДАРИН using ent_jack_gmod_ezatmine
+[08:22:48] RusLanConnection teleported to Rackman
+[08:23:06] василий каратаев: НАВЕРН
+[08:23:38] .pinkman: крч
+[08:23:40] .pinkman: я на чай
+[08:23:52] .pinkman: на 10-15 минут
+[08:23:53] дядя-шофер killed МАНДАРИН using wep_jack_gmod_sas
+[08:24:01] Rackman killed PTSR Instructor using wep_jack_gmod_battlerifle
+[08:24:04] Chupacabr killed beliashالله أكبر using lvs_wheeldrive_citroen_type23
+[08:24:06] P0lyakov: !bring Манда
+[08:24:09] Chupacabr killed LENusiiK using wep_jack_gmod_sas
+[08:24:14] P0lyakov brought МАНДАРИН
+[08:24:14] P0lyakov: !bring МАНДА
+[08:24:20] P0lyakov: Здарова
+[08:24:23] МАНДАРИН: ,kzn
+[08:24:25] МАНДАРИН: бля
+[08:24:27] МАНДАРИН: сори
+[08:24:29] МАНДАРИН: привкт
+[08:24:36] P0lyakov: Ты искал нас?
+[08:24:38] МАНДАРИН: там пиздец
+[08:24:40] МАНДАРИН: да
+[08:24:42] P0lyakov: Да я знаю
+[08:24:48] МАНДАРИН: атм рядом война была я подыхал
+[08:24:58] МАНДАРИН: пару людей убил но 0 результатов
+[08:24:59] василий каратаев: ЛЕТИТ
+[08:25:01] Dropped ".pinkman" from server<STEAM_0:0:241804584>
+[08:25:04] SSeregaN killed LonePlayer022 using wep_jack_gmod_dmr
+[08:25:06] P0lyakov: Понял-понял
+[08:25:14] P0lyakov: ну в этом и нет особо необходимости
+[08:25:15] SSeregaN killed Redoket using wep_jack_gmod_dmr
+[08:25:18] василий каратаев killed SSeregaN using wep_jack_gmod_lmg
+[08:25:22] P0lyakov: нужно призвать всех закончить войну
+[08:25:23] МАНДАРИН: есть место где вы разговриваете? дс там или тг
+[08:25:25] PTSR Instructor was killed by ent_jack_gmod_ezprojectilenade
+[08:25:30] P0lyakov: Чат игры
+[08:25:33] P0lyakov: онли
+[08:25:39] МАНДАРИН: почему?
+[08:25:43] P0lyakov: Для атмосферы
+[08:25:48] василий каратаев: ЕРЕТИК БЫЛ УНИЧТОЖЕН
+[08:25:52] василий каратаев: И ЗАЛУТАН
+[08:25:53] МАНДАРИН: ясно
+[08:25:56] NotWinner was killed by ent_jack_gmod_ezsentry
+[08:25:56] Chupacabr killed PTSR Instructor using wep_jack_gmod_sas
+[08:25:57] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezaidradio
+[08:26:13] МАНДАРИН: что мне делать?
+[08:26:14] василий каратаев: НА Т
+[08:26:19] NotWinner was killed by ent_jack_gmod_ezsentry
+[08:26:24] василий каратаев: ЗАРЯДИЛ
+[08:26:25] P0lyakov: Иди вниз и собирай ресурсы, затем делай патроны
+[08:26:31] PTSR Instructor killed Chupacabr using wep_jack_gmod_sas
+[08:26:31] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbasicparts
+[08:26:32] Rackman killed PTSR Instructor using wep_jack_gmod_battlerifle
+[08:26:33] василий каратаев: Я ЗАРЯДИЛ
+[08:26:41] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[08:26:44] Client "Chupacabr" connected.
+[08:26:49] Rackman killed LENusiiK using wep_jack_gmod_battlerifle
+[08:26:51] SSeregaN killed Rackman using wep_jack_gmod_sas
+[08:26:56] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbattery
+[08:27:03] P0lyakov: Раз-раз
+[08:27:12] P0lyakov: Не сюда
+[08:27:15] P0lyakov: Там есть верстак
+[08:27:17] P0lyakov: внизу
+[08:27:18] МАНДАРИН: типо это?
+[08:27:20] Rackman killed LENusiiK using wep_jack_gmod_hands
+[08:27:21] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[08:27:22] P0lyakov: да
+[08:27:26] МАНДАРИН: ble
+[08:27:26] Client "Mr_Pyro" connected.
+[08:27:28] МАНДАРИН: иду
+[08:27:37] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 53 seconds).
+[08:27:41] NotWinner was killed by ent_jack_gmod_ezsentry
+[08:28:07] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 41 seconds).
+[08:28:13] PTSR Instructor killed Rackman using wep_jack_gmod_sas
+[08:28:20] [C4]кружка: хуево что у меня фпс падает до 4
+[08:28:41] василий каратаев: НА ЗАЛП ХВАТИТ
+[08:28:51] P0lyakov: зачем тебе мушкеты бро
+[08:28:57] P0lyakov: у нас ящик полный пушек на втором этаже
+[08:29:01] МАНДАРИН: я только зашел
+[08:29:03] МАНДАРИН: сори
+[08:29:31] P0lyakov: Я короче полечу гляну че там
+[08:29:35] МАНДАРИН: стой
+[08:29:48] МАНДАРИН: место где я заспавнился там есть ресурсы
+[08:29:58] P0lyakov: Да нам здешних хватит
+[08:29:59] МАНДАРИН: слитки какие то
+[08:30:05] МАНДАРИН: а ясно
+[08:30:27] SSeregaN killed Chupacabr using wep_jack_gmod_battlerifle
+[08:30:34] PTSR Instructor killed [C4]кружка using wep_jack_gmod_sas
+[08:30:34] василий каратаев killed SSeregaN using wep_jack_gmod_lmg
+[08:30:49] Redoket killed PTSR Instructor using wep_jack_gmod_lmg
+[08:30:59] [C4]кружка: пиздец блять
+[08:31:02] василий каратаев killed LENusiiK using lvs_bomb
+[08:31:02] [C4]кружка: я ебал в 2 фпс
+[08:31:09] [C4]кружка: прям в момент битвы
+[08:31:17] дядя-шофер was killed by entityflame
+[08:31:28] LonePlayer022 killed beliashالله أكبر using lvs_renaultft_m
+[08:31:32] Redoket was killed by entityflame
+[08:31:53] василий каратаев: ЛУТАЕТУ ТРУПВ
+[08:31:56] Client "RUD1US" connected.
+[08:33:15] василий каратаев: АЛЕ
+[08:33:40] МАНДАРИН: я киркой добываю метал, мне добытый метал надо нести к базе?
+[08:33:47] василий каратаев: ОТРАЗИЛИ НАПАДЕНИЕ
+[08:33:49] василий каратаев: НАЛУТАЛИ ТРУПОВ
+[08:33:50] дядя-шофер killed дядя-шофер
+[08:33:50] P0lyakov: В ящик
+[08:33:54] P0lyakov: там должен быть под ресурсы
+[08:33:59] МАНДАРИН: около верстака?
+[08:34:00] василий каратаев: МЫ ГОТОВИ СНАРЯДЫ ДЛЯ ТАНКОВ И КАТЮН
+[08:34:02] P0lyakov: да
+[08:34:23] PTSR Instructor killed PTSR Instructor
+[08:34:37] василий каратаев: ДА
+[08:34:54] P0lyakov<STEAM_0:0:60570605> spawned sent lvs_wheeldrive_dodwillyjeep
+[08:35:27] василий каратаев: ОНИ
+[08:35:32] василий каратаев: НЕЗНАЕЮТ ГДЕ ОСНОВНАЯ
+[08:35:34] василий каратаев: БАЗА
+[08:35:48] Rackman: supply radio: steel
+[08:36:25] P0lyakov: Я из WPD
+[08:36:46] василий каратаев: РАКМАН СКАЗАД ЖДАТЬ КОМАНДЫ
+[08:36:50] NotWinner: Это урановая империя?
+[08:36:56] RusLanConnection teleported to Rackman
+[08:36:57] василий каратаев: ДА
+[08:36:58] NotWinner: Я к вам
+[08:36:59] василий каратаев: В ЯЩИК
+[08:37:06] василий каратаев: АЛЕ
+[08:37:08] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:37:08] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:37:08] василий каратаев: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:37:12] LonePlayer022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:37:13] LonePlayer022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:37:14] LonePlayer022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:37:14] LonePlayer022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:37:30] NotWinner: Х
+[08:37:30] василий каратаев: КАТЮША ИХ УЖЕ ИЗРЯДНО ПОТРЕПАЛА НО ОКЕ
+[08:37:34] Client "Bend" connected.
+[08:37:34] василий каратаев: ВЗЯТЬ
+[08:37:38] василий каратаев: ОГНЕНЫЙ ПАТРОНЫ
+[08:37:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[08:37:40] василий каратаев: ОГНЕМЕТЫ
+[08:37:42] василий каратаев: ГРАНАТЫ
+[08:37:43] Chupacabr: арту со снарядами
+[08:37:46] NotWinner: А я к вам товар вёз
+[08:37:49] NotWinner: Воду и стил
+[08:37:50] василий каратаев: НУ ЭТО ЩАС НЕ 
+[08:37:55] василий каратаев: НЕВОЗМОЖНО СДЕЛАТЬ АРТУ
+[08:38:08] василий каратаев: АЛЕ
+[08:38:28] NotWinner: Я этим бензиновым кароче ракету пустил
+[08:38:32] NotWinner: И машину спиздил
+[08:38:33] PTSR Instructor suicided!
+[08:38:37] RusLanConnection teleported to Rackman
+[08:38:41] василий каратаев: СЛЕДИТЕ ЗА ГОРИЗОНТОМ
+[08:38:45] василий каратаев: А ЗНАЕТЕ
+[08:38:46] василий каратаев: ЩАС
+[08:38:48] NotWinner: Хз нету
+[08:38:51] NotWinner: У меня тоже попиздили
+[08:38:55] василий каратаев: ВОЗМНОЖНО ДИСТАНЦИИ ХВАТИТ НАВЕСТИСЬ НА НИХ
+[08:39:16] SSeregaN killed beliashالله أكبر using ent_jack_gmod_ezfalloutparticle
+[08:39:22] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:39:24] василий каратаев: ЕСЛИ ДОЛЕТЯТ
+[08:39:25] NotWinner: Берите тачкук
+[08:39:29] NotWinner: Едьте
+[08:39:39] дядя-шофер: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:39:41] PTSR Instructor: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:39:42] Mr. Point: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:40:09] P0lyakov: Добрый день
+[08:40:45] Dropped "МАНДАРИН" from server<STEAM_0:1:859767205>
+[08:41:24] SSeregaN suicided!
+[08:41:32] P0lyakov: Это трюки
+[08:41:35] SSeregaN killed LENusiiK using ent_jack_gmod_ezfalloutparticle
+[08:41:39] василий каратаев: РЕДОКЕТ
+[08:41:40] P0lyakov: Добрый день товарищи плывтауновцы
+[08:41:42] василий каратаев: ИДИ ТРУПАКИ
+[08:41:42] Chupacabr killed beliashالله أكبر using wep_jack_gmod_dmr
+[08:41:44] василий каратаев: ПОСАБИРАЙ
+[08:41:49] RusLanConnection teleported to SSeregaN
+[08:41:55] P0lyakov: Я официальный представитель WPD
+[08:42:00] василий каратаев: ВОН
+[08:42:01] P0lyakov: И одновременно с этим шериф
+[08:42:03] василий каратаев: ТАМПРЯМ НА БАЩУ
+[08:42:06] василий каратаев: ТАМ ОБВАЛ
+[08:42:11] P0lyakov: Мы закрепляемся в этом отдалённом уголке штата
+[08:42:14] василий каратаев: ЩАС ЗАЛП
+[08:42:27] P0lyakov: Рады предоставить всем законопослушным территории для свободного р�
+[08:42:34] василий каратаев: Я ЧТО ТО ВЗОРВАЛ
+[08:42:35] P0lyakov: развития кхм
+[08:42:36] василий каратаев: ТРАНСПОТ
+[08:42:38] P0lyakov: Но нужно
+[08:42:41] SSeregaN killed [C4]кружка using ent_jack_gmod_ezfirehazard
+[08:42:48] василий каратаев: ЭТО НАШ ВЕРТ
+[08:42:50] василий каратаев: НЕСТРЕЛЯЙ
+[08:42:57] SSeregaN killed Mr_Pyro using ent_jack_gmod_ezfirehazard
+[08:43:03] Client "Super_idol" spawned in server <STEAM_0:1:595528414> (took 1428 seconds).
+[08:43:21] P0lyakov: ДА
+[08:43:28] SSeregaN killed Rackman using ent_jack_gmod_eznapalm
+[08:43:31] Redoket killed SSeregaN using wep_jack_gmod_lmg
+[08:43:32] P0lyakov: Не было такого
+[08:43:42] SSeregaN to admins: не возможно
+[08:43:53] RusLanConnection teleported to SSeregaN
+[08:44:03] P0lyakov: Все нормально
+[08:44:13] Dropped "beliashالله أكبر" from server<STEAM_0:0:822301453>
+[08:44:21] patrickkane1997: не лагает
+[08:44:23] Mr. Point: Что-то у меня заболела шея после этого безумного трюка
+[08:44:24] Client "beliashالله أكبر" connected.
+[08:44:26] patrickkane1997: все плавненько
+[08:44:26] patrickkane1997: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:44:28] SSeregaN: я покину
+[08:44:34] Dropped "SSeregaN" from server<STEAM_0:1:172655048>
+[08:44:44] LENusiiK to admins: что с сервером
+[08:44:55] Dropped "Сырный пакетик" from server<STEAM_0:0:617253467>
+[08:45:00] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[08:45:02] Client "RusLanConnection" connected.
+[08:45:36] Dropped "NotWinner" from server<STEAM_0:1:235165473>
+[08:45:36] Dropped "Super_idol" from server<STEAM_0:1:595528414>
+[08:45:36] Dropped "P0lyakov" from server<STEAM_0:0:60570605>
+[08:45:36] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[08:45:36] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[08:45:36] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[08:45:36] Dropped "[C4]кружка" from server<STEAM_0:1:103795725>
+[08:45:36] Dropped "LENusiiK" from server<STEAM_0:0:187688358>
+[08:45:36] Dropped "patrickkane1997" from server<STEAM_0:0:444745902>
+[08:45:38] Client "Super_idol" connected.
+[08:45:38] Client "LENusiiK" connected.
+[08:45:39] Client "NotWinner" connected.
+[08:45:41] Client "Mr_Pyro" connected.
+[08:46:00] Client "василий каратаев" connected.
+[08:46:02] Client "Redoket" connected.
+[08:46:19] Dropped "Temm4ancki" from server<STEAM_0:0:120410965>
+[08:46:29] Client "beliashالله أكبر" connected.
+[08:46:36] Client "Mr_Pyro" connected.
+[08:46:37] Client "LENusiiK" connected.
+[08:47:24] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[08:47:39] Dropped "PTSR Instructor" from server<STEAM_0:1:546487121>
+
+
+
+[08:49:50] New map: gm_whiten
+[08:49:55] Client "LENusiiK" connected.
+[08:50:17] Client "LENusiiK" spawned in server <STEAM_0:0:187688358> (took 22 seconds).
+[08:50:37] Client "LonePlayer022" connected.
+[08:50:40] Client "Super_idol" connected.
+[08:50:55] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 18 seconds).
+[08:50:56] Client "RusLanConnection" connected.
+[08:51:03] Client "beliashالله أكبر" connected.
+[08:51:18] Client "Super_idol" spawned in server <STEAM_0:1:595528414> (took 38 seconds).
+[08:51:18] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 22 seconds).
+[08:51:31] Client "PTSR Instructor" connected.
+[08:51:31] Client "beliashالله أكبر" spawned in server <STEAM_0:0:822301453> (took 28 seconds).
+[08:51:52] Client "дядя-шофер" connected.
+[08:51:59] Client "PTSR Instructor" spawned in server <STEAM_0:1:546487121> (took 28 seconds).
+[08:52:11] Client "дядя-шофер" spawned in server <STEAM_0:0:585511652> (took 19 seconds).
+[08:52:25] Client "Mr_Pyro" connected.
+[08:52:30] Client "Chupacabr" connected.
+[08:52:54] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 24 seconds).
+[08:53:01] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 36 seconds).
+[08:53:03] Client "Redoket" connected.
+[08:53:27] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 24 seconds).
+[08:54:23] Client "василий каратаев" connected.
+[08:54:29] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[08:54:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[08:54:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[08:54:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[08:54:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[08:55:17] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 54 seconds).
+[08:57:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezweapon_magpistol
+[08:57:20] василий каратаев: ТЫ ТОЖЕ
+[08:57:23] василий каратаев: ГОЛУБОЙЪ
+[08:58:12] Client ".pinkman" connected.
+[08:58:29] василий каратаев: КОНЕЧНО
+[08:58:35] Client ".pinkman" spawned in server <STEAM_0:0:241804584> (took 23 seconds).
+[08:58:39] Dropped "PTSR Instructor" from server<STEAM_0:1:546487121>
+[08:58:54] василий каратаев: ОНИ ДАЖЕ ОСНОВНУЮ БАЗУ НЕ ВИДЕЛИ НАША ПЕРЕДОВАЯ ВЫДЕРЖИВАЛА
+[08:58:58] василий каратаев: ВСЕ УДАРЫ
+[09:00:07] василий каратаев: ВЫПИВАЮ БЕНЗИН ЛИТР ЗА ЛИТРОМ
+[09:00:18] василий каратаев: СИЛА
+[09:00:27] василий каратаев: БЕНЗИНА
+[09:00:33] василий каратаев: РАСТЕКАЕТСЯ ПО МОИМ ЖИЛАМ
+[09:00:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[09:00:54] Super_idol: /@ Обьясните как спавнить мусор
+[09:01:19] Super_idol to admins: Обьясните как собирать мусор, прошу.
+[09:01:21] Client "магистр гойда" connected.
+[09:01:31] RusLanConnection teleported to Super_idol
+[09:01:34] LENusiiK: /pm Дядя ты где
+[09:01:57] василий каратаев: !menu
+[09:02:02] василий каратаев teleported to Super_idol
+[09:02:04] Client "PTSR Instructor" connected.
+[09:02:18] LonePlayer022 killed .pinkman using wep_jack_gmod_hands
+[09:02:20] Client "магистр гойда" spawned in server <STEAM_0:1:451253825> (took 59 seconds).
+[09:02:26] Client "PTSR Instructor" spawned in server <STEAM_0:1:546487121> (took 22 seconds).
+[09:02:37] Client "Delta62" connected.
+[09:03:24] RusLanConnection: !motd
+[09:03:27] Super_idol: /motd
+[09:03:34] Super_idol: !motd
+[09:03:55] Client "KIRKA" connected.
+[09:03:58] Client "Bend" connected.
+[09:04:06] Client "Delta62" spawned in server <STEAM_0:1:585409549> (took 89 seconds).
+[09:05:44] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[09:06:11] василий каратаев: МОЖЕТ БРУМНЫ?
+[09:06:18] Client "Vorelas" connected.
+[09:07:13] LENusiiK: diimon0536
+[09:07:36] .pinkman killed Delta62 using wep_jack_gmod_ezaxe
+[09:07:54] Dropped "Super_idol" from server<STEAM_0:1:595528414>
+[09:08:02] Client "Super_idol" connected.
+[09:08:29] Client "Super_idol" spawned in server <STEAM_0:1:595528414> (took 27 seconds).
+[09:08:39] Client "Gospodin" connected.
+[09:09:09] .pinkman killed Delta62 using wep_jack_gmod_ezaxe
+[09:09:17] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 322 seconds).
+[09:09:34] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[09:09:45] Client "Vorelas" spawned in server <STEAM_0:1:569086770> (took 207 seconds).
+[09:09:54] Client "lemonchik37" connected.
+[09:10:04] василий каратаев: НАДА НАЙТИ МЕССТО НЕДАЛЕКО ОТ СПАВНА ЧТОБЫ НУБОВ
+[09:10:07] василий каратаев: ГОПСТОПАТ
+[09:10:19] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[09:10:20] .pinkman killed Delta62 using wep_jack_gmod_ezaxe
+[09:10:23] Client "сын иуды" connected.
+[09:10:52] Client "BeTTa" connected.
+[09:11:21] PTSR Instructor killed .pinkman using wep_jack_gmod_flintlockmusket
+[09:12:02] Dropped ".pinkman" from server<STEAM_0:0:241804584>
+[09:12:34] KIRKA killed LonePlayer022 using wep_jack_gmod_hands
+[09:12:59] Client "BeTTa" spawned in server <STEAM_0:1:518409584> (took 127 seconds).
+[09:13:01] LonePlayer022 killed KIRKA using wep_jack_gmod_hands
+[09:13:04] Client "Delixit" connected.
+[09:13:46] Client "Delixit" spawned in server <STEAM_0:0:845226198> (took 42 seconds).
+[09:13:59] Client "lemonchik37" connected.
+[09:14:06] KIRKA: !menu
+[09:14:12] василий каратаев: К НАМ ХОТЯТ ЧУВАК ЗАЙТИ
+[09:14:15] василий каратаев: ПИНКМАН ИМЯ
+[09:14:19] василий каратаев: ПУСТЬ?
+[09:14:21] BeTTa: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:14:22] BeTTa: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:14:31] василий каратаев: ДАВАЙ ПОКА ВДВОЕ
+[09:15:22] Delixit: блеяш ты где
+[09:15:45] Client "сын иуды" spawned in server <STEAM_0:1:713126387> (took 322 seconds).
+[09:16:00] Vorelas: я
+[09:16:37] василий каратаев: ДАВА
+[09:16:40] василий каратаев: НАВАЛИС
+[09:16:53] BeTTa: /me показал военный билет Алексеев Г.И. | РЯД | 102-й МСП | МОБИЛ | - | - 
+[09:17:05] (TEAM) BeTTa: ш
+[09:17:19] сын иуды killed Super_idol using wep_jack_gmod_hands
+[09:17:28] Dropped "сын иуды" from server<STEAM_0:1:713126387>
+[09:18:29] Client "lemonchik37" spawned in server <STEAM_0:0:781722500> (took 270 seconds).
+[09:18:39] Super_idol to admins: Прошу тепнуть к скваду подпивасики
+[09:19:22] василий каратаев: НАДА НУТРИМЕНТЫ ЖРАТ
+[09:20:53] BeTTa: jmod_ez_inv
+[09:20:56] BeTTa: inv
+[09:21:25] василий каратаев: ФИЩГАН НЕ ОГРАНИЧИЛИ
+[09:21:28] василий каратаев: ЭТО ЗНАЧИТ
+[09:21:36] василий каратаев: ЗАККИДЫВАЕМ БОМБЫ ФИЗГАНОМ
+[09:21:41] KIRKA: bin i jmod_ez_inv
+[09:22:20] Delta62: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:22:23] PTSR Instructor: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:23:10] василий каратаев: РУЖЬЯ КАСКИ
+[09:23:52] василий каратаев: НУ ЕСЛИ ВЕЗДЕ ПОХОДИЛ
+[09:23:58] василий каратаев: ЗНАЧИТ ОНИ ПОД ЗЕМЛЕЙ
+[09:25:01] Client "fazzi" connected.
+[09:25:09] василий каратаев: ТУТ НЕ ПОЛУЧИТСЯ ДЕЛАТЬ ИЗ ПЕСКА ИНТЕРСНО
+[09:25:38] василий каратаев: ЭЙ
+[09:25:52] василий каратаев: ЧЕГО ТЫ ТУТ БРОДИШЬ
+[09:25:59] lemonchik37: просто
+[09:26:19] василий каратаев: НЕ ТАК НЕ ПАДЕТ РАЗВАРАЧИВАЙСЯ И ИДЫ ОТСЕДОВА ЭТО ТЕРРИТОРИЯ ГОСУДАР
+[09:26:22] василий каратаев: БРУМНЫИЯ
+[09:26:54] василий каратаев: ОСТАВЬ СКАНЕР
+[09:26:56] василий каратаев: ГДЕ ЛЕЖАЛ
+[09:27:27] василий каратаев: ЩАС
+[09:27:29] василий каратаев: ФАБРИКАТ
+[09:27:32] василий каратаев: ПОТОМ
+[09:27:34] василий каратаев: СПАВН
+[09:28:00] PTSR Instructor killed beliashالله أكبر using wep_jack_gmod_flintlockmusket
+[09:28:58] Client "$_nekit_$" connected.
+[09:29:14] lemonchik37: 'jmod_ez_inv
+[09:29:30] lemonchik37: jmod_ez_inv
+[09:29:39] LENusiiK killed LonePlayer022 using wep_jack_gmod_cabr
+[09:30:03] LENusiiK killed PTSR Instructor using wep_jack_gmod_sniperrifle
+[09:30:06] Client "joohhnnyy" connected.
+[09:30:10] Client "joohhnnyy" connected.
+[09:30:51] Delta62 killed LENusiiK using wep_jack_gmod_flintlockmusket
+[09:31:31] PTSR Instructor killed Delta62 using wep_jack_gmod_cabr
+[09:31:37] lemonchik37: 'jmod_ez_inv'
+[09:32:04] василий каратаев: ТАМ БАЗА НА ВОСТОКЕ
+[09:32:40] PTSR Instructor killed LonePlayer022 using wep_jack_gmod_sniperrifle
+[09:33:54] LENusiiK killed Delixit using wep_jack_gmod_ezshovel
+[09:34:32] beliashالله أكبر killed PTSR Instructor using player
+[09:34:49] beliashالله أكبر killed KIRKA using player
+[09:34:57] Delta62: Я ОПЯТЬ УМЕРАЮ
+[09:34:57] Client "Gentleman" connected.
+[09:35:04] Client "40" connected.
+[09:35:32] beliashالله أكبر killed LENusiiK using player
+[09:36:32] василий каратаев: СТРОЙ СТЕНЫ
+[09:36:44] KIRKA killed BeTTa using player
+[09:37:01] Dropped "lemonchik37" from server<STEAM_0:0:781722500>
+[09:37:17] KIRKA killed магистр гойда using player
+[09:37:40] LENusiiK killed LonePlayer022 using wep_jack_gmod_sniperrifle
+[09:38:21] BeTTa killed KIRKA using wep_jack_gmod_flintlockmusket
+[09:38:24] Client "Gentleman" spawned in server <STEAM_0:0:557571596> (took 207 seconds).
+[09:38:25] LENusiiK killed PTSR Instructor using wep_jack_gmod_ezshovel
+[09:38:28] дядя-шофер killed Super_idol using player
+[09:39:15] LENusiiK killed Delta62 using wep_jack_gmod_ezshovel
+[09:39:43] LonePlayer022 killed PTSR Instructor using wep_jack_gmod_ezaxe
+[09:39:45] LonePlayer022 killed Delixit using wep_jack_gmod_ezaxe
+[09:39:54] beliashالله أكبر killed LENusiiK using wep_jack_gmod_pas
+[09:39:59] KIRKA killed LonePlayer022 using wep_jack_gmod_bas
+[09:40:47] PTSR Instructor killed BeTTa using wep_jack_gmod_flintlockmusket
+[09:40:53] KIRKA killed магистр гойда using player
+[09:41:17] Client "vtorayalichnost228" connected.
+[09:41:59] PTSR Instructor killed Delta62 using wep_jack_gmod_battlerifle
+[09:42:24] Super_idol killed LonePlayer022 using wep_jack_gmod_flintlockmusket
+[09:43:01] KIRKA killed BeTTa using wep_jack_gmod_bas
+[09:44:11] Gentleman killed PTSR Instructor using wep_jack_gmod_ezshovel
+[09:45:13] PTSR Instructor killed Gentleman using wep_jack_gmod_sniperrifle
+[09:45:44] KIRKA killed BeTTa using wep_jack_gmod_bas
+[09:45:45] KIRKA killed магистр гойда using wep_jack_gmod_bas
+[09:45:59] василий каратаев: че
+[09:45:59] Dropped "Vorelas" from server<STEAM_0:1:569086770>
+[09:46:03] василий каратаев: ЕЩЕ РАЗ
+[09:46:08] Chupacabr: золотой запас брумеынии
+[09:46:11] Chupacabr: здесь
+[09:46:17] Chupacabr: тут есть жила
+[09:46:23] Chupacabr: в бункере соберём
+[09:46:26] василий каратаев: ОК 
+[09:46:28] василий каратаев: ТАМ И БУДЕТ ЕЩЕ
+[09:46:30] василий каратаев: ЗАПАС БОМБ
+[09:46:43] Client "Jr_byba" connected.
+[09:46:51] Delixit killed PTSR Instructor using wep_jack_gmod_flintlockmusket
+[09:47:51] LonePlayer022: Ку
+[09:48:04] LonePlayer022: Чо делайте?
+[09:48:16] Client "Kaurd" connected.
+[09:48:21] LonePlayer022: Круто, вам помоячь?
+[09:48:25] KIRKA killed LonePlayer022 using wep_jack_gmod_bas
+[09:48:52] LonePlayer022: Чел
+[09:48:56] LonePlayer022: Поможешь?
+[09:49:00] Gentleman: Чем
+[09:49:11] LonePlayer022: Надо людей истреблять
+[09:49:18] LonePlayer022: Топором
+[09:49:20] Gentleman: окей?
+[09:49:21] beliashالله أكبر killed магистр гойда using wep_jack_gmod_battlerifle
+[09:49:34] LonePlayer022: Ща
+[09:49:55] LonePlayer022: Бери топор и погнали мочить людей
+[09:49:59] Gentleman: щас
+[09:50:30] магистр гойда killed KIRKA using wep_jack_gmod_bas
+[09:50:35] Client "супер деда" connected.
+[09:50:53] LonePlayer022: : )
+[09:50:58] LonePlayer022: Мы братья
+[09:51:03] LonePlayer022: Мы кляйнеры
+[09:51:10] LonePlayer022: Погнали мочить!
+[09:51:14] Gentleman: как взять
+[09:51:17] Gentleman: тул бокс
+[09:51:28] LonePlayer022: алт + у
+[09:51:29] LonePlayer022: e
+[09:51:34] Gentleman: не работает чут чут
+[09:51:47] Client "Hofbräu_" connected.
+[09:51:49] LonePlayer022: Рил
+[09:51:52] LonePlayer022: Похуй
+[09:52:02] LonePlayer022: погнали бить людей топором
+[09:52:17] LonePlayer022: тулбокс нам не нужен
+[09:52:38] Client "Hofbräu_" spawned in server <STEAM_0:1:589191153> (took 51 seconds).
+[09:52:50] Client "супер деда" spawned in server <STEAM_0:1:492505709> (took 135 seconds).
+[09:53:07] Gentleman: может не стоит
+[09:53:12] Gentleman: бить людей топорм
+[09:53:13] LonePlayer022: Надо
+[09:53:21] Gentleman: я не особо хочу
+[09:53:26] LonePlayer022: Ты спрашиваешь у них
+[09:53:36] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 413 seconds).
+[09:53:41] Gentleman: мы
+[09:53:56] Gentleman: наш
+[09:53:59] KIRKA killed LonePlayer022 using wep_jack_gmod_bas
+[09:53:59] BeTTa killed Gentleman using wep_jack_gmod_flintlockmusket
+[09:54:18] LonePlayer022: Весело же : D
+[09:54:21] Gentleman: ну лан
+[09:55:12] LonePlayer022 killed супер деда using wep_jack_gmod_hands
+[09:55:28] LonePlayer022 killed супер деда using wep_jack_gmod_ezpickaxe
+[09:56:18] Gentleman: ок
+[09:56:59] KIRKA killed Gentleman using wep_jack_gmod_bas
+[09:57:05] Client "Vorelas" connected.
+[09:57:05] супер деда killed Jr_byba using wep_jack_gmod_ezaxe
+[09:57:16] KIRKA killed LonePlayer022 using wep_jack_gmod_bas
+[09:57:22] супер деда killed Gentleman using wep_jack_gmod_ezaxe
+[09:57:44] супер деда killed Gentleman using wep_jack_gmod_ezaxe
+[09:58:01] Client "Vorelas" connected.
+[09:58:06] супер деда killed Gentleman using wep_jack_gmod_ezaxe
+[09:58:26] Client "Vorelas" connected.
+[09:58:30] супер деда killed LonePlayer022 using wep_jack_gmod_ezaxe
+[09:58:32] супер деда killed Gentleman using wep_jack_gmod_ezaxe
+[09:59:14] LonePlayer022 killed супер деда using wep_jack_gmod_ezaxe
+[09:59:25] Client "Vorelas" connected.
+[10:00:27] Client "Vorelas" connected.
+[10:00:37] KIRKA killed LonePlayer022 using wep_jack_gmod_bas
+[10:01:04] Client "Vorelas" connected.
+[10:01:10] KIRKA killed LonePlayer022 using wep_jack_gmod_ezaxe
+[10:01:13] KIRKA killed Gentleman using wep_jack_gmod_ezaxe
+[10:02:10] василий каратаев: ЧУТЬ НЕ ПРИБИЛО
+[10:02:34] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider
+[10:02:41] LonePlayer022 killed магистр гойда using wep_jack_gmod_ezaxe
+[10:02:44] Client "Vorelas" connected.
+[10:02:44] BeTTa killed LonePlayer022 using wep_jack_gmod_ezaxe
+[10:02:47] дядя-шофер killed Jr_byba using wep_jack_gmod_battlerifle
+[10:03:20] василий каратаев: ТЫ ДОЛЖЕН ПОНИМАТЬ В КАКУЮ ФРАКЦИЮ ТЫ ПОПАЛ
+[10:03:32] василий каратаев: КАК ТЫ ПОНИМАЕШЬ
+[10:03:35] Client "Vorelas" connected.
+[10:03:38] василий каратаев: Я ЕЩЕ НИЧЕГО НЕ СКАЗАЛ
+[10:03:53] Client "Vorelas" connected.
+[10:03:57] василий каратаев: ТЫ МЕНЯ СЛУШАЕШЬ?
+[10:03:58] Client "Vorelas" connected.
+[10:04:26] Delixit killed Gentleman using wep_jack_gmod_sniperrifle
+[10:05:14] PTSR Instructor killed LonePlayer022 using wep_jack_gmod_battlerifle
+[10:05:15] PTSR Instructor killed Gentleman using wep_jack_gmod_battlerifle
+[10:05:36] PTSR Instructor killed LonePlayer022 using wep_jack_gmod_battlerifle
+[10:05:53] PTSR Instructor killed LonePlayer022 using wep_jack_gmod_battlerifle
+[10:06:08] василий каратаев: БУБА
+[10:06:19] василий каратаев: ЩА
+[10:06:39] Client "Vorelas" connected.
+[10:06:46] василий каратаев: ВОН
+[10:06:47] василий каратаев: ИДИ НА КП
+[10:06:48] Gentleman: хорошо
+[10:06:49] василий каратаев: КПП
+[10:06:55] василий каратаев: ВОН ГДЕ ДВЕРЬ
+[10:06:56] василий каратаев: ВИДИШ
+[10:07:08] василий каратаев: ЗАЙДИ
+[10:07:09] василий каратаев: ТУДЫ
+[10:07:10] василий каратаев: В ОКНО
+[10:07:12] василий каратаев: ПОГЛАЗЕЙ
+[10:07:45] Gentleman: и как же его создать
+[10:07:51] василий каратаев: ТЫ ПО КОМУ
+[10:07:57] RusLanConnection: !motd
+[10:07:57] василий каратаев: ЭТО
+[10:08:01] василий каратаев: БАЗА ЧЬЯТО
+[10:08:04] василий каратаев: НЕЗНАЮ
+[10:08:09] Gentleman: !motd
+[10:08:09] василий каратаев: ВРАГА ПОТЕНЦИАЛЬНОГО
+[10:08:12] василий каратаев: ПОСМОТРИ ТАМ
+[10:08:24] RusLanConnection cloaked Themself by amount 0
+[10:09:19] василий каратаев: ЩАС БУДЕТ
+[10:09:28] LonePlayer022: я ща
+[10:10:04] Client "Kaurd" connected.
+[10:10:10] Client "[CGI] Neka" connected.
+[10:10:17] василий каратаев: МОЩНАЯ ВИНТОВКА
+[10:11:27] василий каратаев: ТЫ КУДА СТРЕЛЯЕШ?
+[10:11:36] василий каратаев: ЗАЧЕМ В НИХ
+[10:11:41] василий каратаев: МЫ НЕ В ВОЙНЕ
+[10:11:46] василий каратаев: ДЕРЖИМ НЕЙТРАЛИТЕТ
+[10:11:48] василий каратаев: НИКОГО?
+[10:11:51] василий каратаев: ИДИ ПРОВЕРЬ ТАМ
+[10:11:55] василий каратаев: ПРИЙДЕШЬ СКАЖЕШ
+[10:11:58] LonePlayer022: это
+[10:12:01] LonePlayer022: Дс есть?
+[10:12:20] Gentleman: соре
+[10:12:26] Dropped "Gentleman" from server<STEAM_0:0:557571596>
+[10:12:29] LonePlayer022: а
+[10:12:31] LonePlayer022: похуй
+[10:12:32] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[10:12:50] Client "Kaurd" spawned in server <STEAM_0:1:590373553> (took 166 seconds).
+[10:12:52] BeTTa was killed by ent_jack_gmod_ezpumpjack
+[10:13:32] магистр гойда killed KIRKA using wep_jack_gmod_bas
+[10:14:49] василий каратаев: ЧТО ТАМ
+[10:14:59] василий каратаев: А НУ ДА ОН ВЫШЕЛ
+[10:15:03] василий каратаев: ТАМ ЯЩИК  С РЕСАМИ
+[10:15:07] василий каратаев: ПРИТАЩИ
+[10:17:10] KIRKA killed магистр гойда using wep_jack_gmod_bas
+[10:17:37] PTSR Instructor: Weed
+[10:17:47] PTSR Instructor: Smoking weed every day
+[10:19:11] Client "BINGO" connected.
+[10:19:54] Client "[CGI] Neka" spawned in server <STEAM_0:0:38525519> (took 584 seconds).
+[10:20:19] Delixit: я афк 10мин
+[10:20:27] Delta62: !menu
+[10:21:20] василий каратаев: ЧТО
+[10:21:31] KIRKA killed Kaurd using wep_jack_gmod_bas
+[10:21:33] василий каратаев: А ВДРУГ ЦЕНТР ПОЗВОНИТ
+[10:21:39] василий каратаев: А РАДИО ВЫКЛЮЧЕНО
+[10:23:10] KIRKA killed Kaurd using wep_jack_gmod_bas
+[10:23:35] [CGI] Neka: я от кирки
+[10:23:42] [CGI] Neka: я от кирки
+[10:23:49] Client "krytoi22132" connected.
+[10:24:33] василий каратаев: -2 85
+[10:24:47] василий каратаев: НЕ НЕ КЛАСТЕРНЫЕ ОСТАВЬ
+[10:24:51] [CGI] Neka: а что нам делать?
+[10:24:56] василий каратаев: ЭТО ПРОТИВ ЗДАНИЙ ПРЯМ КРУТЫЕ
+[10:25:00] василий каратаев: ЛУЧШЕ ОБЫЧНЫМИ
+[10:25:13] Client "BINGO" spawned in server <STEAM_0:0:760231940> (took 362 seconds).
+[10:25:20] василий каратаев: ЦЕЛЮС  ВФЛАГ
+[10:25:24] [CGI] Neka: так? - playermodel_selektor
+[10:25:24] василий каратаев: Э
+[10:25:26] василий каратаев: ДАВАЙ КАРОЧЕ
+[10:25:31] магистр гойда: playermodel_selector
+[10:25:32] василий каратаев: -10 22
+[10:25:41] василий каратаев: НАДА БУДЕТ ПОВОРАЧИВАТЬ НАПРАВО
+[10:25:56] василий каратаев: Я ГОВОРЮ
+[10:25:57] василий каратаев: -10
+[10:25:59] василий каратаев: 22
+[10:25:59] Client "Ghost Acelleron" connected.
+[10:26:05] василий каратаев: АА
+[10:26:06] василий каратаев: НЕ ТУДА
+[10:26:14] василий каратаев: -25 -20
+[10:26:19] василий каратаев: -10 -20
+[10:26:20] василий каратаев: ВОТ
+[10:26:24] василий каратаев: ДА СТРЕЛЯЙ УЖЕ
+[10:26:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[10:26:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[10:26:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[10:26:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[10:26:32] василий каратаев: -10 -20
+[10:26:33] [CGI] Neka: ебашить топором буду
+[10:26:39] [CGI] Neka: салам
+[10:26:42] Dropped "Super_idol" from server<STEAM_0:1:595528414>
+[10:26:43] Client "Super_idol" connected.
+[10:26:48] василий каратаев: -10 -20
+[10:26:54] василий каратаев: ХОТЯБЫ ПРИМЕРНО
+[10:26:57] [CGI] Neka: нет
+[10:27:13] василий каратаев: ГРАДУСЫ
+[10:27:14] [CGI] Neka: кирка
+[10:27:14] василий каратаев: 357
+[10:27:14] Client "Super_idol" spawned in server <STEAM_0:1:595528414> (took 31 seconds).
+[10:27:27] василий каратаев: ПОВЕРНИ
+[10:27:29] василий каратаев: ПУШКУ
+[10:27:42] Kaurd: !motd
+[10:27:44] BINGO: не знаю
+[10:27:49] KIRKA: bind i jmod_ez_inv
+[10:27:52] BINGO: война
+[10:27:57] BINGO: да
+[10:28:03] Kaurd: jmod_ez_econ
+[10:28:03] BINGO: слушай
+[10:28:20] BINGO: что тут надо делать я тут очнулся и тут что то лежит
+[10:28:30] BINGO: что с ним делать
+[10:28:32] BINGO: а
+[10:28:34] BINGO: помоги
+[10:28:43] BINGO: стой
+[10:28:55] BINGO: стоой
+[10:28:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[10:28:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[10:28:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[10:28:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[10:29:09] BINGO: я топор нашел
+[10:29:13] Client "krytoi22132" spawned in server <STEAM_0:0:919069459> (took 324 seconds).
+[10:29:19] BINGO: как я выглежу
+[10:29:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznutrients
+[10:29:38] BINGO: здрасте
+[10:29:44] BINGO: а вы кто
+[10:29:49] супер деда killed PTSR Instructor using wep_jack_gmod_flintlockmusket
+[10:29:53] BINGO: можно к вам
+[10:29:57] Delta62 killed супер деда using wep_jack_gmod_battlerifle
+[10:30:01] [CGI] Neka: заебашить бы кого нибудь топором
+[10:30:05] BINGO: а где он
+[10:30:07] RusLanConnection uncloaked Themself
+[10:30:20] BINGO: не стреляй
+[10:30:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[10:30:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[10:30:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[10:30:23] василий каратаев: КАК ЕЩЕ
+[10:30:38] василий каратаев: ЧТО ЕЩЕ РАЗ
+[10:30:49] василий каратаев: ДА ЗАЧЕМ
+[10:30:52] BINGO: кто тут главнй
+[10:30:56] [CGI] Neka: а ты кто?
+[10:31:00] василий каратаев: СОЛДАТЭ
+[10:31:03] василий каратаев: ИДИ СЮЛА
+[10:31:09] BINGO: я к вам хочу ваша охрана меня пустила
+[10:31:16] василий каратаев: ТЫ В НАРЯДЕ ПОНЯЛ ЭТО ПОПАДОС
+[10:31:21] RusLanConnection cloaked Themself by amount 0
+[10:31:23] василий каратаев: ИДЕШ В НАРЯД НА РАЗВЕДКУ ПО ФРАКЦИЯ
+[10:31:23] BINGO: а это кто там стоит
+[10:31:36] RusLanConnection teleported to василий каратаев
+[10:31:37] [CGI] Neka: отлично
+[10:31:41] василий каратаев: ЩАС ИДЕШЬ ИЩЕШЬ ЧУЖИЕ БАЗЫ И ЗАПОМИНАЕШЬ ИХ МЕСТОПОЛОЖЕНИЯ
+[10:31:43] BINGO: так слушайте можно к вам
+[10:31:46] [CGI] Neka: може дс группу нашего сквада сделать?
+[10:31:49] василий каратаев: НЕ ВОЗРВАЩАЙСЯ ПОНЯЛ
+[10:31:51] RusLanConnection teleported to BINGO
+[10:31:52] RusLanConnection teleported to BeTTa
+[10:31:52] василий каратаев: БЕЗ ДАННЫХ
+[10:31:54] RusLanConnection teleported to Chupacabr
+[10:31:59] [CGI] Neka: может дс группу нашего сквада сделать?
+[10:32:11] [CGI] Neka: гуд айдеа
+[10:32:27] [CGI] Neka: ГО
+[10:32:33] [CGI] Neka: ГОшники
+[10:32:37] BINGO: я не знаю
+[10:33:01] василий каратаев: Я ТЕБЕ ЧТО СКАЗАЛ
+[10:33:04] василий каратаев: ТЫ В НАРЯД ИДЕШ
+[10:33:10] василий каратаев: КТО ЯЩИК ПЕРЕВЕРНУЛ
+[10:33:16] василий каратаев: ДАВАЙ
+[10:33:18] василий каратаев: ПЕШКОМ
+[10:33:37] Client "Ghost Acelleron" spawned in server <STEAM_0:0:81641869> (took 458 seconds).
+[10:33:43] BINGO: можно к вам
+[10:33:55] BINGO: как скин сделать
+[10:34:09] BINGO: а вы кто
+[10:34:19] BINGO: вы кто
+[10:34:23] василий каратаев: ЯЩИК НАМ ПЕРЕВРНУЛ
+[10:34:26] василий каратаев: В НАРЯД ОТПРАВИЛИ
+[10:34:32] [CGI] Neka: похуй
+[10:34:36] BINGO: вы подпивасы
+[10:34:39] [CGI] Neka: возьмем потом патроны
+[10:34:41] BINGO: или кто
+[10:35:01] BINGO: я кинул
+[10:35:08] василий каратаев: ЧТО ЕЩЕ РАЗ
+[10:35:10] магистр гойда: playermodel_selector
+[10:35:12] [CGI] Neka: бля, честно, я не шарю о Jmod
+[10:35:15] василий каратаев: КЛАСТЕРНЫЕ?
+[10:35:17] василий каратаев: МОЖН
+[10:35:32] BINGO: все
+[10:35:41] василий каратаев: ИДЕТ КТОТО
+[10:35:45] василий каратаев: 2
+[10:36:07] Client "M4TV" connected.
+[10:36:27] Jr_byba: чо
+[10:36:41] Client "M4TV" spawned in server <STEAM_0:1:558724298> (took 34 seconds).
+[10:36:53] супер деда killed Ghost Acelleron using wep_jack_gmod_ezpickaxe
+[10:36:53] BINGO: а что мне делать
+[10:37:09] василий каратаев: ПО НАМ ВЕДУТ ОГОНЬ
+[10:37:23] [CGI] Neka: жаль Wiremod нету(
+[10:37:35] [CGI] Neka: я немного шарю
+[10:37:43] василий каратаев: -20 -43
+[10:37:53] [CGI] Neka: а на сендбоксе фоудил своей ракетницой
+[10:37:58] [CGI] Neka: флудил*
+[10:38:07] BINGO: я тоже
+[10:38:14] Jr_byba: спс
+[10:38:15] [CGI] Neka: там они 6-7 летней давности
+[10:38:16] василий каратаев: ЭТО БЫЛ ТЫ?
+[10:38:23] Jr_byba: да
+[10:38:25] RusLanConnection teleported to Jr_byba
+[10:38:28] василий каратаев: А ЧЕ ТЫ ПО НАМ ОГОНЬ ВЕЛ
+[10:38:36] василий каратаев: МЫ ДУМАЛИ ВРАГ
+[10:38:44] [CGI] Neka: на сервер тип прям ебейший, он 3D модели делал а поним механизмы на Wiremo
+[10:38:50] BINGO: трупный вирус?
+[10:38:53] василий каратаев: КАК МЫ МОГЛИ
+[10:38:54] Dropped "Ghost Acelleron" from server<STEAM_0:0:81641869>
+[10:38:55] василий каратаев: ПОЯНТЬ
+[10:38:58] василий каратаев: ИЗ ДАЛЕКА НЕ ВИДНО КТО
+[10:39:00] BINGO: ага
+[10:39:12] BINGO: понятно
+[10:39:23] BINGO: как
+[10:39:30] [CGI] Neka: ни хуя не умею, но я есть
+[10:39:36] BINGO: у меня топор
+[10:39:38] василий каратаев: ДАЖЕ ЕСЛИ ТАК ТЫ МОГ ПО НАМ ПОПАСТЬ
+[10:39:43] василий каратаев: ЧТО ЗА СТРЕЛЬБА ПО СВОИМ
+[10:39:56] василий каратаев: ИДИ ТРУП ЛУТАЙ СВОЙ И ОРУЖИЕ СОХРАНИ КАЗЕНОЕ
+[10:40:01] василий каратаев: ДОРОГОЕ ВСЕ ТАКИ
+[10:40:06] Delta62 killed Delixit using wep_jack_gmod_battlerifle
+[10:40:08] BINGO: что это
+[10:40:51] BINGO: понятно
+[10:41:37] [CGI] Neka: ооо
+[10:41:43] [CGI] Neka: Кирилка
+[10:42:23] BINGO: а где патроны
+[10:42:33] BINGO: о привет
+[10:42:37] beliashالله أكبر killed супер деда using wep_jack_gmod_amsr
+[10:42:54] BINGO: а где патроны
+[10:43:07] Dropped "супер деда" from server<STEAM_0:1:492505709>
+[10:44:17] BINGO: как патроны закинуть
+[10:44:29] (TEAM) Delixit: всем пока я спать
+[10:44:35] Dropped "Delixit" from server<STEAM_0:0:845226198>
+[10:44:45] BINGO: а как патроны взять
+[10:45:36] BINGO: а где патроны для мушкета
+[10:46:06] Delta62: !menu
+[10:46:13] василий каратаев: БУБА
+[10:46:16] василий каратаев: СОЛДАТ
+[10:46:23] василий каратаев: НАШЕЛ ЧЬЮТО БАЗУ?
+[10:46:28] BINGO: хз
+[10:46:33] василий каратаев: РАСКАЖИ О НЕЙ ПОПОДРОБНЕЙ
+[10:46:44] василий каратаев: ФРАКЦИЯ МОЖЕТ
+[10:46:50] василий каратаев: ИЛИ ЧУВАКОВ КОНКРЕТНЫХ УЗНАЛ
+[10:47:03] Delta62: !menu
+[10:47:04] василий каратаев: ГДЕ ЖИВУТ
+[10:47:05] BINGO: лысый
+[10:47:10] василий каратаев: А ХОТЯ ЗНАЕШЬ
+[10:47:13] василий каратаев: ДАВАЙ ТЫ
+[10:47:14] BINGO: есть патроны для мушкета
+[10:47:18] василий каратаев: ВОТ ТЕБЕ ЗАДАНИК
+[10:47:19] василий каратаев: БЕРИ
+[10:47:21] BINGO: ладно
+[10:47:28] BINGO: вы жоские
+[10:47:28] василий каратаев: ДАШЬ КОРДИНАТЫ
+[10:47:40] BINGO: кого
+[10:47:45] BINGO: ок
+[10:47:56] BINGO: мне без разницы
+[10:48:17] Client "zюka69" connected.
+[10:48:22] BINGO: хз
+[10:48:45] [CGI] Neka: без б
+[10:49:06] Client "BerraZZ CSS" connected.
+[10:49:11] BINGO: я тоже
+[10:49:21] BeTTa: мужики с этой базы
+[10:49:25] BeTTa: добывайте металл
+[10:51:02] BINGO: аа
+[10:51:12] BINGO: я испугался
+[10:51:36] BINGO: и
+[10:51:47] BINGO: за скоко
+[10:51:51] BINGO: нет
+[10:52:03] BINGO: да
+[10:53:00] василий каратаев: ГОВОРИ ЦИФРЫ
+[10:53:10] BINGO: это точно
+[10:53:19] василий каратаев: 138 -29
+[10:53:25] василий каратаев: ОНИ ТЕБЯ ЗАМЕТИЛИ?
+[10:53:41] василий каратаев: ХОРОШО
+[10:53:43] василий каратаев: А
+[10:53:45] василий каратаев: ТЫ НЕЗНАЕШЬ
+[10:53:49] василий каратаев: В КАКУЮ СТОРОНУ ОТ БАЗУ
+[10:53:51] василий каратаев: НАШЕЙ
+[10:54:06] василий каратаев: ФЛАГ ВИЖУ
+[10:54:20] василий каратаев: АГА 
+[10:54:32] Client "zюka69" spawned in server <STEAM_0:0:523969861> (took 375 seconds).
+[10:55:13] BINGO: ай
+[10:55:15] Delta62: !menu
+[10:55:25] василий каратаев: НЕТ ПОКА НЕНАДА
+[10:55:55] василий каратаев: А ТЫ
+[10:55:57] василий каратаев: ЧТО НИБУДЬ
+[10:56:00] василий каратаев: НА БАЗЕ ВИДЕЛ
+[10:56:03] василий каратаев: РАСКАЖИ О НЕЙ
+[10:56:07] василий каратаев: МОЖЕТ ТАНКИ ТАМ СТОЯТ
+[10:56:11] василий каратаев: КАКАЯ ТАМ ЗАЩИТА
+[10:56:16] BINGO: раст норм
+[10:56:47] LENusiiK: /me исполнил воинское приветствие 
+[10:56:51] krytoi22132 killed zюka69 using wep_jack_gmod_hands
+[10:57:22] BINGO: ага
+[10:57:36] василий каратаев: С НАШЕЙ БАЗЫ НЕВОЗМОЖНО ИЗ ЭТО ПУШКИ ВЕСТИ ОГОНЬ ТОЛЬКО ИЗ ТРАНСПОРТ�
+[10:57:43] василий каратаев: НО
+[10:57:46] василий каратаев: ХОТЯБЫ ЗАЩИТА НОРМ
+[10:58:13] Client "BerraZZ CSS" spawned in server <STEAM_0:0:126761716> (took 547 seconds).
+[10:58:38] BINGO: у меня кирамека
+[10:58:45] BINGO: смотрите
+[10:59:17] василий каратаев killed krytoi22132 using player
+[10:59:18] василий каратаев: НУ ТАМ НАДО В ИНВЕНАТРЕ ЧУЧТЬ БЕНЗА И ДЕРЕВА И МОЖНО ВЫБОРОЧНО
+[10:59:20] василий каратаев: ЖЕЧ
+[10:59:23] василий каратаев: Я ЩА
+[10:59:38] BeTTa: кирка
+[10:59:49] BINGO: а патроны
+[11:00:03] LENusiiK killed zюka69 using wep_jack_gmod_pas
+[11:00:13] LENusiiK killed krytoi22132 using wep_jack_gmod_pas
+[11:01:01] BINGO: разберать
+[11:01:13] Client "Gentleman" connected.
+[11:01:19] Dropped "krytoi22132" from server<STEAM_0:0:919069459>
+[11:01:23] василий каратаев: ПОКА НИЧЕГО
+[11:01:24] василий каратаев: ПРОСТО
+[11:01:26] василий каратаев: ЗНАТЬ
+[11:01:47] василий каратаев: МЫ ЗДЕСЬ НЕ САМАЯ КРУПНАЯ ФРАКЦИЯ МЫ ДОЛЖНЫ ЗНАТЬ О
+[11:01:54] василий каратаев: О ТЕХ КТО НА НАС МОЖЕТ ПОЗАРИЦА
+[11:02:09] zюka69: Bingo
+[11:02:10] василий каратаев: КОМАНДОВАНИЕ НЕ ОТПРАВЛЯЕТ НАМ ЛЮДЕЙ  ПОКА 
+[11:02:11] zюka69: Ебать
+[11:02:12] BINGO: это соседи
+[11:02:14] василий каратаев: ПОСТРОИЛИ ПРОСТО ОУТПОСТ
+[11:02:23] василий каратаев: ДЛЯ СЛЕДУЮЩЕГО
+[11:02:26] BINGO: да
+[11:02:41] василий каратаев: ЗАБИРАНИЯ ЭТОЙ ТЕРРИТОРИИ СЕБЕ
+[11:03:13] Client "Gentleman" spawned in server <STEAM_0:0:557571596> (took 120 seconds).
+[11:03:43] василий каратаев: !menu
+[11:04:01] василий каратаев stripped weapons from Themself
+[11:04:12] BerraZZ CSS to admins: можно руслана?
+[11:04:18] RusLanConnection teleported to BerraZZ CSS
+[11:05:04] Client "Солдат ОНП" connected.
+[11:05:06] Kaurd killed zюka69 using wep_jack_gmod_flintlockmusket
+[11:05:17] BerraZZ CSS: !
+[11:05:17] RusLanConnection: !motd
+[11:05:25] Jr_byba was killed by ent_jack_gmod_ezprojectilenade
+[11:05:25] beliashالله أكبر killed василий каратаев using wep_jack_gmod_battlerifle
+[11:05:27] BerraZZ CSS: !motd
+[11:05:32] BINGO: плюс трупный вирус
+[11:05:38] LENusiiK killed Chupacabr using wep_jack_gmod_pas
+[11:05:40] LENusiiK killed Jr_byba using wep_jack_gmod_pas
+[11:05:46] BINGO: это хорошо
+[11:05:48] beliashالله أكبر killed Chupacabr using wep_jack_gmod_battlerifle
+[11:05:54] BerraZZ CSS: https://youtu.be/oQHtat9VxrU
+[11:06:00] василий каратаев: ДА ТИХА
+[11:06:00] LENusiiK killed василий каратаев using wep_jack_gmod_pas
+[11:06:04] BINGO: слыште
+[11:06:13] BINGO: а кто по нам стреляет
+[11:06:19] BINGO: бомбами
+[11:07:12] василий каратаев: ВЫ НЕ ПОНЯЛИ НА КАГО БОЧКУ КАТИТЕ ЭТО ВС БРУМЫНИИ
+[11:07:30] василий каратаев: ЩАС ТУТ БУДЕТ ВСЯ ГРЕБАНАЯ АРМИЯ НАШЕГО ГОСУДАРСТВА
+[11:07:35] BINGO: стой
+[11:07:41] BINGO: зюка
+[11:07:43] BINGO: это я
+[11:07:48] василий каратаев: НУ ТАМ МЫ ОУТПОСТИК НЕ БОЛЬШОЙ
+[11:07:49] BINGO: он свой
+[11:08:02] BINGO: выживать
+[11:08:52] BINGO: ай
+[11:08:56] BINGO: щяс умру
+[11:08:59] Jr_byba: РУСЛААААААААААААН
+[11:08:59] [CGI] Neka killed zюka69 using wep_jack_gmod_battlerifle
+[11:09:12] Client "Rackman" connected.
+[11:09:23] василий каратаев: РУЧНЫЕ ГРАНАТАМЕТЫ?
+[11:09:26] василий каратаев: МЫ БЫЛИ ТУТ 
+[11:09:27] BINGO: я не умер еще пока
+[11:09:32] BINGO: значит все хорошо
+[11:09:32] Gentleman killed zюka69 using wep_jack_gmod_ezaxe
+[11:09:41] BINGO: секунду
+[11:09:47] Gentleman killed zюka69 using wep_jack_gmod_ezaxe
+[11:09:47] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 35 seconds).
+[11:10:14] BINGO: зюка
+[11:10:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[11:10:21] Gentleman killed zюka69 using wep_jack_gmod_ezaxe
+[11:10:23] BINGO: ты тут
+[11:10:34] василий каратаев: В БУНКЕР ПОБЕЖАЛИ
+[11:10:37] BINGO: ало
+[11:10:39] LENusiiK killed LENusiiK
+[11:10:41] Chupacabr killed Chupacabr
+[11:10:44] Jr_byba killed Jr_byba
+[11:10:52] василий каратаев killed василий каратаев
+[11:10:55] BINGO: зюка
+[11:10:58] RusLanConnection brought василий каратаев
+[11:10:59] RusLanConnection brought василий каратаев
+[11:10:59] RusLanConnection brought василий каратаев
+[11:11:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[11:11:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[11:11:17] Chupacabr killed Chupacabr
+[11:11:26] Jr_byba killed Jr_byba
+[11:11:28] Rackman: !menu
+[11:11:34] Rackman cloaked Themself by amount 0
+[11:11:36] Rackman granted god mode upon Themself
+[11:11:42] Rackman: !menu
+[11:11:49] Rackman teleported to RusLanConnection
+[11:11:50] Rackman teleported to RusLanConnection
+[11:11:51] Rackman teleported to RusLanConnection
+[11:11:52] Rackman teleported to RusLanConnection
+[11:11:52] Rackman teleported to RusLanConnection
+[11:11:53] Rackman teleported to RusLanConnection
+[11:11:53] Rackman teleported to RusLanConnection
+[11:11:54] Rackman teleported to RusLanConnection
+[11:11:54] Rackman teleported to RusLanConnection
+[11:11:55] Rackman teleported to RusLanConnection
+[11:11:55] Rackman teleported to RusLanConnection
+[11:11:55] Rackman teleported to RusLanConnection
+[11:11:58] Rackman teleported to василий каратаев
+[11:12:03] василий каратаев: ТАК
+[11:12:20] Dropped "BerraZZ CSS" from server<STEAM_0:0:126761716>
+[11:12:29] Client "white pavel" connected.
+[11:12:29] Client "white pavel" connected.
+[11:12:38] Rackman teleported to RusLanConnection
+[11:12:38] Rackman: !goto RusLanConnection
+[11:13:12] василий каратаев: ДА НЕНАДА
+[11:13:15] василий каратаев: ОН В КУРСЕ ЩАС
+[11:13:32] BINGO: что
+[11:13:45] KIRKA killed zюka69 using wep_jack_gmod_battlerifle
+[11:13:46] BINGO: зюка
+[11:13:54] BINGO: он зомби
+[11:13:57] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[11:14:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[11:14:38] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001a.mdl
+[11:14:49] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:14:58] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_pouch
+[11:15:00] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_backpack
+[11:15:03] BINGO: да емое
+[11:15:31] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:15:31] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:15:38] Dropped "zюka69" from server<STEAM_0:0:523969861>
+[11:16:24] Delta62: ammo
+[11:16:43] BINGO: чтто это
+[11:16:50] Client "мэр мира" connected.
+[11:16:55] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:17:54] магистр гойда: это хайп
+[11:18:00] Jr_byba: рус-
+[11:18:08] Jr_byba: лан
+[11:18:22] Super_idol: supply radio: advanced parts
+[11:18:34] Rackman<STEAM_0:0:221849271> spawned model models/hunter/plates/plate16x16.mdl
+[11:18:38] Jr_byba: иди ко мне
+[11:18:55] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[11:18:57] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[11:19:05] Chupacabr: supply radio: sentry
+[11:19:07] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:19:12] Dropped "Gentleman" from server<STEAM_0:0:557571596>
+[11:19:16] Client "Gentleman" connected.
+[11:19:36] Client "kiktusyara" connected.
+[11:19:37] RusLanConnection teleported to василий каратаев
+[11:19:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[11:19:46] Super_idol: supply radio: advanced parts
+[11:19:49] Delta62: supply radio: water
+[11:19:49] Client "Gentleman" spawned in server <STEAM_0:0:557571596> (took 33 seconds).
+[11:20:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[11:20:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[11:20:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[11:20:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[11:20:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[11:20:24] BINGO: как мусор спавнить
+[11:20:31] BINGO: нет
+[11:20:39] магистр гойда: !motd
+[11:20:52] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:20:53] магистр гойда: bind кнопка jmod_ez_inv
+[11:21:10] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:21:19] василий каратаев: НАДА ПРИДУМАТЬ Ч Е ЩААС СКАЗАНУТЬ
+[11:21:22] василий каратаев: Э
+[11:21:24] BINGO: не работает
+[11:21:33] RusLanConnection granted god mode upon Themself
+[11:21:33] BINGO: да
+[11:21:44] василий каратаев: БЫЛО СОВЕРШЕННО НАПАДЕНИЕ
+[11:21:47] BINGO: а на какой у тебя стоит
+[11:21:47] Client "white pavel" spawned in server <STEAM_0:0:453576677> (took 558 seconds).
+[11:21:51] василий каратаев: НА СОЛДАТ БРУМЫНИИ
+[11:21:53] василий каратаев: Э
+[11:21:55] BINGO: /me показал военный билет: [2563] [Иванов И.И.] {РЯД} [102-й МСП] [МОБИЛ] (-) | - |
+[11:22:01] BINGO: ладно пофиг
+[11:22:12] BINGO: /me показал военный билет: [2563] [Иванов И.И.] {РЯД} [102-й МСП] [МОБИЛ] (-) | - |
+[11:22:16] BINGO: да емое
+[11:22:17] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[11:22:20] василий каратаев: ЧУПАК ПРИДУМАЙ ЧТО ТИПО ИЗ ЦЕНТРА НЕЗНАЮ ЯДЕРНЫЕ КОНТИНГЕНТЫ
+[11:22:21] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_citroen_type23
+[11:22:24] василий каратаев: ДА КАКИЕ ЕТАМ
+[11:22:25] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:22:25] василий каратаев: ИЗВЕНЕНИЯ
+[11:22:32] василий каратаев: ЩАС
+[11:22:33] BINGO: как мусор спавнить
+[11:22:40] василий каратаев: ДАЖЕ ЕСЛИ ОНИ ОДУМАЮТСЯ
+[11:22:42] BINGO: как мусор спавнить
+[11:22:45] василий каратаев: Я ИЗ НЕ ПРОЩУ
+[11:22:51] BINGO: как
+[11:22:57] магистр гойда: bing j jmod_ez_inv
+[11:23:02] василий каратаев: ЩАС ЧЕ НИТЬ ИМПРОВИЗИРУЙЕМ
+[11:23:08] BINGO: я вставил
+[11:23:35] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:23:49] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[11:23:54] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[11:23:57] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:24:17] Dropped "Hofbräu_" from server<STEAM_0:1:589191153>
+[11:24:46] BINGO: блин
+[11:24:52] PTSR Instructor killed Jr_byba using wep_jack_gmod_fas
+[11:25:10] BINGO: керамика
+[11:25:21] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:25:23] Client "proglaret" connected.
+[11:25:26] BINGO: опять
+[11:25:28] Jr_byba: РУСЛААААААААААААААААААААААААААААААН
+[11:25:34] white pavel: !motd
+[11:25:45] Jr_byba: Я НА СПАВНЕ
+[11:26:05] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:26:28] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:27:01] Client "joulrex" connected.
+[11:27:02] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:27:08] BINGO: да
+[11:27:36] Client "hypeflexx" connected.
+[11:27:36] BINGO: шлем раздражает
+[11:28:19] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:28:27] василий каратаев: НАМ МАШИНА НУЖНА ТРАК ЗАСПАВНЬ
+[11:28:36] BINGO: кто
+[11:28:43] BINGO: а
+[11:28:55] василий каратаев: ТАК ЩАС
+[11:28:55] BINGO: не
+[11:29:05] RusLanConnection: ты ли это раакман
+[11:29:05] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_citroen_type23
+[11:29:12] Rackman: Кто же ещё может таким заниматься
+[11:29:20] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezutilitycrate
+[11:29:43] Rackman teleported to RusLanConnection
+[11:29:43] Rackman: !goto RusLanConnection
+[11:29:57] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[11:30:51] BINGO: понятно
+[11:30:54] василий каратаев: ПОЕХАЛЛИ
+[11:31:02] василий каратаев: ПОБЛИЖЕ
+[11:31:05] василий каратаев: НАВЕСТИСЬ И ТД
+[11:31:11] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[11:31:23] BINGO: да
+[11:31:31] BINGO: вроде не плохо
+[11:31:37] Rackman<STEAM_0:0:221849271> spawned sent ent_rus_spawnbase
+[11:31:45] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[11:31:46] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[11:31:46] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[11:31:46] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezceramic
+[11:31:50] BINGO: я афк
+[11:31:55] василий каратаев: ЗАЕДЕМ НА ГОРУ
+[11:31:59] василий каратаев: ВОН ТУ
+[11:32:14] василий каратаев: ДОБАВ РУСЛАНА В
+[11:32:16] василий каратаев: ДЖИМОД ФРЕНДС
+[11:32:30] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_citroen_type23
+[11:32:36] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:32:38] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:32:41] василий каратаев: ЭЭЭ А КАК НАМ ЯДЕРНЫЕ ТЕХНОЛОДЖИ ДЕЛАТЬ ЕСЛИ 
+[11:32:43] василий каратаев: 50
+[11:33:08] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:33:10] василий каратаев: НАС ПРОСТО ПОНИМАЕШЬ
+[11:33:11] василий каратаев: 2
+[11:33:14] василий каратаев: ИХ 5
+[11:33:16] василий каратаев: ИЛИ ШЕСТЕРО
+[11:33:17] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:33:18] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:33:21] василий каратаев: Я  БЫ СРАЗУ ЗАПУСТИЛ ЯДЕРНУЮ
+[11:33:22] василий каратаев: БОМБУ
+[11:33:26] василий каратаев: Я БЫ ДАЖЕ УБИЛСЯ
+[11:33:37] василий каратаев: НО ОНИЖЕ МОГУТ ПРОСТО ПОДЧИСТУЮ НАС ВЫКОСИТ А ЯДЕРКУ ЗАБРАЬЬ НАДО
+[11:33:42] василий каратаев: ДЕЛАТЬ ПОТАЙНУЮ БАЗУ
+[11:33:48] василий каратаев: ГДЕ ВСЕ БУДЕТ
+[11:34:24] PTSR Instructor killed василий каратаев using wep_jack_gmod_fas
+[11:34:33] PTSR Instructor killed Chupacabr using wep_jack_gmod_assaultrifle
+[11:34:42] beliashالله أكبر killed василий каратаев using wep_jack_gmod_battlerifle
+[11:34:46] Client "joulrex" spawned in server <STEAM_0:1:847835046> (took 465 seconds).
+[11:35:13] joulrex: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:35:14] василий каратаев: ОТХОДИМ
+[11:35:32] василий каратаев: ХЫХЫХЫ УБЕЖАЛИ
+[11:35:47] василий каратаев: ДА ПОФЕГ
+[11:36:06] василий каратаев: НАЙДЕМ МЕСТЕЧКО
+[11:36:07] Delta62 killed Jr_byba using wep_jack_gmod_amsr
+[11:36:32] joulrex: drfg
+[11:36:45] BINGO: идите за мнойц
+[11:36:48] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:36:50] BINGO: там чел умер
+[11:37:11] BINGO: и
+[11:37:14] василий каратаев: НАЕМНИКИ ВОЕННЫЕ ТРЕБУЮТСЯ
+[11:37:16] BINGO: емое
+[11:37:28] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:37:32] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:37:34] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:37:34] BINGO: я щя
+[11:37:47] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:38:08] василий каратаев: ВЫ КАКАЯ ФРАКЦИЯ
+[11:38:11] василий каратаев: ДАВАЙТЕ АЛЬЯНС ПОКА ВРЕМЕННЫЙ
+[11:38:17] (TEAM) joulrex: PĞOTYWQWR
+[11:38:18] joulrex: R
+[11:38:47] RusLanConnection teleported to Rackman
+[11:38:50] василий каратаев: ТАК ПОШЛИ ПОШЛИ
+[11:39:12] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:39:23] василий каратаев: ДАЙТЕ ТУЛБОКС
+[11:39:26] Jr_byba: дайте пж пж пж пж админку на 1 минуту
+[11:39:28] Dropped "joulrex" from server<STEAM_0:1:847835046>
+[11:39:29] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_citroen_type23
+[11:39:30] Super_idol to admins: Как завести грузовик ?
+[11:39:39] Gentleman: jmod_ez_econ
+[11:40:02] RusLanConnection teleported to Super_idol
+[11:40:20] Client "Timoxa" connected.
+[11:40:47] василий каратаев: ПОБЕЖАЛИ НАЙМНИКИ
+[11:41:00] василий каратаев: НАМ НУЖНО ОСВОБОДИТЬ БАЗУ СВЯАЗАЦА С ЦЕНТРОМ
+[11:41:18] василий каратаев: ПОШЛИ ПОШЛИ У МЕНЯ ГРЕНЫ ГАЗОЫВЕ ЗАКИДЫВЮ
+[11:41:22] василий каратаев: ОНИ ВЫБЕГАЮЬТЬ
+[11:41:25] василий каратаев: И ДОХНУТ
+[11:41:40] василий каратаев: ПОГНАЛИ
+[11:41:52] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:42:19] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:42:48] василий каратаев: ТИХО
+[11:43:01] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezantimatter
+[11:43:02] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:43:07] RusLanConnection teleported to василий каратаев
+[11:43:32] Dropped "Gentleman" from server<STEAM_0:0:557571596>
+[11:43:37] василий каратаев: ТАК
+[11:43:44] василий каратаев: НУЖНО ВЕСТИ НАБЛЮДЕНИЕ
+[11:43:52] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:43:55] василий каратаев: ЧТО
+[11:44:03] василий каратаев: ПОСМОТРИТЕ
+[11:44:11] василий каратаев: НУ НАМ ЦЕНТР ПРИСЫЛАЕТ
+[11:44:50] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:45:04] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:45:09] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[11:45:20] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_f
+[11:45:31] BINGO: здрасте
+[11:45:37] BINGO: да
+[11:45:49] BINGO: не
+[11:45:51] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:46:04] BINGO: хз спроси у главного
+[11:46:25] Rackman<STEAM_0:0:221849271> spawned sent lvs_renaultft_m
+[11:46:27] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:46:48] Super_idol to admins: А возможна ли покупка танка за например... 30 тысяч Jbux ?
+[11:46:56] RusLanConnection teleported to Super_idol
+[11:47:03] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:47:22] василий каратаев: МЕНЯ МЕНЯ
+[11:47:46] BINGO: помогите
+[11:47:51] BINGO: я заражен
+[11:47:58] BINGO: как
+[11:48:16] BINGO: аа
+[11:48:29] BINGO: дайте похавать  я заражен
+[11:48:40] BINGO: нету
+[11:48:43] василий каратаев: НУ НОРМАЛЬНО
+[11:48:45] BINGO: мы бомжи
+[11:49:12] BINGO: помогите я щяс умру
+[11:49:15] василий каратаев: ЧТО
+[11:49:31] RusLanConnection teleported to василий каратаев
+[11:49:42] BINGO: помоги
+[11:49:56] Client "SLAVA_BELARUSI" connected.
+[11:50:03] BINGO: стой
+[11:50:07] BINGO: я заражен
+[11:50:11] василий каратаев: ОНИ РЯДОМ
+[11:50:12] BINGO: не походи
+[11:50:19] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[11:50:53] Jr_byba: руслан РАЗБОМБИ ФРАКЦИЮ ПОТПИВАЦЫ
+[11:50:59] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[11:51:04] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:51:09] Dropped "LENusiiK" from server<STEAM_0:0:187688358>
+[11:51:10] Client "LENusiiK" connected.
+[11:51:13] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:51:37] Client "LENusiiK" spawned in server <STEAM_0:0:187688358> (took 27 seconds).
+[11:51:45] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:51:46] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:52:27] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:53:02] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:53:12] BINGO: а
+[11:53:21] BINGO: что кирка
+[11:53:38] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:53:38] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:53:39] BINGO: я видел
+[11:53:44] BINGO: я там сдох
+[11:54:12] Delta62 suicided!
+[11:54:15] BINGO: машину легкую
+[11:55:01] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:55:08] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:55:24] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:56:13] RusLanConnection teleported to василий каратаев
+[11:56:20] Kaurd killed [CGI] Neka using wep_jack_gmod_flintlockmusket
+[11:56:24] Jr_byba: НАМ П.И.З.Т.А
+[11:56:25] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001b.mdl
+[11:56:33] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/blastdoor001c.mdl
+[11:56:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:57:16] Dropped "PTSR Instructor" from server<STEAM_0:1:546487121>
+[11:57:20] Client "PTSR Instructor" connected.
+[11:57:44] Client "PTSR Instructor" spawned in server <STEAM_0:1:546487121> (took 24 seconds).
+[11:57:51] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsentry
+[11:57:51] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsentry
+[11:57:52] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsentry
+[11:57:52] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsentry
+[11:58:04] василий каратаев: СЛЕДИТЕ ЗА ГОРИЗОНТОМ
+[11:58:13] Kaurd killed магистр гойда using wep_jack_gmod_flintlockmusket
+[11:58:30] василий каратаев: СКРАФТИТЕ СЕБЕ
+[11:58:31] Dropped "Delta62" from server<STEAM_0:1:585409549>
+[11:58:35] василий каратаев: АНТИ МАТЕРИАЛ РИФЛ
+[11:58:39] BINGO: я умераю опять
+[11:58:43] василий каратаев: ПУЛЯ ЛЕТИТ МГНОВЕННО
+[11:58:51] KIRKA killed Kaurd using wep_jack_gmod_battlerifle
+[11:58:53] BINGO: и меня
+[11:58:59] BINGO killed [CGI] Neka using wep_jack_gmod_battlerifle
+[11:59:04] BINGO: меня тоже
+[11:59:20] Jr_byba was killed by ent_jack_gmod_ezsentry
+[11:59:30] василий каратаев: ТАК
+[11:59:33] василий каратаев: МОГУТ ИДТИ
+[11:59:49] василий каратаев: ЭТО БУБА
+[12:00:03] василий каратаев: БУБА ХОЧЕТ В ОТРЯД НО ОН БЕСПОЛЕЗНЫЙ
+[12:00:20] василий каратаев: ЛАДНО ПОШЛИТЕ
+[12:00:21] василий каратаев: ТИХО
+[12:00:23] василий каратаев: ЩАС Я 
+[12:00:25] василий каратаев: ДЕТПАКИ
+[12:00:31] BINGO: я умер
+[12:00:36] RusLanConnection teleported to Rackman
+[12:00:46] василий каратаев: ОНА НЕ ДОЛЕТАЕТ
+[12:00:48] BINGO: не могу
+[12:00:52] василий каратаев: МОЖЕМ
+[12:00:56] BINGO: я щяс умру
+[12:00:56] [CGI] Neka killed KIRKA using wep_jack_gmod_battlerifle
+[12:00:56] василий каратаев: ПАРУ ВЫСТРЕЛОВ СДЕЛАТЬ
+[12:01:03] BINGO: всем пока
+[12:01:12] BINGO: мне плохо
+[12:01:35] KIRKA killed [CGI] Neka using wep_jack_gmod_battlerifle
+[12:01:40] василий каратаев: ДАВАЙ ГРЕНАМИ ЗАКИНЕМ
+[12:01:40] RusLanConnection teleported to василий каратаев
+[12:01:44] Rackman teleported to василий каратаев
+[12:01:44] Rackman: !goto василий каратаев
+[12:01:44] василий каратаев: И ДЕТПАКИ
+[12:01:51] василий каратаев: ДЕТПАКАМИ ТОЧКУ СЛОМАЕМ
+[12:02:03] RusLanConnection revoked god mode from Themself
+[12:02:07] RusLanConnection uncloaked Themself
+[12:02:12] RusLanConnection stripped weapons from Themself
+[12:02:12] RusLanConnection: !strip RusLanConnection
+[12:02:19] василий каратаев to admins: РАКМАН
+[12:02:28] BINGO: там еще трупы
+[12:02:28] Rackman: !menu
+[12:02:37] BINGO: там капец много тупов
+[12:02:38] василий каратаев: БЕЗ СУДА И СЛЕДСТВИЯ 
+[12:02:40] василий каратаев: НЕМОГУ
+[12:02:45] Rackman to admins: Что?
+[12:02:49] василий каратаев: ТЫ ЧТО ТО ДЕЛАЛ ПЛОХОЕ В ЖИЗНИ?
+[12:02:52] BINGO: это капец
+[12:02:56] василий каратаев to admins: ДАВАЙ К НАМ
+[12:02:58] BINGO: да
+[12:03:01] BINGO: нету
+[12:03:01] василий каратаев killed PTSR Instructor using wep_jack_gmod_amr
+[12:03:13] магистр гойда killed Kaurd using wep_jack_gmod_battlerifle
+[12:03:17] BINGO: главное чтобы трупы не гнили
+[12:03:24] BINGO: фак
+[12:03:28] Rackman: !menu
+[12:03:31] василий каратаев: ЭТО КСТАТИ ИЗ ИХ ФРАКЦИИ
+[12:03:37] Rackman to admins: А вы богаты?
+[12:03:50] василий каратаев to admins: ДОСТАТОЧНО ЧТОБЫ ППРОВЕСТИ НЕБОЛЬШУ ВОЙНУ
+[12:03:53] василий каратаев: А ТЫ
+[12:03:54] василий каратаев: ГОВТО
+[12:03:55] василий каратаев: ГОЛЫЙ
+[12:03:55] Client "BerraZZ CSS" connected.
+[12:03:55] BINGO: я уже заразился
+[12:03:57] василий каратаев: БРОДИШ
+[12:04:00] василий каратаев: ПУШКИ
+[12:04:04] BINGO: меня не закапывать
+[12:04:08] Rackman: !asay А на тяжелый танк хватит?
+[12:04:13] Rackman: !menu
+[12:04:17] василий каратаев to admins: МЫ ИДЕМ СЕЙЧАС
+[12:04:24] магистр гойда killed [CGI] Neka using player
+[12:04:25] магистр гойда killed BINGO using wep_jack_gmod_battlerifle
+[12:04:32] Rackman to admins: Хз, я просто хотел бы свою последнюю херню газемную протестировать
+[12:04:48] василий каратаев to admins: У НАС ПРОСТО НЕТ ВРЕМЕНИИ НА ПОСТРОЙКИ УЖЕ ВСЕ ГОТОВО
+[12:04:51] василий каратаев: РУЦСЛАН
+[12:04:59] василий каратаев: У ТЕБЯ ЕСТЬ ДАННЫЕ СПУТНИКОВОЙ РАЗВЕДКИ
+[12:05:04] василий каратаев: ТЫ МОЖЕШЬ НАС СКАЗАТЬ ЧТО ТО
+[12:05:04] KIRKA killed Kaurd using wep_jack_gmod_battlerifle
+[12:05:07] василий каратаев: НЕТ
+[12:05:09] [CGI] Neka killed магистр гойда using wep_jack_gmod_battlerifle
+[12:05:11] василий каратаев: ИНФОРМАЦИИ
+[12:05:33] [CGI] Neka killed KIRKA using player
+[12:05:41] beliashالله أكبر: supply radio: steel
+[12:05:45] KIRKA killed BeTTa using player
+[12:05:45] Rackman uncloaked Themself
+[12:05:45] Rackman: !uncloak
+[12:05:47] Rackman revoked god mode from Themself
+[12:05:47] Rackman: !ungod
+[12:06:08] василий каратаев: ПОПРОСИ ИЗ ЦЕНТРА
+[12:06:17] василий каратаев: ПРАВИТЕЛЬСТВО
+[12:06:21] василий каратаев: ПО РАДИО
+[12:06:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[12:06:48] Kaurd killed [CGI] Neka using wep_jack_gmod_ezshovel
+[12:06:53] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[12:07:29] василий каратаев: У НАС 66 
+[12:07:31] василий каратаев: ТЫСЯЧ
+[12:07:36] василий каратаев: ВСЕ ИДЕМЦ
+[12:07:41] василий каратаев: ДЕЛАЕМ КРЮК
+[12:07:58] василий каратаев: ПОЗАДИ НАС БРУМЫНИЯ ГОСПОДА
+[12:08:03] василий каратаев: ЭТИ БАНДИТЫ
+[12:08:10] KIRKA killed Kaurd using wep_jack_gmod_ezshovel
+[12:08:13] BINGO: что
+[12:08:15] василий каратаев: НЕПОНИМАЮТ ЧТО СВЯЗАЛИСЬ С ГОСУДАРСТВЕННОЙ МАШИНОЙ
+[12:08:22] BINGO: у меня 100
+[12:08:22] василий каратаев: НЕЕТ
+[12:08:23] василий каратаев: МЫ
+[12:08:24] василий каратаев: ЗАЙДЕМ
+[12:08:27] василий каратаев: ГАЗОЫЙ
+[12:08:29] василий каратаев: ЗАКИДАЕМ
+[12:08:31] василий каратаев: ПРИКРЕПИМ
+[12:08:33] василий каратаев: ДЕТПАКИ
+[12:08:35] василий каратаев: К СТОЛИЦЕ
+[12:08:39] василий каратаев: И ПОБЕДА ИНСТА
+[12:08:45] василий каратаев: ЧУПАК
+[12:08:50] василий каратаев: А МЫ 
+[12:08:53] василий каратаев: ОКОЛЬНЫМИ ПУТЯМИ
+[12:09:04] василий каратаев: МОЖЕМ
+[12:09:14] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[12:09:14] Client "Rackman" connected.
+[12:09:26] василий каратаев: ГДЕ ГДЕ
+[12:09:35] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 21 seconds).
+[12:09:56] Rackman teleported to василий каратаев
+[12:09:56] Rackman: !goto василий каратаев
+[12:10:12] [CGI] Neka killed KIRKA using wep_jack_gmod_battlerifle
+[12:10:18] василий каратаев: КРАФТИМ СПАВН
+[12:10:21] василий каратаев: НАПИТЫВААЕМ
+[12:10:22] василий каратаев: МЕДКИТАМИ
+[12:10:26] василий каратаев: В Я ЩИК КЛАДЕМ
+[12:10:27] BINGO: бета
+[12:10:29] василий каратаев: СТАВИМ ГДЕ ТО 
+[12:10:31] BINGO: да
+[12:10:58] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[12:11:05] BINGO: я заражен
+[12:11:07] василий каратаев: ОТХОДИМ
+[12:11:08] BINGO: убить
+[12:11:22] василий каратаев: ЕСТЬ ТАМ
+[12:11:35] BINGO: это капец просто
+[12:11:47] BINGO: капец
+[12:11:57] BINGO: это нам
+[12:11:59] LENusiiK killed [CGI] Neka using player
+[12:12:30] [CGI] Neka killed BINGO using wep_jack_gmod_battlerifle
+[12:12:38] [CGI] Neka killed магистр гойда using wep_jack_gmod_battlerifle
+[12:13:21] василий каратаев: ТАК
+[12:13:23] василий каратаев: ЕСТЬ ИДЕЯ
+[12:13:27] василий каратаев: КОГДА ОНИ УЙДУТ НА ШТУРМ
+[12:13:31] василий каратаев: КТО ТО ПРОЙДЕТ НА БАЗУ
+[12:13:35] василий каратаев: И ПРОСТО ПОДОРВЕТ ИХ СТОЛИЦУ
+[12:13:46] BeTTa: supply radio: explosives
+[12:13:55] василий каратаев: ИЗ ЭТОЙ
+[12:14:11] василий каратаев: У МЕН
+[12:14:40] василий каратаев: 70
+[12:14:43] василий каратаев: ЩА
+[12:14:52] василий каратаев: 70 15
+[12:15:42] василий каратаев: ЩАС ВЗОВРЕМ
+[12:15:44] BINGO killed [CGI] Neka using player
+[12:16:52] василий каратаев: ОНИ ТУТ
+[12:17:13] дядя-шофер killed Chupacabr using wep_jack_gmod_battlerifle
+[12:17:13] Chupacabr killed beliashالله أكبر using player
+[12:17:32] BINGO: ура
+[12:17:33] Rackman killed beliashالله أكبر using wep_jack_gmod_amsr
+[12:17:51] PTSR Instructor killed василий каратаев using wep_jack_gmod_fas
+[12:17:51] Super_idol killed white pavel using lvs_wheeldrive_dodsherman
+[12:18:00] Dropped "beliashالله أكبر" from server<STEAM_0:0:822301453>
+[12:18:04] Client "beliashالله أكبر" connected.
+[12:18:04] BeTTa: supply radio: oil
+[12:18:08] Super_idol killed Chupacabr using lvs_wheeldrive_dodsherman
+[12:18:10] PTSR Instructor killed Jr_byba using wep_jack_gmod_assaultrifle
+[12:18:24] PTSR Instructor killed Jr_byba using wep_jack_gmod_assaultrifle
+[12:18:37] василий каратаев: ПАТРОНЫ КУПИ
+[12:18:49] Client "beliashالله أكبر" spawned in server <STEAM_0:0:822301453> (took 45 seconds).
+[12:18:57] PTSR Instructor killed M4TV using wep_jack_gmod_fas
+[12:19:04] Super_idol killed white pavel using lvs_wheeldrive_dodsherman
+[12:19:26] Chupacabr was killed by ent_jack_gmod_ezprojectilenade
+[12:19:47] RusLanConnection killed white pavel using ent_jack_gmod_ezchlorineparticle
+[12:19:47] василий каратаев suicided!
+[12:19:48] Chupacabr was killed by ent_jack_gmod_ezprojectilenade
+[12:19:56] M4TV killed LENusiiK using wep_jack_gmod_pas
+[12:19:59] PTSR Instructor killed white pavel using wep_jack_gmod_assaultrifle
+[12:20:16] василий каратаев killed василий каратаев
+[12:20:21] RusLanConnection killed Chupacabr using ent_jack_gmod_ezchlorineparticle
+[12:20:23] PTSR Instructor killed PTSR Instructor
+[12:20:27] BINGO: я с вами
+[12:20:38] white pavel killed white pavel
+[12:20:39] RusLanConnection killed дядя-шофер using wep_jack_gmod_assaultrifle
+[12:20:56] (TEAM) Kaurd: \
+[12:20:56] василий каратаев killed василий каратаев
+[12:21:11] white pavel killed white pavel
+[12:21:25] beliashالله أكبر killed RusLanConnection using wep_jack_gmod_assaultrifle
+[12:21:33] BINGO: я с тобой
+[12:21:39] BINGO: бета
+[12:21:43] BINGO: я с тобой
+[12:21:58] Dropped "LENusiiK" from server<STEAM_0:0:187688358>
+[12:21:59] Client "LENusiiK" connected.
+[12:22:25] Client "LENusiiK" spawned in server <STEAM_0:0:187688358> (took 26 seconds).
+[12:23:07] BINGO: как
+[12:23:13] Rackman killed beliashالله أكبر using wep_jack_gmod_amsr
+[12:23:18] BINGO: да
+[12:23:24] BINGO: да
+[12:23:29] Rackman killed LENusiiK using wep_jack_gmod_amsr
+[12:23:34] Rackman killed дядя-шофер using wep_jack_gmod_amsr
+[12:23:39] Super_idol to admins: Откуда взять для танка боеприпасы ?
+[12:23:48] василий каратаев: ДАВАЙТЕ ИХ ГРАНАТАМЕТАМИ 
+[12:23:52] василий каратаев: МАСОВО
+[12:24:32] BINGO: поехали
+[12:24:33] BeTTa: ПО ТАНКАМ
+[12:24:40] PTSR Instructor: supply radio: armor
+[12:24:47] василий каратаев: ВОДИЧКА ТОЛЬКО И ЗОЛОТО
+[12:24:48] василий каратаев: КЕРМИКАИ
+[12:25:25] BeTTa killed beliashالله أكبر using lvs_renaultft_m
+[12:25:28] василий каратаев: 2 ТАНКА ЕДУТ
+[12:25:34] BINGO: ты снайпер
+[12:25:49] BINGO: он прям красиво умер
+[12:26:02] Rackman killed PTSR Instructor using wep_jack_gmod_amsr
+[12:26:18] Super_idol was killed by ent_jack_gmod_ezminirocket
+[12:27:05] BeTTa: ураааа
+[12:27:05] василий каратаев: ТАК У КОГО ГРАНАТОМЕТЫ
+[12:27:07] василий каратаев: ПОШЛИТЕ
+[12:27:18] василий каратаев: НУ ПОШЛИТОГДА ТЫ
+[12:27:25] василий каратаев: ТАМ ЕСТЬ ЦЕЛЬ ТАНКИ
+[12:27:34] василий каратаев: ЭТО ДАСТ ВРЕМЯ
+[12:27:37] BINGO: куда едм
+[12:28:01] BINGO: а я нечего не понял но ладно
+[12:28:12] василий каратаев: ТАК
+[12:28:15] василий каратаев: ПАВЕЛ ОТНЕСИ
+[12:28:25] василий каратаев: ПЕРЕДАЙ РУСЛАНУ ЧТОБЫ СКРАФТИЛ
+[12:28:26] василий каратаев: ЧУПАК
+[12:28:36] Super_idol: !евьы
+[12:28:52] Super_idol to admins: Имеется ли дискорд сервер ?
+[12:28:53] василий каратаев: ЧУПАК ПОШЛИ НА ВЫЛАЗКУ
+[12:28:58] RusLanConnection teleported to Super_idol
+[12:29:04] BINGO: блин это как реально раст
+[12:29:21] василий каратаев: ДЕТПАКИ ЕСТЬ
+[12:29:51] василий каратаев: Я ФИЗГАН ПОТРЕЛЯ ПРОСТО ПРОПОМ ЕГО
+[12:29:54] Dropped "beliashالله أكبر" from server<STEAM_0:0:822301453>
+[12:29:59] Client "beliashالله أكبر" connected.
+[12:30:09] BINGO: без звука
+[12:30:12] василий каратаев: ГДЕ ТО РЯДОМ РАКМАН
+[12:30:24] василий каратаев: ЖДЕМС
+[12:30:30] Client "beliashالله أكبر" spawned in server <STEAM_0:0:822301453> (took 31 seconds).
+[12:31:22] василий каратаев: БРОНИК СДЕЛАЙ БЕЛ
+[12:31:43] василий каратаев: ПРИСЯД
+[12:32:00] BINGO: кста
+[12:32:04] BINGO: бета
+[12:32:17] BINGO: мне идет немецкий шлем
+[12:32:45] BINGO: жаль может взть скин го
+[12:33:17] Rackman was killed by ent_jack_gmod_ezminirocket
+[12:33:25] RusLanConnection returned Themself to their original position
+[12:33:27] василий каратаев: ОТДАТЬ ЧЕСТЬ
+[12:33:32] RusLanConnection teleported to василий каратаев
+[12:33:39] василий каратаев: ТАК ЛАДНО ДАВАЙ ИХ ХОТЯЬЫ ПРОСТО ЗАБРОСАЕМ
+[12:33:48] василий каратаев: СДЕЛАЕМ ЗАЛП И ОТОЙДЕМ
+[12:34:47] BINGO: мда кстат есть пак этого сервера
+[12:35:11] BINGO: тип есть или нету пака
+[12:35:21] RusLanConnection was killed by ent_jack_gmod_ezminirocket
+[12:35:23] василий каратаев: УХОИДМ
+[12:35:29] василий каратаев: ТАНКЕТАКА
+[12:35:30] BINGO: кто это
+[12:35:37] Chupacabr killed василий каратаев using ent_jack_gmod_ezdetpack
+[12:35:45] Chupacabr killed beliashالله أكبر using wep_jack_gmod_pas
+[12:35:49] Chupacabr was killed by env_fire
+[12:35:50] василий каратаев: ТАНКЕТКА ЕДЕТ
+[12:35:52] BINGO: что они делают
+[12:36:10] василий каратаев: ДА МЫШКА ВАШЕ ГАВНО НЕЛЬЗЯ СТРЕЛЯТЬ
+[12:36:19] Kaurd killed дядя-шофер using lvs_renaultft_m
+[12:36:32] BINGO killed beliashالله أكبر using wep_jack_gmod_battlerifle
+[12:36:33] василий каратаев: РАКМАН ОНИ ИДУТ СЮДА ВОЗЬМИ ДЕТПАКИ
+[12:36:50] василий каратаев: ОНИ ЕДУТ СЮДА
+[12:36:51] василий каратаев: СМОТРИТЕ
+[12:37:22] Client "mctempler" connected.
+[12:37:25] магистр гойда was killed by ent_jack_gmod_ezminirocket
+[12:37:32] BINGO killed дядя-шофер using wep_jack_gmod_battlerifle
+[12:37:41] BINGO killed beliashالله أكبر using wep_jack_gmod_battlerifle
+[12:37:42] LENusiiK suicided!
+[12:37:43] BINGO was killed by ent_jack_gmod_ezminirocket
+[12:37:56] BINGO: они нас предали
+[12:38:11] василий каратаев: ОНИ ИДУТ СЮДА
+[12:38:16] василий каратаев: СМОТРИТЕ ЗА ГОРИЗОНТОМ
+[12:38:42] [CGI] Neka: АЛО ПО СВОИМ НЕ НАО
+[12:39:51] (TEAM) дядя-шофер: ВСЕ Я НА БОКОВУЮ, РУСЛАН НУ И КОНЦ КАМЕРУ УСТРОИЛ
+[12:39:57] Dropped "дядя-шофер" from server<STEAM_0:0:585511652>
+[12:41:23] BINGO: вас убить
+[12:41:30] BINGO: вас убить
+[12:41:38] BINGO: зараженых
+[12:41:39] василий каратаев: ИДЕТ 1 КЛЯНЕР
+[12:41:44] василий каратаев: СБОКУ КПП
+[12:41:48] василий каратаев: ДАЙ ПШКУ
+[12:41:55] BINGO: я заражен
+[12:41:58] василий каратаев killed LENusiiK using wep_jack_gmod_battlerifle
+[12:42:02] BINGO: поличи
+[12:42:10] василий каратаев: ЗАМЕТИЛ ВРАГА
+[12:43:34] василий каратаев: ОДИН ПОДБЕЖАВШИЙ КЛЯНИР СКЛОНИЛ СТАТУС КВО
+[12:43:50] BINGO: ок
+[12:44:48] василий каратаев: СТАРЫЙ
+[12:44:50] василий каратаев: ОЧЕНЬ
+[12:44:54] василий каратаев: ЕЩЕ ДО БАЗЫ ЭТОЙ
+[12:44:55] BINGO: заражен
+[12:45:23] BINGO: спасибо
+[12:45:26] BINGO: пока
+[12:45:31] Dropped "Kaurd" from server<STEAM_0:1:590373553>
+[12:45:39] Rackman: supply radio: sleeping bag
+[12:45:43] BINGO: я все равно
+[12:45:47] BINGO: руа
+[12:45:49] BINGO: ура
+[12:45:54] BINGO: иммунитет
+[12:46:15] BINGO: так кому в друзья кинуть
+[12:46:26] BINGO: кому в друзья кидать
+[12:46:34] PTSR Instructor killed Super_idol using player
+[12:46:36] BINGO: бете
+[12:47:01] BINGO: один левнул
+[12:47:36] PTSR Instructor: supply radio: chemicals
+[12:48:00] BINGO: у нас иммунитет
+[12:48:01] PTSR Instructor: supply radio: global message
+[12:48:29] василий каратаев: ЧТО
+[12:48:40] Rackman: Спальный мешок можно в инвентарь засунуть когда он свернут?
+[12:48:50] василий каратаев: ЕГО МОЖНО НЕ СВОРАЧИВАТЬ 
+[12:48:56] василий каратаев: НУ ЩАС 
+[12:48:58] василий каратаев: ПРОВЕРИМ
+[12:48:59] BINGO: давайте к нам тогда
+[12:49:00] beliashالله أكبر killed [CGI] Neka using player
+[12:49:54] BINGO: нет
+[12:50:02] beliashالله أكبر: supply radio: timebombs
+[12:50:02] василий каратаев: ВОТ ДЕРЖИ
+[12:50:05] василий каратаев: РАКМАН
+[12:50:37] BINGO: да
+[12:50:49] BINGO: неет
+[12:50:51] beliashالله أكبر: supply radio: timebombs
+[12:50:53] BINGO: жалко
+[12:51:03] василий каратаев: ЩАС ПОИЗДЕВАЕМСЯ
+[12:51:22] BINGO: может тебя убить или ты норм
+[12:52:07] магистр гойда: supply radio: fulton-crate
+[12:52:44] василий каратаев: ПОБЕДНЫЙ ЗАЛП
+[12:53:16] beliashالله أكبر: supply radio: fulton-crate
+[12:53:35] василий каратаев: ДАВАЙТЕ
+[12:53:39] василий каратаев: НАРАЩИВАЕМ МОЩЬ
+[12:53:44] beliashالله أكبر: supply radio: fulton-crate
+[12:54:20] BINGO: шлем
+[12:54:24] BINGO: я знаю
+[12:54:52] василий каратаев: ЭТО БАНДИТЫ
+[12:54:55] PTSR Instructor: supply radio: global message
+[12:55:00] BINGO: это нам или кому то другому
+[12:55:01] beliashالله أكبر: supply radio: fulton-crate
+[12:55:22] PTSR Instructor: supply radio: fulton-crate
+[12:55:43] BINGO: а
+[12:55:44] beliashالله أكبر: supply radio: fulton-crate
+[12:55:47] LENusiiK to admins: ruslan погоди денег нету чтоб написать сообщение)))
+[12:55:50] BINGO: у меня нет
+[12:55:54] BINGO: его удалил
+[12:55:59] beliashالله أكبر: supply radio: fulton-crate
+[12:56:12] Client "Redoket" connected.
+[12:56:16] василий каратаев: Я БЫ ИХ СУДИЛ
+[12:56:18] василий каратаев: ВЫСШЕЙ МЕРОЙ
+[12:56:29] василий каратаев: БАНДИТЫ ДВАЧЕРЫ СОБРАЛИСЬ
+[12:56:30] PTSR Instructor: supply radio: fulton-crate
+[12:56:37] василий каратаев: ПОНАПРИДУМЫВАЮТ СЕБЕ
+[12:56:40] василий каратаев: ЭТО
+[12:56:52] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 40 seconds).
+[12:57:26] PTSR Instructor: supply radio: global message
+[12:57:42] PTSR Instructor: supply radio: global message
+[12:57:49] PTSR Instructor: supply radio: global message
+[12:57:58] василий каратаев: СЛАБАК РУСЛАН ИГРОКИ СРО ЭТО ТЕРПЯТ КАЖДЫЙ ДЕН
+[12:58:01] LENusiiK: supply radio: global message
+[12:58:03] BINGO: ребят я афк
+[12:58:10] LENusiiK to admins: радио не робит
+[12:58:15] LENusiiK: supply radio: global message
+[12:58:19] RusLanConnection teleported to LENusiiK
+[12:58:20] LENusiiK: supply radio: global message
+[12:58:40] LENusiiK: supply radio: global message
+[12:58:42] LENusiiK: supply radio: global message
+[12:58:57] василий каратаев: ЦЕНТР НЕ РАЗРЕШАЕТ НАМ ТУТ ДЕРЖАТЬ ТРАНСПОРТ
+[12:59:02] василий каратаев: БЕЗ ДОЗВОЛЕНИЯ ЦЕНТРА
+[12:59:03] LENusiiK: supply radio: global message
+[12:59:04] василий каратаев: НЕДЬЗЯ
+[12:59:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[12:59:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[12:59:33] василий каратаев: ПОМЕХИ СОЛНЕЧНЫЕ БУРИ
+[12:59:53] василий каратаев: ОНИ НЕЗНАЮТ НАШИХ КОДОВ ШИФРОВАНИЯ
+[12:59:54] RusLanConnection returned Themself to their original position
+[13:00:00] василий каратаев: ПЫТАЮТСЯ ДОЗВОНИТСЯ
+[13:00:08] BeTTa: /me показал военный билет Алексеев Г.И. | РЯД | 102-й МСП | МОБИЛ | - | - 
+[13:00:35] BeTTa: е
+[13:01:18] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[13:01:30] Client "BerraZZ CSS" connected.
+[13:01:53] василий каратаев: ОНИ ЕГО ОБЧИСТИЛИ
+[13:02:38] василий каратаев: ВАМ РАЗРЕШАЕТСЯ 
+[13:02:44] василий каратаев: ВЫБРОСИТЬ СВОЕ ОРУЖИЕ
+[13:02:56] василий каратаев: ПО ЭТОМУ И МИРНОМ
+[13:03:13] Client "BerraZZ CSS" spawned in server <STEAM_0:0:126761716> (took 103 seconds).
+[13:04:19] василий каратаев: БУБА
+[13:04:24] василий каратаев: ДАВАЙ СЮДА ГРАНАТАМЕТ
+[13:04:27] василий каратаев: ЧАЙНА РЕЧКУ
+[13:04:48] василий каратаев: СВЯСЪЦ
+[13:04:55] василий каратаев: АЛЕ
+[13:05:03] василий каратаев: АЛЕ
+[13:05:05] василий каратаев: НЕ СЛЫШУ
+[13:05:13] василий каратаев: ЧТО
+[13:05:23] василий каратаев: ТАК К НАМ ПРИЕХАЛИ НА МИРНЫЙ ДОГОВО
+[13:05:26] василий каратаев: ЧУПАК ИДИ К НЕМУ
+[13:05:43] василий каратаев: ЗАХОДИТЕ
+[13:05:46] василий каратаев: В БУНКЕР
+[13:05:59] василий каратаев: ГЛАВА ПЕРЕД ВАМИ
+[13:06:08] BerraZZ CSS: !motd
+[13:06:18] Client "Bill" connected.
+[13:07:17] василий каратаев: ОНИ ПОЛЕЗЛИ НА ТЕРРИТОРИЮ БРУМЫНИИ
+[13:07:38] василий каратаев: А
+[13:08:26] василий каратаев: БЛИЖЕ К СУТИ
+[13:08:47] василий каратаев: ЗДЕСЬ БЫЛО НАШЕ ХРАНИЛИЩЕ
+[13:08:49] василий каратаев: ИЗ НЕГО
+[13:08:51] василий каратаев: ЧТО ТО ПРОПАЛО
+[13:09:20] василий каратаев: ЗДЕС Э БЫЛО МИЛИОН СЛИТКОВ ЗОЛОТА
+[13:09:22] василий каратаев: ДАВАЙТЕ ТАЩИТЕ
+[13:09:37] василий каратаев: СКАЖИТЕ ПЕРВОЕ
+[13:09:43] василий каратаев: КТО ТУТ ВЫЙГРАЛ А КТО ПРОИГРАЛ
+[13:09:50] василий каратаев: ВЫ ПОНЕСЛИ НАМ РЕСУРСНЫЕ ПОТЕРИ
+[13:09:52] Client "Skrr Skra" connected.
+[13:10:32] василий каратаев: Я МОГУ СКАЗАТЬ ОДНУ ВЕЩЬ
+[13:10:52] василий каратаев: СДЕСЬ БЫЛ МАЛЕНЬКИЙ ОУТПОСТ БРУМЫНИИ
+[13:11:25] василий каратаев: Я ХОЧУ ПРОСТО ВЕРНУТЬ НАШЕ ЗОЛОТОЕ ДОСТОЯНИК
+[13:12:02] василий каратаев: СКОЛЬКО ВЫ УКРАЛИ
+[13:12:09] василий каратаев: А
+[13:12:11] BeTTa: админ
+[13:12:11] василий каратаев: ПРОСТО ПРОПАЛО
+[13:12:13] Client "Sam the piggy" connected.
+[13:12:14] василий каратаев: ЗОЛОТО
+[13:13:03] RusLanConnection teleported to BeTTa
+[13:13:09] василий каратаев: РЕПАРАЦИИ 
+[13:13:15] василий каратаев: 2000 ЗОЛОТА
+[13:13:19] василий каратаев: МОЖЕТЕ НАЧИНАТЬ
+[13:13:59] василий каратаев: ХМ
+[13:14:22] василий каратаев: 2000 ЭТО В СУММЕ ЗА НАНЕСЕННЫЕ ПОТЕРИ
+[13:14:27] василий каратаев: ВЫПЛАТЫ РОДСТВЕНИКАМ
+[13:14:28] RusLanConnection returned Themself to their original position
+[13:15:23] василий каратаев: ПОДОЖДИТЕ СЕКУНДУ
+[13:15:34] василий каратаев: ДА УБЕРИ ПУШКУ У НАС ГОСТИ
+[13:16:04] BINGO: ты кто
+[13:16:09] василий каратаев: АЛЕ
+[13:16:11] василий каратаев: КТО ТАМ
+[13:16:13] василий каратаев: ЦЕНТР
+[13:16:17] василий каратаев: ПОЛКОВНИК СЛУШАЕТ
+[13:16:20] BINGO: нам пофиг
+[13:16:25] BINGO: убей
+[13:16:54] Chupacabr was killed by ent_jack_gmod_ezprojectilenade
+[13:16:58] [CGI] Neka killed [CGI] Neka
+[13:16:58] Chupacabr killed PTSR Instructor using ent_jack_gmod_ezchlorineparticle
+[13:17:02] beliashالله أكبر was killed by ent_jack_gmod_ezprojectilenade
+[13:17:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[13:17:08] Chupacabr killed LENusiiK using ent_jack_gmod_ezchlorineparticle
+[13:17:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[13:17:21] BeTTa killed Jr_byba using wep_jack_gmod_pas
+[13:17:28] Client "Bill" spawned in server <STEAM_0:0:695152991> (took 670 seconds).
+[13:17:32] василий каратаев: СКАЖИТЕ ЧТО ВАСЮ СБРОСИЛИ
+[13:17:37] василий каратаев: С ПОЛКОВНИКА
+[13:17:42] василий каратаев: И РАКМАН ГЛАВНЫЙ ТЕПЕРЬ
+[13:18:47] RusLanConnection killed Jr_byba using ent_jack_gmod_ezchlorineparticle
+[13:19:04] white pavel: !motd
+[13:19:27] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[13:19:30] Redoket: Я ЛЮБЛЮ ПЛЫВИСКИ
+[13:19:44] PTSR Instructor: supply radio: global message
+[13:19:55] василий каратаев: ВАСИЛИЯ КАРАТАЕВА СБРОСИЛИ
+[13:20:03] василий каратаев: РАКМАН ТЕПЕРЬ ГЛАВНЫЙ
+[13:20:21] beliashالله أكبر killed Jr_byba using ent_jack_gmod_ezwarmine
+[13:20:25] Dropped "Bill" from server<STEAM_0:0:695152991>
+[13:20:29] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[13:20:32] василий каратаев: ЩАС ВПН ПОДРУБАЕМ
+[13:20:36] василий каратаев: ДЕЛАЕМ ГИНМ 
+[13:20:37] василий каратаев: БРУМНЫЫ
+[13:20:39] Client "Gentleman" connected.
+[13:20:50] василий каратаев: ДАВАЙТЕ
+[13:20:53] василий каратаев: ФОТАЙТЕ
+[13:20:55] василий каратаев: ВОЕН
+[13:20:56] Client "Skrr Skra" spawned in server <STEAM_0:1:67835559> (took 664 seconds).
+[13:20:58] василий каратаев: ЖУРНЫ
+[13:21:08] магистр гойда killed Jr_byba using wep_jack_gmod_pas
+[13:21:20] василий каратаев: ДЕЛАЙ ВИД
+[13:21:21] василий каратаев: ЧТО Я ФОТАЮ
+[13:21:22] Skrr Skra: Я ЛЮБЛЮ ПЛЫВИСКИ
+[13:21:23] василий каратаев: И ФОТАЙ МЕНЯ
+[13:21:42] Client "Gentleman" spawned in server <STEAM_0:0:557571596> (took 63 seconds).
+[13:21:57] Skrr Skra: в чем смвсл сервака?
+[13:22:01] Client "Sam the piggy" spawned in server <STEAM_0:1:220773360> (took 588 seconds).
+[13:22:05] Skrr Skra: // В чем смысл сервака?
+[13:22:26] Jr_byba was killed by ent_rus_spawnbase
+[13:22:42] василий каратаев: ЭМ
+[13:22:46] василий каратаев: ЩАС СКАЖУ
+[13:22:48] василий каратаев: МЕНЯ СБРОСИЛИ
+[13:22:53] василий каратаев: ГЛАВНОГО
+[13:23:00] василий каратаев: БЫЛ СОВЕРШЕН ПЕРЕВОРТ ВОЕННЫЙ ЛАКАЛЬНЫЙ
+[13:23:10] василий каратаев: А СОЛДАТЫ НЕДОВЛЬНЫ МОЕЙ
+[13:23:11] [CGI] Neka killed Redoket using wep_lanrp_jmod_kar98k
+[13:23:22] василий каратаев: МОИМ УПРАВЛЕНИЕ
+[13:23:29] василий каратаев: И ПЕРЕСТРЕЛЯЛО ВСЕХ
+[13:23:32] Dropped "Gentleman" from server<STEAM_0:0:557571596>
+[13:23:34] василий каратаев: НА МИРНЫХ ПЕРЕГОВОРАХ
+[13:23:37] Client "Gentleman" connected.
+[13:23:40] Skrr Skra to admins: Помогите че делать?
+[13:23:46] василий каратаев: НЕТ
+[13:23:48] василий каратаев: МЕНЯ СБРОСИЛИ
+[13:23:51] василий каратаев: Я ДАЛ ВОЗМОЖНОСТЬ
+[13:23:59] василий каратаев: ТЕПЕРЬ ЛИДЕР
+[13:24:01] василий каратаев: А КТО
+[13:24:11] Client "Gentleman" spawned in server <STEAM_0:0:557571596> (took 34 seconds).
+[13:24:16] магистр гойда killed магистр гойда
+[13:24:43] Client "losocina" connected.
+[13:25:04] василий каратаев: ЗАРЫТЬ ВСЕХ В БЕЗЫМЯНОЙ МОГИЛЕ
+[13:25:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_hazmat
+[13:25:47] BINGO: это мое
+[13:25:53] BINGO: не
+[13:25:59] BINGO: да
+[13:26:04] BINGO: не
+[13:26:31] Skrr Skra: !mot
+[13:26:34] Skrr Skra: !motd
+[13:26:46] Dropped "Sam the piggy" from server<STEAM_0:1:220773360>
+[13:27:17] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[13:27:35] василий каратаев: МЕНЯ ВЫЗЫВАЮТ НАСЧЕТ ИНЦЕДЕНТА НА ПЕРЕГОВОРАХ
+[13:28:11] василий каратаев: ПОГИБ НАШ СОЛДАТ
+[13:28:15] василий каратаев: ЗВАНИЕ ГЕРОЯ
+[13:28:18] BINGO: бета
+[13:28:19] василий каратаев: ПОСМЕРТНО
+[13:28:23] (TEAM) BeTTa: ау
+[13:28:24] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[13:28:27] BINGO: что за супер ойдол
+[13:28:39] (TEAM) BeTTa: а хер его знает, захотел к намэ
+[13:28:44] BINGO: а
+[13:28:56] BINGO: а что это у тебя за ерорка в руках
+[13:29:04] BeTTa: мед шприц
+[13:29:08] BINGO: а
+[13:29:58] BINGO: а
+[13:30:11] (TEAM) BeTTa: всем пацанам щас мы им покажем
+[13:30:52] BeTTa: НУ ЧЕ ПАЦАНЫэ
+[13:30:55] BeTTa: ГОТОВЫ 
+[13:30:59] Dropped "Gentleman" from server<STEAM_0:0:557571596>
+[13:31:01] BeTTa: ЩАС МЫ ИХ ТУДА СЮДА
+[13:31:01] [CGI] Neka: скоро все будут
+[13:31:06] [CGI] Neka: сунул вынул)
+[13:31:07] Client "NotWinner" connected.
+[13:31:08] BeTTa: ЕБАШИМ СЕЙЧАС
+[13:31:32] Client "NotWinner" spawned in server <STEAM_0:1:235165473> (took 25 seconds).
+[13:31:48] [CGI] Neka: бинго ты где?
+[13:32:02] Client "losocina" spawned in server <STEAM_0:0:536394832> (took 439 seconds).
+[13:32:06] Dropped "Super_idol" from server<STEAM_0:1:595528414>
+[13:32:07] Client "Super_idol" connected.
+[13:32:19] BeTTa: короче
+[13:32:21] BeTTa: идете
+[13:32:25] BeTTa: 5 минут
+[13:32:29] BeTTa: сбор у нашей базы
+[13:32:39] Client "Super_idol" spawned in server <STEAM_0:1:595528414> (took 32 seconds).
+[13:32:58] BeTTa: щас мы их ебать будем
+[13:33:14] losocina: САЛАМ
+[13:33:24] Skrr Skra to admins: Как снять броню?
+[13:33:33] Chupacabr killed beliashالله أكبر using wep_jack_gmod_amsr
+[13:34:59] [CGI] Neka: ПОЕХАЛИ
+[13:35:00] BINGO: f
+[13:35:04] BINGO: бета
+[13:35:04] BeTTa: НУ ЧЕ БЛЯ
+[13:35:10] BeTTa: ПОКАЗЫВАЙТЕ ГДЕ ОНИ
+[13:35:11] BINGO: пошли бета
+[13:35:21] BeTTa: УРААА
+[13:35:23] Jr_byba: ну почему
+[13:35:42] BINGO: бета
+[13:35:45] BINGO: поехали
+[13:36:15] losocina: как?
+[13:36:18] BINGO: я заражен
+[13:36:26] losocina: как ты её поднял?!
+[13:36:28] BeTTa: ебаный настрал
+[13:36:33] BINGO: ага
+[13:36:37] losocina: благодарю
+[13:36:53] losocina: чем?
+[13:36:59] losocina: а понял
+[13:37:07] losocina: спасибо за информацию
+[13:38:03] Chupacabr killed Skrr Skra using wep_jack_gmod_amsr
+[13:39:17] Chupacabr killed Super_idol using wep_jack_gmod_amsr
+[13:39:20] Chupacabr killed beliashالله أكبر using wep_jack_gmod_amsr
+[13:39:21] NotWinner killed Skrr Skra using wep_jack_gmod_ezpickaxe
+[13:39:25] BINGO: я заражен
+[13:39:35] NotWinner killed Skrr Skra using wep_jack_gmod_ezpickaxe
+[13:39:43] BINGO: я сяду чтобы не умереть
+[13:39:51] NotWinner killed Skrr Skra using wep_jack_gmod_ezpickaxe
+[13:39:54] BINGO: ураааааа
+[13:40:01] BINGO: я умру все равно
+[13:40:07] BINGO: мне пофиг
+[13:40:07] Chupacabr killed PTSR Instructor using wep_jack_gmod_amsr
+[13:40:07] NotWinner killed Skrr Skra using wep_jack_gmod_ezpickaxe
+[13:40:12] BINGO: за альянс
+[13:40:30] NotWinner killed Skrr Skra using wep_jack_gmod_ezpickaxe
+[13:40:33] Chupacabr killed Super_idol using wep_jack_gmod_amsr
+[13:40:46] NotWinner killed Skrr Skra using wep_jack_gmod_ezpickaxe
+[13:40:51] LENusiiK killed white pavel using wep_jack_gmod_fas
+[13:40:56] BINGO was killed by ent_jack_gmod_ezprojectilenade
+[13:40:56] магистр гойда was killed by ent_jack_gmod_ezprojectilenade
+[13:40:56] NotWinner: Да на хуй иди отсюда хуйло
+[13:41:02] Skrr Skra killed NotWinner using wep_jack_gmod_hands
+[13:41:09] losocina: польша
+[13:41:13] losocina: бля бдуу
+[13:41:14] (TEAM) NotWinner: ш
+[13:41:28] Chupacabr killed losocina using wep_jack_gmod_amsr
+[13:41:31] Chupacabr killed Super_idol using wep_jack_gmod_amsr
+[13:41:34] Skrr Skra killed NotWinner using wep_jack_gmod_ezpickaxe
+[13:41:44] LENusiiK killed Jr_byba using wep_jack_gmod_fas
+[13:41:48] Chupacabr killed white pavel using wep_jack_gmod_amsr
+[13:42:01] Skrr Skra was killed by ent_fumo_gmod_cratepack
+[13:42:22] LENusiiK killed M4TV using wep_jack_gmod_fas
+[13:42:22] Chupacabr killed white pavel using wep_jack_gmod_amsr
+[13:42:34] Super_idol suicided!
+[13:42:47] Chupacabr killed BeTTa using wep_jack_gmod_amsr
+[13:42:48] Dropped "M4TV" from server<STEAM_0:1:558724298>
+[13:42:54] NotWinner killed Skrr Skra using wep_jack_gmod_ezpickaxe
+[13:43:08] NotWinner killed Skrr Skra using wep_jack_gmod_ezpickaxe
+[13:43:17] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[13:43:20] NotWinner: Да съеби на хуй
+[13:43:25] NotWinner killed Skrr Skra using wep_jack_gmod_ezpickaxe
+[13:43:27] PTSR Instructor killed white pavel using wep_jack_gmod_sniperrifle
+[13:43:36] Chupacabr killed Super_idol using wep_jack_gmod_amsr
+[13:43:47] NotWinner: На хуй иди
+[13:43:55] [CGI] Neka killed LENusiiK using ent_jack_gmod_eztimebomb
+[13:43:55] [CGI] Neka suicided!
+[13:44:10] losocina killed Jr_byba using wep_jack_gmod_ezaxe
+[13:44:37] магистр гойда killed Chupacabr using wep_jack_gmod_battlerifle
+[13:44:39] BeTTa killed losocina using wep_jack_gmod_bas
+[13:45:11] [CGI] Neka suicided!
+[13:45:11] [CGI] Neka killed white pavel using ent_jack_gmod_eztimebomb
+[13:45:20] Dropped "магистр гойда" from server<STEAM_0:1:451253825>
+[13:45:32] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[13:45:55] PTSR Instructor killed Super_idol using wep_jack_gmod_machinepistol
+[13:46:26] PTSR Instructor killed white pavel using wep_jack_gmod_machinepistol
+[13:46:31] Dropped "white pavel" from server<STEAM_0:0:453576677>
+[13:46:46] Super_idol to admins: Можете написать ссылку на ДС прошу ?
+[13:46:50] Skrr Skra: !motd
+[13:47:09] Dropped "losocina" from server<STEAM_0:0:536394832>
+[13:47:28] PTSR Instructor killed NotWinner using wep_jack_gmod_machinepistol
+[13:47:50] PTSR Instructor killed Super_idol using wep_jack_gmod_machinepistol
+[13:49:31] Client "Rackman" connected.
+[13:50:00] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 29 seconds).
+[13:50:22] Rackman teleported to NotWinner
+[13:50:22] Rackman: !goto NotWinner
+[13:50:26] NotWinner: Ебать ты
+[13:50:28] NotWinner: Страшный
+[13:50:34] Client "бык-осеменитель" connected.
+[13:50:35] NotWinner: Да я не помню уже
+[13:50:38] NotWinner: Ник типа
+[13:50:44] Rackman: !menu
+[13:50:44] NotWinner: Друг друга перехуярили чут чут
+[13:50:46] NotWinner: И всё
+[13:50:55] Jr_byba: supply radio: medkits
+[13:51:55] Rackman: !menu
+[13:52:06] Rackman cloaked Themself by amount 0
+[13:52:08] Rackman granted god mode upon Themself
+[13:52:10] Dropped "BINGO" from server<STEAM_0:0:760231940>
+[13:52:23] Rackman: !menu
+[13:52:32] [CGI] Neka: парное фото на память?
+[13:52:42] Rackman teleported to BeTTa
+[13:52:49] [CGI] Neka: фото на память?
+[13:52:52] BeTTa: даа
+[13:53:39] PTSR Instructor killed BeTTa using player
+[13:53:47] Rackman: !menu
+[13:54:40] Super_idol to admins: Так можно ссылку на ДС проекта ?
+[13:54:48] Rackman teleported to Super_idol
+[13:54:48] Rackman: !goto Super_idol
+[13:55:09] NotWinner: Уйо
+[13:55:11] Rackman: https://discord.gg/6YJm4weG
+[13:55:17] NotWinner: Бля
+[13:55:20] NotWinner: А нахуй так
+[13:55:21] NotWinner: Ты
+[13:55:33] NotWinner: ну типо
+[13:55:38] NotWinner: Контейнер сделал бы
+[13:55:39] NotWinner: Огромный
+[13:55:40] [CGI] Neka killed Jr_byba using wep_jack_gmod_sniperrifle
+[13:55:45] Rackman: .!voice
+[13:55:50] NotWinner: Они быстро делаются
+[13:56:25] NotWinner: Всё
+[13:56:30] NotWinner: Делай
+[13:56:35] Dropped "BeTTa" from server<STEAM_0:1:518409584>
+[13:56:45] NotWinner: Не умри ток
+[13:56:53] NotWinner: за 700
+[13:57:23] NotWinner: Всё
+[13:57:25] Super_idol: x
+[13:57:26] NotWinner: Разбирай
+[13:57:28] NotWinner: Коробки
+[13:57:39] Rackman: !menu
+[13:58:11] NotWinner: Ты
+[13:58:14] NotWinner: Стой
+[13:58:15] NotWinner: На месте
+[13:58:18] NotWinner: Ты заражён?
+[13:58:20] (csay from Rackman) Если что, введя !voice в чат можно увидеть список голосов для печатанья и поставить какой вам понравиться
+[13:58:28] NotWinner: Ты заражён?!
+[13:58:35] Rackman: !menu
+[13:58:35] NotWinner: УЙДИ!
+[13:58:36] (csay from Rackman) Если что, введя !voice в чат можно увидеть список голосов для печатанья и поставить какой вам понравиться
+[13:58:37] (csay from Rackman) Если что, введя !voice в чат можно увидеть список голосов для печатанья и поставить какой вам понравиться
+[13:58:37] (csay from Rackman) Если что, введя !voice в чат можно увидеть список голосов для печатанья и поставить какой вам понравиться
+[13:58:48] NotWinner: ты умрёшь если подойдёшь
+[13:58:54] NotWinner: Прости
+[13:58:55] NotWinner: Но ты
+[13:58:57] NotWinner: БЛЯТЬ
+[13:59:00] Rackman: !menu
+[13:59:06] NotWinner: Сука
+[13:59:09] NotWinner: Я заразился
+[13:59:10] Rackman revoked god mode from Themself
+[13:59:19] NotWinner: Мне пизда
+[13:59:30] NotWinner: ИДИ СЮДА
+[13:59:44] NotWinner: Кароче
+[13:59:48] NotWinner: Делай второй верстак
+[13:59:55] NotWinner: Он в самом низу 
+[14:00:00] NotWinner: Да
+[14:00:05] PTSR Instructor killed beliashالله أكبر using wep_jack_gmod_machinepistol
+[14:00:07] NotWinner: Ну вот
+[14:00:09] Rackman: !menu
+[14:00:09] NotWinner: Делай верст
+[14:00:12] NotWinner: Там медикаменты
+[14:00:18] Rackman teleported to Super_idol
+[14:00:20] NotWinner: И еду можно скрафтить
+[14:00:27] NotWinner: Ну я сдохну ты не успеешьл
+[14:00:43] NotWinner: Дерева
+[14:00:45] NotWinner: Не хватает
+[14:00:50] NotWinner: Подтопи печь
+[14:01:03] NotWinner: Блять пизда
+[14:01:07] NotWinner: Всё
+[14:01:11] NotWinner: Филита ля комедия
+[14:01:14] NotWinner: неа
+[14:01:26] Rackman: !menu
+[14:01:27] NotWinner: Я ещё вернусь
+[14:01:33] Rackman granted god mode upon Themself
+[14:02:08] LENusiiK: diimon0536
+[14:02:17] Super_idol: П
+[14:02:29] NotWinner: Стой
+[14:02:34] NotWinner: Там за деньги
+[14:02:40] NotWinner: Кароче
+[14:02:43] NotWinner: Чтобы деньги получать
+[14:02:51] NotWinner: Фракцию создай
+[14:02:56] NotWinner: Будут деньги
+[14:03:16] [CGI] Neka: беляш
+[14:03:19] [CGI] Neka: мы на базу
+[14:04:32] Rackman: !menu
+[14:05:22] NotWinner: Ща
+[14:05:40] Rackman: !menu
+[14:06:31] (csay from Rackman) Распологать панели прямо вверх (Тоесть часть где отображены статы на земле) на самом деле плохо
+[14:06:35] (csay from Rackman) Распологать панели прямо вверх (Тоесть часть где отображены статы на земле) на самом деле плохо
+[14:06:40] NotWinner: Я знаю
+[14:06:55] NotWinner: Бля
+[14:06:58] NotWinner: Надо перевернуть
+[14:07:35] NotWinner: ща
+[14:07:37] NotWinner: Отключи
+[14:07:40] NotWinner: Стой стой
+[14:07:46] Rackman: !menu
+[14:08:03] Jr_byba killed Skrr Skra using wep_jack_gmod_flintlockmusket
+[14:08:04] Rackman teleported to Super_idol
+[14:08:19] PTSR Instructor killed Jr_byba using wep_jack_gmod_battlerifle
+[14:08:36] NotWinner: Блять
+[14:08:38] NotWinner: Опят
+[14:09:08] Rackman: !menu
+[14:09:16] Rackman revoked god mode from Themself
+[14:09:23] PTSR Instructor killed Jr_byba using wep_jack_gmod_amsr
+[14:09:46] beliashالله أكبر killed beliashالله أكبر
+[14:09:46] beliashالله أكبر killed Super_idol
+[14:09:47] beliashالله أكبر killed Rackman
+[14:09:54] Dropped "Skrr Skra" from server<STEAM_0:1:67835559>
+[14:09:58] Rackman: !menu
+[14:10:13] Rackman uncloaked Themself
+[14:11:08] NotWinner: ща
+[14:11:11] beliashالله أكبر killed Jr_byba using wep_jack_gmod_flintlockmusket
+[14:11:25] NotWinner: там и нефть
+[14:11:32] NotWinner: Ща чекним
+[14:13:09] NotWinner: да
+[14:13:11] NotWinner: Да пох
+[14:13:15] NotWinner: Ща исправим
+[14:13:56] NotWinner: !motd
+[14:14:18] beliashالله أكبر killed Rackman using wep_jack_gmod_bas
+[14:14:23] [CGI] Neka killed Jr_byba using wep_jack_gmod_sniperrifle
+[14:14:37] Rackman: !menu
+[14:14:38] Rackman cloaked Themself by amount 0
+[14:15:40] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/watermelon01.mdl
+[14:15:45] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/watermelon01.mdl
+[14:15:52] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/watermelon01.mdl
+[14:15:56] beliashالله أكبر killed Jr_byba using wep_jack_gmod_bas
+[14:16:02] Dropped "PTSR Instructor" from server<STEAM_0:1:546487121>
+[14:16:14] Rackman: !menu
+[14:16:17] Rackman granted god mode upon Themself
+[14:16:19] NotWinner: О
+[14:16:22] Dropped "[CGI] Neka" from server<STEAM_0:0:38525519>
+[14:17:08] Rackman: !menu
+[14:17:09] Rackman granted god mode upon Themself
+[14:17:10] Rackman revoked god mode from Themself
+[14:17:54] Rackman: !menu
+[14:18:01] Rackman teleported to Super_idol
+[14:21:06] Jr_byba killed beliashالله أكبر using wep_jack_gmod_dmr
+[14:21:06] NotWinner: Похуй продаём
+[14:21:24] NotWinner: Погнали тогда сталь хуярить
+[14:21:25] NotWinner: ща
+[14:21:36] NotWinner: НЕНЕНЕ
+[14:21:39] NotWinner: ПРОДАЁМ МЕДЬ
+[14:21:43] NotWinner: ОНА 8 ДОЛЛАРОВ СТОИТ
+[14:21:46] NotWinner: А СТАЛЬ 0.94
+[14:21:49] NotWinner: jmod_ez_econ
+[14:21:53] NotWinner: Курс
+[14:21:54] BerraZZ CSS: !ЬЩВЕ
+[14:22:09] Rackman: Это баг, фантомы
+[14:22:34] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[14:22:55] NotWinner: Бля
+[14:22:59] NotWinner: Надо захуярить их
+[14:23:00] NotWinner: А то чё они
+[14:23:04] NotWinner: К нам приезжают
+[14:23:10] Super_idol to admins: Дайте прошу камеру, фотки поделать
+[14:23:12] Rackman: !menu
+[14:23:29] NotWinner: На мушкетные порох нужен
+[14:23:32] NotWinner: На другое всё аммо
+[14:23:47] NotWinner: Да
+[14:24:53] Rackman: !menu
+[14:25:07] Rackman uncloaked Themself
+[14:25:35] Rackman: Я с вами покатаюсь?
+[14:25:41] NotWinner: Пойдём
+[14:25:59] NotWinner: делай 250 электричества
+[14:26:02] Rackman: !menu
+[14:26:04] NotWinner: И хуярь себе физган
+[14:26:05] Rackman cloaked Themself by amount 0
+[14:26:07] NotWinner: В tools
+[14:26:26] NotWinner: делай
+[14:26:32] NotWinner: В инвенторе
+[14:26:37] NotWinner: Так
+[14:26:39] NotWinner: Теперь
+[14:28:37] NotWinner: ЕБА
+[14:28:40] NotWinner: Сюда лут
+[14:29:00] NotWinner: Видел денег
+[14:29:14] NotWinner: Так
+[14:29:17] NotWinner: Геотермальный ген
+[14:29:28] NotWinner: Нужен чтобы халявная энергия на воде была
+[14:29:31] NotWinner: Но
+[14:29:36] NotWinner: Источники 
+[14:29:40] NotWinner: Редкие
+[14:29:46] Client "Naller" connected.
+[14:29:48] NotWinner: Вон там
+[14:29:49] NotWinner: Естьб
+[14:29:54] NotWinner: Да
+[14:30:09] NotWinner: ща ещё 5 к
+[14:30:12] NotWinner: И новый верстак
+[14:30:20] NotWinner: да
+[14:30:32] NotWinner: Бля
+[14:30:36] NotWinner: Не хватает энергии
+[14:31:43] NotWinner: Так блэт
+[14:31:48] NotWinner: Паровые генераторы делаем?
+[14:31:50] NotWinner: А бля
+[14:31:52] NotWinner: Угля нет
+[14:32:01] NotWinner: Лан похуй
+[14:32:13] NotWinner: Стой
+[14:32:14] NotWinner: Стой
+[14:32:20] NotWinner: Ща на геотермалку пойдём
+[14:32:31] NotWinner: Железа надо
+[14:32:58] NotWinner: Я пойду поищу
+[14:33:02] NotWinner: Пока сделай 
+[14:33:03] NotWinner: Ща
+[14:33:11] NotWinner: 100 гвоздей
+[14:33:15] NotWinner: и 400 железа
+[14:35:00] NotWinner: нашёл
+[14:35:19] NotWinner: А кста
+[14:35:28] NotWinner: тут можно ещё и выращивать кукурузу
+[14:35:30] NotWinner: и деревья
+[14:35:59] NotWinner: ждем
+[14:36:12] NotWinner: Дрель 
+[14:36:24] NotWinner: Иди
+[14:36:44] NotWinner: Че не робит
+[14:36:45] NotWinner: Сука
+[14:36:55] NotWinner: Где заряд
+[14:37:12] NotWinner: лан ща
+[14:37:14] NotWinner: всм
+[14:37:18] NotWinner: Вырабатывают
+[14:37:21] NotWinner: Со временем
+[14:37:32] NotWinner: Во
+[14:39:12] Rackman: !menu
+[14:39:17] Rackman teleported to Super_idol
+[14:39:18] Rackman teleported to Super_idol
+[14:39:19] NotWinner: нихуя не защищает
+[14:39:35] NotWinner: да
+[14:41:17] Rackman: !menu
+[14:41:46] (csay from Rackman) Чет все брумцы давно ливнули а фрака отображается в списке, баг
+[14:44:07] BerraZZ CSS: shut up
+[14:45:13] Dropped "beliashالله أكبر" from server<STEAM_0:0:822301453>
+[14:45:34] BerraZZ CSS: /requests
+[14:51:02] Rackman<STEAM_0:0:221849271> spawned NPC npc_citizen
+[14:54:04] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[14:57:45] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_dodtiger
+[14:59:46] Rackman: !menu
+[14:59:57] Rackman uncloaked Themself
+[15:01:01] Rackman: !menu
+[15:01:03] Rackman cloaked Themself by amount 0
+[15:01:28] NotWinner: Да
+[15:01:54] NotWinner: да не
+[15:02:01] NotWinner: хз
+[15:02:14] NotWinner: А нахуя нести если можно к тачке привязать
+[15:02:19] NotWinner: Да
+[15:02:25] NotWinner: Ща
+[15:02:48] NotWinner: да тут всё легко
+[15:02:51] NotWinner: Я сам думал сложно
+[15:02:55] Rackman: !menu
+[15:02:56] NotWinner: Просто запомнил что да как
+[15:03:05] NotWinner: Так я тоже получил по ебалу
+[15:03:11] NotWinner: Потому что выебывался
+[15:03:14] NotWinner: Стой
+[15:03:17] NotWinner: А там ящик есть?
+[15:03:21] (csay from Rackman) Я услышал что кто-то поинтересовался как целились брумынцы
+[15:03:22] (csay from Rackman) Я услышал что кто-то поинтересовался как целились брумынцы
+[15:03:24] NotWinner: Такой же?
+[15:03:26] NotWinner: Бляя
+[15:03:27] (csay from Rackman) Все просто
+[15:03:28] (csay from Rackman) Все просто
+[15:03:29] NotWinner: Тогда не сможем
+[15:03:31] NotWinner: Ща
+[15:03:37] NotWinner: А
+[15:03:39] NotWinner: ну всё
+[15:03:51] (csay from Rackman) Пушка показывает координаты, бинокль показывает координаты куда смотришь, догадываетесь как по вам целили?
+[15:03:56] (csay from Rackman) Пушка показывает координаты, бинокль показывает координаты куда смотришь, догадываетесь как по вам целили?
+[15:03:58] (csay from Rackman) Пушка показывает координаты, бинокль показывает координаты куда смотришь, догадываетесь как по вам целили?
+[15:04:26] BerraZZ CSS: shut up
+[15:04:27] BerraZZ CSS: shut up
+[15:04:27] BerraZZ CSS: shut up
+[15:04:28] BerraZZ CSS: shut up
+[15:04:29] BerraZZ CSS: shut up
+[15:04:30] BerraZZ CSS: shut up
+[15:04:30] NotWinner: Я ЛЮБЛЮ ПЛЫВИСКИ
+[15:04:53] NotWinner: ЕБАТЬ
+[15:04:56] NotWinner: ТАНКИ ЖИВЫЕ?
+[15:05:04] NotWinner: Сваркой починить
+[15:05:06] NotWinner: и всё гуд
+[15:05:19] NotWinner: Если без башни нет
+[15:05:22] NotWinner: БЛЯЯЯ
+[15:05:26] NotWinner: Придавило
+[15:05:27] BerraZZ CSS: вхахвахвахва
+[15:05:55] NotWinner: так блэт
+[15:06:43] NotWinner: голда хуйня
+[15:07:29] NotWinner: Ну и всё
+[15:08:34] NotWinner: Я слежу за грузом
+[15:08:55] NotWinner: Все  топ 
+[15:08:58] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezdiamond
+[15:08:58] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezdiamond
+[15:08:59] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezdiamond
+[15:09:12] NotWinner: да
+[15:09:16] NotWinner: Ну вот так
+[15:09:21] NotWinner: Веревка решает
+[15:09:26] NotWinner: Мы так с типами уран пиздили
+[15:09:48] NotWinner: да
+[15:10:04] NotWinner: ну золото хуйня
+[15:10:09] NotWinner: Дорогое но продается дешево
+[15:10:14] NotWinner: Курс хуевый
+[15:10:38] NotWinner: Кто?
+[15:10:44] NotWinner: Меч?
+[15:10:48] NotWinner: А
+[15:10:56] NotWinner: Медь 8 долларов, для новичков охуенно
+[15:10:59] NotWinner: о
+[15:11:03] NotWinner: в итоге 17 к подняли
+[15:11:14] NotWinner: Бля
+[15:11:18] NotWinner: ну
+[15:11:20] NotWinner: Пойдём
+[15:11:31] NotWinner: Альт е и ресы
+[15:11:35] LENusiiK: supply radio: armor
+[15:11:38] NotWinner: Ну
+[15:11:41] NotWinner: Броня
+[15:12:06] LENusiiK: supply radio: workbench
+[15:12:08] Rackman<STEAM_0:0:221849271> spawned sent lvs_item_transmission_manual
+[15:12:15] NotWinner: Это верстак
+[15:12:19] NotWinner: Мб на складе у них нету
+[15:12:20] NotWinner: У ботов
+[15:12:22] Rackman<STEAM_0:0:221849271> spawned sent lvs_item_compressor
+[15:12:24] LENusiiK: supply radio: fulton-crate
+[15:12:30] Super_idol: supply radio: armor
+[15:12:32] NotWinner: Либо это наше радио
+[15:12:32] LENusiiK: supply radio: ammo
+[15:12:33] NotWinner: поэтому
+[15:12:38] LENusiiK: supply radio: ammo
+[15:12:41] LENusiiK: supply radio: global message
+[15:13:03] NotWinner: да
+[15:13:05] NotWinner: Но тебя
+[15:13:07] NotWinner: легко попустить
+[15:13:11] NotWinner: С помощью огнемёта
+[15:13:18] NotWinner: Да
+[15:13:30] NotWinner: ЕБАТь
+[15:13:33] NotWinner: ОТКУДА
+[15:13:35] NotWinner: АЛМАЗЫ
+[15:13:40] NotWinner: да
+[15:13:42] NotWinner: Там 200 штук
+[15:13:43] NotWinner: было
+[15:13:47] NotWinner: я в контейнер положил
+[15:13:52] NotWinner: Ну типо мега дорогие
+[15:14:12] NotWinner: СтОЙ
+[15:14:51] Rackman<STEAM_0:0:221849271> spawned sent lvs_item_turbo
+[15:15:40] NotWinner: Давай
+[15:15:55] Rackman: !menu
+[15:16:02] NotWinner: Отойди от базы 
+[15:16:03] NotWinner: бля
+[15:16:14] (csay from Rackman) Джаггернауты не такие уж и бессмертные как кажется
+[15:16:15] (csay from Rackman) Джаггернауты не такие уж и бессмертные как кажется
+[15:16:22] (csay from Rackman) Газ, огонь и взрывчатка 
+[15:16:23] (csay from Rackman) Газ, огонь и взрывчатка 
+[15:16:59] Rackman: Я в ней воевал как обычный человек
+[15:17:13] Rackman: Ну, я шпионом был
+[15:17:19] Rackman: Да
+[15:17:27] Rackman: Дураки в воздух ебашить?
+[15:17:36] Rackman: Ок
+[15:17:44] NotWinner: Ура щас ограбим на 5 к
+[15:17:45] Rackman: Вот так лучше?
+[15:18:05] LENusiiK: f
+[15:18:08] NotWinner: Ди
+[15:18:10] LENusiiK: привет люди
+[15:18:11] NotWinner: Пидиди?!
+[15:18:23] LENusiiK: ракприваргимирвармирвригамирваирмирпаврип иврамирирвамирэ
+[15:18:53] NotWinner: Го за танками
+[15:19:02] NotWinner: ща
+[15:19:22] NotWinner: Погнали
+[15:19:42] Rackman: Брумынци как лохи слились или дали сопротивление когда ливнули 4 гла�
+[15:20:09] Rackman: Василий каратаев, Я, chupacabr и RusLanConnection
+[15:20:29] NotWinner: Блять какого хуя уже 2:21
+[15:20:35] Rackman: Похоже те кто отслась
+[15:20:39] Rackman: Были лоу скильные
+[15:20:56] Rackman: Чувак, там такая эпидемия была
+[15:21:00] Rackman: Везде этот супер СПИД
+[15:21:11] Rackman: Меня уже достала эта болезнь
+[15:21:15] Rackman: Я просил Руслана понерфить
+[15:21:19] Rackman: Но без ответа пока
+[15:21:20] NotWinner: Болезнь кайф
+[15:21:25] NotWinner: На ворота положить трупики
+[15:21:26] NotWinner: и всё
+[15:21:33] Rackman: Противогаз не спасает ПОКА ЧТО
+[15:21:38] Rackman: Но это пофикстя
+[15:21:52] Rackman: Я уже видел
+[15:22:00] Rackman: Я все это время за вами летал так-то
+[15:22:08] Rackman: ДА
+[15:22:15] Rackman: Забавно
+[15:22:21] Rackman: Ну да
+[15:22:38] NotWinner: Але ракман
+[15:22:42] NotWinner: Какого хуя танк закрыт
+[15:22:44] Rackman: У нас какой-то чел даже лор пытается развивать
+[15:22:49] Rackman: Убитые танки не починить
+[15:22:52] NotWinner: Пиздец
+[15:22:54] NotWinner: Я думал можно
+[15:23:06] Rackman: Раньше мы вообще
+[15:23:09] Rackman: Были на пустыне
+[15:23:14] Rackman: А самая первая карта
+[15:23:17] Rackman: Была с островами
+[15:23:57] Rackman: Ладно, все равно сервер перезапустится днем
+[15:24:05] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznukerocket
+[15:24:08] NotWinner: БЛЯТЬ
+[15:24:09] NotWinner: НЕТ
+[15:24:23] Rackman: Направь
+[15:24:25] Rackman: Физганом
+[15:24:38] NotWinner: В меня 
+[15:24:51] NotWinner: ракман
+[15:24:55] NotWinner: А тачилу починить можно?
+[15:25:03] Rackman: Нельзя, я сам на это когда-то повелся
+[15:25:08] NotWinner: Пиздец
+[15:25:10] NotWinner: И на хуй сварка
+[15:25:16] Rackman: Чинит то что не убито
+[15:25:18] NotWinner: Я на сварщика учусь, всё починить можно
+[15:25:43] Rackman: Ну тут я вам не помогу, я сам ядерки не пускал никогда ибо презираю их
+[15:25:44] NotWinner: Альт е
+[15:25:54] NotWinner: Щелкнуть должна
+[15:25:57] Rackman: Я люблю воевать по настоящему
+[15:26:00] Rackman: Когда хаос битвы
+[15:26:01] NotWinner: и потом уже лаунч или триггер
+[15:26:05] Rackman: А не просто нажатие кнопки и взрыв
+[15:26:54] Rackman: К слову, видели ПВО в тулбоксе?
+[15:27:03] Rackman: Оно умеет сбивать ракеты
+[15:27:09] Rackman: ЩАс
+[15:27:46] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[15:27:50] Super_idol killed NotWinner using wep_aboot_jmod_annabelle
+[15:27:51] Rackman teleported to Super_idol
+[15:27:51] Rackman: !goto Super_idol
+[15:28:41] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezprecparts
+[15:28:43] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[15:28:50] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezadvparts
+[15:28:50] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezadvparts
+[15:28:50] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezadvparts
+[15:28:50] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezadvparts
+[15:28:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[15:28:54] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[15:29:05] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsteel
+[15:29:05] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsteel
+[15:29:07] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[15:29:07] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[15:29:26] NotWinner: /me Поставил роспись за 1 шт АК-74, 5.45мм x 39 - 150шт. | РЯД Смирнов С.Н
+[15:29:27] NotWinner: /me Поставил роспись за 1 шт АК-74, 5.45мм x 39 - 150шт. | РЯД Смирнов С.Н
+[15:29:28] NotWinner: /me Поставил роспись за 1 шт АК-74, 5.45мм x 39 - 150шт. | РЯД Смирнов С.Н
+[15:29:37] Rackman<STEAM_0:0:221849271> spawned model models/sam_model/missilepods.mdl
+[15:29:38] Rackman<STEAM_0:0:221849271> spawned model models/sam_model/missilepods.mdl
+[15:29:59] Rackman<STEAM_0:0:221849271> spawned sent joes_sam_turret_lvs
+[15:30:09] Rackman<STEAM_0:0:221849271> spawned sent joes_sam_turret_lvs
+[15:30:14] Rackman: Вот это ПВО
+[15:30:30] Rackman: Оно сбивает большие ракеты
+[15:31:10] Rackman: Я не могу трогать машины
+[15:31:36] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_bmw_r75_upd
+[15:31:37] BerraZZ CSS was killed by ent_rus_jsmod_pipe
+[15:31:50] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_bmw_r75_upd
+[15:32:04] Rackman: Развлекайтесь, я пошел
+[15:32:06] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[15:33:30] NotWinner killed Super_idol using lvs_wheeldrive_bmw_r75_upd
+[15:33:33] NotWinner killed LENusiiK using lvs_wheeldrive_bmw_r75_upd
+[15:33:44] LENusiiK: // ХАХАХА
+[15:34:02] Dropped "LENusiiK" from server<STEAM_0:0:187688358>
+[15:34:04] Dropped "Super_idol" from server<STEAM_0:1:595528414>
+[15:35:00] NotWinner: Я приехал
+[15:35:22] NotWinner: Заспавнили
+[15:35:26] NotWinner: Админы
+[15:35:49] NotWinner: Ну кароче
+[15:35:54] NotWinner: Чем тебе еще помочь
+[15:36:11] NotWinner: Ядерку если что делать можно
+[15:36:13] NotWinner: но
+[15:36:22] NotWinner: нужно чтобы у фракции было 50 хп
+[15:36:25] NotWinner: щас у нас 100
+[15:36:44] NotWinner: Пизда
+[15:36:49] NotWinner: поспать за 20 секунд
+[15:36:55] NotWinner: Ну да
+[15:37:05] NotWinner: 8 часов
+[15:37:41] NotWinner: Бля я так заебался
+[15:37:47] NotWinner: Кто?
+[15:37:51] NotWinner: А
+[15:37:53] NotWinner: Так чтобы
+[15:37:54] NotWinner: Ну
+[15:38:00] NotWinner: ресы собирай
+[15:38:03] NotWinner: Собирать
+[15:42:24] NotWinner: !motd
+[16:00:08] Client "Judge_1987" connected.
+[16:00:25] Client "Judge_1987" connected.
+[16:03:57] Client "Judge_1987" spawned in server <STEAM_0:1:85965829> (took 212 seconds).
+[16:07:41] Dropped "Judge_1987" from server<STEAM_0:1:85965829>
+[16:07:43] Client "Judge_1987" connected.
+[16:08:00] Client "Judge_1987" spawned in server <STEAM_0:1:85965829> (took 17 seconds).
+[16:11:02] Dropped "NotWinner" from server<STEAM_0:1:235165473>
+[16:21:58] Dropped "BerraZZ CSS" from server<STEAM_0:0:126761716>
+[16:23:44] Client "banderasmyzi1909" connected.
+[16:25:35] Client "Whips Chainz" connected.
+[16:33:03] Client "banderasmyzi1909" spawned in server <STEAM_0:0:795818615> (took 559 seconds).
+[16:35:13] banderasmyzi1909: /jmod_ez_inv
+[16:35:34] (TEAM) banderasmyzi1909: jmod_ez_inv
+[16:35:47] banderasmyzi1909: jmod_ez_inv
+[16:35:57] banderasmyzi1909: jmod_ez_inv
+[16:36:14] banderasmyzi1909: Я ЛЮБЛЮ ПЛЫВИСКИ
+[16:39:20] Dropped "banderasmyzi1909" from server<STEAM_0:0:795818615>
+[16:49:36] Judge_1987: !drop
+[16:49:38] Judge_1987: /drop
+[18:33:45] Client "Frangofadown" connected.
+[18:42:49] Judge_1987: supply radio: fougasse mines
+[18:44:43] Client "Frangofadown" spawned in server <STEAM_0:0:554277677> (took 658 seconds).
+[18:56:38] Dropped "Frangofadown" from server<STEAM_0:0:554277677>
+[18:58:56] Judge_1987 killed Judge_1987
+[18:59:13] Dropped "Judge_1987" from server<STEAM_0:1:85965829>
+[22:24:47] Client "evgenturdin2018" connected.
+[22:26:20] Client "evgenturdin2018" connected.
+[22:34:23] Client "evgenturdin2018" spawned in server <STEAM_0:0:842111523> (took 483 seconds).
+[22:38:33] Client "Redoket" connected.
+[22:39:04] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 31 seconds).
+[22:40:13] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_bm13
+[22:40:15] evgenturdin2018<STEAM_0:0:842111523> changed their name to choko_paika
+[22:41:04] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztnt
+[22:41:18] Redoket suicided!
+[22:42:40] Dropped "choko_paika" from server<STEAM_0:0:842111523>
+[22:42:44] Client "choko_paika" connected.
+[22:43:16] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[22:43:58] Client "Redoket" connected.
+[22:45:36] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 98 seconds).
+[22:45:41] Client "choko_paika" spawned in server <STEAM_0:0:842111523> (took 177 seconds).
+[22:47:59] Dropped "choko_paika" from server<STEAM_0:0:842111523>
+[22:49:59] Client "choko_paika" connected.
+[22:50:21] Client "choko_paika" spawned in server <STEAM_0:0:842111523> (took 22 seconds).
+[23:02:21] Client "Bend" connected.
+[23:02:43] choko_paika: ку
+[23:03:07] choko_paika: ребят а как предметы с умерших забирать
+[23:04:53] Dropped "choko_paika" from server<STEAM_0:0:842111523>
+[23:04:55] Client "Bend" spawned in server <STEAM_0:1:633652268> (took 154 seconds).
+[23:10:39] Dropped "Bend" from server<STEAM_0:1:633652268>
+[23:15:10] Client "DAHЯ" connected.
+[23:15:16] Client "DAHЯ" connected.
+[23:22:50] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztnt
+[23:33:30] Client "beliashالله أكبر" connected.
+[23:35:25] Client "beliashالله أكبر" spawned in server <STEAM_0:0:822301453> (took 115 seconds).
+[23:40:25] Client "fanatbratishkina192" connected.
+[23:51:26] Client "fanatbratishkina192" spawned in server <STEAM_0:1:926174499> (took 661 seconds).
+[23:52:34] Dropped "fanatbratishkina192" from server<STEAM_0:1:926174499>
+[23:53:28] Redoket: !menu
+[23:53:33] Redoket cloaked Themself by amount 0
+[23:54:04] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[23:59:28] Client "Delixit" connected.
+<Logging continued in "data/ulx_logs/12-29-24.txt">

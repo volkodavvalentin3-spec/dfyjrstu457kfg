@@ -1,0 +1,768 @@
+[21:47:13] New map: gm_sro
+[21:49:31] Server is shutting down/changing levels.
+
+
+
+[21:49:56] New map: gm_sro
+[21:54:31] Server is shutting down/changing levels.
+
+
+
+[21:54:57] New map: gm_sro
+[21:56:42] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:43] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[21:56:45] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:46] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:46] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:46] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:46] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:46] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:46] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/sam_model/rotator.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/sam_model/missilepods.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/sam_model/rotator.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/sam_model/missilepods.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/sam_model/rotator.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/sam_model/missilepods.mdl
+[21:56:47] RusLanConnection<STEAM_0:0:238810681> spawned ragdoll models/player/kleiner.mdl
+[21:56:56] Client "Bot01" connected.
+[21:56:56] Client "Bot01" spawned in server <BOT> (took 142 seconds).
+[21:56:56] Client "Bot02" connected.
+[21:56:56] Client "Bot02" spawned in server <BOT> (took 142 seconds).
+[21:56:56] Client "Bot03" connected.
+[21:56:56] Client "Bot03" spawned in server <BOT> (took 142 seconds).
+[21:56:57] Client "Bot04" connected.
+[21:56:57] Client "Bot04" spawned in server <BOT> (took 143 seconds).
+[21:56:57] Client "Bot05" connected.
+[21:56:57] Client "Bot05" spawned in server <BOT> (took 143 seconds).
+[21:56:57] Client "Bot06" connected.
+[21:56:57] Client "Bot06" spawned in server <BOT> (took 143 seconds).
+[21:56:57] Client "Bot07" connected.
+[21:56:57] Client "Bot07" spawned in server <BOT> (took 143 seconds).
+[21:56:58] Client "Bot08" connected.
+[21:56:58] Client "Bot08" spawned in server <BOT> (took 144 seconds).
+[21:56:58] Client "Bot09" connected.
+[21:56:58] Client "Bot09" spawned in server <BOT> (took 144 seconds).
+[21:56:58] Client "Bot10" connected.
+[21:56:58] Client "Bot10" spawned in server <BOT> (took 144 seconds).
+[21:56:58] Client "Bot11" connected.
+[21:56:58] Client "Bot11" spawned in server <BOT> (took 144 seconds).
+[21:56:59] Client "Bot12" connected.
+[21:56:59] Client "Bot12" spawned in server <BOT> (took 145 seconds).
+[21:56:59] Client "Bot13" connected.
+[21:56:59] Client "Bot13" spawned in server <BOT> (took 145 seconds).
+[21:56:59] Client "Bot14" connected.
+[21:56:59] Client "Bot14" spawned in server <BOT> (took 145 seconds).
+[21:56:59] Client "Bot15" connected.
+[21:56:59] Client "Bot15" spawned in server <BOT> (took 145 seconds).
+[21:57:00] Client "Bot16" connected.
+[21:57:00] Client "Bot16" spawned in server <BOT> (took 146 seconds).
+[21:57:00] Client "Bot17" connected.
+[21:57:00] Client "Bot17" spawned in server <BOT> (took 146 seconds).
+[21:57:00] Client "Bot18" connected.
+[21:57:00] Client "Bot18" spawned in server <BOT> (took 146 seconds).
+[21:57:00] Client "Bot19" connected.
+[21:57:00] Client "Bot19" spawned in server <BOT> (took 146 seconds).
+[21:57:00] Client "Bot20" connected.
+[21:57:00] Client "Bot20" spawned in server <BOT> (took 146 seconds).
+[21:57:00] Client "Bot21" connected.
+[21:57:00] Client "Bot21" spawned in server <BOT> (took 146 seconds).
+[21:57:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[21:57:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[21:58:59] RusLanConnection brought Bot15
+[21:59:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_sr
+[21:59:55] RusLanConnection brought Bot09
+[22:01:03] Server is shutting down/changing levels.
+
+
+
+[22:01:31] New map: gm_sro
+[22:01:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[22:03:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:04:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amr
+[22:04:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_sr
+[22:06:38] Server is shutting down/changing levels.
+
+
+
+[22:07:04] New map: gm_sro
+[22:07:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amr
+[22:07:41] Client "Bot22" connected.
+[22:07:41] Client "Bot22" spawned in server <BOT> (took 60 seconds).
+[22:07:51] RusLanConnection brought Bot22
+[22:07:51] RusLanConnection brought Bot22
+[22:09:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:09:40] Server is shutting down/changing levels.
+
+
+
+[22:10:05] New map: gm_sro
+[22:10:47] Client "Bot23" connected.
+[22:10:47] Client "Bot23" spawned in server <BOT> (took 64 seconds).
+[22:10:53] RusLanConnection brought Bot23
+[22:11:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:11:06] RusLanConnection teleported Bot23
+[22:11:20] Client "василий каратаев" connected.
+[22:11:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:11:56] Server is shutting down/changing levels.
+
+
+
+[22:12:21] New map: gm_sro
+[22:12:29] Client "василий каратаев" connected.
+[22:12:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:12:39] Client "Bot24" connected.
+[22:12:39] Client "Bot24" spawned in server <BOT> (took 41 seconds).
+[22:12:43] RusLanConnection brought Bot24
+[22:13:01] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 32 seconds).
+[22:13:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:13:25] василий каратаев teleported to RusLanConnection
+[22:13:25] василий каратаев: !goto RusLanConnection
+[22:14:09] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:14:35] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[22:15:09] RusLanConnection killed василий каратаев using wep_jack_gmod_amsr
+[22:15:55] Server is shutting down/changing levels.
+
+
+
+[22:16:20] New map: gm_sro
+[22:16:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:16:42] Server is shutting down/changing levels.
+
+
+
+[22:17:09] New map: gm_sro
+[22:17:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:19:18] Client "василий каратаев" connected.
+[22:19:22] Server is shutting down/changing levels.
+
+
+
+[22:19:49] New map: gm_sro
+[22:20:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:20:39] Client "василий каратаев" connected.
+[22:20:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_machinepistol
+[22:20:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:20:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_sr
+[22:21:03] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 24 seconds).
+[22:21:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_sr
+[22:21:28] василий каратаев<STEAM_0:0:814052183> spawned sent arccw_ammo_pistol
+[22:21:31] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[22:21:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:21:37] RusLanConnection brought василий каратаев
+[22:24:29] Server is shutting down/changing levels.
+
+
+
+[22:24:57] New map: gm_sro
+[22:25:19] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 41 seconds).
+[22:25:43] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:25:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:26:08] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[22:26:35] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x025x025.mdl
+[22:26:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/hunter/blocks/cube025x025x025.mdl
+[22:28:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[22:28:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[22:28:29] василий каратаев killed RusLanConnection using wep_jack_gmod_amsr
+[22:28:38] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[22:28:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:28:59] RusLanConnection killed василий каратаев using wep_jack_gmod_amsr
+[22:29:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_revolver
+[22:29:12] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[22:30:08] Server is shutting down/changing levels.
+
+
+
+[22:30:35] New map: gm_sro
+[22:30:58] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 39 seconds).
+[22:31:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:31:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[22:31:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[22:31:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:32:20] Server is shutting down/changing levels.
+
+
+
+[22:32:47] New map: gm_sro
+[22:33:10] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 23 seconds).
+[22:33:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:33:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:34:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[22:34:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:34:46] RusLanConnection teleported to василий каратаев
+[22:34:56] RusLanConnection killed василий каратаев using wep_lanrp_jmod_kar98k
+[22:35:01] RusLanConnection teleported to василий каратаев
+[22:35:06] RusLanConnection teleported to василий каратаев
+[22:35:25] василий каратаев: 1 РАЗ
+[22:35:30] RusLanConnection killed василий каратаев using wep_lanrp_jmod_kar98k
+[22:36:39] василий каратаев: ОНА ПОПАЛА
+[22:36:47] василий каратаев: НО УРН НЕ НАНЕСЛ
+[22:37:01] RusLanConnection killed василий каратаев using wep_lanrp_jmod_kar98k
+[22:37:11] василий каратаев: ТАМ КАКЙТ ПРИК
+[22:37:13] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_car
+[22:37:15] Client "Bot25" connected.
+[22:37:15] Client "Bot25" spawned in server <BOT> (took 292 seconds).
+[22:37:21] RusLanConnection brought Bot25
+[22:37:33] RusLanConnection set the hp for Everyone to 100
+[22:37:38] RusLanConnection set the hp for Everyone to 100
+[22:37:41] RusLanConnection set the hp for Everyone to 100
+[22:37:47] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_magpistol
+[22:37:53] василий каратаев killed Bot25 using wep_jack_gmod_magpistol
+[22:37:56] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[22:38:09] василий каратаев<STEAM_0:0:814052183> spawned NPC npc_barney
+[22:38:27] RusLanConnection brought Bot25
+[22:38:37] RusLanConnection killed Bot25 using wep_lanrp_jmod_kar98k
+[22:38:42] RusLanConnection brought Bot25
+[22:38:45] RusLanConnection killed Bot25 using wep_lanrp_jmod_kar98k
+[22:38:51] василий каратаев: У МЕНЯ АДНАГО АНИМКИ У НПС СЛОМАНЫ И ДАЖЕ ПЕРЕЗАГРУЗ ГМОДА НЕ ЧИНИТ?
+[22:39:09] василий каратаев<STEAM_0:0:814052183> spawned NPC npc_dog
+[22:39:14] василий каратаев<STEAM_0:0:814052183> spawned NPC npc_combine_s
+[22:39:36] Server is shutting down/changing levels.
+
+
+
+[22:40:04] New map: gm_sro
+[22:40:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[22:40:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:40:27] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 42 seconds).
+[22:40:38] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[22:40:41] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_metalpot
+[22:40:45] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[22:40:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:41:01] василий каратаев: ВЕДРО НОРМ ЗАЩИЩАЕТ?
+[22:41:15] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_ceramicpot
+[22:41:19] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_metalbucket
+[22:41:59] RusLanConnection killed василий каратаев using wep_lanrp_jmod_kar98k
+[22:42:06] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_ceramicpot
+[22:42:58] василий каратаев killed RusLanConnection using wep_lanrp_jmod_kar98k
+[22:43:52] RusLanConnection killed василий каратаев using wep_lanrp_jmod_kar98k
+[22:44:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:44:14] RusLanConnection killed василий каратаев using wep_jack_gmod_amsr
+[22:44:20] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[22:45:06] Server is shutting down/changing levels.
+
+
+
+[22:45:33] New map: gm_sro
+[22:45:58] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 43 seconds).
+[22:46:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:46:10] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[22:46:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:47:07] RusLanConnection killed василий каратаев using wep_jack_gmod_amsr
+[22:47:13] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[22:47:33] василий каратаев: ТАКОЕ ЧУВСТВО ЧТО УСКОРЯЕТСЯ ПУЛ
+[22:47:36] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[22:47:47] RusLanConnection killed василий каратаев using wep_jack_gmod_amsr
+[22:47:57] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_bas
+[22:48:08] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[22:48:12] RusLanConnection killed василий каратаев using wep_jack_gmod_amsr
+[22:48:13] василий каратаев: ДАВАЙ ФАКТ
+[22:48:39] василий каратаев killed RusLanConnection using wep_lanrp_jmod_kar98k
+[22:48:53] василий каратаев: ВСЕ ВРОДЕ БЫСТРО ЛЕТАЮТ
+[22:49:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:49:17] RusLanConnection killed василий каратаев using wep_jack_gmod_amsr
+[22:49:32] RusLanConnection killed василий каратаев using wep_jack_gmod_amsr
+[22:50:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[22:50:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:50:13] RusLanConnection killed василий каратаев using wep_lanrp_jmod_kar98k
+[22:50:22] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[22:50:36] василий каратаев: ВРОДЕ
+[22:50:55] RusLanConnection killed василий каратаев using wep_lanrp_jmod_kar98k
+[22:51:00] василий каратаев: СТРАННО
+[22:51:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:51:40] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_bas
+[22:51:58] RusLanConnection killed василий каратаев using wep_lanrp_jmod_kar98k
+[22:52:04] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[22:52:12] василий каратаев killed RusLanConnection using wep_lanrp_jmod_kar98k
+[22:52:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:52:51] василий каратаев: НУ ВРОДЕ НА ВИД ДА НЕНЗАЮ КАКТО СТРАННО
+[22:53:02] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:53:20] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[22:53:42] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amr
+[22:54:05] василий каратаев killed RusLanConnection using wep_jack_gmod_amr
+[22:54:10] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_magrevolver
+[22:54:22] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_magrevolver
+[22:54:56] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_machinepistol
+[22:54:59] Server is shutting down/changing levels.
+
+
+
+[22:55:26] New map: gm_sro
+[22:55:54] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 45 seconds).
+[22:56:08] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[22:56:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:56:29] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_mrl
+[22:56:37] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[22:56:53] василий каратаев: ООНА
+[22:56:56] василий каратаев: ХОТЯ
+[22:57:08] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[22:57:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[22:57:53] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:58:25] василий каратаев: ТАКОЕ ЧУВСТВО
+[22:58:30] василий каратаев: ЧТО У МЕНЯ РАБОТАЕТ А У ТЕБЯ НЕТ
+[22:58:38] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amsr
+[22:58:51] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[22:59:01] василий каратаев: СТРЕЛН
+[22:59:31] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[23:00:13] василий каратаев: ЧТОО
+[23:00:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amsr
+[23:01:19] Server is shutting down/changing levels.
+
+
+
+[23:01:45] New map: gm_sro
+[23:01:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[23:02:03] Client "pojn87" connected.
+[23:02:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:02:13] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 44 seconds).
+[23:02:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[23:02:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:02:34] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_magrevolver
+[23:02:35] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[23:02:38] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:03:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[23:03:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[23:03:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[23:03:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[23:03:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[23:03:14] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_machinepistol
+[23:03:24] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 81 seconds).
+[23:03:36] василий каратаев: ВААТАФААААК
+[23:03:37] василий каратаев: Я ВИЖУ
+[23:03:48] василий каратаев: ГРАНАТЫ В ПУЗО
+[23:03:51] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcoal
+[23:04:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[23:04:09] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[23:04:23] василий каратаев: ВИР ЧАТ
+[23:04:38] василий каратаев: ПАВЛОВ ВИАР
+[23:04:41] василий каратаев: ГРАНАТЫ НА ПУЗЕ
+[23:04:50] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztnt
+[23:04:52] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztnt
+[23:05:12] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_machinepistol
+[23:05:23] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_flb
+[23:05:33] pojn87 killed василий каратаев using wep_jack_gmod_amsr
+[23:05:43] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_bas
+[23:05:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[23:05:53] василий каратаев killed pojn87 using wep_jack_gmod_bas
+[23:06:11] василий каратаев killed RusLanConnection using wep_jack_gmod_bas
+[23:06:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:06:26] RusLanConnection killed василий каратаев using wep_lanrp_jmod_kar98k
+[23:06:33] RusLanConnection killed pojn87 using wep_lanrp_jmod_kar98k
+[23:06:36] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amr
+[23:06:45] василий каратаев killed RusLanConnection using wep_jack_gmod_amr
+[23:06:47] василий каратаев killed pojn87 using wep_jack_gmod_amr
+[23:06:53] василий каратаев: ЖЕСТЬ ИМБА
+[23:07:02] василий каратаев killed RusLanConnection using wep_jack_gmod_amr
+[23:07:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:07:19] василий каратаев killed pojn87 using wep_jack_gmod_amr
+[23:07:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_mltorso
+[23:07:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_nazihead
+[23:07:43] василий каратаев killed RusLanConnection using wep_jack_gmod_amr
+[23:07:56] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_magpistol
+[23:08:11] RusLanConnection killed василий каратаев using wep_lanrp_jmod_kar98k
+[23:08:15] RusLanConnection killed pojn87 using wep_lanrp_jmod_kar98k
+[23:08:20] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_br
+[23:08:26] василий каратаев: БАТЛ РИФЛ СМОТР
+[23:08:37] RusLanConnection killed pojn87 using wep_lanrp_jmod_kar98k
+[23:08:48] василий каратаев killed RusLanConnection using wep_jack_gmod_battlerifle
+[23:08:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_dmr
+[23:09:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_flm
+[23:09:41] pojn87 killed RusLanConnection using wep_lanrp_jmod_kar98k
+[23:09:52] василий каратаев: ЗАЧЕМ ТУПАЯ ГИЛЬЩА ПРОСТО УБЕРИТЕ ЕЕ ИЛИ НЕЗНАЮ МАТЕРИАЛ ЕЕ ПРОЗРАЧН
+[23:09:53] pojn87 killed василий каратаев using wep_lanrp_jmod_kar98k
+[23:10:09] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_lmg
+[23:10:16] василий каратаев: КОГДА ВИЖУ ДРУГИХ
+[23:10:19] василий каратаев: У НИХ ТАКАЯ
+[23:10:21] василий каратаев killed pojn87 using wep_jack_gmod_lmg
+[23:10:24] василий каратаев: У ДРУГИХ
+[23:10:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:10:30] василий каратаев killed pojn87 using wep_jack_gmod_lmg
+[23:10:36] василий каратаев: ООО МОЖЕТ ПУЛЕМЕТ БУДЕТ ПО КРУЧЕ
+[23:10:51] василий каратаев killed pojn87 using wep_jack_gmod_lmg
+[23:11:12] василий каратаев killed pojn87 using wep_jack_gmod_lmg
+[23:11:17] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_gl
+[23:11:22] pojn87 was killed by ent_jack_gmod_ezprojectilenade
+[23:11:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_pistol
+[23:11:34] pojn87 killed василий каратаев using wep_jack_gmod_lmg
+[23:11:41] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_magrevolver
+[23:11:50] василий каратаев killed pojn87 using wep_jack_gmod_magrevolver
+[23:11:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jmod_ezweapon_annabelle
+[23:11:58] василий каратаев: НИГА КОВБО
+[23:12:11] василий каратаев killed RusLanConnection using wep_jack_gmod_magrevolver
+[23:12:17] василий каратаев<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[23:12:27] pojn87 killed василий каратаев using wep_jack_gmod_lmg
+[23:12:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:12:29] василий каратаев: УРА
+[23:12:34] RusLanConnection killed pojn87 using wep_lanrp_jmod_kar98k
+[23:12:40] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_revolver
+[23:12:53] pojn87 killed василий каратаев using wep_jack_gmod_magrevolver
+[23:12:57] pojn87 killed RusLanConnection using wep_jack_gmod_magrevolver
+[23:12:59] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_cabr
+[23:13:09] pojn87 killed василий каратаев using wep_jack_gmod_magrevolver
+[23:13:11] RusLanConnection killed pojn87 using wep_jack_gmod_lmg
+[23:13:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_fas
+[23:13:54] pojn87 killed RusLanConnection using wep_jack_gmod_pistol
+[23:13:56] pojn87 killed василий каратаев using wep_jack_gmod_pistol
+[23:14:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:14:02] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_bar
+[23:14:05] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_dmr
+[23:14:06] RusLanConnection killed pojn87 using wep_lanrp_jmod_kar98k
+[23:14:12] василий каратаев killed RusLanConnection using wep_jack_gmod_dmr
+[23:14:28] pojn87 killed RusLanConnection using wep_jack_gmod_magrevolver
+[23:14:33] василий каратаев killed pojn87 using wep_jack_gmod_dmr
+[23:14:37] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:14:39] василий каратаев suicided!
+[23:14:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:14:57] василий каратаев: ПРИВЕТ ВСЕМ ПОЖАЛУЙСТА НЕ ОБЪХЯВЛЯЕЕТЕ НАСЕРВЕРЕ
+[23:15:04] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_flb
+[23:15:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaluminum
+[23:15:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:15:24] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_cabr
+[23:15:26] pojn87 killed RusLanConnection using wep_lanrp_jmod_kar98k
+[23:15:41] василий каратаев killed pojn87 using wep_jack_gmod_cabr
+[23:15:46] василий каратаев: 9
+[23:16:05] pojn87 killed василий каратаев using wep_jack_gmod_blunderbuss
+[23:16:11] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_bar
+[23:16:25] василий каратаев killed pojn87 using wep_jack_gmod_boltactionrifle
+[23:16:28] василий каратаев killed RusLanConnection using wep_jack_gmod_boltactionrifle
+[23:16:31] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_revolver
+[23:16:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_rocketlauncher
+[23:16:39] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_rocketlauncher
+[23:16:55] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_ssr
+[23:17:02] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:17:06] pojn87 killed василий каратаев using wep_jack_gmod_dmr
+[23:17:13] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[23:17:35] pojn87 killed василий каратаев using wep_jack_gmod_dmr
+[23:17:42] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_smg
+[23:17:45] василий каратаев killed pojn87 using wep_jack_gmod_smg
+[23:17:49] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaluminum
+[23:17:50] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:18:02] василий каратаев killed pojn87 using wep_jack_gmod_smg
+[23:18:15] василий каратаев killed pojn87 using wep_jack_gmod_smg
+[23:18:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznukerocket
+[23:18:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[23:18:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezminimore
+[23:18:37] василий каратаев was killed by ent_jack_gmod_ezminirocket
+[23:18:53] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[23:19:04] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[23:19:10] василий каратаев killed pojn87 using ent_jack_gmod_ezstickynade
+[23:19:10] василий каратаев suicided!
+[23:19:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezlandmine
+[23:19:28] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezlandmine
+[23:19:31] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezlandmine
+[23:19:32] Server is shutting down/changing levels.
+
+
+
+[23:20:01] New map: gm_sro
+[23:20:31] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 50 seconds).
+[23:20:49] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_plinkingpistol
+[23:20:55] Client "pojn87" connected.
+[23:20:57] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:21:08] Server is shutting down/changing levels.
+
+
+
+[23:21:35] New map: gm_sro
+[23:22:04] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 47 seconds).
+[23:22:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_plinkingpistol
+[23:22:44] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_magrevolver
+[23:22:46] василий каратаев killed RusLanConnection using wep_jack_gmod_magrevolver
+[23:22:53] василий каратаев<STEAM_0:0:814052183> spawned NPC npc_pigeon
+[23:25:42] василий каратаев killed RusLanConnection using wep_jack_gmod_magrevolver
+[23:26:20] Client "pojn87" connected.
+[23:26:41] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 21 seconds).
+[23:27:08] Server is shutting down/changing levels.
+
+
+
+[23:27:35] New map: gm_sro
+[23:27:47] Server is shutting down/changing levels.
+
+
+
+[23:32:04] New map: gm_sro
+[23:32:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[23:32:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:32:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[23:32:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[23:32:38] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 50 seconds).
+[23:32:42] Client "Bot26" connected.
+[23:32:42] Client "Bot26" spawned in server <BOT> (took 61 seconds).
+[23:32:46] RusLanConnection teleported to Bot26
+[23:32:48] Client "Bot27" connected.
+[23:32:48] Client "Bot27" spawned in server <BOT> (took 67 seconds).
+[23:32:48] Client "Bot28" connected.
+[23:32:48] Client "Bot28" spawned in server <BOT> (took 67 seconds).
+[23:32:48] Client "Bot29" connected.
+[23:32:48] Client "Bot29" spawned in server <BOT> (took 67 seconds).
+[23:32:48] Client "Bot30" connected.
+[23:32:48] Client "Bot30" spawned in server <BOT> (took 67 seconds).
+[23:32:49] Client "Bot31" connected.
+[23:32:49] Client "Bot31" spawned in server <BOT> (took 68 seconds).
+[23:32:49] Client "Bot32" connected.
+[23:32:49] Client "Bot32" spawned in server <BOT> (took 68 seconds).
+[23:32:49] Client "Bot33" connected.
+[23:32:49] Client "Bot33" spawned in server <BOT> (took 68 seconds).
+[23:32:49] Client "Bot34" connected.
+[23:32:49] Client "Bot34" spawned in server <BOT> (took 68 seconds).
+[23:33:03] RusLanConnection killed Bot26
+[23:33:03] RusLanConnection killed Bot34
+[23:33:03] RusLanConnection killed Bot32
+[23:33:03] RusLanConnection killed Bot27
+[23:33:17] RusLanConnection killed Bot34 using wep_lanrp_jmod_kar98k
+[23:33:23] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[23:33:28] RusLanConnection killed Bot34 using wep_lanrp_jmod_kar98k
+[23:33:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:33:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[23:33:40] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amr
+[23:33:46] василий каратаев killed RusLanConnection using wep_jack_gmod_amr
+[23:33:46] RusLanConnection killed Bot30 using ent_jack_gmod_ezsticknade
+[23:33:55] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[23:33:58] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[23:34:05] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfragnade
+[23:34:05] василий каратаев killed Bot32 using ent_jack_gmod_ezsticknadebundle
+[23:34:14] василий каратаев killed Bot30 using wep_jack_gmod_amr
+[23:34:21] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:35:06] василий каратаев killed RusLanConnection using wep_jack_gmod_amr
+[23:35:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[23:35:23] RusLanConnection killed василий каратаев using wep_jack_gmod_assaultrifle
+[23:35:57] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_bas
+[23:36:03] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:36:13] василий каратаев killed RusLanConnection using wep_jack_gmod_bas
+[23:36:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:36:55] RusLanConnection killed Bot26 using wep_lanrp_jmod_kar98k
+[23:37:28] василий каратаев killed Bot26 using wep_jack_gmod_bas
+[23:37:36] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_flametank
+[23:38:03] Bot34 was killed by entityflame
+[23:38:05] Bot26 was killed by entityflame
+[23:38:15] василий каратаев killed Bot30 using ent_jack_gmod_ezfirehazard
+[23:38:21] василий каратаев killed RusLanConnection using ent_jack_gmod_ezfirehazard
+[23:38:24] василий каратаев killed Bot33 using ent_jack_gmod_ezfirehazard
+[23:38:47] Bot27 was killed by entityflame
+[23:40:35] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_cabr
+[23:40:36] RusLanConnection killed Bot27 using wep_jack_gmod_bas
+[23:41:06] василий каратаев killed Bot26 using wep_jack_gmod_cabr
+[23:41:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:41:17] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_sas
+[23:41:22] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_pas
+[23:41:24] RusLanConnection killed Bot33 using wep_jack_gmod_bas
+[23:41:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:41:44] василий каратаев killed RusLanConnection using wep_jack_gmod_pas
+[23:42:04] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezboundingmine
+[23:42:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezlandmine
+[23:42:09] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezlandmine
+[23:42:11] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezlandmine
+[23:42:22] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezlandmine
+[23:42:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:42:33] RusLanConnection killed Bot33 using wep_lanrp_jmod_kar98k
+[23:42:44] василий каратаев killed Bot34 using ent_jack_gmod_ezlandmine
+[23:42:46] василий каратаев killed RusLanConnection using ent_jack_gmod_ezlandmine
+[23:43:02] василий каратаев killed Bot26 using ent_jack_gmod_ezlandmine
+[23:43:32] василий каратаев killed RusLanConnection using ent_jack_gmod_ezlandmine
+[23:43:32] василий каратаев suicided!
+[23:44:13] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[23:44:14] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[23:44:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[23:44:32] василий каратаев killed Bot33 using env_explosion
+[23:45:18] Server is shutting down/changing levels.
+
+
+
+[23:45:48] New map: gm_sro
+[23:46:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:46:25] Client "василий каратаев" connected.
+[23:46:25] Client "Bot35" connected.
+[23:46:25] Client "Bot35" spawned in server <BOT> (took 64 seconds).
+[23:46:26] Client "Bot36" connected.
+[23:46:26] Client "Bot36" spawned in server <BOT> (took 65 seconds).
+[23:46:30] RusLanConnection killed Bot35 using wep_lanrp_jmod_kar98k
+[23:46:59] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 34 seconds).
+[23:47:19] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_shotrevolver
+[23:47:25] василий каратаев killed Bot36 using wep_jack_gmod_shotrevolver
+[23:47:36] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:47:41] RusLanConnection killed Bot36 using wep_lanrp_jmod_kar98k
+[23:47:49] RusLanConnection killed Bot35 using wep_lanrp_jmod_kar98k
+[23:47:57] RusLanConnection brought Bot35
+[23:47:57] RusLanConnection brought Bot36
+[23:48:00] RusLanConnection killed Bot36 using wep_lanrp_jmod_kar98k
+[23:48:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:48:25] василий каратаев killed RusLanConnection using wep_jack_gmod_shotrevolver
+[23:48:29] василий каратаев: ЩИТЕ\
+[23:48:39] RusLanConnection killed Bot35 using wep_lanrp_jmod_kar98k
+[23:48:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_pistol
+[23:48:49] RusLanConnection killed Bot36 using wep_jack_gmod_pistol
+[23:48:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_magrevolver
+[23:48:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_magpistol
+[23:48:57] василий каратаев: СКОЛЬКО УРОН НАНОСИТ ЗА ВЫСТРЕЛ ДРОБОПИСТОЛ
+[23:48:59] RusLanConnection killed Bot35 using wep_jack_gmod_magpistol
+[23:49:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_sas
+[23:49:14] RusLanConnection killed василий каратаев using wep_jack_gmod_sas
+[23:49:21] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_machinepistol
+[23:49:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:49:25] Client "Bot37" connected.
+[23:49:25] Client "Bot37" spawned in server <BOT> (took 244 seconds).
+[23:49:26] Client "Bot38" connected.
+[23:49:26] Client "Bot38" spawned in server <BOT> (took 245 seconds).
+[23:49:26] Client "Bot39" connected.
+[23:49:26] Client "Bot39" spawned in server <BOT> (took 245 seconds).
+[23:49:26] Client "Bot40" connected.
+[23:49:26] Client "Bot40" spawned in server <BOT> (took 245 seconds).
+[23:49:26] Client "Bot41" connected.
+[23:49:26] Client "Bot41" spawned in server <BOT> (took 245 seconds).
+[23:49:26] Client "Bot42" connected.
+[23:49:26] Client "Bot42" spawned in server <BOT> (took 245 seconds).
+[23:49:26] Client "Bot43" connected.
+[23:49:26] Client "Bot43" spawned in server <BOT> (took 245 seconds).
+[23:49:26] Client "Bot44" connected.
+[23:49:26] Client "Bot44" spawned in server <BOT> (took 245 seconds).
+[23:49:27] Client "Bot45" connected.
+[23:49:27] Client "Bot45" spawned in server <BOT> (took 246 seconds).
+[23:49:29] Client "Bot46" connected.
+[23:49:29] Client "Bot46" spawned in server <BOT> (took 248 seconds).
+[23:49:29] Client "Bot47" connected.
+[23:49:29] Client "Bot47" spawned in server <BOT> (took 248 seconds).
+[23:49:29] Client "Bot48" connected.
+[23:49:29] Client "Bot48" spawned in server <BOT> (took 248 seconds).
+[23:49:29] Client "Bot49" connected.
+[23:49:29] Client "Bot49" spawned in server <BOT> (took 248 seconds).
+[23:49:29] Client "Bot50" connected.
+[23:49:29] Client "Bot50" spawned in server <BOT> (took 248 seconds).
+[23:49:30] Client "Bot51" connected.
+[23:49:30] Client "Bot51" spawned in server <BOT> (took 249 seconds).
+[23:49:30] Client "Bot52" connected.
+[23:49:30] Client "Bot52" spawned in server <BOT> (took 249 seconds).
+[23:49:30] Client "Bot53" connected.
+[23:49:30] Client "Bot53" spawned in server <BOT> (took 249 seconds).
+[23:49:30] Client "Bot54" connected.
+[23:49:30] Client "Bot54" spawned in server <BOT> (took 249 seconds).
+[23:49:43] RusLanConnection killed Bot39
+[23:49:44] RusLanConnection killed Bot42
+[23:49:44] RusLanConnection killed Bot44
+[23:49:44] RusLanConnection killed Bot51
+[23:49:44] RusLanConnection killed Bot45
+[23:49:44] RusLanConnection killed Bot35
+[23:49:44] RusLanConnection killed Bot53
+[23:49:44] RusLanConnection killed Bot54
+[23:49:53] RusLanConnection killed Bot53 using wep_lanrp_jmod_kar98k
+[23:50:02] RusLanConnection killed Bot35 using wep_lanrp_jmod_kar98k
+[23:50:16] RusLanConnection killed Bot49 using wep_lanrp_jmod_kar98k
+[23:50:18] василий каратаев killed RusLanConnection using wep_jack_gmod_machinepistol
+[23:50:20] василий каратаев killed Bot39 using wep_jack_gmod_machinepistol
+[23:50:25] василий каратаев killed Bot37 using wep_jack_gmod_machinepistol
+[23:50:29] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_bas
+[23:50:34] василий каратаев killed Bot46 using wep_jack_gmod_bas
+[23:50:45] василий каратаев: А ТЫ ЧТО ТО С УРОНОМ ДЕЛА?
+[23:50:55] василий каратаев killed RusLanConnection using wep_jack_gmod_bas
+[23:50:59] василий каратаев: ХМ
+[23:51:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_flm
+[23:51:06] василий каратаев killed Bot53 using wep_jack_gmod_bas
+[23:51:11] Bot52 suicided!
+[23:51:16] RusLanConnection killed василий каратаев using wep_jack_gmod_flintlockmusket
+[23:51:19] василий каратаев: ВАТАЕЕЕ
+[23:51:21] Bot38 suicided!
+[23:51:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_magrevolver
+[23:51:29] василий каратаев killed Bot53 using wep_jack_gmod_magrevolver
+[23:51:30] RusLanConnection killed Bot52 using wep_jack_gmod_magrevolver
+[23:51:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:51:34] RusLanConnection killed Bot46 using wep_jack_gmod_magrevolver
+[23:51:43] RusLanConnection killed Bot54 using wep_jack_gmod_magrevolver
+[23:51:46] василий каратаев killed Bot38 using wep_jack_gmod_magrevolver
+[23:51:47] RusLanConnection killed василий каратаев using wep_jack_gmod_magrevolver
+[23:51:51] Bot52 suicided!
+[23:51:56] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_magpistol
+[23:51:56] Bot43 suicided!
+[23:52:06] василий каратаев killed RusLanConnection using wep_jack_gmod_magpistol
+[23:52:08] василий каратаев killed Bot54 using wep_jack_gmod_magpistol
+[23:52:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:52:13] Bot40 suicided!
+[23:52:17] василий каратаев killed RusLanConnection using wep_jack_gmod_magpistol
+[23:52:21] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaluminum
+[23:52:22] Bot51 suicided!
+[23:52:22] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:52:27] Bot39 suicided!
+[23:52:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_dmr
+[23:52:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:52:41] RusLanConnection killed василий каратаев using wep_lanrp_jmod_kar98k
+[23:52:44] RusLanConnection killed Bot49 using wep_lanrp_jmod_kar98k
+[23:52:46] Bot48 suicided!
+[23:53:35] RusLanConnection killed Bot45 using wep_lanrp_jmod_kar98k
+[23:53:57] RusLanConnection killed Bot44
+[23:53:57] RusLanConnection killed Bot49
+[23:53:57] RusLanConnection killed Bot48
+[23:53:57] RusLanConnection killed Bot35
+[23:53:57] RusLanConnection killed Bot42
+[23:53:57] RusLanConnection killed Bot40
+[23:53:57] RusLanConnection killed Bot43
+[23:53:57] RusLanConnection killed Bot53
+[23:53:57] RusLanConnection killed Bot37
+[23:53:57] RusLanConnection killed Bot47
+[23:53:57] RusLanConnection killed Bot41
+[23:53:57] RusLanConnection killed Bot51
+[23:53:57] RusLanConnection killed Bot39
+[23:53:58] RusLanConnection killed Bot36
+[23:53:58] RusLanConnection killed Bot38 using env_explosion
+[23:53:58] RusLanConnection killed Bot50 using env_explosion
+[23:53:58] RusLanConnection killed Bot54 using env_explosion
+[23:53:58] RusLanConnection killed Bot52
+[23:53:58] RusLanConnection killed Bot46
+[23:53:58] RusLanConnection killed Bot45
+[23:53:59] RusLanConnection killed василий каратаев
+[23:54:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_lmg
+[23:54:28] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:54:30] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:54:33] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:54:36] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:54:40] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:54:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[23:54:55] (TEAM) василий каратаев: ДА
+[23:54:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[23:55:04] василий каратаев: ВТОРАЯ ПОЯВИЛОС
+[23:55:12] василий каратаев killed Bot48 using wep_jack_gmod_lmg
+[23:55:13] василий каратаев killed Bot52 using wep_jack_gmod_lmg
+[23:55:15] василий каратаев killed Bot38 using wep_jack_gmod_lmg
+[23:55:23] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:55:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_lanrp_jmod_kar98k
+[23:56:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaluminum
+[23:56:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:56:11] василий каратаев killed Bot52 using wep_jack_gmod_lmg
+[23:56:13] василий каратаев killed Bot38 using wep_jack_gmod_lmg
+[23:56:24] василий каратаев killed Bot52 using wep_jack_gmod_lmg
+[23:56:43] василий каратаев: ЖЕСТ ТУТ Ш\ГИЛ
+[23:56:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[23:56:53] RusLanConnection killed василий каратаев using wep_jack_gmod_amsr
+[23:56:58] Bot41 suicided!
+[23:57:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[23:57:16] василий каратаев: ПА ВСЕМУ ПОЛЮ ПРОЕХП
+[23:57:21] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_gl
+[23:57:38] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[23:57:41] RusLanConnection killed василий каратаев using wep_jack_gmod_amsr
+[23:57:46] Bot52 suicided!
+[23:57:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:58:43] RusLanConnection killed василий каратаев using wep_jack_gmod_amsr
+[23:58:48] Bot37 suicided!
+[23:58:53] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_rocketlauncher
+[23:59:01] RusLanConnection killed василий каратаев using wep_jack_gmod_bas
+[23:59:06] Bot49 suicided!
+[23:59:11] Bot39 suicided!
+[23:59:12] василий каратаев: КУСКИ МЯСА
+[23:59:30] василий каратаев: ЛОУ ПОЛИ
+[23:59:35] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_revolver
+[23:59:36] Server is shutting down/changing levels.
+
+
+
+[23:59:55] New map: gm_sro
+<Logging continued in "data/ulx_logs/11-29-24.txt">

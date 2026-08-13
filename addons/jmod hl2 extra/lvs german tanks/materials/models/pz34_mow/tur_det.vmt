@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\pz34_mow\tur_det"
+	
+	"$alphatest" "1"
+}

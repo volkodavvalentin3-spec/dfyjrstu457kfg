@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/sent_speedpipe_illegal"
+	"$translucent" 1
+}

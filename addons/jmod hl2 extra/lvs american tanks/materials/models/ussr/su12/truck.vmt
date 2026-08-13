@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/ussr/su12/truck"
+	
+	"$bumpmap" "models/m24_mow/NN"
+	
+	
+	"$phong" "1"						
+	"$phongboost"	"13" 		
+	"$phongexponent" "1"	
+	"$alphatest" "1"	
+}

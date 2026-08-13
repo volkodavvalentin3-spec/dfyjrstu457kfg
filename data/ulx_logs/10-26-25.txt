@@ -1,0 +1,775 @@
+<Logging continued from "data/ulx_logs/10-25-25.txt">
+[00:06:19] Mr.Matveykus_ killed KIRKA using tfa_doimp40
+[00:10:33] Cevi killed KIRKA using wep_jack_gmod_ezshovel
+[00:11:25] KIRKA: supply radio: car
+[00:17:13] Cevi: !Пипяу
+[00:17:22] Cevi: /global Пипяу
+[00:17:29] KIRKA: supply radio: car
+[00:18:29] Client "Redoket" connected.
+[00:19:09] Mr.Matveykus_: !motd
+[00:21:22] Client "Redoket" connected.
+[00:22:09] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 47 seconds).
+[00:22:53] Redoket<STEAM_0:1:545449619> spawned sent lvs_t34_42
+[00:23:05] Redoket<STEAM_0:1:545449619> spawned sent lvs_t44_tb
+[00:23:20] Redoket<STEAM_0:1:545449619> spawned sent lvs_pz5_mow
+[00:23:48] Redoket<STEAM_0:1:545449619> spawned sent lvs_pz4h_mow
+[00:24:01] Redoket<STEAM_0:1:545449619> spawned sent lvs_pz4g_mow
+[00:24:17] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[00:24:29] Mr.Matveykus_ killed TRENCH_ZOMBI using tfa_doimp40
+[00:24:45] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[00:24:57] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezdynamite
+[00:25:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[00:25:26] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[00:25:32] Redoket suicided!
+[00:25:53] Redoket<STEAM_0:1:545449619> spawned sent lvs_t34_url
+[00:25:56] Redoket<STEAM_0:1:545449619> spawned sent lvs_t34_42
+[00:25:59] Redoket<STEAM_0:1:545449619> spawned sent lvs_t34_43_tb
+[00:26:01] Redoket<STEAM_0:1:545449619> spawned sent lvs_t34_42
+[00:26:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknade
+[00:26:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[00:26:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezstickynade
+[00:26:41] Redoket<STEAM_0:1:545449619> spawned sent lvs_t3485_ger_mow
+[00:27:31] Cevi: /gl Что у вас там происходит
+[00:28:03] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[00:28:03] Redoket suicided!
+[00:29:10] Cevi: !motd
+[00:29:30] Dropped "Cevi" from server<STEAM_0:1:646314188>
+[00:29:30] Cevi suicided!
+[00:29:34] Client "Cevi" connected.
+[00:29:46] TRENCH_ZOMBI killed Mr.Matveykus_ using lvs_m4_mow
+[00:30:07] 0: supply radio: medium tank
+[00:30:09] TRENCH_ZOMBI killed Mr.Matveykus_ using lvs_m4_mow
+[00:30:19] Client "Cevi" spawned in server <STEAM_0:1:646314188> (took 45 seconds).
+[00:30:54] TRENCH_ZOMBI killed ✶✸Iłұasħҝa✸✶ using lvs_m4_mow
+[00:31:05] Client "Soldier_S.C.A.F" connected.
+[00:31:26] Dropped "Mr.Matveykus_" from server<STEAM_0:1:616448628>
+[00:31:26] Mr.Matveykus_ suicided!
+[00:31:30] Dropped "✶✸Iłұasħҝa✸✶" from server<STEAM_0:1:2185856>
+[00:31:30] ✶✸Iłұasħҝa✸✶ suicided!
+[00:34:40] Dropped "Cevi" from server<STEAM_0:1:646314188>
+[00:34:40] Cevi suicided!
+[00:36:04] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[00:36:04] KIRKA suicided!
+[00:36:39] Dropped "0" from server<STEAM_0:0:919352780>
+[00:36:39] 0 suicided!
+[00:36:44] Dropped "TRENCH_ZOMBI" from server<STEAM_0:1:617631024>
+[00:36:44] TRENCH_ZOMBI suicided!
+[00:40:09] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 544 seconds).
+[00:47:06] Client "." connected.
+[00:47:43] Soldier_S.C.A.F suicided!
+[00:47:53] Client "0" spawned in server <STEAM_0:0:919352780> (took 47 seconds).
+[01:21:41] Soldier_S.C.A.F: здаров
+[01:22:17] Soldier_S.C.A.F: я даже сколько вот тебя вижу
+[01:22:24] Soldier_S.C.A.F: ты так даже и не пишешь в чат
+[01:22:36] Soldier_S.C.A.F: на Y по умолчанию оно
+[01:28:56] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[01:28:56] Soldier_S.C.A.F suicided!
+[01:57:31] Client "Сын Donk'a" connected.
+[02:13:32] Client "P.Diddy" connected.
+[02:16:49] Client "P.Diddy" spawned in server <STEAM_0:0:563226181> (took 197 seconds).
+[02:17:34] P.Diddy: /me Выполнил воинское приветствие
+[02:22:08] Dropped "P.Diddy" from server<STEAM_0:0:563226181>
+[02:22:08] P.Diddy suicided!
+[02:23:59] 0 was killed by ent_jack_gmod_ezworkbench
+[02:24:14] Dropped "0" from server<STEAM_0:0:919352780>
+[02:24:14] 0 suicided!
+[02:47:42] Client "Sigma" connected.
+[03:16:57] Client "." connected.
+[03:17:43] Client "0" spawned in server <STEAM_0:0:919352780> (took 46 seconds).
+[03:23:18] Client "Bigbarsik223" connected.
+[03:25:18] Client "Bigbarsik223" spawned in server <STEAM_0:0:652203298> (took 120 seconds).
+[03:30:17] Client "TRENCH_ZOMBI" connected.
+[03:31:59] Client "TRENCH_ZOMBI" spawned in server <STEAM_0:1:617631024> (took 102 seconds).
+[03:37:44] Client "Soldier_S.C.A.F" connected.
+[03:37:56] Client "Soldier_S.C.A.F" connected.
+[03:38:46] Client "✶✸Iłұasħҝa✸✶" connected.
+[03:40:31] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 155 seconds).
+[03:40:38] Client "✶✸Iłұasħҝa✸✶" spawned in server <STEAM_0:1:2185856> (took 112 seconds).
+[03:43:20] Soldier_S.C.A.F: ебать столько ежей
+[03:43:36] Soldier_S.C.A.F: вот банально
+[03:43:39] Soldier_S.C.A.F: КУДА СТОЛЬКО
+[03:45:50] Client "Mr.Matveykus_" connected.
+[03:46:37] Client "А ПО ЖОПЕ!?" connected.
+[03:47:20] Client "Mr.Matveykus_" spawned in server <STEAM_0:1:616448628> (took 90 seconds).
+[03:47:43] Client "KIRKA" connected.
+[03:48:49] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 66 seconds).
+[03:49:50] Client "Шайтан" connected.
+[03:49:52] Client "А ПО ЖОПЕ!?" spawned in server <STEAM_0:1:557416607> (took 195 seconds).
+[03:51:31] Soldier_S.C.A.F: ЧУВАААК
+[03:51:47] Soldier_S.C.A.F: не знаю даже
+[03:52:17] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 147 seconds).
+[03:52:38] Soldier_S.C.A.F: ДА
+[03:52:41] Soldier_S.C.A.F: и здаров
+[03:52:52] Soldier_S.C.A.F: у меня есть
+[03:53:26] Шайтан: тут кто то есть?
+[03:53:30] Client "Rackman" connected.
+[03:54:02] Soldier_S.C.A.F: ебать
+[03:54:04] Soldier_S.C.A.F: сварка
+[03:54:07] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 37 seconds).
+[03:54:25] Client "SokerBit12" connected.
+[03:54:31] Soldier_S.C.A.F: ВСМЫСЛЕ СКРАФТИЛИ
+[03:54:55] Soldier_S.C.A.F: А КАК БЛЯ
+[03:55:13] Soldier_S.C.A.F: ЕСТЬ ТОЛЬКО ЭТО
+[03:55:17] Soldier_S.C.A.F: НО НЕ СРАВКА!!!
+[03:55:54] Шайтан: привем
+[03:56:10] Dropped "Mr.Matveykus_" from server<STEAM_0:1:616448628>
+[03:56:10] Mr.Matveykus_ suicided!
+[03:56:13] Soldier_S.C.A.F: А КАК ТЫ ОТКРЫЛ
+[03:56:40] Soldier_S.C.A.F: так технически после твоего ухода
+[03:56:43] Soldier_S.C.A.F: оно уже ничейная
+[03:56:44] Soldier_S.C.A.F: да
+[03:58:04] Soldier_S.C.A.F: да
+[03:58:11] Soldier_S.C.A.F: SAM
+[03:58:22] Soldier_S.C.A.F: XD
+[03:58:25] Soldier_S.C.A.F: это эпик
+[03:58:53] Soldier_S.C.A.F: ох уж этот sprint 03
+[03:59:03] Soldier_S.C.A.F: или какой там
+[03:59:51] Client "b0ggle" connected.
+[04:00:25] Шайтан: блять вовремя ты
+[04:00:29] Client "SokerBit12" spawned in server <STEAM_0:1:211743089> (took 364 seconds).
+[04:00:47] TRENCH_ZOMBI: АЛЕ У ЕНЯ 250 ПИНГА
+[04:00:54] (TEAM) TRENCH_ZOMBI: 270
+[04:01:47] KIRKA: НАКОНЕЦ-ТО ХОСТИНГ РУСЛАНА УМИРАЕТ
+[04:02:06] KIRKA: Они не знают
+[04:02:10] Rackman started a vote (Вы чувствуете лаги сервера?)
+[04:02:13] TRENCH_ZOMBI voted for: Да
+[04:02:13] Soldier_S.C.A.F voted for: Да
+[04:02:13] Шайтан voted for: Да
+[04:02:14] Rackman voted for: Да
+[04:02:17] ✶✸Iłұasħҝa✸✶: !motd
+[04:02:18] Dropped "SokerBit12" from server<STEAM_0:1:211743089>
+[04:02:18] SokerBit12 suicided!
+[04:02:20] ✶✸Iłұasħҝa✸✶ voted for: Нет
+[04:02:20] KIRKA voted for: Да
+[04:02:22] 0 voted for: Да
+[04:02:26] А ПО ЖОПЕ!? voted for: Да
+[04:02:26] TRENCH_ZOMBI to admins: ЭТО АПОЖОПЕ РЕСАМИ НАСРАЛ
+[04:02:29] Bigbarsik223 voted for: Да
+[04:02:37] Rackman teleported to А ПО ЖОПЕ!?
+[04:02:38] Rackman teleported to А ПО ЖОПЕ!?
+[04:02:39] Rackman teleported to А ПО ЖОПЕ!?
+[04:02:42] KIRKA: ВАЙП ЛЮБОЙ ЦЕНОЙ
+[04:02:44] А ПО ЖОПЕ!?: вот так требуют вайпа
+[04:02:44] KIRKA: НО БЕСПЛАТНО
+[04:02:56] Soldier_S.C.A.F to admins: ДА ОЧИСТИ КАРТУ
+[04:03:00] Шайтан: !menu
+[04:03:04] KIRKA: ВАААААААААААААААЙП
+[04:03:06] Vote results: Option 'Да' won. (8/10)
+[04:03:08] KIRKA: УРАААААААААА
+[04:03:11] Шайтан to admins: бля че вы делайте там
+[04:03:24] Rackman changed the map to gm_whiten
+[04:03:24] Server is shutting down/changing levels.
+
+
+
+[04:03:49] New map: gm_whiten
+[04:04:16] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 45 seconds).
+[04:04:19] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 48 seconds).
+[04:04:27] Client "Bigbarsik223" spawned in server <STEAM_0:0:652203298> (took 56 seconds).
+[04:04:28] Client "0" spawned in server <STEAM_0:0:919352780> (took 57 seconds).
+[04:04:37] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 66 seconds).
+[04:04:37] Client "А ПО ЖОПЕ!?" spawned in server <STEAM_0:1:557416607> (took 66 seconds).
+[04:04:40] Client "TRENCH_ZOMBI" spawned in server <STEAM_0:1:617631024> (took 69 seconds).
+[04:04:52] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[04:04:52] Rackman suicided!
+[04:05:10] Client "✶✸Iłұasħҝa✸✶" spawned in server <STEAM_0:1:2185856> (took 99 seconds).
+[04:05:13] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 102 seconds).
+[04:05:38] Soldier_S.C.A.F: еее
+[04:05:39] Soldier_S.C.A.F: кароч
+[04:05:43] Soldier_S.C.A.F: Я ДЕЛАЮ САНИТАРОВ
+[04:05:47] Шайтан: карта класная вы просто не понимайте
+[04:06:12] Soldier_S.C.A.F: да не
+[04:06:16] Client "LUTENICA" connected.
+[04:06:20] Soldier_S.C.A.F: я лор зомбоковска хочу сделать
+[04:06:22] Soldier_S.C.A.F: через РП
+[04:06:34] TRENCH_ZOMBI: шишки
+[04:07:02] Client "Польские Пряники" connected.
+[04:07:04] Soldier_S.C.A.F: ах
+[04:08:26] Client "Arisilkon" connected.
+[04:08:39] Soldier_S.C.A.F: меня щяс преми
+[04:09:05] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 123 seconds).
+[04:09:28] Soldier_S.C.A.F: меня щяс прими
+[04:09:48] Client "Arisilkon" connected.
+[04:11:40] Soldier_S.C.A.F: м-да
+[04:11:57] Client "Mr_Pyro" connected.
+[04:12:41] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 44 seconds).
+[04:12:46] Soldier_S.C.A.F: да бл
+[04:12:55] Soldier_S.C.A.F: меня для лора щяс все отрицают((
+[04:13:22] Mr_Pyro cloaked Themself by amount 0
+[04:13:22] Mr_Pyro cloaked Themself by amount 0
+[04:13:22] Mr_Pyro cloaked Themself by amount 0
+[04:13:23] Mr_Pyro cloaked Themself by amount 0
+[04:14:44] Soldier_S.C.A.F: да емае
+[04:14:51] Mr_Pyro cloaked Themself by amount 0
+[04:14:52] Mr_Pyro cloaked Themself by amount 0
+[04:14:56] Soldier_S.C.A.F: я вообще лор зомбаковска сделать через РП
+[04:15:02] Soldier_S.C.A.F: но меня все отрицают((
+[04:15:05] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/chair_office02.mdl
+[04:15:10] Soldier_S.C.A.F: а
+[04:15:11] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/chair_office02.mdl
+[04:15:49] Soldier_S.C.A.F: а че?
+[04:15:57] Soldier_S.C.A.F: ниче не понял
+[04:17:16] Bigbarsik223 was killed by sent_conveyor
+[04:17:45] 0: supply radio: vechicle mines
+[04:18:27] Soldier_S.C.A.F: да просто меня щяс все отрицают
+[04:18:34] Soldier_S.C.A.F: так как хочу лор зомбаковска сделать
+[04:18:36] Soldier_S.C.A.F: но нет
+[04:18:42] Soldier_S.C.A.F: их всех заебало((
+[04:18:51] Soldier_S.C.A.F: хотя бл
+[04:18:55] Soldier_S.C.A.F: идея годная же
+[04:19:00] Client "PoPcat" connected.
+[04:19:31] Client "patrickkane1997" connected.
+[04:19:38] Soldier_S.C.A.F: о
+[04:19:41] Soldier_S.C.A.F: вода побольше есть
+[04:20:10] Soldier_S.C.A.F: вода и керамика самое годное
+[04:20:14] Soldier_S.C.A.F: иза экономики
+[04:20:17] Soldier_S.C.A.F: хм
+[04:20:19] Soldier_S.C.A.F: кстати!
+[04:20:25] Soldier_S.C.A.F: а как насчет того
+[04:20:30] Client "patrickkane1997" spawned in server <STEAM_0:0:444745902> (took 59 seconds).
+[04:20:36] Soldier_S.C.A.F: застроится прям на потолке карты?
+[04:20:50] Soldier_S.C.A.F: можно свои точки
+[04:21:00] Польские Пряники was killed by prop_vehicle_prisoner_pod
+[04:21:05] Soldier_S.C.A.F: ладно
+[04:21:17] Soldier_S.C.A.F: может какой-нибудь верхоянск сделаю
+[04:21:20] Soldier_S.C.A.F: в следующий раз
+[04:22:33] Soldier_S.C.A.F to admins: че за скриптовые ошибки?
+[04:22:41] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:23:01] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:23:27] Soldier_S.C.A.F: хотя кстати
+[04:23:32] Soldier_S.C.A.F: можно даже этот
+[04:23:39] Soldier_S.C.A.F: либо трубу верх сделать
+[04:23:49] Soldier_S.C.A.F: или небольшую изолированую платформу
+[04:23:54] Soldier_S.C.A.F: в потолке
+[04:24:06] Soldier_S.C.A.F: тогда труба
+[04:24:33] Soldier_S.C.A.F: да
+[04:24:35] Soldier_S.C.A.F: но!
+[04:24:39] Soldier_S.C.A.F: если там столица будет
+[04:24:41] Soldier_S.C.A.F: оооо
+[04:24:42] Client "Arisilkon" spawned in server <STEAM_0:0:757744208> (took 894 seconds).
+[04:24:45] Soldier_S.C.A.F: тогда хуй достанешь
+[04:24:58] Soldier_S.C.A.F: можно на истощение делать
+[04:25:23] Soldier_S.C.A.F: м-да
+[04:25:30] Soldier_S.C.A.F: у людей тут
+[04:25:39] Soldier_S.C.A.F: зачастую нету понятия к войне
+[04:25:40] Soldier_S.C.A.F: ну
+[04:25:46] Soldier_S.C.A.F: просто каждый на обум делает
+[04:25:50] Soldier_S.C.A.F: и через ОВЕРАН
+[04:26:01] Soldier_S.C.A.F: поэтому войны лишь на 10-15 минут
+[04:26:16] Soldier_S.C.A.F: про на обум
+[04:26:21] Soldier_S.C.A.F: просто на перед идут и всё
+[04:26:25] Soldier_S.C.A.F: ни тактик
+[04:26:29] Soldier_S.C.A.F: ни ещё чего либо
+[04:26:41] Soldier_S.C.A.F: да
+[04:26:45] Soldier_S.C.A.F: но таких мало
+[04:27:05] Soldier_S.C.A.F: на горе кстати тяжело танком достовать
+[04:27:30] Soldier_S.C.A.F: да и для арты ещё далеко эта позиция
+[04:27:40] Soldier_S.C.A.F: КАВО
+[04:30:07] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[04:30:07] Польские Пряники suicided!
+[04:30:22] Client "Сырный пакетик" connected.
+[04:30:26] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[04:30:26] Soldier_S.C.A.F suicided!
+[04:32:27] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/chair_office02.mdl
+[04:32:27] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:32:27] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:33:00] Client "Сырный пакетик" spawned in server <STEAM_0:0:617253467> (took 158 seconds).
+[04:33:07] Mr_Pyro<STEAM_0:1:157056677> spawned sent sent_conveyor
+[04:33:45] Mr_Pyro<STEAM_0:1:157056677> spawned sent sent_conveyor
+[04:34:48] Client "Данил батькович" connected.
+[04:36:37] Client "Данил батькович" spawned in server <STEAM_0:1:629060904> (took 109 seconds).
+[04:37:38] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/chair_office02.mdl
+[04:37:38] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:37:38] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:39:59] Dropped "Arisilkon" from server<STEAM_0:0:757744208>
+[04:39:59] Arisilkon suicided!
+[04:41:18] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/chair_office02.mdl
+[04:41:18] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:41:18] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:46:04] Данил батькович: кирка
+[04:46:08] Данил батькович: еэто ты?
+[04:46:17] Данил батькович: прими пж
+[04:46:25] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:46:25] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/chair_office02.mdl
+[04:46:25] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:46:28] Client "PoPcat" connected.
+[04:46:41] Client "PoPcat" connected.
+[04:47:31] Шайтан: пошли поабузим немного
+[04:47:31] TRENCH_ZOMBI: я просто на +attack поставился
+[04:47:35] TRENCH_ZOMBI: хмммм
+[04:47:40] Шайтан: всмысле?
+[04:47:41] TRENCH_ZOMBI: мр пайро админ
+[04:47:50] Шайтан: а бял точно
+[04:48:20] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 99 seconds).
+[04:48:32] patrickkane1997 to admins: помогите машина перевернулась упав с дерева
+[04:49:32] PoPcat: БУУУУУУУУУУУУЭ
+[04:49:44] PoPcat: ЧЁ КАК ЖИТУХА
+[04:49:48] Dropped "0" from server<STEAM_0:0:919352780>
+[04:49:48] 0 suicided!
+[04:50:02] PoPcat: УРА ГНИТЬ
+[04:50:11] PoPcat: ЧЁ НОВОГО ДОБАВИЛИ
+[04:50:16] PoPcat: ПОКА МЕНЧ НЕ БЫЛО
+[04:50:25] PoPcat: УРАААА
+[04:50:45] Client "Redoket" connected.
+[04:51:01] Данил батькович: !motd
+[04:51:28] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 43 seconds).
+[04:51:34] Mr_Pyro cloaked Themself by amount 0
+[04:51:35] Mr_Pyro cloaked Themself by amount 0
+[04:51:35] Mr_Pyro cloaked Themself by amount 0
+[04:51:36] Mr_Pyro cloaked Themself by amount 0
+[04:51:36] Mr_Pyro cloaked Themself by amount 0
+[04:51:54] Mr_Pyro uncloaked Themself
+[04:51:54] Mr_Pyro uncloaked Themself
+[04:51:54] Mr_Pyro uncloaked Themself
+[04:51:55] Mr_Pyro uncloaked Themself
+[04:51:55] Mr_Pyro uncloaked Themself
+[04:51:59] Redoket: !MENU
+[04:52:08] Redoket cloaked Themself by amount 0
+[04:52:12] Redoket: !MENU
+[04:52:20] Redoket teleported to Mr_Pyro
+[04:52:27] Mr_Pyro cloaked Themself by amount 0
+[04:52:28] Mr_Pyro cloaked Themself by amount 0
+[04:52:28] Mr_Pyro cloaked Themself by amount 0
+[04:52:28] Mr_Pyro cloaked Themself by amount 0
+[04:52:31] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:52:31] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:52:31] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/chair_office02.mdl
+[04:52:40] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:52:40] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:52:40] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/chair_office02.mdl
+[04:52:52] Redoket: !MENU
+[04:52:54] Redoket teleported to Mr_Pyro
+[04:52:55] Redoket teleported to Mr_Pyro
+[04:52:55] Redoket teleported to Mr_Pyro
+[04:52:55] Redoket teleported to Mr_Pyro
+[04:52:56] Redoket teleported to Mr_Pyro
+[04:52:56] Redoket teleported to Mr_Pyro
+[04:52:57] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:52:57] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:53:04] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:53:04] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:53:09] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:53:09] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:53:14] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:53:14] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:53:23] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:53:23] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:53:24] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:53:24] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:53:25] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:53:25] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:53:28] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:53:28] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:53:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[04:53:52] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezhebomb
+[04:54:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[04:54:07] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[04:54:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezsticknadebundle
+[04:54:20] Redoket<STEAM_0:1:545449619> spawned sent ent_aboot_gmod_ezairboatengine
+[04:54:34] patrickkane1997: это че у вас тут
+[04:54:35] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:54:35] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:54:50] patrickkane1997: у меня бензин закончился
+[04:54:53] patrickkane1997: у вас не будет?
+[04:54:58] Redoket<STEAM_0:1:545449619> spawned sent lvs_churchill_mow
+[04:54:58] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:54:58] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:55:02] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:55:02] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:55:02] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:55:02] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:55:03] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:55:03] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:55:03] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:55:03] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:55:04] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:55:04] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:55:05] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:55:05] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:55:26] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:55:26] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:55:28] (TEAM) patrickkane1997: у вас бензина не будет 
+[04:55:34] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:55:34] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:55:38] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:55:38] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:55:38] patrickkane1997: чего 
+[04:55:46] patrickkane1997: я спросил про бензин
+[04:56:02] Redoket<STEAM_0:1:545449619> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:56:02] Redoket<STEAM_0:1:545449619> spawned model models/gibs/antlion_gib_large_3.mdl
+[04:56:12] patrickkane1997: закажите мне бензин
+[04:56:18] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/chair_office02.mdl
+[04:56:18] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:56:18] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/jeep_seat.mdl
+[04:56:18] patrickkane1997: я вам потом отправлю роесурсы
+[04:56:30] patrickkane1997: мне чтобы доехать обратно
+[04:56:40] patrickkane1997: 200 единиц бензина не особо хватает на машинку
+[04:57:20] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[04:57:20] Redoket suicided!
+[04:57:20] patrickkane1997: какая у вас организация
+[04:57:23] patrickkane1997: чтобы я отправить мог 
+[04:57:28] patrickkane1997: понял
+[04:57:30] patrickkane1997: спасибо
+[04:57:33] Client "Redoket" connected.
+[04:57:37] PoPcat: АЙ
+[04:58:10] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 37 seconds).
+[04:58:11] Mr_Pyro stripped weapons from Themself
+[04:58:11] Mr_Pyro: !strip Mr_Pyro
+[04:58:16] Mr_Pyro silently slayed Themself
+[04:58:16] Mr_Pyro: !sslay Mr_Pyro
+[04:58:42] Mr_Pyro cloaked Themself by amount 0
+[04:58:42] Mr_Pyro cloaked Themself by amount 0
+[04:58:51] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[04:58:51] Redoket suicided!
+[04:59:32] Mr_Pyro silently slayed Themself
+[04:59:32] Mr_Pyro: !sslay Mr_Pyro
+[04:59:34] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[04:59:34] Mr_Pyro suicided!
+[05:03:01] Bigbarsik223: я отойду щас покушать
+[05:03:21] Dropped "PoPcat" from server<STEAM_0:1:564871456>
+[05:03:21] PoPcat suicided!
+[05:04:32] Client "богдан." connected.
+[05:06:06] Client "patrikalkas" connected.
+[05:06:12] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 100 seconds).
+[05:07:22] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 76 seconds).
+[05:08:33] богдан.: приве
+[05:08:38] patrikalkas: Ghbdtn
+[05:08:42] patrikalkas: Привет
+[05:08:49] богдан.: бля у меня чат не видно и мен
+[05:08:51] богдан.: о
+[05:08:54] богдан.: разлагало
+[05:09:19] patrikalkas: Я не знаю что я буду сегодня делать
+[05:09:36] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[05:09:36] patrikalkas suicided!
+[05:14:03] Сырный пакетик to admins: админы есть?
+[05:14:53] Bigbarsik223 was killed by ent_jack_gmod_ezsentry
+[05:15:18] Dropped "Bigbarsik223" from server<STEAM_0:0:652203298>
+[05:15:18] Bigbarsik223 suicided!
+[05:15:22] Client "Bigbarsik223" connected.
+[05:16:03] Client "Bigbarsik223" spawned in server <STEAM_0:0:652203298> (took 41 seconds).
+[05:16:51] Client "P.Diddy" connected.
+[05:17:58] Client "P.Diddy" spawned in server <STEAM_0:0:563226181> (took 67 seconds).
+[05:18:28] Client "куплю мать недopogo" connected.
+[05:18:36] Client "куплю мать недopogo" connected.
+[05:20:50] богдан.: нет бензин
+[05:21:06] богдан.: нормальна
+[05:26:26] patrickkane1997: ну привет
+[05:26:31] patrickkane1997: нормально
+[05:26:52] patrickkane1997: а вы кто
+[05:26:57] patrickkane1997: ребята
+[05:27:03] patrickkane1997: а вы вообще кто
+[05:27:09] patrickkane1997: ладно 
+[05:29:07] TRENCH_ZOMBI was killed by build_prop
+[05:32:09] Client "buluutgunen15" connected.
+[05:32:16] Client "куплю мать недopogo" spawned in server <STEAM_0:0:246412758> (took 820 seconds).
+[05:34:46] куплю мать недopogo: !motd
+[05:37:02] куплю мать недopogo: /act sit
+[05:37:14] куплю мать недopogo: /me упал
+[05:37:23] куплю мать недopogo: !motd
+[05:37:32] куплю мать недopogo: !motd
+[05:38:10] куплю мать недopogo: !motd
+[05:39:33] куплю мать недopogo: !motd
+[05:40:23] Client "Mr.Matveykus_" connected.
+[05:40:36] куплю мать недopogo: !motd
+[05:40:45] куплю мать недopogo: !motd
+[05:41:06] Client "Mr.Matveykus_" spawned in server <STEAM_0:1:616448628> (took 43 seconds).
+[05:42:07] Шайтан: АААААА
+[05:43:09] Client "nikita..." connected.
+[05:43:22] Dropped "куплю мать недopogo" from server<STEAM_0:0:246412758>
+[05:43:22] куплю мать недopogo suicided!
+[05:47:18] Dropped "А ПО ЖОПЕ!?" from server<STEAM_0:1:557416607>
+[05:47:18] А ПО ЖОПЕ!? suicided!
+[05:48:39] Шайтан suicided!
+[05:49:07] Client "beliash" connected.
+[05:50:12] TRENCH_ZOMBI: скрафтил
+[05:50:14] TRENCH_ZOMBI: уже
+[05:54:40] P.Diddy: привет
+[05:54:45] P.Diddy: /me Выполнил воинское приветствие
+[05:54:48] P.Diddy: развиваюсь
+[05:54:58] P.Diddy was killed by ent_aboot_gmod_ezshippingcontainer
+[05:56:45] Mr.Matveykus_: supply radio: truck
+[05:56:58] Mr.Matveykus_: supply radio: truck
+[05:56:59] Client "nikita..." connected.
+[05:57:12] Mr.Matveykus_: supply radio: truck
+[05:57:19] Mr.Matveykus_: supply radio: truck
+[05:57:28] Mr.Matveykus_: supply radio: truck
+[05:58:00] Client "nikita..." spawned in server <STEAM_0:0:804487108> (took 61 seconds).
+[05:59:35] Client "САЛО В ГНЕВЕ !!!!!!" connected.
+[05:59:41] KIRKA: supply radio: medium tank
+[05:59:51] Bigbarsik223: МНЕ НАДО СДЕЛАТЬ ШАХИД ГРУЗОВИК
+[06:00:11] nikita... was killed by ent_jack_gmod_ezsentry
+[06:01:36] nikita... was killed by ent_jack_gmod_ezsentry
+[06:01:36] Mr.Matveykus_: Организация по доставке! Нужно привести с вашего рудника руды? Пишит�
+[06:03:45] Client "beliash" spawned in server <STEAM_0:0:822301453> (took 878 seconds).
+[06:05:05] TRENCH_ZOMBI: кирка скинь телефончик 
+[06:05:08] TRENCH_ZOMBI: машинук закажу
+[06:05:23] nikita... was killed by ent_jack_gmod_ezsentry
+[06:05:31] patrickkane1997: привет
+[06:05:35] Шайтан: привет
+[06:06:14] Client "maksumkolesnukov022" connected.
+[06:06:14] patrickkane1997: а чего вы трупы не убираете
+[06:06:17] patrickkane1997: воняют же 
+[06:06:52] KIRKA: Как обстановка ?
+[06:06:55] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 41 seconds).
+[06:06:58] KIRKA: У них снайперская турель
+[06:07:02] KIRKA: Будь осторожнее
+[06:07:04] Данил батькович: у них вертольт 1 и пво
+[06:07:10] nikita...: можно к вам в клан?
+[06:07:11] KIRKA: Вертолет это плохо
+[06:07:17] patrickkane1997: здрастке
+[06:07:19] KIRKA: Надо будет уничтожить его шахидом
+[06:07:21] patrickkane1997: просто наблюдаю
+[06:07:21] KIRKA: Где верт ?
+[06:07:23] patrickkane1997: как люди поживают 
+[06:07:25] maksumkolesnukov022 cloaked Themself by amount 0
+[06:07:25] maksumkolesnukov022: !cloak maksumkolesnukov022
+[06:07:34] patrickkane1997: для безопасности
+[06:07:42] patrickkane1997: вон смотри
+[06:07:56] KIRKA: Вертолет где ?
+[06:07:58] patrickkane1997: понятно
+[06:07:59] patrickkane1997: ладно давай
+[06:08:00] KIRKA: И какой верт ?
+[06:08:10] KIRKA: Также корды дай
+[06:08:24] TRENCH_ZOMBI: ТУТ КАКОЙТО ПСИХ НА ТАЧКЕ С РАКЕТАМИ ЕЗДИТ, МЕНЯ КОНЕЧНО НЕ ОБСТРЕЛЯЛ
+[06:08:30] TRENCH_ZOMBI: НО БУДТЕ С НИМ АККУРАТНЕЕ
+[06:08:51] Данил батькович: x143 y53
+[06:08:58] Данил батькович: x143 y53
+[06:09:04] Данил батькович: корды
+[06:09:04] Dropped "beliash" from server<STEAM_0:0:822301453>
+[06:09:04] beliash suicided!
+[06:09:09] (TEAM) Данил батькович: грузовой верт
+[06:09:31] maksumkolesnukov022: непонял чё опять за 100 фракций одиночек
+[06:10:01] maksumkolesnukov022 uncloaked Themself
+[06:10:03] maksumkolesnukov022 was killed by ent_jack_gmod_ezsentry
+[06:10:05] Данил батькович: их всего 2
+[06:10:09] Данил батькович: людей
+[06:10:10] P.Diddy: /me Выполнил воинское приветствие
+[06:10:14] maksumkolesnukov022 cloaked Themself by amount 0
+[06:10:15] nikita...: можно к вам в клан?
+[06:10:22] maksumkolesnukov022 teleported to TRENCH_ZOMBI
+[06:10:32] Данил батькович: ало меня слышно?
+[06:10:34] KIRKA: Ла
+[06:10:35] KIRKA: Да
+[06:10:38] Данил батькович: окей
+[06:10:45] Dropped "patrickkane1997" from server<STEAM_0:0:444745902>
+[06:10:45] patrickkane1997 suicided!
+[06:10:57] Bigbarsik223: КУДА ЕХАТЬ
+[06:11:06] Данил батькович: место положение турелий говорить?
+[06:11:12] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpopcorn
+[06:11:45] KIRKA: Сейчас шахид полетит
+[06:11:54] Данил батькович: жду 
+[06:12:00] Шайтан: слыште
+[06:12:03] KIRKA: ? 
+[06:12:15] Шайтан: я могу машину само убицу поветси прям в их базу?
+[06:12:19] KIRKA: У нас уже
+[06:12:19] maksumkolesnukov022 uncloaked Themself
+[06:12:31] Шайтан: будет сразу 2
+[06:12:34] KIRKA: Окей
+[06:12:37] KIRKA: У нас тоже 2 шахида
+[06:12:41] KIRKA: Один уже поехал 
+[06:12:45] Шайтан: не не готов еще
+[06:12:46] KIRKA: Войну объявляем ?
+[06:12:50] KIRKA: У тебя минута
+[06:12:55] maksumkolesnukov022: фракций одиночек многа слишком 
+[06:13:02] Bigbarsik223: ЕХАТЬ?
+[06:13:07] Данил батькович: готовы?
+[06:13:07] maksumkolesnukov022: круто
+[06:13:12] KIRKA: 20 секунд
+[06:13:15] KIRKA: Изготовка
+[06:13:18] KIRKA: и по моей команде
+[06:13:28] KIRKA: Так
+[06:13:30] KIRKA: 15 секунл
+[06:13:31] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpopcorn
+[06:13:31] Шайтан: давайте уже я пока готовлсь год пройдет
+[06:13:32] KIRKA: 10
+[06:13:38] KIRKA: 4
+[06:13:39] KIRKA: 3
+[06:13:40] KIRKA: 2
+[06:13:41] KIRKA: 1
+[06:13:43] KIRKA: ПОЕХАЛ
+[06:13:46] Данил батькович: x143 y53 вертолет
+[06:13:48] Данил батькович: x143 y53 вертолет
+[06:13:53] KIRKA: ТАНКИ
+[06:13:55] KIRKA: ПОЕХАЛИ
+[06:14:00] Bigbarsik223 was killed by ent_jack_gmod_ezsentry
+[06:14:04] Client "." connected.
+[06:14:15] Bigbarsik223: ПОМОГИИТЕ
+[06:14:19] Bigbarsik223: Я ЗАСТРЯЛ
+[06:14:23] Bigbarsik223: ЕБАНЫЙ ПОЛ
+[06:14:27] Bigbarsik223: ПАКЕТ
+[06:14:30] Bigbarsik223: БЫСТРЕЕ ПОМОГИ
+[06:14:42] KIRKA: УРАНА НЕ БУЕДТ
+[06:14:52] Client "0" spawned in server <STEAM_0:0:919352780> (took 48 seconds).
+[06:15:22] KIRKA: Сдавайтесь
+[06:15:26] Bigbarsik223 suicided!
+[06:15:33] KIRKA: Сдавайтесь
+[06:15:37] KIRKA: Всн
+[06:15:37] TRENCH_ZOMBI: СДАВАЙТЕСЬ
+[06:15:40] KIRKA: Сдавайтесь
+[06:15:43] KIRKA: СДАВАЙТЕСЬ
+[06:15:49] TRENCH_ZOMBI killed Mr.Matveykus_ using ent_jack_gmod_ezgasparticle
+[06:15:50] TRENCH_ZOMBI: ПРОИЗВОДСТВО УРАНА
+[06:16:00] (TEAM) Данил батькович: Что у вас
+[06:16:45] Данил батькович: кто на базе
+[06:17:42] Сырный пакетик killed Шайтан using tfa_doisten
+[06:17:49] богдан.: я вон там
+[06:17:52] Шайтан killed Сырный пакетик using ent_jack_gmod_ezpowderkeg
+[06:17:57] nikita...: ok
+[06:18:04] TRENCH_ZOMBI killed TRENCH_ZOMBI
+[06:19:38] 0 was killed by ent_jack_gmod_ezsentry
+[06:21:27] KIRKA: Свои
+[06:21:29] KIRKA: Что бьете ?
+[06:21:34] KIRKA: Свои
+[06:21:39] Шайтан: СНАЙПЕР
+[06:21:49] TRENCH_ZOMBI: ЧТО ТЕПЕРЬ ДЕЛАЕМ?
+[06:21:50] Шайтан: СОСТОРОНЫ БАЗЫЫ ИХ
+[06:22:02] TRENCH_ZOMBI: 25 К УРАНА???
+[06:22:10] TRENCH_ZOMBI: а
+[06:22:13] TRENCH_ZOMBI: тв про это
+[06:22:15] TRENCH_ZOMBI: да
+[06:22:21] TRENCH_ZOMBI: максимка балуется
+[06:22:37] TRENCH_ZOMBI: предлагаю бум точку
+[06:23:03] Шайтан: ТЫ КТО???
+[06:24:49] Данил батькович killed Данил батькович
+[06:25:11] Bigbarsik223: где они
+[06:25:21] Bigbarsik223: сука откуда радиация
+[06:26:01] KIRKA: ХУЛИ СВОИХ БЬЕТЕ ?!
+[06:26:09] Шайтан: ДА БЯЛТЬ
+[06:26:21] Шайтан: У МЕНЯ МАШИНА ЗАСТРЯЛА
+[06:26:56] Шайтан: а все уже?
+[06:27:18] Шайтан: можно взорвать их еще раз?
+[06:27:25] Шайтан: эх
+[06:27:27] Шайтан: ну кароче
+[06:27:30] Шайтан: это вам
+[06:27:44] Шайтан: закройте шахид машину
+[06:27:47] Bigbarsik223: как от радиации вылечится
+[06:28:01] Bigbarsik223: я ненавижу уран и все что с ним связано
+[06:30:21] богдан.: пока лучше подожди иммунитет
+[06:30:26] nikita...: уже
+[06:30:29] богдан.: аа ок
+[06:31:28] nikita...: нам вода нужна?
+[06:31:35] богдан.: я заказал
+[06:31:43] nikita...: можно добыть
+[06:31:50] богдан.: не
+[06:31:56] nikita...: да
+[06:32:10] Bigbarsik223 killed Bigbarsik223
+[06:32:11] богдан.: лишняя трата энергии
+[06:32:21] nikita...: ну ок
+[06:32:48] 0 was killed by ent_jack_gmod_ezsentry
+[06:33:14] богдан.: когда серебро подорожает прдадим и будем богатыми
+[06:33:39] nikita...: может купить пока дешёвое?
+[06:37:42] ✶✸Iłұasħҝa✸✶: !motd
+[06:38:50] Шайтан: ЭЭЭЭЭМ
+[06:38:55] TRENCH_ZOMBI: АНОМАЛИЯ
+[06:39:01] TRENCH_ZOMBI: НЕ ТРОГАЕМ
+[06:39:11] Шайтан: бля золото дешевле стало =(
+[06:39:18] Шайтан: стой
+[06:39:23] Шайтан: я выключил
+[06:39:29] Шайтан: иди полечись
+[06:39:36] Шайтан: пошили
+[06:39:50] Шайтан: вот
+[06:40:10] Шайтан: он ваще нормис
+[06:40:38] Шайтан: а че с бибикой делать
+[06:40:50] Шайтан: она мне не нравится
+[06:40:53] Шайтан: знаешь почему
+[06:41:05] Шайтан: жэссс
+[06:41:25] TRENCH_ZOMBI to admins: это видеть надо, у нас своя аномалия есть
+[06:41:51] Шайтан: слушай помоги
+[06:42:00] Шайтан: да
+[06:42:32] Dropped "0" from server<STEAM_0:0:919352780>
+[06:42:32] 0 suicided!
+[06:47:58] nikita...: серебро по сколько продавать?
+[06:48:10] богдан.: когда хотябы 80 будет
+[06:48:13] Dropped "Сырный пакетик" from server<STEAM_0:0:617253467>
+[06:48:13] Сырный пакетик suicided!
+[06:48:48] maksumkolesnukov022 cloaked Themself by amount 0
+[06:48:54] maksumkolesnukov022 teleported to TRENCH_ZOMBI
+[06:49:00] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[06:49:00] KIRKA suicided!
+[06:49:04] Dropped "Данил батькович" from server<STEAM_0:1:629060904>
+[06:49:04] Данил батькович suicided!
+[06:49:14] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[06:49:14] maksumkolesnukov022 suicided!
+[06:50:35] Client "Ayub Abdullahı ISSE" connected.
+[06:50:48] Dropped "Bigbarsik223" from server<STEAM_0:0:652203298>
+[06:50:48] Bigbarsik223 suicided!
+[06:50:56] Dropped "nikita..." from server<STEAM_0:0:804487108>
+[06:50:56] nikita... suicided!
+[06:54:24] Шайтан: ну а что
+[06:54:26] Шайтан: делать то
+[06:54:40] Шайтан: послединий штрих зделаю
+[06:55:13] Шайтан: слушай
+[06:55:23] Шайтан: а туреи как думаешь
+[06:55:30] Шайтан: если выйдем работать будут?
+[06:55:36] Шайтан: бля
+[06:55:47] Шайтан: я хочу чтобы база осталась
+[06:55:58] Шайтан:  тут все идельно
+[06:56:03] Шайтан: а как ботом будем
+[06:56:06] Шайтан: потом
+[06:56:10] Шайтан: а кароче
+[06:56:15] Шайтан: карту еще поменяют же
+[06:56:26] Шайтан: если чесно 
+[06:56:33] Шайтан: деньги не проблема будут
+[06:56:45] Шайтан: тут база фармить будет бесконечно
+[06:56:53] Шайтан: за счет реактора
+[06:57:02] Шайтан: 11к
+[06:57:17] Шайтан: она бесконечная
+[06:57:22] Шайтан: всетаки
+[06:57:38] Шайтан: эх
+[06:57:44] Шайтан: а база красивая все так
+[06:57:47] Шайтан: тки
+[06:57:49] Шайтан: кароче
+[06:57:55] Шайтан: невть мы еще не добывали =)
+[06:58:14] Шайтан: лишнее место займет
+[06:58:16] Шайтан: =)
+[06:58:24] Шайтан: с нашей маленькой территорие
+[06:58:35] Шайтан: бля го деревню пастроим
+[06:59:16] Шайтан: не хош в мини геймз?
+[06:59:25] Шайтан: или всетаки
+[06:59:28] Шайтан: деревня?
+[06:59:37] Шайтан: ну тогда похуй
+[06:59:41] Шайтан: ТОК
+[06:59:44] Шайтан: ПОГОДИ
+[07:00:09] Шайтан: все
+[07:00:12] Шайтан: погнали
+[07:00:19] Шайтан: я закрылся
+[07:00:21] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[07:00:21] Шайтан suicided!
+[07:01:58] Dropped "TRENCH_ZOMBI" from server<STEAM_0:1:617631024>
+[07:01:58] TRENCH_ZOMBI suicided!
+[07:03:13] богдан.: supply radio: light tank
+[07:03:51] богдан.: supply radio: light tank
+[07:09:30] Dropped "богдан." from server<STEAM_0:1:815266334>
+[07:09:30] богдан. suicided!
+[07:10:14] Client "TRALL" connected.
+[07:12:22] Dropped "Mr.Matveykus_" from server<STEAM_0:1:616448628>
+[07:12:22] Mr.Matveykus_ suicided!
+[07:13:53] Dropped "✶✸Iłұasħҝa✸✶" from server<STEAM_0:1:2185856>
+[07:13:53] ✶✸Iłұasħҝa✸✶ suicided!
+[07:54:19] Client "Jr_byba" connected.
+[08:04:18] Client "Soldier_S.C.A.F" connected.
+[08:06:59] Client "богдан." connected.
+[08:07:43] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 44 seconds).
+[08:10:25] Client "GalagtidaEmperator" connected.
+[08:12:05] Client "GalagtidaEmperator" spawned in server <STEAM_0:0:919352780> (took 99 seconds).
+[08:22:46] Client "db7937970" connected.
+[08:26:06] богдан. suicided!
+[08:27:08] Dropped "GalagtidaEmperator" from server<STEAM_0:0:919352780>
+[08:27:08] GalagtidaEmperator suicided!
+[08:33:42] Client "GreenPixel11" connected.
+[08:40:58] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 436 seconds).
+[08:45:09] богдан. was killed by lvs_wheeldrive_dodwillyjeep
+[08:45:43] богдан.: я выхожу уже скоро
+[08:45:51] богдан.: не ходи тут мины
+[08:46:14] богдан.: все равно пока не поменяют карту никто не зайдет
+[08:46:17] богдан.: можешьь брать
+[08:46:23] богдан. killed GreenPixel11 using ent_jack_gmod_ezlandmine
+[08:46:40] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[08:46:40] GreenPixel11 suicided!
+[08:49:51] Dropped "богдан." from server<STEAM_0:1:815266334>
+[08:49:51] богдан. suicided!
+[09:24:44] Dropped "P.Diddy" from server<STEAM_0:0:563226181>
+[09:24:44] P.Diddy suicided!
+[09:57:16] Client "fox_top4ick" connected.
+[11:21:18] Client "archer04lanyard" connected.
+<Logging continued in "data/ulx_logs/10-27-25.txt">

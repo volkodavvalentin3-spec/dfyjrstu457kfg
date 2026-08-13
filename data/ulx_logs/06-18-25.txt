@@ -1,0 +1,160 @@
+<Logging continued from "data/ulx_logs/06-17-25.txt">
+[01:52:11] Client "Njos" connected.
+[02:09:53] Client "Njos" spawned in server <STEAM_0:1:618247610> (took 1062 seconds).
+[02:31:30] Dropped "ladno" from server<STEAM_0:1:124984530>
+[02:31:30] ladno suicided!
+[02:50:33] Dropped "Njos" from server<STEAM_0:1:618247610>
+[02:50:33] Njos suicided!
+[02:50:36] Client "Njos" connected.
+[02:58:19] Client "Njos" connected.
+[02:59:28] Client "Njos" spawned in server <STEAM_0:1:618247610> (took 69 seconds).
+[03:06:14] Dropped "Njos" from server<STEAM_0:1:618247610>
+[03:06:14] Njos suicided!
+[03:06:15] Client "Njos" connected.
+[03:06:50] Client "Njos" spawned in server <STEAM_0:1:618247610> (took 35 seconds).
+[03:16:08] Dropped "Njos" from server<STEAM_0:1:618247610>
+[03:16:08] Njos suicided!
+[04:12:44] Client "Njos" connected.
+[04:13:38] Client "Njos" spawned in server <STEAM_0:1:618247610> (took 54 seconds).
+[04:18:40] Dropped "Njos" from server<STEAM_0:1:618247610>
+[04:18:40] Njos suicided!
+[04:18:41] Client "Njos" connected.
+[04:19:13] Client "Njos" spawned in server <STEAM_0:1:618247610> (took 32 seconds).
+[04:31:21] Dropped "Njos" from server<STEAM_0:1:618247610>
+[04:31:21] Njos suicided!
+[04:31:22] Client "Njos" connected.
+[04:31:55] Client "Njos" spawned in server <STEAM_0:1:618247610> (took 33 seconds).
+[04:32:49] Client "lenour" connected.
+[05:11:48] Dropped "Njos" from server<STEAM_0:1:618247610>
+[05:11:48] Njos suicided!
+[07:07:48] Client "nikita..." connected.
+[07:09:10] Client "nikita..." spawned in server <STEAM_0:0:804487108> (took 82 seconds).
+[07:10:34] Client "A.P.T.Ё.М" connected.
+[07:11:16] Dropped "nikita..." from server<STEAM_0:0:804487108>
+[07:11:16] nikita... suicided!
+[07:12:30] Client "A.P.T.Ё.М" spawned in server <STEAM_0:1:743297812> (took 116 seconds).
+[07:20:49] Dropped "A.P.T.Ё.М" from server<STEAM_0:1:743297812>
+[07:20:49] A.P.T.Ё.М suicided!
+[09:10:49] Client "vasiliy karat" connected.
+[09:11:40] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 51 seconds).
+[09:14:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[09:15:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[09:16:35] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[09:16:35] vasiliy karat suicided!
+[10:21:22] Client "БАРБОСКИНЫ" connected.
+[10:23:55] Client "БАРБОСКИНЫ" spawned in server <STEAM_0:1:926470495> (took 153 seconds).
+[10:35:17] Client "vasiliy karat" connected.
+[10:35:50] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 33 seconds).
+[10:36:46] Client "Mr_Pyro" connected.
+[10:37:34] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 48 seconds).
+[10:38:22] Mr_Pyro: Вася
+[10:38:24] Mr_Pyro: это реальны ты?
+[10:38:37] vasiliy karat: НЕТ Я НЕНАСТОЯЩИЙ Я ДУХ ЭТОГО МЕСТА 
+[10:38:44] vasiliy karat: ШУЧУ НАСТОЯЩИЙ КОНЕЧНО ДУХОВ НЕ БЫВАЕТ
+[10:38:50] Mr_Pyro: точно
+[10:39:01] vasiliy karat: НАДА КАРТУ ПОМЕНЯТЬ
+[10:39:07] Mr_Pyro: НА какую
+[10:39:13] Mr_Pyro: как думаешь
+[10:39:25] Mr_Pyro: как будто либо сро классическое
+[10:39:31] Mr_Pyro: либо маушенд филд
+[10:40:07] vasiliy karat: !menu
+[10:40:27] Client "maksumkolesnukov022" connected.
+[10:41:01] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 34 seconds).
+[10:41:11] Mr_Pyro stripped weapons from Themself
+[10:41:11] Mr_Pyro: !strip Mr_Pyro
+[10:41:38] Mr_Pyro: давай голосование за карту
+[10:41:39] Mr_Pyro: ща 
+[10:41:56] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_trainstation/trainstation_clock001.mdl
+[10:41:58] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_vehicles/carparts_door01a.mdl
+[10:42:02] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_junk/popcan01a.mdl
+[10:42:02] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_junk/popcan01a.mdl
+[10:42:02] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_junk/popcan01a.mdl
+[10:42:11] Mr_Pyro: вася
+[10:42:15] vasiliy karat: ЩАС
+[10:42:18] Client "Chupacabr" connected.
+[10:42:19] Mr_Pyro: держди
+[10:42:22] Mr_Pyro: окак
+[10:42:23] Mr_Pyro: чупа
+[10:42:24] vasiliy karat: БУДЕМ ВЫБИРАТЬ КАРТУ
+[10:42:29] vasiliy karat: Я ЩА
+[10:42:32] Mr_Pyro: сматри
+[10:42:35] Mr_Pyro: слева сро
+[10:42:41] Mr_Pyro: спрво маушенд
+[10:43:41] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_aboot_gmod_ezpounder
+[10:43:49] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbattery
+[10:43:54] Mr_Pyro: рейп машина
+[10:44:06] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 108 seconds).
+[10:44:14] Mr_Pyro: ой
+[10:44:21] maksumkolesnukov022 suicided!
+[10:44:26] vasiliy karat suicided!
+[10:44:31] Mr_Pyro: ой
+[10:44:37] Chupacabr killed vasiliy karat using tfa_rs2v_type56
+[10:44:47] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[10:44:48] Chupacabr suicided!
+[10:44:49] vasiliy karat suicided!
+[10:44:49] vasiliy karat killed Mr_Pyro using ent_panzerfaust_shell_v2
+[10:44:49] vasiliy karat killed maksumkolesnukov022 using ent_panzerfaust_shell_v2
+[10:44:54] Mr_Pyro: уж 
+[10:45:02] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezammo
+[10:45:17] Mr_Pyro: блииин
+[10:45:22] Mr_Pyro: у меня походу бинд слетел
+[10:45:34] maksumkolesnukov022: 5к на полф
+[10:45:37] maksumkolesnukov022: раз
+[10:45:38] Mr_Pyro: Э
+[10:45:42] Mr_Pyro: Я ПЕРВЫЙ ДОСТАЛ
+[10:45:53] maksumkolesnukov022: АДМИИИИН ТУТ ФИРРП
+[10:45:58] Mr_Pyro: ОН ВРЁМ
+[10:46:01] Mr_Pyro: ЭТО ОН ВСЁ
+[10:46:02] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[10:46:02] vasiliy karat suicided!
+[10:46:02] Mr_Pyro: НАЧАЛ
+[10:46:23] Mr_Pyro killed maksumkolesnukov022 using tfa_rs2v_type56
+[10:46:32] Mr_Pyro: АСТОНАВИСТЯ
+[10:46:34] Mr_Pyro: БЭЙМИЮЕ
+[10:46:39] Client "Chupacabr" connected.
+[10:46:42] maksumkolesnukov022 killed Mr_Pyro using tfa_doim3greasegun
+[10:46:45] Mr_Pyro: АХХЗАХАХА
+[10:46:53] Client "vasiliy karat" connected.
+[10:46:53] Mr_Pyro: ФИГА СТРУЧОК
+[10:46:57] Mr_Pyro: КИТАЙСКИЙ
+[10:46:58] maksumkolesnukov022: НЕ ВЫРОС
+[10:47:14] Mr_Pyro: Я БУДУ ЗАПИСЫВАЬТЬ
+[10:47:17] Mr_Pyro: ПОТОМУ ЧТО СМЕШНО
+[10:47:38] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 59 seconds).
+[10:47:41] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 48 seconds).
+[10:48:13] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[10:48:13] Chupacabr suicided!
+[10:48:39] vasiliy karat: ВЫТЯГИВАЕМ
+[10:49:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwinch
+[10:49:45] maksumkolesnukov022: ПАВЕРА
+[10:49:45] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[10:50:24] Client "Chupacabr" connected.
+[10:50:31] maksumkolesnukov022: ТЯНЕМ
+[10:50:54] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 30 seconds).
+[10:51:08] Chupacabr killed maksumkolesnukov022 using tfa_blast_sjogren
+[10:51:14] Chupacabr killed vasiliy karat using tfa_doim3greasegun
+[10:51:16] vasiliy karat: ЧЕРНЫЙ ЖКРАН
+[10:51:19] Mr_Pyro killed maksumkolesnukov022 using tfa_rs2v_type56
+[10:51:21] Chupacabr killed Mr_Pyro using tfa_doim3greasegun
+[10:51:27] vasiliy karat: ЭКРНА Н
+[10:51:30] Chupacabr suicided!
+[10:51:41] maksumkolesnukov022 killed Chupacabr using tfa_doim3greasegun
+[10:51:44] maksumkolesnukov022 killed vasiliy karat using tfa_doim3greasegun
+[10:51:49] maksumkolesnukov022 killed Mr_Pyro using tfa_doim3greasegun
+[10:51:55] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[10:51:55] vasiliy karat suicided!
+[10:53:40] maksumkolesnukov022 killed Chupacabr using tfa_doim3greasegun
+[10:54:14] Chupacabr killed maksumkolesnukov022 using rust_doublebarrel
+[10:54:15] Chupacabr killed Mr_Pyro using rust_doublebarrel
+[10:54:19] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[10:54:19] Chupacabr suicided!
+[10:54:36] maksumkolesnukov022 killed Mr_Pyro using tfa_doic96
+[10:55:31] maksumkolesnukov022 killed Mr_Pyro using tfa_doic96
+[10:56:57] maksumkolesnukov022 killed Mr_Pyro using tfa_doic96
+[10:57:00] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[10:57:00] maksumkolesnukov022 suicided!
+[10:57:25] Dropped "БАРБОСКИНЫ" from server<STEAM_0:1:926470495>
+[10:57:25] БАРБОСКИНЫ suicided!
+[10:58:31] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[10:58:31] Mr_Pyro suicided!
+<Logging continued in "data/ulx_logs/06-19-25.txt">

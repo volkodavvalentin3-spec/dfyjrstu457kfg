@@ -1,0 +1,62 @@
+{
+	"gm_sro_mountain_field": {
+		"rating": 0,
+		"count": 0
+	},
+	"gm_micronations": {
+		"rating": 0,
+		"count": 0
+	},
+	"gm_sro_highcliffs": {
+		"rating": 9,
+		"count": 1
+	},
+	"terrortown": {
+		"rating": 0,
+		"count": 0
+	},
+	"gm_construct": {
+		"rating": 0,
+		"count": 0
+	},
+	"gm_emp_palmbay": {
+		"rating": 0,
+		"count": 0
+	},
+	"sandbox": {
+		"rating": 0,
+		"count": 0
+	},
+	"gm_bigcity": {
+		"rating": 0,
+		"count": 0
+	},
+	"gm_flatgrass": {
+		"rating": 0,
+		"count": 0
+	},
+	"gm_whiten": {
+		"rating": 0,
+		"count": 0
+	},
+	"gm_sro_duststorm": {
+		"rating": 0,
+		"count": 0
+	},
+	"base": {
+		"rating": 0,
+		"count": 0
+	},
+	"gm_emp_isle": {
+		"rating": 0,
+		"count": 0
+	},
+	"jsurvival": {
+		"rating": 10,
+		"count": 1
+	},
+	"gm_sro": {
+		"rating": 0,
+		"count": 0
+	}
+}

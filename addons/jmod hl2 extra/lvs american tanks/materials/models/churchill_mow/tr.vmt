@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Churchill_mow\tr"
+	
+	"$alphatest" "1"
+}

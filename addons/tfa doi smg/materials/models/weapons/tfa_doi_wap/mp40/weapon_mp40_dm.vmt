@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\weapons\tfa_doi_wap\mp40\weapon_mp40_dm"
+	"$bumpmap" 						"models\weapons\tfa_doi_wap\mp40\weapon_mp40_nm"
+
+    "$color2"					"[1 1 1]"
+//	"$color2"					"[0.7 0.7 0.7]"
+        $normalmapalphaenvmapmask	"1"
+	$envmap						env_cubemap
+	$envmaptint					"[ .01 .01 .01 ]"		
+	$phong						1
+	$phongexponent				45
+	$phongboost					5
+	$phongfresnelranges			"[0.2 0.5 1]"
+        $rimmask					"1"
+        $rimlightexponent			"80"	
+	$rimlight					"1"
+	$rimlightboost		".2"
+
+}

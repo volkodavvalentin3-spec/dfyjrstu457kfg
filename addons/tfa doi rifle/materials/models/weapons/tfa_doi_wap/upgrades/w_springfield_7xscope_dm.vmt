@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\tfa_doi_wap\upgrades\w_springfield_7xscope_dm"
+	"$bumpmap"			    "models\weapons\tfa_doi_wap\upgrades\w_springfield_7xscope_nm"
+	
+	$phong 						"1"
+    	$phongtint 					"[0.6 0.8 1.0]"
+	$phongexponent 				"45"
+	$phongboost 				"0.02"
+	$phongfresnelranges			"[1 1 1]"
+}

@@ -1,0 +1,922 @@
+<Logging continued from "data/ulx_logs/01-19-25.txt">
+[01:53:27] Client "Soldier_S.C.A.F" connected.
+[01:59:09] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 342 seconds).
+[02:05:42] Soldier_S.C.A.F: !pchat
+[02:18:12] Client "RusLanConnection" connected.
+[02:20:49] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 157 seconds).
+[02:26:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[02:26:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgold
+[02:26:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgold
+[02:26:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgold
+[02:26:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgold
+[02:26:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgold
+[02:27:04] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m_rp
+[02:27:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[02:27:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[02:27:19] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[02:27:19] Soldier_S.C.A.F suicided!
+[02:32:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[02:32:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[02:32:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[02:35:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[02:35:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[02:35:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_maxim
+[02:36:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[02:36:19] Client "vasiliy karat" connected.
+[02:37:27] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 68 seconds).
+[02:38:56] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_maxim
+[02:39:04] RusLanConnection was killed by lvs_maxim
+[02:39:34] vasiliy karat: ТАК
+[02:39:45] vasiliy karat: ТЫ ЧТОГОВОРИЛ Я 
+[02:39:47] vasiliy karat: НЕСДЛЫША
+[02:40:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[02:40:20] vasiliy karat: ЧТО ТЫ ГОВОРИ
+[02:40:40] RusLanConnection: of
+[02:40:41] RusLanConnection: ща
+[02:40:43] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[02:40:43] RusLanConnection suicided!
+[02:41:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_ushead
+[02:41:56] Client "RusLanConnection" connected.
+[02:42:10] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_maxim
+[02:42:54] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 58 seconds).
+[02:42:55] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[02:43:50] vasiliy karat: СВ ЧИТС 1?
+[02:43:52] vasiliy karat: УЖЕ СТОИТ?
+[02:43:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[02:44:00] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[02:44:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[02:44:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[02:44:45] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_maxim
+[02:44:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[02:44:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[02:44:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[02:44:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[02:45:11] vasiliy karat: ЧЕ С ЭТИМИ
+[02:45:18] vasiliy karat: ТУТ УЖИ
+[02:45:21] vasiliy karat: ЕЖИ В БИЛДЕ
+[02:45:29] RusLanConnection: их настроить надо
+[02:47:14] RusLanConnection was killed by lvs_maxim
+[02:47:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[02:48:24] vasiliy karat: САМ ПОПРОБУЙ
+[02:48:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[02:48:30] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthkit
+[02:48:31] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthkit
+[02:48:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[02:49:06] vasiliy karat: ЭТО СТРАШНО БЫТЬ ПОД ПУЛЕМЕТНЫМ 
+[02:49:07] vasiliy karat: ОГНЕМ
+[02:49:22] Client "domikvcady" connected.
+[02:49:23] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthkit
+[02:49:24] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthkit
+[02:49:24] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthkit
+[02:49:24] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthkit
+[02:50:04] vasiliy karat: НУ ТО ЧТО НОРМАЛЬНЫЙ ПУЛЕМЕТ В ГНЕЗДЕ ЗАЩИТНОМ КРУЧЕ НЕКУДА
+[02:50:20] vasiliy karat: МОЖНО ЕЩЕ ПО НЕСКОЛЬКО СТАВИТЬ ЧТОБЫ ПРЯМ В ОДНОМ ПЕРЕГРЕВ 
+[02:50:26] vasiliy karat: СЕЛ ЗА ДРУГОЙ НУ ЭТО УЖЕ ДЕТАЛИ
+[02:50:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_maxim
+[02:50:47] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthkit
+[02:50:47] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthkit
+[02:50:48] vasiliy karat<STEAM_0:0:814052183> spawned sent item_healthkit
+[02:50:59] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[02:51:00] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[02:51:16] RusLanConnection: supply radio: nazi armor
+[02:51:19] vasiliy karat: ДАЙ ДЕНЕГ
+[02:51:24] RusLanConnection: supply radio: nazi armor
+[02:51:27] vasiliy karat: ДЕНЕГ ДАЙ
+[02:52:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[02:53:19] vasiliy karat was killed by lvs_maxim
+[02:53:31] vasiliy karat: КАК
+[02:53:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_maxim
+[02:54:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_autocannon
+[02:57:52] Client "Soldier_S.C.A.F" connected.
+[02:59:16] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_combine_s
+[02:59:17] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_combine_s
+[02:59:17] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_combine_s
+[02:59:17] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_combine_s
+[02:59:17] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_combine_s
+[03:02:02] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_sr
+[03:02:18] vasiliy karat was killed by npc_combine_s
+[03:02:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_lmg
+[03:02:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfabricator
+[03:02:40] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 288 seconds).
+[03:03:30] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[03:03:30] Soldier_S.C.A.F suicided!
+[03:03:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_gl
+[03:04:05] vasiliy karat was killed by ent_jack_gmod_ezprojectilenade
+[03:04:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_gl
+[03:04:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[03:04:42] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_gl
+[03:04:49] vasiliy karat was killed by ent_jack_gmod_ezprojectilenade
+[03:05:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_fas
+[03:05:09] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_gl
+[03:05:12] vasiliy karat was killed by ent_jack_gmod_ezprojectilenade
+[03:05:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_gl
+[03:05:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_gl
+[03:05:41] vasiliy karat was killed by ent_jack_gmod_ezprojectilenade
+[03:05:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_gl
+[03:07:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_mgl
+[03:07:26] vasiliy karat was killed by ent_jack_gmod_ezprojectilenade
+[03:07:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_mgl
+[03:07:38] RusLanConnection was killed by ent_jack_gmod_ezprojectilenade
+[03:08:02] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_cabr
+[03:08:29] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_maxim
+[03:08:43] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[03:11:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_lanrp_jmod_kar98k
+[03:12:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgas
+[03:12:54] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gaz67
+[03:13:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[03:14:02] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcloth
+[03:29:11] RusLanConnection killed vasiliy karat using player
+[03:31:03] RusLanConnection teleported to vasiliy karat
+[03:32:05] RusLanConnection set the hp for Themself to 100
+[03:32:48] Client "Redoket" connected.
+[03:33:23] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 35 seconds).
+[03:33:33] RusLanConnection killed vasiliy karat
+[03:33:57] RusLanConnection set the hp for Themself to 100
+[03:35:13] RusLanConnection set the hp for Themself to 100
+[03:36:33] vasiliy karat killed Redoket using player
+[03:36:43] RusLanConnection teleported to Redoket
+[03:37:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[03:37:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[03:37:02] Redoket: Не помню
+[03:37:18] Redoket: ХУЯ
+[03:37:33] Redoket: ВСЁ РАВНО ЗАБАВНО
+[03:38:04] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[03:38:17] Redoket: Ы
+[03:38:22] Redoket: ЭПИК
+[03:38:39] Redoket: ТАПМ ЕЩЁ КАКИЕ ТО ДЕТАЛИ ОТЛАМЫВАЮТЯ 
+[03:38:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/gibs/manhack_gib01.mdl
+[03:38:51] RusLanConnection<STEAM_0:0:238810681> spawned model models/gibs/manhack_gib02.mdl
+[03:38:51] RusLanConnection<STEAM_0:0:238810681> spawned model models/gibs/manhack_gib01.mdl
+[03:38:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/gibs/manhack_gib03.mdl
+[03:38:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/gibs/manhack_gib04.mdl
+[03:38:53] Redoket: ЭТО БУДЕТ СРО
+[03:38:56] RusLanConnection<STEAM_0:0:238810681> spawned model models/gibs/helicopter_brokenpiece_01.mdl
+[03:38:58] RusLanConnection<STEAM_0:0:238810681> spawned model models/gibs/strider_gib3.mdl
+[03:39:21] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/vent001_chunk1.mdl
+[03:39:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/wood_pallet001a_shard01.mdl
+[03:39:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/wood_pallet001a_chunka1.mdl
+[03:39:55] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/canisterchunk01a.mdl
+[03:39:57] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/canisterchunk01b.mdl
+[03:39:58] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/canisterchunk01c.mdl
+[03:41:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[03:41:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[03:42:05] RusLanConnection killed Redoket using lvs_renaultft_m
+[03:42:25] Redoket: ЖЭСС
+[03:42:41] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1a
+[03:42:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz3e
+[03:42:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz3ro_l
+[03:43:05] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz4f2
+[03:43:16] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_wespe
+[03:44:20] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[03:44:44] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[03:44:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[03:45:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[03:45:37] Redoket: А нельзя как нибуть вес изменить снаряду
+[03:45:43] Redoket: Иле это не поможет
+[03:46:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[03:46:05] Redoket was killed by lvs_trailer_schneider
+[03:46:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbuster
+[03:46:41] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodsherman
+[03:48:12] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_maxim
+[03:48:23] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_maxim
+[03:48:31] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_sa34
+[03:48:37] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[03:48:37] Redoket suicided!
+[03:49:21] vasiliy karat killed RusLanConnection
+[03:59:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_ushead
+[03:59:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_adrianhead
+[04:00:11] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_headset
+[04:00:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_glasses
+[04:02:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[04:02:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_gasmask
+[04:02:48] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_glasses
+[04:03:13] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_slcalf
+[04:03:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_glasses
+[04:04:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_mhtorso
+[04:04:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_mtorso
+[04:04:59] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_mltorso
+[04:05:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_lrshoulder
+[04:05:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_hlshoulder
+[04:05:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_hrshoulder
+[04:05:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_headset
+[04:06:24] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_nvgs
+[04:06:39] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_thermals
+[04:06:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_glasses
+[04:07:02] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_flametank
+[04:07:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_nazihead
+[04:08:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_adrianhead
+[04:08:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_adrianhead
+[04:08:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_ushead
+[04:09:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_ushead
+[04:09:09] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_nazihead
+[04:09:13] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_nazihead
+[04:09:18] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[04:09:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_glasses
+[04:09:57] vasiliy karat: ЧТОБЫ ПОНЯТЬ ВЕСЬ КАЙФ НУЖЕН ВТОРОЙ МОНИТОР
+[04:10:22] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[04:10:22] RusLanConnection suicided!
+[04:11:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_respirator
+[04:14:12] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[04:14:12] vasiliy karat suicided!
+[04:26:31] Client "Soldier_S.C.A.F" connected.
+[04:30:23] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 232 seconds).
+[04:33:58] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[04:33:58] Soldier_S.C.A.F suicided!
+[04:44:30] Client "Soldier_S.C.A.F" connected.
+[04:46:26] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 116 seconds).
+[04:49:04] Client "Mr Jakal" connected.
+[05:17:16] Client "Шайтан" connected.
+[05:18:06] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 50 seconds).
+[05:21:58] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[05:21:58] Шайтан suicided!
+[05:21:59] Client "Шайтан" connected.
+[05:22:21] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 22 seconds).
+[05:23:30] Soldier_S.C.A.F: привет
+[05:23:38] Шайтан: меня слышно?
+[05:24:52] Шайтан: бля крч микро пизда
+[05:25:02] Шайтан: так 
+[05:25:08] Шайтан: с чего начнем?
+[05:25:20] Soldier_S.C.A.F: пока что добычи ресурсов
+[05:25:41] Шайтан: я бы хотел что бы у нас была своя религия
+[05:26:05] Soldier_S.C.A.F: религии?
+[05:26:07] Шайтан: да
+[05:26:18] Soldier_S.C.A.F: а в каком виде ты хочеш
+[05:26:25] Шайтан: я зычесво
+[05:26:33] Шайтан: гязычество
+[05:26:35] Шайтан: да бля
+[05:26:40] Шайтан: ну ты понял?
+[05:26:53] Soldier_S.C.A.F: тоесть религия это язычество
+[05:27:03] Шайтан: нет это вид религии такой
+[05:27:15] Шайтан: как у индейцев
+[05:27:29] Шайтан: они строят монументы и приносят в жертву разные вещи
+[05:27:42] Шайтан: у каждого племени или города своя религи 
+[05:27:57] Шайтан: или респуцблики
+[05:28:01] Шайтан: т е
+[05:28:11] Шайтан: вроде понятно расказал
+[05:28:44] Шайтан: вот например я живу в удмурсткой республике и унас разные боги есть 
+[05:29:00] Шайтан: и тпо бог земли там воды и всякое такое
+[05:29:06] Шайтан: понял?
+[05:29:14] Soldier_S.C.A.F: ой емае
+[05:29:22] Soldier_S.C.A.F: машины лучше отдельно
+[05:29:26] Шайтан: кста там за забором тоже машина
+[05:29:37] Шайтан: мне везет на машины
+[05:30:28] Шайтан: дам мне инструменты я машины разберу
+[05:30:41] Soldier_S.C.A.F: на верстаке можно все скрафтить
+[05:30:45] Soldier_S.C.A.F: ресурсы же есть
+[05:30:51] Шайтан: а нифига
+[05:31:06] Soldier_S.C.A.F: на еще физган
+[05:31:14] Шайтан: ща
+[05:34:22] Шайтан: вот и все
+[05:34:22] Soldier_S.C.A.F: итак
+[05:34:28] Soldier_S.C.A.F: ресурсы есть
+[05:34:36] Soldier_S.C.A.F: теперь электричество
+[05:34:37] Шайтан: бля меня тпхаает сука
+[05:35:14] Шайтан: у м еня есть идей как зделать вышку которая будет нам вармиь электро
+[05:35:50] Шайтан: просто ну жна деревяные вундаменты 1 в ширину 2 в длину 2 вверх
+[05:36:10] Шайтан: вот
+[05:36:16] Soldier_S.C.A.F: я понял
+[05:36:28] Soldier_S.C.A.F: керемики знатно будет нужно
+[05:36:48] Soldier_S.C.A.F: надевай
+[05:37:09] Шайтан: как строить в выстоту то?
+[05:37:09] Soldier_S.C.A.F: дабы через inv таскать
+[05:37:46] Soldier_S.C.A.F: так
+[05:37:53] Soldier_S.C.A.F: говориш вышку построить
+[05:38:06] Soldier_S.C.A.F: а на вышке что тогда будет
+[05:38:06] Шайтан: щас сам
+[05:38:12] Soldier_S.C.A.F: солнечные панели?
+[05:38:16] Шайтан: солнечные панели 
+[05:38:17] Шайтан: да
+[05:38:27] Шайтан: и это вес не для красоты
+[05:38:33] Шайтан: просто удобно
+[05:38:41] Шайтан: пон?
+[05:38:45] Soldier_S.C.A.F: угу
+[05:38:59] Шайтан: вот сюда получается эти
+[05:39:05] Шайтан: как они называются
+[05:39:21] Шайтан: павербанки
+[05:39:23] Шайтан: ао
+[05:39:33] Шайтан: НЕЕ
+[05:39:39] (TEAM) Шайтан: все я построил уже
+[05:40:24] Шайтан: нет
+[05:40:57] Шайтан: вот смотри
+[05:41:19] Шайтан: стенки
+[05:41:21] Шайтан: ща
+[05:42:24] Шайтан: а че не ставится?
+[05:42:38] Soldier_S.C.A.F: а
+[05:42:43] Soldier_S.C.A.F: оно там мешается
+[05:42:47] Soldier_S.C.A.F: а если точнейе
+[05:42:50] Soldier_S.C.A.F: лестница
+[05:43:22] Soldier_S.C.A.F: хм
+[05:43:29] Soldier_S.C.A.F: может тогда две лестницы
+[05:43:34] Soldier_S.C.A.F: одна на повербанки
+[05:43:39] Soldier_S.C.A.F: другая на панельки
+[05:43:44] Soldier_S.C.A.F: а
+[05:43:49] Soldier_S.C.A.F: ну итак сойдет
+[05:44:00] Шайтан: все вышка почти готова
+[05:44:30] Soldier_S.C.A.F: ну как бы там же не одна лиш панелька будет стоять
+[05:44:42] Client "взаимная похвала" connected.
+[05:45:26] Soldier_S.C.A.F: а это зачем?
+[05:46:20] Soldier_S.C.A.F: ладно
+[05:46:20] Шайтан: подержи
+[05:46:52] Шайтан: а это уже для карасоты =)
+[05:46:57] Soldier_S.C.A.F: АЙ
+[05:46:58] Шайтан: XD
+[05:47:04] Шайтан: ахахахаха
+[05:47:12] Soldier_S.C.A.F: от это рофол XD
+[05:47:45] Soldier_S.C.A.F: так
+[05:47:57] Soldier_S.C.A.F: наверное вышку надо зделать шире
+[05:48:04] Шайтан: вооо
+[05:48:04] Soldier_S.C.A.F: дабы понелек больше было
+[05:48:18] Шайтан: тут 4 достаточно врорде
+[05:48:24] Шайтан: а и снизу можно еще
+[05:48:30] Шайтан: 8
+[05:48:55] Soldier_S.C.A.F: панельки они итак весьма широкие
+[05:49:02] Soldier_S.C.A.F: так что наверно надо будет все же
+[05:49:54] Шайтан: ЧССДА 100 проц
+[05:50:14] Шайтан: меня уть не убило
+[05:50:16] Soldier_S.C.A.F: не как по мне надо все же шире
+[05:50:32] Шайтан: да снизу еще моджно
+[05:51:46] Soldier_S.C.A.F: не
+[05:51:51] Soldier_S.C.A.F: снизу не поставиш
+[05:51:59] Soldier_S.C.A.F: эффективность сразу падает
+[05:52:11] Шайтан: бля тут тоже
+[05:52:22] Шайтан: деже если решотка
+[05:52:22] Soldier_S.C.A.F: так что вриант только один
+[05:52:39] Soldier_S.C.A.F: ну так решотка это чисто технически
+[05:52:39] Шайтан: ну ладно пусть здесь чтонибуть другое стоит
+[05:52:42] Soldier_S.C.A.F: просто плитка
+[05:53:04] Soldier_S.C.A.F: а хотя знаеш
+[05:53:22] Soldier_S.C.A.F: ведь можно скрафтить паровую почку
+[05:53:26] Soldier_S.C.A.F: печку*
+[05:53:40] Шайтан: БЛЯТЬ
+[05:53:46] Шайтан: ПОЧЕМУ НАХУЙ СЛОМАЛОСЬ СУКА
+[05:54:08] Шайтан: тай мне
+[05:54:14] Шайтан: не до
+[05:54:47] Client "GAdas" connected.
+[05:55:06] Шайтан: все смотри
+[05:55:21] Шайтан: пойдет?
+[05:55:24] Soldier_S.C.A.F: угу
+[05:55:43] Шайтан: бля я обасрался
+[05:55:59] Шайтан: норм подсоединил?
+[05:56:07] Soldier_S.C.A.F: угу
+[05:56:49] Шайтан: как убрать провот
+[05:57:04] Шайтан: все
+[05:57:07] Шайтан: =)
+[05:57:47] Шайтан: что убдем добывать?
+[05:57:57] Шайтан: где сканер?
+[05:57:59] Soldier_S.C.A.F: уголь,воду
+[05:58:01] Шайтан: а вот
+[06:00:37] Шайтан: ця нашел воду и она далеко
+[06:00:43] Шайтан: вот там
+[06:00:46] Soldier_S.C.A.F: ниче пойдет
+[06:00:52] Шайтан: го там еще посмотрю
+[06:01:00] Шайтан: за забором
+[06:02:20] Шайтан: я разберу стенку?
+[06:02:30] Soldier_S.C.A.F: разбери на проход
+[06:04:18] Client "adiOS" connected.
+[06:04:38] Шайтан: там нихуя нету =)
+[06:05:20] Soldier_S.C.A.F: а кстати
+[06:05:25] Soldier_S.C.A.F: знаеш прикол панелек
+[06:05:29] Шайтан: ?
+[06:05:39] Soldier_S.C.A.F: они сами по себе отключаются
+[06:05:46] Шайтан: нет
+[06:05:51] Soldier_S.C.A.F: могут
+[06:06:34] Шайтан: А ЗАЧЕМ ТЫ ПОДКЛЮЧИЛ СОЛНЕЧНУЮ ПАНЕЛЬ ПРЯМО К РАДИО
+[06:06:44] Шайтан: НАДО БЫЛО К ПОВЕРБАНКУ
+[06:07:00] Шайтан: ВОТ И ВЫРУБАЕТСЯ
+[06:07:43] Шайтан: все
+[06:07:45] Шайтан: спс
+[06:09:41] Шайтан: подержи
+[06:09:44] Шайтан: ща
+[06:10:22] Шайтан: держи
+[06:10:37] Шайтан: держи пенел
+[06:10:48] Шайтан: держи
+[06:11:01] Шайтан: все
+[06:11:04] Шайтан: ща
+[06:11:18] Шайтан: вооооо
+[06:11:21] Шайтан: работает
+[06:11:56] Soldier_S.C.A.F: кароч
+[06:12:06] Soldier_S.C.A.F: надо больше повербанков
+[06:12:08] Шайтан: а?
+[06:12:13] Шайтан: да но потом
+[06:14:56] Шайтан: может просто покупать воду
+[06:15:01] Soldier_S.C.A.F: там нету
+[06:15:06] Шайтан: аааа
+[06:15:09] Шайтан: бляяяяяяяяя
+[06:18:20] Soldier_S.C.A.F: сможеш подпитать pumpjack
+[06:18:28] Шайтан: каго?
+[06:18:34] Шайтан: что это?
+[06:18:45] Soldier_S.C.A.F: там где залежа воды
+[06:18:49] Шайтан: ааа
+[06:18:51] Soldier_S.C.A.F: там оно стоит
+[06:19:00] Шайтан: все щас зделаем
+[06:20:39] Client "бугагашенька" connected.
+[06:21:26] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 47 seconds).
+[06:22:30] бугагашенька: /s вы где я на спавне
+[06:22:40] бугагашенька: !pchat
+[06:22:43] бугагашенька: !pchat
+[06:23:37] Шайтан: привет
+[06:23:42] бугагашенька: дароу
+[06:23:50] бугагашенька: че как?
+[06:23:51] Шайтан: а че кста выйб был?
+[06:24:01] бугагашенька: не
+[06:24:08] Шайтан: а че карту поменяли?
+[06:24:19] Шайтан: ну т е очистили
+[06:24:33] бугагашенька: ну создатель так делает каждый день
+[06:24:39] бугагашенька: очищает карту
+[06:24:40] Шайтан: ааа
+[06:24:49] Шайтан: кста мы рядом с ураном поселилися
+[06:24:50] бугагашенька: с такогото часа до такогото
+[06:24:53] бугагашенька: кул
+[06:25:00] бугагашенька: у меня вопрос
+[06:25:02] Шайтан: ?
+[06:25:13] бугагашенька: КАКОЙ ДОЛБОЕБ ДЕЛАЛ ВАМ СВЕТ БЛЯТЬ
+[06:25:18] Шайтан: я =)
+[06:25:21] бугагашенька: ахуеть
+[06:25:34] Шайтан: да знаю надо было больше растояние делать
+[06:25:40] бугагашенька: вот блять
+[06:25:43] бугагашенька: хоть так
+[06:25:46] Шайтан: XD
+[06:25:47] бугагашенька: не трать ресы
+[06:25:58] Soldier_S.C.A.F: так я пока отойду
+[06:26:02] бугагашенька: переделуй, я незнаю
+[06:27:36] бугагашенька: ребят кароче, я щат отключаюся к сожелению
+[06:27:41] бугагашенька: сорри
+[06:27:46] бугагашенька: :(
+[06:27:48] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[06:27:48] бугагашенька suicided!
+[06:29:08] Client "A" connected.
+[06:33:12] Client "Lokzer" connected.
+[06:36:22] Soldier_S.C.A.F: ЛОЛ
+[06:36:32] Soldier_S.C.A.F: это как сразу две
+[06:36:34] Шайтан: я не на ту кнопку нажал
+[06:39:06] Шайтан: помоги мне
+[06:39:22] (TEAM) Шайтан: ща
+[06:40:45] Шайтан: вс смотри
+[06:40:57] Шайтан: смотри поступает ли вода
+[06:41:01] Шайтан: я ща
+[06:41:05] Шайтан: туда встану
+[06:42:46] Шайтан: все?
+[06:42:49] Soldier_S.C.A.F: нет
+[06:42:53] Шайтан: все?
+[06:43:01] Шайтан: бля  я вижу
+[06:43:05] Soldier_S.C.A.F: не идет в ящик
+[06:43:44] Client "бугагашенька" connected.
+[06:44:08] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 24 seconds).
+[06:46:00] Шайтан: все теперь должно
+[06:48:09] Шайтан: он опять рветса сука
+[06:48:17] Client "adiOS" connected.
+[06:50:25] Soldier_S.C.A.F: а где генератор?
+[06:50:29] Шайтан: тута
+[06:50:43] Шайтан: ВЛЕЗ
+[06:51:04] Шайтан: вот ту уголь
+[06:51:08] Soldier_S.C.A.F: знаю
+[06:51:12] Шайтан: стой
+[06:51:28] Шайтан: давай трубы проведу
+[06:57:56] Шайтан: го вербу зделаем?
+[06:58:04] Soldier_S.C.A.F: ай
+[06:58:11] Шайтан: ты тоже заболел
+[06:58:15] Soldier_S.C.A.F: генератор в помещениях же травит!
+[06:58:22] Шайтан: бля
+[06:58:34] Шайтан: КАКОЕ ЗДеСЬ ПОМЕЩЕНИЕ НАХУЙ
+[06:58:45] Шайтан: СУКА
+[06:58:52] Шайтан: АХУЕННАЯ ЛОГИКА
+[06:59:03] Soldier_S.C.A.F: хоть и корявый
+[06:59:04] Шайтан: да и темболее я в респираторе
+[06:59:09] Шайтан: был
+[06:59:16] Шайтан: я ток щас замтил
+[07:01:17] Client "D3N" connected.
+[07:03:35] Шайтан: о еба энергии
+[07:03:45] Soldier_S.C.A.F: нато еще ящик есть
+[07:03:55] Soldier_S.C.A.F: ибо генератор имейет большой кпд
+[07:03:57] Шайтан: зачем?
+[07:06:18] Шайтан: как работает паивалка?
+[07:06:28] Шайтан: паливалка*
+[07:06:42] Soldier_S.C.A.F: когда ресурсом полил семяна
+[07:06:46] Шайтан: ааааааа
+[07:06:47] Soldier_S.C.A.F: ты его включаеш
+[07:06:57] Шайтан: дай еще семена если есть
+[07:07:13] Soldier_S.C.A.F: они с inv выпадают
+[07:07:15] Soldier_S.C.A.F: не часто
+[07:07:22] Soldier_S.C.A.F: но разные
+[07:07:31] Client "choper100belly" connected.
+[07:07:34] Шайтан: кукурзка тоже полезна
+[07:09:06] Client "adiOS" connected.
+[07:09:13] Шайтан: как включить то?
+[07:09:24] Client "choper100belly" connected.
+[07:09:25] Soldier_S.C.A.F: подпитай его
+[07:09:31] Шайтан: я уже
+[07:09:33] Soldier_S.C.A.F: и еще его можно настроить
+[07:09:40] Soldier_S.C.A.F: на определенный градус
+[07:09:44] Шайтан: альт е ведь?
+[07:09:51] Soldier_S.C.A.F: емкость,радиус,броню
+[07:09:53] Soldier_S.C.A.F: да
+[07:10:01] Шайтан: ОНО НЕ ХОЧЕТ НА АЛЬТ Е
+[07:10:09] Шайтан: посмотри
+[07:10:28] Soldier_S.C.A.F: электричество!
+[07:10:31] Шайтан: ааааааа
+[07:10:35] Client "choper100belly" spawned in server <STEAM_0:1:756690337> (took 71 seconds).
+[07:11:06] Шайтан: ДА ОНО НЕ РАБОТАЕТ
+[07:11:12] Шайтан: а вот
+[07:11:31] Шайтан: и можно прам много
+[07:11:38] Soldier_S.C.A.F: ресурсом полить надо еще
+[07:11:56] Шайтан: как радиус поменьше?
+[07:12:05] Шайтан: бля кукурузка здохла
+[07:13:44] Шайтан: она уже выросла как урожай взять
+[07:14:38] Client "adiOS" spawned in server <STEAM_0:0:41186306> (took 332 seconds).
+[07:21:19] Soldier_S.C.A.F: я щяс это поставлю на залежу нефти
+[07:21:20] Шайтан: у нас же есть ресурсы чтобы зделать
+[07:22:18] Шайтан: блять все под землю проваливается
+[07:26:48] Шайтан: БЛЯ  ЗАСТРЯЛ
+[07:27:17] Шайтан: ладно ждемс
+[07:27:35] Soldier_S.C.A.F: здарсте
+[07:27:46] Soldier_S.C.A.F: угу
+[07:28:10] Soldier_S.C.A.F: на сервере впервые?
+[07:28:22] Soldier_S.C.A.F: так
+[07:28:44] Soldier_S.C.A.F: на F4 есть система отрядов
+[07:28:52] Soldier_S.C.A.F: найди там К.Н.С
+[07:29:20] Шайтан: добывай мне семена
+[07:29:42] choper100belly suicided!
+[07:29:45] Шайтан: это кукуруза она не растет
+[07:31:00] Шайтан: кайвы
+[07:31:10] Soldier_S.C.A.F: дароу
+[07:31:12] бугагашенька: дароу
+[07:31:59] Шайтан: спс
+[07:32:56] Soldier_S.C.A.F: закажите мне продвинутые запчасти
+[07:33:10] Soldier_S.C.A.F: да
+[07:33:24] adiOS: /supply help
+[07:35:29] Шайтан: это я сажаю
+[07:38:09] Шайтан: аон
+[07:38:13] Шайтан: ВОН
+[07:38:16] Шайтан: ОРГАНИКА
+[07:38:42] Soldier_S.C.A.F: щя все будет
+[07:38:48] Soldier_S.C.A.F: нефть буду перерабатывать
+[07:39:10] Шайтан: адйес
+[07:39:27] Шайтан: если семки будут складывай сюда
+[07:41:22] Шайтан: неси арбузы еще
+[07:43:15] Soldier_S.C.A.F: нужны продвинутые запчасти!
+[07:43:19] Шайтан: нет
+[07:43:26] Шайтан: через день вайб будет
+[07:43:31] Soldier_S.C.A.F: мне просто нужно\
+[07:43:33] Шайтан: каждый день все заного
+[07:43:41] Шайтан: пон?
+[07:43:50] Шайтан: мы так играем ради ядерной войны
+[07:44:53] Шайтан: адйес
+[07:45:00] Шайтан: добавь в друзья в стиме тогда
+[07:45:52] Шайтан: я кста золото нашел смори
+[07:46:01] Soldier_S.C.A.F: где
+[07:46:22] Dropped "adiOS" from server<STEAM_0:0:41186306>
+[07:46:22] adiOS suicided!
+[07:46:22] Шайтан: покеда
+[07:47:40] choper100belly was killed by ent_jack_gmod_ezpumpjack
+[07:54:55] Шайтан: где сканер?
+[07:55:01] Шайтан: ?
+[07:55:21] Шайтан: где сканер?
+[07:56:11] Шайтан: ?
+[07:59:03] Soldier_S.C.A.F: здрасте
+[07:59:10] choper100belly: чо приехал
+[07:59:23] Soldier_S.C.A.F: ну так
+[07:59:27] Soldier_S.C.A.F: если надо
+[07:59:31] Шайтан: вот
+[07:59:36] Soldier_S.C.A.F: можно у нас на заказ взять
+[07:59:37] choper100belly: у вас есть пресижн партс?
+[07:59:38] Шайтан: тута где то ща
+[07:59:45] choper100belly: меняю сто штук
+[07:59:47] choper100belly: на 500 топлива
+[07:59:56] Soldier_S.C.A.F: чучуть не хватает
+[08:00:06] choper100belly: будет 400 топлива
+[08:00:15] Шайтан: вот тут
+[08:00:19] Soldier_S.C.A.F: я и так согласен
+[08:00:24] Шайтан: а облучения небудет?
+[08:00:36] Шайтан: нужен хазмат же
+[08:00:48] Шайтан: немогу энергии нету
+[08:03:08] Шайтан: ДЛЯ ХИМИКАТОВ НУЖЕН ГАЗЗЗ
+[08:06:43] Шайтан: СМОТРИТЕ
+[08:06:51] Шайтан: Я ПОСТРОИЛ БОЛЬНИЦУ
+[08:07:17] Шайтан: да я 
+[08:07:20] Шайтан: иди сюда
+[08:07:46] Soldier_S.C.A.F: supply radio: gold
+[08:07:54] Soldier_S.C.A.F: supply radio: gold
+[08:07:59] Soldier_S.C.A.F: supply radio: advanced parts
+[08:08:07] Soldier_S.C.A.F: supply radio: advanced parts
+[08:08:10] Soldier_S.C.A.F: ема
+[08:08:15] Soldier_S.C.A.F: у нас радио сломалось
+[08:09:09] Soldier_S.C.A.F: supply radio: advanced parts
+[08:10:16] Шайтан: а зачем?
+[08:10:23] Шайтан: аааааааа
+[08:10:41] Soldier_S.C.A.F: мда
+[08:22:53] Шайтан: посмотрите в ящик этот
+[08:23:13] Soldier_S.C.A.F: зачем там два инжинерных ящика?
+[08:23:22] Шайтан: это не инженер а мед
+[08:23:32] Шайтан: просто картинка таже
+[08:23:40] Soldier_S.C.A.F: так там наборы инструментов
+[08:23:44] Soldier_S.C.A.F: две штуки
+[08:23:50] Шайтан: просто достань и увидешь
+[08:23:58] Шайтан: что это просто баг
+[08:24:08] Soldier_S.C.A.F: а
+[08:24:13] Soldier_S.C.A.F: я уже описание чекнул
+[08:24:20] Шайтан: го
+[08:24:32] Шайтан: ееееееееееее
+[08:24:38] Шайтан: а нас не заденет?
+[08:24:45] Шайтан: если кудато
+[08:24:57] Шайтан: ну нас 3
+[08:25:36] Soldier_S.C.A.F: так
+[08:25:42] Soldier_S.C.A.F: прежде чем бахнуть ядерку
+[08:25:50] Soldier_S.C.A.F: я хочу создать тигра
+[08:27:22] Soldier_S.C.A.F: ТАК ОН ОДИН
+[08:27:32] бугагашенька: Я ЗНАЮ
+[08:29:07] Шайтан: ДА
+[08:29:08] бугагашенька: ТЫ ГДЕ
+[08:29:31] Шайтан: иди за мной
+[08:29:46] Шайтан: посмотри в нащш ящик
+[08:31:19] choper100belly killed бугагашенька using lvs_wheeldrive_dodwillyjeep
+[08:32:10] Шайтан: все я его убил
+[08:32:22] Шайтан: я построб защиту
+[08:33:14] Шайтан: я его спрячу
+[08:33:25] Шайтан: 0=
+[08:33:29] Шайтан: бля
+[08:33:33] бугагашенька: gbpltw
+[08:33:36] бугагашенька: пиздец да
+[08:33:37] Шайтан: ее нелзя разобрать да?
+[08:33:42] бугагашенька: думаю можно
+[08:34:02] Шайтан: бля
+[08:35:20] Шайтан: там его труп
+[08:36:25] Soldier_S.C.A.F: ну что тогда
+[08:36:30] Soldier_S.C.A.F: ему войну объявить?
+[08:36:33] Шайтан: да
+[08:37:02] Шайтан: я застрял
+[08:39:50] choper100belly killed бугагашенька using wep_jack_gmod_assaultrifle
+[08:39:53] Soldier_S.C.A.F killed choper100belly
+[08:40:03] Шайтан: что такое колант?
+[08:40:15] Dropped "choper100belly" from server<STEAM_0:1:756690337>
+[08:40:15] choper100belly suicided!
+[08:40:18] Шайтан: ЧТО ТАКОЕ
+[08:40:23] Шайтан: колант?
+[08:40:33] Шайтан: пока
+[08:40:47] Шайтан: ага
+[08:40:49] Шайтан: давай
+[08:40:51] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[08:40:51] бугагашенька suicided!
+[08:41:35] Soldier_S.C.A.F: supply radio: global message
+[08:44:21] Шайтан: он ушел и сказал можем взорвать ядерку
+[08:44:26] Soldier_S.C.A.F: да
+[08:44:30] Шайтан: гденибуть
+[08:44:34] Шайтан: я потом спать пойду
+[08:44:41] Soldier_S.C.A.F: хотя взрывать базу жалко будет
+[08:44:46] Шайтан: поехали подальше
+[08:44:50] Soldier_S.C.A.F: ибо зачем же я крафтил тигр
+[08:45:02] Шайтан: а как починить?
+[08:45:48] Шайтан: как машину запустиь?
+[08:45:54] Soldier_S.C.A.F: на R
+[08:46:02] Шайтан: не запускается
+[08:46:09] Soldier_S.C.A.F: так
+[08:46:11] Шайтан: дай я порулю
+[08:46:14] Soldier_S.C.A.F: а ядерка где?
+[08:46:19] Шайтан: тут
+[08:46:33] Soldier_S.C.A.F: ох
+[08:46:42] Шайтан: упс
+[08:46:49] Шайтан: я обосрюнькался немного
+[08:46:59] Шайтан: так
+[08:47:14] Soldier_S.C.A.F: не в грузовик не поместитса
+[08:47:16] Шайтан: что делаем?
+[08:47:24] Soldier_S.C.A.F: хз
+[08:47:30] Soldier_S.C.A.F: тащить ядерку на юг
+[08:47:45] Шайтан: ну го
+[08:48:28] Soldier_S.C.A.F: мне интересно
+[08:48:37] Soldier_S.C.A.F: какая реакция у чела будет
+[08:48:45] Soldier_S.C.A.F: если после нас найдет нашу базу
+[08:48:53] Soldier_S.C.A.F: а в частности с тигром...
+[08:49:03] Шайтан: да
+[08:49:53] Soldier_S.C.A.F: чтож
+[08:49:57] Soldier_S.C.A.F: можно и здесь
+[08:49:59] Шайтан: я могу кинуть далеко
+[08:50:06] Soldier_S.C.A.F: хм
+[08:50:13] Soldier_S.C.A.F: а может таймер запустить?
+[08:50:18] Шайтан: как?
+[08:50:27] Soldier_S.C.A.F: бомбу с таймером притащить
+[08:50:32] Шайтан: а где его ббаз?
+[08:50:37] Soldier_S.C.A.F: замной
+[08:50:42] Шайтан: близко к нам вель?
+[08:51:59] Soldier_S.C.A.F: supply radio: explosives
+[08:52:00] Шайтан: бля у меня ядерка на секунду исчезла
+[08:52:06] Soldier_S.C.A.F: так
+[08:52:10] Soldier_S.C.A.F: надо взрывчатку
+[08:52:25] Шайтан: ну като у него не густо
+[08:52:59] Soldier_S.C.A.F: так
+[08:53:02] Soldier_S.C.A.F: бомба есть
+[08:53:11] Шайтан: так го 3 минуты
+[08:53:22] Soldier_S.C.A.F: этого достаточно будет
+[08:53:28] Шайтан: оке
+[08:53:41] Шайтан: ставь мне очен интересно
+[08:53:51] Шайтан: тут мина
+[08:54:14] Soldier_S.C.A.F: это связка гранат
+[08:54:15] Шайтан: ты поставил таймер?
+[08:54:19] Soldier_S.C.A.F: ОЙъ\
+[08:54:34] Шайтан: а еслибы я дерку задела блять
+[08:54:40] Шайтан: п
+[08:54:42] Soldier_S.C.A.F: мда
+[08:54:44] Шайтан: все уже
+[08:54:45] Soldier_S.C.A.F: зацепилась
+[08:54:56] Шайтан: ДАВАЙ МОЧИ
+[08:55:06] Шайтан: го 
+[08:55:11] Шайтан: стой
+[08:55:15] Шайтан: го по сигналу
+[08:55:23] Шайтан: ты узнаешь когда включать
+[08:55:39] Soldier_S.C.A.F: бомбу можно и обезвредить
+[08:55:44] Шайтан: так
+[08:55:47] Шайтан: иди сюда
+[08:55:48] Soldier_S.C.A.F: но таймер уже поставил
+[08:55:53] Шайтан: а
+[08:55:58] Шайтан: когда запустится?
+[08:56:02] Шайтан: крч
+[08:56:12] Шайтан: РУБРИКА ЭКСПЕЕЕРЕЕЕМЕНТЫЫЫ
+[08:56:30] Шайтан: там бомбу видно
+[08:56:36] Soldier_S.C.A.F: да
+[08:56:43] Шайтан: го просто подстрели
+[08:56:45] Шайтан: долгоы
+[08:56:54] Шайтан: мазила
+[08:56:58] Soldier_S.C.A.F: а СТОП
+[08:56:59] Шайтан: дай мне
+[08:57:09] Soldier_S.C.A.F: ТАК ОНА НЕ СНЯТА С ПРЕДОХРАНИТЕЛЯ
+[08:57:40] Шайтан: ВСЕ БЕЖИМ
+[08:57:46] Шайтан: НЕТ
+[08:57:49] Шайтан: БЕЖММ
+[08:57:52] Шайтан: да бля
+[08:58:00] Шайтан: я хотел эпичнл
+[08:58:39] Шайтан: XD хахахахахахАХАХАХАХААХАХАХ
+[08:58:52] Шайтан: красивый дымокэ
+[08:58:55] Soldier_S.C.A.F: даа
+[08:59:02] Soldier_S.C.A.F: чтож
+[08:59:04] Шайтан: ладно хочешь подарок я потом выйду
+[08:59:09] Soldier_S.C.A.F: оставляем это
+[08:59:11] Шайтан: встань сюда
+[08:59:21] Шайтан: я тебе подарок зделаю
+[08:59:29] Шайтан: не подсматрвай
+[09:00:42] Шайтан: ща
+[09:01:35] Шайтан: так встал
+[09:01:40] Шайтан: задом ко мне
+[09:02:08] Шайтан: СЮРПРИЗЗЗЗ
+[09:02:29] Шайтан suicided!
+[09:02:29] Шайтан killed Soldier_S.C.A.F using env_explosion
+[09:02:31] Шайтан: ор
+[09:02:37] Шайтан: наконец
+[09:02:47] Шайтан: боже с 10 попытки
+[09:02:57] Шайтан: ну вот
+[09:03:04] Soldier_S.C.A.F: чтож
+[09:03:08] Шайтан: давай
+[09:03:10] Шайтан: пока
+[09:03:13] Soldier_S.C.A.F: может завтра увидимся
+[09:03:16] Шайтан: да
+[09:03:24] Шайтан: споки ноки
+[09:03:30] Soldier_S.C.A.F: давай и тебе
+[09:03:33] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[09:03:33] Шайтан suicided!
+[09:03:34] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[09:03:34] Soldier_S.C.A.F suicided!
+[09:17:06] Client "TypicalName" connected.
+[09:26:37] Client "TypicalName" spawned in server <STEAM_0:0:70512730> (took 571 seconds).
+[09:28:41] TypicalName: !motd
+[09:32:16] TypicalName: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:32:18] TypicalName: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:32:22] TypicalName: Я ЛЮБЛЮ ПЛЫВИСКИ
+[09:32:26] TypicalName: trtttttttttttttttttttttttttttttttttttttttttttt
+[09:32:34] TypicalName: abcdefgh
+[10:05:14] Client "adiOS" connected.
+[10:05:16] TypicalName: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:06:39] Client "adiOS" spawned in server <STEAM_0:0:41186306> (took 85 seconds).
+[10:14:50] TypicalName: E
+[10:20:29] Client "Durtan" connected.
+[10:40:35] Dropped "adiOS" from server<STEAM_0:0:41186306>
+[10:40:35] adiOS suicided!
+[10:56:45] Client "KaganY" connected.
+[11:04:25] Client "SDERTYHUJIKDF" connected.
+[11:24:22] Client "Мочеglouth" connected.
+[11:26:33] TypicalName was killed by ent_jack_gmod_ezpumpjack
+[11:27:32] TypicalName: !MOTD
+[11:28:30] TypicalName suicided!
+[11:29:41] Client "Мочеglouth" spawned in server <STEAM_0:0:612066619> (took 319 seconds).
+[11:35:15] Dropped "Мочеglouth" from server<STEAM_0:0:612066619>
+[11:35:15] Мочеglouth suicided!
+[11:40:45] Client "сергей коитус" connected.
+[11:41:19] Client "СВЭГИ БЭЙБИ" connected.
+[11:53:03] Dropped "TypicalName" from server<STEAM_0:0:70512730>
+[11:53:03] TypicalName suicided!
+[11:56:18] Client "СВЭГИ БЭЙБИ" spawned in server <STEAM_0:1:792881553> (took 899 seconds).
+[11:57:32] Client "сергей коитус" spawned in server <STEAM_0:0:221042549> (took 1007 seconds).
+[12:00:35] сергей коитус: !motd
+[12:00:45] СВЭГИ БЭЙБИ: !motd
+[12:00:48] сергей коитус: bind i jmod_ez_inv
+[12:01:00] сергей коитус: !motd
+[12:01:00] СВЭГИ БЭЙБИ: bind i jmod_ez_inv
+[12:01:13] сергей коитус: !motd
+[12:01:22] СВЭГИ БЭЙБИ: !motd
+[12:02:32] сергей коитус: playermodel_select
+[12:02:36] сергей коитус: !motd
+[12:02:37] СВЭГИ БЭЙБИ: !motd
+[12:02:47] сергей коитус: v
+[12:02:49] сергей коитус: playermodel_selector 
+[12:02:53] СВЭГИ БЭЙБИ: !playermodel_select
+[12:03:00] СВЭГИ БЭЙБИ: playermodel_selector 
+[12:04:14] сергей коитус: на ш
+[12:04:19] сергей коитус: буква i
+[12:05:01] сергей коитус: bind i jmod_ez_inventory
+[12:05:03] сергей коитус: !motd
+[12:05:13] сергей коитус: bind i jmod_ez_inv
+[12:30:20] Client "Redoket" connected.
+[12:31:00] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 40 seconds).
+[12:35:33] сергей коитус: !motd
+[12:36:54] Redoket was killed by prop_physics
+[12:55:27] сергей коитус killed СВЭГИ БЭЙБИ using wep_jack_gmod_pas
+[12:57:56] СВЭГИ БЭЙБИ: мб я перезайду?
+[12:58:14] Dropped "СВЭГИ БЭЙБИ" from server<STEAM_0:1:792881553>
+[12:58:14] СВЭГИ БЭЙБИ suicided!
+[12:58:53] Client "СВЭГИ БЭЙБИ" connected.
+[12:59:53] Client "СВЭГИ БЭЙБИ" spawned in server <STEAM_0:1:792881553> (took 60 seconds).
+[13:07:24] сергей коитус: НИУХУЯ
+[13:08:13] сергей коитус: ПРОЕД Ебать дальше
+[13:08:23] (TEAM) СВЭГИ БЭЙБИ: нет топлива
+[13:08:31] (TEAM) СВЭГИ БЭЙБИ: мешает столб
+[13:09:10] сергей коитус: промазал
+[13:09:24] сергей коитус: НА НАХУЙХ АХА
+[13:09:42] сергей коитус: ПО НЕЙ ЕЩЕ : РАз
+[13:09:43] сергей коитус: 6
+[13:10:15] (TEAM) СВЭГИ БЭЙБИ: битхок
+[13:10:19] (TEAM) СВЭГИ БЭЙБИ: фаерфрай
+[13:10:21] СВЭГИ БЭЙБИ killed сергей коитус
+[13:10:25] (TEAM) СВЭГИ БЭЙБИ: бля
+[13:12:09] сергей коитус: есть снаряды7
+[13:12:13] (TEAM) СВЭГИ БЭЙБИ: да
+[13:12:17] сергей коитус: ебашь дальше
+[13:12:20] сергей коитус: там у нее хп хуйма
+[13:12:24] (TEAM) СВЭГИ БЭЙБИ: куда командир
+[13:12:29] сергей коитус: по нефтяной залупе
+[13:12:46] сергей коитус: туда же крч
+[13:12:48] сергей коитус: куда стрелял
+[13:13:01] сергей коитус: на нахуй
+[13:13:02] сергей коитус: еще
+[13:13:25] (TEAM) СВЭГИ БЭЙБИ: последний
+[13:13:35] сергей коитус: фая 
+[13:13:40] сергей коитус: ООО
+[13:13:53] сергей коитус: бля тут все лоу ъп
+[13:13:59] сергей коитус: у тебя есть пп?
+[13:14:06] (TEAM) СВЭГИ БЭЙБИ: нет
+[13:14:10] сергей коитус: бля че делать
+[13:14:13] (TEAM) СВЭГИ БЭЙБИ: мб с пулемета
+[13:14:25] (TEAM) СВЭГИ БЭЙБИ: поеврнись
+[13:14:37] сергей коитус: чиназес
+[13:14:41] СВЭГИ БЭЙБИ killed сергей коитус using ent_jack_gmod_ezsfg
+[13:14:41] СВЭГИ БЭЙБИ suicided!
+[13:14:47] сергей коитус: ебать
+[13:14:54] сергей коитус: это че была хаха
+[13:14:57] (TEAM) СВЭГИ БЭЙБИ: хз
+[13:15:12] (TEAM) СВЭГИ БЭЙБИ: хорошая работа 
+[13:15:35] сергей коитус: еба звуки выстрела вдали имба
+[13:15:53] сергей коитус: там есть ктото
+[13:15:56] сергей коитус: го оружие
+[13:16:05] (TEAM) СВЭГИ БЭЙБИ: ЕБАТЬ
+[13:16:09] (TEAM) СВЭГИ БЭЙБИ: ВАЛИМв
+[13:16:35] сергей коитус: повернэ мене
+[13:16:41] (TEAM) СВЭГИ БЭЙБИ: уйди
+[13:17:36] сергей коитус: ца
+[13:18:02] сергей коитус: погнали
+[13:19:13] сергей коитус: тама ниогов
+[13:19:22] (TEAM) СВЭГИ БЭЙБИ: чо
+[13:19:23] сергей коитус: это аптечки надюпались об металл бьются
+[13:19:28] (TEAM) СВЭГИ БЭЙБИ: а
+[13:19:31] (TEAM) СВЭГИ БЭЙБИ: мда
+[13:19:32] сергей коитус: у мня ктстаи тоже оружие пропал
+[13:19:39] (TEAM) СВЭГИ БЭЙБИ: баги
+[13:19:44] сергей коитус: серв бета
+[13:19:46] (TEAM) СВЭГИ БЭЙБИ: ебвть
+[13:19:50] (TEAM) СВЭГИ БЭЙБИ: отдача
+[13:20:00] сергей коитус: иди туда
+[13:20:08] сергей коитус: послушай звук выстерла
+[13:20:09] сергей коитус: вдалеке
+[13:20:34] (TEAM) СВЭГИ БЭЙБИ: ай
+[13:21:45] сергей коитус: у мня трупный вирус
+[13:21:47] сергей коитус: ты умрешь
+[13:21:48] сергей коитус: ахахахах
+[13:21:51] (TEAM) СВЭГИ БЭЙБИ: чо
+[13:21:58] сергей коитус: трупным вирусом болею
+[13:22:01] сергей коитус: ой зарозли
+[13:22:02] (TEAM) СВЭГИ БЭЙБИ: пизда
+[13:22:10] сергей коитус: а я по тбе попадал
+[13:22:13] сергей коитус: или не
+[13:22:14] (TEAM) СВЭГИ БЭЙБИ: да
+[13:22:22] Dropped "сергей коитус" from server<STEAM_0:0:221042549>
+[13:22:22] сергей коитус suicided!
+[13:22:31] (TEAM) СВЭГИ БЭЙБИ: ахахахах
+[13:22:38] (TEAM) СВЭГИ БЭЙБИ: тут звук вируса из хойки
+[13:22:53] Dropped "СВЭГИ БЭЙБИ" from server<STEAM_0:1:792881553>
+[13:22:53] СВЭГИ БЭЙБИ suicided!
+[13:27:52] Redoket suicided!
+[13:50:39] Redoket was killed by ent_jack_gmod_ezfalloutparticle
+[14:01:25] Client "choper100belly" connected.
+[14:02:22] Client "choper100belly" spawned in server <STEAM_0:1:756690337> (took 57 seconds).
+[14:08:51] Redoket killed choper100belly using wep_jack_gmod_assaultrifle
+[14:10:50] Redoket killed choper100belly using wep_jack_gmod_assaultrifle
+[14:13:10] Redoket killed choper100belly using wep_jack_gmod_assaultrifle
+[14:22:03] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[14:22:03] Redoket suicided!
+[14:24:20] Dropped "choper100belly" from server<STEAM_0:1:756690337>
+[14:24:20] choper100belly suicided!
+<Logging continued in "data/ulx_logs/01-21-25.txt">

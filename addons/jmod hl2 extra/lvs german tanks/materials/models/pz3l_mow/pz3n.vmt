@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\pz3l_mow\pz3h"
+	"$bumpmap" "models/pz33e/NN"
+	
+	
+	"$phong" "1"						
+	"$phongboost"	"13" 		
+	"$phongexponent" "1"	
+	
+	"$alphatest" "1"	
+}

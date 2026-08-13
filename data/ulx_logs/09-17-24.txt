@@ -1,0 +1,1284 @@
+<Logging continued from "data/ulx_logs/09-16-24.txt">
+[00:00:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[00:00:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[00:00:08] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[00:00:10] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[00:00:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[00:00:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[00:00:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[00:00:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[00:00:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[00:00:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfragnade
+[00:00:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfragnade
+[00:00:45] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[00:00:53] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[00:00:58] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcoolant
+[00:01:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_combine/breenglobe.mdl
+[00:01:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke_small
+[00:01:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirenade
+[00:01:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[00:01:23] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[00:01:24] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[00:01:24] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[00:01:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[00:01:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[00:01:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[00:01:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezprecparts
+[00:01:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezprecparts
+[00:01:27] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezprecparts
+[00:01:27] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezprecparts
+[00:01:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_machinepistol
+[00:01:33] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[00:01:37] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[00:01:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_mgl
+[00:01:39] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgas
+[00:01:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ssr
+[00:02:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_smg
+[00:02:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[00:02:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[00:02:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[00:02:36] василий каратаев to admins: ТУТ ПРОБЛЕМ С ТУРЕЛЬЮ ПВО
+[00:02:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[00:02:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[00:03:10] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[00:03:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[00:04:03] василий каратаев to admins: ТП
+[00:04:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[00:04:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsilver
+[00:04:08] RusLanConnection teleported to василий каратаев
+[00:04:35] василий каратаев: СЯДЬ
+[00:04:37] василий каратаев: В ТАНК
+[00:04:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[00:04:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[00:05:01] василий каратаев: 10 ДАМАГА
+[00:05:09] василий каратаев: ПРОКАЧЕНАЯ ДО КОНКА
+[00:05:24] василий каратаев: ОНА ПРОКАЧЕНАЯ ДОКОНЦА
+[00:05:31] василий каратаев: НО Я ДУМАЮ
+[00:05:33] василий каратаев: ВСО РАВНО
+[00:05:38] василий каратаев: ПРИ ДАМАГЕ ДЕСЯТЬ БУДЕТ И ПО ТАНКАМИ
+[00:05:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amr
+[00:06:03] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[00:06:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[00:06:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezshovel
+[00:06:48] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_ar
+[00:06:54] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[00:08:14] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[00:08:55] RusLanConnection set the hp for Everyone to 100
+[00:11:43] sekta was killed by ent_jack_gmod_ezsentry
+[00:17:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcoolant
+[00:28:41] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[00:31:47] Client "василий каратаев" connected.
+[00:32:22] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 35 seconds).
+[00:34:11] RusLanConnection brought sekta
+[00:34:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[00:34:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[00:37:30] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[00:38:20] Client "василий каратаев" connected.
+[00:38:53] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 33 seconds).
+[00:40:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[00:42:57] RusLanConnection teleported to василий каратаев
+[00:46:59] RusLanConnection teleported to василий каратаев
+[00:47:11] RusLanConnection killed василий каратаев using wep_jack_gmod_assaultrifle
+[00:47:35] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[00:48:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_plinkingpistol
+[00:49:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[00:49:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[00:49:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[00:49:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[00:49:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[00:49:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[00:50:44] Client "василий каратаев" connected.
+[00:51:15] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 31 seconds).
+[00:51:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:51:36] василий каратаев: ляж
+[00:51:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:51:49] василий каратаев: ляяж
+[00:51:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:52:03] василий каратаев: нееет
+[00:52:05] василий каратаев: не вижу
+[00:52:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:52:08] василий каратаев: НУ ЗНАЧИТ
+[00:52:09] василий каратаев: КАРОЧ
+[00:52:12] василий каратаев: ТАК БУДУ ИГРАТЬ
+[00:52:15] василий каратаев: ПАЛИТЬ ВСЕХ
+[00:52:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:52:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:52:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbomb
+[00:52:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:53:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:53:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbomb
+[00:53:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:53:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:53:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbomb
+[00:53:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbomb
+[00:53:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbomb
+[00:53:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbomb
+[00:53:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:54:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:54:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbigbomb
+[00:54:11] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:54:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:54:16] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:54:19] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:54:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbigbomb
+[00:54:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:54:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbigbomb
+[00:54:53] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[00:54:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbomb
+[00:54:54] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:54:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:55:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbomb
+[00:55:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:55:16] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:55:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:55:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbomb
+[00:55:57] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[00:55:58] RusLanConnection teleported to василий каратаев
+[00:56:01] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:56:03] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:56:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:56:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[00:56:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:56:28] RusLanConnection suicided!
+[00:56:45] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbigbomb
+[00:56:47] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:56:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[00:56:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:56:52] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[00:57:10] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[00:57:12] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:57:14] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:57:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[00:57:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:57:26] василий каратаев suicided!
+[00:57:47] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:57:50] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[00:57:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:57:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:57:55] василий каратаев killed василий каратаев
+[00:57:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke
+[00:57:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:58:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:58:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:58:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[00:59:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[00:59:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[00:59:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezshovel
+[01:00:55] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbigbomb
+[01:01:01] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbigbomb
+[01:01:02] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[01:01:04] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbigbomb
+[01:01:10] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:01:12] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:01:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[01:01:14] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:01:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[01:01:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[01:01:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[01:01:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:01:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:01:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:01:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:01:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:01:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_cratepack
+[01:01:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_backpack
+[01:01:48] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbigbomb
+[01:02:28] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbigbomb
+[01:02:33] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:02:35] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:02:38] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:02:41] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:03:13] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[01:03:15] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[01:03:16] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:03:20] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:03:28] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:03:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[01:03:50] RusLanConnection teleported to василий каратаев
+[01:03:52] RusLanConnection teleported to sekta
+[01:04:04] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[01:04:06] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:04:09] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:04:14] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:04:41] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[01:04:43] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:04:45] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:04:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezshovel
+[01:05:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[01:05:20] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:05:43] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsmallbomb
+[01:05:44] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:05:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[01:05:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:06:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsmallbomb
+[01:06:08] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:06:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[01:06:29] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezhebomb
+[01:06:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:06:30] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:06:40] RusLanConnection suicided!
+[01:06:45] RusLanConnection killed василий каратаев using ent_jack_gmod_ezsmallbomb
+[01:06:50] RusLanConnection teleported to sekta
+[01:07:16] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_cratepack
+[01:07:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[01:07:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[01:07:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[01:07:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[01:07:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[01:07:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[01:07:47] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezthermobaricbomb
+[01:07:51] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:07:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[01:08:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[01:08:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[01:08:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[01:08:22] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterbuster
+[01:08:23] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:08:52] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterbuster
+[01:08:53] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:09:19] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterbuster
+[01:09:20] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:09:23] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:09:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[01:09:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:09:39] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezclusterbuster
+[01:09:41] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:09:48] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:09:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:10:05] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsmallbomb
+[01:10:06] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:10:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:10:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:10:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsmallbomb
+[01:10:28] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:10:38] RusLanConnection killed василий каратаев
+[01:10:43] василий каратаев killed RusLanConnection using ent_jack_gmod_ezsmallbomb
+[01:10:50] RusLanConnection teleported to василий каратаев
+[01:12:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[01:12:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[01:12:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[01:12:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[01:12:44] RusLanConnection killed василий каратаев using ent_jack_gmod_ezchlorineparticle
+[01:12:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfumigator
+[01:13:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[01:13:37] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[01:13:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfluid_bottler
+[01:13:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[01:13:57] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezherocket
+[01:14:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[01:14:13] RusLanConnection teleported to василий каратаев
+[01:14:23] василий каратаев: ВАТАААФАААК
+[01:14:29] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[01:14:47] василий каратаев: УДАЛЯТЬ
+[01:14:53] василий каратаев: ЕСТЬ ПЕСОК
+[01:14:59] василий каратаев: НА АЛТ Е
+[01:15:01] василий каратаев: УДАЛЯТЬ
+[01:15:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate
+[01:15:32] василий каратаев: ПРОДАТЬ ПЕСОК
+[01:15:38] василий каратаев: ПРОДАТЬ ПЕСОЧ
+[01:15:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[01:15:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[01:15:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[01:18:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfabricator
+[01:18:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[01:18:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[01:18:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[01:18:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchemicals
+[01:19:52] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[01:19:54] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[01:19:55] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[01:19:56] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgas
+[01:20:00] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_backpack
+[01:20:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[01:20:14] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001a.mdl
+[01:20:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfumigator
+[01:20:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfumigator
+[01:20:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfumigator
+[01:20:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfumigator
+[01:20:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfumigator
+[01:20:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[01:20:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[01:20:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchemicals
+[01:21:00] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[01:21:48] василий каратаев: ДВЕР
+[01:21:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezshovel
+[01:22:14] василий каратаев<STEAM_0:0:814052183> spawned model models/props_c17/fence02b.mdl
+[01:23:47] василий каратаев: СПАСТ
+[01:24:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[01:24:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[01:24:33] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[01:24:33] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[01:25:01] василий каратаев: СТРОИМ ДОМИК
+[01:25:05] василий каратаев: ПОДРЯД СТРОИТЕЛЬНЫЙ
+[01:25:40] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[01:26:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[01:27:09] василий каратаев: СТЕНА КРИВАЯ НАСЯНИИКА
+[01:27:29] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:30] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezprimitivebench
+[01:27:34] василий каратаев: ДИБИЛИИИИЗМ
+[01:27:39] василий каратаев: ОНА ДВЕРЬ РАЗОБРАЛА
+[01:27:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[01:27:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[01:27:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[01:28:17] василий каратаев<STEAM_0:0:814052183> spawned model models/props_c17/fence02b.mdl
+[01:29:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[01:29:04] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[01:29:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[01:29:16] RusLanConnection killed василий каратаев using ent_jack_gmod_ezsticknade
+[01:29:38] василий каратаев: А ПРОСТО ЭТОТ ПРОП ЛЕГКО СТАВИТЬ
+[01:29:47] василий каратаев: ТАМ ПО ТУПОМУ СТАВИТЬСЯ БОЛТЫ
+[01:29:53] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[01:30:04] василий каратаев<STEAM_0:0:814052183> spawned model models/props_doors/door03_slotted_left.mdl
+[01:30:06] василий каратаев: ЩАС
+[01:30:14] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[01:30:17] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[01:30:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgas
+[01:31:32] василий каратаев<STEAM_0:0:814052183> spawned model models/hunter/plates/plate025x025.mdl
+[01:32:25] василий каратаев: ГОВННООО
+[01:32:37] василий каратаев<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05x05.mdl
+[01:32:54] василий каратаев<STEAM_0:0:814052183> spawned model models/props_doors/door03_slotted_left.mdl
+[01:33:33] Dropped "sekta" from server<STEAM_0:0:57939554>
+[01:33:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[01:33:51] василий каратаев: ПРИДЕЦА ПО ТУПОМУ ДЕЛАТЬ
+[01:34:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[01:34:17] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznutrients
+[01:34:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[01:34:17] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznutrients
+[01:34:23] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[01:34:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[01:34:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[01:34:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[01:34:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[01:34:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[01:34:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[01:34:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[01:34:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[01:34:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[01:35:59] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[01:36:47] василий каратаев: ДА
+[01:36:53] василий каратаев: ГАЗ НЕ ДАМАЖИЛ ПОЧТИ
+[01:37:09] василий каратаев: ПРОСТО БОЛТ
+[01:37:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[01:37:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[01:37:44] василий каратаев: ДАААА
+[01:37:45] василий каратаев: АЦАЛЗЦЛАЦ
+[01:37:45] василий каратаев suicided!
+[01:37:50] василий каратаев: ЕВРЕЯМ ЖИЛОС ЛУЧШ
+[01:38:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchemicals
+[01:38:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[01:38:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[01:38:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[01:39:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[01:39:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[01:39:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[01:39:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[01:39:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[01:39:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[01:39:42] василий каратаев: НЕЕЕЕТ
+[01:39:44] василий каратаев: МОЙ ДОМИК
+[01:39:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[01:40:34] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[01:40:36] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate
+[01:41:51] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[01:42:12] василий каратаев<STEAM_0:0:814052183> spawned sent ent_aboot_jmod_ezweapon_alyxgun
+[01:42:24] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_bas
+[01:42:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[01:43:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[01:44:44] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezutilitycrate
+[01:45:15] Server is shutting down/changing levels.
+
+
+
+[01:47:34] New map: bf_arid
+[01:48:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[01:48:25] Client "василий каратаев" connected.
+[01:49:06] Client "василий каратаев" connected.
+[01:49:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[01:49:26] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 20 seconds).
+[01:49:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[01:50:02] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezchlorinebomb
+[01:50:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[01:50:43] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[01:51:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate
+[01:52:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[01:52:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[01:53:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[01:54:35] RusLanConnection teleported to василий каратаев
+[01:54:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[01:55:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfumigator
+[01:55:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_gasmask
+[01:55:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[01:56:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[01:56:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[01:56:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[01:56:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[01:56:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[01:56:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[01:56:27] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezprimitivebench
+[01:56:31] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezprimitivebench
+[01:56:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchemicals
+[01:56:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchemicals
+[01:56:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchemicals
+[01:56:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchemicals
+[01:56:45] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwood
+[01:57:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[01:57:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[01:58:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[01:58:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[01:59:12] василий каратаев: ДАЙТЕ ФИЛЬТР 
+[01:59:13] василий каратаев: ЗАПАСНОЙЙЙ
+[01:59:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchemicals
+[02:00:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[02:00:58] василий каратаев: ТОЛЬКО ПОЛОГАЦА НА ЛЮДЕЙ С АДМИНКАМИ КОТОРЫЕ ЧИСТИТЬ БУДУ
+[02:00:59] василий каратаев: Т
+[02:01:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfumigator
+[02:02:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfumigator
+[02:02:23] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezchemicals
+[02:02:39] василий каратаев: ВСЕМ ДОМООООЙ  ОБЛАКО ПРИБЛИЖАЕЦА
+[02:03:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:03:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:03:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:03:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:03:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:04:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:06:28] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[02:06:29] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgas
+[02:06:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[02:06:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[02:06:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:06:56] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[02:07:10] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[02:07:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:07:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:07:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:07:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezchemicals
+[02:07:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:07:55] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[02:07:55] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[02:08:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:08:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:08:30] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:08:31] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:08:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:08:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:08:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:08:40] RusLanConnection killed василий каратаев using ent_jack_gmod_ezchlorineparticle
+[02:08:55] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[02:08:56] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[02:08:58] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[02:08:59] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgas
+[02:09:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_hazmat
+[02:09:17] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_cratepack
+[02:09:21] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezchemicals
+[02:09:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:10:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:10:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:10:39] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[02:10:39] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[02:11:34] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[02:11:34] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[02:12:09] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[02:12:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:13:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:13:08] василий каратаев: НЕ
+[02:14:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:14:28] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001a.mdl
+[02:14:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:16:40] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[02:16:49] василий каратаев<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[02:17:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:17:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:17:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:19:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:19:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:19:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:19:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:19:31] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[02:19:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:20:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:20:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:20:24] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:20:29] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:20:42] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:20:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:20:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:20:58] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:21:22] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:21:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:21:31] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:21:39] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:22:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:22:30] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:22:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:22:34] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:22:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[02:22:54] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:23:08] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[02:23:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[02:23:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:23:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[02:23:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[02:24:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_flametank
+[02:24:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[02:25:01] василий каратаев: НЕЕЕТ
+[02:25:06] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:25:45] василий каратаев: О
+[02:25:50] василий каратаев: КУПЛЮ ЗА АВТОМАТ КОРОВУ
+[02:25:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[02:25:56] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:25:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_br
+[02:26:03] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:26:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_rioth
+[02:26:20] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:26:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:26:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:26:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[02:26:32] василий каратаев: ВС ДОСТРОИД ЗАХОДИТИ
+[02:26:46] василий каратаев: ДОЛЖА
+[02:26:58] василий каратаев: ВС
+[02:27:14] василий каратаев: НУ ТУТ ПО ДРУГОМУ НЕЛЬЗЯ
+[02:27:41] василий каратаев: НЕНАДА
+[02:28:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[02:28:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[02:28:14] василий каратаев: НЕЕЕЕТ 
+[02:28:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[02:28:19] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsprinkler
+[02:28:22] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[02:28:24] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:28:26] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:28:34] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:28:34] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:28:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[02:28:35] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:28:36] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:28:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[02:28:37] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:28:37] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:28:38] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:28:39] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:28:40] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:28:40] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:28:43] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznutrients
+[02:28:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[02:28:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[02:29:15] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[02:29:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[02:29:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[02:29:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[02:29:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznuke_big
+[02:29:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[02:30:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezhealtkit
+[02:30:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezhealtkit
+[02:30:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezhealtkit
+[02:30:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezhealtkit
+[02:30:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezhealtkit
+[02:30:17] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:30:17] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:30:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezutilitycrate
+[02:30:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:30:19] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:30:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezmelmet
+[02:30:19] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[02:30:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_lhead
+[02:30:39] RusLanConnection<STEAM_0:0:238810681> spawned model models/gasmasks/m40.mdl
+[02:30:43] RusLanConnection<STEAM_0:0:238810681> spawned model models/gasmasks/s10.mdl
+[02:30:50] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezprimitivebench
+[02:30:50] RusLanConnection<STEAM_0:0:238810681> spawned model models/gasmasks/gp5.mdl
+[02:31:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[02:31:27] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezinductionfurnace
+[02:31:40] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezfluidbarrel
+[02:31:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[02:31:46] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:31:49] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:31:49] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:31:51] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:31:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[02:31:59] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:32:00] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:32:01] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:32:02] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:32:03] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:32:04] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:32:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[02:32:05] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:32:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:32:42] RusLanConnection<STEAM_0:0:238810681> spawned model models/parts/german_helmet.mdl
+[02:32:42] RusLanConnection<STEAM_0:0:238810681> spawned model models/parts/german_helmet.mdl
+[02:32:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_lhead
+[02:34:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_lhead
+[02:35:50] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_sr
+[02:35:54] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[02:35:59] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:36:06] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[02:37:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/usm1_helmet_netted.mdl
+[02:37:27] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/german/m35_stahlhelm_foliage.mdl
+[02:37:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/german/m35_stahlhelm_wire.mdl
+[02:37:29] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:37:32] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:37:34] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:37:35] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/fra_adrian_helmet.mdl
+[02:37:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/brit_beret.mdl
+[02:37:42] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:37:44] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/usm1_helmet.mdl
+[02:37:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/usm1_helmet_covered.mdl
+[02:38:00] RusLanConnection<STEAM_0:0:238810681> spawned model models/player/items/scout/scout_bils.mdl
+[02:38:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_magpistol
+[02:38:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[02:38:20] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[02:38:32] RusLanConnection<STEAM_0:0:238810681> spawned model models/parts/meskit.mdl
+[02:38:34] RusLanConnection<STEAM_0:0:238810681> spawned model models/parts/us_rifleman.mdl
+[02:38:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/parts/us_sniper.mdl
+[02:38:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/parts/gear_bazooka.mdl
+[02:38:39] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[02:38:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_mltorso
+[02:38:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_srcalf
+[02:38:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_slcalf
+[02:38:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_srforearm
+[02:38:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_slforearm
+[02:39:06] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amsr
+[02:39:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_backpack
+[02:39:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_lrshoulder
+[02:39:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_llshoulder
+[02:42:16] RusLanConnection teleported to василий каратаев
+[02:42:20] василий каратаев: АХ ТЫ
+[02:42:47] василий каратаев: ЗНАЕШЬ У МЕНЯ МОТОЦИКЛЫСТЫ НА НЕМ ЕДУТ ДЕТЕЙ ПУГАЮТ
+[02:42:50] василий каратаев: В ГОРОДЕ
+[02:43:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_pouch
+[02:43:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_spelvis
+[02:43:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_ltorso
+[02:43:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_lrshoulder
+[02:43:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_llshoulder
+[02:43:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_srforearm
+[02:43:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_slforearm
+[02:43:52] василий каратаев: АРИЙ ПРОСТО
+[02:43:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_lhead
+[02:43:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_lhead
+[02:44:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_mhead
+[02:45:07] василий каратаев<STEAM_0:0:814052183> spawned sent edit_sky
+[02:45:12] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/brit_beret.mdl
+[02:45:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:45:15] василий каратаев<STEAM_0:0:814052183> spawned sent edit_fog
+[02:45:16] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/brodie_helmet.mdl
+[02:45:45] василий каратаев<STEAM_0:0:814052183> spawned sent edit_sun
+[02:45:54] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsolargenerator
+[02:46:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_nazihead
+[02:47:11] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[02:47:17] Server is shutting down/changing levels.
+
+
+
+[02:47:37] New map: bf_arid
+[02:48:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[02:52:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_nazihead
+[02:55:55] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/fra_adrian_helmet.mdl
+[02:55:57] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:55:58] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:00] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/brodie_helmet.mdl
+[02:56:01] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/brit_beret.mdl
+[02:56:03] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/brodie_helmet.mdl
+[02:56:04] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:06] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:06] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:06] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/dutch_m34_helm.mdl
+[02:56:20] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/usm1_helmet.mdl
+[02:56:21] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/usm1_helmet.mdl
+[02:56:22] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/usm1_helmet.mdl
+[02:56:22] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/usm1_helmet.mdl
+[02:56:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/usm1_helmet_covered.mdl
+[02:56:27] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/usm1_helmet_netted.mdl
+[02:56:29] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/gear/allies/usm1c_helmet.mdl
+[02:56:32] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/german/ger_camo_cap.mdl
+[02:56:35] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/german/m35_stahlhelm.mdl
+[02:56:40] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/german/m35_stahlhelm.mdl
+[02:56:45] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/german/m35_stahlhelm_foliage.mdl
+[02:56:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/german/m35_stahlhelm_wire.mdl
+[02:56:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/german/m43_cap.mdl
+[02:56:50] RusLanConnection<STEAM_0:0:238810681> spawned model models/codww2/german/schirmmuetze.mdl
+[02:57:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[03:00:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_krhead
+[03:00:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_plhead
+[03:00:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_sthead
+[03:03:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[03:03:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_magrevolver
+[03:03:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[03:04:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_imhead
+[03:04:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_sthead
+[03:04:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[03:05:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[03:05:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfluid_bottler
+[03:05:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfabricator
+[03:05:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[03:05:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[03:11:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[03:11:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchemicals
+[03:17:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[03:17:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_nazihead
+[03:19:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[03:19:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[03:19:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[03:19:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:19:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:28:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:30:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:30:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:30:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:31:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:31:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:31:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[03:31:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[03:31:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:31:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:32:24] RusLanConnection suicided!
+[03:32:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[03:32:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[03:32:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[03:32:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[03:32:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[03:34:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[03:34:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbombbay
+[03:34:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:34:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:34:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[03:34:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[03:34:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[03:34:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[03:34:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[03:34:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[03:34:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[03:35:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezarmor_weldingmask
+[03:35:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezwelder
+[03:37:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_gasmask
+[03:37:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_nazihead
+[03:37:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[03:37:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_lac
+[03:37:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[03:40:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[03:40:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[03:40:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[03:40:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ssr
+[03:40:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[03:41:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:41:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:41:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:42:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[03:42:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[03:42:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgasnade
+[03:42:20] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[03:42:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[03:42:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsentry
+[03:42:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[03:42:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[03:43:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[03:43:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[03:43:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcoolant
+[03:44:09] RusLanConnection was killed by ent_jack_gmod_ezsentry
+[03:44:18] RusLanConnection was killed by ent_jack_gmod_ezsentry
+[03:45:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_machinepistol
+[03:45:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[03:45:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezshovel
+[03:46:56] Client "Bot01" connected.
+[03:46:56] Client "Bot01" spawned in server <BOT> (took 3576 seconds).
+[03:47:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[03:47:22] RusLanConnection killed Bot01 using wep_jack_gmod_ssr
+[03:47:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdynamite
+[03:47:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdynamite
+[03:47:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdynamite
+[03:47:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdynamite
+[03:47:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdynamite
+[03:47:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezdynamite
+[03:48:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:48:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:48:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztorpedo
+[03:48:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:48:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:48:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:48:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:48:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:48:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:48:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[03:48:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezincendiarybomb
+[03:49:03] RusLanConnection suicided!
+[03:49:06] Server is shutting down/changing levels.
+
+
+
+[22:01:14] New map: bf_arid
+[22:01:18] Client "василий каратаев" connected.
+[22:01:31] Client "Rackman" connected.
+[22:01:31] Client "NL" connected.
+[22:01:46] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 28 seconds).
+[22:02:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_shotrevolver
+[22:02:20] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 49 seconds).
+[22:02:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[22:02:28] василий каратаев: ЗЕЛЕНАЯ
+[22:02:31] Client "Chupacabr" connected.
+[22:03:01] Rackman: сum pot
+[22:03:02] василий каратаев: ЯБЛОЧНЫЙ КАМПО
+[22:03:24] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 53 seconds).
+[22:03:25] Client "NL" spawned in server <STEAM_0:0:116416813> (took 114 seconds).
+[22:03:35] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/gascan001a.mdl
+[22:03:49] василий каратаев was killed by luna_hook_heavy
+[22:04:00] василий каратаев was killed by luna_hook_heavy
+[22:04:01] василий каратаев: СКОЛЬКО ЗАШЛО
+[22:04:35] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube1x2x025.mdl
+[22:04:36] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube1x2x025.mdl
+[22:04:45] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube1x2x025.mdl
+[22:04:48] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube1x1x025.mdl
+[22:04:49] Rackman<STEAM_0:0:221849271> spawned model models/hunter/blocks/cube1x1x025.mdl
+[22:04:51] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[22:04:54] NL: !menu
+[22:04:59] NL teleported to RusLanConnection
+[22:05:07] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:05:09] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_nazihead
+[22:05:43] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezfluidbarrel
+[22:05:46] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[22:05:46] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[22:05:46] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[22:05:46] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[22:06:00] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_nazihead
+[22:06:08] василий каратаев: БОЧКА С КВАСОМ 
+[22:06:11] василий каратаев: ИЗ ПРОШЛОГО
+[22:06:13] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:06:22] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:06:27] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:06:37] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:06:40] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:06:42] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:06:45] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:06:47] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:06:51] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:06:58] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:06:58] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:07:03] Rackman was killed by luna_hook_springy
+[22:07:03] василий каратаев was killed by ent_fumo_gmod_ezfluidbarrel
+[22:07:11] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:07:13] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:07:13] Rackman teleported to василий каратаев
+[22:07:13] Rackman: !goto вас
+[22:07:21] Rackman teleported to RusLanConnection
+[22:07:21] Rackman: !goto ru
+[22:07:39] NL<STEAM_0:0:116416813> spawned sent ent_aboot_gmod_ezarmor_headcrab
+[22:08:08] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezshovel
+[22:08:25] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezcampfire
+[22:08:28] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezarmor_headcrab
+[22:08:45] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[22:08:55] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezcoal
+[22:09:05] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:09:16] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:09:18] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:09:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:09:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[22:09:37] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[22:09:57] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[22:09:58] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezarmor_blindhead
+[22:09:59] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_nazihead
+[22:10:03] Client "JMSD16" connected.
+[22:10:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[22:10:20] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_flaktorso
+[22:10:21] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezarmor_brodiehead
+[22:11:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[22:11:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:11:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[22:12:12] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrocketmotor
+[22:12:22] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrocketmotor
+[22:12:39] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_balmask
+[22:12:43] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezrocketmotor
+[22:12:44] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_flametank
+[22:12:51] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:13:05] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezfuel
+[22:13:12] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezexplosives
+[22:13:12] Rackman suicided!
+[22:13:13] Client "JMSD16" spawned in server <STEAM_0:1:570595696> (took 190 seconds).
+[22:13:14] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezmunitions
+[22:13:18] василий каратаев: ДАДИ
+[22:13:19] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[22:13:23] NL<STEAM_0:0:116416813> spawned sent lvs_item_ammo
+[22:13:29] NL<STEAM_0:0:116416813> spawned sent lvs_item_ammo
+[22:13:36] NL<STEAM_0:0:116416813> spawned sent lvs_item_ammo
+[22:13:38] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_item_ammo
+[22:13:39] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_item_ammo
+[22:13:39] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_item_ammo
+[22:13:40] NL<STEAM_0:0:116416813> spawned sent lvs_item_ammo
+[22:13:41] NL<STEAM_0:0:116416813> spawned sent lvs_item_ammo
+[22:13:46] NL was killed by lvs_armor_bounce
+[22:13:54] RusLanConnection brought JMSD16
+[22:13:55] василий каратаев was killed by lvs_armor_bounce
+[22:13:55] NL: !menu
+[22:13:56] NL teleported to RusLanConnection
+[22:14:09] Chupacabr suicided!
+[22:14:10] RusLanConnection: playermodel_selector 
+[22:14:15] NL<STEAM_0:0:116416813> spawned sent ent_rus_jsmod_pipe
+[22:14:25] NL<STEAM_0:0:116416813> spawned sent ent_rus_gmod_ezpowerline
+[22:14:38] василий каратаев: СЛОМАЛ
+[22:15:03] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezfuel
+[22:15:25] василий каратаев: КРАСИВО ВЪЕХАЛ В ФОРТИФИКАЦИЮ
+[22:15:46] RusLanConnection silently slayed Everyone
+[22:15:46] RusLanConnection: !sslay *
+[22:15:49] Client "sekta" connected.
+[22:16:07] василий каратаев: Э
+[22:16:08] василий каратаев: Э
+[22:16:11] василий каратаев: Э
+[22:16:19] василий каратаев: ЭБЭБЭЭ
+[22:16:23] NL: ээээ
+[22:16:26] Rackman killed Chupacabr using wep_jack_gmod_hands
+[22:16:27] василий каратаев: ЭБЭЭБЭ
+[22:16:36] NL: я могу писать э в другую сторону єєєє
+[22:16:39] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:41] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:41] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:41] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:41] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:42] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:42] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:42] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:42] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:42] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:42] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:42] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:42] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:43] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:43] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:43] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:43] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:43] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:43] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:43] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:43] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:43] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:43] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:44] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:44] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:44] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:44] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:44] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:44] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:44] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:44] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:44] Chupacabr: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:44] NL: Я ЛЮБЛЮ ПЛЫВИСКИ
+[22:16:44] Chupacabr suicided!
+[22:16:57] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 68 seconds).
+[22:17:09] NL: !menu
+[22:17:10] NL teleported to RusLanConnection
+[22:17:46] василий каратаев: А ФРАКЦИ
+[22:18:06] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[22:18:16] василий каратаев: КАМПЬЮТЕР
+[22:18:31] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_spelvis
+[22:18:36] василий каратаев: ВЗЦЛЛЦВЦ
+[22:18:57] василий каратаев: ВЕСЬ ДЕНЬ БОЛЕЛА ГОЛОВА
+[22:19:00] василий каратаев: ПОПИЛ ДОБРЫЙ КОЛА
+[22:19:04] василий каратаев: ГОЛОВА ПРОШЛА
+[22:19:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_sthead
+[22:19:08] василий каратаев: УДИВИТЕЛЬНО
+[22:19:12] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_blindhead
+[22:19:27] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezarmor_headcrab
+[22:19:53] Client "BriceMashiro" connected.
+[22:20:18] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_prosuit
+[22:20:20] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_eodsuit
+[22:20:29] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezarmor_imhead
+[22:20:45] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezaxe
+[22:20:54] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_imhead
+[22:20:56] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_plhead
+[22:21:05] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezarmor_metalpot
+[22:21:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfabricator
+[22:21:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[22:21:35] NL<STEAM_0:0:116416813> spawned sent ent_fumo_gmod_ezskylantern
+[22:21:36] Chupacabr: онлайн вроде норм
+[22:21:37] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezwater
+[22:21:40] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[22:21:46] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezchemicals
+[22:21:48] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezbeartrap
+[22:22:08] NL<STEAM_0:0:116416813> spawned sent ent_jack_gmod_ezpopcorn
+[22:22:22] NL<STEAM_0:0:116416813> spawned sent ent_aboot_gmod_ezairboatengine
+[22:22:24] NL<STEAM_0:0:116416813> spawned sent ent_aboot_gmod_ezairboatengine
+[22:22:37] василий каратаев: КОГДА ИГР
+[22:22:41] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezpowertools
+[22:22:51] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[22:23:09] RusLanConnection brought JMSD16
+[22:23:14] RusLanConnection added Rackman to group admin
+[22:23:16] Rackman killed Chupacabr using player
+[22:23:18] RusLanConnection removed all access rights from василий каратаев
+[22:23:18] Rackman suicided!
+[22:23:25] RusLanConnection removed all access rights from Rackman
+[22:23:27] RusLanConnection removed all access rights from Chupacabr
+[22:23:29] RusLanConnection removed all access rights from BriceMashiro
+[22:23:31] RusLanConnection removed all access rights from NL
+[22:23:46] Chupacabr: скажите спасибо
+[22:24:32] Client "BriceMashiro" spawned in server <STEAM_0:0:590186964> (took 279 seconds).
+[22:25:03] василий каратаев: ДИБИЛИИИИЗМ
+[22:25:45] василий каратаев: ВС
+[22:25:47] василий каратаев: Я ПОЕШЛ
+[22:25:50] василий каратаев: ПОКА ПАПУАСЫ
+[22:26:19] Dropped "NL" from server<STEAM_0:0:116416813>
+[22:26:20] Client "NL" connected.
+[22:26:40] Client "NL" spawned in server <STEAM_0:0:116416813> (took 20 seconds).
+[22:27:15] василий каратаев: ПАЕЛИ
+[22:27:33] василий каратаев: ЧЕГО СТОИЩ МОЛЧИШЬ ПРЕСЛЕДУЕШ
+[22:27:39] василий каратаев: А
+[22:27:51] василий каратаев: А
+[22:27:53] василий каратаев: ЧЕГО
+[22:27:59] василий каратаев: В СКВАД ВСТУП
+[22:28:53] Dropped "NL" from server<STEAM_0:0:116416813>
+[22:29:12] василий каратаев: ВАДА
+[22:30:11] Client "NL" connected.
+[22:30:31] RusLanConnection: jmod_ez_econ 
+[22:30:46] Client "NL" spawned in server <STEAM_0:0:116416813> (took 35 seconds).
+[22:31:20] василий каратаев: СРАЗУ ДЕЛАТЬ ЯЩИК
+[22:36:55] василий каратаев: ДАВАЙ СРАЗУ ВОРКБЕН
+[22:38:15] Chupacabr: дорого стоит
+[22:40:03] василий каратаев: ГАЗЫ
+[22:40:06] василий каратаев: НАСРА
+[22:40:18] василий каратаев: ДАВАЙ
+[22:40:21] василий каратаев: НАЛЕТ
+[22:40:22] василий каратаев: ДЕЛАЙ
+[22:40:24] василий каратаев: ФИНТФЛОК
+[22:40:32] василий каратаев: ГАЗЫ
+[22:40:38] василий каратаев: БРОНЮ ЛЕГКУЮ
+[22:41:11] василий каратаев: ПОШЛИ
+[22:41:15] василий каратаев: БЕРИ
+[22:41:31] BriceMashiro: ssssssssssss
+[22:41:32] JMSD16 killed RusLanConnection using wep_jack_gmod_ezpickaxe
+[22:41:34] BriceMashiro: ыыыыыыыы
+[22:41:40] BriceMashiro: чего?
+[22:41:44] RusLanConnection teleported to JMSD16
+[22:41:48] BriceMashiro: ф4
+[22:41:56] BriceMashiro: все
+[22:42:07] BriceMashiro: ну хз
+[22:42:12] BriceMashiro: а хотя
+[22:42:17] василий каратаев: НАДА СПАТЬ
+[22:42:17] BriceMashiro: я знаю где он
+[22:42:19] василий каратаев: ПОСПАТЬ
+[22:42:53] BriceMashiro: да блять
+[22:42:56] BriceMashiro: он уже создал команду
+[22:43:06] BriceMashiro: да
+[22:43:11] василий каратаев: ПРОДАЙ ПОКА ДОРОГО
+[22:43:16] BriceMashiro: между народный альянс Алмазных псов и...
+[22:43:19] василий каратаев: ПОЙДЕМ ЗАБЕРЕМ НАШ УРАААН
+[22:43:23] василий каратаев: БЫСТРЫЙ НАЛЕТ
+[22:43:25] BriceMashiro: Джордж
+[22:43:28] василий каратаев: НИКТО НЕЧЕГО НЕ ЗАМЕТИТ
+[22:43:28] BriceMashiro: бля запомнить сложно
+[22:43:38] BriceMashiro: ДжордФлойдистов?
+[22:43:59] BriceMashiro: Между народный сою Алмазных псов и ДжорджФлойдистов
+[22:44:08] BriceMashiro: кароч база там
+[22:44:11] BriceMashiro: буквально за горой
+[22:44:22] BriceMashiro: там где башня одна со стенами
+[22:44:25] василий каратаев: ДАВАЙ ЗАКАЭИ ТУРЕ
+[22:44:31] василий каратаев: ПОКА МЫ БУДЕМ УБЕШАТ
+[22:44:31] BriceMashiro: погнал
+[22:44:34] василий каратаев: МЫ ПОСТАВИМ
+[22:44:36] василий каратаев: ЧТОБЫ НЕ ЭТО
+[22:44:51] Chupacabr: еще 200 мани
+[22:44:52] василий каратаев: СДЕЛАЙ КРОВАТ
+[22:46:44] василий каратаев: СДЕЛАЙ СПАТ
+[22:46:59] василий каратаев: ПОШЛИ
+[22:47:00] василий каратаев: ПОШЛИ
+[22:47:03] василий каратаев: А ЩАС
+[22:47:24] василий каратаев: А ГАТО
+[22:47:30] василий каратаев: НЕТУДА
+[22:47:37] василий каратаев: В ОТЕР
+[22:47:39] василий каратаев: ПАК
+[22:47:41] василий каратаев: ЕСТЬ
+[22:47:42] василий каратаев: СПЕЦ
+[22:48:28] василий каратаев: ВОЗМ
+[22:48:50] василий каратаев: ПОШЛИ
+[22:48:52] василий каратаев: ОНИ РЯДОМ
+[22:48:58] василий каратаев: ТОЛЬКО ГДЕ
+[22:49:05] василий каратаев: ЗАБРАТЬ НЕМНОГО УРАНА
+[22:50:02] василий каратаев: НЕФИГА ТАМ КАКА
+[22:51:05] BriceMashiro: чего
+[22:51:10] BriceMashiro: урв?
+[22:51:20] BriceMashiro: рврарва ?
+[22:51:22] василий каратаев: ВАМ ВОТ ПРЯМ СИЛЬНО НУЖНА ЭТА ПАНЕЛЬ?
+[22:51:33] BriceMashiro: че надо то??
+[22:51:38] василий каратаев: ВЫ НЕ ПРОТИВ ЕСЛИ ВОЗЬМЕМ ПАНЕЛЬ ПРОСТО НАМ НУЖНЕЕ
+[22:51:49] BriceMashiro: ну бля выбора нету
+[22:52:15] василий каратаев: ПОМОГИ
+[22:52:19] BriceMashiro: кароч
+[22:52:24] BriceMashiro: передай кракману что
+[22:52:35] BriceMashiro: яйцеходы пидарасы
+[22:52:40] BriceMashiro: вот
+[22:52:43] BriceMashiro: да они украли
+[22:54:38] василий каратаев: ПОШЛИ
+[22:54:41] василий каратаев: ЗА УРАНОМ
+[22:55:14] василий каратаев: ПОШЛИ
+[22:56:06] BriceMashiro: ПРЕКРАТИТЬ
+[22:56:15] BriceMashiro: данный индивидум
+[22:56:23] RusLanConnection: playermodel_selector 
+[22:56:24] BriceMashiro: евляется союзником алмазных псов
+[22:56:36] BriceMashiro: прошу давайте без канфронтации
+[22:56:40] BriceMashiro: такого больше не повторится
+[22:56:49] sekta: кек
+[22:57:00] BriceMashiro: а
+[22:57:01] sekta: брайс я далеко
+[22:57:09] Dropped "BriceMashiro" from server<STEAM_0:0:590186964>
+[22:57:09] sekta: они меня расстреляли
+[23:01:08] василий каратаев: ПОШЛИ
+[23:01:14] василий каратаев: УРАН ЧУЧУТЬ ЗАБЕРЕМ ЧУЧУТЬ
+[23:01:18] василий каратаев: НЕВЕРОЯТНЫЙ
+[23:01:20] василий каратаев: БУДЕТ
+[23:01:22] василий каратаев: ПРЫЖОК
+[23:02:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[23:03:21] василий каратаев: ВЫКАПЫВАЕМ
+[23:03:26] василий каратаев: ПОДОЙДИ
+[23:03:37] василий каратаев: КОПАЙ
+[23:04:01] василий каратаев: КОПАЙ ДАВАЙ
+[23:04:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwater
+[23:04:11] василий каратаев: НОВАЯ СИСТЕМА РАБСТВО
+[23:04:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[23:04:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[23:04:15] василий каратаев: ДАВАЙ
+[23:04:18] василий каратаев: ПОТОМ ОТПУСТИМ
+[23:04:24] василий каратаев: ДАДИМ ДЕНЕГ
+[23:04:24] василий каратаев: ЕДЫ
+[23:04:58] василий каратаев: ДАВАЙ ДАВАЙ
+[23:06:04] василий каратаев: КОПАЙ
+[23:06:08] василий каратаев: НЕЛЕНИМСЯ
+[23:06:23] василий каратаев: ДАВАЙ БЕЗ РАЗГОВОРЧИКОВ
+[23:06:55] василий каратаев: КОПАЙ
+[23:06:57] василий каратаев: Я СМОТРЮ
+[23:07:07] василий каратаев: ОСТАВЬ
+[23:08:06] RusLanConnection killed sekta using wep_jack_gmod_pas
+[23:09:18] василий каратаев: 2886
+[23:09:37] василий каратаев: ДАВАЙ ОБУСТРОИМСЯ
+[23:12:16] василий каратаев: В
+[23:12:22] JMSD16 killed sekta using wep_jack_gmod_ssr
+[23:14:50] василий каратаев: о 
+[23:14:54] василий каратаев: УЖЕ ПАРТИКЛЫ ОТ
+[23:15:00] василий каратаев: ЩАС ЧУЧУТ
+[23:15:03] василий каратаев: (
+[23:15:11] василий каратаев: И НЕТ СЕМЯН 
+[23:15:41] василий каратаев: ЧТО
+[23:15:48] Chupacabr: крафтер крутой
+[23:15:55] василий каратаев: ТЫ ОЧЕ
+[23:16:03] Chupacabr: ну пресижн парты
+[23:16:05] василий каратаев: АА ФАБРИ
+[23:16:24] василий каратаев: ПОШЛИ НАПАДЕМ
+[23:16:30] василий каратаев: ГРЕНЫ ТОК
+[23:16:57] василий каратаев: НА КРЕКМАНА
+[23:17:01] василий каратаев: И ЗАСТАВИМ
+[23:17:03] василий каратаев: ЕСЛИ ПОБЕДИМ
+[23:17:07] василий каратаев: НАПАТСТЬ ВМЕСТЕ
+[23:17:51] василий каратаев: МИНОМЕТНЫЙ
+[23:17:55] василий каратаев: УДОБНО ПУЛЯТЬ
+[23:18:13] василий каратаев: НА КРЕКМАНА
+[23:18:21] василий каратаев: ОБЪЯВЛЯЮ ВОЙНУ
+[23:18:40] василий каратаев: ПОШЛИ ПОШЛИ
+[23:18:48] василий каратаев: Э
+[23:18:50] василий каратаев: НЕСИ
+[23:20:12] василий каратаев: ЧО ПРИЕХАЛО
+[23:23:07] василий каратаев killed Rackman using ent_jack_gmod_ezsmallbomb
+[23:23:17] Chupacabr killed NL using wep_jack_gmod_lac
+[23:24:16] василий каратаев: НЕЕЕТ
+[23:24:22] василий каратаев: ОНИ К НАМ ИДУТ
+[23:24:52] Dropped "NL" from server<STEAM_0:0:116416813>
+[23:26:41] василий каратаев: ДАВАЙ ЗАКРЕПИМ
+[23:26:59] Rackman suicided!
+[23:28:21] василий каратаев: СДАВАЙСЯ
+[23:28:30] Chupacabr killed Rackman using env_explosion
+[23:29:30] василий каратаев: ТУРЕЛЬ ЗАБЫЛ ВРУБИТ
+[23:29:53] василий каратаев: А
+[23:29:59] василий каратаев: ОН СДАСТА
+[23:30:04] василий каратаев: НАМ ДЕНЕГ ДАДУТ
+[23:30:20] василий каратаев: ВОРКБЕНЧ
+[23:30:45] василий каратаев: Я ВОТ ВЗЯЛ
+[23:31:11] василий каратаев: НАДА ИХ ДОБИТЬ
+[23:31:13] василий каратаев: И СКЛОНИТЬ
+[23:31:17] василий каратаев: К ПОДПИСАНИЮ
+[23:31:43] василий каратаев: НУ ЕМАМ
+[23:31:48] василий каратаев: ЛАДНО
+[23:31:49] василий каратаев: ПОШЛИ
+[23:31:50] василий каратаев: ТЫРИТЬ
+[23:31:53] василий каратаев: Я ПОШЕЛ
+[23:34:06] василий каратаев: ДАЙ АПТ
+[23:34:58] василий каратаев: ДАВЙА
+[23:35:02] василий каратаев: ИМ БАЗУ ЗАПЕРДИМ
+[23:35:05] василий каратаев: НУ
+[23:35:07] василий каратаев: ДЖОРЖЕ
+[23:35:08] василий каратаев: ЧТОБЫ
+[23:35:09] василий каратаев: ЭЭ
+[23:35:11] василий каратаев: ШАНТАЖЕМ
+[23:35:13] василий каратаев: СКАЖЕМ
+[23:35:26] василий каратаев: 500 ХИМОЗЫ
+[23:35:32] василий каратаев: И НАПАДАЕМ
+[23:35:34] василий каратаев: ДЕЛАЙ
+[23:35:36] василий каратаев: МАСКУ
+[23:37:32] василий каратаев: ГАЗ
+[23:37:34] василий каратаев: СРОЧН
+[23:39:43] василий каратаев: ДАВАЙ КИНЕМ НА ИХ ДРУЖКОВ
+[23:40:40] василий каратаев: ВС
+[23:40:41] василий каратаев: ПОШЛИ
+[23:40:45] василий каратаев: ОТЯ
+[23:40:52] василий каратаев: ДА ДАВАЙ
+[23:43:31] Chupacabr killed Rackman using wep_jack_gmod_lac
+[23:45:02] василий каратаев: ДАВАЙ
+[23:46:01] василий каратаев killed JMSD16 using ent_jack_gmod_ezchlorineparticle
+[23:46:23] RusLanConnection killed Chupacabr using wep_jack_gmod_pas
+[23:46:27] василий каратаев killed RusLanConnection using wep_jack_gmod_ssr
+[23:47:45] василий каратаев: СДАВАЯСЯ
+[23:47:57] василий каратаев: ВЫ 
+[23:48:00] василий каратаев: ВАМ
+[23:48:03] василий каратаев: НЕНАДА БЫЛО АЛЬЯНС
+[23:48:06] василий каратаев: С ДУРАКАМИ
+[23:48:08] василий каратаев: ПОШОЛ
+[23:48:19] василий каратаев: ЗА МНОЙ
+[23:48:26] василий каратаев: ДАВАЙ
+[23:48:27] василий каратаев: ЗА МНОЙ
+[23:48:29] Chupacabr killed Rackman using wep_jack_gmod_pas
+[23:48:30] василий каратаев: ПОКАЖУ ТЕБЕ СИСТЕМУ
+[23:48:31] василий каратаев: РАБСТВА
+[23:48:43] Chupacabr killed Rackman using wep_jack_gmod_pas
+[23:49:07] Chupacabr killed Rackman using wep_jack_gmod_pas
+[23:49:18] василий каратаев: СЕКТА
+[23:49:21] василий каратаев: ЗА МНОЙ
+[23:49:24] василий каратаев: БУДЕШ
+[23:49:28] василий каратаев: НАДСМОТРЩИКОМ
+[23:49:33] василий каратаев: ПЛАЩУ 10 БАКС
+[23:49:35] василий каратаев: ЗА НИМИ
+[23:49:44] василий каратаев: НУ
+[23:49:45] василий каратаев: ДАВАЙ
+[23:49:46] василий каратаев: К НАМ
+[23:50:04] василий каратаев: ПОШЛИ
+[23:50:14] василий каратаев: НИГА МУВ
+[23:50:37] Dropped "JMSD16" from server<STEAM_0:1:570595696>
+[23:51:12] василий каратаев: РАКМАНА
+[23:51:14] василий каратаев: ОСТАЛОСЬ
+[23:51:18] василий каратаев: НАДЗИРАТЕЛ
+[23:51:42] василий каратаев: ПОШОЛ
+[23:51:44] василий каратаев: ЗА МНОЙ
+[23:52:05] василий каратаев: УГОЛЬ ТУТ
+[23:52:07] василий каратаев: ПУСТЬ КОПАЕТ
+[23:52:13] василий каратаев: ИЩИ
+[23:52:17] василий каратаев: СЛЕДИ
+[23:52:21] василий каратаев: Я ПРИНЕСУ ТЕБЕ ПИСТОЛЕТ
+[23:52:46] RusLanConnection killed sekta using wep_jack_gmod_ezpickaxe
+[23:53:03] василий каратаев killed RusLanConnection using wep_jack_gmod_ssr
+[23:53:50] Rackman: js_gbux
+[23:54:49] RusLanConnection teleported to Rackman
+[23:54:50] RusLanConnection teleported to Chupacabr
+[23:54:50] RusLanConnection teleported to Rackman
+[23:54:54] RusLanConnection returned Themself to their original position
+[23:55:01] василий каратаев: РАБ ВЕРНУСЛЯ
+[23:55:11] RusLanConnection brought Rackman
+[23:55:54] василий каратаев: ДАВАЙ БЕРИ БРОНЮ ПУШКУ
+[23:56:07] василий каратаев: ОН УМЕР
+[23:56:25] RusLanConnection: playermodel_selector 
+[23:56:34] василий каратаев: НУ ОН ПОМЕР
+[23:56:43] василий каратаев: ТАК
+[23:56:44] василий каратаев: СЕКТА
+[23:56:47] василий каратаев: ИДИ КРАФТИ СЕБЕ
+[23:56:49] василий каратаев: ЧО НАДА
+[23:57:10] Rackman: supply radio: tnt
+[23:59:08] Rackman: supply radio: medkits
+[23:59:11] василий каратаев: НАМ НУЖНО ЗАКОНЧИТЬ С НИМ
+[23:59:35] Chupacabr: а че на нада
+[23:59:41] василий каратаев: БАБАХ
+[23:59:54] василий каратаев: ДЕНЬГИ ЕСТЬ
+<Logging continued in "data/ulx_logs/09-18-24.txt">

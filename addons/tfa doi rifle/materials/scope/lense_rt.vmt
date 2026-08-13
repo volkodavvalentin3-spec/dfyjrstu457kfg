@@ -1,0 +1,11 @@
+"Refract"
+{
+	<dx90
+	{
+		"$fallbackmaterial" "scope/fisheyelens_DX60"
+	}
+
+ 	"$model" 1
+ 	"$refractamount" 0.2
+ 	"$normalmap"  "models\weapons\optics\lense_nm"
+}

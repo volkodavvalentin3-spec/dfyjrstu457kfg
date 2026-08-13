@@ -1,0 +1,465 @@
+<Logging continued from "data/ulx_logs/07-31-25.txt">
+[01:12:02] Client "Польские Пряники" connected.
+[01:13:36] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 94 seconds).
+[01:16:06] Польские Пряники: !menu
+[01:16:24] Польские Пряники changed the map to gm_sro_highcliffs
+[01:16:24] Server is shutting down/changing levels.
+
+
+
+[01:16:32] New map: gm_sro_highcliffs
+[01:29:13] Client "klinskoe za 200" connected.
+[01:30:20] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 67 seconds).
+[01:37:59] Client "o((>ω< ))o" connected.
+[01:39:09] Client "o((>ω< ))o" spawned in server <STEAM_0:1:796223626> (took 70 seconds).
+[01:46:56] Dropped "o((>ω< ))o" from server<STEAM_0:1:796223626>
+[01:46:56] o((>ω< ))o suicided!
+[01:49:29] Client "o((>ω< ))o" connected.
+[01:50:03] Client "o((>ω< ))o" spawned in server <STEAM_0:1:796223626> (took 34 seconds).
+[01:50:20] o((>ω< ))o: !menu
+[01:54:45] o((>ω< ))o: Что делам?
+[01:57:42] klinskoe za 200: ???
+[01:57:45] klinskoe za 200: ты тихий чувак
+[01:57:56] o((>ω< ))o: А трупы можно утилизировать?
+[01:58:11] klinskoe za 200: сжечь или закопать
+[01:58:16] o((>ω< ))o: Пон
+[01:58:26] o((>ω< ))o: А ты можешь закопать его?
+[01:58:36] klinskoe za 200: у меня нет лопаты
+[01:58:44] o((>ω< ))o: Ок
+[02:00:01] o((>ω< ))o: У меня две яоки, они случайно дюпнулись
+[02:33:16] Client "sashakene" connected.
+[02:33:43] Client "sashakene" spawned in server <STEAM_0:0:546034662> (took 27 seconds).
+[02:37:26] Client "FRED01" connected.
+[02:37:39] Client "FRED01" connected.
+[02:39:09] Dropped "sashakene" from server<STEAM_0:0:546034662>
+[02:39:09] sashakene suicided!
+[02:39:31] Client "sashakene" connected.
+[02:39:52] Client "sashakene" spawned in server <STEAM_0:0:546034662> (took 21 seconds).
+[02:41:19] Client "FRED01" spawned in server <STEAM_0:1:767661328> (took 220 seconds).
+[02:43:45] Client "B-zone" connected.
+[02:47:05] Client "богдан." connected.
+[02:47:56] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 51 seconds).
+[03:02:25] sashakene: здравтствуйте!
+[03:02:29] богдан.: ?
+[03:02:45] sashakene: ничего
+[03:02:50] богдан.: ладн
+[03:08:01] Client "VOVIKNEM" connected.
+[03:08:36] Client "BeTTa" connected.
+[03:09:24] Client "VOVIKNEM" spawned in server <STEAM_0:1:588020269> (took 83 seconds).
+[03:14:29] Client "B-zone" connected.
+[03:30:23] Dropped "sashakene" from server<STEAM_0:0:546034662>
+[03:30:23] sashakene suicided!
+[04:01:11] Client "Jr_byba" connected.
+[04:10:14] o((>ω< ))o killed VOVIKNEM using tfa_doim1911
+[04:16:52] o((>ω< ))o killed VOVIKNEM using tfa_doim1garand
+[04:17:04] Client "Ichiro Mitsuyu" connected.
+[04:17:31] o((>ω< ))o killed VOVIKNEM using tfa_doim1garand
+[04:24:33] Client "Ichiro Mitsuyu" spawned in server <STEAM_0:0:47776580> (took 449 seconds).
+[04:24:49] Ichiro Mitsuyu: всем прив
+[04:25:43] богдан.: мужчина
+[04:25:50] Ichiro Mitsuyu: дайте пж права
+[04:25:51] богдан.: что вам нужно
+[04:26:04] Ichiro Mitsuyu: гравити пушка дайте
+[04:26:09] богдан.: нет
+[04:26:14] Ichiro Mitsuyu: пожалуйста
+[04:26:14] богдан.: купи сам ее
+[04:26:20] Ichiro Mitsuyu: где
+[04:26:30] богдан.: ну так при входе написано
+[04:26:42] богдан.: как верстак скрафтить и создать команду
+[04:26:58] богдан.: либо на ютубе посмотри гайд по jmod
+[04:27:05] богдан. killed Ichiro Mitsuyu using wep_jack_gmod_ezaxe
+[04:28:56] Dropped "Ichiro Mitsuyu" from server<STEAM_0:0:47776580>
+[04:28:56] Ichiro Mitsuyu suicided!
+[04:30:20] Client "Jr_byba" connected.
+[04:30:36] богдан.: я не знаю
+[04:30:48] богдан.: про такие
+[04:31:02] богдан.: гаубица?
+[04:31:09] богдан.: понял
+[04:35:02] VOVIKNEM suicided!
+[04:35:44] богдан.: нормально
+[04:39:39] VOVIKNEM: supply radio: seed kit
+[04:39:48] VOVIKNEM: supply radio: seed kit
+[04:42:07] богдан.: здраствуйте
+[04:42:11] богдан.: тестирую бомбы
+[04:42:21] богдан.: а что нужно вам
+[04:42:39] o((>ω< ))o: supply radio: nazi car
+[04:42:54] o((>ω< ))o: supply radio: nazi car
+[04:43:12] богдан.: я заказал тебе
+[04:45:05] o((>ω< ))o: Мне челябинск машину купил
+[05:02:24] богдан.: где
+[05:02:36] богдан.: да
+[05:03:37] богдан.: хз
+[05:03:40] богдан.: я не стрелял
+[05:10:45] богдан. was killed by ent_aboot_jsmod_ezcrate_fulton
+[05:14:53] богдан. killed богдан.
+[05:15:05] Dropped "богдан." from server<STEAM_0:1:815266334>
+[05:15:05] богдан. suicided!
+[05:20:09] Client "Польские Пряники" connected.
+[05:21:01] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 52 seconds).
+[05:21:24] Польские Пряники cloaked Themself by amount 0
+[05:21:44] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_item_transmission_manual
+[05:22:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezclusterbomb
+[05:22:58] Польские Пряники granted god mode upon Themself
+[05:23:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbigbomb
+[05:25:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[05:25:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[05:25:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[05:25:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[05:25:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[05:25:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[05:25:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[05:25:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[05:25:18] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[05:25:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[05:25:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[05:25:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[05:25:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[05:25:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[05:25:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[05:25:20] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[05:25:20] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[05:25:20] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[05:25:21] Client "RusLanConnection" connected.
+[05:25:46] Польские Пряники stripped weapons from Themself
+[05:25:51] Польские Пряники suicided!
+[05:25:51] Польские Пряники slayed Themself
+[05:25:58] Польские Пряники uncloaked Themself
+[05:26:05] Польские Пряники revoked god mode from Themself
+[05:26:16] Польские Пряники: ХЕЙ ДРУГ
+[05:26:22] Польские Пряники: А ГДЕ ЕСТЬ ЧЕБУРЕЧНЫЕ
+[05:26:33] Польские Пряники: БЛИН
+[05:27:10] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 109 seconds).
+[05:27:29] Польские Пряники to admins: привет
+[05:27:50] Польские Пряники: ХЕЙ ДРУГ
+[05:28:19] RusLanConnection cloaked Themself by amount 0
+[05:28:32] Польские Пряники: ДРУГ?
+[05:28:46] Польские Пряники: А ГДЕ ТУТ БЛИЖАЙШАЯ СТОЯНКА ЧЕЛОВЕКОВ
+[05:30:54] Польские Пряники: f
+[05:30:55] Польские Пряники: а
+[05:31:33] Польские Пряники: ЧЕЧЕНЬКИ ХОЧУ
+[05:33:23] Польские Пряники: ВОТ ЭТО ЧЕЧЕНЬКИ КОНЕЧНО
+[05:33:33] Польские Пряники: ВКУСНЫЕ
+[05:33:56] Польские Пряники: ЧЕРТОВЫ МАШИНЫ
+[05:34:20] Польские Пряники: ЗАСОСАЛО МЕНЯ
+[05:35:19] Польские Пряники: ЛЕГОНЕЧКО
+[05:35:30] Польские Пряники: зомбиии
+[05:35:31] Польские Пряники: чипси
+[05:39:29] Client "Soldier_S.C.A.F" connected.
+[05:39:35] Польские Пряники: ОЙ БЛИИИН
+[05:39:41] Польские Пряники: НИЖНИЙ
+[05:40:47] Client "Redoket" connected.
+[05:41:05] Польские Пряники: НАДО ТАЧКУ НА ПРОКАЧКУ
+[05:41:17] o((>ω< ))o was killed by ent_jack_gmod_ezsentry
+[05:41:42] Польские Пряники: ХАЙПОВЕНЬКО
+[05:42:04] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 155 seconds).
+[05:42:10] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 83 seconds).
+[05:42:37] Soldier_S.C.A.F to admins: да ну нафиг
+[05:42:43] Soldier_S.C.A.F to admins: тот самый РУСЛАН
+[05:43:11] Redoket: wtf is going on
+[05:43:18] Soldier_S.C.A.F: о
+[05:43:23] Soldier_S.C.A.F: давно не виделись
+[05:43:32] Redoket: приве\
+[05:43:49] Soldier_S.C.A.F: стой
+[05:43:58] Soldier_S.C.A.F: убей меня я к джи корпу приду
+[05:43:58] Redoket: !menu
+[05:44:07] Redoket to admins: Всем привет
+[05:44:10] Польские Пряники: jq ,kby
+[05:44:16] Польские Пряники to admins: ХАЙП
+[05:44:21] Redoket: иди сам
+[05:44:24] Redoket: я пацифист
+[05:44:37] Soldier_S.C.A.F: а
+[05:44:40] Soldier_S.C.A.F: :D
+[05:45:13] Польские Пряники to admins: когда танки
+[05:45:34] Redoket: о боже
+[05:45:38] Польские Пряники: ОЙ
+[05:45:47] Soldier_S.C.A.F: да да
+[05:45:50] Soldier_S.C.A.F: он самый
+[05:45:50] Redoket: гарбуз
+[05:46:05] Redoket: чооо у меня рука блаждшед
+[05:46:14] Soldier_S.C.A.F: блин проблема табличек в том
+[05:46:19] Soldier_S.C.A.F: что даже если текста нету
+[05:46:21] Redoket: я родил
+[05:46:25] Soldier_S.C.A.F: но они все равно нагружают проц
+[05:46:29] Redoket: всо
+[05:46:29] Польские Пряники: НЕ
+[05:46:34] Польские Пряники: ВСЕ ЧИНИЛИ
+[05:46:45] Redoket: ужас и моральный террор
+[05:47:00] Soldier_S.C.A.F: ПИЗДЕЦ
+[05:47:00] Redoket: ура
+[05:47:04] Польские Пряники froze Redoket
+[05:47:06] Redoket: отпусти!
+[05:47:11] Польские Пряники: ПОСЛЕДНИЕ ВОРДС
+[05:47:21] RusLanConnection unfroze Redoket
+[05:47:24] Польские Пряники: УЭЙ
+[05:47:29] Польские Пряники: НЕ ТАКИЕ
+[05:47:38] Redoket: БОГИ БЛОГОСЛОВЛЯЮТ МЕНЯ
+[05:47:40] RusLanConnection teleported to FRED01
+[05:47:41] RusLanConnection teleported to Redoket
+[05:47:43] RusLanConnection teleported to Soldier_S.C.A.F
+[05:47:43] RusLanConnection teleported to VOVIKNEM
+[05:47:44] RusLanConnection teleported to klinskoe za 200
+[05:47:45] RusLanConnection teleported to o((>ω< ))o
+[05:47:46] RusLanConnection teleported to Польские Пряники
+[05:47:50] Redoket: Я ВЫБРАН БОГАМИ
+[05:47:52] Польские Пряники: ПОЧЕСТЬ
+[05:47:59] Redoket: ЧТОБЫ ВЕРШИТЬ СУДЬБУ ЭТОГО МИРА
+[05:48:11] Soldier_S.C.A.F to admins: руслан хотел задать вопрос
+[05:48:16] Soldier_S.C.A.F to admins: когда обнова
+[05:48:24] RusLanConnection teleported to Soldier_S.C.A.F
+[05:48:33] Redoket: ЗДРАСТВУЙТЕ СЫНОВЬЯ МОИ
+[05:48:34] Soldier_S.C.A.F: ахринеть
+[05:48:35] Польские Пряники: ХАЙП
+[05:48:48] Redoket: Я ИЗБРАН БОГОМ ЧТОБЫ 
+[05:48:55] Redoket: СДЕЛАТЬ ЭТОТ МИР
+[05:48:56] Польские Пряники: ПОЧЕСТЬ
+[05:48:59] Redoket: СНОВА ВЕЛИКИМ
+[05:49:00] Польские Пряники: ПОЧЕСТЬ ДРУГ
+[05:49:03] Redoket: ЕСЛИ ВЫ
+[05:49:11] Redoket: МНЕ ПОМОЖИТЕ
+[05:49:18] Soldier_S.C.A.F: с чем!
+[05:49:30] Redoket: С ВЕРШЕНИЕМ СУДЬБЫ ЧЕЛОВЕЧЕСКОЙ
+[05:49:38] Redoket: Я
+[05:49:46] Redoket: ПОКАЖУ ВАМ
+[05:50:04] Польские Пряники: НИКАКИХ РАКОВИН НА ТЕРРИТОРИИ ЖКОРПА
+[05:50:20] Польские Пряники: Я
+[05:50:25] Польские Пряники: НЕНАВИЖУ РАКОВИНЫ!
+[05:50:29] Польские Пряники: Я КРИЧУ НА РАКОВИНЫ
+[05:50:35] Redoket: НОВЫЙ МИР НЕ ОБЯЗАН ИМЕТЬ РАКОВИНЫ
+[05:50:39] RusLanConnection teleported to Redoket
+[05:50:40] Soldier_S.C.A.F: м-да жаль турелям похуй на броню
+[05:50:44] Польские Пряники: ЭТО КРУТО
+[05:50:45] Польские Пряники: ДАВАЙТЕ
+[05:50:47] Redoket: ТАК ЧТО 
+[05:50:48] Польские Пряники: ПОДЕРЖИМ
+[05:50:49] Польские Пряники: ЕГО
+[05:51:01] Redoket: НОВЫЙ МИР МОЖЕТ ОБОЙТИСЬ БЕЗ НИХ
+[05:51:06] Redoket: Я ХОЧУ
+[05:51:08] Redoket: ВЫСТУПИТЬ 
+[05:51:20] Redoket: МЕРЕД РОДОМ ЧЕЛОВЕЧЕСКИМ
+[05:51:31] Redoket: ДАЙТЕ МНЕ 
+[05:51:34] Redoket: СВЯЗЬ
+[05:51:43] Redoket: ОТЛИЧНО
+[05:52:02] Redoket: СТРАННЫЙ ИНСТРУМЕНТ
+[05:52:09] Польские Пряники: НО ЗАТО ДЕЙСТВЕННЫЙ
+[05:52:19] Redoket: Я ВИЖУ В ЭТОМ ВСЁМ
+[05:52:23] Redoket: ОГРОМНЫЙ ПУТЬ
+[05:52:30] Redoket: РАЗВИТИЯ РОДА
+[05:52:44] Redoket: ТО НА ЧТО МЫ СПОСОБНЫ
+[05:52:55] Польские Пряники: ДАННАЯ ВЕЩЬ МОЖЕТ ВАМ ПОЗВОЛИТЬ ВЫТВОРЯТЬ ТАКОЕ О ЧЕМ ВЫ ДАЖЕ НЕ ДУМА
+[05:52:59] Польские Пряники: НЕ ДУМАЛИ
+[05:53:27] Польские Пряники: ОСТАВЛЮ ВАС НАЕДИНЕ С ДАННОЙ ВЕЩЬЮ
+[05:53:42] Soldier_S.C.A.F: пиздец
+[05:53:48] Польские Пряники: СОМНИТЕЛЬНЫЙ ЗВУК
+[05:54:02] Soldier_S.C.A.F: там перестрелка!
+[05:54:10] Польские Пряники: ТАМ НИКОГО НЕТ
+[05:54:15] Польские Пряники: У ТЕБЯ ГАЛЮЦИНАЦИИ
+[05:54:16] RusLanConnection teleported to Soldier_S.C.A.F
+[05:54:17] Soldier_S.C.A.F: не там!
+[05:54:21] Soldier_S.C.A.F: в долине!
+[05:54:44] Польские Пряники: НИЧЕГО НЕТ
+[05:55:11] Польские Пряники: РАЗМЫШЛЯЕТ О ВЕЛИКОМ
+[05:55:14] Client "finik" connected.
+[05:55:46] Soldier_S.C.A.F: так
+[05:55:50] Soldier_S.C.A.F: что прикажите?
+[05:56:45] Польские Пряники: РЕДОКЕТ РАЗМЫШЛЯЕТ О ВЕЛИКОМ
+[05:57:01] Польские Пряники: НЕТ ДРУГ
+[05:57:26] Польские Пряники: ЕГО ИДЕИ ВСЕГДА БУДУТ АКТУАЛЬНЫ
+[05:57:40] RusLanConnection teleported to VOVIKNEM
+[05:58:45] Soldier_S.C.A.F to admins: я щяс по секрету задам вопрос
+[05:58:56] Польские Пряники to admins: ПО БЛАТУ
+[05:58:58] Soldier_S.C.A.F to admins: ЗВ техника будет...?
+[05:59:24] Client "finik" spawned in server <STEAM_0:1:876581716> (took 250 seconds).
+[06:00:01] Dropped "finik" from server<STEAM_0:1:876581716>
+[06:00:01] finik suicided!
+[06:00:02] Client "finik" connected.
+[06:00:04] RusLanConnection teleported to o((>ω< ))o
+[06:00:19] RusLanConnection teleported to o((>ω< ))o
+[06:00:35] Client "finik" spawned in server <STEAM_0:1:876581716> (took 33 seconds).
+[06:00:40] RusLanConnection brought VOVIKNEM
+[06:01:16] RusLanConnection uncloaked Themself
+[06:01:51] Redoket: ОНО
+[06:02:06] RusLanConnection cloaked Themself by amount 0
+[06:02:11] Redoket: !MENU
+[06:02:19] Польские Пряники: ХАЙП
+[06:02:30] Польские Пряники: НУЖНО ПРОВЕРИТЬ ЧЕЛОВЕКОВ
+[06:02:32] Польские Пряники: И ИХ СТОЯНКИ
+[06:02:33] Redoket: НОВЫЙ ДЕНЬ
+[06:02:44] klinskoe za 200 suicided!
+[06:02:44] RusLanConnection slayed klinskoe za 200
+[06:02:45] Redoket: ВЫ ДОЛЖНЫ СДЕЛАТЬ МЕНЯ\
+[06:02:59] Redoket: НАСТОЯЩИМ ИЗБРАННЫМ
+[06:03:07] Redoket: ЧТО
+[06:03:07] Польские Пряники: ПОЧЕМУ ЖЕ
+[06:03:08] Soldier_S.C.A.F: ПИЗДА
+[06:03:17] Польские Пряники: УЖАСНО
+[06:03:17] Soldier_S.C.A.F: а я вертолет хотел сварганить!
+[06:03:39] Soldier_S.C.A.F: ПОЕХАЛИ
+[06:04:16] Польские Пряники: Я ГРАНАТОМЕТЧИК
+[06:04:18] Soldier_S.C.A.F: щя микро подключу
+[06:04:19] Польские Пряники: НО АРТЕЛЛЕРИЙСКИЙ
+[06:04:29] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[06:04:29] Польские Пряники suicided!
+[06:04:39] Redoket: О МОЙ БОГ
+[06:04:58] Client "Польские Пряники" connected.
+[06:05:03] RusLanConnection teleported to o((>ω< ))o
+[06:05:11] klinskoe za 200 killed FRED01 using lvs_wheeldrive_dodtiger
+[06:05:24] Client "Mr_Pyro" connected.
+[06:05:30] Redoket: ОНИ УВИДЯТ
+[06:05:38] FRED01 was killed by ent_jack_gmod_ezsentry
+[06:05:43] Redoket: ОНИ ДОЛЖНЫ ВИДЕТЬ ЛИЦО БОГА
+[06:05:49] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 51 seconds).
+[06:05:56] klinskoe za 200: СДАВАЙТЕСЬ!
+[06:06:07] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 43 seconds).
+[06:06:14] Soldier_S.C.A.F: СДАВАЙТЕСЬ
+[06:06:15] Redoket: ИСУСЕ
+[06:06:20] o((>ω< ))o killed Польские Пряники using lvs_wheeldrive_dodsherman
+[06:06:21] klinskoe za 200: пофиг
+[06:06:30] Польские Пряники: ТАНК
+[06:06:37] Mr_Pyro cloaked Themself by amount 0
+[06:06:37] Mr_Pyro cloaked Themself by amount 0
+[06:06:38] Mr_Pyro cloaked Themself by amount 0
+[06:06:40] Польские Пряники: И ПТСР ЗАБАГАЛСЯ С БУЛЛЕТ ФИЗИКС
+[06:06:42] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[06:06:42] Польские Пряники suicided!
+[06:06:43] Client "Польские Пряники" connected.
+[06:06:56] Redoket: БОЖЕ ПРАВЫЙ ДАЙ СИЛ
+[06:06:58] Mr_Pyro cloaked Themself by amount 0
+[06:07:11] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 28 seconds).
+[06:07:12] Redoket: БОГ ДАЛ\
+[06:07:24] (csay from RusLanConnection) :/
+[06:07:31] klinskoe za 200: АХАХ НА СВОЕЙЖЕ МИНЕ 
+[06:07:36] Redoket: У ВАС ЕСТЬ ШАНС
+[06:07:38] o((>ω< ))o killed Redoket using lvs_wheeldrive_dodsherman
+[06:07:38] Польские Пряники to admins: ВАТАФАК ГДЕ ВСЕ
+[06:07:40] Redoket: ПРИНЯТ ВЕРУК
+[06:07:47] o((>ω< ))o was killed by ent_jack_gmod_ezsentry
+[06:08:02] klinskoe za 200: ПЛЫВКОНЕЦ
+[06:08:07] klinskoe za 200: надо чинилку
+[06:08:12] RusLanConnection teleported to o((>ω< ))o
+[06:08:18] Redoket: Я УМЕР
+[06:08:22] klinskoe za 200: нука
+[06:08:30] Redoket: НО ОТЕЦ ВОСКРЕСИЛ МЕНЯ
+[06:09:32] RusLanConnection uncloaked Themself
+[06:09:48] o((>ω< ))o killed Soldier_S.C.A.F using rust_boltrifle
+[06:10:11] Польские Пряники: ГДЕ ВРАГИ
+[06:10:22] Dropped "FRED01" from server<STEAM_0:1:767661328>
+[06:10:22] FRED01 suicided!
+[06:11:16] Redoket: БОКАЛЫ
+[06:11:36] Польские Пряники: ЧЕРТ
+[06:11:39] Польские Пряники: А КАК МНЕ СВЯЗАТСЯ
+[06:11:42] Польские Пряники: ЕСЛИ У МЕНЯ НИЧЕГО НЕТ
+[06:11:53] Redoket: ДЫРА СВЯЩЕННАЯ
+[06:12:11] RusLanConnection banned o((>ω< ))o permanently (Foul language)
+[06:12:11] Dropped "o((>ω< ))o" from server<STEAM_0:1:796223626>
+[06:12:11] o((>ω< ))o suicided!
+[06:12:16] Польские Пряники to admins: ХАЙП
+[06:12:24] Redoket: КАРА БОЖЬЯ 
+[06:12:42] RusLanConnection teleported to VOVIKNEM
+[06:12:59] Redoket: СВЯЩЕНАЯ КОРОБКА
+[06:13:05] Soldier_S.C.A.F to admins: я еще раз извиняюсь за то что там паровые генераторы были удивление �
+[06:13:09] Redoket: СВЯЩЕННЫЙ ЭЭЭ
+[06:13:11] Client "griboed" connected.
+[06:13:13] Soldier_S.C.A.F to admins: взяло верх*
+[06:13:16] RusLanConnection teleported to Soldier_S.C.A.F
+[06:13:19] Redoket: КРАСНЫЙ КОРОБКА
+[06:13:48] Redoket: НАМ СЛОМАЛИ ГЕНЕРАТОР 
+[06:13:51] Redoket: ЧЕРТИ
+[06:14:05] RusLanConnection uncloaked Soldier_S.C.A.F
+[06:14:06] RusLanConnection cloaked Themself by amount 0
+[06:14:10] Redoket: Я ПОШЕЛ В ПОХОД
+[06:14:30] finik: здрасте
+[06:14:38] (csay from RusLanConnection) Ну раз все закончилось...
+[06:14:43] Soldier_S.C.A.F: к танку не подхшдить!
+[06:14:46] Redoket: ВСЕ ДОЛЖНЫ ЗНАТЬ О ВЛАСТИ НАД ВСЕМ ЖИВИМ И НЕ ЖЕВЫМ
+[06:14:50] (csay from RusLanConnection) Надо закончить все до конца
+[06:14:51] Redoket: И СЕЙЧАС
+[06:15:09] Soldier_S.C.A.F: стой!
+[06:15:15] Soldier_S.C.A.F: к танку не подходить!
+[06:15:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[06:15:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[06:16:13] finik: мины
+[06:17:20] finik was killed by ent_jack_gmod_ezsentry
+[06:17:24] VOVIKNEM was killed by ent_jack_gmod_ezsentry
+[06:17:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[06:17:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[06:17:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[06:17:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[06:17:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[06:17:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[06:17:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[06:17:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[06:17:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[06:17:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[06:17:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[06:17:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[06:17:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[06:17:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[06:17:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[06:17:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[06:17:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[06:17:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[06:17:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[06:17:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[06:17:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[06:17:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[06:17:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[06:17:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[06:17:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[06:17:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpropellant
+[06:18:10] finik was killed by ent_jack_gmod_ezsentry
+[06:18:13] Mr_Pyro: окак
+[06:18:43] Mr_Pyro cloaked Themself by amount 0
+[06:18:54] Mr_Pyro cloaked Themself by amount 0
+[06:19:15] RusLanConnection cloaked Themself by amount 0
+[06:19:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[06:20:32] Redoket: ЕИ
+[06:20:38] Redoket suicided!
+[06:20:48] RusLanConnection killed Redoket using ent_jack_gmod_ezfalloutparticle
+[06:20:53] VOVIKNEM was killed by entityflame
+[06:20:55] Redoket: ЭТО КОНЕЦ
+[06:21:00] RusLanConnection killed Redoket using ent_jack_gmod_ezfalloutparticle
+[06:21:02] Польские Пряники was killed by entityflame
+[06:21:10] Redoket: МЫ ВСЕ ОКАЗАЛИСЬ 
+[06:21:17] RusLanConnection killed Redoket
+[06:21:25] RusLanConnection killed RusLanConnection
+[06:21:42] Redoket: ДА ОЧИСТИТ ОТЕЦ
+[06:21:44] Redoket: МОЮ ДУШУ
+[06:21:46] Client "vasiliy karat" connected.
+[06:21:49] Soldier_S.C.A.F: ЕГО НЕТУ!
+[06:21:53] klinskoe za 200: ГОВНО
+[06:21:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[06:22:24] finik killed Redoket using lvs_wheeldrive_dodwillyjeep
+[06:22:24] finik killed VOVIKNEM using lvs_wheeldrive_dodwillyjeep
+[06:22:29] Redoket: ЭТОМУ МИРУ ПРИШЁЛ КОНЕЦ
+[06:22:38] Польские Пряники suicided!
+[06:22:38] Redoket suicided!
+[06:22:38] finik suicided!
+[06:22:40] Mr_Pyro set the hp for Themself to 100
+[06:22:41] Mr_Pyro set the hp for Themself to 100
+[06:22:41] Mr_Pyro set the hp for Themself to 100
+[06:22:41] Mr_Pyro set the hp for Themself to 100
+[06:22:42] Mr_Pyro set the hp for Themself to 100
+[06:22:42] Mr_Pyro set the hp for Themself to 100
+[06:22:46] Mr_Pyro set the hp for Themself to 100
+[06:22:47] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 61 seconds).
+[06:22:48] RusLanConnection suicided!
+[06:22:55] Mr_Pyro set the hp for Themself to 100
+[06:22:59] Soldier_S.C.A.F: ЧОРТ ПОДЕРИ
+[06:23:04] Mr_Pyro set the hp for Themself to 100
+[06:23:06] Soldier_S.C.A.F: УХОДИМ ОТСЮДА
+[06:23:09] Mr_Pyro cloaked Themself by amount 0
+[06:23:16] Redoket: !MENU
+[06:23:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[06:23:35] vasiliy karat to admins: ну че тама
+[06:23:39] Soldier_S.C.A.F: РАКЕТА
+[06:23:42] Redoket to admins: ДОЛЖЕН ПОЯВИТСЯ БОГ ЧТО НАКАЖЕТ 
+[06:23:47] RusLanConnection to admins: я сервер перезапускать буду
+[06:23:51] RusLanConnection to admins: точнее выключать
+[06:24:00] klinskoe za 200 suicided!
+[06:24:00] vasiliy karat suicided!
+[06:24:00] Польские Пряники suicided!
+[06:24:00] Soldier_S.C.A.F suicided!
+[06:24:09] Mr_Pyro set the hp for Themself to 100
+[06:24:34] Redoket: СУДНЫЙ ДЕНЬ НАСТАЛ
+[06:24:35] finik killed Redoket using tfa_doim1919
+[06:24:55] Client "богдан." connected.

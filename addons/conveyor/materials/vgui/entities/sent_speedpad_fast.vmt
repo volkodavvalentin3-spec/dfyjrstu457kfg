@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/sent_speedpad_fast"
+	"$translucent" 1
+}

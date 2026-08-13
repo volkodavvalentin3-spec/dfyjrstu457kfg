@@ -1,0 +1,1133 @@
+[20:50:31] New map: gm_micronations
+[20:51:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_percutio
+[20:51:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_freeman
+[20:51:28] Client "Chupacabr" connected.
+[20:51:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[20:55:19] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammocrate
+[20:55:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_vehicle_air_refil
+[20:55:32] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_compressor
+[20:55:45] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_jerrycan_diesel
+[20:56:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_transmission_automatic
+[20:56:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[20:56:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[20:57:08] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 340 seconds).
+[20:57:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_ba64
+[20:57:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_amc_p16
+[20:58:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_wurfrahmen
+[20:58:13] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_infantry
+[20:58:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketpod
+[20:58:51] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[20:58:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_jerrycan_diesel
+[20:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[20:59:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:59:13] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_trailer_75mle1897
+[20:59:33] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:59:34] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_wurfrahmen
+[20:59:59] RusLanConnection killed Chupacabr using lvs_bomb
+[21:00:36] RusLanConnection teleported Chupacabr
+[21:02:12] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezweapon_ssr
+[21:02:20] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezpickaxe
+[21:03:32] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[21:03:47] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezapple
+[21:04:17] RusLanConnection: jmod_ez_inv 
+[21:04:56] Client "BriceMashiro" connected.
+[21:05:57] Chupacabr suicided!
+[21:20:53] Client "BriceMashiro" spawned in server <STEAM_0:0:590186964> (took 957 seconds).
+[21:22:16] Client "василий каратаев" connected.
+[21:24:48] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_helicopter_combine
+[21:25:00] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 164 seconds).
+[21:27:51] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[21:29:28] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_helicopter_combinegunship
+[21:32:08] Chupacabr<STEAM_0:1:63230461> spawned model models/props_wasteland/cargo_container01.mdl
+[21:32:09] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezweapon_bas
+[21:32:41] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol
+[21:32:43] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol
+[21:32:44] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol
+[21:33:54] Client "василий каратаев" connected.
+[21:34:09] BriceMashiro<STEAM_0:0:590186964> spawned NPC npc_metropolice
+[21:34:18] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 24 seconds).
+[21:34:39] василий каратаев: УРА ТАНЦЫ С БУБНОМ ПОМОГЛИ
+[21:35:01] василий каратаев: КАК ИГРАТ
+[21:35:09] василий каратаев: ЧО НАДА
+[21:35:14] RusLanConnection: jmod_ez_inv 
+[21:36:25] BriceMashiro: нихуя ОРУЖЬЕ КЛИНИТ
+[21:36:26] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[21:36:29] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_trailer_wz36
+[21:36:34] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[21:36:35] BriceMashiro: ТАКТИКАЛ
+[21:36:46] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[21:37:11] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_smg1_large
+[21:37:12] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol_large
+[21:37:13] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol_large
+[21:37:13] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol_large
+[21:37:15] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_trailer_flak
+[21:37:32] василий каратаев killed BriceMashiro using lvs_trailer_flak
+[21:37:38] BriceMashiro: ну василий ты конечно насраааал
+[21:37:46] BriceMashiro: без чести
+[21:37:50] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider
+[21:38:09] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol_large
+[21:38:09] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol_large
+[21:38:09] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol_large
+[21:38:37] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_pz1command
+[21:39:03] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_pz3ro_l
+[21:39:07] василий каратаев killed BriceMashiro using lvs_wheeldrive_pz3ro_l
+[21:39:12] василий каратаев: БУГА
+[21:39:19] BriceMashiro: ну руслан насрал
+[21:39:43] василий каратаев killed Chupacabr using lvs_wheeldrive_pz3ro_l
+[21:39:49] василий каратаев killed BriceMashiro using lvs_wheeldrive_pz3ro_l
+[21:40:12] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[21:40:13] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[21:40:13] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[21:40:13] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[21:40:14] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[21:40:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[21:40:27] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezmunitions
+[21:40:58] RusLanConnection killed василий каратаев using tacrp_proj_stinger
+[21:41:13] василий каратаев: вам конец
+[21:41:17] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_pz1bison
+[21:41:22] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[21:41:22] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[21:41:22] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[21:41:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:41:37] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[21:41:37] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[21:41:38] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[21:41:44] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezammo
+[21:42:47] BriceMashiro: да норм
+[21:42:56] BriceMashiro: в подгрузках очень долго
+[21:42:57] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_bm31
+[21:42:59] BriceMashiro: когда что то спавню
+[21:43:00] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_bm31
+[21:43:11] BriceMashiro: бля а самолет
+[21:43:14] BriceMashiro: нельзя заспавнить?
+[21:43:18] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_helicopter_combinegunship
+[21:43:20] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_helicopter_combinegunship
+[21:43:35] василий каратаев killed Chupacabr using lvs_bomb
+[21:44:11] василий каратаев killed Chupacabr using lvs_wheeldrive_bm31
+[21:44:18] василий каратаев: МЫ ПРОДАЛИ ТВОЮ МАШИНУ 
+[21:44:28] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[21:44:39] Server is shutting down/changing levels.
+
+
+
+[21:44:54] New map: gm_micronations
+[21:45:28] Client "василий каратаев" connected.
+[21:45:52] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 24 seconds).
+[21:46:14] Client "Chupacabr" connected.
+[21:46:15] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowderkeg
+[21:46:20] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[21:46:26] RusLanConnection<STEAM_0:0:238810681> spawned sent armorstand
+[21:46:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprimitivebench
+[21:46:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[21:46:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[21:46:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[21:46:55] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 41 seconds).
+[21:47:04] RusLanConnection brought Chupacabr
+[21:47:10] Client "BriceMashiro" connected.
+[21:47:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:47:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:47:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:47:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:47:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:47:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:47:21] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[21:47:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlead
+[21:47:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlead
+[21:47:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlead
+[21:47:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlead
+[21:47:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[21:47:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[21:47:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[21:47:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[21:47:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[21:47:29] Chupacabr killed василий каратаев using player
+[21:47:47] RusLanConnection<STEAM_0:0:238810681> spawned sent sent_conveyor
+[21:47:58] RusLanConnection<STEAM_0:0:238810681> spawned sent sent_conveyor
+[21:48:00] RusLanConnection<STEAM_0:0:238810681> spawned sent sent_conveyor
+[21:48:11] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztimebomb
+[21:48:34] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfirework
+[21:49:02] василий каратаев: ДИБИЛЬНО
+[21:49:04] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_gmod_ezarmor_jetmodule
+[21:49:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfirework
+[21:49:09] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[21:49:13] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_gmod_ezarmor_hev
+[21:49:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezshippingcontainer
+[21:49:34] RusLanConnection<STEAM_0:0:238810681> spawned sent sent_conveyor
+[21:49:38] RusLanConnection<STEAM_0:0:238810681> spawned sent sent_conveyor
+[21:49:50] василий каратаев: АМЕРИКАН НЕЗАВИСИМОСТЬ 4 4 4
+[21:50:05] василий каратаев: А ЕСЛИ
+[21:50:08] василий каратаев: ШАХТУ
+[21:50:14] Chupacabr suicided!
+[21:50:24] RusLanConnection brought Chupacabr
+[21:50:26] RusLanConnection brought Chupacabr
+[21:50:47] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaugerdrill
+[21:50:51] Client "BriceMashiro" spawned in server <STEAM_0:0:590186964> (took 221 seconds).
+[21:51:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgroundscanner
+[21:51:01] василий каратаев: ДРИЛ ДРИЛ
+[21:51:04] василий каратаев: ШАХТУ
+[21:51:23] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezoil_rig
+[21:51:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_jmod_ezweapon_gr9
+[21:51:34] Chupacabr<STEAM_0:1:63230461> spawned sent ent_fumo_gmod_ezutilitycrate
+[21:51:42] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwinch
+[21:51:49] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezglass
+[21:51:50] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgold
+[21:51:55] василий каратаев: ЕЕЕ ВАРОТА
+[21:52:04] Chupacabr<STEAM_0:1:63230461> spawned sent ent_fumo_gmod_ezutilitycrate
+[21:52:19] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezaluminum
+[21:52:19] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezcopper
+[21:52:23] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[21:52:44] BriceMashiro: да
+[21:53:16] BriceMashiro: ладно
+[21:53:17] Chupacabr<STEAM_0:1:63230461> spawned sent ent_fumo_gmod_ezinductionfurnace
+[21:53:20] василий каратаев: УКРАЛ ВАШ ЛУТ
+[21:53:21] BriceMashiro: построю свою базу
+[21:53:22] BriceMashiro: ну
+[21:53:24] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[21:53:24] BriceMashiro: попробую...
+[21:53:31] BriceMashiro: mother base
+[21:53:37] василий каратаев: ПАНИМАЕШЬ
+[21:53:42] василий каратаев: ЭТО КРУТЫЕ АУТЕНТИЧНЫ ВАРОТА
+[21:53:55] BriceMashiro: РУСЛАН вот я лох только только зашел
+[21:54:02] BriceMashiro: че я сперва должен делать
+[21:54:12] BriceMashiro: не учитывая что у меня q мену...
+[21:54:17] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezflashbang
+[21:54:21] BriceMashiro: будь здоров
+[21:54:32] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezweapon_bas
+[21:54:44] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezflashbang
+[21:54:45] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_gmod_eztelenade
+[21:54:55] василий каратаев: ВАТАФАК
+[21:55:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_eztelenade
+[21:55:07] Chupacabr suicided!
+[21:55:11] RusLanConnection brought BriceMashiro,Chupacabr,василий каратаев
+[21:55:17] BriceMashiro: к тебе летел
+[21:55:19] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezration
+[21:55:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:55:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:55:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:55:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[21:55:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[21:55:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezration
+[21:55:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezration
+[21:55:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_eztelenade
+[21:55:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_eztelenade
+[21:55:40] BriceMashiro: капец
+[21:55:46] BriceMashiro suicided!
+[21:55:59] василий каратаев: БАЛИН ЭПИК БАЗА НА ВАДЕ
+[21:55:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezcombineradio
+[21:56:03] BriceMashiro: как менюшка костюма открыть?
+[21:56:03] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_cratepack
+[21:56:06] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_gmod_ezpowertools
+[21:56:09] BriceMashiro: атачмета персонажа
+[21:56:15] BriceMashiro<STEAM_0:0:590186964> spawned sent armorstand
+[21:56:37] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezherocket
+[21:56:42] Chupacabr<STEAM_0:1:63230461> spawned model models/props_lab/blastdoor001b.mdl
+[21:57:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaluminum
+[21:57:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[21:57:09] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezmelmet
+[21:57:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[21:57:15] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezmelmet
+[21:57:19] RusLanConnection killed василий каратаев using player
+[21:57:40] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezfirenade
+[21:57:40] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_cratepack
+[21:57:41] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezherocket
+[21:57:47] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezmelmet
+[21:57:54] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezprojector
+[21:58:01] василий каратаев<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezfluidbarrel
+[21:58:07] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol
+[21:58:12] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[21:58:21] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_gmod_ezpounder
+[21:58:29] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[21:58:37] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezdetpack
+[21:58:44] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezdynamite
+[21:58:56] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezclusterminebomb
+[21:59:13] василий каратаев<STEAM_0:0:814052183> spawned sent ent_aboot_jmod_ezweapon_annabelle
+[21:59:21] василий каратаев<STEAM_0:0:814052183> spawned sent ent_aboot_jmod_ezweapon_mp5k
+[21:59:21] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_jmod_ezweapon_alyxgun
+[21:59:27] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[21:59:30] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[21:59:32] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezpickaxe
+[21:59:36] BriceMashiro suicided!
+[21:59:44] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezfirework
+[21:59:52] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_gmod_ezpounder
+[21:59:53] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezfirework
+[21:59:54] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate_uni
+[21:59:54] Chupacabr suicided!
+[22:00:24] BriceMashiro<STEAM_0:0:590186964> spawned sent weapon_striderbuster
+[22:00:25] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol
+[22:00:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[22:00:35] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_gmod_ezpounder
+[22:00:52] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezpickaxe
+[22:01:48] BriceMashiro: как детонировать с4?
+[22:01:54] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezsfg
+[22:02:11] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezfluid_bottler
+[22:02:34] BriceMashiro: nfr
+[22:02:36] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezprimitivebench
+[22:02:36] BriceMashiro: вроде сработало
+[22:02:42] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eztoolbox
+[22:02:48] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezfirework
+[22:02:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketpod
+[22:02:56] BriceMashiro: J
+[22:02:58] BriceMashiro: НИХУЯ
+[22:03:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[22:03:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezheatrocket
+[22:03:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezheatrocket
+[22:03:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezheatrocket
+[22:03:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezheatrocket
+[22:03:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezheatrocket
+[22:03:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezheatrocket
+[22:03:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezheatrocket
+[22:03:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezheatrocket
+[22:03:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezheatrocket
+[22:03:19] Chupacabr<STEAM_0:1:63230461> spawned sent ent_fumo_gmod_ezfluidbarrel
+[22:03:23] василий каратаев: КРАФТИНГ ВОРКБЕНЧ И ВОРКШОП
+[22:03:30] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfabricator
+[22:03:42] Chupacabr<STEAM_0:1:63230461> spawned sent ent_fumo_gmod_compass
+[22:03:51] BriceMashiro: если тебе было весело
+[22:03:52] BriceMashiro: да
+[22:03:55] BriceMashiro suicided!
+[22:03:59] Chupacabr<STEAM_0:1:63230461> spawned sent ent_fumo_gmod_ezprojector
+[22:03:59] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcornkernals
+[22:04:02] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcornkernals
+[22:04:04] Chupacabr<STEAM_0:1:63230461> spawned sent ent_fumo_gmod_ezcampfire
+[22:04:12] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcornkernals
+[22:04:15] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcornkernals
+[22:04:17] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcornkernals
+[22:04:19] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcornkernals
+[22:04:22] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_trailer_zis3
+[22:04:22] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcornkernals
+[22:04:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezleadore
+[22:04:37] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_trailer_zis3
+[22:04:39] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_trailer_zis3
+[22:04:56] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsprinkler
+[22:05:07] Chupacabr<STEAM_0:1:63230461> spawned sent dz_case_pistol
+[22:05:08] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_trailer_pak40
+[22:05:12] василий каратаев: КАК НАСОС ВОДЫ СДЕЛАТ?
+[22:05:37] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_helicopter_combinegunship
+[22:06:12] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_flak
+[22:06:29] RusLanConnection was killed by lvs_helicopter_combinegunship
+[22:06:29] BriceMashiro: аа
+[22:06:33] BriceMashiro: как менять оружье я не понял
+[22:06:36] BriceMashiro: у него же 2 пушки было
+[22:06:39] RusLanConnection teleported to BriceMashiro
+[22:06:46] BriceMashiro: ну хззззз
+[22:06:53] BriceMashiro: мне мен оф вар не нравится
+[22:06:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:07:09] BriceMashiro: фт?
+[22:07:11] BriceMashiro: фт фт фт...
+[22:07:33] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:07:35] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_wheeldrive_dodtiger
+[22:07:41] BriceMashiro: хеви?
+[22:07:50] BriceMashiro: а я в транспортах
+[22:08:01] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_renaultft_m
+[22:08:06] BriceMashiro: уничтожитель танков
+[22:09:15] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[22:09:18] Chupacabr<STEAM_0:1:63230461> spawned sent dz_case_respawn
+[22:09:37] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[22:09:38] Chupacabr<STEAM_0:1:63230461> spawned sent dz_pickup_exojump
+[22:09:40] BriceMashiro: БЛЯТЬ ГЛУШИТСЯ
+[22:09:49] BriceMashiro: ДА
+[22:09:54] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[22:10:23] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_wheeldrive_uc_ptrs
+[22:10:41] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_percutio
+[22:12:27] RusLanConnection killed BriceMashiro using lvs_renaultft_m
+[22:12:36] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbucket
+[22:12:40] BriceMashiro: пиздец перед тем ка квзорваться
+[22:12:46] BriceMashiro: у меня 20 секунд пралаг был
+[22:12:55] BriceMashiro: я даже и не понял что здох
+[22:12:59] RusLanConnection killed Chupacabr using lvs_renaultft_m
+[22:13:07] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_gravekeeper
+[22:13:11] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_gravekeeper
+[22:13:15] BriceMashiro: танк против танка...
+[22:13:19] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_gravekeeper
+[22:13:20] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_highlander
+[22:13:21] RusLanConnection brought BriceMashiro,Chupacabr,василий каратаев
+[22:13:21] BriceMashiro: то что было это легкий...
+[22:13:25] RusLanConnection brought BriceMashiro,Chupacabr,василий каратаев
+[22:13:25] RusLanConnection brought BriceMashiro,Chupacabr,василий каратаев
+[22:13:25] RusLanConnection brought BriceMashiro,Chupacabr,василий каратаев
+[22:13:26] RusLanConnection brought BriceMashiro,Chupacabr,василий каратаев
+[22:13:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m_rp
+[22:13:30] BriceMashiro: а такн это прям танк танк как я понимаю
+[22:13:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m_rp
+[22:13:38] BriceMashiro: БЛЯЯЯЯЯ
+[22:13:48] василий каратаев: ОН ЗАКРЫВАЕТСЯ В ТАНКЕ 
+[22:13:58] RusLanConnection brought василий каратаев
+[22:14:11] BriceMashiro: щас погоди
+[22:14:34] BriceMashiro<STEAM_0:0:590186964> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[22:14:41] BriceMashiro: ладно ладно
+[22:14:44] BriceMashiro: ездить
+[22:14:51] василий каратаев: ТЫ ХОЧЕШЬ СТРЕЛЯТЬ ИЛИ ПОБЕДИТЬ
+[22:16:06] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[22:16:26] BriceMashiro: хайн граунд
+[22:16:34] BriceMashiro: БЛЯЯЯ
+[22:16:36] BriceMashiro: БУКСУЕТ
+[22:16:45] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_compressor
+[22:16:56] RusLanConnection killed василий каратаев using lvs_renaultft_m_rp
+[22:17:01] BriceMashiro: НУ ПОЗОР
+[22:17:03] BriceMashiro: бляяя
+[22:17:07] BriceMashiro: НА ТОРМОЗ НЕ УСПЕЛ
+[22:17:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_f
+[22:17:23] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_renaultft_m_rp
+[22:17:24] BriceMashiro: позор
+[22:17:27] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_gauge
+[22:17:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:17:33] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m_rp
+[22:17:36] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_compressor
+[22:17:42] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_renaultft_f_rp
+[22:17:44] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_transmission_automatic
+[22:17:47] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_turbo
+[22:17:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_t34
+[22:17:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_t34
+[22:18:10] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz4f2
+[22:18:45] BriceMashiro: блин спереди надо
+[22:18:47] BriceMashiro: не как тимчан
+[22:19:03] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_compressor
+[22:19:09] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_turbo
+[22:19:10] BriceMashiro: ОООООО
+[22:19:11] BriceMashiro: ЕБА
+[22:19:14] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_transmission_automatic
+[22:19:15] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_gauge
+[22:19:51] BriceMashiro: ну василий насрал
+[22:19:59] BriceMashiro: я его не просил
+[22:20:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz4f2
+[22:20:01] BriceMashiro: а он ставил
+[22:20:08] василий каратаев: НУ ВАЩЕ
+[22:20:11] RusLanConnection killed василий каратаев using lvs_wheeldrive_pz4f2
+[22:20:25] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_wheeldrive_t34
+[22:20:43] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodwillyjeep_mg
+[22:21:08] BriceMashiro: ВАСИЛИЙ БЛЯТЬ
+[22:21:17] BriceMashiro: ЧЕ ПУЛЕМЕИТ
+[22:21:18] BriceMashiro: А КАК
+[22:21:30] BriceMashiro: МЫШКА??
+[22:21:43] RusLanConnection killed василий каратаев using lvs_wheeldrive_pz4f2
+[22:21:51] RusLanConnection killed BriceMashiro using lvs_wheeldrive_pz4f2
+[22:21:55] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_fiat_508
+[22:22:06] BriceMashiro: ну гг кароч
+[22:22:12] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gazm1
+[22:22:20] BriceMashiro: с танками берсерк
+[22:22:26] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_t1
+[22:22:31] RusLanConnection killed василий каратаев using lvs_wheeldrive_pz4f2
+[22:22:36] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_sdkfz251_wurfrahmen
+[22:23:14] BriceMashiro: самолёты в черном списке как я понял
+[22:23:16] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_m10
+[22:23:26] василий каратаев killed RusLanConnection using lvs_wheeldrive_m10
+[22:23:34] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_wheeldrive_pz1bison
+[22:23:47] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[22:24:11] RusLanConnection killed василий каратаев using lvs_wheeldrive_dodtiger
+[22:24:25] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_uc_ptrs
+[22:24:47] RusLanConnection killed василий каратаев using lvs_wheeldrive_dodtiger
+[22:24:59] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_bm31
+[22:25:10] RusLanConnection killed BriceMashiro using lvs_wheeldrive_dodtiger
+[22:25:22] BriceMashiro: я не ебал как отменить выстрел
+[22:25:31] RusLanConnection killed василий каратаев using lvs_wheeldrive_dodtiger
+[22:25:37] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_wheeldrive_warthog_mg_reach
+[22:25:40] BriceMashiro: ХАЛООО
+[22:25:52] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_sdkfz251_pak
+[22:26:13] RusLanConnection killed василий каратаев using lvs_wheeldrive_dodtiger
+[22:26:40] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodhalftrack_us
+[22:26:48] RusLanConnection killed василий каратаев using lvs_wheeldrive_dodtiger
+[22:26:53] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_wheeldrive_pz3ro_l
+[22:26:59] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_uc_ptrs
+[22:27:27] BriceMashiro: ЕБА
+[22:27:29] BriceMashiro: ПРЯМ 
+[22:27:32] BriceMashiro: КОНЧИК МНЕ ПОЦАРАПАЛ
+[22:27:34] BriceMashiro: БУКВАЛЬНО
+[22:27:50] RusLanConnection killed василий каратаев using lvs_wheeldrive_dodtiger
+[22:28:14] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_t26
+[22:28:21] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_jerrycan
+[22:28:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_jerrycan_diesel
+[22:28:50] RusLanConnection killed василий каратаев using lvs_wheeldrive_dodtiger
+[22:29:10] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_sherman_firefly
+[22:29:21] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammocrate
+[22:29:35] василий каратаев killed BriceMashiro using lvs_wheeldrive_sherman_firefly
+[22:29:36] BriceMashiro: ну ползор блять
+[22:29:39] василий каратаев killed RusLanConnection using lvs_wheeldrive_sherman_firefly
+[22:29:44] BriceMashiro: Управление с лагами конечно пиздец
+[22:29:50] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_t34_43
+[22:29:50] BriceMashiro: инпут лаг прям
+[22:29:54] BriceMashiro: ебёт
+[22:30:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_wespe
+[22:30:11] BriceMashiro: да то что долго реагирует такн
+[22:30:12] BriceMashiro: смешивает
+[22:30:16] BriceMashiro: с самим инпут лагами
+[22:30:17] RusLanConnection killed василий каратаев
+[22:30:24] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_t70
+[22:30:32] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_t34_57
+[22:30:47] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_wheeldrive_sherman_m4a3
+[22:31:33] василий каратаев killed RusLanConnection using lvs_wheeldrive_t70
+[22:31:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:32:05] BriceMashiro: не надо
+[22:32:07] BriceMashiro: НЕ НЕАДО ДЛЯДЯ
+[22:32:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:32:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:32:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:32:22] BriceMashiro killed RusLanConnection using lvs_wheeldrive_sherman_m4a3
+[22:32:41] BriceMashiro: Я БЛЯТЬ
+[22:32:47] BriceMashiro: спуся секунд 10 понял что он перевернулся
+[22:32:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:32:48] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_vehicle_repair
+[22:33:16] BriceMashiro killed RusLanConnection using lvs_wheeldrive_sherman_m4a3
+[22:33:35] василий каратаев killed RusLanConnection using lvs_wheeldrive_t70
+[22:34:25] BriceMashiro killed василий каратаев using lvs_wheeldrive_sherman_m4a3
+[22:34:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:34:44] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[22:34:48] BriceMashiro killed василий каратаев using lvs_wheeldrive_sherman_m4a3
+[22:35:08] BriceMashiro: ВАСИЛИЙ
+[22:35:10] BriceMashiro: ИДИ НАХУЙ
+[22:35:14] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznavalmine
+[22:35:17] BriceMashiro: Летил бля пердолёт
+[22:35:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznavalmine
+[22:35:23] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztorpedo
+[22:35:25] BriceMashiro: я упал
+[22:35:27] BriceMashiro: в воду
+[22:35:33] BriceMashiro: пока на него отвекался
+[22:35:35] BriceMashiro: когда?
+[22:35:39] BriceMashiro: хз
+[22:35:56] BriceMashiro: близко
+[22:35:56] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[22:35:57] BriceMashiro: услышал
+[22:36:04] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbomb
+[22:36:07] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[22:36:08] BriceMashiro: не очено
+[22:36:14] BriceMashiro: ОЙ БЛЯ
+[22:36:27] BriceMashiro: ладно постаю
+[22:36:30] BriceMashiro: пока пушку беру
+[22:36:35] BriceMashiro<STEAM_0:0:590186964> spawned sent item_healthkit
+[22:36:36] BriceMashiro<STEAM_0:0:590186964> spawned sent item_healthkit
+[22:36:36] BriceMashiro<STEAM_0:0:590186964> spawned sent item_healthkit
+[22:36:38] BriceMashiro<STEAM_0:0:590186964> spawned sent item_battery
+[22:36:38] BriceMashiro<STEAM_0:0:590186964> spawned sent item_battery
+[22:36:39] BriceMashiro<STEAM_0:0:590186964> spawned sent item_battery
+[22:36:39] BriceMashiro<STEAM_0:0:590186964> spawned sent item_battery
+[22:36:39] BriceMashiro<STEAM_0:0:590186964> spawned sent item_battery
+[22:36:40] BriceMashiro<STEAM_0:0:590186964> spawned sent item_battery
+[22:36:40] BriceMashiro<STEAM_0:0:590186964> spawned sent item_battery
+[22:36:41] BriceMashiro<STEAM_0:0:590186964> spawned sent item_battery
+[22:36:46] RusLanConnection killed BriceMashiro using player
+[22:36:54] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[22:36:56] BriceMashiro: даже броня не помогла
+[22:36:57] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[22:36:58] BriceMashiro: я здох
+[22:37:06] BriceMashiro: у меня была хп 100
+[22:37:08] BriceMashiro: и броня на 100
+[22:37:09] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[22:37:36] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_smg1_large
+[22:37:36] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_smg1_large
+[22:37:37] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_pistol_large
+[22:37:39] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_357_large
+[22:37:43] BriceMashiro<STEAM_0:0:590186964> spawned sent item_box_buckshot
+[22:37:47] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[22:37:49] BriceMashiro: а какой тип патроны у...
+[22:37:53] BriceMashiro: рпк
+[22:37:54] RusLanConnection: я зщ
+[22:37:55] RusLanConnection: а
+[22:38:04] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_smg1_large
+[22:38:05] RusLanConnection killed василий каратаев using player
+[22:38:09] BriceMashiro: руслан учит гэмблингу!!!
+[22:38:36] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezammobox_a
+[22:38:38] BriceMashiro<STEAM_0:0:590186964> spawned sent ent_jack_gmod_ezammobox_bppc
+[22:38:52] BriceMashiro<STEAM_0:0:590186964> spawned sent tacrp_ammo_crate
+[22:39:02] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsatchelcharge
+[22:39:08] василий каратаев suicided!
+[22:39:19] RusLanConnection killed василий каратаев using player
+[22:39:27] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[22:39:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:39:57] BriceMashiro: ща
+[22:40:30] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezroadflare
+[22:41:12] BriceMashiro: 2 машкара летают
+[22:41:27] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsignalnade
+[22:41:33] BriceMashiro: не ебу
+[22:41:36] BriceMashiro: но погнали
+[22:41:55] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_wheeldrive_wespe
+[22:42:05] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:42:06] BriceMashiro: потяжалее?
+[22:42:15] BriceMashiro: британский?
+[22:42:28] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_item_compressor
+[22:42:30] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezroadflare
+[22:42:33] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_item_transmission_automatic
+[22:42:37] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsignalnade
+[22:42:39] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_item_gauge
+[22:42:58] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_item_gauge
+[22:43:04] Client "DJDeDPon" connected.
+[22:43:05] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaxe
+[22:43:07] BriceMashiro: ща
+[22:43:10] BriceMashiro: все
+[22:43:12] BriceMashiro: я начинаю
+[22:43:18] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcsnade
+[22:43:25] RusLanConnection killed василий каратаев using tacrp_knife
+[22:43:25] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcsnade
+[22:43:33] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezacorn
+[22:43:35] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezacorn
+[22:44:03] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_hl2_combine_transport
+[22:44:43] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_t1
+[22:44:57] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_compressor
+[22:45:02] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_gauge
+[22:45:04] BriceMashiro: пиздец я уже поворачиваться не могу
+[22:45:06] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_turbo
+[22:45:31] BriceMashiro killed василий каратаев using lvs_renaultft_m
+[22:45:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:45:39] BriceMashiro: ПОВОРАЧИВАТЬСЯ НЕ МОГУ БЛЯЯЯЯЯЯЯ
+[22:45:46] BriceMashiro: ДА
+[22:45:47] BriceMashiro: ТЫ МНЕ НАХУЙ
+[22:45:48] BriceMashiro: ОТБИЛ
+[22:45:51] BriceMashiro: Я ПОВОРАЧИВАТЬСЯ НЕ МОГУ
+[22:46:03] BriceMashiro: ДА
+[22:46:04] василий каратаев: ДОБАВЬТЕ ТУ КРУТУЮ ЯХТУ
+[22:46:06] BriceMashiro: Я ИСПУГАЛСЯ
+[22:46:09] василий каратаев: ЧТОБЫ НАРОД МОГ
+[22:46:13] василий каратаев: ЗАЛЕТЕ
+[22:46:15] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_warthog_mg_reach
+[22:46:29] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_helicopter_hl2_combine_chopper
+[22:46:31] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_renaultft_m
+[22:47:16] BriceMashiro: ебааааать
+[22:47:17] BriceMashiro: ИХУЯЯЯЯ
+[22:47:20] BriceMashiro: Я ЕМУ ХВОСТ
+[22:47:22] BriceMashiro: ВЫБИЛ
+[22:47:37] BriceMashiro killed василий каратаев using lvs_renaultft_m
+[22:47:46] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_helicopter_hl2_combine_dropship
+[22:47:55] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_helicopter_hl2_combine_dropship_bypass
+[22:48:02] BriceMashiro: БЛЯЯЯТЬ РУСЛАН ТЫ ВИМДЕЛ??
+[22:48:08] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_helicopter_hl2_combine_gunship
+[22:48:14] BriceMashiro: я ему хвост выбил
+[22:48:22] BriceMashiro killed RusLanConnection using lvs_renaultft_m
+[22:48:22] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_hl2_conscript_apc
+[22:48:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[22:48:59] BriceMashiro<STEAM_0:0:590186964> spawned sent lvs_renaultft_m
+[22:49:00] RusLanConnection killed василий каратаев using player
+[22:49:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:49:13] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_kfz14
+[22:49:23] BriceMashiro: че
+[22:49:24] BriceMashiro: ааа
+[22:49:25] BriceMashiro: я 
+[22:49:26] BriceMashiro: теперь
+[22:49:28] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_uc_ptrs
+[22:49:43] BriceMashiro: таааак в спешилс да?
+[22:49:50] Client "DJDeDPon" spawned in server <STEAM_0:0:503180381> (took 406 seconds).
+[22:49:59] BriceMashiro: you are my spezial~
+[22:50:11] BriceMashiro: прям как опенинг магички
+[22:50:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:50:48] василий каратаев killed RusLanConnection using lvs_wheeldrive_uc_ptrs
+[22:50:57] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodkuebelwagen_mg
+[22:51:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:51:12] BriceMashiro: тоже видел
+[22:51:15] DJDeDPon suicided!
+[22:51:22] BriceMashiro: нет она была постоянно
+[22:51:30] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_compressor
+[22:51:35] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_turbo
+[22:51:37] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_item_gauge
+[22:52:04] BriceMashiro: ть как пРОЛАГИВАЕТ
+[22:52:27] RusLanConnection killed василий каратаев using lvs_renaultft_m
+[22:52:49] BriceMashiro: я попадаю нет?
+[22:52:55] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[22:52:56] BriceMashiro: пиздец камеру 
+[22:53:01] BriceMashiro: в коссмос уводил
+[22:53:15] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezapple
+[22:53:28] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpickaxe
+[22:53:32] BriceMashiro: нейкид снейка
+[22:53:37] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[22:53:46] RusLanConnection killed василий каратаев using lvs_renaultft_m
+[22:54:11] DJDeDPon<STEAM_0:0:503180381> spawned sent dz_ammobox
+[22:54:23] DJDeDPon<STEAM_0:0:503180381> spawned sent tacrp_ammo_crate
+[22:54:49] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztimebomb
+[22:55:05] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:55:24] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfragnade
+[22:55:32] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[22:55:39] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[22:55:46] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsatchelcharge
+[22:55:53] DJDeDPon killed василий каратаев using player
+[22:55:59] DJDeDPon<STEAM_0:0:503180381> spawned sent item_healthkit
+[22:56:00] BriceMashiro: тебя убивают что ли?
+[22:56:14] BriceMashiro: ВЕЩИ ИЛИ БАН
+[22:56:24] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezminimore
+[22:56:30] DJDeDPon killed василий каратаев using player
+[22:56:38] RusLanConnection killed BriceMashiro using lvs_renaultft_m
+[22:56:41] BriceMashiro: бля
+[22:56:44] BriceMashiro: трасера чет не было
+[22:56:54] василий каратаев<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodwillyjeep_mg
+[22:56:58] BriceMashiro<STEAM_0:0:590186964> spawned sent npc_grenade_frag
+[22:57:00] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_smg1_grenade
+[22:57:01] BriceMashiro<STEAM_0:0:590186964> spawned sent item_rpg_round
+[22:57:10] DJDeDPon: !menu
+[22:57:11] DJDeDPon: !menu
+[22:57:22] BriceMashiro: Я БЛЯТЬ ПОНИМАЮ
+[22:57:24] BriceMashiro: НУБИИИК
+[22:57:36] BriceMashiro<STEAM_0:0:590186964> spawned sent tacrp_ammo_crate
+[22:57:48] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_357_large
+[22:57:48] BriceMashiro<STEAM_0:0:590186964> spawned sent item_ammo_357_large
+[22:58:01] BriceMashiro: куда попал?
+[22:58:39] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[22:58:51] BriceMashiro: ну так
+[22:58:53] василий каратаев<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[22:58:54] BriceMashiro: я понимаю
+[22:59:04] RusLanConnection killed BriceMashiro using lvs_renaultft_m
+[22:59:07] BriceMashiro: ЕБПААААААТЬ
+[22:59:08] BriceMashiro: ЧИСТО
+[22:59:12] BriceMashiro: БЕЛЫЙ ТРАСЕР НА МЕНЯ ЛИТЕЛ
+[22:59:18] BriceMashiro: и кровяка от меня остался
+[22:59:49] RusLanConnection suicided!
+[22:59:49] василий каратаев suicided!
+[22:59:49] DJDeDPon suicided!
+[22:59:49] BriceMashiro suicided!
+[22:59:49] RusLanConnection slayed Everyone
+[22:59:49] RusLanConnection: !slay *
+[22:59:56] BriceMashiro: че за sus
+[22:59:59] RusLanConnection brought BriceMashiro,DJDeDPon
+[23:00:03] RusLanConnection brought BriceMashiro,DJDeDPon
+[23:00:08] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[23:00:08] RusLanConnection stripped weapons from Everyone
+[23:00:08] RusLanConnection: !strip *
+[23:00:13] RusLanConnection silently slayed Everyone
+[23:00:13] RusLanConnection: !sslay *
+[23:00:17] RusLanConnection brought BriceMashiro,DJDeDPon
+[23:00:27] BriceMashiro: да похуй
+[23:00:39] BriceMashiro: инвенатрь джмода?
+[23:00:43] BriceMashiro: я даже не знал о нем
+[23:00:52] RusLanConnection: bind i jmod_ez_inv 
+[23:00:55] BriceMashiro: о джей моде
+[23:01:07] Client "василий каратаев" connected.
+[23:01:10] DJDeDPon<STEAM_0:0:503180381> spawned sent item_healthkit
+[23:01:10] BriceMashiro: ну
+[23:01:10] DJDeDPon<STEAM_0:0:503180381> spawned sent item_healthkit
+[23:01:14] BriceMashiro: руслан тогда поспит
+[23:01:16] BriceMashiro: а мы делом займемся
+[23:01:29] BriceMashiro: drom
+[23:01:30] BriceMashiro: drop
+[23:01:37] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 30 seconds).
+[23:01:39] BriceMashiro: ну че
+[23:01:41] BriceMashiro: диджей
+[23:01:42] BriceMashiro: или кто ты
+[23:01:46] BriceMashiro: не ебу кто ты
+[23:01:56] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[23:02:06] BriceMashiro: оййй василий
+[23:02:08] BriceMashiro: блять пришел
+[23:02:17] василий каратаев: давайте поставим 
+[23:02:23] василий каратаев: идол руслана 
+[23:02:28] василий каратаев: и малица чтобы нам дали
+[23:02:32] василий каратаев: фисл мателаоиц
+[23:02:35] BriceMashiro: ой
+[23:03:01] BriceMashiro: нихуя
+[23:03:11] василий каратаев: на необитаемом остраве
+[23:03:14] василий каратаев: как
+[23:03:46] DJDeDPon<STEAM_0:0:503180381> spawned sent item_healthkit
+[23:03:55] DJDeDPon<STEAM_0:0:503180381> spawned sent item_healthkit
+[23:03:56] BriceMashiro: ДУ СУКА
+[23:04:00] BriceMashiro: МАЙНКРАФТ
+[23:04:16] василий каратаев: ДАВАЙТЕ СЪЕДИМ КОГО НИТЬ ЕДЫ НЕТУ
+[23:04:47] BriceMashiro: 50 скрапов из раста
+[23:05:13] BriceMashiro: а спавн щас врублен?
+[23:05:19] BriceMashiro: ресурсов
+[23:05:22] василий каратаев: ДАВАЙТЕ
+[23:05:27] василий каратаев: ДАВАЙТЕ ВЫБЕРЕМ ГЛАВНОГО
+[23:05:53] BriceMashiro: большая руслан
+[23:05:54] BriceMashiro: смысле
+[23:06:11] василий каратаев: а как дом построить
+[23:06:37] василий каратаев: вещи дайте вещи
+[23:06:54] BriceMashiro: а сам василий конечно
+[23:06:57] BriceMashiro: хуйней будет
+[23:07:10] BriceMashiro: пкм
+[23:07:11] BriceMashiro: пкм
+[23:07:14] BriceMashiro: ПКМ
+[23:07:16] BriceMashiro: пкм
+[23:07:18] BriceMashiro: ПКМ
+[23:07:18] василий каратаев: КАК ВЕЩИ ДЕЛАТЬ
+[23:07:19] BriceMashiro: ПКМ
+[23:07:20] BriceMashiro: ПК
+[23:07:21] василий каратаев: ИЗ ВОЗДУХА
+[23:07:21] BriceMashiro: ПКМ
+[23:07:22] BriceMashiro: ПКМ
+[23:07:23] BriceMashiro: ПКМ
+[23:07:25] BriceMashiro: ПКМ
+[23:07:26] BriceMashiro: ПКС
+[23:07:36] василий каратаев: ЭЭЭ
+[23:07:38] василий каратаев: МОЙДОМ
+[23:07:46] BriceMashiro: бляяять
+[23:07:49] BriceMashiro: василий ти веноват
+[23:07:52] василий каратаев: ЧТО
+[23:07:52] василий каратаев: ЧТО
+[23:07:58] BriceMashiro: твоя вина
+[23:08:11] BriceMashiro: КАМЕЕЕЕНЬ
+[23:08:13] BriceMashiro: Я НАШЕЛ
+[23:08:16] василий каратаев: ЭТО ВЕЩ ДЛЯ ДОМА
+[23:08:16] BriceMashiro: камне нет
+[23:08:21] василий каратаев: МОЕГО
+[23:08:24] BriceMashiro: камень пропал
+[23:08:28] RusLanConnection cloaked Themself by amount 0
+[23:08:45] BriceMashiro: я все еще не понимаю как ресурсы спавнятся
+[23:08:49] василий каратаев: РИЛИ КАК
+[23:09:10] BriceMashiro: ну это пластик
+[23:09:12] DJDeDPon<STEAM_0:0:503180381> spawned sent item_healthkit
+[23:09:19] BriceMashiro: СТЕКЛЯННАЯ
+[23:09:20] BriceMashiro: ХУЛИ
+[23:09:47] BriceMashiro: ресурссыыыы...
+[23:09:55] BriceMashiro: такс
+[23:10:20] василий каратаев: ДИДЖЕ КАК ТЫ СПАВНИШЬ ВЕЩИ 
+[23:10:21] BriceMashiro: чеее
+[23:10:24] BriceMashiro: просто по карте бегаешь
+[23:10:28] BriceMashiro: и оно само спавнится?
+[23:10:35] BriceMashiro: ресурсы
+[23:10:47] BriceMashiro: аааа
+[23:11:51] BriceMashiro: БЛЯЯЯ КАМЕЕЕЕНЬ
+[23:11:55] BriceMashiro: А НАШЕЛ КАМЕНЬ
+[23:11:56] BriceMashiro: ЕХУУУ
+[23:13:20] BriceMashiro: накой черт
+[23:13:24] BriceMashiro: ну так вы заняли его пиздец
+[23:13:31] BriceMashiro: а вот и покрышка
+[23:13:42] BriceMashiro: дай ему
+[23:14:11] василий каратаев: УКРАЛИ
+[23:14:35] BriceMashiro: пизди его
+[23:14:35] василий каратаев: Я ТЕПЕРЬ ГЛАВНЫЙ ТУТ
+[23:14:53] василий каратаев: СТРОЙТЕ МНЕ ДОМ
+[23:14:57] BriceMashiro: сами сделаем
+[23:14:59] BriceMashiro: пусть идет
+[23:15:01] BriceMashiro: да
+[23:15:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezantimatter
+[23:15:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:15:12] RusLanConnection killed василий каратаев using player
+[23:15:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[23:15:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:16:03] BriceMashiro: 48
+[23:16:10] BriceMashiro: буквально 2 штуки не хватает
+[23:16:43] BriceMashiro: а человека можно разобрать нахуй?
+[23:16:52] BriceMashiro: БЕАА
+[23:16:53] BriceMashiro: ХАХАХАХА
+[23:16:55] BriceMashiro: МОЖНО
+[23:17:05] BriceMashiro: ты куда
+[23:17:07] BriceMashiro: выкинул
+[23:17:11] BriceMashiro: ты
+[23:17:13] BriceMashiro: скелет его взял?
+[23:17:20] BriceMashiro: ты
+[23:17:22] BriceMashiro: ТЫ БЛЯ ВЫКИНУЛ ПРОСТО
+[23:17:27] BriceMashiro: чеееел
+[23:17:48] BriceMashiro: это че
+[23:18:04] BriceMashiro: это железо бля
+[23:18:08] BriceMashiro: ну
+[23:18:09] BriceMashiro: БАНКИ
+[23:18:34] BriceMashiro: титанфалл
+[23:18:44] BriceMashiro: жолудь
+[23:18:53] BriceMashiro: да???
+[23:18:58] BriceMashiro: А ВОДУ ГДЕ ВЗЯТЬ
+[23:19:24] BriceMashiro: ПЛАСТИК
+[23:19:41] BriceMashiro: бумага
+[23:19:48] BriceMashiro: я нашел
+[23:20:02] BriceMashiro: адаптировался
+[23:20:04] BriceMashiro: прямо как
+[23:20:08] BriceMashiro: махорага из магички
+[23:20:28] BriceMashiro: у нас блять в казахстане
+[23:20:30] BriceMashiro: тоже проблемы
+[23:20:32] BriceMashiro: с газом
+[23:20:55] BriceMashiro: ДА ИДИ НАХУЙ
+[23:21:14] BriceMashiro: а василий
+[23:21:27] BriceMashiro: я не ебу кто это такой
+[23:21:30] BriceMashiro: диджей
+[23:21:38] BriceMashiro: я почти впервые его вижу если честно
+[23:21:53] BriceMashiro: нууу
+[23:21:56] BriceMashiro: кароч ты не знаешь
+[23:22:02] BriceMashiro: у меня есть ноут и пк основной
+[23:22:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_dmr
+[23:22:11] BriceMashiro: по утрам и вечерам сижу за ноутом
+[23:22:16] BriceMashiro: а по будня за пк с микро
+[23:22:20] BriceMashiro: у меня ноут
+[23:22:22] BriceMashiro: ПИЗДОС
+[23:22:30] BriceMashiro: УМЕНЯ ПРОЛАГИВАЕТ ПИЗДЕЕЕЦ
+[23:22:38] BriceMashiro: на меня не расчитывай если будет стрельба
+[23:22:46] BriceMashiro: ТОСССС
+[23:22:48] BriceMashiro: СТОРЙЙ
+[23:22:54] DJDeDPon<STEAM_0:0:503180381> spawned sent item_healthkit
+[23:22:55] BriceMashiro: В ПРАВУЮ ЧАСТЬ
+[23:22:57] BriceMashiro: СТОЛА
+[23:23:07] BriceMashiro: В ПИЗДЕ
+[23:23:14] BriceMashiro: ДА ИДИ НАХУЙ
+[23:23:16] BriceMashiro: яя
+[23:23:17] BriceMashiro: ебусть
+[23:23:19] BriceMashiro: с другим
+[23:23:29] BriceMashiro: МЫ ТЕПЕРЬ
+[23:23:31] BriceMashiro: ОБА МОЖЕТ
+[23:23:33] BriceMashiro: КРАФТИТЬ
+[23:23:42] BriceMashiro: смысле демокартии...
+[23:23:43] BriceMashiro: аа
+[23:23:44] BriceMashiro: камунизма
+[23:23:46] BriceMashiro: демокомунизма
+[23:23:49] BriceMashiro: одобряю
+[23:23:54] BriceMashiro: так
+[23:23:56] BriceMashiro: и че дальше...
+[23:24:32] DJDeDPon<STEAM_0:0:503180381> spawned model models/props_c17/furnituretable002a.mdl
+[23:24:37] DJDeDPon<STEAM_0:0:503180381> spawned model models/props_c17/furnituretable001a.mdl
+[23:24:44] василий каратаев: КАК ПОМОЛИЦА БОГУ ЧТОБЫ БАТАРЕЯ
+[23:24:50] BriceMashiro: а рэгмод есть?
+[23:24:57] BriceMashiro: РУСЛААН
+[23:25:00] BriceMashiro: ЕСТЬ РЭГМОД?
+[23:25:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:25:17] BriceMashiro: а фултон
+[23:25:20] BriceMashiro: надо крафтить?
+[23:25:29] BriceMashiro: ааа тоесть я могу его ночить
+[23:25:39] DJDeDPon<STEAM_0:0:503180381> spawned sent ent_jack_gmod_ezaugerdrill
+[23:25:50] DJDeDPon<STEAM_0:0:503180381> spawned sent ent_jack_gmod_ezgroundscanner
+[23:25:50] BriceMashiro: я не ебу за джей бос вообще...
+[23:25:57] BriceMashiro: я не знал что мы может скрафтить дрель
+[23:26:11] BriceMashiro: фактори
+[23:26:30] BriceMashiro: чисто спидпад используем как
+[23:26:31] BriceMashiro: ельсы
+[23:26:34] BriceMashiro<STEAM_0:0:590186964> spawned sent sent_speedpad_normal
+[23:26:38] BriceMashiro<STEAM_0:0:590186964> spawned model models/props_interiors/radiator01a.mdl
+[23:26:40] BriceMashiro<STEAM_0:0:590186964> spawned model models/props_interiors/radiator01a.mdl
+[23:26:50] BriceMashiro: так
+[23:26:54] BriceMashiro: мы не обсудили толком
+[23:26:55] BriceMashiro: ну
+[23:27:43] BriceMashiro: железо стекло 
+[23:27:48] BriceMashiro: и\налюминий?
+[23:27:49] BriceMashiro: не ебу
+[23:28:02] BriceMashiro: ну есть остров
+[23:28:03] BriceMashiro: с машинами
+[23:28:07] BriceMashiro: давай
+[23:28:11] BriceMashiro: запутешествуем
+[23:28:17] BriceMashiro: ТАК СТОЙ
+[23:28:26] BriceMashiro: за мной
+[23:29:10] BriceMashiro: вижу
+[23:29:13] BriceMashiro: вон там
+[23:29:32] BriceMashiro: РАЗЬЕМ
+[23:30:00] BriceMashiro: даа??
+[23:30:02] BriceMashiro: ойй
+[23:30:04] BriceMashiro: ну и хуй с ним
+[23:30:15] RusLanConnection teleported to DJDeDPon
+[23:30:42] BriceMashiro: БЛЯЯЯЯЯЯЯ
+[23:30:51] BriceMashiro: КАК НАМ
+[23:30:53] BriceMashiro: ВСЕ ЭТО ТАЩИТЬ
+[23:30:59] BriceMashiro: ДА
+[23:31:13] BriceMashiro: КАМЕРАКА
+[23:31:15] BriceMashiro: КЕМАРИКУ
+[23:31:17] BriceMashiro: СРОЧНО
+[23:31:24] BriceMashiro: бляя
+[23:31:25] BriceMashiro: МАШИНА
+[23:31:26] BriceMashiro: НИХУЯ
+[23:31:29] BriceMashiro: Я МАШИНУ ЗАСПАВНИЛ
+[23:31:46] василий каратаев: КАК ПОСТРОИТЬ ИДОЛ РУСЛАНА
+[23:31:51] BriceMashiro: еще машина
+[23:31:54] BriceMashiro: ЕЩЕ БЛЯТЬ МАШИНА
+[23:31:57] BriceMashiro: ХАХАХАХА
+[23:31:58] BriceMashiro: СМАТРИ
+[23:32:04] BriceMashiro: ДА СМАТРИ
+[23:32:06] BriceMashiro: ОНА СТОИТ
+[23:32:15] BriceMashiro: ЭТО БУДЕТ 
+[23:32:17] BriceMashiro: наш монолит
+[23:32:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_bar
+[23:32:19] BriceMashiro: ЗА МОНОЛИТ
+[23:32:31] BriceMashiro: КЕРАМИКА
+[23:32:47] BriceMashiro: так
+[23:32:49] BriceMashiro: еще
+[23:32:51] DJDeDPon: !menu
+[23:32:56] BriceMashiro: еще надо
+[23:32:58] BriceMashiro: нет
+[23:33:05] DJDeDPon: !menu
+[23:33:07] BriceMashiro: НУЖНО ДЕРЕВО
+[23:33:09] BriceMashiro: АЛЮМИНИЙ
+[23:33:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_bar
+[23:33:16] BriceMashiro: ДЕРЕВО
+[23:33:37] BriceMashiro: ДА ЕЩЕ МАШИНА
+[23:33:38] BriceMashiro: СКОЛЬКН ХАУЙ
+[23:33:45] BriceMashiro: не не не
+[23:33:47] BriceMashiro: мой ноут уже
+[23:33:50] BriceMashiro: взорвется
+[23:34:03] BriceMashiro: как искрини
+[23:34:07] василий каратаев: ПУШКИ КАК ПУШКИ ПОЧЕМУ НЕЛЬЗЯ КРАФТ
+[23:34:12] BriceMashiro: ДЕРЕВООО
+[23:34:43] BriceMashiro: ахуеть
+[23:34:47] BriceMashiro: только стул заспавнил?
+[23:34:56] BriceMashiro: аа
+[23:35:10] BriceMashiro: так керамика
+[23:35:18] BriceMashiro: 8
+[23:36:09] DJDeDPon<STEAM_0:0:503180381> spawned sent item_healthkit
+[23:36:12] BriceMashiro: еще
+[23:36:22] BriceMashiro: четыри говна
+[23:36:29] BriceMashiro: ДА БЛЯТЬ
+[23:36:32] BriceMashiro: Я ЩАС ЗДОХНУ
+[23:36:33] BriceMashiro: ОТ МАШИН
+[23:36:38] BriceMashiro: ОНИ МЕНЯ ДАВЯТ
+[23:36:49] BriceMashiro: ВОТ БЫ МНЕ В ЖИЗНИ
+[23:36:51] BriceMashiro: БОГАСТВО
+[23:36:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:37:03] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[23:37:08] BriceMashiro: че это было
+[23:37:17] BriceMashiro: ну так
+[23:37:18] BriceMashiro: ХУЛИ
+[23:37:20] BriceMashiro: ПОГНАЛИ
+[23:37:34] BriceMashiro: МОД НА СЕКС
+[23:37:57] BriceMashiro: АЛЮМИНИЙ
+[23:38:08] BriceMashiro: 1 алюминия
+[23:38:09] BriceMashiro: пажди
+[23:38:31] BriceMashiro: керамика??
+[23:39:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:39:06] BriceMashiro: смысле теперь можешь срать?
+[23:39:13] BriceMashiro: а ты разве не срал себе в рот?
+[23:39:27] BriceMashiro: глитч на бесконечную еду
+[23:39:33] BriceMashiro: ПОГНААААЛИИИ
+[23:39:37] BriceMashiro: ТАК
+[23:39:39] BriceMashiro: РЕСУРСЫ
+[23:39:47] BriceMashiro: теперь давай к делу
+[23:39:59] василий каратаев: ГЛИТЧ НА БЕСКОНЕЧНОЕ ГАВНО
+[23:40:05] RusLanConnection teleported to василий каратаев
+[23:40:08] BriceMashiro: ну
+[23:40:13] BriceMashiro: сделаем вид что он нам нужен
+[23:40:17] василий каратаев: Я ПОШУТИЛ
+[23:40:19] BriceMashiro: ладно
+[23:40:21] BriceMashiro: ДАВАЙ К ДЕЛУ
+[23:40:23] RusLanConnection teleported to DJDeDPon
+[23:40:45] BriceMashiro: СТЕКЛО
+[23:40:56] BriceMashiro: а стекло??
+[23:41:03] BriceMashiro: НУ ВоТ
+[23:41:06] BriceMashiro: о чеМ я
+[23:41:15] BriceMashiro: нашел
+[23:41:35] BriceMashiro: я нашел стекло
+[23:41:41] BriceMashiro: я взял
+[23:41:44] BriceMashiro: так
+[23:41:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[23:41:49] BriceMashiro: К ДЕЛУ К ДЕЛУУУУУ
+[23:41:58] BriceMashiro: у меня
+[23:42:00] BriceMashiro: дохуя
+[23:42:04] BriceMashiro: чекай
+[23:42:20] BriceMashiro: блин
+[23:42:24] BriceMashiro: жаль что я сосу у дрогого
+[23:42:37] BriceMashiro: НУ ВСЕ
+[23:42:39] BriceMashiro: ДАВАЙ КРАФТИ
+[23:42:41] BriceMashiro: РАДИО
+[23:42:45] BriceMashiro: 3
+[23:42:46] BriceMashiro: 2
+[23:42:48] BriceMashiro: 1
+[23:42:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[23:42:50] BriceMashiro: гааааз
+[23:42:54] BriceMashiro: ГАЗ БЛЯЯЯ
+[23:43:01] BriceMashiro: БАЛОНЫ
+[23:43:12] BriceMashiro: а вода где?
+[23:43:20] BriceMashiro: ну а так серьёзно
+[23:43:35] BriceMashiro: ведро?
+[23:43:37] BriceMashiro: какое ведро
+[23:44:07] BriceMashiro: нихуя
+[23:44:09] BriceMashiro: подарок
+[23:44:12] BriceMashiro: руслана
+[23:44:23] BriceMashiro: блин а как стол использовать
+[23:44:41] BriceMashiro: аааа
+[23:44:44] BriceMashiro: дерево
+[23:44:53] BriceMashiro: ну блин диджей
+[23:44:54] BriceMashiro: дебил
+[23:44:56] BriceMashiro: головой думай
+[23:45:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[23:45:16] BriceMashiro: бляяя
+[23:45:19] BriceMashiro: кароч газ походу
+[23:45:23] BriceMashiro: в другом регионе надо брать
+[23:45:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[23:45:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[23:45:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[23:47:03] BriceMashiro: я воды наберу
+[23:47:53] BriceMashiro: удваивается
+[23:47:58] BriceMashiro: бляяя
+[23:47:59] DJDeDPon<STEAM_0:0:503180381> spawned sent item_healthkit
+[23:48:30] BriceMashiro: пидарас
+[23:48:32] BriceMashiro: реально
+[23:49:40] василий каратаев: ДА КАК ЭНЕРГИЮ ПОЛУЧИТ В НАЧАЛЕ
+[23:50:00] DJDeDPon<STEAM_0:0:503180381> spawned model models/items/car_battery01.mdl
+[23:50:02] DJDeDPon<STEAM_0:0:503180381> spawned model models/jmod/resources/battery_v2.mdl
+[23:50:04] DJDeDPon<STEAM_0:0:503180381> spawned model models/items/car_battery01.mdl
+[23:50:47] BriceMashiro: НУ ТАК
+[23:50:50] BriceMashiro: ДЛЯ ЭЛЕКТРИЧЕСВА
+[23:50:53] BriceMashiro: МЫ НЕ МОЖЕМ НАЙТИ
+[23:51:02] BriceMashiro: ЭЛИТ??
+[23:51:16] BriceMashiro: ааа
+[23:51:18] BriceMashiro: вот
+[23:51:39] BriceMashiro: я нашел
+[23:51:43] BriceMashiro: они с машины да
+[23:51:54] BriceMashiro: МЕДЬ
+[23:51:56] BriceMashiro: А ХЕМЕКАТЫ
+[23:52:27] BriceMashiro: РУСЛАН
+[23:52:29] BriceMashiro: ЗАВАЛИ
+[23:52:31] BriceMashiro: ВАРЯЖКУ
+[23:52:33] василий каратаев: КАРГО КУЛЬТ
+[23:52:43] BriceMashiro: ИИИИззз
+[23:52:44] BriceMashiro: ну
+[23:52:46] BriceMashiro: бутылок
+[23:52:48] BriceMashiro: для стирки
+[23:52:57] василий каратаев: Я ТАК ДОЛГО НЕМАГУ НАЙТИ СРАНУЮ БАТАРЕЙКУ
+[23:52:59] BriceMashiro: ну и пластик дает
+[23:53:12] BriceMashiro: газ
+[23:53:13] BriceMashiro: ГАААЗ
+[23:53:14] BriceMashiro: ДАВАЙ
+[23:53:24] BriceMashiro: да
+[23:53:26] BriceMashiro: сойдет
+[23:53:33] BriceMashiro: только дышать им не надо
+[23:53:38] BriceMashiro: и тогда на долго останется
+[23:54:21] BriceMashiro: СТОООЙ
+[23:54:27] BriceMashiro: эээээ
+[23:54:29] BriceMashiro: у меня был газ
+[23:54:32] BriceMashiro: ЛЯЯЯЯ
+[23:54:33] BriceMashiro: СЛУШАЙ
+[23:54:34] BriceMashiro: У МЕНЯ
+[23:54:37] BriceMashiro:  С САМОГО НАЧАЛА
+[23:54:39] BriceMashiro: БЫЛ ГАЗ
+[23:54:41] BriceMashiro: ПОХОДУ
+[23:54:50] BriceMashiro: зато научились
+[23:54:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztimebomb
+[23:54:54] BriceMashiro: а нужно
+[23:55:12] BriceMashiro: так 
+[23:55:16] BriceMashiro: ТЫ
+[23:55:18] BriceMashiro: ДУМАЙ
+[23:55:27] BriceMashiro: кароч пока руслан не видит...
+[23:55:31] BriceMashiro: АААА
+[23:55:33] BriceMashiro: ладн оне важно
+[23:55:37] BriceMashiro: так
+[23:55:40] BriceMashiro: РАДИО НА БАЗУ
+[23:56:05] BriceMashiro: ресурсы
+[23:56:06] BriceMashiro: РЕСУРСЫ
+[23:56:09] BriceMashiro: ТАК
+[23:56:11] BriceMashiro: СЛУШАЙ
+[23:56:13] BriceMashiro: НАДО
+[23:56:15] BriceMashiro: ПРОДАВАТЬ
+[23:56:17] BriceMashiro: ЧТО БЫ ПОКУПАТЬ
+[23:56:18] BriceMashiro: РЕСУРСЫ
+[23:56:25] BriceMashiro: я хз
+[23:56:27] BriceMashiro: че это было
+[23:56:35] BriceMashiro: че за тряска
+[23:56:43] BriceMashiro: руслан иди нахуй
+[23:56:51] BriceMashiro: я не видел
+[23:56:53] BriceMashiro: дым
+[23:56:56] BriceMashiro: дыма не было
+[23:57:10] BriceMashiro: ерор нету
+[23:57:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[23:57:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[23:57:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[23:57:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[23:57:28] BriceMashiro: У НАС ВСЕ ЕСТЬ
+[23:57:28] DJDeDPon: !menu
+[23:57:30] BriceMashiro: а
+[23:57:32] BriceMashiro: нууу
+[23:57:35] BriceMashiro: давай закажем?
+[23:57:37] BriceMashiro: попробуем
+[23:57:45] RusLanConnection killed BriceMashiro using player
+[23:57:46] BriceMashiro: я заказыва
+[23:57:48] BriceMashiro: АААААААА
+[23:57:49] BriceMashiro: БЛЯЯЯЯЯЯЯЯ
+[23:58:01] BriceMashiro: ДИДЖЕЕЙ
+[23:58:03] BriceMashiro: ДА СМЫСЛЕ НАХУЙ
+[23:58:04] RusLanConnection teleported BriceMashiro
+[23:58:05] BriceMashiro: НЕ НАЖ=ДО
+[23:58:14] BriceMashiro: СТОЙ
+[23:58:21] BriceMashiro: бляяя
+[23:58:22] RusLanConnection killed BriceMashiro using player
+[23:58:25] BriceMashiro: ТОЛЬКО ЖОЛДЬ ОСТАЛСЯ
+[23:58:43] BriceMashiro: я хранил у себя жолудь
+[23:58:46] BriceMashiro: в инвентаре
+[23:58:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterminebomb
+[23:58:52] BriceMashiro: ты уже заказал?
+[23:58:58] BriceMashiro: ЩАС УВИДИМ
+[23:59:05] BriceMashiro: сука Я НАШЕЛ БАЗУ ВАСИ
+[23:59:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterminebomb
+[23:59:11] BriceMashiro: МЫ В ОТРЫТОЙ МЕСТНОСТИ
+[23:59:26] BriceMashiro: ДА
+[23:59:27] василий каратаев: ДА Я НИЩИЙ
+[23:59:32] василий каратаев: Я ГОЛОЖОП
+[23:59:33] BriceMashiro: ТИХО
+[23:59:34] василий каратаев: НИЧО НЕ МАУГ
+[23:59:35] BriceMashiro: не телепортируй
+[23:59:40] RusLanConnection teleported to BriceMashiro
+[23:59:42] BriceMashiro: так
+[23:59:55] BriceMashiro: ебаааа
+[23:59:58] BriceMashiro: василий вообще лох
+[23:59:59] BriceMashiro: реал
+<Logging continued in "data/ulx_logs/07-30-24.txt">

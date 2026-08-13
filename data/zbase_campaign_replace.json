@@ -1,0 +1,35 @@
+{
+	"npc_fastzombie": {
+		"zb_fastzombie": 1.0
+	},
+	"npc_citizen": {
+		"zb_human_civilian": 2.0,
+		"zb_human_rebel": 2.0,
+		"zb_human_medic": 3.0,
+		"zb_human_medic_f": 3.0,
+		"zb_human_rebel_f": 2.0,
+		"zb_human_refugee": 1.0
+	},
+	"npc_antlion": {
+		"zb_antlion_spitter": 2.0,
+		"zb_antlion": 1.0
+	},
+	"npc_zombie": {
+		"zb_zombie": 1.0,
+		"zb_poisonzombie": 4.0,
+		"zb_zombine": 3.0,
+		"zb_fastzombie": 2.0
+	},
+	"npc_zombine": {
+		"zb_zombine": 1.0
+	},
+	"npc_combine_s": {
+		"zb_combine_nova_prospekt": 2.0,
+		"zb_combine_soldier": 1.0,
+		"zb_combine_elite": 3.0
+	},
+	"npc_metropolice": {
+		"zb_metropolice_elite": 2.0,
+		"zb_metropolice": 1.0
+	}
+}

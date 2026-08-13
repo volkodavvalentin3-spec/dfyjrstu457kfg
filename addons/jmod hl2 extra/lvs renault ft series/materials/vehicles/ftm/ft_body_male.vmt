@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "vehicles/ftm/FT_Male_Body_A"
+	"$bumpmap" "vehicles/ftm/FT_Male_Body_N"
+	"$surfaceprop" "Metal"
+	"$nocull" "1"					
+
+	"$phong" "1"						
+	"$phongboost"	"1" 		
+	"$phongexponent" "200"	
+	"$phongfresnelranges"	"[0.3 1 4]" 
+}

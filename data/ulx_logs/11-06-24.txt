@@ -1,0 +1,669 @@
+[15:31:01] New map: bf_arid
+[15:31:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[15:31:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[15:31:53] RusLanConnection suicided!
+[15:32:18] RusLanConnection suicided!
+[15:33:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[15:33:20] RusLanConnection suicided!
+[15:33:34] RusLanConnection suicided!
+[15:34:45] RusLanConnection<STEAM_0:0:238810681> spawned model models/sandbags_4m.mdl
+[15:35:09] RusLanConnection<STEAM_0:0:238810681> spawned model models/sandbags_circle_half.mdl
+[15:35:11] RusLanConnection<STEAM_0:0:238810681> spawned model models/us_guard_tower.mdl
+[15:35:31] RusLanConnection<STEAM_0:0:238810681> spawned model models/sandbags_corner_2m.mdl
+[15:35:33] RusLanConnection: supply radio: airstrike hebombs
+[15:35:34] RusLanConnection<STEAM_0:0:238810681> spawned model models/mec_guard_tower.mdl
+[15:35:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/mec_guard_tower.mdl
+[15:35:49] RusLanConnection<STEAM_0:0:238810681> spawned model models/vehicle shelter.mdl
+[15:35:50] RusLanConnection<STEAM_0:0:238810681> spawned model models/sandbag shelter mirror.mdl
+[15:36:09] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stilted_foundation01.mdl
+[15:36:19] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall01_crawl_r.mdl
+[15:36:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_window_c.mdl
+[15:36:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_door_r.mdl
+[15:36:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/prefab_house01.mdl
+[15:36:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall01_damage01.mdl
+[15:36:50] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall01_damage01.mdl
+[15:37:16] RusLanConnection<STEAM_0:0:238810681> spawned model models/holograms/cube_corner.mdl
+[15:37:17] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_window_slit.mdl
+[15:37:22] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_window_slit.mdl
+[15:37:31] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_window_glass.mdl
+[15:37:35] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/tunnel_entry_exit_02.mdl
+[15:37:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/tunnel_junction_1.mdl
+[15:37:51] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/tunnel_junction_3.mdl
+[15:37:59] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/tunnel_entry_exit_01.mdl
+[15:38:07] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stair_spiral01.mdl
+[15:38:13] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stair_spiral02.mdl
+[15:38:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_door_l.mdl
+[15:38:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_door_c.mdl
+[15:38:41] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_gapped02_covered.mdl
+[15:38:55] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/ladder_l.mdl
+[15:38:58] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/ladder_r.mdl
+[15:38:59] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stair_spiral02m.mdl
+[15:39:00] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_full.mdl
+[15:39:16] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stair_spiral02m.mdl
+[15:39:20] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stair_spiral02m.mdl
+[15:39:22] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/ladder_r.mdl
+[15:39:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stair_spiral02m.mdl
+[15:40:03] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[15:40:19] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[15:40:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[15:40:41] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[15:40:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[15:41:36] RusLanConnection: supply radio: airstrike hebombs
+[15:41:39] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[15:42:12] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_pak
+[15:42:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_m10
+[15:42:54] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_m10
+[15:43:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_wurfrahmen
+[15:43:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_fiat_621
+[15:43:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_dodtiger
+[15:43:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[15:44:03] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_dodtiger
+[15:45:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[15:46:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/holograms/cube_arrow.mdl
+[15:46:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_sheet_short01.mdl
+[15:47:04] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_sheet_short01_damage.mdl
+[15:47:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_sheet02.mdl
+[15:47:11] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_sheet01.mdl
+[15:47:12] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_plain.mdl
+[15:47:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_l.mdl
+[15:47:35] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_straight2.mdl
+[15:47:36] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_u2.mdl
+[15:47:37] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_u.mdl
+[15:47:39] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_l.mdl
+[15:47:40] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_l2.mdl
+[15:47:41] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_straight.mdl
+[15:47:42] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_l.mdl
+[15:47:43] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_u.mdl
+[15:47:44] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_u2.mdl
+[15:47:45] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_l.mdl
+[15:47:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_l2.mdl
+[15:47:50] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_l2.mdl
+[15:47:55] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/roost02.mdl
+[15:48:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/floor.mdl
+[15:48:11] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/foundation_roost.mdl
+[15:48:19] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/foundation_roost.mdl
+[15:48:32] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/floor.mdl
+[15:48:38] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/floor.mdl
+[15:48:51] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stilted_foundation01.mdl
+[15:48:55] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stilted_foundation02.mdl
+[15:48:58] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stilted_foundation01.mdl
+[15:49:00] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stilted_foundation01.mdl
+[15:49:01] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stilted_foundation01.mdl
+[15:49:01] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stilted_foundation01.mdl
+[15:49:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stilted_foundation01.mdl
+[15:49:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stilted_foundation01.mdl
+[15:49:11] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/stairs_full.mdl
+[15:49:24] RusLanConnection<STEAM_0:0:238810681> spawned model models/components/wall_door_c.mdl
+[15:49:59] RusLanConnection<STEAM_0:0:238810681> spawned model models/props/bulldog/teir_01_stairs_foundation_v2.mdl
+[15:50:02] RusLanConnection<STEAM_0:0:238810681> spawned model models/props/bulldog/teir_01_foundation.mdl
+[15:50:08] RusLanConnection<STEAM_0:0:238810681> spawned model models/props/bulldog/teir_01_entrance.mdl
+[15:50:12] RusLanConnection<STEAM_0:0:238810681> spawned model models/props/bulldog/teir_01_frame_03.mdl
+[15:50:14] RusLanConnection<STEAM_0:0:238810681> spawned model models/props/bulldog/teir_01_foundation_window_corner.mdl
+[15:50:46] RusLanConnection<STEAM_0:0:238810681> spawned model models/props/window_cap2.mdl
+[15:50:48] RusLanConnection<STEAM_0:0:238810681> spawned model models/props/fence3.mdl
+[15:50:51] RusLanConnection<STEAM_0:0:238810681> spawned model models/props/railing2.mdl
+[15:50:52] RusLanConnection<STEAM_0:0:238810681> spawned model models/props/railing3.mdl
+[15:50:54] RusLanConnection<STEAM_0:0:238810681> spawned model models/props/foundation01.mdl
+[15:50:56] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:19] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation2.mdl
+[15:51:20] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation3.mdl
+[15:51:22] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_floor.mdl
+[15:51:23] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:28] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:29] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:29] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:29] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:32] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:32] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:32] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:33] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:34] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:34] RusLanConnection<STEAM_0:0:238810681> spawned model models/barn/barn_foundation1.mdl
+[15:51:53] RusLanConnection<STEAM_0:0:238810681> spawned model models/props/wall2.mdl
+[15:52:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[15:52:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[15:52:32] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[15:52:33] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[15:52:33] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[15:52:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[15:53:05] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[15:53:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezshovel
+[15:58:41] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[15:59:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate_uni
+[15:59:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[15:59:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[15:59:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[15:59:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[15:59:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[15:59:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[15:59:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[15:59:36] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[15:59:44] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:00:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[16:00:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgold
+[16:03:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate_uni
+[16:03:47] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:04:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:04:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcsnade
+[16:04:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezroadflare
+[16:04:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsignalnade
+[16:07:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate_uni
+[16:07:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate_uni
+[16:07:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:07:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmokenade
+[16:07:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:07:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:07:45] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:07:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:08:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaxe
+[16:08:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaxe
+[16:08:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaxe
+[16:08:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaxe
+[16:08:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate_uni
+[16:13:49] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:15:27] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:15:27] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:15:27] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:15:27] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:15:27] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:16:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_flak
+[16:17:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[16:17:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[16:17:18] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[16:17:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:17:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:17:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:17:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:17:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:18:10] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[16:22:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[16:22:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:22:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:22:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:22:39] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:22:39] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:22:39] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:23:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:26:02] Server is shutting down/changing levels.
+
+
+
+[16:26:21] New map: bf_arid
+[16:27:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:29:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:31:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[16:31:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[16:34:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:35:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[16:37:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcsnade
+[16:37:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:37:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[16:37:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[16:37:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[16:39:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:40:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:40:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:40:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[16:40:52] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[16:40:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[16:40:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[16:40:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[16:40:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[16:40:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[16:41:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[16:42:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[16:45:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[16:45:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:46:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:48:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[16:48:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[16:50:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[16:50:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_lmg
+[16:51:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_rocketlauncher
+[16:51:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[16:52:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_mrl
+[16:52:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_lac
+[16:52:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[16:52:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_smg
+[16:53:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_sr
+[16:53:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_amsr
+[16:55:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_dmr
+[16:56:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[16:56:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_lmg
+[16:56:45] RusLanConnection suicided!
+[17:02:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[17:02:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[17:02:10] RusLanConnection: fdgf
+[17:02:11] RusLanConnection: dfg
+[17:02:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[17:05:21] RusLanConnection suicided!
+[17:05:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[17:05:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[17:07:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[17:10:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[17:10:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[17:11:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[17:11:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[17:12:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[17:13:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[17:13:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[17:13:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[17:13:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[17:15:40] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[17:16:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[17:17:14] Client "Bot01" connected.
+[17:17:14] Client "Bot01" spawned in server <BOT> (took 3069 seconds).
+[17:17:15] Client "Bot02" connected.
+[17:17:15] Client "Bot02" spawned in server <BOT> (took 3070 seconds).
+[17:17:15] Client "Bot03" connected.
+[17:17:15] Client "Bot03" spawned in server <BOT> (took 3070 seconds).
+[17:17:19] RusLanConnection brought Bot01
+[17:17:23] RusLanConnection brought Bot02
+[17:17:24] RusLanConnection brought Bot03
+[17:17:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[17:17:32] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[17:17:34] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[17:18:18] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[17:18:45] RusLanConnection kicked Bot02 (reason)
+[17:18:45] Dropped "Bot02" from server<BOT>
+[17:18:59] Client "Bot04" connected.
+[17:18:59] Client "Bot04" spawned in server <BOT> (took 3174 seconds).
+[17:19:03] RusLanConnection brought Bot01
+[17:19:26] RusLanConnection kicked Bot01 (reason)
+[17:19:26] Dropped "Bot01" from server<BOT>
+[17:19:27] RusLanConnection kicked Bot03 (reason)
+[17:19:27] Dropped "Bot03" from server<BOT>
+[17:19:27] RusLanConnection kicked Bot04 (reason)
+[17:19:27] Dropped "Bot04" from server<BOT>
+[17:22:38] Server is shutting down/changing levels.
+
+
+
+[17:23:11] New map: bf_arid
+[17:24:56] Server is shutting down/changing levels.
+
+
+
+[17:25:15] New map: bf_arid
+[17:25:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcsnade
+[17:25:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[17:25:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[17:25:49] RusLanConnection suicided!
+[17:31:37] RusLanConnection suicided!
+[17:32:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_smg
+[17:32:49] RusLanConnection suicided!
+[17:32:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_smg
+[17:32:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_revolver
+[17:32:59] RusLanConnection suicided!
+[17:34:41] RusLanConnection suicided!
+[17:38:07] Server is shutting down/changing levels.
+
+
+
+[17:38:26] New map: bf_arid
+[17:39:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_pas
+[17:39:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_revolver
+[17:39:22] RusLanConnection suicided!
+[17:42:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_lmg
+[17:43:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodhalftrack_us
+[17:43:35] RusLanConnection suicided!
+[17:48:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_machinepistol
+[17:48:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_lmg
+[17:48:34] RusLanConnection suicided!
+[17:51:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_lmg
+[17:52:06] RusLanConnection suicided!
+[17:52:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_magpistol
+[17:52:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_smg
+[17:53:03] RusLanConnection suicided!
+[17:53:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[17:53:21] RusLanConnection suicided!
+[17:53:32] RusLanConnection suicided!
+[17:54:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[17:54:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_smg
+[17:54:21] RusLanConnection suicided!
+[17:55:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_smg
+[17:55:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[17:55:22] RusLanConnection suicided!
+[17:55:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[17:58:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[17:58:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[17:58:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[17:59:35] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_interiors/furniture_shelf01a.mdl
+[18:00:19] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[18:00:41] RusLanConnection was killed by joes_sam_turret_lvs
+[18:00:50] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[18:00:51] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[18:00:52] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[18:00:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[18:01:31] RusLanConnection was killed by joes_sam_turret_lvs
+[18:01:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[18:02:13] RusLanConnection was killed by joes_sam_turret_lvs
+[18:02:19] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[18:06:32] Server is shutting down/changing levels.
+
+
+
+[18:06:51] New map: bf_arid
+[18:07:27] Server is shutting down/changing levels.
+
+
+
+[18:07:45] New map: bf_arid
+[18:08:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_bf109
+[18:08:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_bf109
+[18:08:18] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_bf109
+[18:08:19] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_bf109
+[18:09:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_stuka
+[18:09:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_zero
+[18:09:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_spitfire
+[18:10:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_yak2
+[18:10:21] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_c130_cargo
+[18:10:24] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_c130_cargo
+[18:10:25] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_c130
+[18:10:25] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_c130
+[18:10:26] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_ac130
+[18:10:26] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_kc130
+[18:10:27] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_mc130
+[18:10:27] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_mc130_troop
+[18:10:49] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_bf109
+[18:10:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_stuka
+[18:10:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_p47
+[18:10:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_p51
+[18:10:54] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_spitfire
+[18:10:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_yak2
+[18:10:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_yak4
+[18:10:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_zero
+[18:10:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_yak4
+[18:11:40] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_spitfire
+[18:12:41] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_zero
+[18:12:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_spitfire
+[18:12:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_p51
+[18:12:44] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_p47
+[18:15:38] Server is shutting down/changing levels.
+
+
+
+[18:16:05] New map: bf_arid
+[18:17:50] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_an24
+[18:17:52] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_an24
+[18:17:55] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_an24
+[18:17:56] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_an24
+[18:17:56] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_an24
+[18:17:56] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_an24
+[18:18:03] Server is shutting down/changing levels.
+
+
+
+[18:18:21] New map: bf_arid
+[18:18:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_kravchenko
+[18:20:54] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[18:21:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_spitfire
+[18:21:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_stuka
+[18:21:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_p47
+[18:21:12] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_bf109
+[18:21:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_spitfire
+[18:22:06] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[18:22:07] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[18:22:08] RusLanConnection<STEAM_0:0:238810681> spawned sent joes_sam_turret_lvs
+[18:22:35] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_spitfire
+[18:23:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:23:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:23:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:23:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:23:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:23:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:23:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:26:24] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[18:26:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_kravchenko_admin
+[18:27:10] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_uc_bren
+[18:27:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_citroen_type23
+[18:27:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[18:27:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[18:27:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[18:27:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[18:27:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[18:27:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[18:27:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_cratepack
+[18:27:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[18:27:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[18:29:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[18:29:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[18:29:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[18:29:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[18:29:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[18:29:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[18:30:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[18:33:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[18:33:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[18:34:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:37:34] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:38:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:38:44] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:38:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:39:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[18:40:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:41:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:42:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:42:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezfluidbarrel
+[18:42:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[18:43:34] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_su14_2
+[18:44:16] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_unic_p107
+[18:44:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodwillyjeep
+[18:45:02] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:45:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:45:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_kravchenko_plow
+[18:46:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[18:46:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[18:46:36] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[18:48:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:48:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:50:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:50:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[18:50:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[18:51:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:52:40] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:53:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[18:53:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[18:56:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[18:57:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznutrients
+[18:58:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[18:59:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:00:18] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:01:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:06:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:06:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[19:07:05] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:07:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:08:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[19:08:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:08:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:09:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[19:09:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:09:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:09:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:10:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:11:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:11:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:12:05] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:13:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:15:18] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[19:15:35] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[19:15:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[19:16:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[19:16:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[19:16:24] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[19:16:33] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[19:16:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[19:16:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[19:17:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[19:17:16] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[19:17:20] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[19:17:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[19:17:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[19:17:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[19:17:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:17:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:18:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[19:18:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[19:18:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:18:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:18:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:18:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:18:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:19:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[19:19:26] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[19:19:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/blastdoor001c.mdl
+[19:19:26] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/blastdoor001b.mdl
+[19:19:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:20:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:20:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:21:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:21:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:21:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:28:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:29:48] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[19:29:49] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:30:18] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:31:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:32:32] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:33:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:33:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:33:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:34:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:34:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:34:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:35:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:35:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:35:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[19:36:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[19:36:18] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[19:36:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/blastdoor001c.mdl
+[19:36:18] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/blastdoor001b.mdl
+[19:36:27] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:37:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[19:38:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:41:12] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:41:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:41:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:43:00] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/lockers001a.mdl
+[19:43:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:50:21] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[19:50:21] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[19:50:21] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/blastdoor001c.mdl
+[19:50:21] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/blastdoor001b.mdl
+[19:50:32] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:51:12] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:51:45] Client "vasya karata" connected.
+[19:52:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:52:59] Client "vasya karata" spawned in server <STEAM_0:0:814052183> (took 74 seconds).
+[19:53:36] RusLanConnection teleported to vasya karata
+[19:53:40] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/garbage_metalcan002a.mdl
+[19:53:40] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[19:53:40] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/blastdoor001c.mdl
+[19:53:40] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/blastdoor001b.mdl
+[19:53:46] RusLanConnection teleported vasya karata
+[19:53:47] RusLanConnection teleported vasya karata
+[19:53:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[19:54:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_nazihead
+[19:54:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_lhead
+[19:54:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_mltorso
+[19:54:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[19:54:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[19:54:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[19:54:53] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_bm13
+[19:55:26] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_bm13
+[19:56:25] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_bm13
+[19:57:16] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_pz1bison
+[19:57:18] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_pz1bison
+[19:58:53] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[20:00:16] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[20:01:20] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[20:01:59] vasya karata killed RusLanConnection using lvs_bomb
+[20:02:09] RusLanConnection teleported to vasya karata
+[20:02:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[20:02:32] vasya karata: НУ НОРМАЛЬНО НОРМАЛНТ
+[20:02:36] vasya karata: ВАТАФАК
+[20:02:42] vasya karata: ПАРТИЛКЫ ГОВНА
+[20:03:31] vasya karata suicided!
+[20:04:40] RusLanConnection teleported to vasya karata
+[20:04:47] vasya karata: ВОТ ГДЕ МЕСТО НОВОЕ
+[20:04:48] vasya karata: ПОКРУЕ
+[20:04:52] vasya karata: В УЩЕЛЬЕ ТОЛЬКО
+[21:00:02] vasya karata: ЭТО ТАК И ДОЛЖНО БЫТЬ?
+[21:00:09] vasya karata: Я ДУМАЛ ТЫ НАПРИДУМАЛ
+[21:00:10] vasya karata: ТИПО
+[21:00:13] vasya karata: ВСЮ КАРТУ ВИДЕШ
+[21:00:20] vasya karata: ТИПО ИДЕЯ НА САМАМ ДЕЛЕ КРУТО
+[21:00:22] vasya karata: НО
+[21:00:27] vasya karata: РАДАР
+[21:00:29] vasya karata: ОК КРИВОЙ
+[21:00:42] vasya karata: ОН ФИГНЮ ПОКАЗЫВАЕТ
+[21:00:49] vasya karata: В МОМЕНТАХ
+[21:01:01] vasya karata: ДАЙ 
+[21:01:12] vasya karata: А ЧЕ ВЫКОПАЛИ
+[21:04:08] RusLanConnection teleported to vasya karata
+[21:05:02] vasya karata: ЧТОБЫ ЗНАТЬ КАКОЙ РЕСУРС ОТНИМАТЬ 
+[21:05:21] vasya karata: НУ ТИПО ВОТ КАРАТ РЕСУРСОВ
+[21:05:39] vasya karata: И ТИПО РЯДОМ ДРУГИЕ ЖИВУТ И ТЫ ЗНАЕШЬ КАКИЕ ВОКРУГ НИХ РЕСЫ
+[21:05:50] vasya karata: НУ ТОЛЬКО УРАН
+[21:05:58] vasya karata: МОЖЕТ ЕГО В НИВИДИМКУ
+[21:06:02] vasya karata: ИЛИ ТИПО ТАОГО
+[21:06:31] vasya karata: Я ЛЮБЛЮ ПЛЫВИСКИ
+[21:06:56] vasya karata: ЭТО ВОДА НИГЕРСКАЯ
+[21:12:17] vasya karata: МЫ БОМБОПОКЛОНИКИ И ЗНАЧИТ НАМ В ЦЕНТРЕ БАЗЫ УСТАНОВИТЬ БИГ БОМБ
+[21:12:24] vasya karata: ЧТОБЫ ПОКЛОНЯЦА
+[21:14:13] vasya karata: НЕТ
+[21:14:14] vasya karata: НЕФТ
+[21:14:19] vasya karata: НЕФЬТ
+[21:15:16] vasya karata: ЧТОБЫ
+[21:15:18] vasya karata: НЕЗАБАГОВАЛОСЬ
+[21:15:23] vasya karata: Я ДУМАЮ
+[21:15:27] vasya karata: ЭЛЕКТРИЧЕСТВО
+[21:15:29] vasya karata: НУЖНО Э
+[21:15:32] vasya karata: КАРОЧЕ
+[21:15:41] vasya karata: ПОДРУГОМУ СДЕЛАТЬ
+[21:15:49] vasya karata: НУЖНО Э ЩАС ПРОВЕРЮ
+[21:16:05] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowerbank
+[21:16:07] vasya karata<STEAM_0:0:814052183> spawned sent ent_rus_gmod_ezpowerline
+[21:16:08] vasya karata<STEAM_0:0:814052183> spawned sent ent_rus_gmod_ezpowerline
+[21:16:09] vasya karata<STEAM_0:0:814052183> spawned sent ent_rus_gmod_ezpowerline
+[21:16:09] vasya karata<STEAM_0:0:814052183> spawned sent ent_rus_gmod_ezpowerline
+[21:16:19] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezlfg
+[21:16:49] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[21:16:52] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[21:16:54] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[21:17:06] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[21:17:19] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[21:17:31] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgroundscanner
+[21:17:33] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[21:17:35] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[21:17:46] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[21:17:47] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaugerdrill
+[21:18:43] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezlfg
+[21:18:51] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[21:19:42] vasya karata: ПЫТАЮСЬ ЗАБОГАВАТЬ
+[21:20:34] vasya karata: ВОРУЕМ СИСТЕМУ ЭЛЕКТРИЧЕСТВА У МЕЛОН ВАРС
+[21:23:07] vasya karata: ТЕРАРИЯ ДОБАВИЛИ ГОВНО
+[21:26:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[21:29:27] vasya karata: ЭТО ГОВНО НЕЗЧОЕТТ КРАФТИ
+[21:29:40] vasya karata: ГДЕ МОИ 300 ПАРТКОВ
+[21:33:02] vasya karata: ВОООО
+[21:33:13] vasya karata: ЭТО Я ПОЧИНИЛ
+[21:33:20] vasya karata: НУ СЛОМАЛ
+[21:33:21] vasya karata: И ПОЧИНИЛ
+[21:38:13] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sherman_m4a3
+[21:38:19] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[21:39:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_wespe
+[21:39:33] RusLanConnection killed vasya karata using lvs_bomb
+[21:39:48] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:40:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:40:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfissilematerial
+[21:40:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:41:11] vasya karata: ТЫ ТУПОЙ НИГЕР МОЯ БАЗА
+[21:41:18] RusLanConnection teleported to vasya karata
+[21:41:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/rock001a.mdl
+[21:41:30] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/rock001a.mdl
+[21:43:10] Server is shutting down/changing levels.

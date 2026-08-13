@@ -1,0 +1,1417 @@
+[00:19:49] New map: gm_sro_highcliffs
+[00:31:30] Client "Mr_Pyro" connected.
+[00:32:00] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 30 seconds).
+[00:34:07] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_helicopter_cod_ah6
+[00:34:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_compressor
+[00:34:40] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodwillyjeep
+[00:34:42] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodwillyjeep
+[00:34:50] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodwillyjeep
+[00:35:09] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_turbo
+[00:35:09] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_compressor
+[00:35:19] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_transmission_manual
+[00:35:37] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_transmission_automatic
+[00:36:04] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_exhaust
+[00:36:18] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_item_gauge
+[00:38:11] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[00:38:41] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezhebomb
+[00:38:48] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[00:38:55] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[00:39:00] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[00:39:07] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[00:39:12] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[00:41:37] Mr_Pyro<STEAM_0:1:157056677> spawned sent textscreen_base
+[00:43:47] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[00:43:51] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[00:43:53] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[00:43:54] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[00:43:54] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[00:44:01] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[00:44:03] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[00:45:24] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_renaultft_m
+[00:45:34] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodsherman
+[00:46:25] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_renaultft_m
+[00:46:30] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_renaultft_m
+[00:46:53] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodsherman
+[00:47:07] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodsherman
+[00:47:32] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[00:47:53] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[00:48:38] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[00:48:42] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_renaultft_m
+[00:48:45] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodsherman
+[00:48:49] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[00:49:14] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_renaultft_m
+[00:50:30] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[00:50:30] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[00:50:47] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[00:51:33] Mr_Pyro cleared decals
+[00:51:42] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[00:51:48] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[00:51:50] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[00:51:52] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[00:51:53] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[00:51:55] Mr_Pyro<STEAM_0:1:157056677> spawned sent lvs_wheeldrive_dodtiger
+[00:53:45] Mr_Pyro silently slayed Themself
+[00:53:45] Mr_Pyro: !sslay Mr_Pyro
+[00:53:47] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[00:53:47] Mr_Pyro suicided!
+[01:39:49] Client "Soldier_S.C.A.F" connected.
+[01:43:30] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 221 seconds).
+[01:51:10] Client "Stepanpro09" connected.
+[01:53:49] Client "Stepanpro09" spawned in server <STEAM_0:1:500198897> (took 159 seconds).
+[01:56:22] Dropped "Stepanpro09" from server<STEAM_0:1:500198897>
+[01:56:22] Stepanpro09 suicided!
+[02:00:59] Client "ешкерембус" connected.
+[02:01:40] Client "ешкерембус" spawned in server <STEAM_0:0:625517352> (took 41 seconds).
+[02:02:13] Soldier_S.C.A.F: да так просто
+[02:02:27] Soldier_S.C.A.F: скучно мне поэтому
+[02:02:59] Soldier_S.C.A.F: ну вайпы щяс не особые поэтому
+[02:03:25] Soldier_S.C.A.F: и этот
+[02:03:34] Soldier_S.C.A.F: у меня еще идея
+[02:03:40] Soldier_S.C.A.F: реализовать что-то вроде ЧЗО
+[02:03:55] Soldier_S.C.A.F: ну
+[02:04:11] Soldier_S.C.A.F: да и тем более новое что-то хочется
+[02:05:01] Soldier_S.C.A.F: ладно как народ зайду тогда подумаю что придумать
+[02:05:08] Soldier_S.C.A.F: зайдет*
+[02:21:22] ешкерембус was killed by ent_jack_aidbox
+[02:30:47] Soldier_S.C.A.F: пиздец у меня короче
+[02:31:06] Soldier_S.C.A.F: я ресурсы не могу продать
+[02:31:21] Soldier_S.C.A.F: щя покажу тебе прикол
+[02:31:33] Soldier_S.C.A.F: да
+[02:31:54] Soldier_S.C.A.F: ебать
+[02:32:03] Soldier_S.C.A.F: а хули на другой части так
+[02:34:11] Soldier_S.C.A.F: !menu
+[02:34:16] Soldier_S.C.A.F: !rtv
+[02:45:24] Soldier_S.C.A.F: я уже думал тоже лестницу делать
+[02:45:49] Soldier_S.C.A.F: ну я кароч все таки зделаю
+[02:45:53] Soldier_S.C.A.F: зону отчуждения
+[02:47:33] Soldier_S.C.A.F: спс
+[02:47:57] Soldier_S.C.A.F: блять
+[02:48:04] ешкерембус: чо такое
+[02:48:12] Soldier_S.C.A.F: ящик керамики упал
+[02:48:23] Soldier_S.C.A.F: бывает иногда :p
+[02:48:25] ешкерембус: щя подниму
+[02:51:26] Soldier_S.C.A.F: фух
+[02:53:06] Soldier_S.C.A.F: ((
+[02:53:50] Client "klinskoe za 200" connected.
+[02:55:04] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 74 seconds).
+[02:55:23] Soldier_S.C.A.F: фух
+[02:55:25] Soldier_S.C.A.F: поймал
+[02:56:46] Client "lQBeisfu" connected.
+[02:57:37] Soldier_S.C.A.F: пиздец конечно ты зделал
+[02:57:48] Soldier_S.C.A.F: ооо
+[02:57:56] Soldier_S.C.A.F: эт очень хуево
+[02:58:08] klinskoe za 200: здрасте
+[02:58:12] Client "lQBeisfu" spawned in server <STEAM_0:0:919352780> (took 86 seconds).
+[02:58:27] klinskoe za 200: вы на горе жить собираетесь?
+[02:58:37] klinskoe za 200: бывает
+[02:58:54] lQBeisfu: мужики
+[03:00:08] Soldier_S.C.A.F: здаров
+[03:00:09] lQBeisfu: здарова
+[03:00:12] lQBeisfu: о
+[03:00:20] lQBeisfu: зона отчуждения тут?
+[03:00:25] Soldier_S.C.A.F: мм скоро
+[03:00:33] Soldier_S.C.A.F: у нас ОЧЕНЬ пьяная лестница
+[03:00:59] lQBeisfu: ну и не такие строил
+[03:01:09] Soldier_S.C.A.F: оставь пока тут
+[03:01:18] lQBeisfu: тогда я с тобой
+[03:01:20] Soldier_S.C.A.F: там лестница очень мешается
+[03:01:55] Soldier_S.C.A.F: м-да
+[03:02:05] Soldier_S.C.A.F: я ведь еще верстак умудрился угробить
+[03:02:12] lQBeisfu: ща упадет и будет настоящее чп в ЗО
+[03:02:54] lQBeisfu: .
+[03:03:47] Soldier_S.C.A.F: фух
+[03:03:55] lQBeisfu: лестница отбора смелых
+[03:04:05] Soldier_S.C.A.F: это испытаение было
+[03:04:07] Soldier_S.C.A.F: БАНАЛЬНО
+[03:04:14] lQBeisfu: ух ты
+[03:04:21] lQBeisfu: видок неплохой
+[03:04:28] lQBeisfu: и радио ловит
+[03:04:35] Soldier_S.C.A.F: ну вроде бы
+[03:04:47] Soldier_S.C.A.F: иногда груз могут не забрать
+[03:04:58] lQBeisfu: а че тут уран?
+[03:05:01] Soldier_S.C.A.F: о там клинский развивается
+[03:05:22] Soldier_S.C.A.F: очень затратно....
+[03:05:25] Client "mihavrawl" connected.
+[03:05:36] Soldier_S.C.A.F: пойду клинского позаву
+[03:05:37] lQBeisfu: какая же ЗО без урана?
+[03:06:11] lQBeisfu: .
+[03:06:25] lQBeisfu: .
+[03:06:42] lQBeisfu: .
+[03:10:18] Soldier_S.C.A.F: КЛИНСКИЙ здаров!
+[03:10:22] klinskoe za 200: здарова!
+[03:10:27] lQBeisfu: .
+[03:10:28] klinskoe za 200: я теперь зомбе
+[03:10:39] klinskoe za 200: но другой зомбе
+[03:10:44] klinskoe za 200: я ем зомбопопкорн
+[03:10:45] lQBeisfu: бля буду
+[03:10:55] Soldier_S.C.A.F: я щяс кароче наверху
+[03:10:58] Soldier_S.C.A.F: ЗОНУ делаю
+[03:11:04] klinskoe za 200: нифигасебе
+[03:11:11] Soldier_S.C.A.F: без рофла...
+[03:11:17] lQBeisfu: еле нашел вас
+[03:11:27] klinskoe za 200: ура даркрп дети пудут срок сидеть
+[03:11:37] lQBeisfu: вы о чем?
+[03:11:52] Soldier_S.C.A.F: а че не так?
+[03:12:02] klinskoe za 200: да наоборот все топ
+[03:12:11] Soldier_S.C.A.F: а
+[03:12:18] Soldier_S.C.A.F: слегка понял суть
+[03:12:31] Soldier_S.C.A.F: ох уж комьюнити щяс
+[03:12:42] klinskoe za 200: есть такое
+[03:12:55] Client "nikita..." connected.
+[03:13:36] Client "nikita..." spawned in server <STEAM_0:0:804487108> (took 41 seconds).
+[03:13:43] Soldier_S.C.A.F: тебе зделать как бы сказать...
+[03:13:47] Soldier_S.C.A.F: пропналет
+[03:13:53] klinskoe za 200: не
+[03:13:58] Soldier_S.C.A.F: бэлин
+[03:14:14] Soldier_S.C.A.F: просто с тобой бы прикольно было бы в зоне
+[03:14:22] (TEAM) klinskoe za 200: мммм
+[03:14:37] klinskoe za 200: ну если надо будет
+[03:14:51] klinskoe za 200: зомбе будут выбивать из плохих людей
+[03:14:54] klinskoe za 200: все плохое
+[03:15:00] Soldier_S.C.A.F: ладно
+[03:15:11] lQBeisfu: 2 машины за один скрудж
+[03:15:47] lQBeisfu: кстати у клинского крутая идея с зомби и модельками
+[03:15:56] (TEAM) klinskoe za 200: :]
+[03:16:11] lQBeisfu: сделай ящик пропадут ресы же
+[03:16:15] klinskoe za 200: of
+[03:16:17] (TEAM) klinskoe za 200: ща
+[03:16:29] lQBeisfu: кстати 
+[03:16:36] klinskoe za 200: ЕМАЕ
+[03:16:39] lQBeisfu: попкорн
+[03:16:46] lQBeisfu: то есть
+[03:16:53] lQBeisfu: кукуруза
+[03:17:00] klinskoe za 200: да
+[03:17:01] Soldier_S.C.A.F: да емае XD
+[03:17:14] Soldier_S.C.A.F: ппц ты его так называешь
+[03:17:30] lQBeisfu: нет в том смысле что я нашел саженец
+[03:17:34] lQBeisfu: семена*
+[03:17:40] Soldier_S.C.A.F: кароч
+[03:17:45] Soldier_S.C.A.F: полетели
+[03:17:51] lQBeisfu: о
+[03:17:52] klinskoe za 200: опа
+[03:17:58] lQBeisfu: технолочия
+[03:18:05] lQBeisfu: технолоджия
+[03:18:16] lQBeisfu: самалетжи
+[03:18:33] lQBeisfu: ЗО дает свои плоды технологии
+[03:18:53] Client "Zеленский" connected.
+[03:18:55] klinskoe za 200: ти зомбе?
+[03:19:02] lQBeisfu: украина 
+[03:19:04] nikita...: да вроде
+[03:19:17] klinskoe za 200: мы едим зомбопопкорн
+[03:19:24] lQBeisfu: че мы нефть добываем походу
+[03:19:26] klinskoe za 200: мозги уже прошлый век
+[03:19:35] Soldier_S.C.A.F: да
+[03:19:43] lQBeisfu: ЗО аирлейнс
+[03:19:52] lQBeisfu: бля
+[03:19:58] Soldier_S.C.A.F: аномалия на аномалии
+[03:20:00] lQBeisfu: это же летающий хер
+[03:20:06] Soldier_S.C.A.F: XD
+[03:20:08] lQBeisfu: полковник внимание на радар
+[03:20:11] nikita...: балоны взрываются
+[03:20:15] lQBeisfu: это же огромный...
+[03:20:16] Soldier_S.C.A.F: ема я не подумал XD
+[03:20:17] klinskoe za 200: знаю
+[03:21:40] lQBeisfu: а чего все на 50 %
+[03:22:13] Client "Zеленский" spawned in server <STEAM_0:1:760576820> (took 200 seconds).
+[03:22:56] Soldier_S.C.A.F: так
+[03:22:59] lQBeisfu: ты где керамики столько нашел
+[03:23:17] Soldier_S.C.A.F: определенные камушки разбирал
+[03:23:22] lQBeisfu: а
+[03:23:25] Soldier_S.C.A.F: так вот
+[03:23:30] nikita...: tungsteen
+[03:23:32] Soldier_S.C.A.F: у нас есть такая территория
+[03:23:45] Soldier_S.C.A.F: в принципе (в кавычках)
+[03:23:58] Soldier_S.C.A.F: достаточно
+[03:24:08] Soldier_S.C.A.F: но все равно буду импровизировать 
+[03:24:13] Soldier_S.C.A.F: кароч
+[03:24:14] nikita...: pindosi
+[03:24:19] Soldier_S.C.A.F: зделаю что-то вроде деревни
+[03:24:39] Soldier_S.C.A.F: кароч ты пока развивай
+[03:24:44] Soldier_S.C.A.F: я буду шаманить
+[03:27:19] Dropped "Zеленский" from server<STEAM_0:1:760576820>
+[03:27:19] Zеленский suicided!
+[03:27:51] nikita...: tungsten найден
+[03:28:02] klinskoe za 200: круто
+[03:28:06] Client "Zеленский" connected.
+[03:28:38] Client "Zеленский" spawned in server <STEAM_0:1:760576820> (took 32 seconds).
+[03:28:47] nikita...: радио надо?
+[03:30:01] Client "Польские Пряники" connected.
+[03:31:07] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 66 seconds).
+[03:31:35] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[03:31:35] Польские Пряники suicided!
+[03:31:43] klinskoe za 200: !motd
+[03:31:52] klinskoe za 200: !motd
+[03:31:54] (TEAM) nikita...: !motd
+[03:31:59] klinskoe za 200: !motd
+[03:32:10] Zеленский: !motd
+[03:32:29] nikita...: papyrus
+[03:32:38] (TEAM) nikita...: !papyrus
+[03:32:41] klinskoe za 200: черех войс это надо
+[03:32:51] klinskoe za 200: нет?
+[03:32:54] lQBeisfu: капец
+[03:33:04] lQBeisfu: у нас из добычи варианты нефть и железо
+[03:33:11] nikita...: Работает?
+[03:33:12] Soldier_S.C.A.F: нефти достаточно
+[03:33:14] nikita...: да
+[03:33:18] lQBeisfu: ну тут много ее
+[03:33:22] Soldier_S.C.A.F: кароч
+[03:33:33] Soldier_S.C.A.F: можешь щяс оценить образец
+[03:33:45] Soldier_S.C.A.F: пытался как мог
+[03:34:17] Soldier_S.C.A.F: типо ванная
+[03:34:24] lQBeisfu: ты специально с таким стилем?
+[03:34:28] Soldier_S.C.A.F: ну
+[03:34:30] Soldier_S.C.A.F: чем еще
+[03:34:38] Soldier_S.C.A.F: вот эта вот опора
+[03:34:43] Soldier_S.C.A.F: это камин
+[03:34:51] Soldier_S.C.A.F: или печка
+[03:34:53] Soldier_S.C.A.F: хз кароч
+[03:35:07] lQBeisfu: давай я лучше буду без обид
+[03:35:12] Soldier_S.C.A.F: ладно
+[03:35:17] lQBeisfu: там нефть провести пустяки
+[03:35:22] Soldier_S.C.A.F: угу
+[03:35:26] lQBeisfu: ресы есит
+[03:35:54] Client "Польские Пряники" connected.
+[03:36:57] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 63 seconds).
+[03:37:13] Soldier_S.C.A.F: мне не надо
+[03:39:29] Soldier_S.C.A.F: о тоже так решил
+[03:41:21] Soldier_S.C.A.F: пиздец
+[03:41:29] Soldier_S.C.A.F: когда мы успели керамику истратить
+[03:41:41] lQBeisfu: а че так можно было присобачить и все
+[03:41:43] lQBeisfu: а точно
+[03:41:45] lQBeisfu: обнова
+[03:41:57] Soldier_S.C.A.F: пойду с базы чо нибудь возьму
+[03:41:59] Soldier_S.C.A.F: с той*
+[03:42:27] Soldier_S.C.A.F: есть у вас керамика
+[03:42:31] Польские Пряники: А ГДЕ ЗОМБОПОПКОРН
+[03:42:34] Польские Пряники: НАХОДИТСЯ
+[03:42:37] lQBeisfu: ща
+[03:42:40] Soldier_S.C.A.F: хотя бы сколько-то
+[03:42:46] Soldier_S.C.A.F: у нас просто кончилась
+[03:42:54] Soldier_S.C.A.F: мм
+[03:43:09] nikita...: стали не хватает
+[03:43:17] klinskoe za 200: заказывай
+[03:43:26] lQBeisfu: вон
+[03:43:28] lQBeisfu: там
+[03:43:30] Польские Пряники: СПАСИБО
+[03:44:12] lQBeisfu: ладно проведу нефть
+[03:44:22] Soldier_S.C.A.F: может за одно найдешь керамику
+[03:44:50] Польские Пряники: А ГДЕ СПУСК
+[03:46:10] lQBeisfu: трогай некоторые пропы типо мебели или чет типо того для интерьера
+[03:46:16] lQBeisfu: физганом
+[03:46:21] Soldier_S.C.A.F: лады
+[03:46:41] Польские Пряники: АЙО ВАССАП
+[03:46:45] Soldier_S.C.A.F: аккум выпал
+[03:46:48] Польские Пряники: ЧУВАААК
+[03:46:49] nikita...: васап бро
+[03:46:58] Польские Пряники: ЩАС СТОЛИЦА БУДЕ
+[03:49:00] Soldier_S.C.A.F: я еще в себе держу мелкий мусор
+[03:49:07] nikita...: везде не больше 50%
+[03:49:14] nikita...: раньше было
+[03:49:34] nikita...: сейчас я больше 45% не могу выдавить
+[03:49:45] Soldier_S.C.A.F: о
+[03:49:47] Польские Пряники: Я ПРИДУМАЛ
+[03:49:47] Soldier_S.C.A.F: имба
+[03:50:01] Польские Пряники: БУЗИНЕСС
+[03:50:41] Польские Пряники: РЕАЛ
+[03:51:21] Soldier_S.C.A.F: еба
+[03:51:25] Soldier_S.C.A.F: почти 1к
+[03:53:10] Польские Пряники: Я ЩАС
+[03:53:31] nikita...: ты чего под землёй?
+[03:57:00] nikita...: гуманоиды значит похожи на человека (прямоходящие, 2 руки, 2 ноги, голо
+[03:57:19] nikita...:  а человек разве на человека не похож?
+[03:58:12] Soldier_S.C.A.F: ну куда нибудь распределишь
+[03:58:17] Soldier_S.C.A.F: нет
+[03:58:20] Польские Пряники: УМНО
+[03:58:43] klinskoe za 200: бабаха
+[03:58:45] Client "tentazione" connected.
+[03:58:59] lQBeisfu: надо больше деревьев они высыхают и дают атмосферы
+[03:59:04] lQBeisfu: чекай
+[03:59:13] Soldier_S.C.A.F: норм будет
+[03:59:17] Soldier_S.C.A.F: +атмосфера
+[03:59:30] lQBeisfu: нефть провел
+[03:59:33] Soldier_S.C.A.F: надо чтобы деревья выросли
+[03:59:35] lQBeisfu: будет перерабатыватся
+[03:59:38] Soldier_S.C.A.F: а это воду...
+[03:59:39] nikita...: где энергия?
+[03:59:51] lQBeisfu: из мусора подсобрать можно
+[03:59:53] klinskoe za 200: щас будет
+[03:59:57] lQBeisfu: семена и воду
+[04:00:11] Soldier_S.C.A.F: кароч найду воду
+[04:00:25] Польские Пряники: ЩАС РАЗБОГАТЕЕМ
+[04:00:31] klinskoe za 200: таааак
+[04:00:44] klinskoe za 200: ОЙ ОЙ ОЙ
+[04:01:09] Soldier_S.C.A.F: ема
+[04:01:18] Soldier_S.C.A.F: я кароч нашел золото с керамикой
+[04:01:25] klinskoe za 200: мудро мудро
+[04:01:30] lQBeisfu: а это че за аномалия
+[04:01:39] Soldier_S.C.A.F: еба
+[04:01:49] lQBeisfu: помню в похожей кульфрум делал бункер
+[04:01:56] lQBeisfu: это тяжело я пробовал
+[04:02:07] Soldier_S.C.A.F: прикольно
+[04:02:18] Soldier_S.C.A.F: кароч
+[04:02:22] Soldier_S.C.A.F: надо аномалии зделать
+[04:02:45] Польские Пряники: ЦЕВИЛИЗАТЬЕН
+[04:02:46] klinskoe za 200: можешь сделать у попкорна материал плоти?
+[04:03:04] klinskoe za 200: во
+[04:03:09] klinskoe za 200: вот это зомбо попкорн
+[04:03:14] nikita...: вкусно
+[04:04:11] Soldier_S.C.A.F: пиздец конечно
+[04:04:16] Soldier_S.C.A.F: есть что угодно
+[04:04:20] Soldier_S.C.A.F: но ток не вода...
+[04:05:43] Client "FunkyChickenCape" connected.
+[04:06:01] Client "Ṉeko_med" connected.
+[04:06:06] Client "Turkish Turkey" connected.
+[04:06:08] klinskoe za 200: ой ой ой
+[04:06:09] nikita...: песок в контейнер запихнул
+[04:06:19] klinskoe za 200: ЭТО ЧТО ЗА SERVERBLIGHT???
+[04:06:30] klinskoe za 200: а
+[04:06:33] klinskoe za 200: они вышли
+[04:06:35] nikita...: где?
+[04:06:46] klinskoe za 200: тут сразу 3 чела зашли
+[04:06:52] klinskoe za 200: и 2 вышли
+[04:06:52] Польские Пряники: ОЙ
+[04:07:13] Soldier_S.C.A.F: Я ВОДУ НАШЕЛ
+[04:07:24] lQBeisfu: ничего себе
+[04:07:26] lQBeisfu: близко?
+[04:07:27] Польские Пряники: ЧО НАД
+[04:07:28] Польские Пряники: ЩЯС
+[04:07:30] Soldier_S.C.A.F: там
+[04:07:32] Польские Пряники: ГО БАР
+[04:07:35] klinskoe za 200: опа
+[04:07:37] klinskoe za 200: это надо
+[04:07:44] klinskoe za 200: тут как раз есть керамика
+[04:07:46] Soldier_S.C.A.F: найс блин
+[04:07:51] lQBeisfu: слушай может с зомбями подружится?
+[04:07:56] Client "tentazione" spawned in server <STEAM_0:1:210525890> (took 551 seconds).
+[04:08:01] lQBeisfu: кукурузу порастить
+[04:08:05] lQBeisfu: я умею
+[04:08:14] Польские Пряники: ДОБЫТЬ
+[04:08:37] lQBeisfu: если нас касатся не будет
+[04:08:57] Soldier_S.C.A.F: просто а смысл с нами воевать
+[04:08:59] lQBeisfu: с наводкой определитесь сначала
+[04:09:13] Dropped "tentazione" from server<STEAM_0:1:210525890>
+[04:09:13] tentazione suicided!
+[04:09:13] Client "tentazione" connected.
+[04:09:17] lQBeisfu: ну зомби
+[04:09:21] lQBeisfu: гнилушки
+[04:09:24] klinskoe za 200: как я понял
+[04:09:27] lQBeisfu: ладно
+[04:09:30] lQBeisfu: воды надо?
+[04:09:39] klinskoe za 200: мы самое продвинутое поколение зомбе
+[04:09:39] Польские Пряники: А
+[04:09:42] Soldier_S.C.A.F: там вода
+[04:09:43] Польские Пряники: ДА
+[04:09:46] Soldier_S.C.A.F: где сканер
+[04:09:47] Польские Пряники: ВАЩЕ
+[04:09:50] lQBeisfu: короче
+[04:09:55] lQBeisfu: поторгуем водой потом
+[04:10:01] lQBeisfu: бабла срубим
+[04:10:05] Soldier_S.C.A.F: лады
+[04:10:10] Soldier_S.C.A.F: наверное там где вода
+[04:10:17] Soldier_S.C.A.F: там будет ну как сказать
+[04:10:19] Soldier_S.C.A.F: бар
+[04:10:23] lQBeisfu: хехе
+[04:10:49] lQBeisfu: хехе
+[04:10:51] klinskoe za 200: идейка есть
+[04:10:55] klinskoe za 200: на втором этаже
+[04:11:04] klinskoe za 200: сделать гостинницу
+[04:11:06] Client "Мастурбист" connected.
+[04:11:14] klinskoe za 200: и в некоторые комнаты зомбе поставить
+[04:11:15] Польские Пряники: Я ХОТЕЛ 2ХЭТАЖНЫЙ БАР
+[04:11:21] Польские Пряники: КАК ДИКИЙ ЗАПАД
+[04:11:23] klinskoe za 200: ммм
+[04:11:25] (TEAM) klinskoe za 200: тогда
+[04:11:30] klinskoe za 200: я домики сделаю
+[04:11:32] klinskoe za 200: :]
+[04:12:28] klinskoe za 200: АХАХ
+[04:12:36] Zеленский: !motd 
+[04:12:39] Польские Пряники: ТОНИРОВАННЫЕ СТЕКЛА
+[04:12:45] Польские Пряники: ПРЯМО КАК В ТОРГОВОМ ЦЕНТРЕ
+[04:12:49] klinskoe za 200: Я ХОЧУ ПО ПРИКОЛУ ПОДОЙТИ К ЧЕЙТО БАЗЕ С ВОПРОСОМ
+[04:12:52] klinskoe za 200: а вы верите
+[04:12:58] klinskoe za 200: в великого зомби?
+[04:13:05] lQBeisfu: у меня плохое предчуствие надо противогазы сделать
+[04:13:12] lQBeisfu: купить
+[04:13:22] klinskoe za 200: этот дикий запад просто имба
+[04:13:39] Польские Пряники: ДВУХЭТАЖНЫЕ РАНЬШЕ БЫЛИ
+[04:13:55] klinskoe za 200: а щас нубасы разучились так делать
+[04:14:12] (TEAM) klinskoe za 200: только одноэтажки крайтят
+[04:14:14] Zеленский: !motd 
+[04:14:38] nikita...: я тут арматуру нашёл
+[04:14:45] nikita...: пропала
+[04:15:02] lQBeisfu: меня в любой войне бомбили газом
+[04:15:06] lQBeisfu: если промахнулись
+[04:15:36] Soldier_S.C.A.F: нука
+[04:15:40] Soldier_S.C.A.F: будет работать или нет
+[04:15:51] Польские Пряники: АХАХХААХАХА
+[04:15:56] klinskoe za 200: и что за позор был
+[04:15:58] Soldier_S.C.A.F: фух
+[04:16:05] Польские Пряники: НЕНА.
+[04:16:08] Польские Пряники: Ю
+[04:16:12] Soldier_S.C.A.F: блять
+[04:16:23] Soldier_S.C.A.F: не прогодал
+[04:17:51] lQBeisfu: если что противогазы тут
+[04:17:55] Soldier_S.C.A.F: угу
+[04:18:05] Польские Пряники: СТАЛКЕР
+[04:18:12] klinskoe za 200: ага
+[04:18:37] Soldier_S.C.A.F: похилится надо было
+[04:19:45] Soldier_S.C.A.F to admins: кульфрум не хочешь оценить хутор. под стилистику зоны как могли дела
+[04:19:52] nikita...: вообще тогда были салуны в 1 этаж, но с высокими потолками
+[04:19:55] Польские Пряники: НИГ
+[04:19:58] Client "Мастурбист" spawned in server <STEAM_0:0:175607371> (took 532 seconds).
+[04:20:23] lQBeisfu: нихуя себе
+[04:20:29] klinskoe za 200: что блять
+[04:20:31] lQBeisfu: нихуя
+[04:20:35] lQBeisfu: ты видел?
+[04:20:37] lQBeisfu: как он 
+[04:20:38] Польские Пряники: Я САМ
+[04:20:40] lQBeisfu: это написал
+[04:22:25] nikita...: есть ли на нас компромат?
+[04:22:37] Soldier_S.C.A.F: я росток строить буду
+[04:22:59] (TEAM) nikita...: да чо tungsten по 9 долеров
+[04:24:09] Client "Mr_Pyro" connected.
+[04:24:36] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 27 seconds).
+[04:25:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_parachute
+[04:25:35] lQBeisfu: газик одень на всякий случай
+[04:25:38] lQBeisfu: все стабильно у меня
+[04:25:39] nikita...: готовимся к войне?
+[04:26:13] klinskoe za 200: Я АФК
+[04:26:52] klinskoe za 200 was killed by ent_jack_gmod_ezcrate_uni
+[04:26:59] Zеленский suicided!
+[04:27:00] Польские Пряники slayed Zеленский
+[04:27:18] Польские Пряники to admins: ПОШЛИ К НАМ
+[04:27:26] Soldier_S.C.A.F: пиздец
+[04:27:31] Soldier_S.C.A.F: керамика кончилась
+[04:27:39] lQBeisfu: ты немного плохо строишь
+[04:27:42] Мастурбист: !motd
+[04:27:46] Soldier_S.C.A.F: да знаю
+[04:27:47] nikita... killed nikita...
+[04:27:48] lQBeisfu: ЕБАТЬ ТАМ ГАЗА
+[04:27:52] Soldier_S.C.A.F: но это ИМПРОВИЗАЦИЯ
+[04:27:53] lQBeisfu: НЕ ЗРЯ ГАЗИК БРАЛ
+[04:28:02] Soldier_S.C.A.F: хуя газа
+[04:28:03] Польские Пряники: ТЫ КТРО
+[04:28:07] lQBeisfu: бедные зомби
+[04:28:12] Польские Пряники: ЧУВАК
+[04:28:16] Польские Пряники: ТЫ КТО
+[04:28:16] ешкерембус killed klinskoe za 200 using tfa_doik98_scop
+[04:28:22] Польские Пряники: ПРИСТРЕЛЮ ЖЕ
+[04:28:22] Soldier_S.C.A.F: но про постройки кароч
+[04:28:23] Польские Пряники: КТО ТЫ
+[04:28:30] lQBeisfu: бегают как муравьи когда им ребенок снес муравейник ногой
+[04:28:30] Soldier_S.C.A.F: это ИМПРОВИЗАЦИЯ
+[04:28:33] Польские Пряники: МОЖЕШЬ ИДТИ
+[04:28:41] ешкерембус killed nikita... using tfa_doik98_scop
+[04:28:54] Soldier_S.C.A.F: я при учете ограничений не смогу же прям в копию создать
+[04:29:01] klinskoe za 200 killed ешкерембус using tfa_doik98_scop
+[04:29:06] Польские Пряники killed Zеленский using tfa_doim1912
+[04:29:10] lQBeisfu: ЗО
+[04:29:10] Soldier_S.C.A.F: а
+[04:29:22] Soldier_S.C.A.F: мы ЗОНУ создаем
+[04:29:27] Soldier_S.C.A.F: зону отчуждения
+[04:29:36] Польские Пряники killed Zеленский using tfa_doim1912
+[04:29:37] ешкерембус killed Польские Пряники using tfa_doispringfield
+[04:29:38] Soldier_S.C.A.F:  да нет норм
+[04:29:42] Soldier_S.C.A.F: а емае
+[04:29:47] Soldier_S.C.A.F: я тебя НЕ УЗНАЛ
+[04:29:53] Soldier_S.C.A.F: слушай
+[04:29:54] lQBeisfu: тут туча газа была
+[04:29:58] Soldier_S.C.A.F: не хочешь помочь
+[04:30:09] Soldier_S.C.A.F: лады
+[04:30:25] klinskoe za 200 killed lQBeisfu using tfa_doik98_scop
+[04:30:30] Польские Пряники to admins: АЛЕ К НАМ
+[04:30:30] Soldier_S.C.A.F to admins: пиро я вот тебе скажу что у нас керамика кончилась
+[04:30:34] lQBeisfu: мда
+[04:30:40] nikita...: я тут посижу
+[04:30:42] lQBeisfu: уходи
+[04:30:47] lQBeisfu: нас не за тех принимают
+[04:30:58] Soldier_S.C.A.F: норм
+[04:31:02] Soldier_S.C.A.F: мы мирные
+[04:31:29] Client "PoPcat" connected.
+[04:31:30] lQBeisfu: в дома
+[04:31:54] Польские Пряники killed Zеленский using tfa_doienfield
+[04:31:54] ешкерембус killed Польские Пряники using tfa_doispringfield
+[04:32:02] lQBeisfu: СЮДА
+[04:32:06] lQBeisfu: СОЛДАТ
+[04:32:10] nikita...: зомбо
+[04:32:11] lQBeisfu: В ДОМА
+[04:32:12] Польские Пряники: АЛЕЕЕ
+[04:32:14] Польские Пряники: ПОМОГИ НАМ
+[04:32:21] Soldier_S.C.A.F: если мешкаться не будем
+[04:32:25] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 56 seconds).
+[04:32:27] Soldier_S.C.A.F: не будут по нам палить
+[04:32:35] lQBeisfu: ладно
+[04:32:39] Soldier_S.C.A.F: так
+[04:32:44] lQBeisfu: а
+[04:32:47] Soldier_S.C.A.F: НАМ КЕРАМИКА НУЖНА
+[04:32:47] lQBeisfu: соседи устранили уже
+[04:33:28] lQBeisfu: зачем ты в инвентарь собираешь?
+[04:33:36] Soldier_S.C.A.F: чтобы побольше было
+[04:33:50] lQBeisfu: так они не дюпаются так)
+[04:34:06] klinskoe za 200 killed ешкерембус using tfa_doik98_scop
+[04:34:13] klinskoe za 200 killed Zеленский using tfa_doik98_scop
+[04:34:33] klinskoe za 200 killed Zеленский using tfa_doik98_scop
+[04:34:35] klinskoe za 200 killed ешкерембус using tfa_doik98_scop
+[04:34:35] ешкерембус killed klinskoe za 200 using player
+[04:34:38] Mr_Pyro suicided!
+[04:34:38] Польские Пряники slayed Mr_Pyro
+[04:35:10] lQBeisfu: давай к нам
+[04:35:17] lQBeisfu: соседи просто
+[04:35:38] nikita... to admins: бьют без причины
+[04:35:52] Польские Пряники killed Zеленский using tfa_doienfield
+[04:36:01] Польские Пряники killed ешкерембус using tfa_doienfield
+[04:36:02] Польские Пряники killed Zеленский using tfa_doienfield
+[04:36:12] Польские Пряники killed Zеленский using tfa_doienfield
+[04:36:14] Польские Пряники killed ешкерембус using tfa_doienfield
+[04:36:25] Польские Пряники killed ешкерембус using tfa_doienfield
+[04:36:28] Zеленский killed Mr_Pyro using tfa_doienfield
+[04:36:30] Zеленский killed Польские Пряники using tfa_doienfield
+[04:36:39] Soldier_S.C.A.F: просто не мешкаемся и все
+[04:36:44] lQBeisfu: давай камушков соберу
+[04:36:54] Soldier_S.C.A.F: +
+[04:37:05] lQBeisfu: еба
+[04:37:07] Мастурбист: !motd
+[04:37:12] lQBeisfu: откуда у них такая слажаность
+[04:37:18] lQBeisfu: впервые такое вижу
+[04:37:21] lQBeisfu: чтоб именно
+[04:37:22] lQBeisfu: кучей
+[04:37:26] lQBeisfu: стреляли
+[04:37:34] lQBeisfu: афигенно
+[04:38:54] Мастурбист: !menu
+[04:39:37] lQBeisfu: че ты делаешь
+[04:39:41] lQBeisfu: видишь палят по нам
+[04:39:47] ешкерембус killed Mr_Pyro using tfa_doik98_scop
+[04:39:51] ешкерембус killed Польские Пряники using tfa_doik98_scop
+[04:40:12] lQBeisfu: кто то тут уже
+[04:40:14] klinskoe za 200 killed ешкерембус using tfa_doim3greasegun
+[04:40:19] Soldier_S.C.A.F: не мешкаемся
+[04:40:20] Польские Пряники cloaked Themself by amount 0
+[04:40:28] Soldier_S.C.A.F: прост озанимаемся своими делами
+[04:40:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezincendiarybomb
+[04:40:37] lQBeisfu: никого не вижу
+[04:41:02] lQBeisfu: тупые машины
+[04:41:05] Польские Пряники stripped weapons from Themself
+[04:41:08] Soldier_S.C.A.F: норм
+[04:41:13] Soldier_S.C.A.F: для ростка подойдут
+[04:41:29] lQBeisfu: что за росток? название такое что ли?
+[04:41:48] Soldier_S.C.A.F: ну предприятие в зоне в целом
+[04:41:54] lQBeisfu: мы мирные
+[04:42:03] lQBeisfu: чего?
+[04:42:07] Soldier_S.C.A.F: мы нет
+[04:42:07] lQBeisfu: кто?
+[04:42:12] lQBeisfu: мы сами по себе
+[04:42:18] Soldier_S.C.A.F: мы для ЧЗО это делаем
+[04:42:24] Польские Пряники uncloaked Themself
+[04:42:27] Soldier_S.C.A.F: там хутора
+[04:42:30] Soldier_S.C.A.F: а здесь росток
+[04:42:40] Soldier_S.C.A.F: прям не очень конечно
+[04:42:44] Soldier_S.C.A.F: но это импровизация
+[04:42:51] Soldier_S.C.A.F: как можно в этом плане
+[04:42:54] Mr_Pyro killed ешкерембус using tfa_doim3greasegun
+[04:43:00] lQBeisfu: уууу
+[04:43:02] lQBeisfu: хахах
+[04:43:04] klinskoe za 200 killed ешкерембус using ent_jack_gmod_eznapalm
+[04:43:11] lQBeisfu: ну дают
+[04:43:11] Mr_Pyro killed Zеленский using tfa_doim3greasegun
+[04:43:13] klinskoe za 200 killed ешкерембус using tfa_doim3greasegun
+[04:43:18] lQBeisfu: снимай скорее
+[04:43:22] klinskoe za 200 killed ешкерембус using tfa_doim3greasegun
+[04:43:23] nikita... killed lQBeisfu using tfa_doithompsonm1a1
+[04:43:24] Mr_Pyro killed Zеленский using tfa_doim3greasegun
+[04:43:30] Mr_Pyro killed ешкерембус using tfa_doim3greasegun
+[04:43:32] lQBeisfu: я тут
+[04:43:33] klinskoe za 200 killed Zеленский using tfa_doim3greasegun
+[04:43:36] nikita... killed lQBeisfu using tfa_doithompsonm1a1
+[04:43:38] Soldier_S.C.A.F: АЛЕ
+[04:43:41] Mr_Pyro killed ешкерембус using tfa_doim3greasegun
+[04:43:42] Soldier_S.C.A.F: МЫ ТУТ ПРИЧЕМ
+[04:43:50] Mr_Pyro killed Zеленский using tfa_doim3greasegun
+[04:43:50] lQBeisfu: что мы сделали
+[04:43:52] Mr_Pyro killed ешкерембус using tfa_doim3greasegun
+[04:43:52] nikita...: блин
+[04:43:57] lQBeisfu: мы вам даем вам пройти к ним
+[04:43:57] nikita...: я не туда
+[04:44:02] nikita...: сорян
+[04:44:04] Польские Пряники killed ешкерембус using tfa_doithompsonm1a1
+[04:44:25] lQBeisfu: один наплечник потерял((
+[04:44:29] Dropped "ешкерембус" from server<STEAM_0:0:625517352>
+[04:44:29] ешкерембус suicided!
+[04:44:40] nikita...: где враги?
+[04:44:45] nikita...: где база?
+[04:45:06] Dropped "Zеленский" from server<STEAM_0:1:760576820>
+[04:45:06] Zеленский suicided!
+[04:45:07] lQBeisfu: ох ты
+[04:45:14] lQBeisfu: а вроде массово стреляли они
+[04:46:26] nikita...: предлагаю всё вниз скинуть
+[04:46:42] nikita...: у наз нету ничего
+[04:46:47] lQBeisfu: празднуют видимо
+[04:46:51] nikita...:  и бара у нас нету
+[04:47:17] lQBeisfu: можно сложить газики и вдохнуть полной грудью
+[04:47:39] lQBeisfu: чо делаешь
+[04:47:46] Soldier_S.C.A.F: аномалию "дверь"
+[04:47:50] nikita...: физган дайте пж
+[04:48:45] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfirenade
+[04:48:52] PoPcat: MOZGIII
+[04:49:01] PoPcat: gDE MOZGIII
+[04:50:03] lQBeisfu: зомби чуть чуть наши ресы использовали
+[04:50:08] Soldier_S.C.A.F: мм
+[04:50:53] nikita...: у нас 2 сквада?
+[04:50:56] Soldier_S.C.A.F: мм
+[04:51:11] Soldier_S.C.A.F: тут керамика есть
+[04:51:14] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[04:51:14] Mr_Pyro suicided!
+[04:51:32] Soldier_S.C.A.F: бэлин
+[04:51:36] Soldier_S.C.A.F: мало керамики
+[04:51:42] lQBeisfu: честно говоря мне уже свист мерещится вот это ПТСР
+[04:51:52] nikita...: тоже
+[04:51:55] lQBeisfu: сними газик
+[04:52:01] Soldier_S.C.A.F: поможете построить ЗОНУ
+[04:52:02] lQBeisfu: не видно же
+[04:52:15] lQBeisfu: деньгами помочь?
+[04:52:38] lQBeisfu: ну если что поможем
+[04:53:12] lQBeisfu: только главное дверь не разбирать
+[04:53:19] Soldier_S.C.A.F: онон не разберется
+[04:53:23] lQBeisfu: а то будет аномалия пакеты
+[04:53:26] lQBeisfu: не
+[04:53:32] lQBeisfu: а может и пофиксили уже
+[04:53:34] Soldier_S.C.A.F: чеза пакеты
+[04:53:41] lQBeisfu: а ты разбери одну)
+[04:53:53] Soldier_S.C.A.F: а
+[04:53:59] Soldier_S.C.A.F: иза ошибок
+[04:54:03] lQBeisfu: пофиксили((
+[04:54:33] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/lampshade001a.mdl
+[04:54:34] lQBeisfu: давайте
+[04:54:37] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_borealis/door_wheel001a.mdl
+[04:54:40] Soldier_S.C.A.F was killed by build_prop
+[04:54:57] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnitureshelf001b.mdl
+[04:54:58] lQBeisfu: сделай невесомой
+[04:55:11] lQBeisfu: ураа
+[04:55:17] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/pulleywheels_large01.mdl
+[04:55:19] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/pulleywheels_small01.mdl
+[04:55:21] lQBeisfu: аномалия
+[04:55:24] Client "™eXigent" connected.
+[04:55:28] Soldier_S.C.A.F: что делаем
+[04:55:35] lQBeisfu: в коробку какую то надо
+[04:55:40] Client "kkii69330" connected.
+[04:55:45] Soldier_S.C.A.F: ебать :D
+[04:55:54] Soldier_S.C.A.F: и какие  это
+[04:56:13] Soldier_S.C.A.F: эт пленка
+[04:56:24] Польские Пряники<STEAM_0:0:555258766> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[04:56:28] Soldier_S.C.A.F: не ОЧЕНЬ ПРИКОЛЬНО
+[04:56:42] Soldier_S.C.A.F: может даже карта будет из переделки со сталкача
+[04:56:59] Soldier_S.C.A.F: идея то моя даи стараюсь
+[04:57:37] Польские Пряники was killed by prop_physics
+[04:58:00] Soldier_S.C.A.F: блять
+[04:58:05] Soldier_S.C.A.F: у нас керамика КОНЧИЛАСЬ
+[04:58:11] lQBeisfu: бля
+[04:58:14] lQBeisfu: ща
+[04:58:16] nikita...: что делать?
+[04:58:24] Soldier_S.C.A.F to admins: кульфрум можешь помочь
+[04:58:30] Soldier_S.C.A.F to admins: у нас керамика кончилась
+[04:58:36] lQBeisfu: ой
+[04:58:42] Dropped "Мастурбист" from server<STEAM_0:0:175607371>
+[04:58:42] Мастурбист suicided!
+[04:59:00] Soldier_S.C.A.F: это как с ночной звездой в ТЧ
+[04:59:04] lQBeisfu: вот
+[04:59:04] nikita... suicided!
+[04:59:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[04:59:12] lQBeisfu: щас будет чп
+[04:59:15] lQBeisfu: ХАХАХ
+[04:59:24] lQBeisfu: леха тормози меня быстрей
+[04:59:28] Soldier_S.C.A.F: он единнственный арт который может путешествовать
+[04:59:35] Soldier_S.C.A.F: без рофла
+[05:00:21] Soldier_S.C.A.F: во
+[05:00:23] nikita...: а пятно в углу навсегда?
+[05:00:24] Soldier_S.C.A.F: застопил
+[05:00:26] Client "Mr_Pyro" connected.
+[05:00:35] nikita...: ок
+[05:00:44] Польские Пряники cloaked Themself by amount 0
+[05:01:02] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 36 seconds).
+[05:01:14] lQBeisfu: вот закрыл)
+[05:01:15] Mr_Pyro cloaked Themself by amount 0
+[05:01:15] Mr_Pyro: !cloak Mr_Pyro
+[05:01:20] lQBeisfu: попрыгунчик нравится
+[05:01:24] lQBeisfu: веселый
+[05:01:30] Soldier_S.C.A.F: это медуза
+[05:01:38] Mr_Pyro uncloaked Themself
+[05:01:38] Mr_Pyro: !uncloak Mr_Pyro
+[05:01:39] lQBeisfu: все закончилась
+[05:01:42] lQBeisfu: застыла
+[05:02:05] Польские Пряники<STEAM_0:0:555258766> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[05:02:08] Mr_Pyro to admins: нига
+[05:02:13] Mr_Pyro to admins: ты чё всё
+[05:02:17] Mr_Pyro to admins: наигрался
+[05:02:21] (TEAM) nikita...: ок
+[05:02:25] Польские Пряники to admins: STALK
+[05:02:29] lQBeisfu: я слышу админа
+[05:02:55] Mr_Pyro: ку
+[05:03:15] Client "Мастурбист" connected.
+[05:03:40] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_junk/meathook001a.mdl
+[05:03:47] lQBeisfu: чертова коробка не выдерживает
+[05:03:49] Client "Какашки мне в кар" connected.
+[05:03:51] Client "Мастурбист" spawned in server <STEAM_0:0:175607371> (took 36 seconds).
+[05:03:56] nikita...: ящйк свистнули
+[05:04:11] nikita...: ЯЩИКА НЕТ
+[05:05:10] Client "kkii69330" connected.
+[05:05:12] Client "™eXigent" spawned in server <STEAM_0:1:848936725> (took 588 seconds).
+[05:05:42] Client "Andrey 2325" connected.
+[05:05:59] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[05:06:08] Dropped "nikita..." from server<STEAM_0:0:804487108>
+[05:06:08] nikita... suicided!
+[05:06:18] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_junk/cinderblock01a.mdl
+[05:06:55] Soldier_S.C.A.F: о
+[05:07:00] Soldier_S.C.A.F: это мне?
+[05:07:01] lQBeisfu: запускаем
+[05:07:07] Soldier_S.C.A.F: 3
+[05:07:07] lQBeisfu: в честь нас
+[05:07:10] Soldier_S.C.A.F: 2
+[05:07:12] Soldier_S.C.A.F: 1
+[05:07:18] Soldier_S.C.A.F: блять
+[05:07:26] Soldier_S.C.A.F: ееее
+[05:07:26] lQBeisfu: кайф
+[05:07:38] lQBeisfu: пойду продам че нибудь
+[05:07:44] Soldier_S.C.A.F: лады
+[05:08:00] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfuel
+[05:09:02] Soldier_S.C.A.F: ебать
+[05:09:03] Soldier_S.C.A.F: АРТ
+[05:09:08] Soldier_S.C.A.F: стой
+[05:10:05] lQBeisfu: еще
+[05:10:07] Soldier_S.C.A.F: ты даже не представляеш
+[05:10:14] Soldier_S.C.A.F: где я был
+[05:10:18] Soldier_S.C.A.F: и что ВИДЕЛ
+[05:10:22] lQBeisfu: зомбе
+[05:10:27] klinskoe za 200: !motd
+[05:10:33] Польские Пряники: БЛИН
+[05:10:34] Soldier_S.C.A.F: XD
+[05:10:35] lQBeisfu: еба
+[05:10:39] Польские Пряники brought klinskoe za 200
+[05:10:39] Польские Пряники: !BRING KLI
+[05:10:41] Польские Пряники: ПОЗОР
+[05:10:44] lQBeisfu: АРТЕФАКТ ГДЕ
+[05:10:45] Польские Пряники: ПОЗОООР
+[05:10:48] Soldier_S.C.A.F: ПИЗДЕЦ ТУПЫМ СПОСОБОМ ПОМЕР
+[05:10:53] Польские Пряники: СПИЛСЯ
+[05:10:57] Soldier_S.C.A.F: ПРЕМИЯ ДАРВИНА
+[05:10:57] Польские Пряники: И РЕШИЛ СУИЦИД
+[05:10:59] Польские Пряники: СДЕЛАТЬ
+[05:11:12] Soldier_S.C.A.F: КУДА
+[05:11:15] Soldier_S.C.A.F: АРТ ПОЛЕТЕЛ
+[05:11:21] Soldier_S.C.A.F: МНЕ ТУДА
+[05:11:27] Мастурбист killed PoPcat using ent_jack_gmod_ezgroundscanner
+[05:11:57] Soldier_S.C.A.F: у вас артефакт случаем не пролетал
+[05:12:01] Soldier_S.C.A.F: такой
+[05:12:04] Soldier_S.C.A.F: большой
+[05:12:07] Soldier_S.C.A.F: и ПРЯМОУГОЛЬНЫЙ
+[05:12:20] Soldier_S.C.A.F: ну хоть типо XD
+[05:12:27] Soldier_S.C.A.F: пиздец конечно
+[05:12:32] Soldier_S.C.A.F: клинский ну ты даешь
+[05:12:48] lQBeisfu: А ГДЕ ПОПКОРН
+[05:13:16] lQBeisfu: саундтрек))
+[05:13:29] Client "kkii69330" connected.
+[05:13:31] Польские Пряники: А
+[05:13:33] lQBeisfu: слизни
+[05:13:35] Польские Пряники: ДА
+[05:13:37] Soldier_S.C.A.F: нука опеши
+[05:13:49] Soldier_S.C.A.F: хм
+[05:13:52] Soldier_S.C.A.F: не знаю такое
+[05:13:56] Польские Пряники: В МОДАХ ВОССТАНОВЛЕННАЯ
+[05:14:00] lQBeisfu: во черные слизни
+[05:14:05] lQBeisfu: да
+[05:14:14] lQBeisfu: оу щит
+[05:14:19] lQBeisfu: вонюшка
+[05:14:24] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfuel
+[05:14:27] lQBeisfu: АНОМАЛИЯ
+[05:14:29] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[05:14:32] lQBeisfu: МНЕ
+[05:14:44] Soldier_S.C.A.F: ксати
+[05:14:48] Soldier_S.C.A.F: зацените там бар
+[05:15:00] Client "Andrey 2325" spawned in server <STEAM_0:1:653044863> (took 558 seconds).
+[05:15:04] Client "kkii69330" spawned in server <STEAM_0:1:849253896> (took 95 seconds).
+[05:15:09] Soldier_S.C.A.F: ебать
+[05:15:17] lQBeisfu: нете
+[05:15:21] Soldier_S.C.A.F: АРТ
+[05:15:26] Soldier_S.C.A.F: АРТ У ВРАГА
+[05:15:34] Soldier_S.C.A.F: БЛЧТЬ
+[05:15:45] Польские Пряники set the hp for Themself to 213412342
+[05:16:17] Soldier_S.C.A.F to admins: кульфрум зделай вид что меня арт пытается убить
+[05:16:35] Польские Пряники teleported to Soldier_S.C.A.F
+[05:16:49] Soldier_S.C.A.F: а помогите!
+[05:16:55] Soldier_S.C.A.F: меня арт хочет убить
+[05:17:03] Soldier_S.C.A.F: ДА БЛЯТЬ XD
+[05:17:09] klinskoe za 200: кульфрум, ты тут?
+[05:17:12] Польские Пряники: KLF
+[05:17:25] klinskoe za 200: тут идейка есть
+[05:17:26] lQBeisfu: чп
+[05:17:27] lQBeisfu: ЧП
+[05:17:31] klinskoe za 200: можешь костер поставить?
+[05:17:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_ezcampfire
+[05:17:43] Soldier_S.C.A.F: о
+[05:17:45] klinskoe za 200: во
+[05:17:47] klinskoe za 200: спасибо
+[05:17:49] Soldier_S.C.A.F: ЕБАТЬ АТМОСФЕРНО БУДЕТ
+[05:17:51] klinskoe za 200: :]
+[05:17:58] Польские Пряники: ОН ВРОДЕ УГЛЕМ
+[05:17:59] Польские Пряники: ТОК
+[05:18:03] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezcoal
+[05:18:09] Польские Пряники: ДА УГЛЕМ
+[05:18:38] lQBeisfu: ВСЕ АРТЕФАКТЫ УМНЫЕ
+[05:18:45] klinskoe za 200 was killed by build_prop
+[05:19:42] lQBeisfu: ОН ПРОБУЖДАЕТСЯ....
+[05:19:54] klinskoe za 200 killed lQBeisfu using player
+[05:20:04] Польские Пряники teleported to klinskoe za 200
+[05:20:43] Mr_Pyro to admins: у меня куб мапы опять сломались - буду разбераться
+[05:20:46] ™eXigent killed Andrey 2325 using tfa_doienfield
+[05:20:57] klinskoe za 200 was killed by build_prop
+[05:21:22] Mr_Pyro silently slayed Themself
+[05:21:22] Mr_Pyro: !sslay Mr_Pyro
+[05:21:23] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[05:21:23] Mr_Pyro suicided!
+[05:21:55] Soldier_S.C.A.F was killed by prop_physics
+[05:22:34] lQBeisfu: а че в костре делать то
+[05:22:47] lQBeisfu: воду
+[05:22:50] lQBeisfu: кипятить
+[05:23:02] ™eXigent killed Andrey 2325 using wep_jack_gmod_ezaxe
+[05:23:09] lQBeisfu: возьми трубку чечня на связи
+[05:23:45] lQBeisfu: АХАХА
+[05:23:49] lQBeisfu: Э
+[05:24:13] Польские Пряники<STEAM_0:0:555258766> spawned sent sent_jumppad_medium
+[05:24:39] lQBeisfu: че за звуки
+[05:24:50] lQBeisfu: о
+[05:25:24] Польские Пряники<STEAM_0:0:555258766> spawned sent sent_jumppad_small
+[05:26:54] Польские Пряники: Я РАССТАВИЛ АНОМАЛИИ
+[05:26:56] lQBeisfu: 600 бензина за 15к)
+[05:27:24] Польские Пряники: МОЖН
+[05:27:25] Польские Пряники: ВСЕ
+[05:27:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezthermobaricbomb
+[05:27:59] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznukerocket
+[05:28:04] lQBeisfu: ойойо
+[05:28:05] lQBeisfu: ОЙ
+[05:28:11] Client "А ПО ЖОПЕ!?" connected.
+[05:29:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezthermobaricbomb
+[05:29:08] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezincendiarybomb
+[05:29:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezincendiarybomb
+[05:29:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[05:29:36] lQBeisfu: ПАТИ
+[05:29:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsticknadebundle
+[05:30:18] lQBeisfu: НАМ НУЖЕН ДИВАН ЕЗДЯЮЩИЙ
+[05:30:32] lQBeisfu: ЛОВЛ.
+[05:31:02] lQBeisfu: ПТСР
+[05:31:19] Client "А ПО ЖОПЕ!?" spawned in server <STEAM_0:1:557416607> (took 188 seconds).
+[05:31:19] Client "FoLime" connected.
+[05:32:34] lQBeisfu: так не смешно же
+[05:32:45] Soldier_S.C.A.F was killed by build_prop
+[05:32:50] lQBeisfu: запуск наса
+[05:33:13] lQBeisfu: АААА
+[05:33:18] PoPcat suicided!
+[05:33:24] Client "masiane" connected.
+[05:33:34] lQBeisfu: МДА
+[05:35:33] lQBeisfu: ай да в пляс
+[05:35:34] klinskoe za 200: !motd
+[05:35:43] Dropped "kkii69330" from server<STEAM_0:1:849253896>
+[05:35:43] kkii69330 suicided!
+[05:36:02] lQBeisfu: "всякий мусор кидаем"
+[05:36:07] lQBeisfu: трупы одни
+[05:37:01] lQBeisfu was killed by build_prop
+[05:37:13] lQBeisfu: чп
+[05:37:29] lQBeisfu: солдат не грусти новый построишь
+[05:37:42] lQBeisfu: бля
+[05:37:56] lQBeisfu: надо пометить
+[05:38:26] lQBeisfu: вот она
+[05:38:53] lQBeisfu: ХАХАХАХ
+[05:40:04] Soldier_S.C.A.F: ПИЗДЕЦ
+[05:40:15] Soldier_S.C.A.F: ТАМ АРТ АБОЗРОВАЛСЯ
+[05:40:26] lQBeisfu: КРОВАВАЯ МЕРИ
+[05:40:36] Soldier_S.C.A.F: ИДИ ТЕ СЮДА
+[05:40:40] Client "FoLime" spawned in server <STEAM_0:1:548346148> (took 561 seconds).
+[05:40:43] Soldier_S.C.A.F: У НАС АРТ ПОЯВИЛСЯ
+[05:40:48] lQBeisfu: а
+[05:41:38] lQBeisfu: плоха мне
+[05:42:12] Client "maksumkolesnukov022" connected.
+[05:42:40] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 28 seconds).
+[05:42:53] maksumkolesnukov022: !menu
+[05:43:29] lQBeisfu: сверзу
+[05:43:33] lQBeisfu: НУ НАХУЙ
+[05:44:10] (SILENT) maksumkolesnukov022 opened the profile of Themself
+[05:44:16] (SILENT) maksumkolesnukov022 opened the profile of А ПО ЖОПЕ!?
+[05:44:24] Мастурбист: tmtapo4ek
+[05:44:38] (TEAM) ™eXigent: saus5245
+[05:44:50] lQBeisfu: ядерка
+[05:44:51] lQBeisfu: скорее
+[05:44:52] ™eXigent: saus5245
+[05:44:59] Польские Пряники set the hp for А ПО ЖОПЕ!? to 10
+[05:45:10] Польские Пряники set the hp for А ПО ЖОПЕ!? to 200
+[05:45:13] Польские Пряники set the hp for А ПО ЖОПЕ!? to 50
+[05:45:15] Польские Пряники set the hp for А ПО ЖОПЕ!? to 75
+[05:45:17] Польские Пряники set the hp for А ПО ЖОПЕ!? to 25
+[05:45:19] Польские Пряники set the hp for А ПО ЖОПЕ!? to 100
+[05:45:22] Польские Пряники set the hp for А ПО ЖОПЕ!? to 12341234
+[05:45:23] Польские Пряники set the hp for А ПО ЖОПЕ!? to 100
+[05:45:31] Soldier_S.C.A.F: так я тут
+[05:45:36] Soldier_S.C.A.F: чо у нас
+[05:45:52] lQBeisfu: ВРОДЕ НЕ ВОНЯЕТ
+[05:46:13] lQBeisfu: бой соундпада
+[05:46:23] lQBeisfu: соунд баттл
+[05:46:43] А ПО ЖОПЕ!? killed klinskoe za 200 using wep_jack_gmod_hands
+[05:47:45] Мастурбист: !motd
+[05:47:48] klinskoe za 200: !motd
+[05:47:54] Client "krilz" connected.
+[05:48:00] А ПО ЖОПЕ!? killed lQBeisfu using tfa_doienfield
+[05:48:04] PoPcat: !motd
+[05:48:09] ™eXigent: !motd
+[05:48:18] maksumkolesnukov022 froze А ПО ЖОПЕ!?
+[05:48:25] maksumkolesnukov022 unfroze А ПО ЖОПЕ!?
+[05:48:39] Мастурбист: !motd
+[05:49:01] Dropped "Мастурбист" from server<STEAM_0:0:175607371>
+[05:49:01] Мастурбист suicided!
+[05:49:08] maksumkolesnukov022: нету его там
+[05:49:34] Client "krilz" spawned in server <STEAM_0:1:89998932> (took 100 seconds).
+[05:50:14] Dropped "Andrey 2325" from server<STEAM_0:1:653044863>
+[05:50:14] Andrey 2325 suicided!
+[05:51:12] А ПО ЖОПЕ!? killed FoLime using tfa_doienfield
+[05:51:16] Soldier_S.C.A.F: пиздец что происходит
+[05:51:23] Client "Mr_Pyro" connected.
+[05:51:28] klinskoe za 200: !motd
+[05:51:59] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 36 seconds).
+[05:52:22] maksumkolesnukov022: МЕНЯ УДАРИЛИ Я УРОНИЛ
+[05:52:44] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezmunitions
+[05:52:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[05:52:54] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[05:52:54] PoPcat: ааааааааа
+[05:53:02] PoPcat: помогите
+[05:53:05] PoPcat: я застрял
+[05:53:24] А ПО ЖОПЕ!? was killed by build_prop
+[05:53:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[05:54:02] maksumkolesnukov022: ДЖОНИ МЫ ДОЛЖНЫ ОПЛАТИТЬ 50 ТЫСЯЧ ДОЛЛАРОВ ЗА МЕДИЦИНУ
+[05:54:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[05:54:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[05:54:46] Mr_Pyro cloaked Themself by amount 0
+[05:54:46] Mr_Pyro: !cloak Mr_Pyro
+[05:54:49] maksumkolesnukov022: !menu
+[05:55:02] Польские Пряники killed maksumkolesnukov022 using tfa_doiwelrod
+[05:55:08] Польские Пряники killed klinskoe za 200 using tfa_doiwelrod
+[05:55:18] Польские Пряники killed Soldier_S.C.A.F using tfa_doiwelrod
+[05:55:29] Польские Пряники killed FoLime using tfa_doiwelrod
+[05:55:43] maksumkolesnukov022 started a votemap with options gm_sro gm_sro_duststorm gm_sro_mountain_field gm_whiten gm_emp_isle
+[05:55:43] PoPcat voted for: gm_sro
+[05:55:45] Soldier_S.C.A.F voted for: gm_sro_duststorm
+[05:55:47] klinskoe za 200 voted for: gm_whiten
+[05:55:47] Польские Пряники voted for: gm_whiten
+[05:55:48] krilz voted for: gm_sro_duststorm
+[05:55:49] maksumkolesnukov022 voted for: gm_emp_isle
+[05:55:52] Польские Пряники killed PoPcat using tfa_doiwelrod
+[05:55:54] lQBeisfu voted for: gm_emp_isle
+[05:55:54] А ПО ЖОПЕ!? voted for: gm_emp_isle
+[05:55:58] FoLime voted for: gm_emp_isle
+[05:56:03] Vote results: Vote was unsuccessful.
+[05:56:05] Польские Пряники to admins: КАКОЙ ЕМП ИСЛ
+[05:56:09] maksumkolesnukov022: !menu
+[05:56:29] maksumkolesnukov022 to admins: нормальная же карта
+[05:56:37] Польские Пряники to admins: N
+[05:56:44] maksumkolesnukov022 to admins: НЕВАЖНО что деревья не да
+[05:57:03] maksumkolesnukov022: !menu
+[05:57:05] Польские Пряники killed krilz using tfa_doiwelrod
+[05:57:16] maksumkolesnukov022 to admins: воут ансацсесфул всё равно запускай ты 
+[05:57:54] Soldier_S.C.A.F to admins: кульфрум может уже поменяем
+[05:57:55] PoPcat killed А ПО ЖОПЕ!? using tfa_doip38
+[05:58:01] FoLime killed PoPcat using tfa_doik98_scop
+[05:58:13] А ПО ЖОПЕ!? killed FoLime using tfa_doip38
+[05:58:23] Dropped "lQBeisfu" from server<STEAM_0:0:919352780>
+[05:58:23] lQBeisfu suicided!
+[05:58:29] maksumkolesnukov022 froze А ПО ЖОПЕ!?
+[05:58:31] maksumkolesnukov022: НИКАКАЯ
+[05:58:31] PoPcat killed FoLime using tfa_doienfield
+[05:58:41] maksumkolesnukov022 unfroze А ПО ЖОПЕ!?
+[05:58:49] maksumkolesnukov022: ДА
+[05:59:00] maksumkolesnukov022 froze А ПО ЖОПЕ!?
+[05:59:07] maksumkolesnukov022 unfroze А ПО ЖОПЕ!?
+[05:59:15] klinskoe za 200 killed FoLime using tfa_doi_marinebayonet
+[05:59:25] PoPcat killed klinskoe za 200 using tfa_doik98_scop
+[05:59:27] FoLime killed PoPcat using tfa_doienfield
+[05:59:27] maksumkolesnukov022: штош
+[05:59:35] FoLime killed А ПО ЖОПЕ!? using tfa_doienfield
+[05:59:47] FoLime killed А ПО ЖОПЕ!? using tfa_doienfield
+[06:00:02] FoLime killed klinskoe za 200 using tfa_doienfield
+[06:00:06] PoPcat killed Soldier_S.C.A.F using tfa_doi_marinebayonet
+[06:00:12] PoPcat killed FoLime using tfa_doi_marinebayonet
+[06:00:26] А ПО ЖОПЕ!? killed PoPcat using tfa_doi_marinebayonet
+[06:00:37] maksumkolesnukov022 froze А ПО ЖОПЕ!?
+[06:00:41] Soldier_S.C.A.F: supply radio: mini bounding mines
+[06:00:47] maksumkolesnukov022: ЭЭЭ КРЧ ФИР РП НОН РП МАСС РДМ БАН 100 ЛЕТ
+[06:00:56] maksumkolesnukov022 unfroze А ПО ЖОПЕ!?
+[06:01:03] klinskoe za 200 killed А ПО ЖОПЕ!? using tfa_doi_marinebayonet
+[06:01:04] FoLime killed klinskoe za 200 using wep_jack_gmod_hands
+[06:01:09] Soldier_S.C.A.F killed maksumkolesnukov022 using tfa_doik98_scop
+[06:01:25] klinskoe za 200 killed PoPcat using tfa_doi_marinebayonet
+[06:01:37] maksumkolesnukov022 killed А ПО ЖОПЕ!? using tfa_doi_marinebayonet
+[06:01:41] maksumkolesnukov022 killed FoLime using tfa_doi_marinebayonet
+[06:01:45] klinskoe za 200 killed maksumkolesnukov022 using tfa_doienfield
+[06:02:27] Soldier_S.C.A.F killed klinskoe za 200 using tfa_doik98_scop
+[06:02:27] maksumkolesnukov022 froze А ПО ЖОПЕ!?
+[06:02:36] maksumkolesnukov022 unfroze А ПО ЖОПЕ!?
+[06:02:45] PoPcat killed А ПО ЖОПЕ!? using tfa_doienfield
+[06:02:45] А ПО ЖОПЕ!? killed FoLime using ent_aboot_gmod_ezshippingcontainer
+[06:02:56] PoPcat killed А ПО ЖОПЕ!? using tfa_doienfield
+[06:03:15] klinskoe za 200: КАКАШКИ МНЕ В КАРМАШКИ
+[06:03:18] PoPcat killed FoLime using tfa_doienfield
+[06:03:20] PoPcat killed А ПО ЖОПЕ!? using tfa_doienfield
+[06:03:26] PoPcat killed maksumkolesnukov022 using tfa_doienfield
+[06:03:28] klinskoe za 200 killed PoPcat using tfa_doip38
+[06:03:44] PoPcat killed FoLime using wep_jack_gmod_hands
+[06:03:51] klinskoe za 200 killed Soldier_S.C.A.F using tfa_doienfield
+[06:03:55] PoPcat killed А ПО ЖОПЕ!? using tfa_doi_marinebayonet
+[06:04:09] PoPcat killed klinskoe za 200 using tfa_doi_marinebayonet
+[06:04:16] maksumkolesnukov022 froze PoPcat
+[06:04:17] maksumkolesnukov022 froze А ПО ЖОПЕ!?
+[06:04:21] maksumkolesnukov022 unfroze А ПО ЖОПЕ!?
+[06:04:22] maksumkolesnukov022 unfroze PoPcat
+[06:04:24] А ПО ЖОПЕ!? killed PoPcat using tfa_doi_marinebayonet
+[06:04:28] А ПО ЖОПЕ!? killed FoLime using tfa_doi_marinebayonet
+[06:04:34] А ПО ЖОПЕ!? killed maksumkolesnukov022 using tfa_doi_marinebayonet
+[06:04:35] А ПО ЖОПЕ!? killed klinskoe za 200 using tfa_doi_marinebayonet
+[06:04:36] PoPcat killed А ПО ЖОПЕ!? using tfa_doi_marinebayonet
+[06:04:41] PoPcat killed FoLime using tfa_doi_marinebayonet
+[06:04:47] PoPcat killed А ПО ЖОПЕ!? using tfa_doi_marinebayonet
+[06:05:04] PoPcat killed А ПО ЖОПЕ!? using tfa_doi_marinebayonet
+[06:05:08] PoPcat killed FoLime using tfa_doi_marinebayonet
+[06:05:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfirework
+[06:05:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfirework
+[06:05:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfirework
+[06:05:19] А ПО ЖОПЕ!? killed PoPcat using tfa_doi_marinebayonet
+[06:06:26] А ПО ЖОПЕ!? killed maksumkolesnukov022 using tfa_doi_marinebayonet
+[06:06:39] А ПО ЖОПЕ!? killed krilz using tfa_doi_marinebayonet
+[06:06:52] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[06:06:52] Soldier_S.C.A.F suicided!
+[06:07:11] maksumkolesnukov022 froze А ПО ЖОПЕ!?
+[06:07:45] maksumkolesnukov022 unfroze А ПО ЖОПЕ!?
+[06:07:48] А ПО ЖОПЕ!? killed PoPcat using tfa_doi_marinebayonet
+[06:07:50] ™eXigent: !motd
+[06:08:10] Dropped "™eXigent" from server<STEAM_0:1:848936725>
+[06:08:11] ™eXigent suicided!
+[06:08:27] Client "™eXigent" connected.
+[06:08:31] Client "LocaL" connected.
+[06:08:47] Client "™eXigent" spawned in server <STEAM_0:1:848936725> (took 20 seconds).
+[06:09:13] maksumkolesnukov022 froze А ПО ЖОПЕ!?
+[06:09:16] maksumkolesnukov022 unfroze А ПО ЖОПЕ!?
+[06:09:58] maksumkolesnukov022 stripped weapons from А ПО ЖОПЕ!?
+[06:09:58] maksumkolesnukov022: !strip А ПО ЖОПЕ!?
+[06:10:39] maksumkolesnukov022 stripped weapons from Themself
+[06:10:39] maksumkolesnukov022: !strip maksumkolesnukov022
+[06:10:45] PoPcat killed klinskoe za 200 using tfa_doiwelrod
+[06:10:52] maksumkolesnukov022 stripped weapons from Themself
+[06:10:52] maksumkolesnukov022: !strip maksumkolesnukov022
+[06:11:04] PoPcat killed А ПО ЖОПЕ!? using tfa_doiwelrod
+[06:11:06] PoPcat killed FoLime using tfa_doiwelrod
+[06:11:20] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfirework
+[06:11:22] PoPcat killed klinskoe za 200 using tfa_doiwelrod
+[06:11:33] maksumkolesnukov022 suicided!
+[06:11:56] PoPcat killed А ПО ЖОПЕ!? using tfa_doiwelrod
+[06:12:03] PoPcat was killed by entityflame
+[06:12:11] klinskoe za 200: !motd
+[06:12:33] maksumkolesnukov022: !menu
+[06:13:01] klinskoe za 200 killed А ПО ЖОПЕ!? using tfa_doispringfield
+[06:13:11] maksumkolesnukov022 started a vote (КАРТА)
+[06:13:15] PoPcat voted for: ФРОСТПАНК
+[06:13:17] klinskoe za 200 voted for: ФРОСТПАНК
+[06:13:17] maksumkolesnukov022 voted for: ФРОСТПАНК
+[06:13:18] А ПО ЖОПЕ!? voted for: ФРОСТПАНК
+[06:13:20] Mr_Pyro voted for: ХАЙФЛИТ ПУСТЫНЯ
+[06:13:21] FoLime voted for: ФРОСТПАНК
+[06:13:29] klinskoe za 200: !motd
+[06:13:31] Vote results: Option 'ФРОСТПАНК' won. (5/9)
+[06:13:37] maksumkolesnukov022: !menu
+[06:13:40] PoPcat killed А ПО ЖОПЕ!? using tfa_doispringfield
+[06:13:42] PoPcat killed maksumkolesnukov022 using tfa_doispringfield
+[06:13:46] Mr_Pyro uncloaked Themself
+[06:13:46] Mr_Pyro uncloaked Themself
+[06:13:47] PoPcat killed FoLime using tfa_doispringfield
+[06:13:55] PoPcat killed Mr_Pyro using ent_jack_gmod_ezfabricator
+[06:13:59] PoPcat killed А ПО ЖОПЕ!? using ent_jack_gmod_ezfabricator
+[06:13:59] PoPcat killed klinskoe za 200 using ent_jack_gmod_ezfabricator
+[06:14:04] klinskoe za 200: !motd
+[06:14:05] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[06:14:05] Mr_Pyro suicided!
+[06:14:08] Client "Mr_Pyro" connected.
+[06:14:10] (Csay from maksumkolesnukov022) ФРОСТПАНК
+[06:14:14] PoPcat killed klinskoe za 200 using tfa_doispringfield
+[06:14:15] PoPcat killed А ПО ЖОПЕ!? using tfa_doispringfield
+[06:14:28] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 20 seconds).
+[06:14:44] maksumkolesnukov022 changed the map to gm_whiten with gamemode jsurvival
+[06:14:45] Server is shutting down/changing levels.
+
+
+
+[06:14:56] New map: gm_whiten
+[06:15:18] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 28 seconds).
+[06:15:19] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 29 seconds).
+[06:15:23] Client "™eXigent" spawned in server <STEAM_0:1:848936725> (took 33 seconds).
+[06:15:34] maksumkolesnukov022: ЛЮДИ ВЫБРАЛИ 
+[06:15:35] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 45 seconds).
+[06:15:48] Client "А ПО ЖОПЕ!?" spawned in server <STEAM_0:1:557416607> (took 58 seconds).
+[06:15:53] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezstickynade
+[06:15:57] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 67 seconds).
+[06:16:01] Dropped "PoPcat" from server<STEAM_0:1:564871456>
+[06:16:01] PoPcat suicided!
+[06:16:05] Client "FoLime" spawned in server <STEAM_0:1:548346148> (took 75 seconds).
+[06:16:35] maksumkolesnukov022: А ЧЁ ОН СДЕЛАЛ
+[06:16:37] maksumkolesnukov022: ЩАС ЗАБАНЮ
+[06:16:47] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 117 seconds).
+[06:16:49] maksumkolesnukov022: Я ЗНАЮ ЧТО ОН АПОЖОПА У НЕГО ИММУНИТЕТ К БАНУ
+[06:16:53] maksumkolesnukov022: 50 РУБЛЕЙ ЗАДОНАТИЛ
+[06:18:55] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_eztimebomb
+[06:19:04] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_backpack
+[06:19:08] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_eztimebomb
+[06:19:40] Mr_Pyro killed ™eXigent using ent_jack_gmod_eztimebomb
+[06:19:40] Mr_Pyro killed maksumkolesnukov022 using ent_jack_gmod_eztimebomb
+[06:19:40] Mr_Pyro suicided!
+[06:19:40] Mr_Pyro killed А ПО ЖОПЕ!? using ent_jack_gmod_eztimebomb
+[06:20:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent edit_fog
+[06:20:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent edit_fog
+[06:20:53] maksumkolesnukov022: такой пойдёт?
+[06:21:13] maksumkolesnukov022: ой
+[06:21:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent edit_fog
+[06:24:30] Client "Soldier_S.C.A.F" connected.
+[06:24:48] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[06:24:48] klinskoe za 200 suicided!
+[06:27:46] Client "Камень" connected.
+[06:28:26] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 236 seconds).
+[06:28:30] Client "Камень" spawned in server <STEAM_0:0:625517352> (took 44 seconds).
+[06:29:00] maksumkolesnukov022: фраку сделай
+[06:30:12] maksumkolesnukov022: круто база прямо на спавне
+[06:30:33] Soldier_S.C.A.F: НАРОД
+[06:30:43] Soldier_S.C.A.F: не хотите создать ЧЗО на этой карте!
+[06:30:53] maksumkolesnukov022: эээ 
+[06:30:58] maksumkolesnukov022: эээ
+[06:31:03] Soldier_S.C.A.F: всмысле?
+[06:31:14] Soldier_S.C.A.F to admins: а че так
+[06:31:21] maksumkolesnukov022: а хз
+[06:31:31] Soldier_S.C.A.F: вот просто взять!
+[06:31:40] Soldier_S.C.A.F: и зделать чернобольскую зону
+[06:32:10] Client "Chelik333" connected.
+[06:33:02] maksumkolesnukov022: онлайн притух чуть
+[06:33:11] Soldier_S.C.A.F: ну я могу понять
+[06:33:13] maksumkolesnukov022: часть в афк
+[06:33:20] Soldier_S.C.A.F: щяс не такие вайпы же
+[06:34:05] Soldier_S.C.A.F: кто со мной в фракцию
+[06:34:09] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 119 seconds).
+[06:34:26] Soldier_S.C.A.F: здаров
+[06:34:31] Soldier_S.C.A.F: не хочешь ко мне в фракцию
+[06:34:37] Soldier_S.C.A.F: ладно
+[06:34:41] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[06:34:41] Польские Пряники suicided!
+[06:34:58] Soldier_S.C.A.F: пока с твоего войса пытаюсь расшифровать :D
+[06:35:01] Soldier_S.C.A.F: ппц  там гудит
+[06:35:06] Soldier_S.C.A.F: да
+[06:35:12] Soldier_S.C.A.F: да так
+[06:35:15] Soldier_S.C.A.F: производством
+[06:35:27] Soldier_S.C.A.F: нет
+[06:35:34] Soldier_S.C.A.F: хотя сказать по правде
+[06:35:44] maksumkolesnukov022 froze А ПО ЖОПЕ!?
+[06:35:51] maksumkolesnukov022: сананора забанили всё пермач
+[06:35:52] Soldier_S.C.A.F: ну
+[06:36:01] Soldier_S.C.A.F: а так
+[06:36:08] maksumkolesnukov022 unfroze А ПО ЖОПЕ!?
+[06:36:08] Soldier_S.C.A.F: потом можно ЧЗО устроить
+[06:36:43] maksumkolesnukov022: а чё за ивент тогда
+[06:36:49] maksumkolesnukov022: зондбе иношпатяне
+[06:37:08] Soldier_S.C.A.F: место искать
+[06:37:22] Soldier_S.C.A.F: ну так ты запрос и не кидал
+[06:37:26] Soldier_S.C.A.F: а
+[06:37:33] maksumkolesnukov022: парогенератор тир5
+[06:37:45] Soldier_S.C.A.F: можно и так устраивовать
+[06:38:03] Soldier_S.C.A.F: ток лучше добывать 
+[06:38:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_compass
+[06:38:09] Soldier_S.C.A.F: ну как по нормальному
+[06:38:13] Soldier_S.C.A.F: а не через заказы
+[06:38:24] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezchair
+[06:38:28] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezinductionfurnace
+[06:38:38] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_cratepack
+[06:38:39] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezcampfire
+[06:38:43] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezwood
+[06:38:56] maksumkolesnukov022: вот твоё ядро крч сиди грейся 
+[06:38:58] Soldier_S.C.A.F: мм
+[06:39:08] Soldier_S.C.A.F: админ
+[06:39:22] maksumkolesnukov022: ну как
+[06:39:23] Soldier_S.C.A.F: хз может смотрит
+[06:39:31] Soldier_S.C.A.F: может
+[06:39:34] maksumkolesnukov022: геймплей ивент
+[06:39:56] maksumkolesnukov022: твоё ядро потухло всё мер
+[06:39:59] Soldier_S.C.A.F: я хз
+[06:40:08] Soldier_S.C.A.F: но про ЧЗО идея была моя
+[06:40:18] Soldier_S.C.A.F: ну
+[06:40:32] Soldier_S.C.A.F: зона.заброшки.сталкеры (+аномалии)
+[06:41:06] Soldier_S.C.A.F: это уже к руслану наверное
+[06:41:32] Dropped "А ПО ЖОПЕ!?" from server<STEAM_0:1:557416607>
+[06:41:32] А ПО ЖОПЕ!? suicided!
+[06:41:34] maksumkolesnukov022: НУБ
+[06:41:42] maksumkolesnukov022: НУБЯРА
+[06:41:46] Dropped "FoLime" from server<STEAM_0:1:548346148>
+[06:41:46] FoLime suicided!
+[06:42:03] Soldier_S.C.A.F: да здесь уже
+[06:42:22] maksumkolesnukov022: всё время онлайна кончилось какой позор лето же где люди
+[06:42:22] Soldier_S.C.A.F: ну уже посмотрим
+[06:42:28] maksumkolesnukov022: зимой весной был полный 
+[06:43:17] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[06:43:17] maksumkolesnukov022 suicided!
+[06:44:14] Soldier_S.C.A.F: угу
+[06:44:16] Soldier_S.C.A.F: тоже делал
+[06:44:22] Soldier_S.C.A.F: нет
+[06:44:30] Soldier_S.C.A.F: для зоны дополнял
+[06:45:47] Soldier_S.C.A.F: народу без разницы что использовать
+[06:45:55] Soldier_S.C.A.F: если авто. пушки есть
+[06:46:04] Soldier_S.C.A.F: тогда зачастую и будут использовать
+[06:47:11] Soldier_S.C.A.F: да лучше бы машину с пулеметом бы добавили
+[06:47:52] Soldier_S.C.A.F: м-да
+[06:48:06] Soldier_S.C.A.F: чего добовлять
+[06:48:12] Soldier_S.C.A.F: а
+[06:48:27] Soldier_S.C.A.F: ну максим уже был на сервере
+[06:48:35] Soldier_S.C.A.F: пулемет максима
+[06:49:26] Soldier_S.C.A.F: блять
+[06:49:30] Soldier_S.C.A.F: прологало
+[06:49:52] Soldier_S.C.A.F: у меня даже такое ощущение
+[06:49:58] Dropped "Камень" from server<STEAM_0:0:625517352>
+[06:49:58] Камень suicided!
+[06:50:06] Soldier_S.C.A.F: что оптимизации кода толком нету
+[06:50:53] Soldier_S.C.A.F: +тяжелые аддоны тоже в счет
+[06:51:05] Soldier_S.C.A.F: мало их конечно
+[06:52:09] Soldier_S.C.A.F: на прошлой карте много было
+[06:52:33] Soldier_S.C.A.F: highcfilis была
+[06:53:29] Soldier_S.C.A.F: о
+[06:53:39] Soldier_S.C.A.F: темные карты как-то захотелось
+[06:53:50] Soldier_S.C.A.F: вот без рофла
+[06:54:05] Soldier_S.C.A.F: чтобы ТЬМА кромешная была
+[06:54:15] Soldier_S.C.A.F: и кроме спавна других освещенний не было
+[06:56:03] Soldier_S.C.A.F: я бы и предложил
+[06:56:08] Soldier_S.C.A.F: да вот только у меня дс не тянет
+[06:56:18] ™eXigent was killed by ent_jack_gmod_ezworkbench
+[06:56:26] Soldier_S.C.A.F: а можно и в стиме
+[06:56:49] Soldier_S.C.A.F: да железо то что слабое
+[06:56:52] Soldier_S.C.A.F: поэтому
+[06:57:55] Dropped "™eXigent" from server<STEAM_0:1:848936725>
+[06:57:55] ™eXigent suicided!
+[06:58:45] Soldier_S.C.A.F to admins: пиро ты щяс что делаешь
+[07:00:26] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[07:00:26] Mr_Pyro suicided!
+[07:00:27] Client "Mr_Pyro" connected.
+[07:00:47] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 20 seconds).
+[07:05:12] Soldier_S.C.A.F: далеко
+[07:05:31] Soldier_S.C.A.F: ну значит комплекс не зря
+[07:06:16] Soldier_S.C.A.F: на геотермалках КПД малый
+[07:06:24] Soldier_S.C.A.F: почти
+[07:06:28] Soldier_S.C.A.F: им вода нужна
+[07:06:54] Mr_Pyro cloaked Themself by amount 0
+[07:06:54] Mr_Pyro: !cloak Mr_Pyro
+[07:07:34] Soldier_S.C.A.F: да
+[07:08:55] Soldier_S.C.A.F: все в комплекс перенесу
+[07:11:12] Mr_Pyro silently slayed Themself
+[07:11:12] Mr_Pyro: !sslay Mr_Pyro
+[07:11:14] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[07:11:14] Mr_Pyro suicided!
+[07:38:04] Soldier_S.C.A.F: кстати есть такой прикол с проводкой
+[07:38:17] Soldier_S.C.A.F: что когда там больше 4х подсоединений
+[07:38:27] Soldier_S.C.A.F: то оно нафиг не будет работать
+[07:40:45] Soldier_S.C.A.F: не могу
+[07:40:51] Soldier_S.C.A.F: нет
+[07:41:00] Soldier_S.C.A.F: у нас тот был админом
+[07:41:03] Soldier_S.C.A.F: но не я
+[07:46:45] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[07:46:45] Soldier_S.C.A.F suicided!
+[08:03:42] Client "масюн" connected.
+[08:07:08] Client "Мастурбист" connected.
+[08:07:50] Client "Мастурбист" spawned in server <STEAM_0:0:175607371> (took 42 seconds).
+[08:45:52] Chelik333 was killed by ent_jack_gmod_ezfalloutparticle
+[08:48:13] Chelik333 killed Chelik333
+[08:52:24] Client "™eXigent" connected.
+[08:52:48] Client "™eXigent" spawned in server <STEAM_0:1:848936725> (took 24 seconds).
+[08:55:29] ™eXigent: !motd
+[09:02:58] Client "nikita..." connected.
+[09:04:02] Client "nikita..." spawned in server <STEAM_0:0:804487108> (took 64 seconds).
+[09:07:13] ™eXigent killed nikita... using wep_jack_gmod_hands
+[09:09:25] nikita...: hrrr
+[09:12:23] ™eXigent: !motd
+[09:12:51] Dropped "nikita..." from server<STEAM_0:0:804487108>
+[09:12:51] nikita... suicided!
+[09:14:56] Client "nikita..." connected.
+[09:15:25] Client "nikita..." spawned in server <STEAM_0:0:804487108> (took 29 seconds).
+[09:18:31] nikita...: привет
+[09:26:55] nikita...: а контейнер?
+[09:30:28] nikita...: нужен за 700 металла
+[09:31:34] ™eXigent: !motd
+[09:31:41] ™eXigent: !motd
+[09:37:09] Dropped "nikita..." from server<STEAM_0:0:804487108>
+[09:37:09] nikita... suicided!
+[09:37:11] Client "nikita..." connected.
+[09:37:40] Client "nikita..." spawned in server <STEAM_0:0:804487108> (took 29 seconds).
+[09:39:13] nikita...: привет
+[09:45:38] nikita...: привет
+[09:45:53] nikita...: бегал где ещё не был
+[09:46:03] nikita...: знаю где зилот
+[09:54:09] Мастурбист suicided!
+[09:57:46] Dropped "Мастурбист" from server<STEAM_0:0:175607371>
+[09:57:46] Мастурбист suicided!
+[10:03:47] Client "Zeki" connected.
+[10:07:39] nikita...: нету
+[10:08:41] nikita...: я не знаю где он
+[10:08:54] nikita...: ок
+[10:11:52] Chelik333: -20 -20
+[10:13:41] Dropped "nikita..." from server<STEAM_0:0:804487108>
+[10:13:41] nikita... suicided!
+[10:13:53] Client "kkii69330" connected.
+[10:14:51] Client "kkii69330" spawned in server <STEAM_0:1:849253896> (took 58 seconds).
+[10:20:15] ™eXigent killed kkii69330 using wep_jack_gmod_ezaxe
+[10:20:40] ™eXigent: !motd
+[10:20:59] Client "Henschel" connected.
+[10:26:00] kkii69330 killed ™eXigent using rust_eoka
+[10:28:37] Client "andreyrad2017" connected.
+[10:31:00] Client "andreyrad2017" connected.
+[10:32:50] Client "ladno" connected.
+[10:34:05] Client "ladno" spawned in server <STEAM_0:1:124984530> (took 75 seconds).
+[10:39:24] ™eXigent killed kkii69330 using wep_jack_gmod_hands
+[10:39:51] ™eXigent killed kkii69330 using tfa_doippk
+[10:40:12] Client "andreyrad2017" spawned in server <STEAM_0:0:511259525> (took 552 seconds).
+[10:42:49] ™eXigent killed kkii69330 using wep_jack_gmod_hands
+[10:45:18] ™eXigent killed kkii69330 using wep_jack_gmod_hands
+[10:49:49] Dropped "andreyrad2017" from server<STEAM_0:0:511259525>
+[10:49:49] andreyrad2017 suicided!
+[10:51:37] ™eXigent killed kkii69330 using tfa_doithompsonm1a1
+[10:52:17] ™eXigent killed kkii69330 using tfa_doippk
+[10:57:05] ™eXigent killed kkii69330 using tfa_doithompsonm1a1
+[10:58:20] Dropped "™eXigent" from server<STEAM_0:1:848936725>
+[10:58:20] ™eXigent suicided!
+[10:58:39] Dropped "kkii69330" from server<STEAM_0:1:849253896>
+[10:58:39] kkii69330 suicided!
+[10:58:44] Dropped "ladno" from server<STEAM_0:1:124984530>
+[10:58:44] ladno suicided!
+[11:03:08] Chelik333 suicided!
+[11:03:17] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[11:03:17] Chelik333 suicided!
+[13:38:29] Client "XAZAM" connected.
+[15:17:42] Client "seekmrakovich" connected.
+[20:03:03] Client "Citizen" connected.
+[20:05:52] Client "Citizen" spawned in server <STEAM_0:0:634439299> (took 169 seconds).
+[20:55:43] Dropped "Citizen" from server<STEAM_0:0:634439299>
+[20:55:43] Citizen suicided!
+[22:36:05] Client "Soldier_S.C.A.F" connected.
+[22:41:14] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 309 seconds).
+[23:05:07] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[23:05:07] Soldier_S.C.A.F suicided!
+[23:15:25] Client "Chelik333" connected.
+[23:17:52] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 147 seconds).
+[23:25:35] Client "krilz" connected.
+[23:27:23] Client "krilz" spawned in server <STEAM_0:1:89998932> (took 108 seconds).
+[23:32:10] krilz: !motd
+[23:34:18] Dropped "krilz" from server<STEAM_0:1:89998932>
+[23:34:18] krilz suicided!
+[23:38:22] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[23:38:22] Chelik333 suicided!
+<Logging continued in "data/ulx_logs/06-24-25.txt">

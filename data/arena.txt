@@ -1,0 +1,7404 @@
+{
+	"build": {
+		"94": {
+			"childs": [
+				162,
+				640,
+				211,
+				680
+			],
+			"pos": "[1853.9211 1616.3966 662.1252]",
+			"skin": 0,
+			"id": 94,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"162": {
+			"childs": [
+				212,
+				94,
+				163
+			],
+			"pos": "[1929.0988 1719.87 662.1252]",
+			"skin": 0,
+			"id": 162,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"163": {
+			"childs": [
+				162,
+				647,
+				210,
+				639
+			],
+			"pos": "[2004.2764 1823.3433 662.1252]",
+			"skin": 0,
+			"id": 163,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"164": {
+			"support": false,
+			"id": 164,
+			"door": {
+				"skin": 9,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"childs": [
+				722,
+				715,
+				166,
+				392,
+				395
+			],
+			"pos": "[-58.7166 3322.1956 662.1252]",
+			"skin": 0,
+			"ang": "{-0 144 0}",
+			"typ": 3
+		},
+		"165": {
+			"support": false,
+			"id": 165,
+			"door": {
+				"skin": 9,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"childs": [
+				390,
+				723,
+				166,
+				393,
+				713
+			],
+			"pos": "[-209.0721 3115.2488 662.1252]",
+			"skin": 0,
+			"ang": "{-0 144 0}",
+			"typ": 3
+		},
+		"166": {
+			"childs": [
+				164,
+				394,
+				391,
+				165
+			],
+			"pos": "[-133.8944 3218.7222 662.1252]",
+			"skin": 0,
+			"id": 166,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"169": {
+			"childs": [
+				664,
+				663,
+				595,
+				170,
+				171,
+				665
+			],
+			"pos": "[1625.9749 3363.1882 662.1752]",
+			"skin": 0,
+			"id": 169,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/stair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"170": {
+			"childs": [
+				664,
+				173,
+				169,
+				666,
+				594,
+				665
+			],
+			"pos": "[1522.4207 3438.4248 662.1752]",
+			"skin": 0,
+			"id": 170,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/stair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"171": {
+			"childs": [
+				664,
+				172,
+				173,
+				169
+			],
+			"pos": "[1701.2114 3466.7424 594.1752]",
+			"skin": 0,
+			"id": 171,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"172": {
+			"childs": [
+				171,
+				663
+			],
+			"pos": "[1804.7656 3391.5059 594.1752]",
+			"skin": 0,
+			"id": 172,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"173": {
+			"childs": [
+				170,
+				665,
+				171,
+				174
+			],
+			"pos": "[1597.6572 3541.979 594.1752]",
+			"skin": 0,
+			"id": 173,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"174": {
+			"childs": [
+				173,
+				666
+			],
+			"pos": "[1494.103 3617.2158 594.1752]",
+			"skin": 0,
+			"id": 174,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"175": {
+			"childs": [
+				829,
+				828,
+				176
+			],
+			"pos": "[270.1172 1816.6851 917.9252]",
+			"skin": 0,
+			"id": 175,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"176": {
+			"childs": [
+				175,
+				825,
+				828,
+				829,
+				177
+			],
+			"pos": "[345.3537 1920.2393 917.9252]",
+			"skin": 0,
+			"id": 176,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"177": {
+			"childs": [
+				176,
+				825,
+				823,
+				828,
+				178
+			],
+			"pos": "[420.5903 2023.7935 917.9252]",
+			"skin": 0,
+			"id": 177,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"178": {
+			"childs": [
+				821,
+				825,
+				823,
+				177,
+				180
+			],
+			"pos": "[495.8268 2127.3477 917.9252]",
+			"skin": 0,
+			"id": 178,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"180": {
+			"childs": [
+				181,
+				821,
+				820,
+				823,
+				178
+			],
+			"pos": "[571.0634 2230.9019 917.9252]",
+			"skin": 0,
+			"id": 180,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"181": {
+			"childs": [
+				786,
+				821,
+				820,
+				180,
+				733
+			],
+			"pos": "[646.2999 2334.4561 917.9252]",
+			"skin": 0,
+			"id": 181,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"186": {
+			"childs": [
+				398,
+				395,
+				762
+			],
+			"pos": "[-173.1971 3464.5999 662.5064]",
+			"skin": 0,
+			"id": 186,
+			"ang": "{0 53 0}",
+			"model": "models/jmod_construction/pillar02.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"188": {
+			"childs": [
+				592,
+				594,
+				189,
+				190
+			],
+			"pos": "[1447.2872 3334.6721 790.0752]",
+			"skin": 0,
+			"id": 188,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/stair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"189": {
+			"childs": [
+				595,
+				188,
+				591,
+				191
+			],
+			"pos": "[1550.7605 3259.4941 790.0752]",
+			"skin": 0,
+			"id": 189,
+			"ang": "{0 54 0}",
+			"model": "models/jmod_construction/stair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"190": {
+			"childs": [
+				188,
+				740,
+				741,
+				204,
+				191
+			],
+			"pos": "[1371.9696 3231.1768 849.9752]",
+			"skin": 0,
+			"id": 190,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"191": {
+			"childs": [
+				742,
+				203,
+				189,
+				190,
+				743
+			],
+			"pos": "[1475.5238 3155.9402 849.9752]",
+			"skin": 0,
+			"id": 191,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"192": {
+			"childs": [
+				393,
+				193,
+				431
+			],
+			"pos": "[-369.8384 3170.856 662.5064]",
+			"skin": 0,
+			"id": 192,
+			"ang": "{0 53 0}",
+			"model": "models/jmod_construction/pillar02.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"193": {
+			"childs": [
+				192
+			],
+			"pos": "[-369.002 3171.426 727.5377]",
+			"skin": 0,
+			"id": 193,
+			"ang": "{0 139 0}",
+			"model": "models/jmod_construction/vasily_bust.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"194": {
+			"childs": [
+				698,
+				199,
+				196,
+				195
+			],
+			"pos": "[93.9707 1471.9901 594.1752]",
+			"skin": 0,
+			"id": 194,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"195": {
+			"childs": [
+				701,
+				194
+			],
+			"pos": "[-9.5835 1547.2266 594.1752]",
+			"skin": 0,
+			"id": 195,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"196": {
+			"childs": [
+				200,
+				198,
+				696,
+				697,
+				194,
+				197
+			],
+			"pos": "[197.5249 1396.7535 594.1752]",
+			"skin": 0,
+			"id": 196,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"197": {
+			"childs": [
+				697,
+				695,
+				623,
+				196,
+				200,
+				624,
+				696,
+				558,
+				698,
+				622,
+				199
+			],
+			"pos": "[272.5408 1500.3442 594.1752]",
+			"skin": 0,
+			"id": 197,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"198": {
+			"childs": [
+				196,
+				695
+			],
+			"pos": "[300.8585 1321.5536 594.1752]",
+			"skin": 0,
+			"id": 198,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"199": {
+			"childs": [
+				698,
+				200,
+				697,
+				194,
+				624,
+				197,
+				696,
+				701
+			],
+			"pos": "[169.2072 1575.5442 662.1752]",
+			"skin": 0,
+			"id": 199,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/stair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"200": {
+			"childs": [
+				199,
+				196,
+				697,
+				696,
+				695,
+				698,
+				197,
+				623
+			],
+			"pos": "[272.5408 1500.3441 662.1751]",
+			"skin": 0,
+			"id": 200,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/stair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"201": {
+			"childs": [
+				827,
+				202,
+				622,
+				623
+			],
+			"pos": "[347.917 1603.9208 790.0752]",
+			"skin": 0,
+			"id": 201,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/stair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"202": {
+			"childs": [
+				829,
+				624,
+				625,
+				201
+			],
+			"pos": "[244.4437 1679.0984 790.0752]",
+			"skin": 0,
+			"id": 202,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/stair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"203": {
+			"childs": [
+				742,
+				743,
+				745,
+				205,
+				204,
+				191
+			],
+			"pos": "[1400.2874 3052.386 849.9752]",
+			"skin": 0,
+			"id": 203,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"204": {
+			"childs": [
+				203,
+				739,
+				206,
+				190,
+				741,
+				740
+			],
+			"pos": "[1296.7332 3127.6226 849.9752]",
+			"skin": 0,
+			"id": 204,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"205": {
+			"childs": [
+				743,
+				203,
+				207,
+				746,
+				745,
+				206
+			],
+			"pos": "[1325.0508 2948.8318 849.9752]",
+			"skin": 0,
+			"id": 205,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"206": {
+			"childs": [
+				739,
+				738,
+				208,
+				205,
+				204,
+				740
+			],
+			"pos": "[1221.4966 3024.0684 849.9752]",
+			"skin": 0,
+			"id": 206,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"207": {
+			"childs": [
+				745,
+				746,
+				208,
+				747,
+				205,
+				209
+			],
+			"pos": "[1249.8142 2845.2776 849.9752]",
+			"skin": 0,
+			"id": 207,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"208": {
+			"childs": [
+				739,
+				206,
+				207,
+				735,
+				602,
+				738
+			],
+			"pos": "[1146.26 2920.5142 849.9752]",
+			"skin": 0,
+			"id": 208,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"209": {
+			"childs": [
+				746,
+				747,
+				207,
+				602,
+				748,
+				603
+			],
+			"pos": "[1174.5776 2741.7234 849.9752]",
+			"skin": 0,
+			"id": 209,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"210": {
+			"childs": [
+				213,
+				212,
+				639,
+				635,
+				647,
+				163
+			],
+			"pos": "[1955.7758 1858.5809 534.2252]",
+			"skin": 0,
+			"id": 210,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"211": {
+			"childs": [
+				640,
+				212,
+				680,
+				215,
+				94,
+				638
+			],
+			"pos": "[1805.4205 1651.6343 534.2252]",
+			"skin": 0,
+			"id": 211,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"212": {
+			"childs": [
+				645,
+				214,
+				211,
+				162,
+				210
+			],
+			"pos": "[1880.5981 1755.1077 534.2252]",
+			"skin": 0,
+			"id": 212,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"213": {
+			"childs": [
+				214,
+				642,
+				210,
+				635,
+				217,
+				648
+			],
+			"pos": "[1852.3024 1933.7587 534.2252]",
+			"skin": 0,
+			"id": 213,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"214": {
+			"childs": [
+				645,
+				218,
+				212,
+				213,
+				215
+			],
+			"pos": "[1777.1249 1830.2854 534.2252]",
+			"skin": 0,
+			"id": 214,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"215": {
+			"childs": [
+				214,
+				638,
+				211,
+				644,
+				216,
+				681
+			],
+			"pos": "[1701.9473 1726.812 534.2252]",
+			"skin": 0,
+			"id": 215,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"216": {
+			"childs": [
+				219,
+				218,
+				682,
+				643,
+				215
+			],
+			"pos": "[1598.474 1801.9897 534.2252]",
+			"skin": 0,
+			"id": 216,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"217": {
+			"childs": [
+				641,
+				218,
+				221,
+				213,
+				650
+			],
+			"pos": "[1748.8292 2008.9364 534.2252]",
+			"skin": 0,
+			"id": 217,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"218": {
+			"childs": [
+				217,
+				216,
+				214,
+				220
+			],
+			"pos": "[1673.6516 1905.4631 534.2252]",
+			"skin": 0,
+			"id": 218,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"219": {
+			"childs": [
+				552,
+				216,
+				224,
+				220
+			],
+			"pos": "[1495.0007 1877.1675 534.2252]",
+			"skin": 0,
+			"id": 219,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"220": {
+			"childs": [
+				219,
+				378,
+				218,
+				221
+			],
+			"pos": "[1570.1783 1980.6409 534.2252]",
+			"skin": 0,
+			"id": 220,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"221": {
+			"childs": [
+				649,
+				220,
+				222,
+				579,
+				217
+			],
+			"pos": "[1645.356 2084.1143 534.2252]",
+			"skin": 0,
+			"id": 221,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"222": {
+			"childs": [
+				378,
+				221,
+				273,
+				539
+			],
+			"pos": "[1541.8826 2159.292 534.2252]",
+			"skin": 0,
+			"id": 222,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"223": {
+			"childs": [
+				379,
+				381,
+				375,
+				377
+			],
+			"pos": "[328.558 2882.8542 594.1752]",
+			"skin": 0,
+			"id": 223,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"224": {
+			"childs": [
+				378,
+				219,
+				540,
+				225
+			],
+			"pos": "[1391.5276 1952.3452 534.2252]",
+			"skin": 0,
+			"id": 224,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"225": {
+			"childs": [
+				276,
+				224,
+				472,
+				272
+			],
+			"pos": "[1288.0542 2027.5228 534.2252]",
+			"skin": 0,
+			"id": 225,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"272": {
+			"childs": [
+				378,
+				275,
+				273,
+				225
+			],
+			"pos": "[1363.2318 2130.9963 534.2252]",
+			"skin": 0,
+			"id": 272,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"273": {
+			"childs": [
+				272,
+				222,
+				469,
+				274
+			],
+			"pos": "[1438.4094 2234.4697 534.2252]",
+			"skin": 0,
+			"id": 273,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"274": {
+			"childs": [
+				275,
+				273,
+				279,
+				468
+			],
+			"pos": "[1334.9362 2309.6475 534.2252]",
+			"skin": 0,
+			"id": 274,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"275": {
+			"childs": [
+				276,
+				348,
+				274,
+				272
+			],
+			"pos": "[1259.6997 2206.0933 594.1752]",
+			"skin": 0,
+			"id": 275,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"276": {
+			"childs": [
+				275,
+				225,
+				277,
+				471
+			],
+			"pos": "[1184.5809 2102.7007 534.2252]",
+			"skin": 0,
+			"id": 276,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"277": {
+			"childs": [
+				497,
+				282,
+				276,
+				348
+			],
+			"pos": "[1081.1077 2177.8784 534.2252]",
+			"skin": 0,
+			"id": 277,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"278": {
+			"childs": [
+				353,
+				349,
+				370,
+				369
+			],
+			"pos": "[638.86 2657.1594 594.1752]",
+			"skin": 0,
+			"id": 278,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"279": {
+			"childs": [
+				280,
+				274,
+				470,
+				348
+			],
+			"pos": "[1231.4629 2384.8252 534.2252]",
+			"skin": 0,
+			"id": 279,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"280": {
+			"childs": [
+				444,
+				279,
+				284,
+				281
+			],
+			"pos": "[1127.9896 2460.0029 534.2252]",
+			"skin": 0,
+			"id": 280,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"281": {
+			"childs": [
+				282,
+				280,
+				283,
+				382,
+				348
+			],
+			"pos": "[1052.812 2356.5295 534.2252]",
+			"skin": 0,
+			"id": 281,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"282": {
+			"childs": [
+				459,
+				333,
+				277,
+				281
+			],
+			"pos": "[977.6344 2253.0562 534.2252]",
+			"skin": 0,
+			"id": 282,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"283": {
+			"childs": [
+				284,
+				333,
+				460,
+				281
+			],
+			"pos": "[949.2578 2431.7661 594.1752]",
+			"skin": 0,
+			"id": 283,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"284": {
+			"childs": [
+				280,
+				438,
+				283,
+				285
+			],
+			"pos": "[1024.4354 2535.2395 594.1752]",
+			"skin": 0,
+			"id": 284,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"285": {
+			"childs": [
+				460,
+				284,
+				352,
+				437
+			],
+			"pos": "[920.9843 2610.2776 594.1752]",
+			"skin": 0,
+			"id": 285,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"333": {
+			"childs": [
+				439,
+				283,
+				282,
+				345
+			],
+			"pos": "[874.3008 2328.2559 594.1752]",
+			"skin": 0,
+			"id": 333,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"345": {
+			"childs": [
+				351,
+				333,
+				460,
+				436
+			],
+			"pos": "[770.7466 2403.4924 594.1752]",
+			"skin": 0,
+			"id": 345,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"348": {
+			"childs": [
+				275,
+				281,
+				277,
+				279
+			],
+			"pos": "[1156.2263 2281.271 594.1752]",
+			"skin": 0,
+			"id": 348,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"349": {
+			"childs": [
+				460,
+				351,
+				352,
+				278
+			],
+			"pos": "[742.3923 2582.0625 534.2252]",
+			"skin": 0,
+			"id": 349,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"351": {
+			"childs": [
+				452,
+				369,
+				349,
+				345
+			],
+			"pos": "[667.2146 2478.5894 534.2252]",
+			"skin": 0,
+			"id": 351,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"352": {
+			"childs": [
+				353,
+				450,
+				349,
+				285
+			],
+			"pos": "[817.5698 2685.5361 534.2252]",
+			"skin": 0,
+			"id": 352,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"353": {
+			"childs": [
+				278,
+				463,
+				352,
+				373
+			],
+			"pos": "[714.0966 2760.7139 534.2252]",
+			"skin": 0,
+			"id": 353,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"369": {
+			"childs": [
+				351,
+				278,
+				500,
+				371
+			],
+			"pos": "[563.7413 2553.7668 534.2252]",
+			"skin": 0,
+			"id": 369,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"370": {
+			"childs": [
+				371,
+				373,
+				375,
+				278
+			],
+			"pos": "[535.3868 2732.3374 594.1752]",
+			"skin": 0,
+			"id": 370,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"371": {
+			"childs": [
+				369,
+				498,
+				370,
+				376
+			],
+			"pos": "[460.268 2628.9446 534.2252]",
+			"skin": 0,
+			"id": 371,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"372": {
+			"childs": [
+				641,
+				649,
+				653,
+				579,
+				580,
+				652,
+				650
+			],
+			"pos": "[1769.0342 2152.3499 662.1252]",
+			"skin": 0,
+			"id": 372,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"373": {
+			"childs": [
+				353,
+				501,
+				370,
+				374
+			],
+			"pos": "[610.6233 2835.8916 534.2252]",
+			"skin": 0,
+			"id": 373,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"374": {
+			"childs": [
+				379,
+				502,
+				375,
+				373
+			],
+			"pos": "[507.15 2911.0693 534.2252]",
+			"skin": 0,
+			"id": 374,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"375": {
+			"childs": [
+				223,
+				374,
+				370,
+				376
+			],
+			"pos": "[431.9725 2807.5957 534.2252]",
+			"skin": 0,
+			"id": 375,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"376": {
+			"childs": [
+				499,
+				377,
+				375,
+				371
+			],
+			"pos": "[356.7948 2704.1223 534.2252]",
+			"skin": 0,
+			"id": 376,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"377": {
+			"childs": [
+				223,
+				551,
+				380,
+				376
+			],
+			"pos": "[253.3215 2779.3 534.2252]",
+			"skin": 0,
+			"id": 377,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"378": {
+			"childs": [
+				272,
+				224,
+				222,
+				220
+			],
+			"pos": "[1466.7642 2055.8994 594.1752]",
+			"skin": 0,
+			"id": 378,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"379": {
+			"childs": [
+				223,
+				374,
+				383,
+				526
+			],
+			"pos": "[403.677 2986.2468 534.2252]",
+			"skin": 0,
+			"id": 379,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"380": {
+			"childs": [
+				377,
+				381,
+				384,
+				565
+			],
+			"pos": "[149.8483 2854.4778 534.2252]",
+			"skin": 0,
+			"id": 380,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"381": {
+			"childs": [
+				223,
+				383,
+				380,
+				385
+			],
+			"pos": "[225.026 2957.9512 534.2252]",
+			"skin": 0,
+			"id": 381,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"382": {
+			"childs": [
+				281,
+				806
+			],
+			"pos": "[1052.812 2356.5295 406.3252]",
+			"skin": 0,
+			"id": 382,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"383": {
+			"childs": [
+				379,
+				381,
+				386,
+				566
+			],
+			"pos": "[300.2037 3061.4246 534.2252]",
+			"skin": 0,
+			"id": 383,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"384": {
+			"childs": [
+				716,
+				710,
+				385,
+				380,
+				387
+			],
+			"pos": "[46.375 2929.6555 534.2252]",
+			"skin": 0,
+			"id": 384,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"385": {
+			"childs": [
+				386,
+				381,
+				384,
+				388
+			],
+			"pos": "[121.5527 3033.1289 534.2252]",
+			"skin": 0,
+			"id": 385,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"386": {
+			"childs": [
+				383,
+				679,
+				718,
+				389,
+				385
+			],
+			"pos": "[196.7305 3136.6023 534.2252]",
+			"skin": 0,
+			"id": 386,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"387": {
+			"childs": [
+				712,
+				390,
+				720,
+				384,
+				717,
+				388
+			],
+			"pos": "[-57.0983 3004.8333 534.2252]",
+			"skin": 0,
+			"id": 387,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"388": {
+			"childs": [
+				387,
+				385,
+				389,
+				391,
+				724
+			],
+			"pos": "[18.0795 3108.3066 534.2252]",
+			"skin": 0,
+			"id": 388,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"389": {
+			"childs": [
+				721,
+				714,
+				392,
+				386,
+				719,
+				388
+			],
+			"pos": "[93.2572 3211.7798 534.2252]",
+			"skin": 0,
+			"id": 389,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"390": {
+			"childs": [
+				713,
+				720,
+				723,
+				165,
+				393,
+				391,
+				387
+			],
+			"pos": "[-160.5716 3080.011 534.2252]",
+			"skin": 0,
+			"id": 390,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"391": {
+			"childs": [
+				390,
+				388,
+				394,
+				166,
+				392,
+				724
+			],
+			"pos": "[-85.3938 3183.4844 534.2252]",
+			"skin": 0,
+			"id": 391,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"392": {
+			"childs": [
+				721,
+				722,
+				391,
+				715,
+				395,
+				389,
+				164
+			],
+			"pos": "[-10.2161 3286.9578 534.2252]",
+			"skin": 0,
+			"id": 392,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"393": {
+			"childs": [
+				165,
+				192,
+				390,
+				394,
+				431
+			],
+			"pos": "[-264.0448 3155.1887 534.2252]",
+			"skin": 0,
+			"id": 393,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"394": {
+			"childs": [
+				430,
+				391,
+				166,
+				395,
+				393
+			],
+			"pos": "[-188.8671 3258.6621 534.2252]",
+			"skin": 0,
+			"id": 394,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"395": {
+			"childs": [
+				164,
+				398,
+				394,
+				186,
+				392
+			],
+			"pos": "[-113.6894 3362.1355 534.2252]",
+			"skin": 0,
+			"id": 395,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"398": {
+			"childs": [
+				430,
+				395,
+				186,
+				399
+			],
+			"pos": "[-217.1626 3437.3132 534.2252]",
+			"skin": 0,
+			"id": 398,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"399": {
+			"childs": [
+				398,
+				400,
+				426
+			],
+			"pos": "[-320.6359 3512.491 534.2252]",
+			"skin": 0,
+			"id": 399,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"400": {
+			"childs": [
+				401,
+				429,
+				399
+			],
+			"pos": "[-424.1092 3587.6687 534.2252]",
+			"skin": 0,
+			"id": 400,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"401": {
+			"childs": [
+				400,
+				402,
+				428
+			],
+			"pos": "[-527.5825 3662.8464 534.2252]",
+			"skin": 0,
+			"id": 401,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"402": {
+			"childs": [
+				401,
+				427,
+				403
+			],
+			"pos": "[-631.0557 3738.0242 534.2252]",
+			"skin": 0,
+			"id": 402,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"403": {
+			"childs": [
+				424,
+				404,
+				402
+			],
+			"pos": "[-734.529 3813.2019 534.2252]",
+			"skin": 0,
+			"id": 403,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"404": {
+			"childs": [
+				422,
+				405,
+				403
+			],
+			"pos": "[-838.0023 3888.3796 534.2252]",
+			"skin": 0,
+			"id": 404,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"405": {
+			"childs": [
+				404,
+				420,
+				406
+			],
+			"pos": "[-941.4755 3963.5574 534.2252]",
+			"skin": 0,
+			"id": 405,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"406": {
+			"childs": [
+				418,
+				405,
+				407
+			],
+			"pos": "[-1044.9489 4038.7351 534.2252]",
+			"skin": 0,
+			"id": 406,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"407": {
+			"childs": [
+				408,
+				416,
+				406
+			],
+			"pos": "[-1148.4221 4113.9131 534.2252]",
+			"skin": 0,
+			"id": 407,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"408": {
+			"childs": [
+				409,
+				414,
+				407
+			],
+			"pos": "[-1251.8954 4189.0908 534.2252]",
+			"skin": 0,
+			"id": 408,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"409": {
+			"childs": [
+				408,
+				410
+			],
+			"pos": "[-1355.3687 4264.2686 534.2252]",
+			"skin": 0,
+			"id": 409,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"410": {
+			"childs": [
+				409,
+				411,
+				412,
+				414
+			],
+			"pos": "[-1430.5464 4160.7954 534.2252]",
+			"skin": 0,
+			"id": 410,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"411": {
+			"childs": [
+				410,
+				413
+			],
+			"pos": "[-1534.0197 4235.9731 534.2252]",
+			"skin": 0,
+			"id": 411,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"412": {
+			"childs": [
+				410,
+				413,
+				415
+			],
+			"pos": "[-1505.7241 4057.322 534.2252]",
+			"skin": 0,
+			"id": 412,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"413": {
+			"childs": [
+				412,
+				411
+			],
+			"pos": "[-1609.1974 4132.5 534.2252]",
+			"skin": 0,
+			"id": 413,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"414": {
+			"childs": [
+				410,
+				408,
+				416,
+				415
+			],
+			"pos": "[-1327.0731 4085.6174 534.2252]",
+			"skin": 0,
+			"id": 414,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"415": {
+			"childs": [
+				414,
+				412,
+				417
+			],
+			"pos": "[-1402.2509 3982.144 534.2252]",
+			"skin": 0,
+			"id": 415,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"416": {
+			"childs": [
+				414,
+				407,
+				418,
+				417
+			],
+			"pos": "[-1223.5999 4010.4397 534.2252]",
+			"skin": 0,
+			"id": 416,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"417": {
+			"childs": [
+				415,
+				416,
+				419
+			],
+			"pos": "[-1298.7776 3906.9663 534.2252]",
+			"skin": 0,
+			"id": 417,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"418": {
+			"childs": [
+				406,
+				416,
+				420,
+				419
+			],
+			"pos": "[-1120.1266 3935.2617 534.2252]",
+			"skin": 0,
+			"id": 418,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"419": {
+			"childs": [
+				418,
+				417,
+				421
+			],
+			"pos": "[-1195.3043 3831.7883 534.2252]",
+			"skin": 0,
+			"id": 419,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"420": {
+			"childs": [
+				418,
+				405,
+				422,
+				421
+			],
+			"pos": "[-1016.6533 3860.084 534.2252]",
+			"skin": 0,
+			"id": 420,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"421": {
+			"childs": [
+				423,
+				420,
+				419
+			],
+			"pos": "[-1091.8311 3756.6106 534.2252]",
+			"skin": 0,
+			"id": 421,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"422": {
+			"childs": [
+				423,
+				424,
+				420,
+				404
+			],
+			"pos": "[-913.18 3784.9062 534.2252]",
+			"skin": 0,
+			"id": 422,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"423": {
+			"childs": [
+				422,
+				425,
+				421
+			],
+			"pos": "[-988.3577 3681.4329 534.2252]",
+			"skin": 0,
+			"id": 423,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"424": {
+			"childs": [
+				422,
+				425,
+				427,
+				403
+			],
+			"pos": "[-809.7067 3709.7285 534.2252]",
+			"skin": 0,
+			"id": 424,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"425": {
+			"childs": [
+				423,
+				424,
+				434
+			],
+			"pos": "[-884.8845 3606.2551 534.2252]",
+			"skin": 0,
+			"id": 425,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"426": {
+			"childs": [
+				429,
+				399,
+				430,
+				432
+			],
+			"pos": "[-395.8136 3409.0176 534.2252]",
+			"skin": 0,
+			"id": 426,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"427": {
+			"childs": [
+				428,
+				424,
+				434,
+				402
+			],
+			"pos": "[-706.2335 3634.5508 534.2252]",
+			"skin": 0,
+			"id": 427,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"428": {
+			"childs": [
+				401,
+				429,
+				427,
+				435
+			],
+			"pos": "[-602.7602 3559.373 534.2252]",
+			"skin": 0,
+			"id": 428,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"429": {
+			"childs": [
+				428,
+				400,
+				433,
+				426
+			],
+			"pos": "[-499.2869 3484.1953 534.2252]",
+			"skin": 0,
+			"id": 429,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"430": {
+			"childs": [
+				394,
+				398,
+				426,
+				431
+			],
+			"pos": "[-292.3404 3333.8398 534.2252]",
+			"skin": 0,
+			"id": 430,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"431": {
+			"childs": [
+				192,
+				393,
+				430,
+				432
+			],
+			"pos": "[-367.5181 3230.3665 534.2252]",
+			"skin": 0,
+			"id": 431,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"432": {
+			"childs": [
+				433,
+				426,
+				431
+			],
+			"pos": "[-470.9914 3305.5442 534.2252]",
+			"skin": 0,
+			"id": 432,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"433": {
+			"childs": [
+				429,
+				435,
+				432
+			],
+			"pos": "[-574.4646 3380.7219 534.2252]",
+			"skin": 0,
+			"id": 433,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"434": {
+			"childs": [
+				435,
+				427,
+				425
+			],
+			"pos": "[-781.4112 3531.0774 534.2252]",
+			"skin": 0,
+			"id": 434,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"435": {
+			"childs": [
+				433,
+				434,
+				428
+			],
+			"pos": "[-677.9379 3455.8997 534.2252]",
+			"skin": 0,
+			"id": 435,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"436": {
+			"childs": [
+				439,
+				452,
+				441,
+				345
+			],
+			"pos": "[695.5101 2299.9382 534.2252]",
+			"skin": 0,
+			"id": 436,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"437": {
+			"childs": [
+				450,
+				438,
+				442,
+				285
+			],
+			"pos": "[996.2208 2713.8318 534.2252]",
+			"skin": 0,
+			"id": 437,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"438": {
+			"childs": [
+				443,
+				284,
+				444,
+				437
+			],
+			"pos": "[1099.6941 2638.6541 534.2252]",
+			"skin": 0,
+			"id": 438,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"439": {
+			"childs": [
+				459,
+				436,
+				440,
+				333
+			],
+			"pos": "[798.9834 2224.7605 534.2252]",
+			"skin": 0,
+			"id": 439,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"440": {
+			"childs": [
+				439,
+				458,
+				456,
+				441
+			],
+			"pos": "[723.8278 2121.1475 594.1752]",
+			"skin": 0,
+			"id": 440,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"441": {
+			"childs": [
+				440,
+				453,
+				455,
+				436
+			],
+			"pos": "[620.2736 2196.384 594.1752]",
+			"skin": 0,
+			"id": 441,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"442": {
+			"childs": [
+				443,
+				448,
+				451,
+				437
+			],
+			"pos": "[1071.4573 2817.3857 594.1752]",
+			"skin": 0,
+			"id": 442,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"443": {
+			"childs": [
+				447,
+				438,
+				442,
+				445
+			],
+			"pos": "[1174.9307 2742.2083 594.1752]",
+			"skin": 0,
+			"id": 443,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"444": {
+			"childs": [
+				280,
+				438,
+				470,
+				445
+			],
+			"pos": "[1203.1674 2563.4763 534.2252]",
+			"skin": 0,
+			"id": 444,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"445": {
+			"childs": [
+				444,
+				443,
+				506,
+				446
+			],
+			"pos": "[1278.3451 2666.9497 534.2252]",
+			"skin": 0,
+			"id": 445,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"446": {
+			"childs": [
+				447,
+				445,
+				462,
+				520
+			],
+			"pos": "[1353.5228 2770.4231 534.2252]",
+			"skin": 0,
+			"id": 446,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"447": {
+			"childs": [
+				446,
+				448,
+				443,
+				465
+			],
+			"pos": "[1250.0496 2845.6008 534.2252]",
+			"skin": 0,
+			"id": 447,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"448": {
+			"childs": [
+				447,
+				449,
+				464,
+				442
+			],
+			"pos": "[1146.5763 2920.7786 534.2252]",
+			"skin": 0,
+			"id": 448,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"449": {
+			"childs": [
+				461,
+				451,
+				448,
+				521
+			],
+			"pos": "[1043.103 2995.9563 534.2252]",
+			"skin": 0,
+			"id": 449,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"450": {
+			"childs": [
+				463,
+				451,
+				352,
+				437
+			],
+			"pos": "[892.7476 2789.0095 534.2252]",
+			"skin": 0,
+			"id": 450,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"451": {
+			"childs": [
+				450,
+				449,
+				503,
+				442
+			],
+			"pos": "[967.9253 2892.4829 534.2252]",
+			"skin": 0,
+			"id": 451,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"452": {
+			"childs": [
+				351,
+				453,
+				500,
+				436
+			],
+			"pos": "[592.0369 2375.116 534.2252]",
+			"skin": 0,
+			"id": 452,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"453": {
+			"childs": [
+				441,
+				454,
+				509,
+				452
+			],
+			"pos": "[516.8591 2271.6426 534.2252]",
+			"skin": 0,
+			"id": 453,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"454": {
+			"childs": [
+				455,
+				518,
+				522,
+				453
+			],
+			"pos": "[441.6814 2168.1692 534.2252]",
+			"skin": 0,
+			"id": 454,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"455": {
+			"childs": [
+				454,
+				441,
+				456,
+				525
+			],
+			"pos": "[545.1547 2092.9915 534.2252]",
+			"skin": 0,
+			"id": 455,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"456": {
+			"childs": [
+				440,
+				457,
+				524,
+				455
+			],
+			"pos": "[648.6279 2017.8137 534.2252]",
+			"skin": 0,
+			"id": 456,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"457": {
+			"childs": [
+				456,
+				458,
+				523,
+				519
+			],
+			"pos": "[752.1012 1942.636 534.2252]",
+			"skin": 0,
+			"id": 457,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"458": {
+			"childs": [
+				457,
+				440,
+				507,
+				459
+			],
+			"pos": "[827.2789 2046.1093 534.2252]",
+			"skin": 0,
+			"id": 458,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"459": {
+			"childs": [
+				439,
+				458,
+				497,
+				282
+			],
+			"pos": "[902.4567 2149.5828 534.2252]",
+			"skin": 0,
+			"id": 459,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"460": {
+			"childs": [
+				345,
+				283,
+				349,
+				285
+			],
+			"pos": "[845.9465 2506.8259 594.1752]",
+			"skin": 0,
+			"id": 460,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"461": {
+			"childs": [
+				464,
+				531,
+				449,
+				532
+			],
+			"pos": "[1118.2808 3099.4297 534.2252]",
+			"skin": 0,
+			"id": 461,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"462": {
+			"childs": [
+				446,
+				536,
+				465,
+				535
+			],
+			"pos": "[1428.7006 2873.8965 534.2252]",
+			"skin": 0,
+			"id": 462,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"463": {
+			"childs": [
+				353,
+				501,
+				503,
+				450
+			],
+			"pos": "[789.1934 2864.2461 594.1752]",
+			"skin": 0,
+			"id": 463,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"464": {
+			"childs": [
+				465,
+				448,
+				466,
+				461
+			],
+			"pos": "[1221.8127 3024.3328 594.1752]",
+			"skin": 0,
+			"id": 464,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"465": {
+			"childs": [
+				447,
+				462,
+				464,
+				467
+			],
+			"pos": "[1325.286 2949.155 594.1752]",
+			"skin": 0,
+			"id": 465,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"466": {
+			"childs": [
+				464,
+				533,
+				467,
+				532
+			],
+			"pos": "[1296.9318 3127.7253 534.2252]",
+			"skin": 0,
+			"id": 466,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"467": {
+			"childs": [
+				465,
+				534,
+				466,
+				535
+			],
+			"pos": "[1400.4049 3052.5476 534.2252]",
+			"skin": 0,
+			"id": 467,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"468": {
+			"childs": [
+				470,
+				469,
+				504,
+				274
+			],
+			"pos": "[1410.1138 2413.1208 534.2252]",
+			"skin": 0,
+			"id": 468,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"469": {
+			"childs": [
+				468,
+				538,
+				273,
+				539
+			],
+			"pos": "[1513.5872 2337.9431 534.2252]",
+			"skin": 0,
+			"id": 469,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"470": {
+			"childs": [
+				444,
+				279,
+				506,
+				468
+			],
+			"pos": "[1306.6995 2488.3794 594.1752]",
+			"skin": 0,
+			"id": 470,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"471": {
+			"childs": [
+				276,
+				472,
+				497,
+				505
+			],
+			"pos": "[1109.4032 1999.2274 534.2252]",
+			"skin": 0,
+			"id": 471,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"472": {
+			"childs": [
+				225,
+				541,
+				540,
+				471
+			],
+			"pos": "[1212.8765 1924.0497 534.2252]",
+			"skin": 0,
+			"id": 472,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"497": {
+			"childs": [
+				459,
+				507,
+				277,
+				471
+			],
+			"pos": "[1006.0109 2074.3462 594.1752]",
+			"skin": 0,
+			"id": 497,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"498": {
+			"childs": [
+				371,
+				499,
+				500,
+				508
+			],
+			"pos": "[385.0903 2525.4712 534.2252]",
+			"skin": 0,
+			"id": 498,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"499": {
+			"childs": [
+				551,
+				498,
+				550,
+				376
+			],
+			"pos": "[281.6171 2600.6489 534.2252]",
+			"skin": 0,
+			"id": 499,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"500": {
+			"childs": [
+				509,
+				498,
+				369,
+				452
+			],
+			"pos": "[488.6445 2450.2346 594.1752]",
+			"skin": 0,
+			"id": 500,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"501": {
+			"childs": [
+				502,
+				463,
+				510,
+				373
+			],
+			"pos": "[685.801 2939.365 534.2252]",
+			"skin": 0,
+			"id": 501,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"502": {
+			"childs": [
+				529,
+				501,
+				374,
+				526
+			],
+			"pos": "[582.3278 3014.5427 534.2252]",
+			"skin": 0,
+			"id": 502,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"503": {
+			"childs": [
+				510,
+				451,
+				463,
+				521
+			],
+			"pos": "[864.452 2967.6606 534.2252]",
+			"skin": 0,
+			"id": 503,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"504": {
+			"childs": [
+				537,
+				538,
+				506,
+				468
+			],
+			"pos": "[1485.2107 2516.6531 594.1752]",
+			"skin": 0,
+			"id": 504,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"505": {
+			"childs": [
+				541,
+				542,
+				507,
+				471
+			],
+			"pos": "[1034.3064 1895.6953 594.1752]",
+			"skin": 0,
+			"id": 505,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"506": {
+			"childs": [
+				470,
+				445,
+				504,
+				520
+			],
+			"pos": "[1381.8184 2591.772 534.2252]",
+			"skin": 0,
+			"id": 506,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"507": {
+			"childs": [
+				497,
+				458,
+				519,
+				505
+			],
+			"pos": "[930.7522 1970.9318 534.2252]",
+			"skin": 0,
+			"id": 507,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"508": {
+			"childs": [
+				550,
+				549,
+				509,
+				498
+			],
+			"pos": "[309.9935 2421.939 594.1752]",
+			"skin": 0,
+			"id": 508,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"509": {
+			"childs": [
+				453,
+				518,
+				500,
+				508
+			],
+			"pos": "[413.3859 2346.8201 534.2252]",
+			"skin": 0,
+			"id": 509,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"510": {
+			"childs": [
+				529,
+				501,
+				503,
+				530
+			],
+			"pos": "[760.92 3042.7576 594.1752]",
+			"skin": 0,
+			"id": 510,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"518": {
+			"childs": [
+				454,
+				549,
+				509,
+				548
+			],
+			"pos": "[338.2081 2243.3469 534.2252]",
+			"skin": 0,
+			"id": 518,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"519": {
+			"childs": [
+				457,
+				542,
+				507,
+				543
+			],
+			"pos": "[855.5745 1867.4585 534.2252]",
+			"skin": 0,
+			"id": 519,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"520": {
+			"childs": [
+				446,
+				536,
+				506,
+				537
+			],
+			"pos": "[1456.9961 2695.2454 534.2252]",
+			"skin": 0,
+			"id": 520,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"521": {
+			"childs": [
+				449,
+				503,
+				531,
+				530
+			],
+			"pos": "[939.6298 3071.134 534.2252]",
+			"skin": 0,
+			"id": 521,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"522": {
+			"childs": [
+				454,
+				525,
+				547,
+				548
+			],
+			"pos": "[366.5037 2064.6958 534.2252]",
+			"skin": 0,
+			"id": 522,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"523": {
+			"childs": [
+				457,
+				524,
+				544,
+				543
+			],
+			"pos": "[676.9235 1839.1627 534.2252]",
+			"skin": 0,
+			"id": 523,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"524": {
+			"childs": [
+				525,
+				523,
+				456,
+				527
+			],
+			"pos": "[573.3914 1914.2595 594.1752]",
+			"skin": 0,
+			"id": 524,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"525": {
+			"childs": [
+				528,
+				522,
+				455,
+				524
+			],
+			"pos": "[469.9182 1989.4373 594.1752]",
+			"skin": 0,
+			"id": 525,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"526": {
+			"childs": [
+				502,
+				379,
+				566,
+				567
+			],
+			"pos": "[478.8545 3089.7205 534.2252]",
+			"skin": 0,
+			"id": 526,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"527": {
+			"childs": [
+				528,
+				524,
+				545,
+				544
+			],
+			"pos": "[498.2725 1810.8672 534.2252]",
+			"skin": 0,
+			"id": 527,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"528": {
+			"childs": [
+				525,
+				546,
+				547,
+				527
+			],
+			"pos": "[394.7992 1886.0449 534.2252]",
+			"skin": 0,
+			"id": 528,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"529": {
+			"childs": [
+				568,
+				510,
+				502,
+				567
+			],
+			"pos": "[657.5055 3118.0161 534.2252]",
+			"skin": 0,
+			"id": 529,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"530": {
+			"childs": [
+				568,
+				510,
+				569,
+				521
+			],
+			"pos": "[836.1565 3146.3118 534.2252]",
+			"skin": 0,
+			"id": 530,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"531": {
+			"childs": [
+				461,
+				570,
+				569,
+				521
+			],
+			"pos": "[1014.8075 3174.6074 534.2252]",
+			"skin": 0,
+			"id": 531,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"532": {
+			"childs": [
+				466,
+				570,
+				571,
+				461
+			],
+			"pos": "[1193.4585 3202.9031 534.2252]",
+			"skin": 0,
+			"id": 532,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"533": {
+			"childs": [
+				534,
+				466,
+				571,
+				572
+			],
+			"pos": "[1372.1095 3231.1987 534.2252]",
+			"skin": 0,
+			"id": 533,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"534": {
+			"childs": [
+				533,
+				574,
+				467,
+				573
+			],
+			"pos": "[1475.5828 3156.021 534.2252]",
+			"skin": 0,
+			"id": 534,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"535": {
+			"childs": [
+				574,
+				462,
+				467,
+				575
+			],
+			"pos": "[1503.8783 2977.3696 534.2252]",
+			"skin": 0,
+			"id": 535,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"536": {
+			"childs": [
+				576,
+				462,
+				575,
+				520
+			],
+			"pos": "[1532.1738 2798.7188 534.2252]",
+			"skin": 0,
+			"id": 536,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"537": {
+			"childs": [
+				576,
+				577,
+				504,
+				520
+			],
+			"pos": "[1560.4694 2620.0676 534.2252]",
+			"skin": 0,
+			"id": 537,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"538": {
+			"childs": [
+				577,
+				469,
+				504,
+				578
+			],
+			"pos": "[1588.7649 2441.4165 534.2252]",
+			"skin": 0,
+			"id": 538,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"539": {
+			"childs": [
+				469,
+				649,
+				222,
+				579,
+				578
+			],
+			"pos": "[1617.0604 2262.7654 534.2252]",
+			"skin": 0,
+			"id": 539,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"540": {
+			"childs": [
+				552,
+				224,
+				472,
+				553
+			],
+			"pos": "[1316.3497 1848.8719 534.2252]",
+			"skin": 0,
+			"id": 540,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"541": {
+			"childs": [
+				553,
+				472,
+				554,
+				505
+			],
+			"pos": "[1137.6987 1820.5764 534.2252]",
+			"skin": 0,
+			"id": 541,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"542": {
+			"childs": [
+				554,
+				555,
+				519,
+				505
+			],
+			"pos": "[959.0477 1792.2809 534.2252]",
+			"skin": 0,
+			"id": 542,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"543": {
+			"childs": [
+				519,
+				555,
+				523,
+				556
+			],
+			"pos": "[780.3967 1763.9852 534.2252]",
+			"skin": 0,
+			"id": 543,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"544": {
+			"childs": [
+				557,
+				527,
+				523,
+				556
+			],
+			"pos": "[601.7457 1735.6895 534.2252]",
+			"skin": 0,
+			"id": 544,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"545": {
+			"childs": [
+				546,
+				558,
+				557,
+				527
+			],
+			"pos": "[423.0947 1707.3939 534.2252]",
+			"skin": 0,
+			"id": 545,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"546": {
+			"childs": [
+				528,
+				559,
+				545,
+				560
+			],
+			"pos": "[319.6215 1782.5717 534.2252]",
+			"skin": 0,
+			"id": 546,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"547": {
+			"childs": [
+				528,
+				560,
+				561,
+				522
+			],
+			"pos": "[291.3259 1961.2225 534.2252]",
+			"skin": 0,
+			"id": 547,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"548": {
+			"childs": [
+				522,
+				518,
+				561,
+				562
+			],
+			"pos": "[263.0304 2139.8735 534.2252]",
+			"skin": 0,
+			"id": 548,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"549": {
+			"childs": [
+				563,
+				518,
+				562,
+				508
+			],
+			"pos": "[234.7349 2318.5244 534.2252]",
+			"skin": 0,
+			"id": 549,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"550": {
+			"childs": [
+				564,
+				499,
+				563,
+				508
+			],
+			"pos": "[206.4393 2497.1755 534.2252]",
+			"skin": 0,
+			"id": 550,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"551": {
+			"childs": [
+				564,
+				377,
+				499,
+				565
+			],
+			"pos": "[178.1438 2675.8267 534.2252]",
+			"skin": 0,
+			"id": 551,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"552": {
+			"childs": [
+				219,
+				540,
+				683,
+				682,
+				610,
+				611
+			],
+			"pos": "[1419.823 1773.6942 534.2252]",
+			"skin": 0,
+			"id": 552,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"553": {
+			"childs": [
+				541,
+				540,
+				683,
+				613,
+				612,
+				686
+			],
+			"pos": "[1241.172 1745.3987 534.2252]",
+			"skin": 0,
+			"id": 553,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"554": {
+			"childs": [
+				687,
+				541,
+				614,
+				615,
+				542,
+				686
+			],
+			"pos": "[1062.521 1717.1031 534.2252]",
+			"skin": 0,
+			"id": 554,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"555": {
+			"childs": [
+				687,
+				543,
+				689,
+				617,
+				542,
+				616
+			],
+			"pos": "[883.87 1688.8076 534.2252]",
+			"skin": 0,
+			"id": 555,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"556": {
+			"childs": [
+				689,
+				691,
+				619,
+				543,
+				544,
+				618
+			],
+			"pos": "[705.2189 1660.5117 534.2252]",
+			"skin": 0,
+			"id": 556,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"557": {
+			"childs": [
+				545,
+				691,
+				621,
+				544,
+				693,
+				620
+			],
+			"pos": "[526.568 1632.2162 534.2252]",
+			"skin": 0,
+			"id": 557,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"558": {
+			"childs": [
+				197,
+				559,
+				545,
+				696,
+				622,
+				697,
+				693,
+				623
+			],
+			"pos": "[347.917 1603.9207 534.2252]",
+			"skin": 0,
+			"id": 558,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"559": {
+			"childs": [
+				698,
+				699,
+				625,
+				546,
+				624,
+				558
+			],
+			"pos": "[244.4437 1679.0984 534.2252]",
+			"skin": 0,
+			"id": 559,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"560": {
+			"childs": [
+				626,
+				699,
+				547,
+				546,
+				627,
+				703
+			],
+			"pos": "[216.1482 1857.7493 534.2252]",
+			"skin": 0,
+			"id": 560,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"561": {
+			"childs": [
+				629,
+				547,
+				628,
+				703,
+				700,
+				548
+			],
+			"pos": "[187.8527 2036.4003 534.2252]",
+			"skin": 0,
+			"id": 561,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"562": {
+			"childs": [
+				700,
+				631,
+				549,
+				705,
+				630,
+				548
+			],
+			"pos": "[159.5571 2215.051 534.2252]",
+			"skin": 0,
+			"id": 562,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"563": {
+			"childs": [
+				549,
+				634,
+				632,
+				550,
+				705,
+				706
+			],
+			"pos": "[131.2616 2393.7021 534.2252]",
+			"skin": 0,
+			"id": 563,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"564": {
+			"childs": [
+				706,
+				636,
+				633,
+				550,
+				551,
+				709
+			],
+			"pos": "[102.9661 2572.3533 534.2252]",
+			"skin": 0,
+			"id": 564,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"565": {
+			"childs": [
+				646,
+				637,
+				709,
+				551,
+				380,
+				710
+			],
+			"pos": "[74.6705 2751.0044 534.2252]",
+			"skin": 0,
+			"id": 565,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"566": {
+			"childs": [
+				383,
+				679,
+				677,
+				601,
+				607,
+				526
+			],
+			"pos": "[375.3815 3164.8979 534.2252]",
+			"skin": 0,
+			"id": 566,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"567": {
+			"childs": [
+				529,
+				675,
+				677,
+				600,
+				605,
+				526
+			],
+			"pos": "[554.0322 3193.1938 534.2252]",
+			"skin": 0,
+			"id": 567,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"568": {
+			"childs": [
+				529,
+				675,
+				530,
+				599,
+				606,
+				673
+			],
+			"pos": "[732.6832 3221.4895 534.2252]",
+			"skin": 0,
+			"id": 568,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"569": {
+			"childs": [
+				608,
+				530,
+				671,
+				598,
+				531,
+				673
+			],
+			"pos": "[911.3342 3249.7852 534.2252]",
+			"skin": 0,
+			"id": 569,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"570": {
+			"childs": [
+				609,
+				671,
+				669,
+				597,
+				531,
+				532
+			],
+			"pos": "[1089.9852 3278.0808 534.2252]",
+			"skin": 0,
+			"id": 570,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"571": {
+			"childs": [
+				669,
+				533,
+				532,
+				596,
+				593,
+				667
+			],
+			"pos": "[1268.6362 3306.3765 534.2252]",
+			"skin": 0,
+			"id": 571,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"572": {
+			"childs": [
+				533,
+				592,
+				573,
+				594,
+				667,
+				665
+			],
+			"pos": "[1447.2872 3334.6721 534.2252]",
+			"skin": 0,
+			"id": 572,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"573": {
+			"childs": [
+				664,
+				591,
+				595,
+				534,
+				661,
+				572
+			],
+			"pos": "[1550.7605 3259.4944 534.2252]",
+			"skin": 0,
+			"id": 573,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"574": {
+			"childs": [
+				534,
+				535,
+				590,
+				660,
+				589,
+				661
+			],
+			"pos": "[1579.056 3080.8433 534.2252]",
+			"skin": 0,
+			"id": 574,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"575": {
+			"childs": [
+				658,
+				587,
+				660,
+				588,
+				536,
+				535
+			],
+			"pos": "[1607.3516 2902.1921 534.2252]",
+			"skin": 0,
+			"id": 575,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"576": {
+			"childs": [
+				585,
+				586,
+				658,
+				656,
+				536,
+				537
+			],
+			"pos": "[1635.6471 2723.541 534.2252]",
+			"skin": 0,
+			"id": 576,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"577": {
+			"childs": [
+				583,
+				651,
+				538,
+				656,
+				584,
+				537
+			],
+			"pos": "[1663.9426 2544.8899 534.2252]",
+			"skin": 0,
+			"id": 577,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"578": {
+			"childs": [
+				582,
+				653,
+				539,
+				538,
+				581,
+				651
+			],
+			"pos": "[1692.2382 2366.2388 534.2252]",
+			"skin": 0,
+			"id": 578,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"579": {
+			"childs": [
+				653,
+				649,
+				539,
+				372,
+				221,
+				580,
+				650
+			],
+			"pos": "[1720.5336 2187.5876 534.2252]",
+			"skin": 0,
+			"id": 579,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"580": {
+			"childs": [
+				653,
+				649,
+				372,
+				581,
+				579,
+				652,
+				650
+			],
+			"pos": "[1755.7712 2236.0881 662.1252]",
+			"skin": 0,
+			"id": 580,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"581": {
+			"childs": [
+				582,
+				580,
+				649,
+				651,
+				654,
+				653,
+				578
+			],
+			"pos": "[1740.7388 2331.001 662.1252]",
+			"skin": 0,
+			"id": 581,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"582": {
+			"childs": [
+				583,
+				653,
+				651,
+				654,
+				581,
+				578
+			],
+			"pos": "[1727.4758 2414.7393 662.1252]",
+			"skin": 0,
+			"id": 582,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"583": {
+			"childs": [
+				582,
+				655,
+				651,
+				577,
+				584,
+				656
+			],
+			"pos": "[1712.4432 2509.6521 662.1252]",
+			"skin": 0,
+			"id": 583,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"584": {
+			"childs": [
+				583,
+				585,
+				651,
+				577,
+				655,
+				656
+			],
+			"pos": "[1699.1803 2593.3904 662.1252]",
+			"skin": 0,
+			"id": 584,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"585": {
+			"childs": [
+				658,
+				586,
+				576,
+				584,
+				657,
+				656
+			],
+			"pos": "[1684.1477 2688.3032 662.1252]",
+			"skin": 0,
+			"id": 585,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"586": {
+			"childs": [
+				658,
+				588,
+				576,
+				656,
+				657,
+				585
+			],
+			"pos": "[1670.8848 2772.0415 662.1252]",
+			"skin": 0,
+			"id": 586,
+			"ang": "{0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"587": {
+			"childs": [
+				658,
+				588,
+				589,
+				660,
+				659,
+				575
+			],
+			"pos": "[1642.5892 2950.6926 662.1252]",
+			"skin": 0,
+			"id": 587,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"588": {
+			"childs": [
+				658,
+				586,
+				587,
+				659,
+				575,
+				660
+			],
+			"pos": "[1655.8522 2866.9543 662.1252]",
+			"skin": 0,
+			"id": 588,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"589": {
+			"childs": [
+				662,
+				574,
+				587,
+				590,
+				660,
+				661
+			],
+			"pos": "[1627.5566 3045.6055 662.1252]",
+			"skin": 0,
+			"id": 589,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"590": {
+			"childs": [
+				662,
+				574,
+				589,
+				660,
+				591,
+				661
+			],
+			"pos": "[1614.2937 3129.3438 662.1252]",
+			"skin": 0,
+			"id": 590,
+			"ang": "{0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"591": {
+			"childs": [
+				664,
+				189,
+				661,
+				595,
+				590,
+				573,
+				663
+			],
+			"pos": "[1599.2611 3224.2566 662.1252]",
+			"skin": 0,
+			"id": 591,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"592": {
+			"childs": [
+				188,
+				665,
+				594,
+				593,
+				666,
+				667,
+				572
+			],
+			"pos": "[1398.7866 3369.9099 662.1252]",
+			"skin": 0,
+			"id": 592,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"593": {
+			"childs": [
+				668,
+				571,
+				596,
+				592,
+				667,
+				669
+			],
+			"pos": "[1303.8739 3354.877 662.1252]",
+			"skin": 0,
+			"id": 593,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"594": {
+			"childs": [
+				664,
+				595,
+				667,
+				572,
+				188,
+				170,
+				666,
+				592,
+				665
+			],
+			"pos": "[1482.5249 3383.1726 662.1252]",
+			"skin": 0,
+			"id": 594,
+			"ang": "{0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"595": {
+			"childs": [
+				664,
+				189,
+				169,
+				665,
+				663,
+				661,
+				594,
+				573,
+				591
+			],
+			"pos": "[1585.9982 3307.9949 662.1252]",
+			"skin": 0,
+			"id": 595,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"596": {
+			"childs": [
+				668,
+				571,
+				597,
+				593,
+				667,
+				669
+			],
+			"pos": "[1220.1356 3341.6143 662.1252]",
+			"skin": 0,
+			"id": 596,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"597": {
+			"childs": [
+				669,
+				670,
+				671,
+				596,
+				570,
+				609
+			],
+			"pos": "[1125.2229 3326.5813 662.1252]",
+			"skin": 0,
+			"id": 597,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"598": {
+			"childs": [
+				609,
+				608,
+				671,
+				672,
+				569,
+				673
+			],
+			"pos": "[946.572 3298.2856 662.1252]",
+			"skin": 0,
+			"id": 598,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"599": {
+			"childs": [
+				606,
+				608,
+				674,
+				568,
+				675,
+				673
+			],
+			"pos": "[767.921 3269.99 662.1252]",
+			"skin": 0,
+			"id": 599,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"600": {
+			"childs": [
+				606,
+				676,
+				675,
+				567,
+				677,
+				605
+			],
+			"pos": "[589.27 3241.6943 662.1252]",
+			"skin": 0,
+			"id": 600,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"601": {
+			"childs": [
+				566,
+				678,
+				605,
+				607,
+				677,
+				679
+			],
+			"pos": "[410.6192 3213.3984 662.1252]",
+			"skin": 0,
+			"id": 601,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"602": {
+			"childs": [
+				737,
+				208,
+				604,
+				735,
+				209,
+				738
+			],
+			"pos": "[1071.0234 2816.96 849.9752]",
+			"skin": 0,
+			"id": 602,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"603": {
+			"childs": [
+				749,
+				747,
+				604,
+				209,
+				748,
+				750
+			],
+			"pos": "[1099.3411 2638.1692 849.9752]",
+			"skin": 0,
+			"id": 603,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"604": {
+			"childs": [
+				751,
+				736,
+				603,
+				602,
+				735,
+				737
+			],
+			"pos": "[995.7869 2713.4055 849.9752]",
+			"skin": 0,
+			"id": 604,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"605": {
+			"childs": [
+				676,
+				675,
+				567,
+				677,
+				601,
+				600
+			],
+			"pos": "[505.5316 3228.4316 662.1252]",
+			"skin": 0,
+			"id": 605,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"606": {
+			"childs": [
+				675,
+				674,
+				568,
+				599,
+				673,
+				600
+			],
+			"pos": "[684.1827 3256.7273 662.1252]",
+			"skin": 0,
+			"id": 606,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"607": {
+			"childs": [
+				566,
+				678,
+				679,
+				677,
+				718,
+				601
+			],
+			"pos": "[326.8809 3200.1357 662.1252]",
+			"skin": 0,
+			"id": 607,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"608": {
+			"childs": [
+				569,
+				671,
+				599,
+				598,
+				672,
+				673
+			],
+			"pos": "[862.8337 3285.0229 662.1252]",
+			"skin": 0,
+			"id": 608,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"609": {
+			"childs": [
+				669,
+				670,
+				671,
+				570,
+				597,
+				598
+			],
+			"pos": "[1041.4846 3313.3186 662.1252]",
+			"skin": 0,
+			"id": 609,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"610": {
+			"childs": [
+				643,
+				682,
+				552,
+				611,
+				683,
+				684
+			],
+			"pos": "[1468.3236 1738.4565 662.1252]",
+			"skin": 0,
+			"id": 610,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"611": {
+			"childs": [
+				610,
+				612,
+				682,
+				552,
+				683,
+				684
+			],
+			"pos": "[1384.5853 1725.1936 662.1252]",
+			"skin": 0,
+			"id": 611,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"612": {
+			"childs": [
+				611,
+				683,
+				553,
+				685,
+				613,
+				686
+			],
+			"pos": "[1289.6726 1710.161 662.1252]",
+			"skin": 0,
+			"id": 612,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"613": {
+			"childs": [
+				612,
+				683,
+				553,
+				685,
+				614,
+				686
+			],
+			"pos": "[1205.9343 1696.8981 662.1252]",
+			"skin": 0,
+			"id": 613,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"614": {
+			"childs": [
+				687,
+				686,
+				613,
+				615,
+				688,
+				554
+			],
+			"pos": "[1111.0216 1681.8655 662.1252]",
+			"skin": 0,
+			"id": 614,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"615": {
+			"childs": [
+				687,
+				614,
+				686,
+				616,
+				688,
+				554
+			],
+			"pos": "[1027.2833 1668.6025 662.1252]",
+			"skin": 0,
+			"id": 615,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"616": {
+			"childs": [
+				687,
+				555,
+				615,
+				617,
+				689,
+				690
+			],
+			"pos": "[932.3705 1653.5699 662.1252]",
+			"skin": 0,
+			"id": 616,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"617": {
+			"childs": [
+				687,
+				555,
+				618,
+				689,
+				690,
+				616
+			],
+			"pos": "[848.6323 1640.307 662.1252]",
+			"skin": 0,
+			"id": 617,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"618": {
+			"childs": [
+				689,
+				691,
+				556,
+				619,
+				617,
+				692
+			],
+			"pos": "[753.7195 1625.274 662.1252]",
+			"skin": 0,
+			"id": 618,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"619": {
+			"childs": [
+				689,
+				691,
+				556,
+				620,
+				692,
+				618
+			],
+			"pos": "[669.9813 1612.0111 662.1252]",
+			"skin": 0,
+			"id": 619,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"620": {
+			"childs": [
+				557,
+				691,
+				619,
+				693,
+				621,
+				694
+			],
+			"pos": "[575.0685 1596.9785 662.1252]",
+			"skin": 0,
+			"id": 620,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"621": {
+			"childs": [
+				557,
+				691,
+				694,
+				622,
+				693,
+				620
+			],
+			"pos": "[491.3303 1583.7156 662.1252]",
+			"skin": 0,
+			"id": 621,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"622": {
+			"childs": [
+				697,
+				695,
+				693,
+				623,
+				197,
+				696,
+				558,
+				201,
+				621
+			],
+			"pos": "[396.4176 1568.683 662.1252]",
+			"skin": 0,
+			"id": 622,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"623": {
+			"childs": [
+				697,
+				695,
+				693,
+				698,
+				200,
+				197,
+				696,
+				558,
+				624,
+				201,
+				622
+			],
+			"pos": "[312.6793 1555.42 662.1252]",
+			"skin": 0,
+			"id": 623,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"624": {
+			"childs": [
+				697,
+				559,
+				623,
+				199,
+				202,
+				625,
+				696,
+				699,
+				197,
+				698,
+				701
+			],
+			"pos": "[209.206 1630.5978 662.1252]",
+			"skin": 0,
+			"id": 624,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"625": {
+			"childs": [
+				698,
+				559,
+				202,
+				624,
+				699,
+				626,
+				701
+			],
+			"pos": "[195.9432 1714.3361 662.1252]",
+			"skin": 0,
+			"id": 625,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"626": {
+			"childs": [
+				703,
+				699,
+				625,
+				560,
+				627,
+				702
+			],
+			"pos": "[180.9105 1809.2487 662.1252]",
+			"skin": 0,
+			"id": 626,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"627": {
+			"childs": [
+				626,
+				699,
+				702,
+				560,
+				703,
+				628
+			],
+			"pos": "[167.6476 1892.9869 662.1252]",
+			"skin": 0,
+			"id": 627,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"628": {
+			"childs": [
+				629,
+				561,
+				700,
+				703,
+				627,
+				744
+			],
+			"pos": "[152.6149 1987.8997 662.1252]",
+			"skin": 0,
+			"id": 628,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"629": {
+			"childs": [
+				703,
+				561,
+				628,
+				700,
+				630,
+				744
+			],
+			"pos": "[139.3521 2071.6379 662.1252]",
+			"skin": 0,
+			"id": 629,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"630": {
+			"childs": [
+				629,
+				631,
+				562,
+				700,
+				705,
+				704
+			],
+			"pos": "[124.3194 2166.5505 662.1252]",
+			"skin": 0,
+			"id": 630,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"631": {
+			"childs": [
+				700,
+				705,
+				632,
+				562,
+				630,
+				704
+			],
+			"pos": "[111.0566 2250.2888 662.1252]",
+			"skin": 0,
+			"id": 631,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"632": {
+			"childs": [
+				706,
+				634,
+				705,
+				631,
+				707,
+				563
+			],
+			"pos": "[96.0239 2345.2017 662.1252]",
+			"skin": 0,
+			"id": 632,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"633": {
+			"childs": [
+				706,
+				634,
+				564,
+				636,
+				708,
+				709
+			],
+			"pos": "[67.7283 2523.8528 662.1252]",
+			"skin": 0,
+			"id": 633,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"634": {
+			"childs": [
+				707,
+				706,
+				632,
+				633,
+				705,
+				563
+			],
+			"pos": "[82.761 2428.9399 662.1252]",
+			"skin": 0,
+			"id": 634,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"635": {
+			"support": false,
+			"id": 635,
+			"door": {
+				"skin": 12,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"childs": [
+				645,
+				213,
+				642,
+				210,
+				647,
+				639,
+				648
+			],
+			"pos": "[1900.803 1898.521 662.1252]",
+			"skin": 0,
+			"ang": "{-0 -36 0}",
+			"typ": 3
+		},
+		"636": {
+			"childs": [
+				706,
+				637,
+				633,
+				708,
+				564,
+				709
+			],
+			"pos": "[54.4655 2607.5911 662.1252]",
+			"skin": 0,
+			"id": 636,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"637": {
+			"childs": [
+				646,
+				565,
+				709,
+				636,
+				711,
+				710
+			],
+			"pos": "[39.4328 2702.5039 662.1252]",
+			"skin": 0,
+			"id": 637,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"638": {
+			"support": false,
+			"id": 638,
+			"door": {
+				"skin": 12,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"childs": [
+				645,
+				211,
+				215,
+				680,
+				644,
+				640,
+				681
+			],
+			"pos": "[1750.4479 1691.5743 662.1252]",
+			"skin": 0,
+			"ang": "{-0 -36 0}",
+			"typ": 3
+		},
+		"639": {
+			"support": false,
+			"id": 639,
+			"door": {
+				"skin": 12,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"childs": [
+				210,
+				642,
+				635,
+				647,
+				648,
+				163
+			],
+			"pos": "[1991.0134 1907.0815 662.1252]",
+			"skin": 0,
+			"ang": "{-0 54 0}",
+			"typ": 3
+		},
+		"640": {
+			"support": false,
+			"id": 640,
+			"door": {
+				"skin": 12,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"childs": [
+				211,
+				638,
+				680,
+				644,
+				94,
+				681
+			],
+			"pos": "[1770.1829 1603.1337 662.1252]",
+			"skin": 0,
+			"ang": "{-0 -126 0}",
+			"typ": 3
+		},
+		"641": {
+			"childs": [
+				649,
+				642,
+				648,
+				217,
+				372,
+				650
+			],
+			"pos": "[1784.0669 2057.437 662.1252]",
+			"skin": 0,
+			"id": 641,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"642": {
+			"childs": [
+				641,
+				213,
+				639,
+				648,
+				635,
+				647,
+				650
+			],
+			"pos": "[1887.54 1982.2593 662.1252]",
+			"skin": 0,
+			"id": 642,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"643": {
+			"childs": [
+				610,
+				216,
+				682,
+				644,
+				681
+			],
+			"pos": "[1563.2363 1753.4891 662.1252]",
+			"skin": 0,
+			"id": 643,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"644": {
+			"childs": [
+				643,
+				640,
+				215,
+				680,
+				682,
+				638,
+				681
+			],
+			"pos": "[1666.7096 1678.3114 662.1252]",
+			"skin": 0,
+			"id": 644,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"645": {
+			"childs": [
+				638,
+				214,
+				635,
+				212
+			],
+			"pos": "[1825.6255 1795.0477 662.1252]",
+			"skin": 0,
+			"id": 645,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"646": {
+			"childs": [
+				565,
+				716,
+				637,
+				710,
+				711,
+				709
+			],
+			"pos": "[26.17 2786.2422 662.1252]",
+			"skin": 0,
+			"id": 646,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"647": {
+			"childs": [
+				648,
+				642,
+				639,
+				635,
+				210,
+				163
+			],
+			"pos": "[2031.0122 1962.1351 594.1752]",
+			"skin": 0,
+			"id": 647,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"648": {
+			"childs": [
+				641,
+				213,
+				639,
+				642,
+				647,
+				635,
+				650
+			],
+			"pos": "[1927.5388 2037.3129 594.1752]",
+			"skin": 0,
+			"id": 648,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"649": {
+			"childs": [
+				641,
+				539,
+				581,
+				650,
+				653,
+				221,
+				579,
+				580,
+				372
+			],
+			"pos": "[1720.5116 2187.7271 594.1752]",
+			"skin": 0,
+			"id": 649,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"650": {
+			"childs": [
+				580,
+				579,
+				648,
+				649,
+				642,
+				641,
+				217,
+				652,
+				372
+			],
+			"pos": "[1824.0878 2112.3511 594.1752]",
+			"skin": 0,
+			"id": 650,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"651": {
+			"childs": [
+				583,
+				655,
+				584,
+				577,
+				582,
+				654,
+				581,
+				578
+			],
+			"pos": "[1767.4969 2469.6533 594.1752]",
+			"skin": 0,
+			"id": 651,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"652": {
+			"childs": [
+				372,
+				653,
+				580,
+				650
+			],
+			"pos": "[1899.3242 2215.9053 594.1752]",
+			"skin": 0,
+			"id": 652,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"653": {
+			"childs": [
+				582,
+				580,
+				654,
+				581,
+				649,
+				578,
+				579,
+				652,
+				372
+			],
+			"pos": "[1795.7699 2291.1418 594.1752]",
+			"skin": 0,
+			"id": 653,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"654": {
+			"childs": [
+				582,
+				653,
+				581,
+				651
+			],
+			"pos": "[1871.0066 2394.696 594.1752]",
+			"skin": 0,
+			"id": 654,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"655": {
+			"childs": [
+				583,
+				584,
+				656,
+				651
+			],
+			"pos": "[1842.7334 2573.2073 594.1752]",
+			"skin": 0,
+			"id": 655,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"656": {
+			"childs": [
+				583,
+				655,
+				586,
+				577,
+				576,
+				584,
+				657,
+				585
+			],
+			"pos": "[1739.2013 2648.3044 594.1752]",
+			"skin": 0,
+			"id": 656,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"657": {
+			"childs": [
+				585,
+				658,
+				586,
+				656
+			],
+			"pos": "[1814.4377 2751.8586 594.1752]",
+			"skin": 0,
+			"id": 657,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"658": {
+			"childs": [
+				576,
+				585,
+				586,
+				587,
+				659,
+				575,
+				657,
+				588
+			],
+			"pos": "[1710.9058 2826.9556 594.1752]",
+			"skin": 0,
+			"id": 658,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"659": {
+			"childs": [
+				588,
+				658,
+				660,
+				587
+			],
+			"pos": "[1786.1423 2930.5095 594.1752]",
+			"skin": 0,
+			"id": 659,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"660": {
+			"childs": [
+				662,
+				574,
+				659,
+				587,
+				589,
+				575,
+				588,
+				590
+			],
+			"pos": "[1682.6102 3005.6067 594.1752]",
+			"skin": 0,
+			"id": 660,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"661": {
+			"childs": [
+				662,
+				574,
+				591,
+				589,
+				595,
+				590,
+				573,
+				663
+			],
+			"pos": "[1654.2926 3184.3975 594.1752]",
+			"skin": 0,
+			"id": 661,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"662": {
+			"childs": [
+				589,
+				660,
+				590,
+				661
+			],
+			"pos": "[1757.8466 3109.1609 594.1752]",
+			"skin": 0,
+			"id": 662,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"663": {
+			"childs": [
+				664,
+				591,
+				595,
+				172,
+				169,
+				661
+			],
+			"pos": "[1729.5291 3287.9517 594.1752]",
+			"skin": 0,
+			"id": 663,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"664": {
+			"childs": [
+				595,
+				663,
+				573,
+				170,
+				665,
+				169,
+				594,
+				171,
+				591
+			],
+			"pos": "[1625.9749 3363.1882 594.1752]",
+			"skin": 0,
+			"id": 664,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"665": {
+			"childs": [
+				664,
+				595,
+				169,
+				173,
+				594,
+				572,
+				592,
+				666,
+				170
+			],
+			"pos": "[1522.4207 3438.4248 594.1752]",
+			"skin": 0,
+			"id": 665,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"666": {
+			"childs": [
+				594,
+				174,
+				170,
+				592,
+				667,
+				665
+			],
+			"pos": "[1418.8665 3513.6616 594.1752]",
+			"skin": 0,
+			"id": 666,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"667": {
+			"childs": [
+				668,
+				592,
+				571,
+				594,
+				596,
+				593,
+				666,
+				572
+			],
+			"pos": "[1343.6298 3410.1072 594.1752]",
+			"skin": 0,
+			"id": 667,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"668": {
+			"childs": [
+				669,
+				593,
+				667,
+				596
+			],
+			"pos": "[1240.0757 3485.3438 594.1752]",
+			"skin": 0,
+			"id": 668,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"669": {
+			"childs": [
+				609,
+				670,
+				571,
+				668,
+				596,
+				597,
+				593,
+				570
+			],
+			"pos": "[1164.8391 3381.7896 594.1752]",
+			"skin": 0,
+			"id": 669,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"670": {
+			"childs": [
+				609,
+				597,
+				669,
+				671
+			],
+			"pos": "[1061.2849 3457.0261 594.1752]",
+			"skin": 0,
+			"id": 670,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"671": {
+			"childs": [
+				609,
+				670,
+				608,
+				569,
+				598,
+				672,
+				597,
+				570
+			],
+			"pos": "[986.0484 3353.4719 594.1752]",
+			"skin": 0,
+			"id": 671,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"672": {
+			"childs": [
+				673,
+				598,
+				608,
+				671
+			],
+			"pos": "[882.4942 3428.7085 594.1752]",
+			"skin": 0,
+			"id": 672,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"673": {
+			"childs": [
+				606,
+				599,
+				608,
+				674,
+				568,
+				672,
+				598,
+				569
+			],
+			"pos": "[807.2577 3325.1543 594.1752]",
+			"skin": 0,
+			"id": 673,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"674": {
+			"childs": [
+				606,
+				599,
+				675,
+				673
+			],
+			"pos": "[703.7035 3400.3909 594.1752]",
+			"skin": 0,
+			"id": 674,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"675": {
+			"childs": [
+				606,
+				676,
+				605,
+				674,
+				568,
+				599,
+				567,
+				600
+			],
+			"pos": "[628.467 3296.8367 594.1752]",
+			"skin": 0,
+			"id": 675,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"676": {
+			"childs": [
+				677,
+				605,
+				675,
+				600
+			],
+			"pos": "[524.9128 3372.0732 594.1752]",
+			"skin": 0,
+			"id": 676,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"677": {
+			"childs": [
+				566,
+				676,
+				605,
+				607,
+				601,
+				678,
+				567,
+				600
+			],
+			"pos": "[449.6763 3268.519 594.1752]",
+			"skin": 0,
+			"id": 677,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"678": {
+			"childs": [
+				679,
+				677,
+				714,
+				607,
+				601
+			],
+			"pos": "[346.1221 3343.7556 594.1752]",
+			"skin": 0,
+			"id": 678,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"679": {
+			"childs": [
+				566,
+				678,
+				386,
+				607,
+				718,
+				714,
+				719,
+				601
+			],
+			"pos": "[270.8856 3240.2014 594.1752]",
+			"skin": 0,
+			"id": 679,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"680": {
+			"childs": [
+				211,
+				638,
+				640,
+				644,
+				94,
+				681
+			],
+			"pos": "[1730.1841 1548.0801 594.1752]",
+			"skin": 0,
+			"id": 680,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"681": {
+			"childs": [
+				643,
+				640,
+				638,
+				680,
+				644,
+				682,
+				215
+			],
+			"pos": "[1626.7107 1623.2578 594.1752]",
+			"skin": 0,
+			"id": 681,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"682": {
+			"childs": [
+				643,
+				216,
+				681,
+				610,
+				552,
+				644,
+				611,
+				684
+			],
+			"pos": "[1523.3772 1698.4578 594.1752]",
+			"skin": 0,
+			"id": 682,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"683": {
+			"childs": [
+				610,
+				612,
+				611,
+				553,
+				552,
+				685,
+				613,
+				684
+			],
+			"pos": "[1344.5864 1670.14 594.1752]",
+			"skin": 0,
+			"id": 683,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"684": {
+			"childs": [
+				610,
+				611,
+				682,
+				683
+			],
+			"pos": "[1448.1406 1594.9036 594.1752]",
+			"skin": 0,
+			"id": 684,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"685": {
+			"childs": [
+				613,
+				612,
+				686,
+				683
+			],
+			"pos": "[1269.3499 1566.5858 594.1752]",
+			"skin": 0,
+			"id": 685,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"686": {
+			"childs": [
+				688,
+				614,
+				612,
+				615,
+				553,
+				685,
+				613,
+				554
+			],
+			"pos": "[1166.0752 1641.8667 594.1752]",
+			"skin": 0,
+			"id": 686,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"687": {
+			"childs": [
+				688,
+				690,
+				554,
+				614,
+				615,
+				617,
+				555,
+				616
+			],
+			"pos": "[987.2845 1613.549 594.1752]",
+			"skin": 0,
+			"id": 687,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"688": {
+			"childs": [
+				687,
+				614,
+				615,
+				686
+			],
+			"pos": "[1090.8386 1538.3125 594.1752]",
+			"skin": 0,
+			"id": 688,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"689": {
+			"childs": [
+				692,
+				690,
+				618,
+				556,
+				619,
+				617,
+				555,
+				616
+			],
+			"pos": "[808.6335 1585.2534 594.1752]",
+			"skin": 0,
+			"id": 689,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"690": {
+			"childs": [
+				689,
+				617,
+				687,
+				616
+			],
+			"pos": "[912.048 1509.9948 594.1752]",
+			"skin": 0,
+			"id": 690,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"691": {
+			"childs": [
+				557,
+				620,
+				692,
+				556,
+				619,
+				694,
+				621,
+				618
+			],
+			"pos": "[629.9825 1556.9575 594.1752]",
+			"skin": 0,
+			"id": 691,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"692": {
+			"childs": [
+				689,
+				619,
+				691,
+				618
+			],
+			"pos": "[733.397 1481.6992 594.1752]",
+			"skin": 0,
+			"id": 692,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"693": {
+			"childs": [
+				557,
+				620,
+				622,
+				694,
+				695,
+				558,
+				621,
+				623
+			],
+			"pos": "[451.3315 1528.662 594.1752]",
+			"skin": 0,
+			"id": 693,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"694": {
+			"childs": [
+				693,
+				621,
+				691,
+				620
+			],
+			"pos": "[554.746 1453.4033 594.1752]",
+			"skin": 0,
+			"id": 694,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"695": {
+			"childs": [
+				198,
+				200,
+				697,
+				696,
+				622,
+				197,
+				693,
+				623
+			],
+			"pos": "[376.095 1425.1078 594.1752]",
+			"skin": 0,
+			"id": 695,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"696": {
+			"childs": [
+				697,
+				695,
+				623,
+				698,
+				200,
+				197,
+				624,
+				558,
+				196,
+				622,
+				199
+			],
+			"pos": "[272.6805 1500.3665 594.1752]",
+			"skin": 0,
+			"id": 696,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"697": {
+			"childs": [
+				695,
+				624,
+				623,
+				698,
+				200,
+				197,
+				696,
+				558,
+				196,
+				622,
+				199
+			],
+			"pos": "[272.7614 1500.3077 594.1752]",
+			"skin": 0,
+			"id": 697,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"698": {
+			"childs": [
+				697,
+				624,
+				623,
+				199,
+				200,
+				197,
+				696,
+				625,
+				194,
+				559,
+				701
+			],
+			"pos": "[169.2072 1575.5442 594.1752]",
+			"skin": 0,
+			"id": 698,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"699": {
+			"childs": [
+				626,
+				559,
+				625,
+				560,
+				624,
+				702,
+				627,
+				701
+			],
+			"pos": "[140.8896 1754.335 594.1752]",
+			"skin": 0,
+			"id": 699,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"700": {
+			"childs": [
+				629,
+				631,
+				561,
+				744,
+				628,
+				562,
+				630,
+				704
+			],
+			"pos": "[84.2985 2111.6367 594.1752]",
+			"skin": 0,
+			"id": 700,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"701": {
+			"childs": [
+				698,
+				699,
+				625,
+				195,
+				624,
+				199
+			],
+			"pos": "[65.653 1650.7808 594.1752]",
+			"skin": 0,
+			"id": 701,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"702": {
+			"childs": [
+				626,
+				699,
+				627,
+				703
+			],
+			"pos": "[37.3354 1829.5715 594.1752]",
+			"skin": 0,
+			"id": 702,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"703": {
+			"childs": [
+				629,
+				744,
+				702,
+				626,
+				560,
+				561,
+				627,
+				628
+			],
+			"pos": "[112.6161 1932.8461 594.1752]",
+			"skin": 0,
+			"id": 703,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"704": {
+			"childs": [
+				700,
+				631,
+				630,
+				705
+			],
+			"pos": "[-19.2336 2186.7334 594.1752]",
+			"skin": 0,
+			"id": 704,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"705": {
+			"childs": [
+				563,
+				707,
+				634,
+				631,
+				632,
+				704,
+				630,
+				562
+			],
+			"pos": "[56.0251 2290.1479 594.1752]",
+			"skin": 0,
+			"id": 705,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"706": {
+			"childs": [
+				633,
+				707,
+				634,
+				564,
+				632,
+				636,
+				708,
+				563
+			],
+			"pos": "[27.7074 2468.9387 594.1752]",
+			"skin": 0,
+			"id": 706,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"707": {
+			"childs": [
+				632,
+				706,
+				634,
+				705
+			],
+			"pos": "[-47.5291 2365.3845 594.1752]",
+			"skin": 0,
+			"id": 707,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"708": {
+			"childs": [
+				633,
+				706,
+				636,
+				709
+			],
+			"pos": "[-75.8468 2544.1753 594.1752]",
+			"skin": 0,
+			"id": 708,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"709": {
+			"childs": [
+				646,
+				565,
+				636,
+				637,
+				564,
+				708,
+				711,
+				633
+			],
+			"pos": "[-0.566 2647.4502 594.1752]",
+			"skin": 0,
+			"id": 709,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"710": {
+			"childs": [
+				646,
+				565,
+				716,
+				637,
+				717,
+				711,
+				384,
+				712
+			],
+			"pos": "[-28.8837 2826.241 594.1752]",
+			"skin": 0,
+			"id": 710,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"711": {
+			"childs": [
+				646,
+				709,
+				710,
+				637
+			],
+			"pos": "[-104.1202 2722.6868 594.1752]",
+			"skin": 0,
+			"id": 711,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"712": {
+			"childs": [
+				387,
+				716,
+				723,
+				710,
+				720,
+				717,
+				713
+			],
+			"pos": "[-132.3348 2901.2791 594.1752]",
+			"skin": 0,
+			"id": 712,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"713": {
+			"childs": [
+				712,
+				390,
+				723,
+				165,
+				717,
+				720
+			],
+			"pos": "[-235.8081 2976.4568 594.1752]",
+			"skin": 0,
+			"id": 713,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"714": {
+			"childs": [
+				721,
+				678,
+				722,
+				679,
+				715,
+				718,
+				389,
+				719
+			],
+			"pos": "[168.4937 3315.3342 594.1752]",
+			"skin": 0,
+			"id": 714,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"715": {
+			"childs": [
+				721,
+				722,
+				719,
+				714,
+				392,
+				164
+			],
+			"pos": "[65.0204 3390.512 594.1752]",
+			"skin": 0,
+			"id": 715,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"716": {
+			"childs": [
+				712,
+				717,
+				646,
+				384,
+				710
+			],
+			"pos": "[11.1373 2881.155 662.1252]",
+			"skin": 0,
+			"id": 716,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"717": {
+			"childs": [
+				712,
+				720,
+				723,
+				710,
+				713,
+				716,
+				387
+			],
+			"pos": "[-92.336 2956.3328 662.1252]",
+			"skin": 0,
+			"id": 717,
+			"ang": "{-0 -126 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"718": {
+			"childs": [
+				607,
+				386,
+				714,
+				719,
+				679
+			],
+			"pos": "[231.9682 3185.1028 662.1252]",
+			"skin": 0,
+			"id": 718,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"719": {
+			"childs": [
+				721,
+				722,
+				679,
+				715,
+				718,
+				389,
+				714
+			],
+			"pos": "[128.4949 3260.2805 662.1252]",
+			"skin": 0,
+			"id": 719,
+			"ang": "{-0 54 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"720": {
+			"support": false,
+			"id": 720,
+			"door": {
+				"skin": 12,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"childs": [
+				712,
+				390,
+				723,
+				713,
+				387,
+				717,
+				724
+			],
+			"pos": "[-105.5988 3040.071 662.1252]",
+			"skin": 0,
+			"ang": "{-0 144 0}",
+			"typ": 3
+		},
+		"721": {
+			"support": false,
+			"id": 721,
+			"door": {
+				"skin": 12,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"childs": [
+				392,
+				722,
+				719,
+				715,
+				714,
+				389,
+				724
+			],
+			"pos": "[44.7566 3247.0178 662.1252]",
+			"skin": 0,
+			"ang": "{-0 144 0}",
+			"typ": 3
+		},
+		"722": {
+			"support": false,
+			"id": 722,
+			"door": {
+				"skin": 12,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"childs": [
+				721,
+				392,
+				715,
+				714,
+				719,
+				164
+			],
+			"pos": "[29.7533 3341.9709 662.1252]",
+			"skin": 0,
+			"ang": "{-0 -126 0}",
+			"typ": 3
+		},
+		"723": {
+			"support": false,
+			"id": 723,
+			"door": {
+				"skin": 12,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"childs": [
+				712,
+				390,
+				720,
+				165,
+				717,
+				713
+			],
+			"pos": "[-200.541 3024.9978 662.1252]",
+			"skin": 0,
+			"ang": "{-0 54 0}",
+			"typ": 3
+		},
+		"724": {
+			"childs": [
+				721,
+				720,
+				391,
+				388
+			],
+			"pos": "[-30.4211 3143.5444 662.1252]",
+			"skin": 0,
+			"id": 724,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"733": {
+			"childs": [
+				181,
+				752,
+				734,
+				820,
+				786
+			],
+			"pos": "[721.5364 2438.0103 917.9252]",
+			"skin": 0,
+			"id": 733,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"734": {
+			"childs": [
+				786,
+				752,
+				751,
+				733,
+				736
+			],
+			"pos": "[796.7729 2541.5645 917.9252]",
+			"skin": 0,
+			"id": 734,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"735": {
+			"childs": [
+				737,
+				208,
+				604,
+				602,
+				738
+			],
+			"pos": "[1022.4824 2852.2271 917.9252]",
+			"skin": 0,
+			"id": 735,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"736": {
+			"childs": [
+				751,
+				752,
+				604,
+				734,
+				737
+			],
+			"pos": "[872.0094 2645.1187 917.9252]",
+			"skin": 0,
+			"id": 736,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"737": {
+			"childs": [
+				751,
+				736,
+				602,
+				735,
+				604
+			],
+			"pos": "[947.2459 2748.6729 917.9252]",
+			"skin": 0,
+			"id": 737,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"738": {
+			"childs": [
+				208,
+				602,
+				735,
+				739,
+				206
+			],
+			"pos": "[1097.719 2955.7812 917.9252]",
+			"skin": 0,
+			"id": 738,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"739": {
+			"childs": [
+				208,
+				206,
+				740,
+				204,
+				738
+			],
+			"pos": "[1172.9556 3059.3354 917.9252]",
+			"skin": 0,
+			"id": 739,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"740": {
+			"childs": [
+				739,
+				741,
+				190,
+				204,
+				206
+			],
+			"pos": "[1248.1921 3162.8896 917.9252]",
+			"skin": 0,
+			"id": 740,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"741": {
+			"childs": [
+				190,
+				204,
+				740
+			],
+			"pos": "[1323.4286 3266.4438 917.9252]",
+			"skin": 0,
+			"id": 741,
+			"ang": "{-0 144 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"742": {
+			"childs": [
+				743,
+				203,
+				191
+			],
+			"pos": "[1524.0648 3120.6731 917.9252]",
+			"skin": 0,
+			"id": 742,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"743": {
+			"childs": [
+				742,
+				203,
+				205,
+				745,
+				191
+			],
+			"pos": "[1448.8284 3017.1189 917.9252]",
+			"skin": 0,
+			"id": 743,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"744": {
+			"childs": [
+				700,
+				629,
+				703,
+				628
+			],
+			"pos": "[9.062 2008.0825 594.1752]",
+			"skin": 0,
+			"id": 744,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"745": {
+			"childs": [
+				743,
+				203,
+				207,
+				205,
+				746
+			],
+			"pos": "[1373.5918 2913.5647 917.9252]",
+			"skin": 0,
+			"id": 745,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"746": {
+			"childs": [
+				745,
+				747,
+				207,
+				205,
+				209
+			],
+			"pos": "[1298.3552 2810.0105 917.9252]",
+			"skin": 0,
+			"id": 746,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"747": {
+			"childs": [
+				746,
+				603,
+				207,
+				209,
+				748
+			],
+			"pos": "[1223.1187 2706.4563 917.9252]",
+			"skin": 0,
+			"id": 747,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"748": {
+			"childs": [
+				749,
+				603,
+				750,
+				209,
+				747
+			],
+			"pos": "[1147.8821 2602.9021 917.9252]",
+			"skin": 0,
+			"id": 748,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"749": {
+			"childs": [
+				755,
+				753,
+				748,
+				750,
+				603
+			],
+			"pos": "[1072.6455 2499.3479 917.9252]",
+			"skin": 0,
+			"id": 749,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"750": {
+			"childs": [
+				751,
+				749,
+				753,
+				603,
+				748,
+				755
+			],
+			"pos": "[1024.1045 2534.615 849.9752]",
+			"skin": 0,
+			"id": 750,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"751": {
+			"childs": [
+				737,
+				752,
+				604,
+				734,
+				750,
+				736
+			],
+			"pos": "[920.5504 2609.8516 849.9752]",
+			"skin": 0,
+			"id": 751,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"752": {
+			"childs": [
+				751,
+				736,
+				753,
+				734,
+				733,
+				786
+			],
+			"pos": "[845.3139 2506.2974 849.9752]",
+			"skin": 0,
+			"id": 752,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"753": {
+			"childs": [
+				749,
+				752,
+				787,
+				754,
+				750,
+				755
+			],
+			"pos": "[948.868 2431.0608 849.9752]",
+			"skin": 0,
+			"id": 753,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"754": {
+			"childs": [
+				787,
+				789,
+				755,
+				753,
+				756
+			],
+			"pos": "[922.1725 2292.2395 917.9252]",
+			"skin": 0,
+			"id": 754,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"755": {
+			"childs": [
+				749,
+				753,
+				754,
+				750,
+				787
+			],
+			"pos": "[997.409 2395.7937 917.9252]",
+			"skin": 0,
+			"id": 755,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"756": {
+			"childs": [
+				787,
+				788,
+				754,
+				789,
+				757
+			],
+			"pos": "[846.936 2188.6853 917.9252]",
+			"skin": 0,
+			"id": 756,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"757": {
+			"childs": [
+				756,
+				789,
+				822,
+				758,
+				788
+			],
+			"pos": "[771.6995 2085.1311 917.9252]",
+			"skin": 0,
+			"id": 757,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"758": {
+			"childs": [
+				822,
+				759,
+				824,
+				788,
+				757
+			],
+			"pos": "[696.463 1981.5769 917.9252]",
+			"skin": 0,
+			"id": 758,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"759": {
+			"childs": [
+				822,
+				826,
+				824,
+				758,
+				760
+			],
+			"pos": "[621.2264 1878.0226 917.9252]",
+			"skin": 0,
+			"id": 759,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"760": {
+			"childs": [
+				827,
+				761,
+				759,
+				824,
+				826
+			],
+			"pos": "[545.9899 1774.4685 917.9252]",
+			"skin": 0,
+			"id": 760,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"761": {
+			"childs": [
+				827,
+				826,
+				760
+			],
+			"pos": "[470.7534 1670.9143 917.9252]",
+			"skin": 0,
+			"id": 761,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"762": {
+			"childs": [
+				186
+			],
+			"pos": "[-173.661 3464.9702 727.5377]",
+			"skin": 0,
+			"id": 762,
+			"ang": "{0 139 0}",
+			"model": "models/jmod_construction/vasily_bust.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"786": {
+			"childs": [
+				181,
+				787,
+				820,
+				734,
+				733,
+				752
+			],
+			"pos": "[770.0774 2402.7432 849.9752]",
+			"skin": 0,
+			"id": 786,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"787": {
+			"childs": [
+				786,
+				755,
+				753,
+				754,
+				789,
+				756
+			],
+			"pos": "[873.6315 2327.5066 849.9752]",
+			"skin": 0,
+			"id": 787,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"788": {
+			"childs": [
+				821,
+				822,
+				789,
+				756,
+				758,
+				757
+			],
+			"pos": "[723.1584 2120.3982 849.9752]",
+			"skin": 0,
+			"id": 788,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"789": {
+			"childs": [
+				787,
+				820,
+				788,
+				754,
+				756,
+				757
+			],
+			"pos": "[798.395 2223.9524 849.9752]",
+			"skin": 0,
+			"id": 789,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"806": {
+			"childs": [
+				382,
+				807
+			],
+			"pos": "[1052.812 2356.5295 278.4252]",
+			"skin": 0,
+			"id": 806,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"807": {
+			"childs": [
+				806,
+				808
+			],
+			"pos": "[1052.812 2356.5295 150.5252]",
+			"skin": 0,
+			"id": 807,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"808": {
+			"childs": [
+				807,
+				809
+			],
+			"pos": "[1052.812 2356.5295 22.6252]",
+			"skin": 0,
+			"id": 808,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"809": {
+			"childs": [
+				808,
+				810
+			],
+			"pos": "[1052.812 2356.5295 -105.2748]",
+			"skin": 0,
+			"id": 809,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"810": {
+			"childs": [
+				809,
+				811
+			],
+			"pos": "[1052.812 2356.5295 -233.1748]",
+			"skin": 0,
+			"id": 810,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"811": {
+			"childs": [
+				810,
+				812
+			],
+			"pos": "[1052.812 2356.5295 -361.0748]",
+			"skin": 0,
+			"id": 811,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"812": {
+			"childs": [
+				811,
+				813
+			],
+			"pos": "[1052.812 2356.5295 -488.9748]",
+			"skin": 0,
+			"id": 812,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"813": {
+			"childs": [
+				812,
+				814
+			],
+			"pos": "[1052.812 2356.5295 -616.8748]",
+			"skin": 0,
+			"id": 813,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"814": {
+			"childs": [
+				813,
+				815
+			],
+			"pos": "[1052.812 2356.5295 -744.7748]",
+			"skin": 0,
+			"id": 814,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"815": {
+			"childs": [
+				814,
+				816
+			],
+			"pos": "[1052.812 2356.5295 -872.6749]",
+			"skin": 0,
+			"id": 815,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"816": {
+			"childs": [
+				815,
+				817
+			],
+			"pos": "[1052.812 2356.5295 -1000.5749]",
+			"skin": 0,
+			"id": 816,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"817": {
+			"childs": [
+				816,
+				818
+			],
+			"pos": "[1052.812 2356.5295 -1128.4749]",
+			"skin": 0,
+			"id": 817,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"818": {
+			"childs": [
+				819,
+				817
+			],
+			"pos": "[1052.812 2356.5295 -1256.3749]",
+			"skin": 0,
+			"id": 818,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"819": {
+			"childs": [
+				818
+			],
+			"pos": "[1052.812 2356.5295 -1384.2749]",
+			"skin": 0,
+			"id": 819,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"820": {
+			"childs": [
+				786,
+				821,
+				789,
+				181,
+				733,
+				180
+			],
+			"pos": "[694.8409 2299.189 849.9752]",
+			"skin": 0,
+			"id": 820,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"821": {
+			"childs": [
+				181,
+				820,
+				823,
+				788,
+				180,
+				178
+			],
+			"pos": "[619.6044 2195.6348 849.9752]",
+			"skin": 0,
+			"id": 821,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"822": {
+			"childs": [
+				788,
+				823,
+				759,
+				824,
+				758,
+				757
+			],
+			"pos": "[647.9219 2016.844 849.9752]",
+			"skin": 0,
+			"id": 822,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"823": {
+			"childs": [
+				821,
+				825,
+				822,
+				177,
+				178,
+				180
+			],
+			"pos": "[544.3679 2092.0806 849.9752]",
+			"skin": 0,
+			"id": 823,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"824": {
+			"childs": [
+				825,
+				760,
+				826,
+				759,
+				758,
+				822
+			],
+			"pos": "[572.6854 1913.2898 849.9752]",
+			"skin": 0,
+			"id": 824,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"825": {
+			"childs": [
+				176,
+				823,
+				828,
+				824,
+				178,
+				177
+			],
+			"pos": "[469.1313 1988.5264 849.9752]",
+			"skin": 0,
+			"id": 825,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"826": {
+			"childs": [
+				827,
+				761,
+				760,
+				759,
+				824,
+				828
+			],
+			"pos": "[497.4489 1809.7356 849.9752]",
+			"skin": 0,
+			"id": 826,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"827": {
+			"childs": [
+				829,
+				761,
+				760,
+				826,
+				201
+			],
+			"pos": "[422.2124 1706.1814 849.9752]",
+			"skin": 0,
+			"id": 827,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"828": {
+			"childs": [
+				175,
+				176,
+				825,
+				826,
+				177,
+				829
+			],
+			"pos": "[393.8947 1884.9722 849.9752]",
+			"skin": 0,
+			"id": 828,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"829": {
+			"childs": [
+				827,
+				202,
+				828,
+				175,
+				176
+			],
+			"pos": "[318.6582 1781.418 849.9752]",
+			"skin": 0,
+			"id": 829,
+			"ang": "{-0 -36 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		}
+	},
+	"count": 459
+}

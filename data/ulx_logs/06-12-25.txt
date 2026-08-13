@@ -1,0 +1,323 @@
+<Logging continued from "data/ulx_logs/06-11-25.txt">
+[03:09:04] Client "Huzar111" connected.
+[03:10:09] Client "Huzar111" spawned in server <STEAM_0:1:173454312> (took 65 seconds).
+[03:12:11] Huzar111: 2412
+[03:16:14] Huzar111 was killed by ent_rus_jsmod_pipe
+[03:32:41] Client "Soldier_S.C.A.F" connected.
+[03:38:09] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 328 seconds).
+[03:40:02] Soldier_S.C.A.F: м-да
+[03:40:09] Soldier_S.C.A.F: опять не меняли после вайпа
+[03:40:28] Huzar111: что не меняли?
+[03:40:34] Soldier_S.C.A.F: да карту не меняли
+[03:40:45] Huzar111: понял
+[03:40:56] Huzar111: а как двери закрывать
+[03:41:05] Soldier_S.C.A.F: alt+e
+[03:41:16] Huzar111: спасибо
+[03:43:35] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[03:43:35] Soldier_S.C.A.F suicided!
+[04:30:10] Client "LonePlayer022" connected.
+[04:30:56] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 46 seconds).
+[04:40:33] Client "ebraheemmiary587" connected.
+[04:45:15] Huzar111: что тебе нужно
+[04:45:22] LonePlayer022: :)
+[04:45:27] Huzar111: ?
+[04:45:29] Client "grokin3" connected.
+[04:46:34] Client "grokin3" spawned in server <STEAM_0:0:771599423> (took 65 seconds).
+[04:48:23] Client "Дед" connected.
+[04:49:45] Dropped "grokin3" from server<STEAM_0:0:771599423>
+[04:49:45] grokin3 suicided!
+[04:50:09] Client "PoPcat" connected.
+[04:51:09] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 60 seconds).
+[04:59:36] Dropped "PoPcat" from server<STEAM_0:1:564871456>
+[04:59:36] PoPcat suicided!
+[05:08:35] Dropped "Huzar111" from server<STEAM_0:1:173454312>
+[05:08:35] Huzar111 suicided!
+[05:09:43] LonePlayer022 killed LonePlayer022
+[05:20:37] Client "sashakene" connected.
+[05:28:56] Client "sashakene" spawned in server <STEAM_0:0:546034662> (took 499 seconds).
+[05:30:22] Dropped "sashakene" from server<STEAM_0:0:546034662>
+[05:30:22] sashakene suicided!
+[05:30:31] LonePlayer022 suicided!
+[05:35:05] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[05:35:05] LonePlayer022 suicided!
+[05:41:54] Client "Coolfroom" connected.
+[05:43:11] Client "Coolfroom" spawned in server <STEAM_0:0:555258766> (took 77 seconds).
+[05:43:50] Coolfroom changed the map to gm_sro
+[05:43:50] Server is shutting down/changing levels.
+
+
+
+[05:44:03] New map: gm_sro
+[05:44:51] Client "Coolfroom" spawned in server <STEAM_0:0:555258766> (took 54 seconds).
+[05:49:03] Dropped "Coolfroom" from server<STEAM_0:0:555258766>
+[05:49:03] Coolfroom suicided!
+[06:19:51] Client "sashakene" connected.
+[06:40:39] Client "Soldier_S.C.A.F" connected.
+[06:43:36] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 177 seconds).
+[07:35:26] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[07:35:26] Soldier_S.C.A.F suicided!
+[07:36:03] Client "Huzar111" connected.
+[07:36:43] Client "Huzar111" spawned in server <STEAM_0:1:173454312> (took 40 seconds).
+[07:49:21] Client " ︻デꞩꞥIꝑer" connected.
+[07:50:37] Dropped "Huzar111" from server<STEAM_0:1:173454312>
+[07:50:37] Huzar111 suicided!
+[07:50:38] Client "Huzar111" connected.
+[07:50:57] Client "Huzar111" spawned in server <STEAM_0:1:173454312> (took 19 seconds).
+[07:57:06] Dropped "Huzar111" from server<STEAM_0:1:173454312>
+[07:57:06] Huzar111 suicided!
+[07:58:20] Client " ︻デꞩꞥIꝑer" connected.
+[08:08:40] Client " ︻デꞩꞥIꝑer" connected.
+[08:11:18] Client " ︻デꞩꞥIꝑer" connected.
+[08:13:18] Client " ︻デꞩꞥIꝑer" spawned in server <STEAM_0:1:529611901> (took 120 seconds).
+[08:13:51]  ︻デꞩꞥIꝑer: прив
+[08:34:26] Dropped " ︻デꞩꞥIꝑer" from server<STEAM_0:1:529611901>
+[08:34:26]  ︻デꞩꞥIꝑer suicided!
+[08:39:20] Client "vasiliy karat" connected.
+[08:40:06] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 46 seconds).
+[10:28:24] Client "klinskoe za 200" connected.
+[10:30:02] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 98 seconds).
+[10:48:05] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[10:48:05] klinskoe za 200 suicided!
+[11:02:20] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_citroen_type23
+[11:16:32] Client "Jawadx_that_dont_know" connected.
+[11:28:06] vasiliy karat suicided!
+[12:01:14] Client "Kiorsyyy:З" connected.
+[12:04:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwinch
+[12:05:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[12:10:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketpod
+[12:18:03] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodwillyjeep
+[12:18:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[12:21:05] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezairboatengine
+[12:30:34] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furnituretable001a.mdl
+[12:30:38] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furnituretable001a.mdl
+[12:30:40] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furnituretable001a.mdl
+[12:30:41] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furnituretable001a.mdl
+[12:30:49] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furnituretable001a.mdl
+[12:31:00] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/kitchen_stove001a.mdl
+[12:31:25] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[12:31:31] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[12:31:50] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[12:34:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwood
+[12:36:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[12:37:23] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furnituretable002a.mdl
+[12:37:27] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[12:38:25] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[12:39:33] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezworkbench
+[12:39:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[12:39:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgas
+[12:39:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezprimitivebench
+[12:39:59] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwood
+[12:41:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezutilitycrate
+[12:42:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezutilitycrate
+[12:49:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[13:02:47] Client "Вассап Мабой" connected.
+[13:12:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[13:12:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[13:12:17] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[13:12:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[13:12:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[13:16:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate
+[13:16:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:16:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:16:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:16:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:16:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[13:21:13] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/barricade002a.mdl
+[13:21:14] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/barricade001a.mdl
+[13:37:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[13:58:28] Client "бугагашенька" connected.
+[13:59:17] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 49 seconds).
+[13:59:19] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[13:59:37] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate
+[13:59:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate_uni
+[13:59:51] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/barricade001a.mdl
+[13:59:56] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[14:02:32] бугагашенька: гойда
+[14:02:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[14:03:01] бугагашенька: ОКАК
+[14:03:43] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_trainstation/bench_indoor001a.mdl
+[14:03:45] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_trainstation/bench_indoor001a.mdl
+[14:03:46] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/cafeteria_table001a.mdl
+[14:03:49] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/cafeteria_table001a.mdl
+[14:05:08] бугагашенька: эх блять
+[14:05:29] бугагашенька: ОКАК
+[14:05:33] бугагашенька: НУ ОКАК ВОТ ТАК
+[14:05:37] vasiliy karat<STEAM_0:0:814052183> spawned sent textscreen_base
+[14:05:47] vasiliy karat<STEAM_0:0:814052183> spawned sent textscreen_base
+[14:06:05] бугагашенька: ЧУВААААААААААААААААААК
+[14:06:17] vasiliy karat: ЧУВАЧЕК
+[14:06:22] бугагашенька: че как ты тут
+[14:06:29] бугагашенька: как я вижу ты тут
+[14:06:31] бугагашенька: уже пару часов
+[14:06:34] бугагашенька: 1 вроде играеш
+[14:06:54] vasiliy karat: ДА Я В ОДНОЙ ИГРЕ СОХРАНЕНИЕ ПО ГЛУПОМУ ПРОСРАЛ ПОШЕЛ СЮДА ГОРОД СТРО
+[14:06:58] vasiliy karat: ИТТЬ
+[14:07:02] бугагашенька: ааа
+[14:07:10] бугагашенька: СТОЙ
+[14:07:22] бугагашенька: у меня 1 новость и 1 вопрос
+[14:07:26] бугагашенька: новость
+[14:07:32] бугагашенька: поздравляю с пятницей 13
+[14:07:59] бугагашенька: а вопрос, ивент будет с джейсоном или нам похуй?
+[14:08:06] бугагашенька: и вопрос*
+[14:08:48] vasiliy karat: ПОКА ИГРОКИ РАЗБЕЖАЛИСЬ СМЫСЛ В ИВЕНТАХ Я НЕ ВИЖУ
+[14:09:00] бугагашенька: а че случилось?
+[14:09:13] бугагашенька: не заходят или што?
+[14:09:47] vasiliy karat: ПРОСТО НЕ ЗАХОДЯТ ВСЕ ЛАН РП ВСЕМ НАДОЕЛ
+[14:10:05] бугагашенька: ну да, от гариса надо немного отдыхать
+[14:10:10] бугагашенька: ничего вспомнят о сервере
+[14:10:38] бугагашенька: вопрос еще 1, как я понял ты строиш карту, вы будете ее когдато ставить
+[14:10:45] бугагашенька: когда-то*
+[14:11:25] vasiliy karat: НЕПОНЕЛ СТРОЮ КАРТУ КАК ПОНЯТЬ
+[14:11:38] бугагашенька: зачем ты это все строиш
+[14:11:49] бугагашенька: ты сказал што потерял сохранение
+[14:11:55] бугагашенька: я думал ты про гарис
+[14:12:07] vasiliy karat: ДРУГАЯ ИГРА 
+[14:12:08] vasiliy karat: А ВОТ
+[14:12:14] vasiliy karat: ДЕЛАТЬ СОХРАНЕНИЕ ПОСТРОЕК БЫЛО БЫ КРУТО
+[14:12:20] vasiliy karat: ПОСТРОИЛ ГОРОД НА ПОЛ КАРТЫ  
+[14:12:25] vasiliy karat: БЫЛ БЫ КРУТОЙ ИВЕНТ
+[14:12:31] бугагашенька: ну так возможно так делать
+[14:12:42] бугагашенька: создатель сервера может вроде бы сохранять
+[14:12:43] бугагашенька: все
+[14:12:46] бугагашенька: вроде бы
+[14:12:56] бугагашенька: или так работает только в сингл плеере?
+[14:13:33] vasiliy karat: ТОЛЬКО В СИНГЛ ПЛЕЕРЕ
+[14:13:35] бугагашенька: у тебя пинг был под 900 кстате
+[14:13:37] бугагашенька: а понятно
+[14:13:43] vasiliy karat: БЫВАЕТ
+[14:13:48] бугагашенька: можно в сингл плеере
+[14:13:50] бугагашенька: построить
+[14:13:57] бугагашенька: и загрузить на сервер?
+[14:14:04] бугагашенька: или как-то с перезапуском
+[14:14:33] бугагашенька: вроде бы можно, сохранять и загружать карты
+[14:14:36] бугагашенька: с пропами и тд
+[14:14:53] бугагашенька: в "закрытый" сервер видел, все заходят и карта загружаеться сохраненн
+[14:15:35] бугагашенька: пинг 900
+[14:15:39] бугагашенька: понятно...
+[14:15:45] (TEAM) бугагашенька: ОКАК
+[14:17:10] vasiliy karat: КАРОЧЕ СЛОЖНО С СОХРАНЕНИЯМИ НАВЕРНОЕ КАК ТО МОЖНО 
+[14:17:17] vasiliy karat: Я ПО ЭТОМУ ПОВОДУ СКАЗАТЬ НИЧЕГО НЕ МОШГУ
+[14:17:21] vasiliy karat: МОШГИ
+[14:17:21] бугагашенька: понятно
+[14:17:44] бугагашенька: нифига себе ты тут настроил
+[14:18:34] бугагашенька: блять гениально ресторан 
+[14:21:00] бугагашенька: вайб сро когда ты 1 на сервере, имба
+[14:21:13] бугагашенька: слушай... а че у тебя пинг подскакивал?
+[14:22:33] vasiliy karat: Я ТУТ
+[14:22:34] vasiliy karat: ПИНГ
+[14:22:38] vasiliy karat: ДА КТО ЕГО ЗНАЕТ 
+[14:22:49] бугагашенька: я думаю
+[14:22:53] бугагашенька: ливать пойду
+[14:22:56] vasiliy karat: ПОКА
+[14:23:08] бугагашенька: тебе тут 1 не страшно?
+[14:23:20] бугагашенька: привык што тут куча людей
+[14:23:30] бугагашенька: лады я пойду удачи!
+[14:23:52] бугагашенька: бб
+[14:23:53] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[14:23:53] бугагашенька suicided!
+[14:42:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_fumo_gmod_ezfluidbarrel
+[14:44:57] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[14:45:11] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_combine/breenglobe.mdl
+[14:45:35] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[14:45:45] vasiliy karat<STEAM_0:0:814052183> spawned model models/gibs/hgibs.mdl
+[14:45:46] vasiliy karat<STEAM_0:0:814052183> spawned model models/gibs/hgibs.mdl
+[14:45:48] vasiliy karat<STEAM_0:0:814052183> spawned model models/gibs/hgibs.mdl
+[14:46:02] vasiliy karat<STEAM_0:0:814052183> spawned sent textscreen_base
+[14:49:10] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_docks/channelmarker_gib01.mdl
+[14:49:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcloth
+[14:53:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[15:16:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate_uni
+[15:16:44] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_trainstation/traincar_rack001.mdl
+[15:27:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfragnade
+[15:32:40] Client "K3NT" connected.
+[15:34:01] Client "K3NT" connected.
+[15:34:31] Client "K3NT" connected.
+[15:50:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaidradio
+[15:50:36] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[15:51:23] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[15:52:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[15:57:44] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcrate
+[15:57:45] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:57:45] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:57:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:57:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:57:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[15:57:46] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:00:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:00:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:00:40] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[16:00:41] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[16:01:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:01:17] Client "." connected.
+[16:01:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:02:38] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:03:26] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:04:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:04:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:05:22] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:05:27] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_citroen_type23
+[16:05:47] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:06:15] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodsherman
+[16:07:09] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[16:07:12] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[16:07:15] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[16:07:29] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_zombie
+[16:11:02] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_sleepingbag
+[16:12:42] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_zis3
+[16:12:59] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:13:31] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_zis3
+[16:13:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:14:05] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:14:21] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodsherman
+[16:15:00] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_zis3
+[16:15:14] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:17:28] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[16:18:34] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:20:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:22:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[16:22:10] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodsherman
+[16:22:13] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[16:22:58] vasiliy karat suicided!
+[16:25:57] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_zis3
+[16:26:14] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodtiger
+[16:27:19] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodtiger
+[16:27:21] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodtiger
+[16:27:27] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[16:27:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:27:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:28:49] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[16:28:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezcloth
+[16:31:13] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[16:31:15] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[16:31:48] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/fence02a.mdl
+[16:32:02] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/fence02a.mdl
+[16:32:13] vasiliy karat<STEAM_0:0:814052183> spawned NPC npc_headcrab
+[16:32:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:33:15] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_zis3
+[16:33:24] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[16:35:41] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/fence02a.mdl
+[16:36:02] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:36:58] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodsherman
+[16:38:11] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:39:16] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/fence02a.mdl
+[16:40:30] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/fence02a.mdl
+[16:40:35] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:41:09] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:42:55] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_citroen_type23
+[16:44:50] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezceramic
+[16:45:13] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[16:45:21] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[16:45:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:45:45] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[16:45:51] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_lab/blastdoor001c.mdl
+[16:46:28] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/fence02a.mdl
+[16:46:52] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[16:46:57] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/fence02a.mdl
+[16:47:27] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/fence01b.mdl
+[16:47:28] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/fence02a.mdl
+[16:48:05] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_trailer_zis3
+[16:48:58] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodtiger
+[16:49:04] vasiliy karat<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodtiger
+[16:52:43] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[16:52:43] vasiliy karat suicided!
+<Logging continued in "data/ulx_logs/06-13-25.txt">

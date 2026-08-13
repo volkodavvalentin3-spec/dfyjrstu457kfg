@@ -1,0 +1,1133 @@
+<Logging continued from "data/ulx_logs/09-07-25.txt">
+[00:10:37] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[00:10:37] GreenPixel11 suicided!
+[02:21:03] Client "Ганжа" connected.
+[02:25:48] Client "GreenPixel11" connected.
+[02:26:32] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 44 seconds).
+[02:35:10] Client "Ганжа" spawned in server <STEAM_0:1:204743226> (took 847 seconds).
+[02:38:37] Dropped "Ганжа" from server<STEAM_0:1:204743226>
+[02:38:37] Ганжа suicided!
+[02:41:14] GreenPixel11: /me Нажал на кнопку в кормане
+[02:48:56] GreenPixel11 suicided!
+[03:02:51] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[03:02:51] GreenPixel11 suicided!
+[03:33:28] Client "Soldier_S.C.A.F" connected.
+[03:36:47] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 199 seconds).
+[03:37:15] Soldier_S.C.A.F: !menu
+[03:37:22] Soldier_S.C.A.F voted for gm_sro_mountain_field (1/3)
+[03:47:23] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[03:47:23] Soldier_S.C.A.F suicided!
+[04:13:30] Client "Хищный анус" connected.
+[04:14:26] Client "Хищный анус" spawned in server <STEAM_0:1:125235601> (took 56 seconds).
+[04:37:09] Client "Soldier_S.C.A.F" connected.
+[04:39:10] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 121 seconds).
+[04:40:43] Soldier_S.C.A.F: да здаров
+[04:40:53] Soldier_S.C.A.F: не знаю
+[04:41:00] Soldier_S.C.A.F: щяс либо админов ждать
+[04:41:02] Soldier_S.C.A.F: ну или так
+[04:41:05] Soldier_S.C.A.F: !menu
+[04:41:09] Хищный анус: !menu
+[04:41:10] Soldier_S.C.A.F voted for gm_sro (1/3)
+[04:41:13] Хищный анус voted for gm_sro (2/3)
+[04:41:14] Soldier_S.C.A.F: да
+[04:43:07] Хищный анус: supply radio: fulton-crate
+[04:47:02] Хищный анус killed Хищный анус
+[04:47:20] Soldier_S.C.A.F: радиация такая уж
+[04:47:48] Client "KIRKA" connected.
+[04:47:51] Soldier_S.C.A.F: о
+[04:48:28] Soldier_S.C.A.F: нет
+[04:48:29] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 41 seconds).
+[04:49:04] Soldier_S.C.A.F voted for gm_sro (2/3)
+[04:49:04] Soldier_S.C.A.F: !votemap 1
+[04:49:13] KIRKA voted for gm_sro (3/3)
+[04:49:13] Votemap for gm_sro won.
+[04:49:13] KIRKA: !votemap 1
+[04:49:13] Server is shutting down/changing levels.
+
+
+
+[04:49:24] New map: gm_sro
+[04:49:54] Client "Хищный анус" spawned in server <STEAM_0:1:125235601> (took 36 seconds).
+[04:50:03] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 45 seconds).
+[04:50:40] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 82 seconds).
+[04:50:43] Хищный анус: !motd
+[04:50:53] Хищный анус: !motd
+[04:50:54] Soldier_S.C.A.F: ды
+[04:51:01] Soldier_S.C.A.F: ахуеть
+[04:51:16] Soldier_S.C.A.F: да уж
+[04:52:15] Soldier_S.C.A.F: и на мине подрывались?
+[04:52:23] Soldier_S.C.A.F: я мины тогда ставил
+[04:52:40] Soldier_S.C.A.F: пиздец
+[04:52:48] Soldier_S.C.A.F: а ещё рофол в том
+[04:52:57] Soldier_S.C.A.F: что на ПТ мине можно взорватся
+[04:53:01] Soldier_S.C.A.F: тупо стоя на ней
+[04:53:38] Soldier_S.C.A.F: мм
+[04:53:48] Soldier_S.C.A.F: кстати а какой щяс легкий танк у бритов?
+[04:54:02] Soldier_S.C.A.F: не т-60 в случаии?
+[04:54:07] Soldier_S.C.A.F: он ещё с автопушкой
+[04:54:14] Soldier_S.C.A.F: понятно
+[04:54:30] Client "consoleZX" connected.
+[04:54:32] Soldier_S.C.A.F: хм
+[04:54:38] Soldier_S.C.A.F: кирка
+[04:54:44] Soldier_S.C.A.F: а
+[04:55:07] Soldier_S.C.A.F: загадочная вещь руслана
+[04:55:11] Client "consoleZX" spawned in server <STEAM_0:0:926112185> (took 41 seconds).
+[04:55:56] Soldier_S.C.A.F: просто он у меня есть
+[04:56:06] Soldier_S.C.A.F: но ещё раз повторяюсь
+[04:56:11] Soldier_S.C.A.F: он у меня хуйня та ещё
+[04:56:44] Soldier_S.C.A.F: рихтгофен: НЕ НАДО БЫЛО ЗАКРЫВАТЬ ПРОИЗВОДСТВО DG-2
+[04:57:55] Soldier_S.C.A.F: блин
+[04:58:06] Хищный анус killed KIRKA using wep_jack_gmod_ezpickaxe
+[04:58:07] Soldier_S.C.A.F: надо чтобы ПВО не херачело по всем подряд
+[04:58:12] Soldier_S.C.A.F: особенно в мирное время
+[04:58:22] Soldier_S.C.A.F: типо как это
+[04:58:30] Soldier_S.C.A.F: просто на военных судах
+[04:58:41] Soldier_S.C.A.F: есть такая система для ПВО
+[04:58:47] Soldier_S.C.A.F: чтобы оно стреляло
+[04:58:56] Soldier_S.C.A.F: нужен приказ на это
+[04:59:00] Soldier_S.C.A.F: а так
+[04:59:04] Soldier_S.C.A.F: ну целится будет
+[04:59:13] Client "cebep1723" connected.
+[04:59:36] Soldier_S.C.A.F: оно ещё там и починилось XD
+[05:00:08] Client "cebep1723" spawned in server <STEAM_0:0:564053535> (took 55 seconds).
+[05:01:37] Soldier_S.C.A.F killed cebep1723 using wep_jack_gmod_hands
+[05:01:43] Soldier_S.C.A.F killed KIRKA using wep_jack_gmod_hands
+[05:02:00] Soldier_S.C.A.F: XD
+[05:02:13] Soldier_S.C.A.F: в троем такие упали XD
+[05:02:27] Soldier_S.C.A.F: ладно я пошёл бомжевать в низине
+[05:02:42] cebep1723 killed KIRKA using wep_jack_gmod_hands
+[05:06:08] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[05:06:08] KIRKA suicided!
+[05:08:29] Soldier_S.C.A.F: че
+[05:08:34] Soldier_S.C.A.F: не знаю
+[05:08:43] Soldier_S.C.A.F: я сканер ещё не делал
+[05:09:04] Soldier_S.C.A.F: нет
+[05:09:16] Client "Kerchinsky" connected.
+[05:09:53] Client "Kerchinsky" spawned in server <STEAM_0:1:591953064> (took 37 seconds).
+[05:10:17] Soldier_S.C.A.F: да щя будет
+[05:11:06] Soldier_S.C.A.F: мне воду хотя бы
+[05:11:26] Soldier_S.C.A.F: киркой нельзя добыть
+[05:11:35] Soldier_S.C.A.F: ток установкой
+[05:13:36] Soldier_S.C.A.F: а там  дальше в низине есть залежи нефти
+[05:13:41] Soldier_S.C.A.F: пару залеж
+[05:13:55] cebep1723 was killed by ent_jack_aidbox
+[05:14:04] Soldier_S.C.A.F: от флутона помер : D
+[05:15:11] Хищный анус: Я тебя жду там же
+[05:15:22] Soldier_S.C.A.F: нет
+[05:15:31] Soldier_S.C.A.F: ток на свои (+кто в альянсе)
+[05:15:34] Soldier_S.C.A.F: и то
+[05:15:38] Soldier_S.C.A.F: тоже связь нужна
+[05:16:32] Soldier_S.C.A.F: кхм
+[05:16:42] Soldier_S.C.A.F: а вы че разве рядом хотите поселится?
+[05:16:46] Soldier_S.C.A.F: нет
+[05:16:57] Soldier_S.C.A.F: там дальше есть
+[05:26:11] Client "Штурмовик" connected.
+[05:26:40] Client "Штурмовик" spawned in server <STEAM_0:1:62314930> (took 29 seconds).
+[05:28:52] Штурмовик: !motd
+[05:33:34] consoleZX: ку
+[05:36:44] Client "maxikyar" connected.
+[05:38:18] Client "maxikyar" spawned in server <STEAM_0:0:884383817> (took 94 seconds).
+[05:41:00] cebep1723 killed Штурмовик using wep_jack_gmod_ezpickaxe
+[05:41:45] cebep1723 killed Штурмовик using wep_jack_gmod_ezpickaxe
+[05:42:06] cebep1723 killed Штурмовик using wep_jack_gmod_ezpickaxe
+[05:49:01] Dropped "maxikyar" from server<STEAM_0:0:884383817>
+[05:49:01] maxikyar suicided!
+[05:49:20] Client "maxikyar" connected.
+[05:49:56] Client "maxikyar" spawned in server <STEAM_0:0:884383817> (took 36 seconds).
+[05:50:42] consoleZX: ку
+[05:50:44] consoleZX: а ты?
+[05:50:56] consoleZX: я тоже я
+[05:51:03] consoleZX: не
+[05:51:10] consoleZX: ок
+[05:53:53] consoleZX: ок
+[05:53:58] consoleZX: найди лучше золото
+[05:54:55] consoleZX: ок
+[05:55:01] consoleZX: альянс го
+[05:55:31] consoleZX: альянс кинь просто
+[05:58:56] consoleZX: ок
+[06:00:56] maxikyar was killed by ent_jack_gmod_ezpumpjack
+[06:05:07] Client "euphoria" connected.
+[06:06:43] Client "nap_4kkk" connected.
+[06:07:33] Хищный анус: supply radio: make loan
+[06:11:41] consoleZX: я видел
+[06:12:38] Хищный анус suicided!
+[06:12:58] consoleZX: да вроде
+[06:13:00] consoleZX: было
+[06:13:11] consoleZX: патроны в ящике
+[06:13:15] consoleZX: лан
+[06:16:17] Client "БОЛЬШИЕ ЯИЧКИ" connected.
+[06:16:23] Client "Ghost Rider" connected.
+[06:18:01] cebep1723 killed Хищный анус using rust_boltrifle
+[06:18:08] Штурмовик killed cebep1723 using tfa_doimp40
+[06:22:33] Client "nap_4kkk" spawned in server <STEAM_0:1:544172243> (took 950 seconds).
+[06:24:07] Dropped "cebep1723" from server<STEAM_0:0:564053535>
+[06:24:07] cebep1723 suicided!
+[06:25:30] Client "БОЛЬШИЕ ЯИЧКИ" spawned in server <STEAM_0:1:596048632> (took 553 seconds).
+[06:26:42] Штурмовик killed nap_4kkk using tfa_doispringfield_scop
+[06:30:34] Штурмовик killed nap_4kkk using rust_eoka
+[06:31:27] consoleZX: ку
+[06:31:32] consoleZX: чего обсуждаете?
+[06:31:36] nap_4kkk killed Штурмовик using rust_boltrifle
+[06:31:42] БОЛЬШИЕ ЯИЧКИ: !motd
+[06:31:43] Хищный анус killed nap_4kkk using rust_boltrifle
+[06:31:55] consoleZX: ок
+[06:32:33] Штурмовик killed nap_4kkk using tfa_doi_marinebayonet
+[06:32:54] Штурмовик killed nap_4kkk using wep_jack_gmod_ezshovel
+[06:33:11] nap_4kkk killed Штурмовик using wep_jack_gmod_ezpickaxe
+[06:34:24] Штурмовик killed nap_4kkk using wep_jack_gmod_ezshovel
+[06:34:44] nap_4kkk killed Штурмовик using wep_jack_gmod_ezshovel
+[06:35:17] Хищный анус killed nap_4kkk using wep_jack_gmod_ezshovel
+[06:35:42] Штурмовик killed nap_4kkk using tfa_doispringfield_scop
+[06:36:01] Штурмовик killed nap_4kkk using tfa_doispringfield_scop
+[06:37:20] nap_4kkk killed Штурмовик using rust_boltrifle
+[06:37:39] Штурмовик killed nap_4kkk using tfa_doispringfield_scop
+[06:40:13] Штурмовик killed nap_4kkk using rust_boltrifle
+[06:45:30] Штурмовик killed nap_4kkk using ent_jack_gmod_ezgroundscanner
+[06:48:06] Client "Мёртвый_Анархист" connected.
+[06:49:03] Dropped "Kerchinsky" from server<STEAM_0:1:591953064>
+[06:49:03] Kerchinsky suicided!
+[06:50:32] Client "Мастурбист" connected.
+[06:51:22] Client "Мастурбист" connected.
+[06:51:48] Client "Мёртвый_Анархист" spawned in server <STEAM_0:0:793300803> (took 222 seconds).
+[06:52:47] consoleZX: дарова
+[06:53:02] consoleZX: че как тут у вас
+[06:54:44] consoleZX: ку
+[06:54:52] consoleZX: я заболел
+[06:55:24] consoleZX: да
+[06:55:31] consoleZX killed Мёртвый_Анархист using tfa_doik98_scop
+[06:56:04] Мёртвый_Анархист: !motd
+[06:58:22] Dropped "БОЛЬШИЕ ЯИЧКИ" from server<STEAM_0:1:596048632>
+[06:58:22] БОЛЬШИЕ ЯИЧКИ suicided!
+[06:58:27] Dropped "maxikyar" from server<STEAM_0:0:884383817>
+[06:58:27] maxikyar suicided!
+[07:00:15] Client "T0mat025" connected.
+[07:00:59] consoleZX: ку
+[07:01:00] Client "T0mat025" spawned in server <STEAM_0:1:872564014> (took 45 seconds).
+[07:01:53] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[07:01:53] Soldier_S.C.A.F suicided!
+[07:02:53] consoleZX: нету
+[07:03:05] consoleZX: а
+[07:03:17] consoleZX: чего
+[07:03:21] consoleZX: да
+[07:03:25] consoleZX: но не очень
+[07:03:34] consoleZX: нету
+[07:03:44] consoleZX: вроде да
+[07:03:55] consoleZX: нету точно
+[07:04:04] consoleZX: ну не обижайся
+[07:07:15] Client "Виктор Тетерев" connected.
+[07:08:10] Client "Виктор Тетерев" spawned in server <STEAM_0:0:504265752> (took 55 seconds).
+[07:09:13] Client "Польские Пряники" connected.
+[07:10:21] consoleZX: понял
+[07:10:33] consoleZX: покажи
+[07:10:42] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 89 seconds).
+[07:10:47] consoleZX: и что ты за них хочешь?
+[07:11:20] Виктор Тетерев: какая команда на бинд инвентаря
+[07:11:29] Штурмовик: !motd
+[07:11:40] Виктор Тетерев: !motd
+[07:11:41] Штурмовик: bind КНОПКА jmod_ez_inv
+[07:11:47] consoleZX: крейзи дейв
+[07:12:16] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/pulleywheels_small01.mdl
+[07:12:44] Польские Пряники: ТЫ У МЕНЯ ЕРОРКА
+[07:12:46] Польские Пряники: ТЫ КТО
+[07:12:48] consoleZX: pyf.
+[07:12:50] consoleZX: знаю
+[07:21:43] Польские Пряники: ей
+[07:21:45] Польские Пряники: друг
+[07:21:46] Польские Пряники: я тут 
+[07:21:47] Польские Пряники: отошел
+[07:21:51] Польские Пряники: и приходит какой то человек
+[07:21:55] Польские Пряники: не пугай пжлст
+[07:22:07] Польские Пряники: у меня нет
+[07:22:10] Польские Пряники: биг боб
+[07:22:25] Польские Пряники: прости мне не нужен орешки бигбоб
+[07:24:52] consoleZX: к вам в клан?
+[07:25:02] consoleZX: да хз
+[07:25:04] consoleZX: ничего
+[07:25:07] consoleZX: керамику
+[07:25:29] consoleZX: лень всё застраивать
+[07:25:37] consoleZX: ок
+[07:26:42] consoleZX: бу испугался
+[07:27:38] consoleZX: разбежавшись прыгнуть со скалы
+[07:29:58] Виктор Тетерев: supply radio: fulton-crate
+[07:31:16] consoleZX: потому что
+[07:32:18] Dropped "T0mat025" from server<STEAM_0:1:872564014>
+[07:32:18] T0mat025 suicided!
+[07:33:51] consoleZX: просто гляжу
+[07:35:06] Штурмовик: supply radio: point-of-dislocation
+[07:35:20] consoleZX: лан я щас собираюсь
+[07:35:24] consoleZX: вам деньги дам
+[07:36:07] Dropped "consoleZX" from server<STEAM_0:0:926112185>
+[07:36:07] consoleZX suicided!
+[07:37:17] Хищный анус: Прием прием
+[07:37:23] Хищный анус: У нас кончилась нефть
+[07:44:15] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[07:52:26] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezwater
+[07:54:26] Dropped "Виктор Тетерев" from server<STEAM_0:0:504265752>
+[07:54:26] Виктор Тетерев suicided!
+[07:59:25] Хищный анус to admins: Админ тп
+[07:59:49] Польские Пряники to Хищный анус: что нужно напиши в админ чат
+[08:00:09] Хищный анус to admins: У нас контейнер для перевозки разколайдился, можешь коллизию включи
+[08:00:16] Польские Пряники teleported to Хищный анус
+[08:00:16] Польские Пряники: !goto Хищ
+[08:00:20] Польские Пряники: все
+[08:00:25] Польские Пряники returned Themself to their original position
+[08:00:25] Польские Пряники: !return Пол
+[08:06:15] Мёртвый_Анархист: supply radio: drill
+[08:08:18] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[08:10:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[08:16:02] Client "poki1213" connected.
+[08:17:10] Client "vz" connected.
+[08:18:13] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezoil
+[08:23:12] Client "maksumkolesnukov022" connected.
+[08:24:21] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 69 seconds).
+[08:26:01] Польские Пряники: ТЫ ДВЕРЬ ЗАКРЫЛ?
+[08:26:03] Польские Пряники: СНИЗУ
+[08:26:06] maksumkolesnukov022: она была открыта
+[08:26:12] Польские Пряники: ЗАКРОЙ
+[08:26:29] Польские Пряники: supply radio: seed kit
+[08:26:44] Польские Пряники: МЫ МАНУФАКТУРА
+[08:27:06] maksumkolesnukov022: где мануфактурит
+[08:27:24] Польские Пряники: МЫ У ЛЮДЕЙ ТЕРРИТОРИЮ НА ПРОИЗВОДСТВО МЕНЯЕМ
+[08:27:46] Польские Пряники: ПОИЩИ СНИЗУ РЕСЫ КАКИЕ НИБУДЬ
+[08:29:26] Client "rty000pro" connected.
+[08:30:05] Client "rty000pro" spawned in server <STEAM_0:1:593166516> (took 39 seconds).
+[08:31:27] nap_4kkk: /ad [RP] Поставил роспись за  1шт АКМ, 1шт CBT-40, 1шт M79 GL |  «Том»
+[08:31:34] Польские Пряники: еслиесть сталь то бур поставь
+[08:31:35] maksumkolesnukov022: там у нас есть
+[08:31:41] maksumkolesnukov022: золото водичк вольфрам медь
+[08:31:48] Польские Пряники: вольфрам и медь тут
+[08:31:49] Польские Пряники: наверху
+[08:31:55] Польские Пряники: я ща там поищу
+[08:31:58] maksumkolesnukov022: золото водичк
+[08:32:49] Штурмовик killed nap_4kkk using lvs_wheeldrive_citroen_type23
+[08:33:00] Client "Виктор Тетерев" connected.
+[08:33:06] Польские Пряники: снизу там есть ресурс некий
+[08:33:09] Польские Пряники: сталь и керамика
+[08:33:13] Польские Пряники: если не обманул сканер
+[08:33:43] Польские Пряники: щас закажу сталь и над будет туда сделать
+[08:33:45] Польские Пряники: добычу
+[08:33:49] Польские Пряники: и наверх к столу среднему
+[08:33:52] Польские Пряники: и от него до сюда
+[08:33:57] Польские Пряники: я афк
+[08:33:59] Client "Виктор Тетерев" spawned in server <STEAM_0:0:504265752> (took 59 seconds).
+[08:35:10] Dropped "rty000pro" from server<STEAM_0:1:593166516>
+[08:35:10] rty000pro suicided!
+[08:35:49] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[08:35:49] maksumkolesnukov022 suicided!
+[08:36:00] Штурмовик killed nap_4kkk using tfa_doimp40
+[08:36:34] Dropped "Мёртвый_Анархист" from server<STEAM_0:0:793300803>
+[08:36:34] Мёртвый_Анархист suicided!
+[08:37:48] Client "rty000pro" connected.
+[08:38:23] Client "rty000pro" spawned in server <STEAM_0:1:593166516> (took 35 seconds).
+[08:39:12] Dropped "rty000pro" from server<STEAM_0:1:593166516>
+[08:39:12] rty000pro suicided!
+[08:41:40] Виктор Тетерев: !motd
+[08:41:56] Dropped "Виктор Тетерев" from server<STEAM_0:0:504265752>
+[08:41:56] Виктор Тетерев suicided!
+[08:41:56] Client "Виктор Тетерев" connected.
+[08:52:24] Польские Пряники: ПРИЕМ
+[08:52:31] Хищный анус: Приветствую! Мы хотели бы уточнить где находится средний стол.
+[08:52:48] Польские Пряники: СРЕДНИЙ СТОЛ ЭТО ТОТ К КОТОРОМУ ПРОВЕДЕН МОСТ
+[08:52:54] Польские Пряники: ОТ ЛЕВОГО СТОЛА
+[08:53:02] Польские Пряники: НА ЛЕВОМ СТОЛЕ ПОМПА СТОИТ
+[08:53:13] Хищный анус: Постараемся найти.. хорошо. Ожидайте!
+[08:53:21] Польские Пряники: ТАМ ОКОЛО СРЕДНЕГО СТОЛА ЕСТЬ ЗОНА ОБВЕДЕННАЯ ЗАБОРОМ, ТУДА ДОСТАВЬТ
+[08:53:25] Польские Пряники: ДОСТАВЬТЕ
+[08:55:08] Польские Пряники: ЗДРАСТЕ
+[08:55:17] Польские Пряники: ДЕНГИ МЫ ВАМ ПЕРЕВЕЛИ
+[08:55:20] Польские Пряники: ЗАРАНЕЕ
+[08:55:24] Польские Пряники: СПАСИБО
+[08:55:35] Польские Пряники: НА ВКУС КАК KERAMICHESKI
+[08:55:50] Польские Пряники froze nap_4kkk
+[08:55:54] Польские Пряники: ТЫ ЗНАЕШЬ ЧТО ТЫ НАДЕЛАЛ
+[08:55:55] Польские Пряники: ДРУГ
+[08:55:58] Польские Пряники unfroze nap_4kkk
+[08:56:06] Штурмовик killed nap_4kkk using tfa_doimp40
+[08:56:12] Польские Пряники: УЖС
+[08:57:06] Хищный анус killed nap_4kkk using lvs_wheeldrive_citroen_type23
+[08:57:08] Польские Пряники: КРУТО
+[08:57:15] Польские Пряники: ЭТО БЫЛ ЭПИК
+[08:57:22] Польские Пряники: ОК
+[08:57:45] Client "GreenPixel11" connected.
+[08:58:27] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 42 seconds).
+[08:59:35] Штурмовик killed nap_4kkk using tfa_doimp40
+[09:05:14] Client "T0mat025" connected.
+[09:05:57] Client "T0mat025" spawned in server <STEAM_0:1:872564014> (took 43 seconds).
+[09:06:07] Client "Анатолий" connected.
+[09:07:45] Client "Misk" connected.
+[09:09:29] Client "Анатолий" spawned in server <STEAM_0:1:102899165> (took 202 seconds).
+[09:10:06] Dropped "Анатолий" from server<STEAM_0:1:102899165>
+[09:10:06] Анатолий suicided!
+[09:11:09] Client "Анатолий" connected.
+[09:11:33] Client "Анатолий" spawned in server <STEAM_0:1:102899165> (took 24 seconds).
+[09:13:56] Dropped "Хищный анус" from server<STEAM_0:1:125235601>
+[09:13:56] Хищный анус suicided!
+[09:16:26] Штурмовик: !motd
+[09:16:32] Штурмовик: playermodel_selector
+[09:16:45] Анатолий: /playermodel_selector
+[09:17:21] Client "SKIBIDI" connected.
+[09:17:54] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezadvparts
+[09:18:42] Польские Пряники: supply radio: seed kit
+[09:19:41] Client "PTSR Instructor" connected.
+[09:19:42] Client "Misk" spawned in server <STEAM_0:1:82986217> (took 717 seconds).
+[09:20:32] Misk: jmod_ez_inv
+[09:21:00] Client "PTSR Instructor" spawned in server <STEAM_0:1:546487121> (took 79 seconds).
+[09:21:01] Dropped "Misk" from server<STEAM_0:1:82986217>
+[09:21:01] Misk suicided!
+[09:22:25] Польские Пряники: эх ты
+[09:22:27] Анатолий killed nap_4kkk using tfa_doim1911
+[09:22:29] Польские Пряники: человек прикол
+[09:22:31] Польские Пряники: я заработал 4000 
+[09:22:34] Польские Пряники: и ты их потратил
+[09:22:41] Польские Пряники: прикол
+[09:23:47] Польские Пряники: птср
+[09:23:50] Польские Пряники: прием
+[09:24:33] Польские Пряники: прием
+[09:24:42] Польские Пряники: если что голосом не получится общатся
+[09:24:48] Польские Пряники: ибо не работает механика
+[09:24:54] Польские Пряники: ток текстом можн
+[09:25:37] Client "чуркабан" connected.
+[09:25:38] Client "чуркабан" connected.
+[09:26:51] Польские Пряники: вот водичко
+[09:26:59] Польские Пряники: мы ее из рудников откачивали
+[09:27:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezwater
+[09:27:49] Польские Пряники: окей
+[09:28:40] Client "SKIBIDI" spawned in server <STEAM_0:1:608560606> (took 679 seconds).
+[09:28:47] Dropped "T0mat025" from server<STEAM_0:1:872564014>
+[09:28:47] T0mat025 suicided!
+[09:29:43] Польские Пряники: ЕБАТЬ
+[09:29:56] Польские Пряники: 4
+[09:29:57] Польские Пряники: сделай
+[09:30:06] Польские Пряники: shkibid
+[09:30:54] Польские Пряники: ща болеть
+[09:30:55] Польские Пряники: будем
+[09:31:23] Польские Пряники: над
+[09:31:24] Польские Пряники: так
+[09:32:19] Штурмовик killed nap_4kkk using tfa_doimp40
+[09:32:50] Польские Пряники: там какие то сады придонья сделали
+[09:32:52] nap_4kkk: /y СДАВАЙСЯ! СПАСИ СВОЙ РОД!
+[09:33:10] Польские Пряники: делаем
+[09:33:17] Польские Пряники: нен
+[09:33:22] Польские Пряники: не
+[09:33:32] Польские Пряники: ты на сро
+[09:33:46] Анатолий was killed by lvs_helicopter_rebel
+[09:34:30] Польские Пряники: ифак
+[09:34:33] Польские Пряники: над
+[09:34:41] GreenPixel11 killed Анатолий using tfa_doim1912
+[09:34:59] Польские Пряники: мы кароче
+[09:35:03] Польские Пряники: производим дофига
+[09:35:05] Польские Пряники: норм
+[09:35:07] Польские Пряники: ну пока над
+[09:35:10] Польские Пряники: провести
+[09:35:11] Польские Пряники: ресурс
+[09:35:13] Польские Пряники: от того стола
+[09:35:15] Польские Пряники: и заживем
+[09:35:18] Польские Пряники: тут
+[09:35:21] Польские Пряники: нормас
+[09:35:28] SKIBIDI:  блять
+[09:35:30] SKIBIDI: бляватываьф вафыва
+[09:35:32] SKIBIDI: фывал тафываьтджфылватфывалтф
+[09:35:42] Польские Пряники: зачем
+[09:35:45] Польские Пряники: он медленно
+[09:35:50] Польские Пряники: а ифак 100 хп
+[09:35:52] Польские Пряники: за 5 штук
+[09:35:55] Польские Пряники: лечилки
+[09:35:59] SKIBIDI: ыыыы
+[09:36:00] SKIBIDI: ыыы
+[09:36:01] Польские Пряники: норм он хп восстанавливает
+[09:36:04] SKIBIDI: апор
+[09:36:05] SKIBIDI: зща что
+[09:36:06] SKIBIDI: за что
+[09:36:08] SKIBIDI: да как
+[09:36:09] SKIBIDI: зап что
+[09:36:11] SKIBIDI: причину назови
+[09:36:56] SKIBIDI: dsgecnb
+[09:36:57] SKIBIDI: птомогите
+[09:36:59] SKIBIDI: помоги
+[09:37:01] PTSR Instructor killed SKIBIDI using tfa_doiwebley
+[09:37:01] SKIBIDI: я не могу
+[09:37:35] SKIBIDI: они дорогие
+[09:37:37] SKIBIDI: 5 стоят
+[09:37:38] SKIBIDI: ало
+[09:37:40] SKIBIDI: 5 стоят
+[09:37:41] SKIBIDI: дорого
+[09:37:45] SKIBIDI: дорого
+[09:37:45] SKIBIDI: отвали
+[09:37:48] SKIBIDI: смудак
+[09:37:49] SKIBIDI: мудкап
+[09:37:50] SKIBIDI: отойди мудак
+[09:37:55] SKIBIDI: мудак отвали
+[09:37:58] SKIBIDI: сука
+[09:37:59] SKIBIDI: ты больной
+[09:38:01] SKIBIDI: пидорас
+[09:38:04] SKIBIDI: ты болльной отвалои
+[09:38:05] SKIBIDI: отойди
+[09:38:54] SKIBIDI: че
+[09:38:56] SKIBIDI: тут тфа блять?
+[09:39:00] SKIBIDI: а почему тва
+[09:39:02] SKIBIDI: и свей
+[09:39:03] SKIBIDI: уебанский
+[09:39:17] Client "чуркабан" spawned in server <STEAM_0:1:436577608> (took 819 seconds).
+[09:39:22] Анатолий: [eq
+[09:39:30] Анатолий: help
+[09:39:38] SKIBIDI: *drop*
+[09:39:39] SKIBIDI: rfr
+[09:39:41] SKIBIDI: kak
+[09:39:55] SKIBIDI: r[v
+[09:39:56] SKIBIDI: хм
+[09:40:03] Анатолий was killed by lvs_helicopter_rebel
+[09:40:06] SKIBIDI: нам пропелант нужен
+[09:40:06] SKIBIDI: друг
+[09:40:14] SKIBIDI: для патронов
+[09:40:15] SKIBIDI: урод
+[09:40:17] SKIBIDI: где пролплнант
+[09:40:23] SKIBIDI: пойдеми
+[09:40:25] SKIBIDI: к соседя
+[09:40:38] Польские Пряники: блин
+[09:40:43] Польские Пряники: вот так вот
+[09:40:46] SKIBIDI: да похер
+[09:40:48] SKIBIDI: але птср
+[09:40:49] SKIBIDI: пойдем
+[09:40:52] Польские Пряники: так это
+[09:40:53] Польские Пряники: норм
+[09:40:56] Польские Пряники: ваще
+[09:40:58] Польские Пряники: жизнь
+[09:41:04] Польские Пряники: щас смотрите
+[09:41:08] Польские Пряники: обыщите территорию снизу
+[09:41:12] SKIBIDI: и зачем
+[09:41:13] Польские Пряники: на рессы
+[09:41:14] SKIBIDI: ну ладно
+[09:41:14] Польские Пряники: да
+[09:41:16] SKIBIDI: пойдем
+[09:41:19] Польские Пряники: ну я же провел там
+[09:41:20] SKIBIDI: а доступ к дверям
+[09:41:20] Польские Пряники: пипы
+[09:41:22] SKIBIDI: ты можешь дать?
+[09:41:24] SKIBIDI: или тут нельзя
+[09:41:24] Польские Пряники: так
+[09:41:25] Польские Пряники: уже
+[09:41:27] Польские Пряники: альт е
+[09:41:27] SKIBIDI: а окей
+[09:41:29] SKIBIDI: окепй
+[09:41:31] SKIBIDI: пйоедм птср
+[09:41:33] SKIBIDI: пойедм
+[09:41:35] SKIBIDI: исзучать
+[09:41:37] SKIBIDI: нам сказали изучать
+[09:41:42] чуркабан: !menu
+[09:41:43] SKIBIDI: нам сказалич то мы мудачье и уроды
+[09:42:07] SKIBIDI: давай будем срать
+[09:42:10] SKIBIDI: на щземлю
+[09:42:11] SKIBIDI: и срать
+[09:42:12] SKIBIDI: и жрать
+[09:42:13] SKIBIDI: ой
+[09:42:14] SKIBIDI: я заразился
+[09:42:15] SKIBIDI: да за что
+[09:42:29] PTSR Instructor killed SKIBIDI using ent_jack_gmod_ezgroundscanner
+[09:42:42] Польские Пряники: ей
+[09:42:43] Польские Пряники: а обыскать
+[09:42:48] Польские Пряники: там деньги
+[09:42:49] Польские Пряники: были
+[09:42:53] Польские Пряники: иди забери деньги
+[09:42:54] Польские Пряники: у него
+[09:43:32] SKIBIDI: где
+[09:43:36] SKIBIDI: огт
+[09:43:37] SKIBIDI: там тип
+[09:43:51] SKIBIDI: привет руг
+[09:43:52] SKIBIDI: друг
+[09:43:53] SKIBIDI: привет
+[09:44:10] SKIBIDI: опа
+[09:44:16] SKIBIDI: ПАТРОНЫ
+[09:44:18] SKIBIDI: НЕВОЗМОЖНО
+[09:44:22] SKIBIDI: да давыай
+[09:44:23] SKIBIDI: да давай
+[09:44:26] SKIBIDI: alt e
+[09:44:28] SKIBIDI: черт
+[09:44:30] SKIBIDI: бери ее
+[09:44:40] SKIBIDI: свесток
+[09:44:42] SKIBIDI: давайте от турпа уйдем
+[09:44:45] GreenPixel11 killed Анатолий using wep_jack_gmod_ezpickaxe
+[09:45:01] SKIBIDI: фак
+[09:45:13] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[09:46:17] SKIBIDI: майним черт тебя дери
+[09:46:41] SKIBIDI: альт е 
+[09:46:47] SKIBIDI: МАЙНИМ
+[09:46:48] SKIBIDI: МАЙНИМ
+[09:46:53] SKIBIDI: ДАВАЙ
+[09:47:05] SKIBIDI: не стрелйте..
+[09:47:38] Польские Пряники: я нам керамику провел
+[09:47:57] SKIBIDI: ой
+[09:47:58] SKIBIDI: там труп
+[09:47:59] SKIBIDI: навонял
+[09:48:00] SKIBIDI: навонял
+[09:48:01] SKIBIDI: насрал убери
+[09:48:03] SKIBIDI: нет
+[09:48:05] SKIBIDI: вон там
+[09:48:27] Польские Пряники: не стреляйте по верту
+[09:48:32] Польские Пряники: не балуйтесь
+[09:48:49] Польские Пряники: это наши друзья
+[09:48:52] Польские Пряники: не трогайте
+[09:48:58] SKIBIDI: слышь
+[09:48:59] SKIBIDI: рюкзак скинь
+[09:49:01] SKIBIDI: полскье
+[09:49:03] SKIBIDI: поляк
+[09:49:05] SKIBIDI: дай рюкщак
+[09:49:08] SKIBIDI: о
+[09:49:20] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezwater
+[09:49:44] SKIBIDI: jgf
+[09:49:46] SKIBIDI: опа
+[09:49:59] SKIBIDI: братишка я тебе покушать принес
+[09:50:14] SKIBIDI: по верту
+[09:50:15] SKIBIDI: стреляем
+[09:50:18] SKIBIDI: да даавй
+[09:50:43] Польские Пряники: друг?
+[09:50:45] SKIBIDI: 3 тысячи еще копать..
+[09:50:48] SKIBIDI: что это
+[09:50:49] SKIBIDI: за монстор
+[09:50:52] SKIBIDI: монстр ты кто
+[09:50:54] SKIBIDI: монстр уходи
+[09:51:02] Польские Пряники: не трогай его
+[09:51:03] Польские Пряники: это друг
+[09:51:28] Польские Пряники: беги друг
+[09:51:30] Польские Пряники: спасайся
+[09:52:29] SKIBIDI: я короче
+[09:52:32] SKIBIDI: наверх переносить убуд
+[09:52:56] PTSR Instructor killed чуркабан using tfa_doippk
+[09:53:55] Польские Пряники: ч
+[09:54:08] PTSR Instructor was killed by lvs_helicopter_rebel
+[09:54:08] Польские Пряники was killed by lvs_helicopter_rebel
+[09:54:12] Польские Пряники: ты умрешь
+[09:54:20] Анатолий suicided!
+[09:54:20] Польские Пряники exploded Анатолий
+[09:55:49] Польские Пряники: а вы знали что я маг
+[09:55:57] Польские Пряники: на
+[09:56:31] Польские Пряники: хей друг
+[09:56:34] SKIBIDI: а
+[09:56:37] Польские Пряники: хочешь покушать
+[09:56:39] SKIBIDI: я хочу
+[09:56:44] PTSR Instructor suicided!
+[09:56:47] SKIBIDI: ватафак
+[09:56:54] Польские Пряники: ты друга съел
+[09:56:57] SKIBIDI: нормально
+[09:57:00] SKIBIDI: я тебя сьел
+[09:57:06] SKIBIDI: птсрн
+[09:57:06] Польские Пряники: обыскали
+[09:57:08] SKIBIDI: я тебя сьел
+[09:57:29] SKIBIDI: rfr
+[09:57:40] SKIBIDI: xt
+[09:57:45] SKIBIDI: Э
+[09:57:49] SKIBIDI: лечитеее
+[09:58:00] Анатолий was killed by ent_jack_aidbox
+[09:58:08] SKIBIDI: у меня камера теперь повернуто влево
+[09:58:09] SKIBIDI: че за говно
+[09:58:12] SKIBIDI: чиниь
+[09:58:13] Польские Пряники: ща
+[09:58:14] Польские Пряники: починю
+[09:58:46] Польские Пряники ran lua string LocalPlayer():SetEyeAngles(Angle(0, 0, 0)) on: SKIBIDI
+[09:58:50] Польские Пряники ran lua string LocalPlayer():SetEyeAngles(Angle(0, 0, 0)) on: PTSR Instructor
+[09:58:51] SKIBIDI: прпивет
+[09:59:01] Польские Пряники: друг
+[09:59:03] Польские Пряники: привет
+[09:59:15] SKIBIDI: опять
+[09:59:17] SKIBIDI: ой
+[10:00:08] PTSR Instructor suicided!
+[10:00:08] Польские Пряники exploded PTSR Instructor
+[10:00:18] SKIBIDI: НАСРАЛ УБЕРАЙ
+[10:00:41] SKIBIDI: прив дру
+[10:00:42] SKIBIDI: м ыбольные
+[10:00:43] SKIBIDI: к слову
+[10:00:44] Польские Пряники: ребята
+[10:00:45] SKIBIDI: мы больные
+[10:00:47] SKIBIDI: мы больны
+[10:00:48] Польские Пряники: у нас тут
+[10:00:49] Польские Пряники: люди
+[10:00:50] Польские Пряники: буйные
+[10:00:53] Польские Пряники: они взяли
+[10:00:56] Польские Пряники: стрелять начали
+[10:00:59] Польские Пряники: не трогай его
+[10:01:02] Польские Пряники froze PTSR Instructor
+[10:01:02] SKIBIDI: МЫ ВООРУЖЕНЫ
+[10:01:11] Польские Пряники: да угомонитесь мы мануфактура
+[10:01:16] SKIBIDI: ААА
+[10:01:22] SKIBIDI: ооо давай
+[10:01:24] Польские Пряники: окей
+[10:01:31] SKIBIDI: УРААА
+[10:01:36] Польские Пряники: да там не интересный
+[10:01:37] Польские Пряники: уран
+[10:01:38] Польские Пряники: сам
+[10:01:43] Польские Пряники unfroze PTSR Instructor
+[10:01:47] SKIBIDI: не я
+[10:01:50] Польские Пряники: я ща дам
+[10:01:51] Польские Пряники: покататся
+[10:01:51] SKIBIDI: да
+[10:01:54] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[10:02:11] Польские Пряники: летать
+[10:02:11] SKIBIDI: почему ты нас оскорбляешь
+[10:02:20] SKIBIDI: уроды
+[10:02:26] SKIBIDI: давай
+[10:02:28] SKIBIDI: вс
+[10:02:34] SKIBIDI: ой
+[10:02:36] SKIBIDI: разверачитвается
+[10:02:46] SKIBIDI: ой
+[10:02:51] SKIBIDI: а мы тут непричем
+[10:02:52] SKIBIDI: а мы тут непричем
+[10:02:54] SKIBIDI: а мы тут непричем
+[10:02:56] SKIBIDI: а мы тут непричем
+[10:02:57] SKIBIDI: а мы тут непричем
+[10:02:58] SKIBIDI: а мы тут непричем
+[10:03:01] SKIBIDI: а мы тут непричем
+[10:03:19] Польские Пряники: садитесь
+[10:03:26] Польские Пряники froze PTSR Instructor
+[10:03:35] Польские Пряники unfroze PTSR Instructor
+[10:03:41] Польские Пряники: ребят
+[10:03:44] Польские Пряники: дам полетать
+[10:03:46] SKIBIDI: наа
+[10:03:48] Польские Пряники: вылазь
+[10:03:55] Польские Пряники: дам полетать
+[10:03:56] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[10:04:06] SKIBIDI: я незнаюд
+[10:04:09] SKIBIDI: у меня иммунитет
+[10:04:14] SKIBIDI: я крутотй
+[10:04:19] SKIBIDI: а я незнаю к слову
+[10:04:21] SKIBIDI: вроде
+[10:04:22] Польские Пряники: садись дам полетать
+[10:04:23] SKIBIDI: ифаки жрать
+[10:04:29] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_mh6
+[10:04:39] SKIBIDI: газ
+[10:04:40] SKIBIDI: не сюда
+[10:04:43] SKIBIDI: в низ
+[10:04:44] SKIBIDI: опа
+[10:04:57] SKIBIDI: на
+[10:04:59] Dropped "nap_4kkk" from server<STEAM_0:1:544172243>
+[10:04:59] nap_4kkk suicided!
+[10:04:59] SKIBIDI: жри
+[10:05:07] SKIBIDI: по нам
+[10:05:31] SKIBIDI: давай
+[10:05:35] SKIBIDI: патроныыы
+[10:05:37] SKIBIDI: патронныы
+[10:05:38] SKIBIDI: пропелант
+[10:06:35] SKIBIDI: поехалии
+[10:07:07] SKIBIDI: АФИГЕТЬ
+[10:07:11] SKIBIDI: это база богов
+[10:07:13] SKIBIDI: ой
+[10:07:40] SKIBIDI: ППШ
+[10:07:54] SKIBIDI: ООО
+[10:08:12] Польские Пряники: ! menu
+[10:08:14] Польские Пряники: !menu
+[10:08:22] (csay from Польские Пряники) Хотите прикол?
+[10:08:29] SKIBIDI: нет
+[10:09:00] Польские Пряники started a vote (Хотим прикол?)
+[10:09:01] чуркабан voted for: ДААА
+[10:09:01] SKIBIDI voted for: не
+[10:09:01] Польские Пряники voted for: ДААА
+[10:09:02] Штурмовик voted for: ДААА
+[10:09:04] GreenPixel11 voted for: ДААА
+[10:09:04] PTSR Instructor voted for: ДААА
+[10:09:05] Штурмовик was killed by ent_jack_gmod_ezherocket
+[10:09:20] Vote results: Option 'ДААА' won. (5/7)
+[10:09:22] Польские Пряники: окей
+[10:09:26] SKIBIDI suicided!
+[10:09:26] GreenPixel11 suicided!
+[10:09:26] Польские Пряники suicided!
+[10:09:26] Анатолий suicided!
+[10:09:26] Штурмовик suicided!
+[10:09:26] чуркабан suicided!
+[10:09:26] PTSR Instructor suicided!
+[10:09:26] Польские Пряники slayed Everyone
+[10:09:26] Польские Пряники: !slay *
+[10:09:29] SKIBIDI: э
+[10:09:37] SKIBIDI: за что..
+[10:09:37] Dropped "чуркабан" from server<STEAM_0:1:436577608>
+[10:09:37] чуркабан suicided!
+[10:09:41] Польские Пряники brought GreenPixel11,PTSR Instructor,SKIBIDI,Анатолий,Штурмовик
+[10:09:41] Польские Пряники: !bring *
+[10:09:42] Польские Пряники: и так
+[10:09:43] Польские Пряники: ребята
+[10:09:44] SKIBIDI: че за говно
+[10:09:48] Польские Пряники: если хотите прикол
+[10:09:54] Польские Пряники: то сейчас мы будем сносить мост
+[10:09:57] Польские Пряники: вон тот
+[10:09:58] SKIBIDI: дай ак47
+[10:09:59] Польские Пряники: и башню
+[10:09:59] SKIBIDI: м4
+[10:10:01] SKIBIDI: ар5
+[10:10:02] SKIBIDI: ар15
+[10:10:07] Польские Пряники: хз
+[10:10:07] SKIBIDI: дай ар154
+[10:10:11] SKIBIDI: спвани
+[10:10:27] Польские Пряники brought GreenPixel11,PTSR Instructor,SKIBIDI,Анатолий,Штурмовик
+[10:10:27] Польские Пряники: !bring *
+[10:10:31] Польские Пряники: я думаю так будет интереснее
+[10:10:52] SKIBIDI: я жив
+[10:10:57] SKIBIDI: я жив
+[10:10:58] SKIBIDI: я жив
+[10:10:58] Польские Пряники: прикол
+[10:11:09] Польские Пряники brought GreenPixel11,PTSR Instructor,SKIBIDI,Анатолий,Штурмовик
+[10:11:09] Польские Пряники: !bring *
+[10:11:12] PTSR Instructor killed Штурмовик using tfa_doippk
+[10:11:15] Польские Пряники: теперь башенка
+[10:11:17] Польские Пряники brought GreenPixel11,PTSR Instructor,SKIBIDI,Анатолий
+[10:11:17] Польские Пряники: !bring *
+[10:11:24] Польские Пряники brought GreenPixel11,PTSR Instructor,SKIBIDI,Анатолий,Штурмовик
+[10:11:24] Польские Пряники: !bring *
+[10:11:31] PTSR Instructor killed Анатолий using tfa_doippk
+[10:11:37] SKIBIDI killed Штурмовик using tfa_verdun_tankgewehr
+[10:11:43] SKIBIDI killed GreenPixel11 using tfa_verdun_tankgewehr
+[10:11:46] SKIBIDI: умрии
+[10:11:52] SKIBIDI killed Польские Пряники using tfa_verdun_tankgewehr
+[10:12:00] SKIBIDI: ахуенно
+[10:12:02] PTSR Instructor killed SKIBIDI using tfa_doippk
+[10:12:06] Польские Пряники brought PTSR Instructor,Анатолий,Штурмовик
+[10:12:06] Польские Пряники: !bring *
+[10:12:09] Польские Пряники: !stip *
+[10:12:13] Польские Пряники stripped weapons from Everyone
+[10:12:13] Польские Пряники: !strip *
+[10:12:49] Польские Пряники: это другая
+[10:12:50] Польские Пряники: скорострел
+[10:12:52] Штурмовик killed Анатолий using tfa_ins2_xm177
+[10:12:59] PTSR Instructor killed Штурмовик using tfa_ins2_xm177
+[10:13:00] Польские Пряники stripped weapons from Everyone
+[10:13:00] Польские Пряники: !strip *
+[10:13:03] Польские Пряники granted god mode upon Everyone
+[10:13:03] Польские Пряники: !god *
+[10:13:06] Польские Пряники brought GreenPixel11,PTSR Instructor,SKIBIDI,Анатолий,Штурмовик
+[10:13:06] Польские Пряники: !bring *
+[10:13:17] PTSR Instructor killed Штурмовик using rust_m249
+[10:13:21] Польские Пряники: !bring *
+[10:13:26] Польские Пряники granted god mode upon Everyone
+[10:13:26] Польские Пряники: !god *
+[10:13:29] Польские Пряники brought GreenPixel11,PTSR Instructor,SKIBIDI,Анатолий,Штурмовик
+[10:13:29] Польские Пряники: !bring *
+[10:13:41] Польские Пряники: !heal
+[10:13:47] Польские Пряники: !stri[ *
+[10:13:51] Польские Пряники stripped weapons from Everyone
+[10:13:51] Польские Пряники: !strip *
+[10:13:55] Польские Пряники brought GreenPixel11,PTSR Instructor,SKIBIDI,Анатолий,Штурмовик
+[10:13:55] Польские Пряники: !bring *
+[10:14:00] Польские Пряники set the hp for Everyone to 1000
+[10:14:00] Польские Пряники: !hp * 1000
+[10:14:05] Польские Пряники revoked god mode from Everyone
+[10:14:05] Польские Пряники: !ungod *
+[10:14:24] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[10:14:25] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[10:14:26] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[10:14:26] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[10:14:27] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[10:14:28] Dropped "Анатолий" from server<STEAM_0:1:102899165>
+[10:14:28] Анатолий suicided!
+[10:14:28] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[10:14:29] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[10:14:50] Dropped "SKIBIDI" from server<STEAM_0:1:608560606>
+[10:14:50] SKIBIDI suicided!
+[10:15:51] Польские Пряники brought GreenPixel11,PTSR Instructor,Штурмовик
+[10:15:51] Польские Пряники: !bring *
+[10:15:54] Польские Пряники: и так
+[10:15:55] Польские Пряники: ребята
+[10:16:00] GreenPixel11: НЕТ
+[10:16:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznuke_big
+[10:16:03] GreenPixel11: НЕТ
+[10:16:04] GreenPixel11: НЕТ
+[10:16:05] GreenPixel11: НЕТ
+[10:16:06] GreenPixel11: НЕТ
+[10:16:07] GreenPixel11: НЕТ
+[10:16:09] GreenPixel11: НЕТ
+[10:16:11] GreenPixel11: НЕИ
+[10:16:12] GreenPixel11: НЕИ
+[10:16:15] GreenPixel11: НЕТ
+[10:16:23] Польские Пряники: !bring ptr
+[10:16:27] Польские Пряники killed GreenPixel11 using ent_jack_gmod_eznuke_big
+[10:16:27] Польские Пряники suicided!
+[10:16:27] Польские Пряники killed Штурмовик using ent_jack_gmod_eznuke_big
+[10:16:27] Польские Пряники killed PTSR Instructor using ent_jack_gmod_eznuke_big
+[10:16:30] GreenPixel11: НЕТ
+[10:16:45] Dropped "PTSR Instructor" from server<STEAM_0:1:546487121>
+[10:16:45] PTSR Instructor suicided!
+[10:17:00] Польские Пряники: спума пума пума пума теу
+[10:17:01] Польские Пряники: !menu
+[10:17:08] Польские Пряники changed the map to gm_sro_mountain_field
+[10:17:08] Server is shutting down/changing levels.
+
+
+
+[10:17:18] New map: gm_sro_mountain_field
+[10:17:52] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 39 seconds).
+[10:27:17] GreenPixel11: /rp одел и включил тепловизер.
+[10:39:59] Client "бугагашенька" connected.
+[10:40:54] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 55 seconds).
+[10:42:23] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[10:42:23] бугагашенька suicided!
+[10:44:53] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[10:44:53] GreenPixel11 suicided!
+[13:18:06] Client "Burnto1122" connected.
+[13:19:04] Client "Burnto1122" spawned in server <STEAM_0:0:83191756> (took 58 seconds).
+[13:44:36] Client "Rackman" connected.
+[13:45:12] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 36 seconds).
+[13:45:32] Burnto1122: phonecall
+[13:45:34] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_gazm1
+[13:45:36] Rackman<STEAM_0:0:221849271> spawned sent lvs_wheeldrive_gazm1
+[13:45:40] Rackman: Hey
+[13:45:46] Burnto1122: on phone hang on
+[13:46:20] Burnto1122: give moment
+[13:46:26] Rackman: I am patient
+[13:48:44] Burnto1122: I appreciate the patience, I am back
+[13:49:08] Burnto1122: I have a few supplies I salvaged for testing, I will do what I can
+[13:49:15] Burnto1122: hang on
+[13:49:16] Rackman: Here
+[13:49:30] Rackman: We have arrived on the destination
+[13:50:56] Burnto1122: o
+[13:51:51] Burnto1122: not very deep
+[13:51:55] Burnto1122: atleast for objects
+[13:52:00] Rackman: This fall is deadly for the people tho
+[13:52:47] Rackman: Maybe you seen some abandoned bases?
+[13:52:51] Rackman: You could make parachutes
+[13:52:53] Burnto1122: just 1 player base
+[13:52:57] Rackman: And descent safely
+[13:53:05] Burnto1122: I reckon I could slide along this edge safely
+[13:53:08] Burnto1122: if I get a running start
+[13:53:20] Burnto1122: unless it is MUCH deeper for players
+[13:53:20] Rackman: Wait
+[13:53:22] Rackman: Got a idea
+[13:53:35] Burnto1122: I was thinking of the car as well
+[13:53:41] Rackman: Get in i guess
+[13:53:45] Rackman: One way ticket
+[13:54:04] Rackman: And here we are
+[13:54:05] Rackman: The beneath
+[13:54:12] Burnto1122: not my first time in a place like this
+[13:54:18] Burnto1122: this is within the overworld still
+[13:54:23] Burnto1122: not even the first layer of skybox
+[13:54:33] Rackman: Still a weird place
+[13:54:37] Rackman: Its hard to navigate here
+[13:54:38] Burnto1122: comparatively, yes
+[13:54:40] Rackman: Invisibile walls
+[13:54:46] Burnto1122: depends on the map
+[13:54:53] Burnto1122: i believe I see our salvation
+[13:55:12] Rackman: There is no way out without building tools
+[13:55:16] Burnto1122: bet
+[13:55:41] Rackman: Funny thing
+[13:55:47] Rackman: But we had people fighting here 
+[13:55:51] Rackman: It was some crazy shit
+[13:56:03] Burnto1122: this area is not very car friendly
+[13:56:11] Burnto1122: we need to navigate to that distant slope
+[13:56:20] Burnto1122: there might be a spot there low enough for us to climb to freedom
+[13:56:28] Burnto1122: unless
+[13:56:29] Rackman: Uhh
+[13:56:32] Burnto1122: this right here might actually work
+[13:56:37] Rackman: We are under the ground
+[13:56:40] Rackman: And
+[13:56:46] Rackman: There is only one crack
+[13:56:51] Burnto1122: does not matter
+[13:57:08] Rackman: There is one way to get to the beneath without the crack
+[13:57:17] Rackman: But its most provoking to the entity
+[13:57:31] Rackman: You will meet the terrible fate if caught doing this
+[13:58:09] Rackman: Full metal sergeant uses that method
+[13:58:24] Rackman: He had some powers 
+[13:58:29] Rackman: But after such things
+[13:58:31] Burnto1122: i never needed powers
+[13:58:32] Rackman: He lost them
+[13:58:51] Burnto1122: we are on foot now
+[13:58:54] Rackman: Its like the force has a choosen few
+[13:59:08] Rackman: Wall
+[13:59:15] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezroadflare
+[13:59:17] Burnto1122: i am looking in the distance
+[13:59:38] Rackman: See?
+[13:59:46] Rackman: Thats the problem of navigation i was talking about
+[13:59:51] Burnto1122: I have seen this before
+[13:59:56] Burnto1122: the only solution is to find a low spot
+[14:00:02] Burnto1122: or stack things high enough to rise from the soil
+[14:00:33] Rackman: You can scrounge here
+[14:00:36] Burnto1122: indeed
+[14:00:45] Burnto1122: could stack prim benches for freedom
+[14:01:00] Burnto1122: this is a low and flat spot above me
+[14:01:48] Rackman: I suggest
+[14:01:52] Rackman: WE make the spawn point
+[14:01:57] Rackman: And build the stairs
+[14:02:00] Rackman: Using the build tool
+[14:02:16] Rackman: Assist with this
+[14:02:23] Rackman: You have the toolbox
+[14:03:19] Rackman: I dont quite see what are you going for
+[14:03:41] Burnto1122: a large surface to walk up
+[14:03:45] Rackman: Scrounge props come without collision
+[14:04:30] Rackman: May i borrow your toolbox
+[14:04:48] Rackman: First step of our escape
+[14:04:52] Burnto1122: that is decently tall and has collision
+[14:05:13] Rackman: Now we farm ceramics
+[14:05:23] Rackman: As you can see
+[14:05:25] Rackman: You can build here
+[14:05:30] Burnto1122: at this rate
+[14:05:35] Burnto1122: we need 2 stair pieces
+[14:05:54] Burnto1122: 1 more
+[14:06:04] Burnto1122: possibly 2
+[14:06:07] Burnto1122: this is a tall spot
+[14:06:07] Rackman: Damn
+[14:06:09] Burnto1122: not a deep spot
+[14:06:22] Burnto1122: god damn
+[14:06:40] Rackman: Well
+[14:06:44] Rackman: You see
+[14:06:47] Rackman: We cant leave 
+[14:06:50] Rackman: We need to leave
+[14:06:53] Burnto1122: we just need a pussh
+[14:06:53] Rackman: Through the crack
+[14:07:00] Rackman: Hey
+[14:07:01] Rackman: Lets push
+[14:07:02] Rackman: Using
+[14:07:04] Rackman: Spawn point
+[14:07:46] Rackman: The reality is pretty solid up here
+[14:07:59] Burnto1122: yeow
+[14:08:01] Rackman: Fuuuuuuuck
+[14:08:09] Burnto1122: breaks neck on stairs
+[14:08:22] Rackman: Alt+e to search bodies
+[14:08:48] Rackman: We should hurry
+[14:08:51] Rackman: Before your corpse rots
+[14:09:38] Burnto1122: I know how to escape
+[14:09:51] Burnto1122: it will require what appears to be either cloth or paper
+[14:10:05] Burnto1122: I need cloth
+[14:10:14] Rackman: I think it would be easier to move spawn to the crack and leave like we entered
+[14:10:33] Burnto1122: how would we go about getting water down here
+[14:10:45] Rackman: Scrounge and recycle bottles
+[14:11:20] Burnto1122: where did the water go
+[14:11:26] Burnto1122: we had some
+[14:11:32] Rackman: Oh
+[14:11:34] Rackman: here it come
+[14:11:35] Rackman: s
+[14:11:49] Rackman: Its influence
+[14:11:51] Rackman: Of the force
+[14:11:57] Rackman: We are unwelcome here
+[14:13:14] Burnto1122: all the items in my inventory just disappeared
+[14:13:27] Rackman: The more we stay here
+[14:13:31] Rackman: The worse 
+[14:13:45] Rackman: 204 ceramics
+[14:13:47] Burnto1122: we are going to need
+[14:13:50] Rackman: This will be enough to get back
+[14:13:51] Burnto1122: a lot of water and wood
+[14:14:04] Rackman: Lets leave by just building stairs like that
+[14:14:18] Burnto1122: we need cloth to make a sleeping bag, which we can enter like pod and slip onto surface at top of stairs
+[14:14:29] Burnto1122: unless you know another way to create a seat
+[14:14:38] Rackman: Lets get to the place where we entered
+[14:14:44] Rackman: Grab the container
+[14:15:32] Rackman: Somewhere here
+[14:15:38] Rackman: Cant see exactly where is entrance
+[14:15:48] Rackman: LEt me take
+[14:15:51] Rackman: Ceramics
+[14:16:53] Rackman: Its getting dark
+[14:16:54] Burnto1122: is it that corner over there
+[14:17:02] Rackman: Idk
+[14:17:15] Burnto1122: thats not good
+[14:17:17] Rackman: Whoops
+[14:17:36] Burnto1122: see the lighting right here?
+[14:18:19] Burnto1122: place a stair on this corner
+[14:19:26] Rackman: God damn
+[14:19:29] Rackman: Where is the entrance
+[14:19:42] Burnto1122: i think i see the edge
+[14:19:54] Burnto1122: i think we overshot it by a few meter
+[14:20:06] Burnto1122: i am stuck
+[14:20:32] Rackman: Out of ceramics
+[14:21:37] Burnto1122: might need to pursue that sleeping bag idea
+[14:21:49] Burnto1122: additionally
+[14:21:58] Burnto1122: might be able to use physgun with that to move a player up
+[14:23:38] Burnto1122: why does shoe give paper and not cloth
+[14:23:45] Rackman: Ill probe the surface
+[14:24:34] Rackman: I sense it
+[14:24:37] Rackman: We are so close
+[14:25:02] Rackman: HERE
+[14:25:17] Rackman: I located the hole
+[14:25:20] Rackman: Freedom is close
+[14:25:22] Burnto1122: do you have a path to it
+[14:25:27] Rackman: Ill make it
+[14:25:30] Rackman: I need ceramics
+[14:26:07] Rackman: COME TO ME
+[14:26:24] Rackman: I made an exit
+[14:26:35] Burnto1122: i must grab something
+[14:27:56] Rackman: Well
+[14:28:00] Rackman: The deed is done
+[14:28:01] Burnto1122: lots of valuables down there
+[14:28:24] Burnto1122: I might be able to get the forces to leave me alone through the miracle of sacrifice
+[14:28:27] Burnto1122: if so
+[14:28:32] Burnto1122: it serves as a great location for research
+[14:28:43] Burnto1122: for a base
+[14:29:00] Burnto1122: i forget how to sell things
+[14:29:04] Rackman: Nothing much happens down there, anomalies happen on the surface
+[14:29:05] Burnto1122: there is some sort of fulton crate
+[14:29:07] Rackman: Ye
+[14:29:11] Rackman: You have to make radio
+[14:29:13] Rackman: Call in the crate
+[14:29:16] Rackman: Load the valuables
+[14:29:18] Rackman: And send it
+[14:29:34] Rackman: I dont have much time left 
+[14:29:38] Rackman: But before leaving
+[14:29:46] Rackman: I can provide you almost anything you want
+[14:29:52] Burnto1122: a fulton crate
+[14:29:57] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[14:30:05] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[14:30:05] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[14:30:06] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfuel
+[14:30:18] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgold
+[14:30:19] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgold
+[14:30:19] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgold
+[14:30:19] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgold
+[14:30:26] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[14:30:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezaidradio
+[14:30:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[14:30:49] Rackman: I used to entertain the force plenty
+[14:30:52] Rackman: It favors me
+[14:31:04] Rackman: Still 
+[14:31:04] Burnto1122: I reckon by the time I'm done itl hate me
+[14:31:23] Rackman: Ceramics are worthless
+[14:31:26] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfissilematerial
+[14:31:27] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfissilematerial
+[14:31:39] Rackman: Here 
+[14:31:40] Rackman: Try
+[14:31:43] Rackman: You sell stuff
+[14:31:46] Rackman: In the warehouse
+[14:31:59] Rackman: Connecting
+[14:32:07] Burnto1122: I know what it is trying to say
+[14:32:08] Rackman: Something messing with the radio
+[14:32:19] Burnto1122: this spot is probably cursed portion of skybox
+[14:32:40] Rackman: Here
+[14:32:45] Rackman: Go to the warehouse 
+[14:32:48] Rackman: And sell the stuff
+[14:32:59] Rackman: You can go to the economics to see stocks 
+[14:33:02] Rackman: And buy materials 
+[14:33:14] Rackman: Sell high buy low
+[14:33:31] Rackman: 499k
+[14:33:34] Rackman: Thats plenty
+[14:33:46] Rackman: With this amount of money you cand fund any expedition
+[14:34:00] Burnto1122: yes
+[14:34:09] Burnto1122: the gear I need for said research is very cheap
+[14:34:23] Burnto1122: only like 450 for a tear gas grenade
+[14:34:37] Rackman: I wonder what did the player of the abandoned player did before leaving
+[14:34:46] Burnto1122: it looked like they were refining gasoline
+[14:34:55] Burnto1122: then died at one point near their storage and bench
+[14:34:55] Client "RusLanConnection" connected.
+[14:35:02] Burnto1122: I stole this physgun and toolbox from them
+[14:35:10] Rackman: Eh
+[14:35:14] Rackman: Dead dont need anything
+[14:35:15] Burnto1122: found, not stolen
+[14:35:16] Rackman: Its not stealing
+[14:35:24] Rackman: 50 blessings
+[14:35:45] Burnto1122: five                        hundred                         crates
+[14:36:26] Rackman: Give a man free stuff
+[14:36:43] Burnto1122: the entity watching me create a base out of fulton crates
+[14:36:45] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 110 seconds).
+[14:37:02] RusLanConnection teleported to Rackman
+[14:37:21] Burnto1122: good to know I can trade stock for funding
+[14:38:00] Rackman: I dont even know what are you going research right now
+[14:38:08] Burnto1122: have you looked behind us
+[14:38:13] Rackman: What
+[14:38:16] Rackman: The crack&
+[14:38:17] Rackman: ?
+[14:38:35] Burnto1122: very valuable information
+[14:38:58] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[14:38:58] RusLanConnection suicided!
+[14:39:06] Burnto1122: fresh meat
+[14:39:33] Burnto1122: he is in a better place now
+[14:39:43] Rackman: Anywats
+[14:39:47] Burnto1122: yes
+[14:39:49] Rackman: Goodluck to your research
+[14:39:52] Rackman: Gotta go
+[14:39:53] Rackman: Bye
+[14:39:55] Burnto1122: I should as well
+[14:40:02] Burnto1122: but this was important
+[14:40:05] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[14:40:05] Rackman suicided!
+[14:40:24] Dropped "Burnto1122" from server<STEAM_0:0:83191756>
+[14:40:24] Burnto1122 suicided!
+<Logging continued in "data/ulx_logs/09-09-25.txt">

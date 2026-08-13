@@ -1,0 +1,2821 @@
+<Logging continued from "data/ulx_logs/07-21-25.txt">
+[00:12:17] Client "Le35q" connected.
+[00:13:14] Client "Le35q" spawned in server <STEAM_0:1:225675214> (took 57 seconds).
+[00:17:54] Client "Шайтан" connected.
+[00:18:44] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 50 seconds).
+[00:20:52] Шайтан was killed by ent_jack_gmod_ezfalloutparticle
+[00:21:33] Dropped "Le35q" from server<STEAM_0:1:225675214>
+[00:21:33] Le35q suicided!
+[00:21:50] Client "romanflesh" connected.
+[00:22:26] Client "Le35q" connected.
+[00:23:06] Client "Le35q" spawned in server <STEAM_0:1:225675214> (took 40 seconds).
+[00:39:38] Шайтан: драсте драсте
+[00:39:52] Шайтан: не хотите купить передвижную базу?
+[00:40:05] Шайтан: понятно
+[00:40:14] Шайтан: слушайте
+[00:40:19] Шайтан: мне ее некуда деть
+[00:40:26] Шайтан: можно я у вас ее приипоркую
+[00:40:30] Шайтан: я вам заплачу
+[00:41:14] Шайтан: я говорю припорковать
+[00:41:23] Шайтан: мне ее некуда деть
+[00:41:45] Шайтан: БЯЛТЬ
+[00:42:07] Шайтан: ААААААА
+[00:42:15] Client "PUNKLORD" connected.
+[00:43:02] Client "PUNKLORD" spawned in server <STEAM_0:0:31766296> (took 47 seconds).
+[00:43:28] Шайтан: бялть
+[00:43:30] Шайтан: ААААААА
+[00:43:37] Шайтан: кто закрыл
+[00:43:41] Шайтан: мою машину
+[00:43:55] Шайтан: да альт е
+[00:43:57] Шайтан: по ближ
+[00:44:08] Шайтан: благодарю
+[00:45:32] Шайтан: вступай ко мне
+[00:45:40] Шайтан: я тоже розовый
+[00:45:44] Шайтан: =)
+[00:45:48] Шайтан: ну ладно
+[00:52:06] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[00:52:06] Шайтан suicided!
+[01:36:10] Client "Chelik333" connected.
+[01:36:46] vers1: Хелп
+[01:39:10] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 180 seconds).
+[01:43:49] Client "serjonli1202" connected.
+[01:45:26] Chelik333: здарова
+[01:45:31] Chelik333: че?
+[01:45:40] Chelik333: мне верстак нужен
+[01:45:48] Chelik333: да
+[01:46:22] Chelik333: спс
+[01:51:33] Client "serjonli1202" spawned in server <STEAM_0:0:841392381> (took 464 seconds).
+[01:53:37] Client "Сам_По_Себе" connected.
+[01:53:57] Dropped "serjonli1202" from server<STEAM_0:0:841392381>
+[01:53:57] serjonli1202 suicided!
+[01:56:26] Chelik333: alt r
+[01:56:31] Chelik333: alt e
+[01:56:38] Chelik333: не иди сюда
+[01:56:42] Chelik333: тут закрытая територия
+[01:56:50] Chelik333: так нужно
+[01:56:54] Chelik333: ну там
+[01:56:56] Chelik333: а не тут
+[01:57:03] Chelik333: перехочешь
+[02:01:40] Client "FRED01" connected.
+[02:04:06] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[02:04:06] Chelik333 suicided!
+[02:04:09] Client "Chelik333" connected.
+[02:05:04] Client "FRED01" spawned in server <STEAM_0:1:767661328> (took 204 seconds).
+[02:05:51] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 102 seconds).
+[02:07:32] Client "novohopersk90" connected.
+[02:09:22] Client "novohopersk90" spawned in server <STEAM_0:0:538797841> (took 110 seconds).
+[02:19:58] Client "Lenin" connected.
+[02:20:47] Client "Lenin" spawned in server <STEAM_0:0:553755000> (took 49 seconds).
+[02:22:27] vers1: bind Кнопка jmod_ez_inv
+[02:22:49] Dropped "FRED01" from server<STEAM_0:1:767661328>
+[02:22:49] FRED01 suicided!
+[02:22:57] Client "FRED01" connected.
+[02:24:38] Client "FRED01" spawned in server <STEAM_0:1:767661328> (took 101 seconds).
+[02:27:27] Client "sashakene" connected.
+[02:27:53] Client "sashakene" spawned in server <STEAM_0:0:546034662> (took 26 seconds).
+[02:29:29] Dropped "PUNKLORD" from server<STEAM_0:0:31766296>
+[02:29:29] PUNKLORD suicided!
+[02:32:52] Client "часть команды час" connected.
+[02:34:09] Client "kudalev" connected.
+[02:34:42] Client "kudalev" spawned in server <STEAM_0:0:21670625> (took 33 seconds).
+[02:34:46] Chelik333: не подходите
+[02:34:54] Chelik333: что вы хотите
+[02:35:04] Chelik333: агрессивное?
+[02:35:06] Chelik333: в чем?
+[02:35:17] Chelik333: нет?
+[02:35:23] Chelik333: я просто отказался
+[02:38:35] Lenin: !motd
+[02:39:57] (TEAM) Le35q: з
+[02:40:36] Chelik333 suicided!
+[02:40:48] Le35q: как лагает
+[02:40:54] Le35q: я думал что вы друзья с детства
+[02:41:46] Chelik333 to admins: Затрял, помогите
+[02:42:04] Le35q: я отойду
+[02:46:52] Lenin killed Lenin
+[02:47:45] Client "KIRKA" connected.
+[02:48:22] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 37 seconds).
+[02:48:28] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[02:48:28] Chelik333 suicided!
+[02:48:39] Client "Chelik333" connected.
+[02:50:16] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 97 seconds).
+[02:54:05] Client "Toxa08" connected.
+[02:54:12] Dropped "sashakene" from server<STEAM_0:0:546034662>
+[02:54:12] sashakene suicided!
+[02:54:41] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 36 seconds).
+[03:01:45] Client "P0lyakov" connected.
+[03:02:31] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 46 seconds).
+[03:03:28] P0lyakov: !menu
+[03:03:29] Lenin: вам денег дать?
+[03:03:56] (Csay from P0lyakov) Хотите сменить карту?
+[03:03:59] (Csay from P0lyakov) Хотите сменить карту?
+[03:04:00] (Csay from P0lyakov) Хотите сменить карту?
+[03:04:02] (Csay from P0lyakov) Хотите сменить карту?
+[03:04:04] (Csay from P0lyakov) Хотите сменить карту?
+[03:07:30] Lenin was killed by ent_jack_gmod_ezfalloutparticle
+[03:07:34] Dropped "Lenin" from server<STEAM_0:0:553755000>
+[03:07:34] Lenin suicided!
+[03:09:12] Toxa08: ?
+[03:09:27] Toxa08: ладно 
+[03:09:44] Toxa08: щяс только соберу вещи
+[03:09:47] Le35q: как слышно ?
+[03:22:33] Dropped "vers1" from server<STEAM_0:0:230254820>
+[03:22:33] vers1 suicided!
+[03:22:46] Client "klinskoe za 200" connected.
+[03:24:12] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 86 seconds).
+[03:24:20] novohopersk90: я не слышу тебя
+[03:24:33] Le35q: я из фракции "заря"
+[03:24:37] novohopersk90: ясно
+[03:24:42] Le35q: нам нужны союзники
+[03:24:56] novohopersk90: ты хочешь союз со мной?
+[03:25:00] Le35q: да
+[03:25:15] novohopersk90: ладно, я согласен за машину с топливом
+[03:25:22] Le35q: какую ?
+[03:25:25] novohopersk90: любую
+[03:25:29] novohopersk90: главное чтоб ездила
+[03:25:32] Le35q: хорошо
+[03:25:37] Le35q: я вам ее сделаю
+[03:25:42] Le35q: легкую и быструю
+[03:25:49] novohopersk90: ну давай
+[03:25:59] novohopersk90: езжай
+[03:26:02] novohopersk90: стой
+[03:26:14] novohopersk90: а как принять?
+[03:26:17] novohopersk90: !motd
+[03:26:28] Le35q: попробуйте вы кинуть мне предложение
+[03:26:41] Toxa08 to admins: Help pls im stuck
+[03:26:45] Le35q: вот, хорошо
+[03:26:51] Le35q: я принесу
+[03:27:31] Dropped "kudalev" from server<STEAM_0:0:21670625>
+[03:27:31] kudalev suicided!
+[03:27:59] Dropped "Toxa08" from server<STEAM_0:0:33704276>
+[03:27:59] Toxa08 suicided!
+[03:28:00] Client "Toxa08" connected.
+[03:28:20] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 20 seconds).
+[03:33:32] novohopersk90: так все
+[03:33:35] novohopersk90: спасибо за машину
+[03:33:40] novohopersk90: спасибо за союз
+[03:34:00] novohopersk90: шо?
+[03:34:02] novohopersk90: я не слышу
+[03:34:07] Le35q: меня человек ждет
+[03:34:11] Le35q: думаю что вы меня поймете
+[03:34:15] Le35q: удачи вам
+[03:34:19] novohopersk90: вам того же
+[03:36:59] novohopersk90: !motd
+[03:42:26] novohopersk90: здарова
+[03:42:28] novohopersk90: я тебя не слышу
+[03:42:32] novohopersk90: водичка есть"?
+[03:42:35] P0lyakov: Неа
+[03:42:38] novohopersk90: жалко
+[03:42:42] P0lyakov: Тут месторождение
+[03:42:45] P0lyakov: можешь использовать
+[03:42:48] novohopersk90: прям тут?
+[03:42:50] P0lyakov: поставь водокачку
+[03:42:50] P0lyakov: да
+[03:43:00] P0lyakov: Слушай у тебя есть бейсик парты?
+[03:43:06] novohopersk90: есть
+[03:43:14] P0lyakov: Мне на гвозди надо, закрепить оборудование
+[03:43:20] P0lyakov: 30 хватит
+[03:43:32] novohopersk90: погодь, ща я сгоняю за частями
+[03:43:35] novohopersk90: а хотя не
+[03:43:45] novohopersk90: разбирай
+[03:44:02] P0lyakov: Спасибо удачливый
+[03:46:21] Client "Soldier_S.C.A.F" connected.
+[03:49:07] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 166 seconds).
+[03:49:42] novohopersk90: !motd
+[03:49:47] novohopersk90: !motd
+[03:51:30] KIRKA to admins: Мне не пришло бабло за вольфрам который я продал
+[03:52:18] KIRKA to admins: А, я разобрался .
+[03:52:34] Soldier_S.C.A.F: здаров
+[03:53:19] Soldier_S.C.A.F: ох нифига
+[03:53:45] novohopersk90: supply radio: resouce crate
+[03:56:10] Client "Jr_byba" connected.
+[03:56:46] Client "миха литвин" connected.
+[03:56:51] Soldier_S.C.A.F: у меня почему оказался один юнит урана
+[03:57:21] Soldier_S.C.A.F: мутузит сильно
+[03:57:43] novohopersk90: я застрял в этом
+[03:57:48] novohopersk90: ой
+[03:57:49] novohopersk90: извините
+[03:58:17] Client "Boroda CaCtUs" connected.
+[03:59:25] P0lyakov stripped weapons from Themself
+[03:59:25] P0lyakov: !strip P0l
+[03:59:31] FRED01: supply radio: detpacks
+[03:59:42] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 212 seconds).
+[04:00:51] FRED01 killed Le35q using lvs_wheeldrive_dodsherman
+[04:00:51] FRED01 was killed by lvs_wheeldrive_citroen_type23
+[04:01:08] novohopersk90: шо
+[04:01:10] novohopersk90: я тебя не слышу
+[04:01:18] novohopersk90: че тебе
+[04:01:21] Soldier_S.C.A.F: ебать
+[04:01:24] novohopersk90: я не слышу
+[04:01:27] Soldier_S.C.A.F: зачем столько пулеметов
+[04:01:31] FRED01: УБЕЙ
+[04:01:37] novohopersk90 killed FRED01 using wep_jack_gmod_ezaxe
+[04:03:54] Soldier_S.C.A.F: разведаю пока
+[04:04:09] novohopersk90: стой
+[04:04:13] novohopersk90: я хотел сначало спросить
+[04:04:20] novohopersk90: а как можно вещи выкинуть?
+[04:04:35] novohopersk90: о, внатуре
+[04:04:37] novohopersk90: ну убейте
+[04:04:42] FRED01 killed novohopersk90 using wep_jack_gmod_ezaxe
+[04:05:25] Client "Шайтан" connected.
+[04:06:07] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[04:06:07] Jr_byba suicided!
+[04:06:14] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 49 seconds).
+[04:06:25] Client "Jr_byba" connected.
+[04:08:17] Шайтан: че делать собирайтесь?
+[04:08:33] Шайтан: бял хочу реально быть камикадзе
+[04:08:43] Шайтан: или шахидом
+[04:09:13] Client "Boroda CaCtUs" spawned in server <STEAM_0:0:482303624> (took 656 seconds).
+[04:09:30] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 185 seconds).
+[04:10:54] Le35q: картинки из постала
+[04:11:13] Шайтан: кстати
+[04:11:25] Шайтан: автоматические драбаши ваще не дорогоие
+[04:11:36] Шайтан: ну да
+[04:11:52] Шайтан: где моя розовая броня
+[04:11:54] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[04:11:54] Jr_byba suicided!
+[04:12:06] Client "Jr_byba" connected.
+[04:12:08] KIRKA: supply radio: fabricator
+[04:12:12] Boroda CaCtUs: !motd
+[04:12:19] Boroda CaCtUs: !motd
+[04:12:38] Boroda CaCtUs: jmod_ez_inv
+[04:12:43] Client "сол гусьман" connected.
+[04:12:45] Boroda CaCtUs: /jmod_ez_inv
+[04:12:49] Boroda CaCtUs: !motd
+[04:12:57] Boroda CaCtUs: !jmod_ez_inv
+[04:13:03] Soldier_S.C.A.F: здаров
+[04:13:07] Шайтан: привет
+[04:13:13] Boroda CaCtUs: !payermodelselection
+[04:13:14] Boroda CaCtUs: !motd
+[04:13:34] Soldier_S.C.A.F: в общем
+[04:13:37] Soldier_S.C.A.F: все разведал
+[04:13:45] Soldier_S.C.A.F: толи в башне толи еще где
+[04:13:51] Soldier_S.C.A.F: перестрелы происходят
+[04:14:01] Boroda CaCtUs: [f[f
+[04:14:23] Boroda CaCtUs: !playermodel_selector
+[04:14:28] Шайтан: какая еще броян не надета
+[04:14:30] Boroda CaCtUs: ! playermodel_selector
+[04:14:31] Шайтан: я не понимаю
+[04:14:44] Boroda CaCtUs: !playermodel selector
+[04:14:47] Boroda CaCtUs: !motd
+[04:14:50] Soldier_S.C.A.F: аа я понял
+[04:14:58] Soldier_S.C.A.F: у нас где-то в фундаменте
+[04:15:01] Soldier_S.C.A.F: уран лежит
+[04:15:10] FRED01 killed Le35q using lvs_wheeldrive_dodwillyjeep
+[04:15:26] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezprimitivebench
+[04:15:30] Client "сол гусьман" connected.
+[04:15:47] Client "Rackman" connected.
+[04:16:08] Soldier_S.C.A.F: а че реактор открыт
+[04:16:28] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezprimitivebench
+[04:16:34] Soldier_S.C.A.F: ху блять
+[04:16:40] Boroda CaCtUs: !motd
+[04:16:43] Шайтан: прввиеты
+[04:16:48] Шайтан: оцени мой лук
+[04:17:02] Шайтан: не
+[04:17:05] Шайтан: я просто оделся
+[04:17:20] Шайтан: в сэкэнд хэнде
+[04:17:43] Шайтан: я не бинарный
+[04:17:46] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezfuel
+[04:17:59] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezfuel
+[04:18:00] Шайтан: был бы скин фурри
+[04:18:06] Шайтан: я был бы фуренком
+[04:18:12] Шайтан: да шучу
+[04:18:23] Шайтан: мне просто нравится фиолетовый цвет
+[04:19:09] Шайтан: бля было бы прикольно если руслан пак идитор
+[04:19:12] novohopersk90: привет
+[04:19:14] Шайтан: добавил
+[04:19:25] Шайтан: я понимаю 
+[04:19:28] novohopersk90: ну найди себе место для базы
+[04:19:35] Шайтан: но тамможно выключать функции
+[04:19:35] novohopersk90: потом заходишь в инвентарь
+[04:19:45] novohopersk90: у тебя должна быть кнопка 
+[04:19:49] novohopersk90: scrounge
+[04:20:01] Soldier_S.C.A.F: что происходит?
+[04:20:03] novohopersk90: нажимаешь до тех пор пока ресурсы не появятся
+[04:20:09] novohopersk90: и дальше сам разберешься
+[04:20:09] Шайтан: можно просто убрать все функции кроме косметических
+[04:20:18] novohopersk90: шо?
+[04:20:23] Шайтан: и убрать альфу
+[04:20:24] novohopersk90: да
+[04:20:38] novohopersk90: нет
+[04:20:44] Soldier_S.C.A.F: але! что здесь происходит
+[04:20:50] Шайтан: смори
+[04:20:54] Шайтан: кто то с пушкой
+[04:20:59] novohopersk90: про какой флажок?
+[04:21:02] Шайтан: а это клин
+[04:21:16] Шайтан: СУКА КЛИН
+[04:21:19] novohopersk90: еще раз
+[04:21:20] Шайтан: НАПУГАЛ
+[04:21:22] novohopersk90: нихуя не понял
+[04:21:29] novohopersk90: да
+[04:21:35] Client "сол гусьман" spawned in server <STEAM_0:0:240707588> (took 365 seconds).
+[04:21:42] novohopersk90: а
+[04:21:45] novohopersk90: это союз
+[04:22:00] novohopersk90: ну да
+[04:22:07] novohopersk90: это вообще то моя фракция в союзе
+[04:22:07] Шайтан: теперь у нас 2 столицы
+[04:22:18] Le35q was killed by lvs_wheeldrive_dodwillyjeep
+[04:22:19] Шайтан: ебой
+[04:22:23] novohopersk90: это тем с кем мой союз
+[04:22:37] novohopersk90: ищи давай
+[04:22:37] novohopersk90: удачи
+[04:22:42] Шайтан: кстати
+[04:22:51] Шайтан: противотанкавая винтовка ваще работает?
+[04:23:02] Dropped "сол гусьман" from server<STEAM_0:0:240707588>
+[04:23:02] сол гусьман suicided!
+[04:23:09] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbasicparts
+[04:23:09] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbasicparts
+[04:23:11] Шайтан: бляять
+[04:23:22] Шайтан: я то думаю че в меня стреляют но хп не убавляяется
+[04:23:27] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsteel
+[04:23:27] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsteel
+[04:23:30] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsteel
+[04:23:31] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsteel
+[04:23:33] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbasicparts
+[04:23:33] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbasicparts
+[04:23:37] Шайтан: какго убрал?
+[04:23:45] Шайтан: ааа
+[04:24:05] Soldier_S.C.A.F: але! что здесь происходит
+[04:24:50] Шайтан: ничего он ниубрал
+[04:24:57] Шайтан: зато
+[04:25:01] Шайтан: наверное
+[04:25:08] Шайтан: оно 1 пули убивает
+[04:25:12] Шайтан: людей
+[04:25:23] Шайтан: или технику слабую
+[04:25:26] Шайтан: типо машин
+[04:25:36] Шайтан: можно проверить =)
+[04:25:51] Шайтан: мне скучно опять
+[04:26:00] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezbattery
+[04:26:55] Soldier_S.C.A.F: але! что у вас здесь происходит
+[04:27:45] Soldier_S.C.A.F: здраствуйте
+[04:27:51] Soldier_S.C.A.F: что у вас здесь происходит
+[04:28:05] Soldier_S.C.A.F: хм
+[04:28:17] Soldier_S.C.A.F: я могу как-то помоч?
+[04:28:39] novohopersk90: !motd
+[04:28:48] Soldier_S.C.A.F: мой союзник
+[04:28:49] novohopersk90: !motd
+[04:28:56] Шайтан: где моя база а колесиках7
+[04:29:27] Soldier_S.C.A.F: и вам удачи
+[04:29:39] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezmedsupplies
+[04:29:42] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezmedsupplies
+[04:29:44] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezmedsupplies
+[04:29:58] Le35q killed FRED01 using tfa_doim1912
+[04:30:02] Шайтан: ЧТО ЭТО СОЛДЕР?
+[04:30:12] Шайтан: А?
+[04:30:15] Le35q killed FRED01 using tfa_doim1912
+[04:30:27] Le35q killed FRED01 using tfa_doim1912
+[04:30:41] Soldier_S.C.A.F: подожди!
+[04:30:47] Le35q killed FRED01 using tfa_doim1912
+[04:31:06] Шайтан: дравте
+[04:31:10] Le35q killed FRED01 using tfa_doim1912
+[04:31:17] novohopersk90: привет
+[04:31:30] Шайтан: не хотите приобрести себе базу на колесах?ъ
+[04:31:33] novohopersk90: нет
+[04:32:28] Soldier_S.C.A.F to admins: могу конечно понять но!
+[04:32:37] Soldier_S.C.A.F to admins: такое явно никак не исправиш
+[04:32:48] Soldier_S.C.A.F to admins: но пусть это будет в тайне
+[04:32:58] Soldier_S.C.A.F to admins: ниче не имею в виду
+[04:32:59] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsatchelcharge
+[04:34:08] Le35q killed FRED01 using lvs_wheeldrive_dodhalftrack_us
+[04:34:26] FRED01 was killed by lvs_wheeldrive_dodhalftrack_us
+[04:34:27] Soldier_S.C.A.F: здраствуйте
+[04:34:36] Soldier_S.C.A.F: мм
+[04:34:43] Le35q killed FRED01 using lvs_wheeldrive_dodhalftrack_us
+[04:34:44] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezsatchelcharge
+[04:34:59] Шайтан: да
+[04:35:06] Шайтан: не хотите купить?
+[04:35:21] Le35q killed FRED01 using lvs_wheeldrive_dodhalftrack_us
+[04:35:22] Шайтан: а этому предлагаю
+[04:35:29] Шайтан: ааа
+[04:35:31] Шайтан: поянтно
+[04:35:41] Шайтан: это просто песочница
+[04:35:52] Шайтан: лан рп это просто песочница
+[04:36:42] Soldier_S.C.A.F: кому похилитса
+[04:37:24] Шайтан: жаль что я в то время не играл
+[04:37:29] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 1302 seconds).
+[04:37:42] Soldier_S.C.A.F: это про что щяс идет
+[04:37:49] Client "Neser_YT" connected.
+[04:37:55] Soldier_S.C.A.F: аа
+[04:38:02] Шайтан: доброград 
+[04:38:05] Шайтан: хуйня
+[04:38:07] Шайтан: щас
+[04:38:13] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[04:38:13] Rackman suicided!
+[04:38:14] Toxa08: хай
+[04:38:14] Client "Rackman" connected.
+[04:38:15] Toxa08: бойс
+[04:38:19] Soldier_S.C.A.F: здарова
+[04:38:36] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 22 seconds).
+[04:38:46] Шайтан: я играл на меджике когда рыбалка была
+[04:38:59] Шайтан: там все с рыбаками общались
+[04:39:03] Client "Jr_byba" connected.
+[04:39:12] Шайтан: каждый 2 общался со всеми
+[04:39:18] Шайтан: мне ваще школоло
+[04:39:29] Toxa08: ну wayzer он и раньше был просто обычной рп-шкой
+[04:39:34] Шайтан: отдал випку и свд и револьвер
+[04:39:36] Шайтан: донатные
+[04:39:47] Шайтан: ненене
+[04:39:47] Soldier_S.C.A.F: это точно
+[04:39:51] Шайтан: тогда такого небыло
+[04:39:52] Toxa08: на обычном рп скучный гемплей
+[04:40:09] Dropped "FRED01" from server<STEAM_0:1:767661328>
+[04:40:09] FRED01 suicided!
+[04:40:27] Шайтан: грустно както
+[04:40:42] Шайтан: вы заходили на пустые серваки?
+[04:42:28] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 205 seconds).
+[04:42:34] Шайтан: мой брат хойку хочет купить 
+[04:43:01] Шайтан: вы играли скрап механик?
+[04:43:06] Шайтан: я его с другом прошел
+[04:43:22] Шайтан: я даже научился делать двигатель на поршнях
+[04:43:32] Toxa08: satisfactory?
+[04:43:42] Шайтан: ну да
+[04:43:59] Rackman<STEAM_0:0:221849271> spawned sent lvs_item_compressor
+[04:44:01] Шайтан: не я автоматику не люблю
+[04:44:06] Rackman<STEAM_0:0:221849271> spawned sent lvs_item_compressor
+[04:44:10] Шайтан: я ваще на токаря иду
+[04:44:18] Шайтан: пойду
+[04:44:18] Soldier_S.C.A.F: чего
+[04:44:23] Toxa08: тюнинг
+[04:44:27] Шайтан: КАК
+[04:44:28] Soldier_S.C.A.F: эта хуйня с q меню только
+[04:44:30] Toxa08: дрифтить можешь
+[04:44:33] Rackman cloaked Themself by amount 0
+[04:44:37] Rackman granted god mode upon Themself
+[04:44:38] Шайтан: ДА ПОЯНТНО
+[04:44:40] Soldier_S.C.A.F: админ решил подшутить
+[04:44:54] Шайтан: пока
+[04:44:55] Client "Польские Пряники" connected.
+[04:44:55] Rackman<STEAM_0:0:221849271> spawned sent lvs_item_turbo
+[04:44:59] Rackman<STEAM_0:0:221849271> spawned sent lvs_item_turbo
+[04:45:00] Dropped "Boroda CaCtUs" from server<STEAM_0:0:482303624>
+[04:45:00] Boroda CaCtUs suicided!
+[04:45:02] Rackman<STEAM_0:0:221849271> spawned sent lvs_item_turbo
+[04:45:06] Шайтан: блять не успел
+[04:45:11] Шайтан: неа
+[04:45:21] Шайтан: нету
+[04:45:24] Шайтан: это у всех
+[04:45:33] Шайтан: а это норма тоже
+[04:45:39] Шайтан: но очень редкая
+[04:45:43] Шайтан: заходил вчера
+[04:45:46] Rackman<STEAM_0:0:221849271> spawned sent lvs_item_exhaust
+[04:45:48] Шайтан: было угарно
+[04:45:51] Soldier_S.C.A.F: щяс про что я запутался
+[04:45:58] Шайтан: он душнилу забанил
+[04:46:09] Шайтан: дак сервак
+[04:46:13] Шайтан: сломался
+[04:46:17] Шайтан: и поменял
+[04:46:22] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 87 seconds).
+[04:46:26] Шайтан: 1 неделю пытался все 
+[04:46:29] Шайтан: починить
+[04:46:47] Шайтан: новый акауннт в дс не пробывал?
+[04:47:04] Шайтан: попроси
+[04:47:09] Шайтан: извинись за чтонибуть
+[04:47:17] Шайтан: О КСТАТИ
+[04:47:19] Шайтан: ЛУДОМАН
+[04:47:46] Шайтан: я ему написал
+[04:47:51] Rackman teleported to Jr_byba
+[04:47:51] Шайтан: он вне сети
+[04:47:53] Rackman teleported to P0lyakov
+[04:47:53] Rackman teleported to P0lyakov
+[04:47:53] Rackman teleported to P0lyakov
+[04:47:53] Rackman teleported to P0lyakov
+[04:47:54] Rackman teleported to P0lyakov
+[04:47:54] Rackman teleported to P0lyakov
+[04:47:54] Rackman teleported to P0lyakov
+[04:47:55] Rackman teleported to P0lyakov
+[04:47:55] Rackman teleported to P0lyakov
+[04:47:55] Rackman teleported to P0lyakov
+[04:47:56] Rackman teleported to P0lyakov
+[04:48:05] Soldier_S.C.A.F: угу
+[04:48:05] Le35q suicided!
+[04:48:18] Шайтан: го погуляем на пустых серваках рп
+[04:48:33] KIRKA killed Jr_byba using tfa_doik98
+[04:48:36] Шайтан: XD
+[04:48:40] Le35q suicided!
+[04:48:47] Toxa08: хмм
+[04:48:47] Шайтан: yf dthye
+[04:48:51] Польские Пряники: ТОХА
+[04:48:52] Шайтан: на возращаю
+[04:48:53] Польские Пряники: КАК ДОЛГО ТЫ ТУТ
+[04:48:57] Польские Пряники: ТЫ СПАЛ?
+[04:49:00] Toxa08: ДА
+[04:49:04] Le35q suicided!
+[04:49:07] Toxa08: Пришел сюда и был в шоке
+[04:49:08] Шайтан: тихо
+[04:49:09] Польские Пряники: КАКОЙ УЖАС
+[04:49:10] Шайтан: нет
+[04:49:11] Toxa08: что все выжило
+[04:49:11] Польские Пряники: Я ТОЖЕ
+[04:49:13] Польские Пряники: В ШОКЕ
+[04:49:15] Шайтан: клину не говори
+[04:49:16] Польские Пряники: ТВОЕ ЖЕ?
+[04:49:20] Toxa08: НЕа
+[04:49:21] Шайтан: это его бабло
+[04:49:22] Польские Пряники: БЛИН
+[04:49:26] Польские Пряники: ЗАХВАТИЛИ ПОЛУЧАЕТСЯ
+[04:49:30] Toxa08: Вроде полякова
+[04:49:38] Шайтан: А ДАК ПРОДАТЬ ЕГО НАДО В ХРАНИЛИЩЕ
+[04:49:42] Шайтан: В МАГАЗЕ
+[04:49:51] Soldier_S.C.A.F was killed by build_prop
+[04:49:55] Toxa08: ХотЭль тут и был?
+[04:49:58] Польские Пряники: ДА
+[04:49:58] Шайтан: ПО МНЕ ПИЗДАНУЛО
+[04:50:04] Toxa08: 0_0
+[04:50:05] Польские Пряники: ВЧЕРА ПОСТРОИЛ
+[04:50:12] Rackman teleported to Польские Пряники
+[04:50:14] Rackman teleported to Польские Пряники
+[04:50:14] Rackman teleported to Польские Пряники
+[04:50:15] Rackman teleported to Польские Пряники
+[04:50:15] Rackman teleported to Польские Пряники
+[04:50:15] Soldier_S.C.A.F: от пропов сдох
+[04:50:15] Rackman teleported to Польские Пряники
+[04:50:16] Rackman teleported to Польские Пряники
+[04:50:16] Rackman teleported to Польские Пряники
+[04:50:16] Rackman teleported to Польские Пряники
+[04:50:16] Rackman teleported to Польские Пряники
+[04:50:17] Rackman teleported to Польские Пряники
+[04:50:17] Rackman teleported to Польские Пряники
+[04:50:17] Rackman teleported to Польские Пряники
+[04:50:18] Rackman teleported to Польские Пряники
+[04:50:18] Rackman teleported to Польские Пряники
+[04:50:18] Rackman teleported to Польские Пряники
+[04:50:19] Rackman teleported to Польские Пряники
+[04:50:19] Rackman teleported to Польские Пряники
+[04:50:19] Rackman teleported to Польские Пряники
+[04:50:19] Rackman teleported to Польские Пряники
+[04:50:20] Rackman teleported to Польские Пряники
+[04:50:20] Шайтан: ой
+[04:50:20] Rackman teleported to Польские Пряники
+[04:50:20] Soldier_S.C.A.F: билдовых
+[04:50:20] Rackman teleported to Польские Пряники
+[04:50:21] Rackman teleported to Польские Пряники
+[04:50:21] Rackman teleported to Польские Пряники
+[04:50:21] Rackman teleported to Польские Пряники
+[04:50:26] Шайтан: я случайно нажал
+[04:50:26] Польские Пряники: Я ДУМАЮ НУЖНО УХОДИТЬ
+[04:50:40] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[04:50:40] Rackman suicided!
+[04:50:44] Шайтан: да я ваще ебал в рот эти ваши панели
+[04:50:47] Польские Пряники: КАКОЙ УЖАС
+[04:50:53] Toxa08: Призраки пяти галек
+[04:50:54] Шайтан: а?
+[04:51:00] Шайтан: что?
+[04:51:03] Шайтан: а я случайно
+[04:51:06] Шайтан: выстрелил
+[04:51:09] Польские Пряники: ЭТО МОЯ МОШИНКА
+[04:51:17] Шайтан: вот так
+[04:51:20] Toxa08: Не, твою украли уже :D
+[04:51:23] Польские Пряники: БЛИН
+[04:51:24] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[04:51:24] Jr_byba suicided!
+[04:51:42] Шайтан: хочешь верталетик кирка?
+[04:51:49] Шайтан: кирка
+[04:52:04] Шайтан: хош?
+[04:52:14] Польские Пряники: Я НЕ УВИДЕЛ ЛЕСТНИЦУ
+[04:52:24] Client "Pedro" connected.
+[04:52:30] Toxa08: Главное не умереть
+[04:52:38] Шайтан: я принесу
+[04:52:45] Шайтан: выключи
+[04:52:49] Шайтан: радио
+[04:53:08] Польские Пряники: НАДО БУДЕТ ВЫТОРГОВАТЬ У ПОЛЯКОВА 
+[04:53:09] Польские Пряники: ДОМИК
+[04:53:11] Польские Пряники: И БАР
+[04:53:20] Toxa08: Или работать там
+[04:53:30] Польские Пряники: Я ЩА ПЕРЕЗАЙДУ
+[04:53:34] Польские Пряники: А ТО БУЛЛЕТ ФИЗИКС
+[04:53:35] Польские Пряники: ОШИБКА
+[04:53:37] Toxa08: Можем поехать за союзом по этому поводу
+[04:53:38] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[04:53:38] Польские Пряники suicided!
+[04:53:39] Client "Польские Пряники" connected.
+[04:53:54] Soldier_S.C.A.F: кароч ладно
+[04:53:56] Soldier_S.C.A.F: пойду я
+[04:53:59] Шайтан: пока
+[04:54:03] Soldier_S.C.A.F: угу
+[04:54:22] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 43 seconds).
+[04:54:37] novohopersk90: supply radio: water
+[04:54:45] Soldier_S.C.A.F: кстати клинский
+[04:54:53] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[04:54:53] Польские Пряники suicided!
+[04:54:54] Client "Польские Пряники" connected.
+[04:55:11] Soldier_S.C.A.F: ну
+[04:55:22] Soldier_S.C.A.F: не знаю даже будет ЗВ контент или нет
+[04:55:26] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 32 seconds).
+[04:56:07] Soldier_S.C.A.F: ну можно только в учет лишь технику
+[04:56:14] Шайтан: а трубы тебе на что
+[04:56:16] Soldier_S.C.A.F: оно там 130 где-то
+[04:56:27] Soldier_S.C.A.F: мб*
+[04:56:52] Soldier_S.C.A.F: ну пусть хоть в идея будет
+[04:57:03] Шайтан: мы богатые просто
+[04:57:07] Soldier_S.C.A.F: ну а я теперь пойду
+[04:57:08] Le35q suicided!
+[04:57:18] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[04:57:18] Soldier_S.C.A.F suicided!
+[04:57:19] Шайтан: я думаю клин не жадина
+[04:57:26] Шайтан: я тоже хочу овоевать
+[04:57:32] Шайтан: кставидал скрин
+[04:57:39] Шайтан: где я написал хочу убивать
+[04:57:52] Шайтан: ВОДА НУЖНА?
+[04:57:55] Шайтан: ее незя
+[04:58:05] Шайтан: могу накопать
+[04:58:13] Шайтан: supply radio: seed kit
+[04:58:17] Шайтан: выключи радио
+[04:58:23] Шайтан: в
+[04:58:27] Шайтан: выкл рад
+[04:58:28] Client "Pedro" spawned in server <STEAM_0:1:577755325> (took 364 seconds).
+[04:58:39] Шайтан: на воду
+[04:59:05] Шайтан: 200
+[04:59:10] Шайтан: а не
+[04:59:14] Шайтан: 400 зделали
+[04:59:43] P0lyakov: supply radio: global message
+[05:00:00] Dropped "Le35q" from server<STEAM_0:1:225675214>
+[05:00:00] Le35q suicided!
+[05:00:08] Шайтан: слушааай
+[05:00:13] P0lyakov: Привет
+[05:00:19] Шайтан: ты развивайся побыстрее
+[05:00:29] Шайтан: нам же  хуже
+[05:00:38] Pedro: !motd
+[05:00:40] Pedro: !motd
+[05:00:47] Шайтан: не ебу
+[05:00:53] Шайтан: мы можем отдать
+[05:00:59] Шайтан: тебе все свои деньги
+[05:01:04] Шайтан: если мы погибнем
+[05:01:09] Шайтан: ну
+[05:01:13] Шайтан: наша фракция
+[05:01:18] Шайтан: иии
+[05:01:24] Шайтан: типо мы к тебе вступим
+[05:01:35] Шайтан: хотя у нас бункер
+[05:01:38] Шайтан: у наскесть
+[05:01:41] Шайтан: могу пнринести
+[05:01:55] Польские Пряники: Я ПОШЕЛ ГОВОРИТЬ С ПОЛЯКОВЫМ
+[05:02:02] Шайтан: мы живем в бункере
+[05:02:02] Toxa08: Okey
+[05:02:19] Шайтан: ща привезу керамику
+[05:03:51] Client "ELITEMISTER121" connected.
+[05:04:03] Toxa08: наш город
+[05:04:05] Польские Пряники to admins: МОЙ ГОРОДОК УКРАЛ
+[05:04:06] Toxa08: используют
+[05:04:07] Toxa08: :D
+[05:04:17] Toxa08: yep
+[05:04:18] Польские Пряники to admins: Я ЕГО ВЧЕРА ПОСТРОИТ =В
+[05:04:35] Toxa08: ?
+[05:04:41] Toxa08: слендермен
+[05:04:47] Client "Sannanore" connected.
+[05:05:04] Toxa08: уже забрал
+[05:05:14] Шайтан: вся керамика взможно
+[05:05:15] Toxa08: он такой слишком вычурный
+[05:05:20] Шайтан: в другой базе
+[05:05:21] Шайтан: =(
+[05:05:22] Toxa08: я бы не носил
+[05:05:25] Шайтан: ну вроде как
+[05:05:31] Toxa08: нееее
+[05:05:33] Шайтан: у нас ее просто пос=чему то нету
+[05:05:38] Toxa08: ну на себе покажи
+[05:05:41] Польские Пряники: plhfcmnt
+[05:05:42] Шайтан: поехали
+[05:05:43] Польские Пряники: здрасьте
+[05:05:44] Шайтан: я медленый
+[05:05:48] Польские Пряники: можно отель постмотреть?
+[05:05:52] Шайтан: не помню
+[05:05:59] Шайтан: топлива закинь
+[05:06:17] Шайтан: они 100 стоят
+[05:06:52] Польские Пряники: А ЧЕГО ЛАМПОЧКИ БЕЗ ТОПЛИВА
+[05:06:53] Шайтан: я пизда медленный
+[05:07:07] Польские Пряники: БЛИН
+[05:07:10] (TEAM) Шайтан: че поехали?
+[05:07:35] Польские Пряники: МОИ ПЯТЬ ГАЛЕК
+[05:08:08] Client "Abobius" connected.
+[05:08:21] Toxa08: Здрасте
+[05:08:39] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituredrawer001a.mdl
+[05:08:42] Client "Abobius" spawned in server <STEAM_0:1:52589208> (took 34 seconds).
+[05:08:55] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furniturebed001a.mdl
+[05:09:11] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituredrawer001a.mdl
+[05:09:22] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituretable002a.mdl
+[05:09:39] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituredresser001a.mdl
+[05:10:04] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/shelfunit01a.mdl
+[05:10:17] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furniturechair001a.mdl
+[05:10:24] Шайтан: я увидел
+[05:10:31] Шайтан: ты резко присмлился
+[05:10:36] Toxa08: стоит
+[05:10:40] Шайтан: неа
+[05:10:47] Шайтан: ццнадо мягко
+[05:10:51] Шайтан: приземлятся
+[05:10:51] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/tv_monitor01.mdl
+[05:10:58] Шайтан: давай покажу
+[05:11:06] Toxa08: как же ты стараешься клинское
+[05:11:07] Шайтан: это совсем дроугое
+[05:11:12] Dropped "Abobius" from server<STEAM_0:1:52589208>
+[05:11:12] Abobius suicided!
+[05:11:28] Польские Пряники: Я ТУТ НОМЕРОК ВОЗЬМУ?
+[05:11:50] Toxa08: люди
+[05:11:58] Шайтан: я самый модный человек
+[05:11:58] Client "XLEBYC" connected.
+[05:12:16] Шайтан: блять какой я медленый нахуй
+[05:12:29] Client "XLEBYC" spawned in server <STEAM_0:1:615225475> (took 31 seconds).
+[05:13:04] Client "kudalev" connected.
+[05:13:22] Шайтан: биба ты тупой?
+[05:13:29] Шайтан: ой
+[05:13:33] Шайтан: извиняюсь
+[05:13:33] Toxa08: Голос как у бибы
+[05:13:39] Шайтан: петро ты тупой?
+[05:13:43] Client "kudalev" spawned in server <STEAM_0:0:21670625> (took 39 seconds).
+[05:14:04] Шайтан: там вертик бум бум
+[05:14:21] Шайтан: А ЭТОТ ХУЕСОСО ОПЯТЬ
+[05:14:21] Toxa08: Снова?
+[05:14:31] Toxa08: кирка
+[05:14:34] Шайтан: Я ПОШЕЛ РАЗБИРАТСЯ
+[05:14:38] Toxa08: да нет
+[05:14:40] Toxa08: обернись
+[05:14:44] Шайтан: блять моя машина
+[05:14:54] Шайтан: да
+[05:14:56] Chelik333 killed XLEBYC using tfa_doik98_scop
+[05:14:57] Шайтан: да
+[05:15:03] Шайтан: ПРЯИКИ ПОМОГИ
+[05:15:07] Шайтан: Я ПМИЗДА МЕДЛЕНЫЙ
+[05:15:34] Toxa08 killed Chelik333 using tfa_doim1carbine
+[05:15:54] KIRKA killed Pedro using ent_jack_gmod_ezsticknade
+[05:15:54] Chelik333 killed KIRKA using env_explosion
+[05:16:30] Chelik333 was killed by entityflame
+[05:16:44] Chelik333 killed klinskoe za 200 using tfa_doithompsonm1a1
+[05:16:48] Toxa08 killed Chelik333 using tfa_doim1carbine
+[05:17:05] Шайтан killed Chelik333 using tfa_blast_sjogren
+[05:17:08] Польские Пряники: РЕБЯТ??
+[05:17:12] Польские Пряники: ПОЛЯКОВ??
+[05:17:17] Польские Пряники: НОМЕРОК
+[05:17:22] Польские Пряники: ТУТ ВОЗЬМУ
+[05:17:23] Шайтан killed Chelik333 using tfa_blast_sjogren
+[05:17:32] Польские Пряники: БЛИН
+[05:17:36] Польские Пряники: ЛАДНО ТОГДА
+[05:17:42] Польские Пряники: ЕСЛИ ЧТО МАСКУ ОДЕНУ
+[05:17:57] Client "PoPcat" connected.
+[05:18:12] Chelik333 killed Toxa08 using tfa_doig43
+[05:18:20] Toxa08: НУ ЧЕЛ
+[05:18:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuellantern
+[05:18:48] Chelik333 killed Шайтан using tfa_doig43
+[05:18:54] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 57 seconds).
+[05:18:56] klinskoe za 200 killed Chelik333 using tfa_doi_m16a1
+[05:19:39] klinskoe za 200 killed Chelik333 using tfa_doi_m16a1
+[05:19:45] Шайтан: ЕБАНАЯ ЧТОРКА
+[05:19:53] Toxa08: верталет
+[05:20:05] Chelik333: ПОШЛИ ВОН
+[05:20:24] Шайтан killed Chelik333 using tfa_blast_sjogren
+[05:20:37] Шайтан killed Chelik333 using tfa_blast_sjogren
+[05:20:51] Польские Пряники: ПРИВЕТ
+[05:20:56] PoPcat: Хай
+[05:20:59] Шайтан: бялть если не чторка я бы тебя убил
+[05:21:02] Польские Пряники: ЧТО ПРОИСХОДИТ
+[05:21:05] PoPcat: а чё со звуками?
+[05:21:07] PoPcat: [p
+[05:21:07] Польские Пряники: Я СЛЫШАЛ ВЗРЫВЫ НА УЛИЦЕ
+[05:21:10] Польские Пряники: НЕ ЗНАЮ
+[05:21:10] PoPcat: хз
+[05:21:16] PoPcat: я только пришёл
+[05:21:23] Польские Пряники: ЛАДНО ТОГДА
+[05:21:28] Польские Пряники: МНЕ ПОКА ЧТО НЕЧЕМ ТЕБЯ УГОСТИТЬ
+[05:21:44] Client "Тигр55" connected.
+[05:21:51] Польские Пряники<STEAM_0:0:555258766> spawned model models/jmod/resources/ez_paper.mdl
+[05:21:57] Шайтан: клин
+[05:22:07] Шайтан: отоййди к деду
+[05:22:29] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[05:22:29] KIRKA suicided!
+[05:22:30] Польские Пряники<STEAM_0:0:555258766> spawned model models/jmod/resources/diamondbox_open.mdl
+[05:22:48] Toxa08: дед по нам стрелял
+[05:22:51] Toxa08: мы его 
+[05:22:59] Польские Пряники<STEAM_0:0:555258766> spawned model models/jmod/items/medjit_medium.mdl
+[05:23:05] Toxa08 killed Chelik333 using tfa_doim1carbine
+[05:23:06] Польские Пряники: ЧТО ЗА
+[05:23:38] klinskoe za 200 killed Chelik333 using tfa_doi_m16a1
+[05:23:46] Польские Пряники: ПРИВЕТ
+[05:23:47] Польские Пряники: НЕТ
+[05:24:35] Шайтан: я тебя избавлю от страданий
+[05:24:40] Шайтан killed PoPcat using tfa_blast_sjogren
+[05:24:49] Dropped "PoPcat" from server<STEAM_0:1:564871456>
+[05:24:49] PoPcat suicided!
+[05:24:50] Client "PoPcat" connected.
+[05:25:07] Client "Тигр55" spawned in server <STEAM_0:1:129427106> (took 203 seconds).
+[05:25:13] Toxa08: да
+[05:25:18] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 28 seconds).
+[05:25:27] Польские Пряники: А ВЫ ЖЕ ЕГО УПУСТИЛИ
+[05:25:27] Шайтан: дай тул бокс я посмотрю хп
+[05:25:29] Польские Пряники: ОН СБЕЖАЛ
+[05:25:35] Шайтан: дай посмотрю
+[05:25:40] Шайтан: блять
+[05:25:44] Шайтан: она чинится?
+[05:25:44] Toxa08: дед там
+[05:25:44] Польские Пряники: ЛАДНО ТОГДА
+[05:25:51] Польские Пряники: ДА ЧИНИТСЯ
+[05:25:51] Шайтан: у нее 577 из 600
+[05:26:17] Польские Пряники: .*inv*
+[05:26:23] Шайтан: все
+[05:26:32] Шайтан: нету столицы у него
+[05:26:32] (TEAM) klinskoe za 200: bind i jmod_ez_inv
+[05:26:43] Toxa08: goy
+[05:27:12] PoPcat: фыв
+[05:27:47] Шайтан: бялть го снесем здание на 0
+[05:27:51] Шайтан: альт е
+[05:28:09] Шайтан: бялть
+[05:28:38] XLEBYC: !motd
+[05:28:47] Шайтан: можешь одеть броню
+[05:28:51] Pedro: !motd
+[05:28:56] Toxa08: !motd
+[05:29:03] Шайтан: БЯЛТЬ ГДЕ МОЙ ШЛЕМ
+[05:29:04] Dropped "kudalev" from server<STEAM_0:0:21670625>
+[05:29:04] kudalev suicided!
+[05:29:20] Шайтан: поликов
+[05:29:24] Шайтан: поялков
+[05:29:28] Шайтан: ПОЛЯКОВ
+[05:29:35] Шайтан: даш радио?
+[05:29:37] Toxa08: у меня на n
+[05:29:40] Шайтан: поля
+[05:29:45] Шайтан: ПОЛОЛЛЯЛЯЛЯЛЯЛЯЛ
+[05:29:53] Шайтан: ДАЙ РАДИО ПО БРАСТКИ
+[05:30:02] Шайтан: спасибки
+[05:31:23] Toxa08: сам
+[05:31:51] Польские Пряники: ОГНЕМЕТ
+[05:31:59] Шайтан: БЕЖИМ
+[05:32:07] Польские Пряники: ПРАЗДНИК
+[05:32:10] Шайтан: 30 сек
+[05:32:27] Шайтан: он в чат смотрит?
+[05:32:36] Toxa08: нет
+[05:32:37] Шайтан: надо прм туда
+[05:32:39] Польские Пряники: ГОРОХ РАЗЛЕТЕЛСЯ
+[05:33:48] (TEAM) Шайтан: кароче заносите взрывчатку
+[05:34:19] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituretable002a.mdl
+[05:34:30] Шайтан: БУМ
+[05:34:34] Шайтан: 1
+[05:34:35] Шайтан: 2
+[05:34:37] Шайтан: 3
+[05:34:39] Шайтан: 4
+[05:34:41] Шайтан: 5
+[05:35:02] Client "Джон" connected.
+[05:35:30] Шайтан: ВАО НМОЙ ШЛЕМ\
+[05:35:51] Польские Пряники: ЧУВАК ДАЙ ТЕЛЕФОНЧИК
+[05:35:52] Польские Пряники: ЗВОНИЛКУ
+[05:35:56] Польские Пряники: ПОЗВОНИТЬ
+[05:35:59] Шайтан: альт е
+[05:36:01] Польские Пряники: ПРИЕМ
+[05:36:02] Польские Пряники: АЛЕ
+[05:36:02] Шайтан: альт е
+[05:36:03] Dropped "Тигр55" from server<STEAM_0:1:129427106>
+[05:36:03] Тигр55 suicided!
+[05:36:04] Польские Пряники: ЕСТЬ КТО?
+[05:36:09] Шайтан: АЛЬТ Е
+[05:36:12] Польские Пряники: ТВАРИ
+[05:36:19] Шайтан: ОРУЖИЕМ В РУКАх
+[05:36:26] Toxa08: ммм кайф
+[05:36:27] Польские Пряники: ОСТАВИЛИ МЕНЯ  ТУТ
+[05:36:29] Польские Пряники: ОДНОГО
+[05:36:31] Шайтан: поянтно
+[05:36:37] Toxa08: у меня что есть рация?
+[05:36:48] Toxa08: багуля у тебя
+[05:36:57] Шайтан: нет
+[05:37:01] Шайтан: мы на 0 взорвали 
+[05:37:17] Шайтан killed Pedro using ent_jack_gmod_ezstickynade
+[05:37:27] Шайтан suicided!
+[05:37:36] Toxa08: мда
+[05:37:45] Toxa08: ЧЕ ТУТ ДЕД ДЕЛАЕТ
+[05:37:48] Шайтан: это чупачупс
+[05:37:51] Польские Пряники: ЧТО ПРОИСХОДИТ
+[05:37:56] Toxa08: ВЫКИНЬ ПЖ
+[05:38:03] Польские Пряники: ПОЛЯКОВ
+[05:38:05] Шайтан: бялть он чат не смотрит?
+[05:38:06] Польские Пряники: Я НАШЕЛ МАФИЮ
+[05:38:08] Польские Пряники: В БАРЕ
+[05:38:17] Шайтан: я его за это взорвал
+[05:38:22] Toxa08: надо ли?
+[05:38:27] Польские Пряники: НУ ЛАДНО
+[05:38:27] Toxa08: нам бы деньги вернуть 
+[05:38:38] Польские Пряники to admins: Я ЕЩЕ ВЧЕРА ЭТО ВСЕ СДЕЛАЛ
+[05:38:39] Toxa08: ну иди я буду зарабатывать
+[05:38:55] Toxa08: если умный такой то сам
+[05:38:57] Toxa08: подключи
+[05:39:04] Toxa08: он на обрыве
+[05:39:05] Toxa08: чел
+[05:39:50] Toxa08: але
+[05:39:52] Toxa08: есть кто
+[05:40:06] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnitureshelf001b.mdl
+[05:40:06] Шайтан: клин мы взрывали дом
+[05:40:09] Шайтан: на 0
+[05:40:14] Шайтан: этого ебаната
+[05:40:16] Client "CYBORG_CLASSIC" connected.
+[05:40:20] Шайтан: а еще
+[05:40:24] Шайтан: мой труп в канав
+[05:40:31] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuellantern
+[05:40:38] Шайтан: дай радио не надолго по братски
+[05:40:49] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuellantern
+[05:41:10] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuellantern
+[05:41:34] P0lyakov: !menu
+[05:41:36] (Csay from P0lyakov) Хотите сменить карту?
+[05:41:37] (Csay from P0lyakov) Хотите сменить карту?
+[05:41:38] (Csay from P0lyakov) Хотите сменить карту?
+[05:41:55] Шайтан: ты даун?
+[05:41:59] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezsmokenade
+[05:42:07] Шайтан: НА Е
+[05:42:14] Шайтан: НА ДВЕРЬ
+[05:42:19] Шайтан: НЕТ
+[05:42:43] P0lyakov: !menu
+[05:42:59] P0lyakov started a votemap for gm_whiten
+[05:43:01] Польские Пряники voted for: No
+[05:43:01] Шайтан voted for: No
+[05:43:02] Toxa08 voted for: Yes
+[05:43:02] Chelik333 voted for: No
+[05:43:03] novohopersk90 voted for: No
+[05:43:05] Шайтан: ща
+[05:43:05] Польские Пряники: НЕИИИ
+[05:43:09] P0lyakov voted for: No
+[05:43:18] P0lyakov: !menu
+[05:43:19] Шайтан: мой труп
+[05:43:19] Vote results: Vote was unsuccessful.
+[05:43:21] P0lyakov started a votemap for gm_whiten
+[05:43:22] Польские Пряники voted for: No
+[05:43:22] novohopersk90 voted for: No
+[05:43:23] Chelik333 voted for: No
+[05:43:23] Toxa08 voted for: Yes
+[05:43:24] klinskoe za 200 voted for: No
+[05:43:28] Шайтан voted for: Yes
+[05:43:30] P0lyakov: !menu
+[05:43:33] P0lyakov voted for: No
+[05:43:34] PoPcat voted for: Yes
+[05:43:34] P0lyakov: !menu
+[05:43:35] XLEBYC voted for: Yes
+[05:43:36] Шайтан: ЭТО Я
+[05:43:37] Польские Пряники to admins: ПОСМОТРИ НА УЮТ
+[05:43:41] Vote results: Vote was unsuccessful.
+[05:43:49] Шайтан: да
+[05:43:58] Шайтан: СМОТРИ
+[05:44:06] Шайтан: а топлива нету
+[05:44:10] PoPcat: АХАХАХАХАХАХАХАХАХАХ\Э
+[05:44:27] Шайтан: он читает по слогам кста
+[05:44:53] Шайтан: садись
+[05:44:55] P0lyakov: !menu
+[05:45:00] Шайтан: отсяд назад поп
+[05:45:04] P0lyakov started a votemap for gm_bigcity
+[05:45:05] Польские Пряники voted for: No
+[05:45:05] Chelik333 voted for: Yes
+[05:45:05] XLEBYC voted for: Yes
+[05:45:06] PoPcat voted for: Yes
+[05:45:06] klinskoe za 200 voted for: Yes
+[05:45:06] Toxa08 voted for: Yes
+[05:45:07] Шайтан voted for: Yes
+[05:45:09] P0lyakov voted for: Yes
+[05:45:12] Pedro voted for: Yes
+[05:45:12] Польские Пряники to admins: КАКОЙ БИГСИТИ
+[05:45:14] Client "Джон" spawned in server <STEAM_0:1:743083427> (took 612 seconds).
+[05:45:18] P0lyakov to admins: troll
+[05:45:19] Польские Пряники to admins: УЮТНЕНЬКО ТУТ
+[05:45:22] novohopersk90 voted for: No
+[05:45:22] Vote results: Option 'Yes' won, changemap pending approval. (8/10)
+[05:45:27] P0lyakov voted for: Yes
+[05:45:27] P0lyakov approved the votemap
+[05:45:27] Server is shutting down/changing levels.
+
+
+
+[05:45:41] New map: gm_bigcity
+[05:45:44] Client "мне 12 годиков" connected.
+[05:46:11] Client "XLEBYC" spawned in server <STEAM_0:1:615225475> (took 35 seconds).
+[05:46:12] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 36 seconds).
+[05:46:14] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 38 seconds).
+[05:46:16] Client "P0lyakov" spawned in server <STEAM_0:0:60570605> (took 40 seconds).
+[05:46:19] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 43 seconds).
+[05:46:20] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 44 seconds).
+[05:46:21] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 45 seconds).
+[05:46:25] Client "Pedro" spawned in server <STEAM_0:1:577755325> (took 49 seconds).
+[05:46:31] Client "novohopersk90" spawned in server <STEAM_0:0:538797841> (took 55 seconds).
+[05:46:35] Шайтан: !menu
+[05:46:39] Client "Джон" spawned in server <STEAM_0:1:743083427> (took 63 seconds).
+[05:46:41] Client "мне 12 годиков" connected.
+[05:46:48] Шайтан to admins: messagepfrhjxqnt yt,jcrhj, evjkz. dfc
+[05:46:59] Client "Sennixxx♥" connected.
+[05:47:05] Шайтан to admins: закройте небоскреб умоляю вас
+[05:47:08] PoPcat: шайтан
+[05:47:10] Шайтан: да?
+[05:47:10] (TEAM) PoPcat: го ко мне
+[05:47:14] Toxa08: газу
+[05:47:14] Шайтан: хммм
+[05:47:18] (TEAM) PoPcat: болотная братва
+[05:47:27] PoPcat: будем сидеть в какашказ
+[05:47:29] Toxa08: либо тут
+[05:47:33] Toxa08: либо на углу
+[05:47:36] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 120 seconds).
+[05:47:37] PoPcat: салам
+[05:47:37] Client "мне 12 годиков" connected.
+[05:47:37] Шайтан: я ваще эту карту не долюбливаю
+[05:47:46] Шайтан: из за небоскреб
+[05:47:57] Шайтан: XD
+[05:48:10] PoPcat: опа
+[05:48:15] PoPcat: вот это приуол
+[05:48:25] Шайтан: пошли тогда где нас не ддостанет небоскреб
+[05:48:33] Польские Пряники: https://youtu.be/oQHtat9VxrU
+[05:48:34] Шайтан: в гараже
+[05:48:37] Шайтан: не
+[05:48:41] Шайтан: только н та
+[05:48:45] Шайтан: НЕ
+[05:48:49] Шайтан: НЕ ХОЧУ ТУДА
+[05:48:54] Шайтан: ТАМ ВИДНО С НЕБОСКРЕБА
+[05:48:54] Client "CYBORG_CLASSIC" spawned in server <STEAM_0:1:795329949> (took 198 seconds).
+[05:48:58] Шайтан: ПОШЛИ
+[05:49:07] Шайтан: не знаю
+[05:49:53] PoPcat: ты чё
+[05:49:57] PoPcat: всё
+[05:50:18] Шайтан: БЕГИ
+[05:50:23] Польские Пряники to admins: ГО ТУТ СТРОИТ
+[05:50:59] Шайтан: это вес наше
+[05:51:03] PoPcat: кайф
+[05:51:24] P0lyakov: !bring Польские
+[05:51:25] Шайтан: толк темно
+[05:52:35] Джон killed Pedro using wep_jack_gmod_hands
+[05:53:08] Chelik333 killed Джон using wep_jack_gmod_ezaxe
+[05:53:24] Шайтан: фонарик бы
+[05:53:32] PoPcat: угу
+[05:54:36] Client "мне 12 годиков" spawned in server <STEAM_0:1:954426624> (took 419 seconds).
+[05:54:48] PoPcat: железо и нефтьэ
+[05:54:58] PoPcat: чё
+[05:55:20] PoPcat: эээээ
+[05:55:20] Chelik333 killed Джон using wep_jack_gmod_ezaxe
+[05:55:28] Chelik333 killed CYBORG_CLASSIC using rust_eoka
+[05:55:31] Шайтан: бял не место а гавно
+[05:55:31] Chelik333 killed Pedro using wep_jack_gmod_ezaxe
+[05:55:39] Шайтан: пошли в другой гараж
+[05:56:20] PoPcat: чекай
+[05:56:24] PoPcat: о
+[05:56:25] Шайтан: нормас
+[05:56:45] PoPcat: ну кал
+[05:56:45] Шайтан: сюда переезжаем
+[05:57:11] (TEAM) novohopersk90: 8
+[05:57:48] Chelik333 killed CYBORG_CLASSIC using rust_boltrifle
+[05:58:06] PoPcat: стой
+[05:58:07] Шайтан: кароче в гараже будем
+[05:58:16] Шайтан: нигде больше
+[05:58:20] PoPcat: надо физган скрафтить
+[05:58:25] Шайтан: дак ну
+[05:58:40] CYBORG_CLASSIC killed Pedro using wep_jack_gmod_hands
+[05:58:42] мне 12 годиков: TTR
+[05:58:59] мне 12 годиков: как оруиже взать\
+[06:00:22] Джон killed klinskoe za 200 using rust_boltrifle
+[06:00:34] мне 12 годиков killed Джон using rust_boltrifle
+[06:00:48] CYBORG_CLASSIC killed klinskoe za 200 using wep_jack_gmod_ezpickaxe
+[06:01:10] klinskoe za 200 killed Джон using tfa_doip38
+[06:01:20] klinskoe za 200 killed мне 12 годиков using tfa_doip38
+[06:02:11] klinskoe za 200 killed мне 12 годиков using tfa_doip38
+[06:02:14] Шайтан: XD
+[06:02:14] (TEAM) PoPcat: бляяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяя
+[06:02:24] Шайтан: стйо
+[06:03:05] klinskoe za 200 to admins: тп на меня пж
+[06:03:10] klinskoe za 200 killed мне 12 годиков using tfa_doip38
+[06:03:26] Польские Пряники: Я ЩЯ
+[06:03:32] P0lyakov: АФК
+[06:03:34] CYBORG_CLASSIC killed мне 12 годиков using wep_jack_gmod_ezpickaxe
+[06:03:39] klinskoe za 200 to admins: POLYAKOV МНЕ ПОМОЩЬ НУЖНА ОЧЕНЬ
+[06:04:12] klinskoe za 200: !motd
+[06:04:21] klinskoe za 200 killed мне 12 годиков using tfa_doip38
+[06:04:30] мне 12 годиков: !ьщв
+[06:04:30] Джон killed klinskoe za 200 using rust_boltrifle
+[06:05:22] CYBORG_CLASSIC killed мне 12 годиков using wep_jack_gmod_ezpickaxe
+[06:07:11] CYBORG_CLASSIC killed мне 12 годиков using rust_boltrifle
+[06:07:36] Chelik333 killed мне 12 годиков using tfa_doip38
+[06:08:27] Шайтан: ты где?
+[06:08:31] PoPcat: тут
+[06:08:38] PoPcat: чё такоу
+[06:09:11] PoPcat: у нас тунгус в сраке заспавнился
+[06:09:18] Шайтан: да похуй
+[06:09:34] PoPcat: радейку надо
+[06:09:40] Шайтан: нет
+[06:09:47] (TEAM) PoPcat: схуёв
+[06:09:59] Шайтан: мне нахуй не нужен ваш уран
+[06:10:02] Client ".aether" connected.
+[06:10:11] PoPcat: чё
+[06:10:15] PoPcat: ты о чём
+[06:10:26] PoPcat: я вообще месяц  не заходил
+[06:10:26] Шайтан: радейка это по твоему че?
+[06:10:35] PoPcat: рация
+[06:10:36] Client ".aether" spawned in server <STEAM_0:1:607773198> (took 34 seconds).
+[06:10:39] PoPcat: радио
+[06:10:39] Шайтан: АА
+[06:10:42] Шайтан: блять я тупой сори
+[06:11:01] Шайтан: купи на продажу ченить
+[06:11:59] Client "LonePlayer022" connected.
+[06:12:13] Шайтан: металла нету
+[06:12:14] Шайтан: =(
+[06:12:35] Шайтан: вот что продай
+[06:12:42] PoPcat: о
+[06:12:43] PoPcat: ок
+[06:12:44] Шайтан: дорогая
+[06:12:45] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 46 seconds).
+[06:13:25] Шайтан: стой
+[06:13:30] PoPcat: чё
+[06:13:55] Шайтан: все
+[06:14:02] Шайтан: БЫСТРЕЕ
+[06:14:04] Шайтан: ОНО ДЕШЕВЕт
+[06:14:10] PoPcat: оооооо
+[06:14:25] Client "бугагашенька" connected.
+[06:15:13] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 48 seconds).
+[06:15:35] klinskoe za 200 killed LonePlayer022 using tfa_doisten
+[06:15:44] Dropped ".aether" from server<STEAM_0:1:607773198>
+[06:15:44] .aether suicided!
+[06:15:55] Dropped "мне 12 годиков" from server<STEAM_0:1:954426624>
+[06:15:55] мне 12 годиков suicided!
+[06:16:49] (TEAM) Шайтан: бялть
+[06:16:52] Шайтан: в чем прикол
+[06:16:58] Client ".aether" connected.
+[06:16:59] Шайтан: смотри
+[06:17:04] Шайтан: попкэт
+[06:17:08] Шайтан: иди сюда
+[06:17:20] Client ".aether" spawned in server <STEAM_0:1:607773198> (took 22 seconds).
+[06:17:48] Шайтан: прикинь не прокачивается
+[06:17:56] (TEAM) PoPcat: кал
+[06:18:01] Шайтан: посмотри
+[06:18:04] Шайтан: сам
+[06:18:08] Шайтан: в чем комичность
+[06:18:44] Шайтан: че встал?
+[06:19:03] PoPcat: секу афк
+[06:19:25] Джон: !motd
+[06:19:34] .aether: !motd
+[06:19:45] Шайтан: посмотри
+[06:19:53] PoPcat: чё
+[06:19:58] PoPcat: xdd
+[06:20:00] Шайтан: ну просто нажми
+[06:20:11] .aether: !motd
+[06:20:16] PoPcat: я понял
+[06:20:20] Шайтан: она есть
+[06:20:24] Джон: !motd
+[06:20:24] Шайтан: ты понимашь
+[06:20:26] Шайтан: 1
+[06:20:57] .aether: !motd
+[06:21:13] Джон: !motd
+[06:21:27] PoPcat: погна сделаем монолит из мусора
+[06:21:35] .aether: !motd
+[06:21:36] Джон: !motd
+[06:21:37] Шайтан: не есть план по лучше
+[06:21:45] PoPcat: какой?
+[06:21:47] Chelik333 to admins: тепнись, вопросик есть
+[06:21:51] Шайтан: зделать из керамики
+[06:21:53] Польские Пряники teleported to Chelik333
+[06:21:53] Польские Пряники: !GOTO CHE
+[06:21:56] Шайтан: я делал уже культ
+[06:22:00] PoPcat: сделать
+[06:22:03] PoPcat: я тоже
+[06:22:21] PoPcat: а мы кому поклоняемся?
+[06:22:29] Шайтан: треугольнику с глазом
+[06:22:30] Джон: !motd
+[06:22:37] Шайтан: все око
+[06:22:40] PoPcat: j
+[06:22:43] PoPcat: ок
+[06:22:46] Польские Пряники: !BRING
+[06:22:48] Польские Пряники: ОЙ
+[06:22:55] Dropped "Джон" from server<STEAM_0:1:743083427>
+[06:22:55] Джон suicided!
+[06:22:56] Польские Пряники: ПОПРОСИ РУСЛАНА
+[06:22:57] Шайтан: ты же знаешь кто такой все око
+[06:22:58] Польские Пряники: ОН ПОДУМАЕТ
+[06:23:14] Client "Blutsauger" connected.
+[06:23:28] Польские Пряники returned Themself to their original position
+[06:23:28] Польские Пряники: !RETURN
+[06:24:07] PoPcat: я приколы искать
+[06:24:13] Шайтан: какие?
+[06:24:17] PoPcat: ресы
+[06:24:22] Шайтан: не
+[06:24:25] Шайтан: и так вес есть уже
+[06:24:29] Client "Джон" connected.
+[06:24:30] Шайтан: нужное
+[06:24:41] PoPcat: ну тип
+[06:24:54] Шайтан: покапай воды лучше
+[06:24:58] Шайтан: киркой
+[06:25:02] Шайтан: ящик деревеняй
+[06:25:02] PoPcat: ща
+[06:25:15] Шайтан: минут 10 займет
+[06:25:26] Client "Джон" spawned in server <STEAM_0:1:743083427> (took 57 seconds).
+[06:25:26] Шайтан: а че ты собрался копать?
+[06:25:40] Шайтан: я ваще планировал прятотся
+[06:25:46] Шайтан: не высовываясь
+[06:25:47] PoPcat: керамику
+[06:25:53] Шайтан: ток там есть да?
+[06:25:58] PoPcat: ды
+[06:26:02] Шайтан: ладно
+[06:26:29] (TEAM) бугагашенька: !motd
+[06:26:39] (TEAM) бугагашенька: jmod_ez_inv
+[06:27:20] Джон: !motd
+[06:27:48] klinskoe za 200 killed Pedro using player
+[06:28:05] Шайтан: прожектор бы
+[06:28:09] PoPcat: бы
+[06:28:27] klinskoe za 200 killed Pedro using tfa_doisten
+[06:28:51] PoPcat: секу
+[06:30:47] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[06:31:02] Польские Пряники cloaked Themself by amount 0
+[06:31:02] Польские Пряники: !CLOAK
+[06:31:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[06:31:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[06:31:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_jsmod_ezcargoplane
+[06:31:32] Польские Пряники uncloaked Themself
+[06:31:32] Польские Пряники: !UNCLOAK
+[06:31:39] klinskoe za 200 killed Pedro using tfa_doisten
+[06:31:43] PoPcat: короче
+[06:31:49] PoPcat: мне надо идти
+[06:31:56] Шайтан: иди уже
+[06:32:02] PoPcat: было приятно поиграть
+[06:32:05] Dropped "PoPcat" from server<STEAM_0:1:564871456>
+[06:32:05] PoPcat suicided!
+[06:32:13] Client "Купитман" connected.
+[06:32:16] klinskoe za 200 killed Pedro using tfa_doisten
+[06:33:19] Pedro: !motd
+[06:33:55] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[06:33:55] Chelik333 suicided!
+[06:38:21] Client "PUNKLORD" connected.
+[06:39:13] Client "PUNKLORD" spawned in server <STEAM_0:0:31766296> (took 52 seconds).
+[06:41:18] Client "Купитман" spawned in server <STEAM_0:0:544720880> (took 545 seconds).
+[06:41:21] Client "🐉🅱🅻🅸🅽🅺🅴🐉" connected.
+[06:41:36] Dropped "Купитман" from server<STEAM_0:0:544720880>
+[06:41:36] Купитман suicided!
+[06:43:15] Client "liefriend8" connected.
+[06:47:10] Client "Engineer_gaming2728e" connected.
+[06:47:57] .aether: !motd
+[06:48:53] Pedro killed .aether using tfa_doienfield
+[06:49:10] Client "domypa3" connected.
+[06:49:44] Client "Reich" connected.
+[06:49:51] Client "🐉🅱🅻🅸🅽🅺🅴🐉" spawned in server <STEAM_0:0:213822940> (took 510 seconds).
+[06:52:50] Польские Пряники: f
+[06:53:30] Польские Пряники: привет
+[06:53:30] Toxa08: хай
+[06:53:31] Польские Пряники: друг
+[06:53:41] Польские Пряники: нет
+[06:53:54] Шайтан: драсте
+[06:54:07] Шайтан: ДРАСТВУЙТЕ
+[06:54:32] Шайтан: там кто ни буть есть?
+[06:54:43] PUNKLORD killed 🐉🅱🅻🅸🅽🅺🅴🐉 using rust_eoka
+[06:54:54] Шайтан: драсте
+[06:54:57] Toxa08: хай
+[06:55:09] Шайтан: а вы добрие?
+[06:55:14] Toxa08: конечно
+[06:55:19] Шайтан: ну это хорошо
+[06:55:24] Toxa08: Согласен
+[06:55:33] Pedro killed 🐉🅱🅻🅸🅽🅺🅴🐉 using tfa_doienfield
+[06:55:45] PUNKLORD killed PUNKLORD
+[06:56:10] бугагашенька: ко мне мама зашла когда я сказал я нацик
+[06:56:32] Польские Пряники: ВЫ КТО
+[06:56:36] Шайтан: вы добри?
+[06:56:41] Польские Пряники: МЫ ПОЛИСМЕНЫ
+[06:56:42] Шайтан: кстати
+[06:56:47] Польские Пряники: ПРОХОД ЗАПРЕЩЕН
+[06:56:50] Шайтан: вы продаети прожектора?
+[06:56:51] бугагашенька: так
+[06:56:53] Польские Пряники: НЕТ
+[06:56:55] бугагашенька: слушате меня сюда
+[06:56:57] Шайтан: жалкко
+[06:56:59] бугагашенька: у вас здание
+[06:57:05] Шайтан: мне реально не зватает света
+[06:57:11] бугагашенька: зделайте водокачку и дрель
+[06:57:15] бугагашенька: бур*
+[06:57:48] бугагашенька: ПО НАМ ОБСТРЕЛ
+[06:57:55] Toxa08: хай
+[06:58:02] Dropped ".aether" from server<STEAM_0:1:607773198>
+[06:58:02] .aether suicided!
+[06:58:27] бугагашенька: можно
+[06:58:34] Шайтан: я просто знакомлюсь со всеми
+[06:58:55] Client "Reich" spawned in server <STEAM_0:1:441177816> (took 551 seconds).
+[06:59:17] PUNKLORD: supply radio: builder kit
+[06:59:41] Шайтан: че так трупов много
+[06:59:52] Шайтан: вы вступте в мой культ?
+[07:00:04] Шайтан: на ф 4
+[07:00:18] Client "liefriend8" spawned in server <STEAM_0:0:866015802> (took 1023 seconds).
+[07:00:18] Шайтан: культ все око
+[07:00:23] Шайтан: запрос
+[07:00:28] Шайтан: так ты
+[07:00:33] Шайтан: перестань
+[07:00:46] Шайтан: садись
+[07:01:08] Шайтан killed Reich using tfa_blast_sjogren
+[07:01:14] Pedro killed 🐉🅱🅻🅸🅽🅺🅴🐉 using tfa_doienfield
+[07:01:19] Шайтан: все
+[07:01:22] Шайтан: зачем его то
+[07:01:36] Dropped "liefriend8" from server<STEAM_0:0:866015802>
+[07:01:36] liefriend8 suicided!
+[07:01:47] Шайтан: да
+[07:02:01] Шайтан: это список в скваде
+[07:03:25] Client "liefriend8" connected.
+[07:03:44] Dropped "🐉🅱🅻🅸🅽🅺🅴🐉" from server<STEAM_0:0:213822940>
+[07:03:44] 🐉🅱🅻🅸🅽🅺🅴🐉 suicided!
+[07:03:57] бугагашенька: мазшинес
+[07:04:29] Шайтан: !motd
+[07:04:38] Шайтан: jmod_ez_inv
+[07:05:27] Client "liefriend8" spawned in server <STEAM_0:0:866015802> (took 122 seconds).
+[07:05:46] Шайтан: bind g "jmod_ez_inv"
+[07:06:28] Шайтан: esc
+[07:06:38] liefriend8 killed Reich using wep_jack_gmod_hands
+[07:07:04] liefriend8: !motd
+[07:07:17] liefriend8: !motd
+[07:07:22] novohopersk90: прив
+[07:07:39] novohopersk90: так тебе задание
+[07:07:49] novohopersk90: у тебя инвентарь забиндень?
+[07:07:55] Reich: /me Показал военный билет: Морозов К.М | МТР | 810-я гв.оБрМП | СТРЛК |-|-
+[07:07:57] novohopersk90: !motd
+[07:08:00] Reich: /me Показал военный билет: Морозов К.М | МТР | 810-я гв.оБрМП | СТРЛК |-|-
+[07:08:11] novohopersk90: bind I jmod_ez_inv
+[07:08:12] Reich: !motd
+[07:08:15] novohopersk90: в консоль
+[07:08:24] liefriend8: !motd
+[07:08:34] Client "скачать искусственный интернет" connected.
+[07:08:53] novohopersk90: просто скопируй
+[07:08:58] novohopersk90: и в консоль вставь
+[07:09:14] novohopersk90: а ну нажми i
+[07:09:30] novohopersk90: нажми 4 или scrounge
+[07:09:38] Шайтан: bind g "jmod_ez_inv"
+[07:09:43] novohopersk90: вот видишь у тебя появились предметы
+[07:09:57] бугагашенька: если есть вопросы пишите в  чате
+[07:10:04] novohopersk90: я щас тебе набор сделаю 
+[07:10:08] novohopersk90: для разборки
+[07:10:24] novohopersk90: так надо
+[07:10:26] novohopersk90: для оптимизацири
+[07:10:44] novohopersk90: ъ
+[07:10:46] Dropped "liefriend8" from server<STEAM_0:0:866015802>
+[07:10:46] liefriend8 suicided!
+[07:10:48] novohopersk90: вещички дай
+[07:11:04] novohopersk90: скроундж
+[07:11:20] novohopersk90: берешь предмет
+[07:11:25] novohopersk90: и об этот стол
+[07:11:27] Шайтан: y
+[07:11:29] Шайтан: Y
+[07:11:41] novohopersk90: вот это пластик
+[07:11:51] novohopersk90: похуй джибимод так не думает
+[07:11:54] novohopersk90: так ща
+[07:12:13] novohopersk90: получился это
+[07:12:16] Шайтан: Y
+[07:12:24] Toxa08: ТУК ТУК
+[07:12:25] Client "[RK]я топ" connected.
+[07:12:28] novohopersk90: всмысле что
+[07:12:30] Pedro: уыыф
+[07:12:31] Toxa08: ЕСТЬ КТО
+[07:12:48] novohopersk90: скроундж
+[07:12:59] novohopersk90: нажми 4 в инвентаре
+[07:13:16] Шайтан: bind g "jmod_ez_inv"
+[07:13:24] novohopersk90: мы это ищем по рп
+[07:13:27] novohopersk90: да
+[07:13:37] Шайтан: bind g "jmod_ez_inv"
+[07:13:43] novohopersk90: мы это разбираем
+[07:13:49] novohopersk90: да
+[07:13:56] Client "Монки Ди Луффи" connected.
+[07:14:29] Toxa08: Здрасте!
+[07:14:35] Toxa08: Вы же полиция?
+[07:14:39] Client "Топ 1 детского сад" connected.
+[07:14:44] novohopersk90: вот смари
+[07:14:49] novohopersk90: на альт е брат
+[07:14:50] Toxa08: Хотелось бы сообщить о частых выстрелах на свалке
+[07:14:59] Шайтан: bind g "jmod_ez_inv"
+[07:15:00] Toxa08: что-то явно не доброе там творится 
+[07:15:16] novohopersk90: ну вот
+[07:15:23] novohopersk90: да
+[07:15:26] novohopersk90: короче
+[07:15:34] novohopersk90: задрачивай кнопку 4 пока машина не выпадет
+[07:15:49] Client "Монки Ди Луффи" connected.
+[07:15:50] novohopersk90: в инвентаре
+[07:15:53] novohopersk90: ищи предметы
+[07:16:05] novohopersk90: крафтить
+[07:16:07] novohopersk90: ну смари
+[07:16:10] novohopersk90: жми тут е
+[07:16:18] novohopersk90: и пункт weapons
+[07:16:31] novohopersk90: тут иследовать надо
+[07:16:33] novohopersk90: ииссссс
+[07:16:50] novohopersk90: разбираб
+[07:17:10] novohopersk90: вот смари
+[07:17:15] novohopersk90: тут самое ценно тангстен
+[07:17:24] novohopersk90: с него я как то 18к фармил
+[07:17:25] novohopersk90: за сотку
+[07:17:29] Toxa08: сообщил и выехала полиция
+[07:17:33] novohopersk90: чтоб покупать вещички
+[07:17:34] novohopersk90: машины
+[07:17:36] novohopersk90: ресы
+[07:17:43] Шайтан: esc
+[07:17:49] novohopersk90: склад можно скрафтить
+[07:17:57] novohopersk90: 200 максимум
+[07:18:09] Toxa08: всм
+[07:18:17] Toxa08: у стены ставь
+[07:18:18] Toxa08: его
+[07:18:21] Toxa08: ну начало
+[07:18:22] Client "[RK]я топ" spawned in server <STEAM_0:1:918106896> (took 357 seconds).
+[07:18:22] Toxa08: забора
+[07:18:43] Шайтан killed Pedro using tfa_blast_sjogren
+[07:19:23] novohopersk90: вот ставишь ящик рядом
+[07:19:29] novohopersk90: и вытаскивать не надо ничего чтоб скрафтить
+[07:19:33] novohopersk90: удобно
+[07:20:02] Toxa08: а?
+[07:20:25] Toxa08: глуши
+[07:20:25] novohopersk90: это самолет заберет
+[07:20:31] novohopersk90: на базу
+[07:20:36] novohopersk90: я смогу вернуть потом
+[07:20:42] novohopersk90: но я продам
+[07:20:47] novohopersk90: потому что нам пока это не нужно
+[07:21:01] novohopersk90: так чекай
+[07:21:05] novohopersk90: щас радио создаем
+[07:21:09] novohopersk90: и фармим бабосики
+[07:21:32] novohopersk90: ой
+[07:21:38] novohopersk90: вот
+[07:21:44] novohopersk90: его надо питать электричеством
+[07:21:51] novohopersk90: надо ПИТАТЬ
+[07:22:07] novohopersk90: боже шлюхи
+[07:22:22] novohopersk90: ты чл
+[07:22:23] novohopersk90: чо
+[07:23:16] бугагашенька: я тут
+[07:23:20] novohopersk90: блин пусть пока зарядитося
+[07:23:22] novohopersk90: как телефон
+[07:23:47] Dropped "PUNKLORD" from server<STEAM_0:0:31766296>
+[07:23:47] PUNKLORD suicided!
+[07:24:11] novohopersk90: так смотри
+[07:24:13] novohopersk90: альт е м
+[07:24:53] Dropped "[RK]я топ" from server<STEAM_0:1:918106896>
+[07:24:53] [RK]я топ suicided!
+[07:25:13] novohopersk90: ща
+[07:25:53] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezuranium
+[07:26:06] Шайтан: !menu
+[07:26:09] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezgold
+[07:26:15] novohopersk90: скажи supply radio:help
+[07:26:21] Шайтан to admins: блять спасите умоляю 
+[07:26:28] Reich: supply radio:help
+[07:26:32] P0lyakov: !menu
+[07:26:34] novohopersk90: не бей даун
+[07:26:38] P0lyakov teleported to Шайтан
+[07:26:38] P0lyakov: !goto Шайтан
+[07:26:40] novohopersk90: скажи supply radio: help
+[07:26:54] Reich: supply radio:help
+[07:26:58] novohopersk90: да не так
+[07:27:03] novohopersk90: отступи от радир
+[07:27:06] novohopersk90: радио
+[07:27:07] novohopersk90: хелп
+[07:27:10] Client "скачать искусственный интернет" spawned in server <STEAM_0:1:583858727> (took 1116 seconds).
+[07:27:20] novohopersk90: с supply radio: help
+[07:27:27] Reich: supply radio:help
+[07:27:32] novohopersk90: скопируй просто мое сообщение
+[07:27:33] Reich: /help supply radio:help
+[07:27:39] Reich: !help supply radio:help
+[07:27:42] novohopersk90: ДА НЕ ТАК
+[07:27:44] бугагашенька: ну кароче все спросите потом
+[07:27:45] Reich: kak
+[07:27:47] бугагашенька: у других
+[07:27:49] Reich: da kaaaak
+[07:27:49] novohopersk90:  supply radio: help
+[07:27:50] бугагашенька: я поехал
+[07:27:55] Reich: supply radio: help
+[07:27:55] бугагашенька: угу
+[07:27:58] бугагашенька: зырь
+[07:28:00] novohopersk90: ну так же
+[07:28:03] novohopersk90: ток без пробела сначало
+[07:28:07] novohopersk90: вначале
+[07:28:12] Reich: supplyradio:help
+[07:28:12] novohopersk90: и подойди сюда
+[07:28:16] novohopersk90: ДА СНАЧАЛА
+[07:28:25] novohopersk90:  supply radio: help
+[07:28:31] novohopersk90: САПЛИ РАДИО С ПРОБЕЛОМ
+[07:28:34] Reich: help:supply radio
+[07:28:37] novohopersk90: нет
+[07:28:39] novohopersk90: да ты даун
+[07:28:42] бугагашенька suicided!
+[07:28:46] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[07:28:46] бугагашенька suicided!
+[07:28:48] novohopersk90: не беси меня гоша
+[07:28:53] novohopersk90: ВОТ СМОТРИ
+[07:28:56] novohopersk90:  supply radio: help
+[07:28:59] novohopersk90: пиш
+[07:29:13] Reich:  supply radio: help
+[07:29:21] Reich:  supply radio:help
+[07:29:24] novohopersk90: да
+[07:29:27] novohopersk90: и без пробела вначале
+[07:29:33] Reich: supply radio: help
+[07:29:34] novohopersk90: ты с пробелом пишишь
+[07:29:45] Reich: supply radio: help
+[07:29:49] novohopersk90: подойди к радио
+[07:29:49] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[07:29:49] Шайтан suicided!
+[07:30:00] novohopersk90: терь говори
+[07:30:07] Reich: supply radio:help
+[07:30:21] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezarmor_flametank
+[07:30:27] novohopersk90: ну наконец то
+[07:30:38] novohopersk90: тут список да
+[07:30:40] novohopersk90: НО СТОЙ
+[07:30:43] novohopersk90: нажми альт е
+[07:31:06] Client "Chelik333" connected.
+[07:32:10] novohopersk90: скажи чтоб нажал f4
+[07:32:15] novohopersk90: и нашел гиперборею
+[07:32:23] novohopersk90: тхагборею
+[07:32:36] novohopersk90: терь пусть умирает
+[07:32:45] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_ezfuel
+[07:32:49] novohopersk90: а ну ничегго
+[07:32:59] novohopersk90: ну просто
+[07:33:08] Dropped "Джон" from server<STEAM_0:1:743083427>
+[07:33:08] Джон suicided!
+[07:33:18] Client "Джон" connected.
+[07:33:30] novohopersk90: задрачивай 4
+[07:33:32] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 146 seconds).
+[07:33:34] novohopersk90: чтоб машина блыа
+[07:33:42] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_eznutrients
+[07:33:45] Client "Джон" spawned in server <STEAM_0:1:743083427> (took 27 seconds).
+[07:34:14] P0lyakov<STEAM_0:0:60570605> spawned sent ent_jack_gmod_eznutrients
+[07:35:33] Client "Rackman" connected.
+[07:35:44] novohopersk90: можно создать
+[07:35:48] novohopersk90: на верстаке 
+[07:35:49] novohopersk90: 2
+[07:36:09] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 36 seconds).
+[07:36:11] Client "kolyanich11" connected.
+[07:36:15] novohopersk90: что
+[07:36:21] novohopersk90: нельзя так
+[07:36:26] Client "Mannytko" connected.
+[07:37:06] LonePlayer022 killed скачать искусственный интернет using tfa_doim1912
+[07:37:21] novohopersk90: прив
+[07:37:26] novohopersk90: при в
+[07:37:32] novohopersk90: можно скин изменить
+[07:37:32] novohopersk90: !motd
+[07:37:41] novohopersk90: в консоль playermodel_selector
+[07:38:02] novohopersk90: так ребзи
+[07:38:05] novohopersk90: я вам щас создам
+[07:38:15] novohopersk90: чо ты там хочешь
+[07:38:26] Reich: supply radio:help
+[07:38:26] Client "Mannytko" spawned in server <STEAM_0:0:151021368> (took 120 seconds).
+[07:38:32] novohopersk90: alt e нажми
+[07:39:28] Reich: bind I jmod_ez_inv
+[07:40:05] Client "Ru1089000pc14" connected.
+[07:40:59] novohopersk90: ребзи мы не собираемся это терпеть
+[07:41:19] novohopersk90: оо дай
+[07:41:20] Mannytko: !motd
+[07:41:23] novohopersk90: тррр ало
+[07:41:39] novohopersk90: ща я закажу патрики
+[07:42:31] Client "Топ 1 детского сад" spawned in server <STEAM_0:0:636597846> (took 1672 seconds).
+[07:42:56] Mannytko: !motd
+[07:43:11] novohopersk90: backspace
+[07:44:43] novohopersk90: пранкули 9/11
+[07:44:46] novohopersk90: да ща
+[07:44:46] Client "kolyanich11" spawned in server <STEAM_0:0:25166451> (took 515 seconds).
+[07:45:25] novohopersk90: патрики аа
+[07:45:45] novohopersk90: альт е
+[07:46:16] novohopersk90: я полон
+[07:46:23] novohopersk90: все
+[07:46:26] novohopersk90: дрочите машины
+[07:46:32] novohopersk90: нет
+[07:46:35] novohopersk90: я не могу отправить
+[07:46:38] novohopersk90: сообзщение
+[07:47:22] novohopersk90: ВЕЩИ
+[07:47:24] novohopersk90: СПАВНИТЕ ВЕЩИ
+[07:47:32] novohopersk90: МАШИНА НУЖНА
+[07:48:20] novohopersk90: да это говно не нужно
+[07:48:22] Dropped "kolyanich11" from server<STEAM_0:0:25166451>
+[07:48:22] kolyanich11 suicided!
+[07:48:33] novohopersk90: посади
+[07:48:34] novohopersk90: альте
+[07:48:52] novohopersk90: да
+[07:49:26] novohopersk90: альт е
+[07:49:30] novohopersk90: вир
+[07:49:31] novohopersk90: вип
+[07:51:19] Польские Пряники: прохода нет
+[07:51:20] Польские Пряники: друг
+[07:51:26] Топ 1 детского сад: зря я сюда пришёл
+[07:52:13] novohopersk90: я гангстер
+[07:52:40] novohopersk90: не не ломайте
+[07:53:42] Топ 1 детского сад: понимаю
+[07:53:48] novohopersk90: просто р
+[07:55:41] novohopersk90: куукпуцкпцупцукп
+[07:55:48] Client "kudalev" connected.
+[07:56:01] Mannytko was killed by ent_jack_gmod_ezfalloutparticle
+[07:56:25] Client "kudalev" spawned in server <STEAM_0:0:21670625> (took 37 seconds).
+[07:56:27] novohopersk90: с кем
+[07:56:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[07:56:50] novohopersk90: биг сиси лайф полиция наши врагши
+[07:57:08] novohopersk90: го
+[07:57:09] novohopersk90: ну стой
+[07:57:10] Client "KIRKA" connected.
+[07:57:13] novohopersk90: это акт протеста
+[07:57:15] novohopersk90: ПО ХУЙ
+[07:57:46] novohopersk90: да тут невозможно добыть ресы
+[07:57:48] novohopersk90: типо
+[07:57:55] Client "Хола мудрая" connected.
+[07:57:57] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 47 seconds).
+[07:57:58] novohopersk90: надо вой н орй
+[07:58:05] Client "адепт нацизма" connected.
+[07:58:20] P0lyakov killed Mannytko using tfa_doip38
+[07:58:45] novohopersk90: ща стой
+[07:58:59] novohopersk90: пузом пробьемся через пули
+[07:59:08] novohopersk90: да стой
+[07:59:58] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[07:59:59] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[08:00:05] P0lyakov killed P0lyakov
+[08:00:33] novohopersk90: ща стойте
+[08:00:38] P0lyakov<STEAM_0:0:60570605> spawned sent lvs_helicopter_cod_ah6
+[08:01:02] Польские Пряники: ИДИ ЗАБИРАЙ СВОЙ ТРУП
+[08:01:11] Польские Пряники: А ТЫ ЗАБЕРИ
+[08:01:17] Польские Пряники: НУ ПОПРОСИ
+[08:01:22] Польские Пряники: ИЩИ
+[08:01:23] Польские Пряники: Я ЗАНЯТ
+[08:01:44] novohopersk90: по аптечке берите
+[08:01:48] Польские Пряники: МЫ ПОЛИЦЕЙСКИЕ
+[08:01:55] novohopersk90: инвентарь
+[08:01:56] novohopersk90: 5
+[08:02:19] novohopersk90: а скок у тебя здоровыье
+[08:02:23] novohopersk90: когда 100 нельзя юзать
+[08:02:27] novohopersk90: альт е
+[08:02:41] Mannytko killed Польские Пряники using tfa_doip38
+[08:02:42] Mannytko was killed by ent_jack_gmod_ezsentry
+[08:02:45] Client "CHiZk" connected.
+[08:03:35] KIRKA: !motd
+[08:03:59] P0lyakov<STEAM_0:0:60570605> spawned sent lvs_helicopter_cod_ah6
+[08:05:05] novohopersk90: шо
+[08:05:22] Топ 1 детского сад: ! чё
+[08:05:39] novohopersk90: мы рп бойцы рейха
+[08:05:50] Chelik333 was killed by trigger_hurt
+[08:05:59] Client "dumanshagir" connected.
+[08:06:17] novohopersk90: нет
+[08:06:19] novohopersk90: не стреляй
+[08:06:30] novohopersk90: надеюсь взорвуться
+[08:07:20] novohopersk90: не стреляй даун
+[08:07:31] Mannytko: !motd
+[08:07:39] novohopersk90: я бомбы ща закажу
+[08:09:17] novohopersk90: НЕТ
+[08:09:19] novohopersk90 killed скачать искусственный интернет using ent_jack_gmod_ezsticknade
+[08:09:19] novohopersk90 killed Reich using ent_jack_gmod_ezsticknade
+[08:09:19] novohopersk90 suicided!
+[08:10:03] KIRKA: supply radio: global message
+[08:10:24] novohopersk90: ШО
+[08:10:29] Mannytko: !motd
+[08:11:12] Mannytko killed novohopersk90 using tfa_doip38
+[08:11:29] KIRKA: supply radio: global message
+[08:11:39] P0lyakov: supply radio: global message
+[08:11:48] Топ 1 детского сад: стой друг
+[08:11:56] Топ 1 детского сад: дай я сделаю дрель и потом возьмёшь
+[08:11:57] Польские Пряники: ghbdtn
+[08:11:59] Польские Пряники: GHBDTN\
+[08:12:01] Польские Пряники: ПРИВЕТ
+[08:12:02] Польские Пряники: ПРИЕМ
+[08:12:04] Польские Пряники: АЛООО
+[08:12:08] Топ 1 детского сад: нет
+[08:12:11] Топ 1 детского сад: не видел
+[08:12:20] Топ 1 детского сад: нет нихуя
+[08:12:53] Топ 1 детского сад: подажи
+[08:12:58] novohopersk90: кто СОЗДАЛ БЛЯТЬ 
+[08:13:01] novohopersk90: БЕЗ МОЕГО ВЕДОМ
+[08:13:10] novohopersk90: все нором
+[08:13:19] novohopersk90: на е
+[08:13:23] Топ 1 детского сад: О НЕТ У МЕНЯ ИНФАРКТ
+[08:13:28] Dropped "Топ 1 детского сад" from server<STEAM_0:0:636597846>
+[08:13:28] Топ 1 детского сад suicided!
+[08:13:36] Client "Топ 1 детского сад" connected.
+[08:13:48] novohopersk90: стоп
+[08:14:10] Dropped "kudalev" from server<STEAM_0:0:21670625>
+[08:14:10] kudalev suicided!
+[08:14:11] Client "Топ 1 детского сад" spawned in server <STEAM_0:0:636597846> (took 35 seconds).
+[08:14:13] Client "kudalev" connected.
+[08:14:38] Client "kudalev" spawned in server <STEAM_0:0:21670625> (took 25 seconds).
+[08:15:01] Dropped "kudalev" from server<STEAM_0:0:21670625>
+[08:15:01] kudalev suicided!
+[08:15:04] Client "kudalev" connected.
+[08:15:25] Client "kudalev" spawned in server <STEAM_0:0:21670625> (took 21 seconds).
+[08:15:59] novohopersk90: рп пузя к и
+[08:16:13] Польские Пряники: ИМЯ
+[08:16:13] Польские Пряники: АЛО
+[08:16:22] Польские Пряники: Я ПЛОХО СЛЫШУ
+[08:16:24] Польские Пряники: НАПИШИ
+[08:16:28] novohopersk90: supply radio: global message
+[08:16:33] novohopersk90: ЧО
+[08:16:33] Польские Пряники: НЕТ ПОКА ЧТО
+[08:16:41] novohopersk90: чо т ы хотел
+[08:16:41] Client "Хола мудрая" spawned in server <STEAM_0:0:941060051> (took 1126 seconds).
+[08:17:01] novohopersk90: че покрасить
+[08:17:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[08:17:10] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezceramic
+[08:17:13] novohopersk90: че
+[08:17:16] novohopersk90: а да никак
+[08:18:08] Dropped "kudalev" from server<STEAM_0:0:21670625>
+[08:18:08] kudalev suicided!
+[08:18:17] novohopersk90: а можно урон проверить
+[08:18:52] Client "Mr_Pyro" connected.
+[08:18:53] Mannytko: supply radio: fulton-crate
+[08:19:33] novohopersk90: да пусть садятся
+[08:19:36] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 44 seconds).
+[08:19:38] novohopersk90: а хуй с ними
+[08:19:42] novohopersk90: так все 5 минут прошло
+[08:20:05] novohopersk90: нас отключили от всемирной сети интернет
+[08:20:22] novohopersk90: бля ваще
+[08:20:25] Польские Пряники: А
+[08:20:30] novohopersk90: так в погодь
+[08:21:00] novohopersk90: тряси пущом
+[08:21:14] Польские Пряники: НЕ
+[08:21:23] Польские Пряники: У МАШИН
+[08:22:04] Польские Пряники: КАКАЯ ХИЛ СТАНЦАЯ
+[08:22:07] Польские Пряники: МЫ БОМЖИ
+[08:22:31] Client "arikberegovenko" connected.
+[08:22:34] novohopersk90: а где они
+[08:22:48] novohopersk90: стопе
+[08:23:00] novohopersk90: я нашел
+[08:23:06] novohopersk90: через 15 минут
+[08:23:08] novohopersk90: я их пробил
+[08:23:13] novohopersk90: через док бин
+[08:23:29] novohopersk90: нет
+[08:23:48] Client "M.G.Eoose" connected.
+[08:25:03] Client "Большой Дядя" connected.
+[08:25:51] novohopersk90: нет нельзя узнкать
+[08:25:52] novohopersk90: узнать
+[08:26:18] Client "dumanshagir" spawned in server <STEAM_0:1:570386347> (took 1219 seconds).
+[08:26:55] dumanshagir: !motd
+[08:27:24] novohopersk90: майдан
+[08:27:40] novohopersk90: о сп с е
+[08:27:42] novohopersk90: шо
+[08:27:48] novohopersk90: че это
+[08:27:56] novohopersk90: а я взял
+[08:28:27] novohopersk90: ПУЗОГЕНГУ СЛАВА УРА!!!!
+[08:28:58] dumanshagir: !motd
+[08:29:04] dumanshagir: !motd
+[08:29:13] Client "Шайтан" connected.
+[08:29:22] dumanshagir: jmod_ez_inv
+[08:29:29] dumanshagir: /jmod_ez_inv
+[08:29:35] novohopersk90: А
+[08:29:36] novohopersk90: ДА
+[08:29:41] novohopersk90 killed P0lyakov using tfa_smc_ppsh_drum
+[08:29:49] KIRKA killed novohopersk90 using tfa_doithompsonm1a1
+[08:30:03] скачать искусственный интернет killed KIRKA using tfa_smc_ppsh_drum
+[08:30:10] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 57 seconds).
+[08:30:49] novohopersk90: ЩА СТОЯТЬ
+[08:31:25] Mannytko killed P0lyakov using tfa_doip38
+[08:31:55] novohopersk90: ЭМ ВЫ ПУЗО НАДОРВЕТЕ
+[08:31:58] P0lyakov killed Шайтан using tfa_doik98
+[08:32:38] Польские Пряники killed Mannytko using tfa_doik98_scop
+[08:32:43] KIRKA killed dumanshagir using tfa_doiwelrod
+[08:32:44] Dropped "Хола мудрая" from server<STEAM_0:0:941060051>
+[08:32:44] Хола мудрая suicided!
+[08:32:45] Client "Хола мудрая" connected.
+[08:32:48] novohopersk90: НАС ОТКЛЮЧИЛИ ОТ ИНТЕРНЕТА
+[08:32:51] Reich: сзади
+[08:32:53] dumanshagir: !motd
+[08:33:18] novohopersk90: Он из диких
+[08:33:26] novohopersk90: supply radio: global message
+[08:33:31] Client "choper100belly" connected.
+[08:33:35] Client "Хола мудрая" spawned in server <STEAM_0:0:941060051> (took 50 seconds).
+[08:34:05] Mannytko killed dumanshagir using tfa_doithompsonm1a1
+[08:34:13] Client "choper100belly" connected.
+[08:35:17] Reich: че такое
+[08:35:21] Reich: пузовик
+[08:35:25] novohopersk90: нтичо
+[08:35:27] Mannytko killed P0lyakov using tfa_doithompsonm1a1
+[08:35:28] novohopersk90: прост разведка
+[08:35:32] Reich: пошлите
+[08:35:36] Хола мудрая: jmod_ez_inv
+[08:35:46] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[08:35:46] Шайтан suicided!
+[08:35:46] Mannytko killed dumanshagir using tfa_doithompsonm1a1
+[08:35:55] Mannytko killed KIRKA using tfa_doithompsonm1a1
+[08:36:00] Польские Пряники killed Mannytko using tfa_doik98_scop
+[08:36:01] Client "Большой Дядя" spawned in server <STEAM_0:1:753715851> (took 658 seconds).
+[08:36:06] Mannytko to admins: хуйня ебаная лагучая
+[08:36:09] Client "choper100belly" spawned in server <STEAM_0:1:756690337> (took 116 seconds).
+[08:36:15] Польские Пряники to admins: ААЪХАХАХАХА
+[08:36:33] Mannytko to admins: Я ТЕБЯ НАЙДУ ШАЙТАН БЛЯ ЕБАНИЙ НАХУЙ
+[08:36:41] Mannytko to admins: яЯ НАЙДУ ГДЕ ТИ ЖИВЕШЬ АРАА БЛЯЯ
+[08:36:47] Польские Пряники to admins: 5 ФПС ГАМЕПЛАУ ПЕНТИУМ 4
+[08:36:49] Dropped "Хола мудрая" from server<STEAM_0:0:941060051>
+[08:36:49] Хола мудрая suicided!
+[08:36:50] Mannytko to admins: ТЫ МНЕ СКАЖИ ГДБЕ ТЫ ЖИВЕШЬ БЛЯ
+[08:36:58] Польские Пряники to admins: БАГИ ПРИКОЛЫ ФЕЙЛЫ
+[08:37:13] Client "Шайтан" connected.
+[08:37:31] novohopersk90: так у нас есть
+[08:37:41] novohopersk90: место дислокации у нас е
+[08:37:43] novohopersk90: а нуг о
+[08:38:04] Большой Дядя: как двигатся
+[08:38:09] Большой Дядя: почему я двигнатся не могу
+[08:38:11] (TEAM) Большой Дядя: аыве
+[08:38:13] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 60 seconds).
+[08:38:21] Большой Дядя: ыке7
+[08:38:39] KIRKA killed Mannytko using tfa_doik98_scop
+[08:38:54] Большой Дядя: /me показал паспорт [Ильгармавич Мухамед] | 17.15.1966 | Г. Герат
+[08:39:10] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_rus_jsmod_pipe
+[08:39:15] Reich: фух
+[08:39:23] Reich: ребят у меня пузо подстрелили
+[08:39:35] novohopersk90: ааа срочный зажим живота
+[08:39:41] Reich: перевяжи пузоо
+[08:39:53] Reich: фуух спасб
+[08:39:55] dumanshagir: !motd
+[08:39:56] novohopersk90: ааа в пузо ра6ни
+[08:39:56] dumanshagir: !motd
+[08:39:57] novohopersk90: НЕ АШЬ
+[08:40:07] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_rus_jsmod_pipe
+[08:40:11] dumanshagir: !jmod_ez_inv
+[08:40:15] Reich killed KIRKA using tfa_doim3greasegun
+[08:40:20] Reich: готов
+[08:40:24] P0lyakov killed Mannytko using tfa_doithompsonm1a1
+[08:40:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_rus_jsmod_pipe
+[08:40:31] Reich: к бооою
+[08:40:32] Dropped "Mannytko" from server<STEAM_0:0:151021368>
+[08:40:32] Mannytko suicided!
+[08:40:39] dumanshagir: !motd
+[08:40:44] Шайтан: вау
+[08:40:47] Reich killed P0lyakov using tfa_doim3greasegun
+[08:40:51] Топ 1 детского сад: !s чё у вас
+[08:40:53] Шайтан: а можно к вам?
+[08:40:56] Reich: у нас пузотряс
+[08:41:01] choper100belly was killed by ent_jack_gmod_ezfalloutparticle
+[08:41:05] dumanshagir: jmod_ez_inv
+[08:41:11] Reich: воон
+[08:41:18] Reich: воот
+[08:41:20] Dropped "Большой Дядя" from server<STEAM_0:1:753715851>
+[08:41:20] Большой Дядя suicided!
+[08:41:23] Reich: интернет
+[08:41:25] Reich: сюда
+[08:41:59] P0lyakov cloaked Themself by amount 0
+[08:41:59] P0lyakov: !cloak P0l
+[08:42:16] Mr_Pyro: тигр
+[08:42:20] Mr_Pyro: на мусорке
+[08:42:36] Reich: мы зострял
+[08:42:47] Reich: да у всех
+[08:42:55] dumanshagir: !motd
+[08:43:01] Шайтан: привет
+[08:43:05] Шайтан: знаешь что
+[08:43:12] Шайтан: у тебя же 3 столицы
+[08:43:20] Шайтан: я тебе еще одну видел
+[08:43:22] Client "M.G.Eoose" spawned in server <STEAM_0:0:645633168> (took 1174 seconds).
+[08:43:27] Client "ToXbI4" connected.
+[08:43:28] novohopersk90: supply radio: mobilization
+[08:43:34] Шайтан: там база еще одна была
+[08:43:38] dumanshagir: playermodel_selectorplayermodel_selector
+[08:43:40] dumanshagir: playermodel_selector
+[08:43:46] P0lyakov: !menu
+[08:43:52] Шайтан: я кароче вышел тупо потому что мне желание убил школоло
+[08:43:54] Reich: тут поляков какой то
+[08:43:57] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[08:43:57] Chelik333 suicided!
+[08:43:59] novohopersk90: КАКОЙ
+[08:44:05] Шайтан: он настолько маленький
+[08:44:05] Client "Chelik333" connected.
+[08:44:07] Reich: по рации говорит
+[08:44:08] novohopersk90: связи нет 
+[08:44:14] Шайтан: что не может читать нахуй
+[08:44:16] dumanshagir: !playermodel_selector
+[08:44:17] (Csay from P0lyakov) Меняем карту?
+[08:44:22] dumanshagir: /playermodel_selector
+[08:44:23] Шайтан: он по слогам читает
+[08:44:26] Reich: как ее взять то
+[08:44:26] (Csay from P0lyakov) Меняем карту? Отпишите в радио
+[08:44:29] Dropped "choper100belly" from server<STEAM_0:1:756690337>
+[08:44:29] choper100belly suicided!
+[08:44:31] (Csay from P0lyakov) Меняем карту? Отпишите в радио
+[08:44:32] Dropped "dumanshagir" from server<STEAM_0:1:570386347>
+[08:44:32] dumanshagir suicided!
+[08:44:32] (Csay from P0lyakov) Меняем карту? Отпишите в радио
+[08:44:34] (Csay from P0lyakov) Меняем карту? Отпишите в радио
+[08:44:35] novohopersk90: надо свое выкинуть
+[08:44:39] Шайтан: я и он даже не может нахуй в консоль писать
+[08:44:39] Польские Пряники: supply radio: make loan
+[08:44:42] Шайтан: это пиздеец
+[08:44:42] Reich: ахаха
+[08:44:45] Reich: мы втроем
+[08:44:52] Reich: это ультропузотряс
+[08:44:54] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 49 seconds).
+[08:45:00] P0lyakov: !menu
+[08:45:04] (Csay from P0lyakov) Меняем карту? Отпишите в радио
+[08:45:08] Шайтан: я ваще хочу просто понаблюдать за игрой
+[08:45:09] novohopersk90: нужно свое выкинуть
+[08:45:19] Reich: к нам отнесу
+[08:45:19] novohopersk90: !motd
+[08:45:22] Шайтан: просто полетать 
+[08:45:32] Шайтан: ваще участвовать не хочу
+[08:45:34] (tsay from P0lyakov) Хотите карту сменить? Предлагайте в радио варик
+[08:45:35] Шайтан: карта гавна
+[08:45:38] (tsay from P0lyakov) Хотите карту сменить? Предлагайте в радио варик
+[08:45:38] (tsay from P0lyakov) Хотите карту сменить? Предлагайте в радио варик
+[08:45:38] (tsay from P0lyakov) Хотите карту сменить? Предлагайте в радио варик
+[08:45:40] (tsay from P0lyakov) Хотите карту сменить? Предлагайте в радио варик
+[08:45:47] Reich: ало почини пинг долбоеб
+[08:45:57] Шайтан: !menu
+[08:46:07] Шайтан to admins: я не хочу смены
+[08:46:21] Шайтан to admins: я хочу просто понаблюдать за игрой
+[08:46:23] Dropped "M.G.Eoose" from server<STEAM_0:0:645633168>
+[08:46:23] M.G.Eoose suicided!
+[08:46:53] Dropped "P0lyakov" from server<STEAM_0:0:60570605>
+[08:46:53] P0lyakov suicided!
+[08:47:04] Польские Пряники: ВУТЕН
+[08:47:14] novohopersk90: о
+[08:47:22] Dropped "Rackman" from server<STEAM_0:0:221849271>
+[08:47:22] Rackman suicided!
+[08:47:43] novohopersk90: я мобилизировал
+[08:47:55] Шайтан: клин
+[08:48:01] Chelik333 to admins: меняйте карту
+[08:48:05] Шайтан: у тебя тоэе в консоль спамит ошиюки?
+[08:48:13] Шайтан: а?
+[08:48:25] Шайтан: бялть сними радио тебя не слышно
+[08:48:48] Шайтан: s/lua/systems/c_projectilemanager.lua:963     4. unknown - addons/bulletphysics/lua/autorun/bulletphysics.lua:194      5. u
+[08:49:03] Шайтан: и так с того момента когда я зашел
+[08:49:09] Reich: гниет трупак уже
+[08:49:09] Шайтан: до сих пор
+[08:49:20] novohopersk90: ребзщи
+[08:49:22] novohopersk90: мы победили
+[08:49:26] Шайтан: дай мне просто пушку я буд стрелять
+[08:49:26] novohopersk90: они расформировались
+[08:49:31] Reich: победа пуза
+[08:49:35] Польские Пряники cloaked Themself by amount 0
+[08:49:35] Польские Пряники: !CLOAK
+[08:49:38] Client "Chupacabr" connected.
+[08:49:47] Client "MikeWise" connected.
+[08:49:50] Шайтан: а патрони?
+[08:50:01] Польские Пряники: !menu
+[08:50:01] Reich: этоот празднииик  с сединооую на пузааах
+[08:50:15] Топ 1 детского сад: хай
+[08:50:21] CYBORG_CLASSIC killed KIRKA using tfa_doik98_scop
+[08:50:25] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 47 seconds).
+[08:50:32] Mr_Pyro suicided!
+[08:50:32] Mr_Pyro slayed Themself
+[08:50:32] Mr_Pyro: !slay Mr_Pyro
+[08:50:42] Шайтан: клин
+[08:50:43] Mr_Pyro cloaked Themself by amount 0
+[08:50:47] Шайтан: что куда стреялть
+[08:50:55] Топ 1 детского сад: я за ресами
+[08:51:03] (SILENT) Польские Пряники ran lua: BroadcastLua('chat.AddText(Color(255,0,0),'МЫ ВСЕ УМРЕМ')')
+[08:51:13] novohopersk90: НАЦИОНАЛЬНЫЙ ПРАЗДНИК
+[08:51:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[08:51:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[08:51:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[08:51:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[08:51:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[08:51:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[08:51:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[08:51:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[08:51:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[08:51:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[08:51:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[08:51:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[08:51:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[08:51:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[08:51:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[08:51:27] novohopersk90: 22.07 ПОБЕДА ЖИВОТОВ
+[08:51:29] Reich: давайте
+[08:51:30] (SILENT) Польские Пряники ran lua: BroadcastLua( 'print( 'Hello World!' )' )
+[08:51:38] Reich: это победа
+[08:51:39] Польские Пряники: !menu
+[08:51:54] novohopersk90: ПОБЕДА ЖИВОТА!!!
+[08:52:01] Шайтан: зачем?
+[08:52:02] Топ 1 детского сад: ЖИВОТ!!
+[08:52:03] Reich: жевво
+[08:52:05] novohopersk90: ЖЕВОООТ
+[08:52:05] скачать искусственный интернет: жеееееееевооооооод
+[08:52:06] Топ 1 детского сад: ЖЕВОТ
+[08:52:08] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: Themself
+[08:52:10] Reich: ЖВОООт
+[08:52:10] Шайтан: аа я понял
+[08:52:10] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: CYBORG_CLASSIC
+[08:52:11] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: Chelik333
+[08:52:13] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: Chupacabr
+[08:52:13] Шайтан: да
+[08:52:15] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: KIRKA
+[08:52:17] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: LonePlayer022
+[08:52:18] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: Mr_Pyro
+[08:52:20] Reich: УРААА
+[08:52:20] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: Pedro
+[08:52:21] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: Reich
+[08:52:23] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: Toxa08
+[08:52:24] Шайтан: но можно просто убивать и подбирать их жетоны
+[08:52:25] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: XLEBYC
+[08:52:27] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: klinskoe za 200
+[08:52:29] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: Джон
+[08:52:30] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: novohopersk90
+[08:52:32] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: Топ 1 детского сад
+[08:52:34] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: Шайтан
+[08:52:37] Шайтан: а где эти бомжы?
+[08:52:39] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), 'МЫ ВСЕ УМРЕМ') on: скачать искусственный интернет
+[08:52:41] Reich: мой дед пузом тряс
+[08:52:41] Шайтан: клин
+[08:52:44] novohopersk90: на пкм
+[08:52:56] Польские Пряники ran lua string chat.AddText(Color(255, 0, 0), '.') on: Everyone
+[08:53:10] Mr_Pyro cloaked Themself by amount 0
+[08:53:30] Client "ToXbI4" spawned in server <STEAM_0:1:804891481> (took 603 seconds).
+[08:53:32] Шайтан: блять у меня просто ошибки спамятся
+[08:53:34] novohopersk90: ЖЕВО Т НЫЕ СЕПАРАТИСТЫ
+[08:53:35] novohopersk90: МАЙДАН РП
+[08:53:42] Шайтан: из за этого лагает немного
+[08:53:45] Reich: доктор вы что то 
+[08:53:49] Reich: подгинил
+[08:53:54] novohopersk90: захороним
+[08:53:57] novohopersk90: как этого
+[08:54:02] Reich: так он уж е говном
+[08:54:02] novohopersk90: а погодьте
+[08:54:03] Reich: воняет
+[08:54:06] novohopersk90: это женщина
+[08:54:12] Шайтан: [bulletphysics] addons/bulletphysics/lua/systems/c_projectilemanager.lua:297: bad argument #3 to 'LerpVector' (Vector expected
+[08:54:12] Reich: это кляйне
+[08:54:18] novohopersk90: ХУРАААХХХ!!!
+[08:54:19] novohopersk90: УПА
+[08:54:32] novohopersk90: давайте улицу колонизировать
+[08:54:35] Шайтан: блять а как я вске привесу
+[08:54:36] CYBORG_CLASSIC killed KIRKA using tfa_doik98_scop
+[08:54:39] Шайтан: а хотя
+[08:54:44] Шайтан: есть идейка
+[08:54:45] novohopersk90: колонизация улицы
+[08:54:50] Шайтан: нет я придумал
+[08:54:55] klinskoe za 200 suicided!
+[08:54:55] Польские Пряники slayed klinskoe za 200
+[08:55:01] Reich: пошли центр
+[08:55:04] novohopersk90: го
+[08:55:06] Шайтан: БЯЛТЬ У МЕНЯ ЧЕРНЫЙ ЭКРАН СУКА
+[08:55:14] Шайтан: я презайду
+[08:55:16] Шайтан suicided!
+[08:55:16] Польские Пряники slayed Шайтан
+[08:55:17] Reich: вон
+[08:55:20] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[08:55:20] Chupacabr suicided!
+[08:55:23] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[08:55:23] Шайтан suicided!
+[08:55:23] Client "Шайтан" connected.
+[08:55:24] Reich: давайте геноцид пуза
+[08:55:28] novohopersk90: нет стопе
+[08:55:35] ToXbI4: y
+[08:55:38] klinskoe za 200 to admins: я застрял(
+[08:55:40] ToXbI4: я застрял че делать
+[08:55:48] Client "Letrew" connected.
+[08:55:49] novohopersk90: эй
+[08:55:52] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 29 seconds).
+[08:55:53] Польские Пряники brought klinskoe za 200
+[08:55:56] Reich: да
+[08:55:58] novohopersk90: МЫ ОСВОБОДИТЕЛИ ВСЕГО ЖИВОГО
+[08:55:59] Client "Наёмник--AN17urf.im" connected.
+[08:56:05] novohopersk90: МЫ ОСВОБОДИТЕЛЯ ЖИВОТА
+[08:56:10] novohopersk90: ПОКЛОНЯЙСЯ НАМ
+[08:56:26] novohopersk90: Я БУДУ РАЗГНЕВАН
+[08:56:26] novohopersk90 killed KIRKA using tfa_smc_ppsh_drum
+[08:56:31] Client ".aether" connected.
+[08:57:06] Client ".aether" spawned in server <STEAM_0:1:607773198> (took 35 seconds).
+[08:57:13] Reich killed KIRKA using tfa_doim3greasegun
+[08:57:13] novohopersk90: стрельнули
+[08:57:14] novohopersk90: СТ
+[08:57:16] Польские Пряники killed novohopersk90 using tfa_doiwelrod
+[08:57:22] Шайтан: ура
+[08:57:26] Reich: стреляют
+[08:57:26] Шайтан: не лагает
+[08:57:36] скачать искусственный интернет killed KIRKA using tfa_doisw1917
+[08:57:39] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezammo
+[08:57:51] Шайтан: клин закажи пороха 2к
+[08:58:16] Польские Пряники killed Reich using tfa_doiwelrod
+[08:58:35] Польские Пряники killed ToXbI4 using tfa_doiwelrod
+[08:59:00] Шайтан: а почему 2 трупа?
+[08:59:03] Шайтан: моего
+[08:59:15] Reich: эй
+[08:59:17] Шайтан: МНЕ НУЖЕН ПОРОХ
+[08:59:20] novohopersk90: ЧО
+[08:59:23] Польские Пряники killed скачать искусственный интернет using tfa_doiwebley
+[08:59:23] Reich: парень закажи мне тоже патро
+[08:59:25] Шайтан: а как
+[08:59:28] novohopersk90: так возьми
+[08:59:33] Reich: мы штурмуем вышку
+[08:59:39] novohopersk90: какую вышку
+[08:59:44] Шайтан: ну емае
+[08:59:46] Шайтан: там дырка
+[09:00:14] Reich:  у нас винтовки
+[09:00:18] Reich: есть
+[09:00:18] novohopersk90: ну 
+[09:00:22] Reich: ахуе
+[09:00:29] Reich: это от мобилизации?
+[09:00:38] novohopersk90: Я ЕГО ВИДЕЛ
+[09:00:47] Польские Пряники cloaked Themself by amount 0
+[09:00:58] novohopersk90: НУ НАВЕРНОЕ
+[09:01:03] Client "БАРБОСКИНЫ" connected.
+[09:01:11] novohopersk90: меня столкнул кто то
+[09:01:22] CYBORG_CLASSIC was killed by ent_jack_gmod_ezsentry
+[09:01:36] Джон killed klinskoe za 200 using tfa_doig43
+[09:01:37] Mr_Pyro teleported to LonePlayer022
+[09:01:45] Client "БАРБОСКИНЫ" connected.
+[09:01:47] Mr_Pyro teleported to Toxa08
+[09:01:49] Client "БАРБОСКИНЫ" connected.
+[09:01:50] Джон killed KIRKA using tfa_doig43
+[09:01:57] Mr_Pyro teleported to Toxa08
+[09:02:00] Mr_Pyro teleported to Toxa08
+[09:02:24] Польские Пряники killed Топ 1 детского сад using tfa_doik98_scop
+[09:02:33] novohopersk90: ЧЕ ЗА ХУЙНЯ
+[09:02:34] Client "БАРБОСКИНЫ" connected.
+[09:02:34] Reich: иди патроны бери
+[09:02:38] Reich: эдга
+[09:02:39] Топ 1 детского сад: ОН С ТОЙ СТОРОНЫ ОТКУДА Я СМОТРЮ
+[09:02:40] KIRKA killed CYBORG_CLASSIC using lvs_wheeldrive_dodtiger
+[09:02:40] KIRKA killed klinskoe za 200 using lvs_wheeldrive_dodtiger
+[09:02:40] KIRKA killed Шайтан using lvs_wheeldrive_dodtiger
+[09:03:16] Джон killed Шайтан using tfa_doig43
+[09:03:27] Джон was killed by ent_jack_gmod_ezsentry
+[09:03:32] novohopersk90: ВЫ СИРЕНУ СЛЫШИТЕ?
+[09:03:54] Chelik333 to admins: смена карты будет или че
+[09:03:59] Reich: у тебя есть
+[09:04:03] Шайтан killed CYBORG_CLASSIC using ent_jack_gmod_ezpowderkeg
+[09:04:03] Шайтан suicided!
+[09:04:28] Шайтан killed ToXbI4 using tfa_doithompsonm1a1
+[09:04:43] Dropped "ToXbI4" from server<STEAM_0:1:804891481>
+[09:04:43] ToXbI4 suicided!
+[09:05:13] Шайтан: блять мы сними чтоли?
+[09:05:16] Шайтан: КЛИН СУКА
+[09:05:20] Шайтан: ПРОТИВ НИХ?
+[09:05:28] Шайтан: ПРОСТО БАЗУКОЙ
+[09:05:33] Шайтан: ИХ И ВСЕ
+[09:05:33] Польские Пряники set the ammo for Everyone to 100
+[09:05:42] Client "БАРБОСКИНЫ" spawned in server <STEAM_0:1:926470495> (took 188 seconds).
+[09:05:45] KIRKA: 320 пинга
+[09:05:48] KIRKA: 320
+[09:05:51] KIRKA: СУКА 320
+[09:05:57] KIRKA: 350 блять
+[09:06:03] Шайтан: не ебу
+[09:06:05] KIRKA: СУКА ЛАН РП НЕ МЕНЯЕТСЯ
+[09:06:08] KIRKA: ПРОШЛО ПОЛ ГОДА
+[09:06:25] Reich: я увидел где он
+[09:06:29] novohopersk90: ААА СЭ ТГОО
+[09:06:29] Reich: большая вышка
+[09:06:31] novohopersk90: ВСЕ ВСЕ
+[09:06:35] Reich: самое большое здание
+[09:06:37] Chelik333 to admins: КАРТУ МЕНЯЙТЕ ААААА
+[09:06:53] Шайтан killed CYBORG_CLASSIC using tfa_doithompsonm1a1
+[09:07:13] Шайтан killed Джон using tfa_doithompsonm1a1
+[09:07:17] Dropped "CYBORG_CLASSIC" from server<STEAM_0:1:795329949>
+[09:07:17] CYBORG_CLASSIC suicided!
+[09:07:31] Шайтан: блять а де моя бочка с порохом?
+[09:07:31] Dropped "Джон" from server<STEAM_0:1:743083427>
+[09:07:31] Джон suicided!
+[09:07:56] Dropped "Топ 1 детского сад" from server<STEAM_0:0:636597846>
+[09:07:56] Топ 1 детского сад suicided!
+[09:08:01] Шайтан: У НИХ СЛУЧАЕМ НЕ ТАМ
+[09:08:04] Шайтан: точка
+[09:09:15] Шайтан: блять че на серваке делать
+[09:09:17] .aether: !motd
+[09:09:50] Шайтан: блятьн
+[09:09:55] Шайтан: мне скучно
+[09:10:12] Reich: он тут
+[09:10:12] Шайтан: я хочу убивать
+[09:10:14] novohopersk90: ГДЕ
+[09:10:17] Reich: где то
+[09:10:24] Шайтан: ура убивать =)
+[09:10:30] Польские Пряники killed Reich using tfa_doik98_scop
+[09:10:53] .aether: !motd
+[09:11:19] Client "(SNP) fearless" connected.
+[09:11:28] Шайтан: а в бункере кто то живет?
+[09:11:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezflashbang
+[09:11:58] Шайтан: в бункер?
+[09:12:05] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfragnade
+[09:12:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezflashbang
+[09:12:37] .aether: !RTV
+[09:12:39] Client "Наёмник--AN17urf.im" spawned in server <STEAM_0:0:139866166> (took 1000 seconds).
+[09:12:44] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[09:13:01] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[09:13:04] Шайтан: ДАК ОБЬЕТЬ ВСЕ
+[09:13:05] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezflashbang
+[09:13:19] novohopersk90 killed Польские Пряники using ent_jack_gmod_ezsticknade
+[09:13:35] Chelik333 killed novohopersk90 using tfa_blast_sjogren
+[09:13:35] novohopersk90: на машин
+[09:13:41] novohopersk90: НА МАШИНЕ ОНИ
+[09:13:43] Шайтан killed Reich using tfa_doithompsonm1a1
+[09:13:47] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezlandmine
+[09:13:49] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezlandmine
+[09:13:52] Польские Пряники killed Шайтан using tfa_doik98_scop
+[09:14:09] Шайтан: ГО ГО
+[09:14:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbigbomb
+[09:14:33] Наёмник--AN17urf.im: !motd
+[09:14:42] Mr_Pyro killed скачать искусственный интернет using ent_jack_gmod_ezpowderkeg
+[09:15:01] Dropped "Наёмник--AN17urf.im" from server<STEAM_0:0:139866166>
+[09:15:01] Наёмник--AN17urf.im suicided!
+[09:15:02] Шайтан: а?
+[09:15:10] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezaidradio
+[09:15:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[09:15:22] Шайтан: машину амикадзе?
+[09:15:26] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfragnade
+[09:15:29] Шайтан: камикадзе?
+[09:15:34] БАРБОСКИНЫ to admins: одмены
+[09:15:37] БАРБОСКИНЫ to admins: откуда музыка
+[09:15:52] Польские Пряники killed Mr_Pyro
+[09:16:12] Польские Пряники killed novohopersk90 using ent_jack_gmod_ezbigbomb
+[09:16:19] Mr_Pyro cloaked Themself by amount 0
+[09:16:34] Reich: АДМИН ТЫ ХУЙЛОО
+[09:16:37] Reich: СОСИ ЧЛЕЕН
+[09:16:51] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezlandmine
+[09:16:55] БАРБОСКИНЫ: давим их
+[09:17:04] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezlandmine
+[09:17:11] Reich: империя в опасности
+[09:17:18] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[09:17:19] Reich: но мы не привыкли пузотрясить
+[09:17:29] Toxa08 killed LonePlayer022 using ent_jack_gmod_ezsticknade
+[09:17:29] XLEBYC killed Toxa08 using ent_jack_gmod_ezsticknade
+[09:17:30] Польские Пряники killed XLEBYC using player
+[09:17:30] Польские Пряники suicided!
+[09:17:35] Шайтан: давай я поеду
+[09:17:45] Шайтан: у=кирка
+[09:17:47] Шайтан: я поеду
+[09:17:51] Шайтан: направо
+[09:17:56] Шайтан: садись
+[09:18:01] Польские Пряники killed Toxa08 using ent_jack_gmod_ezbigbomb
+[09:18:02] Польские Пряники killed LonePlayer022
+[09:18:03] Reich: ахаха
+[09:18:05] Reich: хуйло сука
+[09:18:23] Польские Пряники killed Toxa08
+[09:18:23] Польские Пряники killed XLEBYC using player
+[09:18:41] Польские Пряники killed Toxa08 using ent_jack_gmod_ezbigbomb
+[09:18:41] Польские Пряники killed LonePlayer022
+[09:18:46] Chelik333 killed novohopersk90 using ent_panzerschreck_shell_v2
+[09:18:55] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezlandmine
+[09:18:57] Reich: кажись я пузо убил
+[09:18:59] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezlandmine
+[09:19:03] Reich: админ сосиии член
+[09:19:05] Reich: тупой уебок
+[09:19:09] Reich: ниче
+[09:19:23] Chelik333 killed novohopersk90 using tfa_blast_sjogren
+[09:19:26] Польские Пряники suicided!
+[09:19:29] KIRKA killed XLEBYC using lvs_wheeldrive_dodtiger
+[09:19:34] Reich: ХЗ
+[09:19:53] Client "MikeWise" spawned in server <STEAM_0:1:792108138> (took 1806 seconds).
+[09:20:05] Chelik333 killed novohopersk90 using tfa_blast_sjogren
+[09:20:09] Шайтан: ждем
+[09:20:13] KIRKA killed novohopersk90 using lvs_wheeldrive_dodtiger
+[09:20:21] novohopersk90 was killed by ent_jack_gmod_ezsentry
+[09:20:30] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:20:30] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:20:30] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:20:30] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:20:30] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:20:30] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:20:30] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:20:31] novohopersk90 was killed by ent_jack_gmod_ezsentry
+[09:20:33] LonePlayer022 killed XLEBYC using tfa_doithompsonm1a1
+[09:20:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmoab
+[09:20:39] Reich: я полетел
+[09:20:39] novohopersk90 was killed by ent_jack_gmod_ezsentry
+[09:20:40] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezaidradio
+[09:20:42] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbattery
+[09:20:58] БАРБОСКИНЫ killed novohopersk90 using tfa_doithompsonm1a1
+[09:21:02] Dropped "MikeWise" from server<STEAM_0:1:792108138>
+[09:21:02] MikeWise suicided!
+[09:21:17] Польские Пряники killed klinskoe za 200 using player
+[09:21:27] БАРБОСКИНЫ was killed by ent_jack_gmod_ezsentry
+[09:21:28] novohopersk90 killed Reich using wep_jack_gmod_hands
+[09:21:36] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:21:36] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:21:36] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:21:36] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:21:36] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:21:36] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:21:36] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:21:39] Шайтан: надеюсь
+[09:21:51] Польские Пряники killed .aether
+[09:21:59] novohopersk90 killed БАРБОСКИНЫ using tfa_doim3greasegun
+[09:22:00] .aether was killed by ent_jack_gmod_ezsentry
+[09:22:03] Dropped "БАРБОСКИНЫ" from server<STEAM_0:1:926470495>
+[09:22:03] БАРБОСКИНЫ suicided!
+[09:22:04] novohopersk90 killed скачать искусственный интернет using tfa_doim3greasegun
+[09:22:06] Client "БАРБОСКИНЫ" connected.
+[09:22:19] Reich: АДМИН ХУУУЙЛАН
+[09:22:26] XLEBYC was killed by lvs_wheeldrive_dodtiger
+[09:22:33] KIRKA killed .aether using lvs_wheeldrive_dodtiger
+[09:22:36] Reich: АДМИН СОСИ ЧЛЕЕН
+[09:22:42] Client "БАРБОСКИНЫ" spawned in server <STEAM_0:1:926470495> (took 36 seconds).
+[09:22:53] Chelik333 killed Reich using tfa_blast_sjogren
+[09:23:18] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:18] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:18] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:18] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:18] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:23:18] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:18] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:23:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:23] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:23:29] novohopersk90 was killed by ent_jack_gmod_ezsentry
+[09:23:30] скачать искусственный интернет was killed by ent_jack_gmod_ezsentry
+[09:23:31] Reich was killed by ent_jack_gmod_ezsentry
+[09:23:41] Польские Пряники killed novohopersk90 using player
+[09:23:41] Польские Пряники killed БАРБОСКИНЫ
+[09:23:42] Польские Пряники killed скачать искусственный интернет
+[09:23:42] Польские Пряники killed .aether
+[09:23:42] Mr_Pyro was killed by lvs_helicopter_cod_ah6
+[09:23:42] Dropped "скачать искусственный интернет" from server<STEAM_0:1:583858727>
+[09:23:42] скачать искусственный интернет suicided!
+[09:23:50] Client "MikeWise" connected.
+[09:23:53] Dropped ".aether" from server<STEAM_0:1:607773198>
+[09:23:53] .aether suicided!
+[09:23:55] Dropped "Reich" from server<STEAM_0:1:441177816>
+[09:23:55] Reich suicided!
+[09:24:03] Польские Пряники killed XLEBYC using player
+[09:24:03] Польские Пряники killed Toxa08 using player
+[09:24:03] Польские Пряники killed novohopersk90 using player
+[09:24:03] Польские Пряники killed LonePlayer022 using player
+[09:24:13] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:24:13] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:24:13] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:24:13] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:24:13] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:24:13] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:24:13] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:24:13] БАРБОСКИНЫ: ЗА ЧТО БЛЯ
+[09:24:15] Client "MikeWise" spawned in server <STEAM_0:1:792108138> (took 25 seconds).
+[09:24:19] Dropped "novohopersk90" from server<STEAM_0:0:538797841>
+[09:24:19] novohopersk90 suicided!
+[09:24:21] БАРБОСКИНЫ: не принимают
+[09:24:21] Шайтан: БЯЛТЬ Я ЗАСТРЯЛ
+[09:24:26] Шайтан: БЛЯТЬ
+[09:24:28] БАРБОСКИНЫ: у меня черный экран был
+[09:24:32] БАРБОСКИНЫ: из за птср
+[09:24:32] Шайтан: !menu
+[09:24:37] Польские Пряники: !SPECTATE
+[09:24:41] Шайтан to admins: z pfcnhzk
+[09:24:43] БАРБОСКИНЫ: давай
+[09:24:46] Шайтан to admins: я застрял
+[09:24:46] БАРБОСКИНЫ: спс
+[09:24:49] Шайтан to admins: я застрял
+[09:24:49] Шайтан to admins: я застрял
+[09:24:49] Шайтан to admins: я застрял
+[09:24:50] Шайтан to admins: я застрял
+[09:24:55] БАРБОСКИНЫ: вылавливаем 
+[09:25:01] БАРБОСКИНЫ: на спавне были нубы
+[09:25:04] Польские Пряники killed KIRKA using player
+[09:25:04] Польские Пряники killed Шайтан using player
+[09:25:24] Польские Пряники killed klinskoe za 200
+[09:25:26] БАРБОСКИНЫ was killed by ent_jack_gmod_ezherocket
+[09:25:38] Польские Пряники killed Pedro using player
+[09:26:15] Польские Пряники killed Pedro
+[09:27:02] Польские Пряники killed Toxa08 using tfa_doim1911
+[09:27:39] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfirenade
+[09:27:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:41] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:42] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:42] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:42] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:42] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:42] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[09:27:44] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:27:44] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:27:44] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:27:44] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:27:44] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:27:44] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:27:44] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:27:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfirenade
+[09:27:48] Польские Пряники suicided!
+[09:27:48] Польские Пряники killed Pedro
+[09:28:17] Польские Пряники killed LonePlayer022 using tfa_doiwelrod
+[09:28:42] Шайтан: тоже
+[09:28:49] Шайтан: давайте
+[09:28:53] Шайтан: я тоже хочу
+[09:28:59] Шайтан: !menu
+[09:28:59] KIRKA to admins: Меняйте карту уже
+[09:29:05] Шайтан to admins: vtyzqnt rfhne e;t
+[09:29:11] Шайтан to admins: меняйте карту уже
+[09:29:15] MikeWise was killed by ent_jack_gmod_ezherocket
+[09:29:26] БАРБОСКИНЫ killed Mr_Pyro using tfa_doithompsonm1a1
+[09:29:28] Шайтан: пиши !menu
+[09:29:33] Шайтан: там чат
+[09:29:36] Шайтан: и пиши
+[09:29:38] БАРБОСКИНЫ: сбил нахуй
+[09:29:49] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:29:49] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:29:49] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:29:49] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:29:49] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:29:49] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:29:49] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:29:49] БАРБОСКИНЫ: нубасы летают
+[09:30:05] Польские Пряники killed KIRKA using player
+[09:30:05] Польские Пряники killed Chelik333 using player
+[09:30:05] Польские Пряники killed Шайтан using player
+[09:30:05] Польские Пряники killed БАРБОСКИНЫ using player
+[09:30:38] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:30:38] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:30:38] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:30:38] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:30:38] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:30:38] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:30:38] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence01a.mdl
+[09:30:39] Польские Пряники killed Chelik333
+[09:30:39] Польские Пряники killed Шайтан
+[09:30:39] Польские Пряники killed Польские Пряники
+[09:30:48] БАРБОСКИНЫ killed Pedro using tfa_smc_ppsh_drum
+[09:30:56] Польские Пряники: убивать это плохо
+[09:30:57] Польские Пряники killed БАРБОСКИНЫ using tfa_doistg44
+[09:31:09] Шайтан: а чем прикол
+[09:31:14] Шайтан: нас просто взрывают
+[09:31:20] БАРБОСКИНЫ: заканчивайте ебанистиаку
+[09:31:21] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eznuke_big
+[09:31:31] Польские Пряники: ну что
+[09:31:34] Польские Пряники: похимичим?
+[09:31:39] БАРБОСКИНЫ killed Шайтан using wep_jack_gmod_hands
+[09:31:47] KIRKA: !menu
+[09:31:52] KIRKA to admins: message
+[09:31:52] Шайтан: давайте уже
+[09:31:57] Польские Пряники killed klinskoe za 200 using ent_jack_gmod_eznuke_big
+[09:31:57] Польские Пряники killed XLEBYC using ent_jack_gmod_eznuke_big
+[09:31:57] Польские Пряники killed Chelik333 using ent_jack_gmod_eznuke_big
+[09:31:57] Польские Пряники killed Toxa08 using ent_jack_gmod_eznuke_big
+[09:31:57] Польские Пряники suicided!
+[09:31:57] Польские Пряники killed БАРБОСКИНЫ using ent_jack_gmod_eznuke_big
+[09:31:57] Польские Пряники killed Шайтан using ent_jack_gmod_eznuke_big
+[09:31:57] Польские Пряники killed MikeWise using ent_jack_gmod_eznuke_big
+[09:31:57] Польские Пряники killed Pedro using ent_jack_gmod_eznuke_big
+[09:31:57] Польские Пряники killed LonePlayer022 using ent_jack_gmod_eznuke_big
+[09:31:57] Польские Пряники killed KIRKA using ent_jack_gmod_eznuke_big
+[09:32:01] KIRKA to admins: БЛЯТЬ МЕНЯЙТЕ КАРТУ
+[09:32:04] Польские Пряники killed Mr_Pyro
+[09:32:06] Польские Пряники: !menu
+[09:32:09] Mr_Pyro cloaked Themself by amount 0
+[09:32:10] Mr_Pyro cloaked Themself by amount 0
+[09:32:10] Mr_Pyro cloaked Themself by amount 0
+[09:32:10] Mr_Pyro cloaked Themself by amount 0
+[09:32:11] Mr_Pyro cloaked Themself by amount 0
+[09:32:20] Польские Пряники changed the map to gm_whiten
+[09:32:20] Server is shutting down/changing levels.
+
+
+
+[09:32:37] New map: gm_whiten
+[09:33:00] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 34 seconds).
+[09:33:02] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 36 seconds).
+[09:33:07] Client "XLEBYC" spawned in server <STEAM_0:1:615225475> (took 41 seconds).
+[09:33:11] Client "Chelik333" spawned in server <STEAM_0:1:172229083> (took 45 seconds).
+[09:33:12] Mr_Pyro cloaked Themself by amount 0
+[09:33:17] Client "Toxa08" spawned in server <STEAM_0:0:33704276> (took 51 seconds).
+[09:33:17] Client "Pedro" spawned in server <STEAM_0:1:577755325> (took 51 seconds).
+[09:33:20] Client "MikeWise" spawned in server <STEAM_0:1:792108138> (took 54 seconds).
+[09:33:23] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 57 seconds).
+[09:33:25] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 59 seconds).
+[09:33:28] Client "БАРБОСКИНЫ" spawned in server <STEAM_0:1:926470495> (took 62 seconds).
+[09:33:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:33:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:33:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:33:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:33:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:33:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:33:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:33:33] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:33:38] БАРБОСКИНЫ: ура
+[09:33:43] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 77 seconds).
+[09:33:48] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:33:48] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:33:48] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:33:48] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:33:48] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:33:48] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:33:48] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:33:48] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:33:49] Шайтан: 60 фпс это так плавно
+[09:33:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:34:21] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:34:29] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituretable001a.mdl
+[09:34:29] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituretable002a.mdl
+[09:34:29] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituretable001a.mdl
+[09:34:29] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituretable002a.mdl
+[09:34:29] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituretable002a.mdl
+[09:34:29] Польские Пряники<STEAM_0:0:555258766> spawned model models/jmod_scrounge/logs.mdl
+[09:34:29] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituretable002a.mdl
+[09:34:29] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/shelfunit01a.mdl
+[09:34:29] Польские Пряники<STEAM_0:0:555258766> spawned model models/props_c17/furnituretable002a.mdl
+[09:34:31] БАРБОСКИНЫ: не
+[09:34:35] Шайтан: поменяй скинчик
+[09:34:39] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 133 seconds).
+[09:34:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:35:14] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:35:15] Шайтан: да ну не
+[09:35:17] Шайтан: я хочу
+[09:35:21] Шайтан: ххочуу
+[09:35:23] Шайтан: незнаю
+[09:35:29] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:35:43] БАРБОСКИНЫ: нахер в этот админский понос играть
+[09:35:59] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:00] БАРБОСКИНЫ: тут вдоль дороги строим кишлак с забором
+[09:36:09] БАРБОСКИНЫ: аул ебаный
+[09:36:11] БАРБОСКИНЫ: дикари живут
+[09:36:13] БАРБОСКИНЫ: плов готовят
+[09:36:16] БАРБОСКИНЫ: ебут детей и баранов
+[09:36:16] Шайтан: блять может клин
+[09:36:19] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:21] Шайтан: это самое
+[09:36:24] БАРБОСКИНЫ: в алаха бабаха и супный день верят
+[09:36:32] БАРБОСКИНЫ: хз
+[09:36:37] Шайтан: просто передвижной замок?
+[09:36:42] Шайтан: огромный
+[09:36:50] Шайтан: почему?
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:36:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:00] Шайтан: моного колес просто надо
+[09:37:06] Польские Пряники teleported to Mr_Pyro
+[09:37:06] Польские Пряники: !GOTO MR
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:08] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:10] Шайтан: меньше сопротивления
+[09:37:21] Шайтан: блять кароче
+[09:37:21] Польские Пряники returned Themself to their original position
+[09:37:21] Польские Пряники: !RETURN
+[09:37:35] MikeWise: !motd
+[09:37:36] Шайтан: нмного раз уже делали ваши вышки
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:40] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:53] БАРБОСКИНЫ: пираты
+[09:37:55] БАРБОСКИНЫ: бандиты
+[09:37:57] БАРБОСКИНЫ: рейдить всех
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:37:57] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:20] Шайтан: да бялть 
+[09:38:22] Шайтан: лашгает
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_interiors/refrigerator01a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:24] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence03a.mdl
+[09:38:29] Шайтан: очень хочется не маштабное
+[09:38:33] Шайтан: не сильно маштабное
+[09:38:48] Шайтан: пряники
+[09:39:00] БАРБОСКИНЫ: металла больше
+[09:39:06] Шайтан: даш мне полет я просто хочу понублядать за всем и все
+[09:39:08] Шайтан: как кино
+[09:39:09] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_lab/blastdoor001b.mdl
+[09:39:09] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[09:39:09] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[09:39:09] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_lab/blastdoor001b.mdl
+[09:39:29] БАРБОСКИНЫ: о
+[09:39:33] Шайтан: ебать стояк
+[09:39:52] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[09:39:52] Шайтан suicided!
+[09:39:53] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[09:39:53] KIRKA suicided!
+[09:39:56] Client "Шайтан" connected.
+[09:39:56] Client "KIRKA" connected.
+[09:40:16] БАРБОСКИНЫ: бля
+[09:40:19] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 23 seconds).
+[09:40:28] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 32 seconds).
+[09:40:30] Шайтан: МЕЯН УДАЛИЛИ?
+[09:40:36] Шайтан: МЕНЯ УАЛИЛИ?
+[09:40:50] Шайтан: удаляешь а не даешь полетать
+[09:40:56] Шайтан: че за хуйня
+[09:41:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_lab/blastdoor001b.mdl
+[09:41:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[09:41:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/fence02a.mdl
+[09:41:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_lab/blastdoor001b.mdl
+[09:41:52] Шайтан: как стать админом?
+[09:42:27] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/statue_horse.mdl
+[09:42:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezarmor_glasses
+[09:42:41] Шайтан: НЁРД
+[09:42:44] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/doll01.mdl
+[09:43:03] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_junk/glassbottle01a.mdl
+[09:43:54] Шайтан: блять хочу мачтабную оргию
+[09:44:06] Шайтан: всего сервера
+[09:44:52] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_c17/statue_horse.mdl
+[09:45:00] Шайтан: я хочу просто смотреть
+[09:45:09] Шайтан: о кстати
+[09:45:11] Шайтан: пряник
+[09:45:56] Mr_Pyro cloaked Themself by amount 0
+[09:46:09] Mr_Pyro uncloaked Themself
+[09:46:20] Mr_Pyro uncloaked Themself
+[09:46:20] Mr_Pyro uncloaked Themself
+[09:46:38] Client "Jr_byba" connected.
+[09:47:04] БАРБОСКИНЫ: мы богаты
+[09:47:17] БАРБОСКИНЫ: где вольфрам
+[09:47:18] Шайтан: z crtktn rfbt ukfpf&
+[09:47:25] Шайтан: да
+[09:47:36] Шайтан: XD
+[09:47:40] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[09:47:40] БАРБОСКИНЫ: нашел
+[09:47:40] Шайтан: АХАХАХХАХАХАХАХАХ
+[09:47:51] БАРБОСКИНЫ: во
+[09:47:55] Mr_Pyro killed Toxa08 using env_explosion
+[09:47:55] Mr_Pyro suicided!
+[09:47:55] Mr_Pyro killed Польские Пряники using env_explosion
+[09:47:55] Mr_Pyro killed XLEBYC using env_explosion
+[09:47:55] Mr_Pyro killed LonePlayer022 using env_explosion
+[09:47:55] Mr_Pyro killed Шайтан using env_explosion
+[09:47:55] Mr_Pyro killed KIRKA using env_explosion
+[09:48:09] Mr_Pyro cloaked Themself by amount 0
+[09:48:34] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 116 seconds).
+[09:48:54] Mr_Pyro uncloaked Themself
+[09:49:43] БАРБОСКИНЫ: пиздец там дикари на спавне
+[09:49:49] БАРБОСКИНЫ: сжигают чето
+[09:50:21] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezarmor_flametank
+[09:50:28] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_slforearm
+[09:50:29] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_flametank
+[09:50:30] Шайтан: бля ебать как сюр
+[09:50:30] Jr_byba was killed by entityflame
+[09:50:30] Польские Пряники killed XLEBYC using ent_jack_gmod_eznapalm
+[09:50:35] Mr_Pyro killed klinskoe za 200 using ent_jack_gmod_eznapalm
+[09:50:39] Шайтан killed KIRKA using wep_jack_gmod_hands
+[09:50:40] LonePlayer022 was killed by entityflame
+[09:50:41] Mr_Pyro killed XLEBYC using ent_jack_gmod_eznapalm
+[09:50:43] Шайтан was killed by entityflame
+[09:50:44] Mr_Pyro was killed by entityflame
+[09:50:50] Toxa08 was killed by entityflame
+[09:51:25] Client "Rourando" connected.
+[09:51:45] LonePlayer022 killed klinskoe za 200 using tfa_doibrowninghp
+[09:51:47] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[09:51:47] Польские Пряники suicided!
+[09:52:01] БАРБОСКИНЫ: уходите
+[09:52:05] Mr_Pyro cleared decals
+[09:52:07] Mr_Pyro removed ragdolls
+[09:52:07] Mr_Pyro removed ragdolls
+[09:52:12] KIRKA killed Jr_byba using wep_jack_gmod_hands
+[09:52:13] Mr_Pyro cloaked Themself by amount 0
+[09:52:31] Шайтан: дайте полетать
+[09:52:53] БАРБОСКИНЫ: еще надо тангстен залежу
+[09:52:55] БАРБОСКИНЫ: рахработать
+[09:53:56] БАРБОСКИНЫ: где бренво
+[09:54:23] Mr_Pyro<STEAM_0:1:157056677> spawned sent textscreen_base
+[09:55:03] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_lab/blastdoor001c.mdl
+[09:56:09] Chelik333 killed XLEBYC using tfa_doim1912
+[09:56:12] БАРБОСКИНЫ killed LonePlayer022 using tfa_doiowen
+[09:56:13] БАРБОСКИНЫ killed Toxa08 using tfa_doiowen
+[09:56:17] БАРБОСКИНЫ: дикари
+[09:56:19] Шайтан: я думаю можно после этого к клинскому
+[09:56:38] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_lab/blastdoor001c.mdl
+[09:56:55] Шайтан: ПРЫГАЙТЕ
+[09:57:02] Шайтан: ПРЫГАЙТе
+[09:57:14] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[09:57:17] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[09:57:21] Шайтан: стйоте по очериди
+[09:57:35] Шайтан: слушай клин
+[09:57:38] БАРБОСКИНЫ: буба хочет вступить
+[09:57:40] БАРБОСКИНЫ: не пускаем
+[09:57:43] Шайтан: пошли просто зделаем домик
+[09:57:43] БАРБОСКИНЫ: он бежит
+[09:57:45] БАРБОСКИНЫ: походу
+[09:57:49] Шайтан: маленький
+[09:57:57] klinskoe za 200: можно
+[09:58:26] Mr_Pyro<STEAM_0:1:157056677> spawned model models/props_junk/cardboard_box004a.mdl
+[09:58:40] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[09:59:05] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[09:59:06] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[09:59:28] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[09:59:42] Dropped "Toxa08" from server<STEAM_0:0:33704276>
+[09:59:42] Toxa08 suicided!
+[09:59:44] Dropped "XLEBYC" from server<STEAM_0:1:615225475>
+[09:59:44] XLEBYC suicided!
+[09:59:47] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[09:59:47] LonePlayer022 suicided!
+[09:59:50] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[09:59:50] klinskoe za 200 suicided!
+[10:00:06] БАРБОСКИНЫ: все вышли
+[10:00:33] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[10:00:37] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[10:00:40] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[10:00:44] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[10:00:49] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[10:00:49] Шайтан suicided!
+[10:00:54] БАРБОСКИНЫ: да в пизду играть тогда
+[10:00:57] БАРБОСКИНЫ: никто уже не зайдет
+[10:01:04] БАРБОСКИНЫ: попозже можно
+[10:01:08] БАРБОСКИНЫ: хотя вряд ли
+[10:01:11] БАРБОСКИНЫ: ну давай
+[10:01:12] MikeWise: !motd
+[10:01:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[10:01:21] Dropped "БАРБОСКИНЫ" from server<STEAM_0:1:926470495>
+[10:01:21] БАРБОСКИНЫ suicided!
+[10:02:18] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpowderkeg
+[10:03:11] Jr_byba killed KIRKA using wep_jack_gmod_ezshovel
+[10:03:21] Jr_byba killed Pedro using wep_jack_gmod_ezshovel
+[10:04:19] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[10:04:19] KIRKA suicided!
+[10:05:26] Chelik333 killed Jr_byba using tfa_doim1912
+[10:05:31] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[10:05:31] Jr_byba suicided!
+[10:07:13] Dropped "MikeWise" from server<STEAM_0:1:792108138>
+[10:07:13] MikeWise suicided!
+[10:08:40] Client "MikeWise" connected.
+[10:09:03] Client "PUNKLORD" connected.
+[10:09:04] Client "MikeWise" spawned in server <STEAM_0:1:792108138> (took 24 seconds).
+[10:09:35] Mr_Pyro silently slayed Themself
+[10:09:35] Mr_Pyro: !sslay Mr_Pyro
+[10:09:36] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[10:09:36] Mr_Pyro suicided!
+[10:09:51] Client "PUNKLORD" spawned in server <STEAM_0:0:31766296> (took 48 seconds).
+[10:12:44] MikeWise: !motd
+[10:12:51] (TEAM) MikeWise: jmod_ez_inv
+[10:12:55] (TEAM) MikeWise: !jmod_ez_inv
+[10:13:17] (TEAM) MikeWise: /jmod_ez_inv
+[10:13:34] MikeWise: !motd
+[10:13:53] MikeWise: !motd
+[10:15:37] Client "Rourando" connected.
+[10:18:16] PUNKLORD: supply radio: workbench
+[10:18:37] Client "Rourando" connected.
+[10:21:07] MikeWise: я не знаю русский
+[10:21:31] MikeWise: я не знаю русский
+[10:23:45] MikeWise: wait
+[10:24:49] MikeWise: noooo
+[10:24:53] Client "Rourando" spawned in server <STEAM_0:0:215095834> (took 376 seconds).
+[10:25:22] MikeWise: no idea
+[10:25:50] MikeWise: lol
+[10:26:08] MikeWise: maybe
+[10:26:33] MikeWise: древесина
+[10:26:46] MikeWise: google translate
+[10:27:23] MikeWise: plasiba
+[10:28:32] Pedro killed Rourando using rust_eoka
+[10:30:28] MikeWise: большой газовый бум
+[10:31:36] Dropped "Rourando" from server<STEAM_0:0:215095834>
+[10:31:36] Rourando suicided!
+[10:32:58] MikeWise: нажмите E на верстаке
+[10:33:57] MikeWise: резина
+[10:35:00] MikeWise: Я пытаюсь, но не получается
+[10:36:40] MikeWise: what?
+[10:36:59] MikeWise: ALT + E = X
+[10:37:32] MikeWise: ALT + E?
+[10:38:02] MikeWise: по какой-то причине ALT+E не работает
+[10:38:45] MikeWise: можете ли вы набрать комбинацию клавиш в чате?
+[10:39:10] MikeWise: секрет?
+[10:40:05] MikeWise: LOL
+[10:41:54] MikeWise: Я пытаюсь создать набор инструментов, как я видел, кто-то это делает.
+[10:43:10] Client "klinskoe za 200" connected.
+[10:43:53] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 43 seconds).
+[10:45:03] MikeWise: holy shit
+[10:45:12] MikeWise: YES
+[10:45:13] Pedro killed MikeWise using rust_boltrifle
+[10:45:16] MikeWise: lol
+[10:47:35] Pedro killed MikeWise using rust_boltrifle
+[10:48:41] Pedro killed MikeWise using wep_jack_gmod_hands
+[10:52:25] Dropped "Pedro" from server<STEAM_0:1:577755325>
+[10:52:25] Pedro suicided!
+[10:54:12] MikeWise: прости, брат, мой отец позвонил мне
+[10:54:56] Dropped "MikeWise" from server<STEAM_0:1:792108138>
+[10:54:56] MikeWise suicided!
+[11:00:20] Client "Польские Пряники" connected.
+[11:01:14] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 54 seconds).
+[11:04:25] Dropped "Chelik333" from server<STEAM_0:1:172229083>
+[11:04:25] Chelik333 suicided!
+[11:04:31] Dropped "PUNKLORD" from server<STEAM_0:0:31766296>
+[11:04:31] PUNKLORD suicided!
+[11:04:47] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[11:04:47] klinskoe za 200 suicided!
+[11:08:48] Польские Пряники<STEAM_0:0:555258766> spawned ragdoll models/player/t_leet.mdl
+[11:10:50] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[11:10:50] Польские Пряники suicided!
+[11:29:59] Client "VOLSTER" connected.
+[11:31:19] Client "VOLSTER" connected.
+[11:40:09] Client "VOLSTER" spawned in server <STEAM_0:1:893766276> (took 530 seconds).
+[11:40:52] VOLSTER: !name Kawa
+[11:40:56] VOLSTER: f
+[11:44:10] Dropped "VOLSTER" from server<STEAM_0:1:893766276>
+[11:44:10] VOLSTER suicided!
+[13:01:33] Client "ВАНЯ БОЛТИК228" connected.
+[13:01:50] Client "ВАНЯ БОЛТИК228" connected.
+[13:06:46] Client "ВАНЯ БОЛТИК228" spawned in server <STEAM_0:0:902087283> (took 296 seconds).
+[13:08:01] ВАНЯ БОЛТИК228: !menu
+[13:08:55] Dropped "ВАНЯ БОЛТИК228" from server<STEAM_0:0:902087283>
+[13:08:55] ВАНЯ БОЛТИК228 suicided!
+[14:44:04] Client "Hellinberg" connected.
+[16:01:39] Client "VOLSTER" connected.
+[16:03:07] Client "VOLSTER" spawned in server <STEAM_0:1:893766276> (took 88 seconds).
+[16:08:49] Dropped "VOLSTER" from server<STEAM_0:1:893766276>
+[16:08:49] VOLSTER suicided!
+[22:00:26] Client "Soldier_S.C.A.F" connected.
+[22:04:17] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 231 seconds).
+[22:22:05] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[22:22:05] Soldier_S.C.A.F suicided!
+[22:27:01] Client "Дурашек Барашек" connected.
+[22:34:41] Client "Дурашек Барашек" spawned in server <STEAM_0:1:222656611> (took 460 seconds).
+[22:38:56] Dropped "Дурашек Барашек" from server<STEAM_0:1:222656611>
+[22:38:56] Дурашек Барашек suicided!
+<Logging continued in "data/ulx_logs/07-23-25.txt">

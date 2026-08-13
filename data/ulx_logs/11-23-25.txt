@@ -1,0 +1,403 @@
+<Logging continued from "data/ulx_logs/11-22-25.txt">
+[00:06:57] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_aboot_jsmod_ezcrate_fulton
+[00:07:02] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[00:07:03] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[00:07:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[00:07:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[00:07:06] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[00:07:07] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[00:07:07] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[00:07:08] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsteel
+[00:13:33] Client "Soldier_S.C.A.F" connected.
+[00:16:42] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 189 seconds).
+[00:27:43] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[00:27:43] Soldier_S.C.A.F suicided!
+[00:28:19] Client "sokolise" connected.
+[00:29:37] Client "sokolise" spawned in server <STEAM_0:1:121477088> (took 78 seconds).
+[00:38:57] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[00:38:57] vasiliy karat suicided!
+[00:50:16] Dropped "sokolise" from server<STEAM_0:1:121477088>
+[00:50:16] sokolise suicided!
+[01:01:39] Client "v0nuchey_Nos0check52" connected.
+[02:42:52] Client "Soldier_S.C.A.F" connected.
+[02:45:26] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 154 seconds).
+[02:47:27] Client "[|||||         ] Loading" connected.
+[02:48:39] Client "[|||||         ] Loading" spawned in server <STEAM_0:0:63578334> (took 72 seconds).
+[02:49:13] [|||||         ] Loading: прив
+[02:49:15] Soldier_S.C.A.F: хай
+[03:02:49] Client "OVERLORD" connected.
+[03:20:52] Client "ТЕРЕНТИЙ" connected.
+[03:29:21] Client "OVERLORD" connected.
+[03:33:00] [|||||         ] Loading was killed by ent_jack_gmod_ezwarmine
+[03:41:17] Client "FRED01" connected.
+[03:54:54] Client "OVERLORD" connected.
+[04:02:24] Client "Beyaz saray" connected.
+[04:03:01] Client "Maxorka28" connected.
+[04:05:47] Client "Сырный пакетик" connected.
+[04:06:00] Client "Egor Letov" connected.
+[04:06:34] Client "neRUSSKE" connected.
+[04:07:21] Client "Egor Letov" spawned in server <STEAM_0:1:714427023> (took 81 seconds).
+[04:07:30] Client "Сырный пакетик" spawned in server <STEAM_0:0:617253467> (took 103 seconds).
+[04:07:35] Client "neRUSSKE" spawned in server <STEAM_0:0:160861900> (took 61 seconds).
+[04:09:44] Egor Letov: !motd
+[04:10:11] [|||||         ] Loading: прив
+[04:10:48] (TEAM) Egor Letov: ц
+[04:13:00] Client "patrikalkas" connected.
+[04:13:03] Dropped "neRUSSKE" from server<STEAM_0:0:160861900>
+[04:13:03] neRUSSKE suicided!
+[04:13:14] (TEAM) Egor Letov: ы
+[04:14:52] Client "Maxorka28" spawned in server <STEAM_0:0:247074898> (took 711 seconds).
+[04:16:01] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 181 seconds).
+[04:16:17] Soldier_S.C.A.F: да
+[04:16:30] Soldier_S.C.A.F: оно на 3 грейде
+[04:16:32] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[04:16:32] patrikalkas suicided!
+[04:16:41] Soldier_S.C.A.F: заказы
+[04:16:51] Client "patrikalkas" connected.
+[04:18:10] Client "patrikalkas" spawned in server <STEAM_0:1:602056573> (took 79 seconds).
+[04:18:11] Dropped "Maxorka28" from server<STEAM_0:0:247074898>
+[04:18:11] Maxorka28 suicided!
+[04:18:19] [|||||         ] Loading: привет
+[04:18:28] Egor Letov: день добрый
+[04:18:49] Dropped "patrikalkas" from server<STEAM_0:1:602056573>
+[04:18:49] patrikalkas suicided!
+[04:18:55] [|||||         ] Loading: я так понимаю мы соседи на теретории
+[04:19:02] Egor Letov: возможно
+[04:19:46] [|||||         ] Loading: вон там на горизонте владения горных бандитов. Если нужнабудет эконо
+[04:20:03] Egor Letov: запомню
+[04:20:18] [|||||         ] Loading: ..экономическая поддержка обращяйся
+[04:21:41] Client "FRED01" connected.
+[04:23:30] [|||||         ] Loading was killed by lvs_wheeldrive_citroen_type23
+[04:25:12] Egor Letov: че за подгончики?
+[04:25:37] Soldier_S.C.A.F: кароч скоро керамику буду ставить на производство
+[04:25:51] Soldier_S.C.A.F: да
+[04:25:54] Client "FRED01" spawned in server <STEAM_0:1:767661328> (took 253 seconds).
+[04:25:55] [|||||         ] Loading: дипломотический подарок . Считай пакт о вазимо поддерке согласны?
+[04:26:05] Egor Letov: почему бы и нет
+[04:26:09] Soldier_S.C.A.F: так и сделаю
+[04:26:10] Soldier_S.C.A.F: но потом
+[04:26:33] Soldier_S.C.A.F: нет
+[04:26:55] [|||||         ] Loading was killed by lvs_wheeldrive_citroen_type23
+[04:26:57] Soldier_S.C.A.F: да щя
+[04:27:02] Soldier_S.C.A.F: аккуратно хчу
+[04:28:41] Soldier_S.C.A.F: оу
+[04:28:47] Soldier_S.C.A.F: неожданно
+[04:28:53] Soldier_S.C.A.F: мне так уже на грузовике заехали
+[04:29:00] Soldier_S.C.A.F: ахуел знатно
+[04:35:19] Сырный пакетик: supply radio: drill
+[04:38:33] Soldier_S.C.A.F: приём
+[04:38:43] Soldier_S.C.A.F: че у вас там?
+[04:38:59] Soldier_S.C.A.F: я тебе вопрос задал
+[04:39:17] Soldier_S.C.A.F: ну
+[04:39:22] Soldier_S.C.A.F: а нахрена он нам нужен
+[04:43:15] Client "OVERLORD" spawned in server <STEAM_0:0:638432650> (took 2901 seconds).
+[04:45:51] Soldier_S.C.A.F: че дела как
+[04:45:59] Soldier_S.C.A.F: ну
+[04:46:06] Soldier_S.C.A.F: так а нахрена нам оно нужно
+[04:46:14] Soldier_S.C.A.F: нет
+[04:46:29] Soldier_S.C.A.F: мне так проще
+[04:46:30] Soldier_S.C.A.F: и всё!
+[04:46:44] Soldier_S.C.A.F: честно
+[04:46:50] Soldier_S.C.A.F: ну не хочу реактор
+[04:47:05] Soldier_S.C.A.F: так это к тебе вопросы
+[04:47:15] Client "Kruger" connected.
+[04:51:05] Soldier_S.C.A.F: какой ещё блять бунт
+[04:51:28] Soldier_S.C.A.F: на дизеле жить и всё
+[04:51:32] Soldier_S.C.A.F: мне реактор не нужен
+[04:52:17] Client "Kruger" spawned in server <STEAM_0:0:634201658> (took 302 seconds).
+[04:52:56] Soldier_S.C.A.F: ооой блять
+[04:53:03] Soldier_S.C.A.F: нахуй было портить СИСТЕМУ
+[04:53:13] Soldier_S.C.A.F: А НАХУЙ ГРЕЙДИТЬ
+[04:53:23] [|||||         ] Loading suicided!
+[04:53:23] Soldier_S.C.A.F: МНЕ НЕ НАДО ПОЛНОЕ ПРОИЗВОДСТВО
+[04:59:34] Soldier_S.C.A.F: не расчитал нагрузку
+[05:05:21] Dropped "Kruger" from server<STEAM_0:0:634201658>
+[05:05:21] Kruger suicided!
+[05:05:26] Soldier_S.C.A.F: я так экономику
+[05:05:28] Soldier_S.C.A.F: абузю
+[05:06:27] Dropped "OVERLORD" from server<STEAM_0:0:638432650>
+[05:06:27] OVERLORD suicided!
+[05:09:15] Soldier_S.C.A.F: пойдет
+[05:10:12] Client "neRUSSKE" connected.
+[05:10:41] Client "neRUSSKE" spawned in server <STEAM_0:0:160861900> (took 29 seconds).
+[05:12:14] Soldier_S.C.A.F: отдельно
+[05:13:23] Soldier_S.C.A.F: куда!
+[05:13:28] Soldier_S.C.A.F: там наш бункер
+[05:13:47] Soldier_S.C.A.F: ушли отсюда
+[05:14:01] Soldier_S.C.A.F: да он новичек
+[05:16:48] Soldier_S.C.A.F: ладно я пока слетаю на вертолёте
+[05:16:51] Soldier_S.C.A.F: посмотрю что как
+[05:18:39] [|||||         ] Loading: прив
+[05:20:09] Soldier_S.C.A.F: здраствуйте
+[05:20:13] [|||||         ] Loading: привет
+[05:20:20] Soldier_S.C.A.F: чем мы тут промышляем?
+[05:20:45] [|||||         ] Loading: добыча ценных ископаемых
+[05:20:49] Soldier_S.C.A.F: хм
+[05:20:57] Soldier_S.C.A.F: ну ладно
+[05:22:05] Soldier_S.C.A.F: а нахера помечать табличками
+[05:25:17] Client "￥ǾḼΌ" connected.
+[05:26:01] Client "￥ǾḼΌ" spawned in server <STEAM_0:0:53155741> (took 44 seconds).
+[05:26:38] Client "๋Бурушка" connected.
+[05:31:02] Soldier_S.C.A.F: емае
+[05:31:06] Soldier_S.C.A.F: а че так воняет
+[05:31:14] Soldier_S.C.A.F: а
+[05:31:18] Soldier_S.C.A.F: эт освещение просто
+[05:31:31] Soldier_S.C.A.F: кстати
+[05:31:44] Soldier_S.C.A.F: оружейную можешь делать в конце бункера
+[05:31:58] Soldier_S.C.A.F: столица там
+[05:32:14] Soldier_S.C.A.F: я там для большейго удобства сделал
+[05:32:21] Soldier_S.C.A.F: чтобы в расплох не застали
+[05:34:20] Soldier_S.C.A.F: ебать тесно
+[05:37:30] Client "๋Бурушка" spawned in server <STEAM_0:0:545093563> (took 652 seconds).
+[05:39:27] ￥ǾḼΌ: FFFFFFFFFFFFFFFF
+[05:40:05] Client "BYBLIK" connected.
+[05:40:24] Client "Wonder Of You" connected.
+[05:56:59] Soldier_S.C.A.F: емае
+[05:57:03] Soldier_S.C.A.F: НАХУЙ ТУТ ЛИТЛА
+[05:57:14] ￥ǾḼΌ: !motd
+[05:57:39] Soldier_S.C.A.F: я такого бредовшины ещё не видал....
+[05:58:10] Soldier_S.C.A.F: к пушке хочу постаивть
+[05:58:13] ๋Бурушка: как точку поставить
+[05:58:38] Soldier_S.C.A.F: да
+[05:59:25] Soldier_S.C.A.F: ДА НАХУЯ ВТОРАЯ
+[05:59:29] Soldier_S.C.A.F: ОДНОЙ И ВСЁ
+[05:59:40] Soldier_S.C.A.F: ВОТ БЛЯТЬ ОСНОВНАЯ
+[06:00:35] Egor Letov: supply radio: sentry
+[06:01:13] Soldier_S.C.A.F: это на тот случай
+[06:01:20] Soldier_S.C.A.F: если будут застовать в расплох
+[06:01:29] Soldier_S.C.A.F: производная в пизде окажется
+[06:01:35] Soldier_S.C.A.F: а пушки негде брать
+[06:02:33] Soldier_S.C.A.F: взрывчатка
+[06:04:16] Soldier_S.C.A.F: ебанный рот
+[06:04:23] Soldier_S.C.A.F: куда столько таких снаряжов
+[06:05:25] Client "А ПО ЖОПЕ!?" connected.
+[06:05:29] Client "FoLime" connected.
+[06:05:42] Client "nick" connected.
+[06:06:26] Soldier_S.C.A.F: да
+[06:06:29] Soldier_S.C.A.F: а че ты хотел
+[06:06:49] Client "А ПО ЖОПЕ!?" spawned in server <STEAM_0:1:557416607> (took 84 seconds).
+[06:10:08] Egor Letov: хай
+[06:10:15] [|||||         ] Loading: хай как дела
+[06:10:22] Soldier_S.C.A.F: опа
+[06:10:25] [|||||         ] Loading: смотрю отменный дом построил
+[06:10:26] Soldier_S.C.A.F: здаров а по жоп
+[06:10:27] Egor Letov: ну вот простенькую кибитку отстроил
+[06:10:36] Egor Letov: место лишнее
+[06:10:52] Egor Letov: могу показать
+[06:10:56] Egor Letov: если есть желание
+[06:11:02] [|||||         ] Loading: с радостью
+[06:11:02] Egor Letov: экскурсия типа
+[06:11:03] neRUSSKE: !motd
+[06:11:20] Egor Letov: гуляйте
+[06:11:57] Client "nick" spawned in server <STEAM_0:1:713394278> (took 375 seconds).
+[06:12:43] [|||||         ] Loading: прекрастное мест всё как на ладоне
+[06:12:45] Dropped "nick" from server<STEAM_0:1:713394278>
+[06:12:45] nick suicided!
+[06:12:48] Egor Letov: это точно
+[06:13:19] [|||||         ] Loading: слушай могу артелерию подарить на крышу что думаеш?
+[06:13:26] Egor Letov: можно
+[06:14:03] Soldier_S.C.A.F: оо
+[06:14:05] Soldier_S.C.A.F: ты вернулся
+[06:14:38] ￥ǾḼΌ was killed by ent_aboot_jsmod_ezcrate_fulton
+[06:14:44] Soldier_S.C.A.F: во первых!
+[06:14:55] Soldier_S.C.A.F: патронов на эмке мало можно иметь
+[06:14:58] Soldier_S.C.A.F: во вторых
+[06:15:03] Soldier_S.C.A.F: ПП норм ганы
+[06:16:27] Dropped "А ПО ЖОПЕ!?" from server<STEAM_0:1:557416607>
+[06:16:27] А ПО ЖОПЕ!? suicided!
+[06:17:31] Soldier_S.C.A.F: он на тебе
+[06:18:02] Egor Letov: надо еще стен тут?
+[06:18:06] Egor Letov: прикрыть пушку\
+[06:18:24] [|||||         ] Loading: предлагаю тестовый залп. наверно
+[06:18:30] Egor Letov: делаем
+[06:18:48] [|||||         ] Loading: расстояеие 160м
+[06:18:55] [|||||         ] Loading: -50
+[06:19:01] [|||||         ] Loading: 40
+[06:19:20] [|||||         ] Loading: огонь
+[06:19:37] Egor Letov: корды?
+[06:19:40] Soldier_S.C.A.F: ладно пойду разведаю
+[06:19:48] [|||||         ] Loading: х -50 у 40
+[06:20:03] [|||||         ] Loading: 160м
+[06:20:33] Egor Letov: ого
+[06:20:39] Egor Letov: аж кассета
+[06:21:24] Soldier_S.C.A.F: здраствуйте
+[06:21:29] [|||||         ] Loading: прив
+[06:21:39] Soldier_S.C.A.F: вас то я знаю
+[06:21:47] Soldier_S.C.A.F: интересный дом то
+[06:21:53] Egor Letov: спасибо
+[06:22:14] Soldier_S.C.A.F: ладно
+[06:22:20] Soldier_S.C.A.F: оставлю вас в покое
+[06:22:25] Soldier_S.C.A.F: у меня дел просто полно
+[06:23:51] Soldier_S.C.A.F: ооой блять
+[06:23:52] neRUSSKE: !motd
+[06:23:57] Soldier_S.C.A.F: а представь
+[06:24:02] Soldier_S.C.A.F: ЕСЛИ В РАСПЛОХ ЗАСТАНУТ
+[06:24:13] Soldier_S.C.A.F: уж поверь
+[06:24:18] Soldier_S.C.A.F: и не такое пробивали
+[06:24:56] [|||||         ] Loading: баз запчастей не хватает на клачтерную
+[06:25:13] [|||||         ] Loading: на кластер*
+[06:26:57] neRUSSKE killed neRUSSKE
+[06:27:04] Egor Letov: надо бы какой то движ
+[06:27:15] Egor Letov: а то без дела считай
+[06:28:00] Client "Sargent Leander [∑≠⍙]" connected.
+[06:28:59] Soldier_S.C.A.F: об радиации хоть подумайте
+[06:29:02] Client "Sargent Leander [∑≠⍙]" spawned in server <STEAM_0:1:430553355> (took 62 seconds).
+[06:36:06] Soldier_S.C.A.F: эй!
+[06:36:09] Soldier_S.C.A.F: я тебя видел
+[06:36:27] ๋Бурушка: как
+[06:36:31] ๋Бурушка: верстак открыть
+[06:36:37] ๋Бурушка: первый открывается
+[06:36:41] ๋Бурушка: другие нет
+[06:36:43] Soldier_S.C.A.F: сначало его запитать
+[06:36:49] Soldier_S.C.A.F: энегрия,газ
+[06:36:51] ๋Бурушка: спс
+[06:37:52] Soldier_S.C.A.F: ах
+[06:37:58] Soldier_S.C.A.F: скуччно чет
+[06:38:13] Soldier_S.C.A.F: ну не знаю
+[06:38:15] Soldier_S.C.A.F: а так
+[06:38:19] Soldier_S.C.A.F: мне придется уйти
+[06:39:01] Soldier_S.C.A.F:  о бож\
+[06:39:05] Soldier_S.C.A.F: на мне баг
+[06:39:11] Soldier_S.C.A.F: бесконечного радиста
+[06:39:13] Egor Letov: прием
+[06:39:18] Egor Letov: есть кто на линии?
+[06:39:31] Soldier_S.C.A.F: ебать
+[06:39:34] Egor Letov: ля ля ля
+[06:39:35] Soldier_S.C.A.F: а че логает
+[06:39:48] Soldier_S.C.A.F: у меня 3 фпс на все стороны
+[06:40:55] Soldier_S.C.A.F: сырный!
+[06:41:12] Soldier_S.C.A.F: сырный ответь
+[06:41:27] Soldier_S.C.A.F: ах
+[06:41:29] Soldier_S.C.A.F: кароч
+[06:41:36] Soldier_S.C.A.F: сообщение в глобал напишу
+[06:41:42] Soldier_S.C.A.F: и тебе лидерку передам
+[06:41:52] Soldier_S.C.A.F: зачем застраивоваешь?
+[06:42:03] Soldier_S.C.A.F: бро
+[06:42:07] Soldier_S.C.A.F: это не так работает
+[06:43:07] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[06:43:07] Soldier_S.C.A.F suicided!
+[06:46:05] Sargent Leander [∑≠⍙] was killed by ent_jack_gmod_ezaugerdrill
+[06:48:42] Client "maxikyar" connected.
+[06:52:38] Client "maxikyar" spawned in server <STEAM_0:0:884383817> (took 236 seconds).
+[06:53:28] Сырный пакетик: supply radio: global message
+[06:53:31] Сырный пакетик: supply radio: global message
+[06:53:58] ๋Бурушка killed ￥ǾḼΌ using tfa_doistg44
+[06:54:13] Dropped "Sargent Leander [∑≠⍙]" from server<STEAM_0:1:430553355>
+[06:54:13] Sargent Leander [∑≠⍙] suicided!
+[06:56:53] [|||||         ] Loading: /s тест
+[06:57:16] [|||||         ] Loading: /p test
+[06:57:31] [|||||         ] Loading: !pchat test
+[07:03:37] Сырный пакетик killed FRED01 using lvs_m4_mow
+[07:04:27] FRED01 was killed by ent_jack_gmod_ezcrate_uni
+[07:04:49] Dropped "neRUSSKE" from server<STEAM_0:0:160861900>
+[07:04:49] neRUSSKE suicided!
+[07:05:41] Dropped "Сырный пакетик" from server<STEAM_0:0:617253467>
+[07:05:41] Сырный пакетик suicided!
+[07:07:51] [|||||         ] Loading was killed by ent_jack_aidbox
+[07:11:10] ๋Бурушка: м
+[07:11:30] Client "Polokaso" connected.
+[07:14:52] [|||||         ] Loading: интерестно что происходит
+[07:15:37] [|||||         ] Loading: нет у меня примерно теже проблема
+[07:16:24] [|||||         ] Loading: прив
+[07:16:32] Egor Letov: хай
+[07:16:36] Egor Letov: че за движ?
+[07:16:59] [|||||         ] Loading: там заканчивают игру и собираются ресурсы разодовать
+[07:17:03] Egor Letov: о
+[07:17:07] Egor Letov: подсосемся?
+[07:17:19] [|||||         ] Loading: не я тож уже всё
+[07:17:20] ๋Бурушка: // ыыыы
+[07:17:25] Egor Letov: жаль
+[07:17:30] Egor Letov: как то ничего не было
+[07:17:37] Egor Letov: никаких геноцидов
+[07:17:39] Egor Letov: (((
+[07:17:43] [|||||         ] Loading: кароч раз мы в альянсе хочю базу тебе передать
+[07:17:50] Egor Letov: даже так
+[07:17:50] [|||||         ] Loading: можеш устроить
+[07:18:03] [|||||         ] Loading: видиш какая башня для арты
+[07:18:09] Egor Letov: вау
+[07:18:42] [|||||         ] Loading: в качестве альянса все ресурсы передаю под твоё попечительство поех�
+[07:18:58] [|||||         ] Loading: поех на мини экскурсию тоих новых владений
+[07:19:43] [|||||         ] Loading: добыча метала
+[07:19:57] [|||||         ] Loading: керамика
+[07:20:03] Egor Letov: а че за такнк такой:?
+[07:20:06] Egor Letov: лютый
+[07:20:10] [|||||         ] Loading: тяж
+[07:20:29] [|||||         ] Loading: привет я всё переходи под егора ок
+[07:20:33] Egor Letov: люто
+[07:20:40] [|||||         ] Loading: под фракц егора
+[07:21:01] [|||||         ] Loading: противатанк
+[07:21:10] Egor Letov: люто
+[07:21:14] ￥ǾḼΌ: !motd
+[07:21:34] [|||||         ] Loading: эту конобку надо на башю для снарядов арты
+[07:23:55] [|||||         ] Loading: тебе золото вызвать или продать и отдать деньгами?
+[07:24:06] Egor Letov: как те удобнее
+[07:25:16] [|||||         ] Loading: здесь площядка для вертушки которую я разбил :(
+[07:25:25] Egor Letov: новую построю тогда
+[07:25:28] Dropped "maxikyar" from server<STEAM_0:0:884383817>
+[07:25:28] maxikyar suicided!
+[07:25:29] Egor Letov: раз такое дело
+[07:27:09] [|||||         ] Loading: пока
+[07:27:15] Egor Letov: удачи
+[07:27:23] Dropped "[|||||         ] Loading" from server<STEAM_0:0:63578334>
+[07:27:23] [|||||         ] Loading suicided!
+[07:28:01] FRED01 suicided!
+[07:28:10] Dropped "FRED01" from server<STEAM_0:1:767661328>
+[07:28:10] FRED01 suicided!
+[07:30:35] Client "dizeraktor" connected.
+[07:34:06] Client "Polokaso" spawned in server <STEAM_0:0:925992726> (took 1356 seconds).
+[07:36:36] Egor Letov: !motd
+[07:36:38] Polokaso: !motd
+[07:36:47] Egor Letov: !motd
+[07:40:31] Polokaso: !motd
+[07:40:49] Polokaso: !motd
+[07:46:32] ￥ǾḼΌ killed ๋Бурушка using tfa_doistg44
+[07:50:15] ￥ǾḼΌ: jmod_ez_econ
+[08:02:04] ￥ǾḼΌ killed ￥ǾḼΌ
+[08:04:15] ๋Бурушка killed ￥ǾḼΌ using tfa_doik98_scop
+[08:05:23] ๋Бурушка was killed by ent_jack_gmod_ezsticknade
+[08:05:23] ￥ǾḼΌ was killed by ent_jack_gmod_ezsticknade
+[08:07:05] ￥ǾḼΌ killed ๋Бурушка using player
+[08:13:06] ￥ǾḼΌ was killed by ent_jack_gmod_ezherocket
+[08:13:14] ๋Бурушка was killed by lvs_helicopter_cod_ah6
+[08:13:31] Dropped "๋Бурушка" from server<STEAM_0:0:545093563>
+[08:13:31] ๋Бурушка suicided!
+[08:13:37] Dropped "￥ǾḼΌ" from server<STEAM_0:0:53155741>
+[08:13:37] ￥ǾḼΌ suicided!
+[08:21:03] Client "Kruger" connected.
+[08:23:53] Client "Kruger" spawned in server <STEAM_0:0:634201658> (took 170 seconds).
+[08:30:49] Kruger: !motd
+[08:30:53] Kruger: !motd
+[08:50:41] Client "rty000pro" connected.
+[08:51:22] Client "rty000pro" spawned in server <STEAM_0:1:593166516> (took 41 seconds).
+[09:00:01] Client "Dexpaster_6502" connected.
+[09:18:30] rty000pro: supply radio: vechicle mines
+[09:23:47] Dropped "Kruger" from server<STEAM_0:0:634201658>
+[09:23:47] Kruger suicided!
+[09:27:08] rty000pro suicided!
+[09:27:08] Egor Letov was killed by lvs_wheeldrive_dodwillyjeep
+[09:28:03] Dropped "rty000pro" from server<STEAM_0:1:593166516>
+[09:28:03] rty000pro suicided!
+[09:42:39] (TEAM) Egor Letov: ау
+[09:42:46] Egor Letov: эу
+[09:44:29] Polokaso: !motd
+[10:00:29] Client "OutLaw" connected.
+[10:23:38] Dropped "Polokaso" from server<STEAM_0:0:925992726>
+[10:23:38] Polokaso suicided!
+[10:24:08] Dropped "Egor Letov" from server<STEAM_0:1:714427023>
+[10:24:08] Egor Letov suicided!
+[18:57:15] Client "vasiliy karat" connected.
+[18:58:33] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 78 seconds).
+[19:00:47] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[19:00:47] vasiliy karat suicided!
+[20:39:40] Client "๋Бурушка" connected.
+[20:40:59] Client "๋Бурушка" spawned in server <STEAM_0:0:545093563> (took 79 seconds).
+[20:43:39] Dropped "๋Бурушка" from server<STEAM_0:0:545093563>
+[20:43:39] ๋Бурушка suicided!
+[21:09:46] Client "๋Бурушка" connected.
+[21:10:15] Client "๋Бурушка" spawned in server <STEAM_0:0:545093563> (took 29 seconds).
+[21:17:22] ๋Бурушка: *inv*м
+[21:29:52] ๋Бурушка: е*inv*
+[21:47:52] ๋Бурушка: м
+[22:34:23] Dropped "๋Бурушка" from server<STEAM_0:0:545093563>
+[22:34:23] ๋Бурушка suicided!
+<Logging continued in "data/ulx_logs/11-24-25.txt">

@@ -1,0 +1,43 @@
+[23:53:58] New map: gm_micronations
+[23:54:33] Client "Bot01" connected.
+[23:54:33] Client "Bot01" spawned in server <BOT> (took 69 seconds).
+[23:54:34] Client "Bot02" connected.
+[23:54:34] Client "Bot02" spawned in server <BOT> (took 70 seconds).
+[23:54:34] Client "Bot03" connected.
+[23:54:34] Client "Bot03" spawned in server <BOT> (took 70 seconds).
+[23:54:38] RusLanConnection brought Bot01,Bot02,Bot03
+[23:55:58] RusLanConnection brought Bot01,Bot02,Bot03
+[23:56:03] RusLanConnection killed Bot03 using player
+[23:56:06] RusLanConnection killed Bot02 using player
+[23:56:30] Server is shutting down/changing levels.
+
+
+
+[23:56:38] New map: gm_micronations
+[23:57:28] Client "Bot04" connected.
+[23:57:28] Client "Bot04" spawned in server <BOT> (took 56 seconds).
+[23:57:29] Client "Bot05" connected.
+[23:57:29] Client "Bot05" spawned in server <BOT> (took 57 seconds).
+[23:57:29] Client "Bot06" connected.
+[23:57:29] Client "Bot06" spawned in server <BOT> (took 57 seconds).
+[23:57:37] RusLanConnection brought Bot04,Bot05,Bot06
+[23:57:42] RusLanConnection killed Bot04 using player
+[23:57:47] Bot06 killed Bot05 using player
+[23:58:50] Server is shutting down/changing levels.
+
+
+
+[23:58:58] New map: gm_micronations
+[23:59:24] Client "Bot07" connected.
+[23:59:24] Client "Bot07" spawned in server <BOT> (took 33 seconds).
+[23:59:24] Client "Bot08" connected.
+[23:59:24] Client "Bot08" spawned in server <BOT> (took 33 seconds).
+[23:59:25] Client "Bot09" connected.
+[23:59:25] Client "Bot09" spawned in server <BOT> (took 34 seconds).
+[23:59:29] RusLanConnection brought Bot07,Bot08,Bot09
+[23:59:41] Bot07 killed Bot08 using player
+[23:59:44] RusLanConnection killed Bot07 using player
+[23:59:47] RusLanConnection brought Bot07,Bot08,Bot09
+[23:59:47] RusLanConnection brought Bot07,Bot08,Bot09
+[23:59:50] RusLanConnection killed Bot09 using player
+<Logging continued in "data/ulx_logs/04-05-24.txt">

@@ -1,0 +1,326 @@
+<Logging continued from "data/ulx_logs/10-06-25.txt">
+[00:05:01] Client "Польские Пряники" connected.
+[00:08:09] Client "Польские Пряники" spawned in server <STEAM_0:0:555258766> (took 188 seconds).
+[00:09:14] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_bmw_r75_upd
+[00:09:39] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_bmw_r75_upd
+[00:12:06] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_citroen_type23
+[00:12:11] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_citroen_type23
+[00:13:18] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezfloorsentry
+[00:13:28] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_nukeflash
+[00:13:48] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:14:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezarmor_pouch
+[00:14:05] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_cratepack
+[00:14:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_ezration
+[00:14:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbasicparts
+[00:14:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbasicparts
+[00:14:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbasicparts
+[00:14:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbasicparts
+[00:14:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbasicparts
+[00:14:27] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eztoolbox
+[00:15:37] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:17:01] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:17:58] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:18:31] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:19:02] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:19:51] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:20:27] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:21:00] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:21:46] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:22:24] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:22:52] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:23:47] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:26:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_ezarmorplate_small
+[00:26:48] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:27:51] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezcrate
+[00:28:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezshovel
+[00:28:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezdetpack
+[00:28:53] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezslam
+[00:31:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezammo
+[00:33:30] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_tiger_e1_mow
+[00:39:57] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_tiger_e1_mow
+[00:39:59] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_tiger_mow
+[00:41:32] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_kv1s
+[00:41:51] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_is3_tb
+[00:42:44] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[00:42:51] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[00:43:09] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_ezarmorplate_large
+[00:43:30] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_trailer_schneider_new
+[00:43:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eztoolbox
+[00:44:01] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:44:08] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezarmor_pouch
+[00:44:11] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_fumo_gmod_cratepack
+[00:44:14] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbasicparts
+[00:44:15] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbasicparts
+[00:44:15] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezbasicparts
+[00:44:44] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezgroundscanner
+[00:45:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:45:53] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:45:58] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:46:03] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:46:10] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:46:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:47:10] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:47:58] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:48:06] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:48:10] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:48:23] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:48:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:48:36] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezhebomb
+[00:49:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezincendiarybomb
+[00:49:21] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezincendiarybomb
+[00:49:24] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezincendiarybomb
+[00:49:26] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezincendiarybomb
+[00:49:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[00:49:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[00:49:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[00:49:38] Польские Пряники suicided!
+[00:49:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[00:49:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[00:49:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[00:49:38] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[00:49:39] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezpowderkeg
+[00:50:32] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_eztorpedo
+[00:51:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[00:51:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[00:51:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[00:51:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[00:51:18] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezherocket
+[00:51:46] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfirenade
+[00:51:52] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfirenade
+[00:52:01] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[00:52:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[00:52:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[00:52:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezimpactnade
+[00:52:25] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfirenade
+[00:53:12] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezincendiarybomb
+[00:53:19] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezincendiarybomb
+[00:53:32] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezincendiarybomb
+[00:53:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezrocketmotor
+[00:54:09] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[00:55:20] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:55:48] Польские Пряники<STEAM_0:0:555258766> spawned sent textscreen_base
+[00:57:10] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezrocketpod
+[00:57:50] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezrocketpod
+[00:58:43] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezairboatengine
+[00:59:13] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuel
+[00:59:45] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezairboatengine
+[01:01:18] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuel
+[01:01:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_aboot_gmod_ezairboatengine
+[01:02:29] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuel
+[01:02:35] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezmunitions
+[01:02:37] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuel
+[01:03:24] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezfuel
+[01:04:47] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:04:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:04:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:04:48] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:04:49] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:04:49] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:05:15] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:05:15] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:05:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:05:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:05:16] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:05:17] Польские Пряники<STEAM_0:0:555258766> spawned sent ent_jack_gmod_ezheavyrocket
+[01:07:03] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[01:07:03] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[01:07:04] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_helicopter_cod_ah6
+[01:07:10] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_wheeldrive_dodtiger
+[01:07:20] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_tiger_mow
+[01:07:21] Польские Пряники<STEAM_0:0:555258766> spawned sent lvs_tiger_mow
+[01:08:55] Dropped "Польские Пряники" from server<STEAM_0:0:555258766>
+[01:08:55] Польские Пряники suicided!
+[02:12:42] Client "Soldier_S.C.A.F" connected.
+[02:15:37] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 175 seconds).
+[02:21:25] Client "King Of Lobotomy" connected.
+[02:23:11] Client "King Of Lobotomy" spawned in server <STEAM_0:0:800405246> (took 106 seconds).
+[02:25:02] Client "Kean" connected.
+[02:25:06] Client "iso" connected.
+[02:27:29] Soldier_S.C.A.F: xt&
+[02:27:34] Soldier_S.C.A.F: че?
+[02:27:48] Soldier_S.C.A.F: да капец
+[02:27:54] Soldier_S.C.A.F: я ниче не могу разобрать из пропов
+[02:27:56] Soldier_S.C.A.F: ВООБЩЕ
+[02:28:04] Soldier_S.C.A.F: попробуй
+[02:28:48] Soldier_S.C.A.F: также....
+[02:29:55] Soldier_S.C.A.F: странно
+[02:29:59] Soldier_S.C.A.F: че либо создать могу
+[02:30:02] Soldier_S.C.A.F: а разобрать нет
+[02:31:44] Soldier_S.C.A.F: ну пока проблему назвал в дс сервере
+[02:31:47] Soldier_S.C.A.F: но ответа пока нет
+[02:36:49] Soldier_S.C.A.F: хм
+[02:36:54] Soldier_S.C.A.F: билд пропы берет
+[02:37:01] Soldier_S.C.A.F: хотя как сказать
+[02:40:17] Soldier_S.C.A.F: он так и останется
+[02:40:21] Soldier_S.C.A.F: его не вытащить
+[02:40:53] Soldier_S.C.A.F: а хотя рофол есть
+[02:40:58] Soldier_S.C.A.F: я ниче не могу запоковать
+[02:41:05] Soldier_S.C.A.F: а
+[02:44:37] Soldier_S.C.A.F: хм
+[02:44:43] Soldier_S.C.A.F: мне щяс интересно
+[02:44:49] Soldier_S.C.A.F: а че с лвс техникой?
+[02:53:20] Soldier_S.C.A.F: ну ка
+[02:53:31] Soldier_S.C.A.F: перемещения с точек рабоатет или нет
+[02:53:40] Soldier_S.C.A.F: хм
+[02:55:26] Soldier_S.C.A.F: знаю
+[02:56:33] Soldier_S.C.A.F killed Soldier_S.C.A.F
+[02:56:40] King Of Lobotomy killed King Of Lobotomy
+[02:56:51] Soldier_S.C.A.F killed Soldier_S.C.A.F
+[02:57:06] Soldier_S.C.A.F: а
+[02:57:10] Soldier_S.C.A.F: выдается просто
+[02:57:13] Soldier_S.C.A.F: если ящик есть
+[02:58:00] Soldier_S.C.A.F: че
+[02:58:09] Soldier_S.C.A.F: ну
+[02:59:46] Soldier_S.C.A.F: смотри прикол!
+[02:59:58] Soldier_S.C.A.F suicided!
+[03:00:38] Soldier_S.C.A.F: ну кароч ладно
+[03:00:44] Soldier_S.C.A.F: я пойду тогда
+[03:00:49] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[03:00:49] Soldier_S.C.A.F suicided!
+[03:01:44] Dropped "King Of Lobotomy" from server<STEAM_0:0:800405246>
+[03:01:44] King Of Lobotomy suicided!
+[03:25:09] Client "SoloPlayer" connected.
+[03:34:43] Client "DV_PEWPEWPEW" connected.
+[03:42:58] Client "Soldier_S.C.A.F" connected.
+[03:45:33] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 155 seconds).
+[03:47:25] Soldier_S.C.A.F suicided!
+[03:47:31] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[03:47:31] Soldier_S.C.A.F suicided!
+[03:47:39] Client "Soldier_S.C.A.F" connected.
+[03:48:40] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 61 seconds).
+[03:48:59] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[03:48:59] Soldier_S.C.A.F suicided!
+[03:49:01] Client "Soldier_S.C.A.F" connected.
+[03:50:04] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 63 seconds).
+[03:51:24] Client "DV_PEWPEWPEW" spawned in server <STEAM_0:1:102204482> (took 1001 seconds).
+[03:55:27] Client "SoloPlayer" connected.
+[03:56:30] Client "SoloPlayer" spawned in server <STEAM_0:0:962425618> (took 63 seconds).
+[03:57:12] SoloPlayer: !motd
+[03:57:20] Client "maksumkolesnukov022" connected.
+[03:57:49] SoloPlayer: /playermodel_selector
+[03:58:00] SoloPlayer: А я понял куда
+[03:58:02] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 42 seconds).
+[04:01:25] SoloPlayer killed Soldier_S.C.A.F using tfa_doippk
+[04:02:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[04:04:00] maksumkolesnukov022 suicided!
+[04:05:59] SoloPlayer killed Soldier_S.C.A.F using tfa_doippk
+[04:06:16] SoloPlayer killed Soldier_S.C.A.F using tfa_doippk
+[04:06:26] Soldier_S.C.A.F killed SoloPlayer using tfa_doi_marinebayonet
+[04:06:45] Soldier_S.C.A.F killed DV_PEWPEWPEW using tfa_doi_marinebayonet
+[04:06:54] Dropped "SoloPlayer" from server<STEAM_0:0:962425618>
+[04:06:54] SoloPlayer suicided!
+[04:06:54] Dropped "DV_PEWPEWPEW" from server<STEAM_0:1:102204482>
+[04:06:54] DV_PEWPEWPEW suicided!
+[04:07:08] Soldier_S.C.A.F to admins: вот и чуток повоевали
+[04:12:13] Client "Шайтан" connected.
+[04:14:09] Client "rty000pro" connected.
+[04:14:52] Client "rty000pro" spawned in server <STEAM_0:1:593166516> (took 43 seconds).
+[04:16:02] Soldier_S.C.A.F: ЗДАРОВА
+[04:22:49] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 636 seconds).
+[04:24:50] Soldier_S.C.A.F: здарова!
+[04:24:51] Шайтан: j
+[04:24:53] Шайтан: о
+[04:24:57] Шайтан: с хайпом тебя
+[04:25:06] Шайтан: ты че за кунц камеру делаешь?
+[04:25:22] Шайтан: ебааать
+[04:25:31] Soldier_S.C.A.F: нууу эээ
+[04:26:03] Soldier_S.C.A.F: нет ещё
+[04:26:06] Soldier_S.C.A.F: ну а экономика
+[04:26:06] Client "Lesenok" connected.
+[04:26:09] Soldier_S.C.A.F: оно вабще в говне
+[04:27:18] Soldier_S.C.A.F: нуу
+[04:27:25] Soldier_S.C.A.F: +иза обороток постройек
+[04:27:33] Soldier_S.C.A.F: то сервер так ляжет
+[04:27:52] Soldier_S.C.A.F: ну да
+[04:29:26] Soldier_S.C.A.F: да всё
+[04:29:32] Soldier_S.C.A.F: тут уже достаточно будет
+[04:30:05] Soldier_S.C.A.F: сканер
+[04:30:17] Soldier_S.C.A.F: да просто прикол щяс такой
+[04:30:26] Soldier_S.C.A.F: здесь ниче разбирать нельзя
+[04:30:31] Soldier_S.C.A.F: ВООБЩЕ
+[04:30:49] Soldier_S.C.A.F: пишет что не могу разобрать и всё
+[04:30:52] Soldier_S.C.A.F: ни пропы
+[04:30:55] Soldier_S.C.A.F: ни постройки
+[04:30:58] Soldier_S.C.A.F: ни машины...
+[04:32:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezroadflare
+[04:32:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[04:32:11] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[04:32:17] maksumkolesnukov022 teleported to Soldier_S.C.A.F
+[04:32:17] maksumkolesnukov022: !goto Soldier_S.C.A.F
+[04:32:44] Soldier_S.C.A.F: ура!!!
+[04:32:59] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_rus_spawnbase
+[04:33:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezcrate
+[04:33:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[04:33:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[04:33:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[04:33:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[04:33:08] Soldier_S.C.A.F: самое главное
+[04:33:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[04:33:18] Soldier_S.C.A.F: не стоять на них когда они активированы
+[04:33:27] Soldier_S.C.A.F: да
+[04:33:33] Soldier_S.C.A.F: это и на ПТ минах работает
+[04:34:13] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[04:34:13] maksumkolesnukov022 suicided!
+[04:34:24] Soldier_S.C.A.F: да
+[04:34:56] Soldier_S.C.A.F: ну
+[04:35:04] Soldier_S.C.A.F: можно сверху билд пропов накидать
+[04:36:33] Soldier_S.C.A.F: кхм
+[04:36:52] Soldier_S.C.A.F: чтож
+[04:37:01] Soldier_S.C.A.F: главное открывать их очень акуратно
+[04:37:14] Soldier_S.C.A.F: да
+[04:38:05] Soldier_S.C.A.F: кхм
+[04:38:09] Soldier_S.C.A.F: теперь позволь
+[04:38:33] Soldier_S.C.A.F: главное
+[04:38:37] Soldier_S.C.A.F: оооочень акуратно
+[04:40:53] Soldier_S.C.A.F: фух
+[04:41:02] Soldier_S.C.A.F: щя глобальный напишу)
+[04:41:36] Soldier_S.C.A.F suicided!
+[04:42:27] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[04:42:27] Soldier_S.C.A.F suicided!
+[04:43:03] Dropped "rty000pro" from server<STEAM_0:1:593166516>
+[04:43:03] rty000pro suicided!
+[04:43:03] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[04:43:03] Шайтан suicided!
+[04:43:27] Client "Шайтан" connected.
+[04:44:27] Client "Soldier_S.C.A.F" connected.
+[04:44:39] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 72 seconds).
+[04:45:31] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 64 seconds).
+[04:46:16] Soldier_S.C.A.F: да уж
+[04:46:25] Шайтан: я думал будет ваще ахуенно
+[04:46:35] Soldier_S.C.A.F: но как я понял
+[04:46:40] Soldier_S.C.A.F: просто такая защита
+[04:46:46] Soldier_S.C.A.F: дабы хост нафиг не полетел
+[04:46:47] Шайтан: ладно кароче
+[04:46:55] Шайтан: я кушать
+[04:46:58] Soldier_S.C.A.F: угу
+[04:47:03] Soldier_S.C.A.F: вайп завтра будет!
+[04:47:06] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[04:47:06] Soldier_S.C.A.F suicided!
+[04:47:12] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[04:47:12] Шайтан suicided!
+[04:49:09] Client "Вялый Карандаш" connected.
+[04:50:30] Client "rty000pro" connected.
+[04:50:51] Client "rty000pro" spawned in server <STEAM_0:1:593166516> (took 21 seconds).
+[04:59:38] Dropped "rty000pro" from server<STEAM_0:1:593166516>
+[04:59:38] rty000pro suicided!
+[06:42:31] Client "maksumkolesnukov022" connected.
+[06:43:13] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 42 seconds).
+[06:43:35] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[06:44:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_item_compressor
+[06:45:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_item_transmission_automatic
+[06:45:24] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_item_ammocrate
+[06:45:35] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfurnace
+[06:45:41] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfurnace
+[06:45:52] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpumpjack
+[06:46:02] maksumkolesnukov022: !hp maksumkolesnukov022 999999999999999
+[06:46:12] maksumkolesnukov022 set the hp for Themself to 8192
+[06:46:12] maksumkolesnukov022: !hp maksumkolesnukov022 8192
+[06:46:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowerbank
+[06:47:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowerbank
+[06:47:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_dodkuebelwagen
+[06:48:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_wheeldrive_dodkuebelwagen
+[06:50:14] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[06:50:14] maksumkolesnukov022 suicided!
+[07:25:01] Client "Ловушка_Джокера" connected.
+[13:16:32] Client "𝕊𝕝𝕖𝕡𝕡𝕪" connected.
+[13:16:39] Client "DinoDimetrodon" connected.

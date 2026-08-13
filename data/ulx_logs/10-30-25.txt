@@ -1,0 +1,3604 @@
+<Logging continued from "data/ulx_logs/10-29-25.txt">
+[01:26:17] Client "Mr_Pyro" connected.
+[01:26:52] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 35 seconds).
+[01:28:22] Client "TRENCH_ZOMBI" connected.
+[01:30:08] Client "TRENCH_ZOMBI" spawned in server <STEAM_0:1:617631024> (took 106 seconds).
+[01:30:53] TRENCH_ZOMBI: !squad
+[01:31:13] SteamID STEAM_1:1:545449619 is not banned!
+[01:31:14] TRENCH_ZOMBI: Я НЕ ЛЮБЛЮ ПЛЫВИСКИ
+[01:31:33] Mr_Pyro cloaked Themself by amount 0
+[01:31:34] Mr_Pyro cloaked Themself by amount 0
+[01:31:34] Mr_Pyro cloaked Themself by amount 0
+[01:32:09] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezroadflare
+[01:32:17] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezflarenade
+[01:32:21] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[01:32:22] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezaxe
+[01:32:25] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbasicparts
+[01:32:25] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbasicparts
+[01:32:30] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[01:32:41] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_eztoolbox
+[01:32:48] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezsmokenade
+[01:34:54] Mr_Pyro silently slayed Themself
+[01:34:54] Mr_Pyro: !sslay Mr_Pyro
+[01:34:56] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[01:34:56] Mr_Pyro suicided!
+[02:00:06] Client "Vital_NVS" connected.
+[02:17:47] Client "Vital_NVS" spawned in server <STEAM_0:1:838740470> (took 1061 seconds).
+[02:26:23] TRENCH_ZOMBI: !squad
+[02:27:03] TRENCH_ZOMBI: !squad
+[02:27:06] TRENCH_ZOMBI: !squad
+[02:27:08] TRENCH_ZOMBI: !squad
+[02:27:10] TRENCH_ZOMBI: !squad
+[02:40:09] TRENCH_ZOMBI: supply radio: war mines
+[02:47:07] Client "солдат" connected.
+[02:48:10] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 63 seconds).
+[02:48:30] солдат: !squad
+[02:50:02] Dropped "солдат" from server<STEAM_0:0:845922848>
+[02:50:02] солдат suicided!
+[02:50:09] Dropped "Vital_NVS" from server<STEAM_0:1:838740470>
+[02:50:09] Vital_NVS suicided!
+[03:08:52] Client "солдат" connected.
+[03:09:53] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 61 seconds).
+[03:11:49] Client "Дядя Богдан" connected.
+[03:13:21] солдат: !squad
+[03:13:50] Client "Дядя Богдан" spawned in server <STEAM_0:0:919352780> (took 121 seconds).
+[03:14:18] Dropped "солдат" from server<STEAM_0:0:845922848>
+[03:14:18] солдат suicided!
+[03:14:50] Дядя Богдан: !squad
+[03:14:59] Client "СОЛEBOE БЕЗЕ" connected.
+[03:15:27] Дядя Богдан: !squad
+[03:15:31] TRENCH_ZOMBI: !squad
+[03:15:48] TRENCH_ZOMBI: А?
+[03:16:05] TRENCH_ZOMBI: ПОКА САМОЛЕТ ЛЕТИТ, Я НИЧЕ НЕ СЛЫШУ
+[03:16:53] TRENCH_ZOMBI: надо сделать деревеньку
+[03:16:55] TRENCH_ZOMBI: химки
+[03:17:10] TRENCH_ZOMBI: только надо местечко найти
+[03:17:14] Client "солдат" connected.
+[03:18:35] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 81 seconds).
+[03:18:50] солдат: !motd
+[03:18:53] TRENCH_ZOMBI: АЛЕ
+[03:19:11] TRENCH_ZOMBI: О
+[03:19:16] TRENCH_ZOMBI: все есть
+[03:19:29] TRENCH_ZOMBI: 700 штучек
+[03:19:41] TRENCH_ZOMBI: 700 штучек урана добудем
+[03:19:44] TRENCH_ZOMBI: для реатора
+[03:19:46] TRENCH_ZOMBI: и все
+[03:19:48] TRENCH_ZOMBI: курто
+[03:20:04] TRENCH_ZOMBI: есть способ крутой
+[03:20:38] TRENCH_ZOMBI: золото
+[03:21:20] TRENCH_ZOMBI: о нет
+[03:21:36] TRENCH_ZOMBI: это баг слишком имба
+[03:21:42] TRENCH_ZOMBI: оссобенно на верстаке
+[03:21:43] TRENCH_ZOMBI: я сказал
+[03:21:48] TRENCH_ZOMBI: в дс
+[03:21:52] TRENCH_ZOMBI: даже видос показал
+[03:21:56] солдат: !squad
+[03:22:08] TRENCH_ZOMBI: там где сканер
+[03:22:16] TRENCH_ZOMBI: место для войн хуйня
+[03:22:21] TRENCH_ZOMBI: по стратегии
+[03:22:33] TRENCH_ZOMBI: а слушай
+[03:22:35] TRENCH_ZOMBI: реально
+[03:22:41] TRENCH_ZOMBI: можно на гору махнуть
+[03:22:55] TRENCH_ZOMBI: ну или вертики
+[03:23:00] TRENCH_ZOMBI: ну вертики пво снесет
+[03:23:09] TRENCH_ZOMBI: да шерман их быстро
+[03:23:13] TRENCH_ZOMBI: тоже
+[03:23:20] TRENCH_ZOMBI: но пво 100% попадет
+[03:23:31] TRENCH_ZOMBI: там кста реально картон
+[03:23:40] TRENCH_ZOMBI: там нет никаких пластин
+[03:23:46] TRENCH_ZOMBI: эээ уран да
+[03:23:54] TRENCH_ZOMBI: не не
+[03:24:03] TRENCH_ZOMBI: ща тебе клинской покажет
+[03:24:18] TRENCH_ZOMBI: а где он
+[03:25:05] TRENCH_ZOMBI: стой
+[03:25:34] TRENCH_ZOMBI: ладно
+[03:25:38] TRENCH_ZOMBI: все таки придется
+[03:25:42] TRENCH_ZOMBI: гвоздики
+[03:25:46] TRENCH_ZOMBI: АЛЕ
+[03:25:49] TRENCH_ZOMBI: СТОИТ
+[03:26:34] Client "lavrova102" connected.
+[03:26:50] TRENCH_ZOMBI: ЩАС ДОБЫЧА БУДЕТ
+[03:27:17] TRENCH_ZOMBI: да не должен
+[03:27:32] TRENCH_ZOMBI: 3 урона всего нанесось
+[03:27:45] TRENCH_ZOMBI: все таки надо гвозди сука :sob:
+[03:30:15] TRENCH_ZOMBI: D:
+[03:30:33] TRENCH_ZOMBI: братан
+[03:30:35] TRENCH_ZOMBI: они нубы
+[03:30:42] TRENCH_ZOMBI: они о таких вещах не знают
+[03:30:51] TRENCH_ZOMBI: их крафтит легко
+[03:31:03] TRENCH_ZOMBI: если химикаты есть
+[03:31:22] TRENCH_ZOMBI: эээээээ
+[03:31:24] TRENCH_ZOMBI: может быть
+[03:31:36] TRENCH_ZOMBI: но они смогли сделать  боевой верт
+[03:31:46] TRENCH_ZOMBI: чето они знают
+[03:31:58] TRENCH_ZOMBI: братан
+[03:32:14] TRENCH_ZOMBI: я уверен они НЕ использовали баг с верстаком
+[03:32:39] TRENCH_ZOMBI: деревеньку
+[03:32:50] (TEAM) TRENCH_ZOMBI: у нас деревенские химки
+[03:33:03] TRENCH_ZOMBI: не не 
+[03:33:22] TRENCH_ZOMBI: по лору сро щас ww1-ww2
+[03:33:32] TRENCH_ZOMBI: так что это типо старые химки
+[03:33:38] TRENCH_ZOMBI: ээээээ
+[03:33:40] TRENCH_ZOMBI: условность
+[03:34:10] TRENCH_ZOMBI: я знаю этого чувака
+[03:34:13] TRENCH_ZOMBI: неприятный тип
+[03:34:27] TRENCH_ZOMBI: 2-3 класс максимум
+[03:34:30] TRENCH_ZOMBI: по голосу точно
+[03:34:33] TRENCH_ZOMBI: и поведению
+[03:34:44] TRENCH_ZOMBI: ну анархист...
+[03:34:55] TRENCH_ZOMBI: ну типо
+[03:35:14] TRENCH_ZOMBI: УЖАС
+[03:35:56] TRENCH_ZOMBI: ХММ
+[03:36:33] TRENCH_ZOMBI: не знаю
+[03:36:35] TRENCH_ZOMBI: он давно
+[03:36:40] TRENCH_ZOMBI: ну на ведро пофиг
+[03:36:51] TRENCH_ZOMBI: оно нужно только на дастсторме и isle
+[03:37:32] TRENCH_ZOMBI: очинь
+[03:37:57] TRENCH_ZOMBI: кого
+[03:38:04] TRENCH_ZOMBI: это ванила
+[03:38:07] TRENCH_ZOMBI: давно
+[03:38:18] (TEAM) TRENCH_ZOMBI: только у ванильного еще газ есть
+[03:38:41] (TEAM) TRENCH_ZOMBI: здрасте
+[03:38:49] TRENCH_ZOMBI: вы както подозрительно наблюдаете
+[03:39:00] Дядя Богдан suicided!
+[03:39:04] TRENCH_ZOMBI: АХАХАХ
+[03:39:23] (TEAM) TRENCH_ZOMBI: СУДАРЬ
+[03:39:26] TRENCH_ZOMBI: НА ВАШЕМ МЕСТЕ
+[03:39:30] TRENCH_ZOMBI: я бы отвечал
+[03:39:40] TRENCH_ZOMBI: чударь
+[03:40:27] TRENCH_ZOMBI: ваняет
+[03:40:46] TRENCH_ZOMBI: раньше да
+[03:40:49] TRENCH_ZOMBI: щас молчит
+[03:41:14] солдат: !squad
+[03:42:06] TRENCH_ZOMBI: эээээ
+[03:42:18] TRENCH_ZOMBI: а 
+[03:42:25] TRENCH_ZOMBI: ты уже собрался химки делать?
+[03:42:29] TRENCH_ZOMBI: БЛЯЯЯ
+[03:42:35] TRENCH_ZOMBI: ахаха
+[03:42:39] TRENCH_ZOMBI: САПРА ТИВЛЕНИЯ
+[03:42:53] TRENCH_ZOMBI: ЭТО ЧТО ЗА ЗВАОЗ
+[03:42:55] TRENCH_ZOMBI: ЗАВОЗ
+[03:43:20] TRENCH_ZOMBI: это сильно
+[03:43:36] TRENCH_ZOMBI: ЭТО
+[03:43:43] TRENCH_ZOMBI: на химках будет зомбо химки
+[03:43:53] TRENCH_ZOMBI: а ZOMBI это основа
+[03:44:27] TRENCH_ZOMBI: как угодно
+[03:46:28] TRENCH_ZOMBI: я не верен
+[03:46:33] TRENCH_ZOMBI: но это
+[03:46:46] TRENCH_ZOMBI: когда он бежал крафтить топор чтоб меня убить
+[03:46:52] TRENCH_ZOMBI: он сравлялся
+[03:47:00] TRENCH_ZOMBI: справлялся*
+[03:51:06] Client "Redoket" connected.
+[03:51:56] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 50 seconds).
+[03:53:25] Дядя Богдан: !squad
+[03:54:37] TRENCH_ZOMBI: !squad
+[03:57:05] Дядя Богдан: !squad
+[03:57:11] Дядя Богдан: !squad
+[03:57:12] Дядя Богдан: !squad
+[03:57:14] Дядя Богдан: !squad
+[03:59:39] Client "Cevi" connected.
+[04:01:02] Client "Cevi" spawned in server <STEAM_0:1:646314188> (took 83 seconds).
+[04:01:13] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[04:01:13] Redoket suicided!
+[04:01:29] солдат: !squad
+[04:03:11] Cevi: !squad
+[04:03:12] Cevi: !squad
+[04:03:14] Cevi: !squad
+[04:03:53] Client "maksumkolesnukov022" connected.
+[04:04:26] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 33 seconds).
+[04:04:31] Cevi: !squad
+[04:04:33] солдат: !squad
+[04:04:38] maksumkolesnukov022: !squad
+[04:05:17] Client "Redoket" connected.
+[04:05:47] Cevi: !motd
+[04:05:49] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 32 seconds).
+[04:06:04] Cevi: !motd
+[04:06:04] maksumkolesnukov022: !menu
+[04:06:13] maksumkolesnukov022 added Redoket to group superadmin
+[04:06:47] Redoket: мику иу
+[04:06:54] Redoket: мику мику уи е
+[04:07:07] Redoket: !menu
+[04:07:27] Redoket: МИКУЛУЧШАЯ
+[04:07:33] maksumkolesnukov022: РАСПЫЛИЛ БЕНЗИН
+[04:07:33] Redoket: УКРАИНЫ НЕ СУЩЕСТВУЕТ
+[04:07:39] Redoket: ЯДЕРКУ НА КИЕВ
+[04:07:54] Redoket: ОТМЫЛИ ГРЕХИ
+[04:07:57] Redoket: БЕНЗИНОМ
+[04:08:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfuel
+[04:08:23] Redoket killed Redoket
+[04:08:50] Redoket: СТУЛ
+[04:08:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezchair
+[04:09:03] Redoket<STEAM_0:1:545449619> spawned vehicle models/nova/chair_plastic01.mdl
+[04:09:15] Redoket: САДИС
+[04:09:30] Redoket: О ВСЁ
+[04:09:32] Redoket: ПОЧИНИЛОСЬ 
+[04:09:35] Redoket: ИСКРЕВЛЕНИЕ
+[04:09:51] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezrocketmotor
+[04:09:58] Redoket: ЖОПА ГОРИТ
+[04:10:15] Redoket: ПОТУШИТЕ ЕГО ЖОПУ
+[04:10:15] maksumkolesnukov022 was killed by entityflame
+[04:10:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezcriticalityweapon
+[04:11:04] maksumkolesnukov022: ближе надо
+[04:11:11] Дядя Богдан killed maksumkolesnukov022 using ent_jack_gmod_ezcriticalityweapon
+[04:11:25] Dropped "солдат" from server<STEAM_0:0:845922848>
+[04:11:25] солдат suicided!
+[04:11:40] TRENCH_ZOMBI killed maksumkolesnukov022 using ent_jack_gmod_ezfirehazard
+[04:11:50] maksumkolesnukov022: не
+[04:11:51] maksumkolesnukov022 killed Дядя Богдан using player
+[04:11:53] Client "солдат" connected.
+[04:11:58] TRENCH_ZOMBI killed maksumkolesnukov022 using ent_jack_gmod_ezfirehazard
+[04:12:09] Cevi: !squad
+[04:12:12] TRENCH_ZOMBI killed maksumkolesnukov022 using ent_jack_gmod_ezfirehazard
+[04:12:15] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[04:12:15] maksumkolesnukov022 suicided!
+[04:12:43] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 50 seconds).
+[04:13:10] солдат: !squad
+[04:13:41] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[04:13:41] Redoket suicided!
+[04:16:26] Dropped "солдат" from server<STEAM_0:0:845922848>
+[04:16:26] солдат suicided!
+[04:16:27] Client "солдат" connected.
+[04:17:08] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 41 seconds).
+[04:18:07] солдат: !squad
+[04:21:41] Client "sokolise" connected.
+[04:23:33] (TEAM) Cevi: w
+[04:23:47] Client "Вялый Кабейн" connected.
+[04:24:47] Client "sokolise" spawned in server <STEAM_0:1:121477088> (took 186 seconds).
+[04:25:40] Client "Вялый Кабейн" spawned in server <STEAM_0:0:544526162> (took 113 seconds).
+[04:25:59] TRENCH_ZOMBI: ЯОТОЙДУ
+[04:26:31] Вялый Кабейн: !squad
+[04:26:46] солдат: !squad
+[04:28:38] Client "[FTH]Гречник" connected.
+[04:29:24] Вялый Кабейн: !motd
+[04:29:30] Вялый Кабейн: !motd
+[04:29:32] sokolise: !squad
+[04:29:35] Client "Рыба Владимир" connected.
+[04:29:37] Вялый Кабейн: !squad
+[04:29:56] Вялый Кабейн: !squad
+[04:29:59] Cevi: !squad
+[04:30:04] Cevi: !squad
+[04:30:09] солдат: !squad
+[04:31:13] Cevi: supply radio: fulton-crate
+[04:33:32] Дядя Богдан: !squad
+[04:37:32] Дядя Богдан: !squad
+[04:38:57] sokolise: спс
+[04:40:09] TRENCH_ZOMBI: !squad
+[04:40:12] Дядя Богдан: !squad
+[04:41:00] Client "dimonozn" connected.
+[04:41:27] Client "FRED01" connected.
+[04:42:36] Client "dimonozn" spawned in server <STEAM_0:1:840837958> (took 96 seconds).
+[04:43:46] sokolise: !squad
+[04:44:43] солдат: !squad
+[04:45:31] dimonozn: !squad
+[04:45:47] dimonozn: !squad
+[04:46:00] dimonozn: !squad
+[04:46:38] солдат: !squad
+[04:47:29] Client "FRED01" spawned in server <STEAM_0:1:767661328> (took 362 seconds).
+[04:48:31] Дядя Богдан: !squad
+[04:48:58] sokolise: я пытаюсь разобраться как остроит забор
+[04:51:29] sokolise: !squad
+[04:58:30] солдат: !squad
+[04:59:01] солдат: !squad
+[05:07:22] солдат: !squad
+[05:09:30] солдат: !squad
+[05:12:26] Дядя Богдан: я отойду будь на стороже они чет задумывают
+[05:13:12] sokolise: нет
+[05:14:55] Вялый Кабейн was killed by ent_jack_gmod_ezaugerdrill
+[05:16:55] Client "beliash" connected.
+[05:16:55] Client "Egor" connected.
+[05:16:57] Dropped "dimonozn" from server<STEAM_0:1:840837958>
+[05:16:57] dimonozn suicided!
+[05:18:32] Client "Egor" spawned in server <STEAM_0:0:845226198> (took 97 seconds).
+[05:19:09] Egor: !squad
+[05:19:49] солдат: !squad
+[05:20:03] Dropped "Вялый Кабейн" from server<STEAM_0:0:544526162>
+[05:20:03] Вялый Кабейн suicided!
+[05:20:14] Cevi: !squad
+[05:20:25] Dropped "Cevi" from server<STEAM_0:1:646314188>
+[05:20:25] Cevi suicided!
+[05:20:25] Egor: !squad
+[05:20:33] Client "beliash" spawned in server <STEAM_0:0:822301453> (took 218 seconds).
+[05:21:04] солдат: !squad
+[05:21:13] Egor: !squad
+[05:21:29] beliash: !squad
+[05:22:13] Egor: !squad
+[05:22:31] beliash: !squad
+[05:22:35] солдат: !squad
+[05:22:44] Egor: !motd
+[05:22:46] beliash: !squad
+[05:23:36] солдат suicided!
+[05:24:11] sokolise: ударь о нему
+[05:24:22] beliash: !motd
+[05:24:58] FRED01: !squad
+[05:25:31] солдат: !squad
+[05:25:37] FRED01: !squad
+[05:29:07] beliash: !motd
+[05:32:40] Client "Vital_NVS" connected.
+[05:33:56] Client "Vital_NVS" spawned in server <STEAM_0:1:838740470> (took 76 seconds).
+[05:34:50] Vital_NVS: !squad
+[05:35:15] Дядя Богдан killed Vital_NVS using ent_jack_gmod_ezlandmine
+[05:36:07] Egor: !squad
+[05:37:09] Client "MODDI" connected.
+[05:38:31] солдат: !squad
+[05:39:02] Client "MODDI" connected.
+[05:40:11] Дядя Богдан: !squad
+[05:40:34] Дядя Богдан killed солдат using ent_jack_gmod_ezlandmine
+[05:41:07] Дядя Богдан: !squad
+[05:41:58] TRENCH_ZOMBI: !squad
+[05:42:28] Dropped "солдат" from server<STEAM_0:0:845922848>
+[05:42:28] солдат suicided!
+[05:42:30] Client "MODDI" connected.
+[05:42:51] Egor: !motd
+[05:45:25] beliash: !motd
+[05:45:32] Client "MODDI" connected.
+[05:45:54] Dropped "Дядя Богдан" from server<STEAM_0:0:919352780>
+[05:45:54] Дядя Богдан suicided!
+[05:46:33] Client "Мёртвый_Анархист" connected.
+[05:49:09] Client "Антон Чугун" connected.
+[05:49:29] Client "Антон Чугун" connected.
+[05:53:23] TRENCH_ZOMBI: !squad
+[05:54:51] Client "Toxa" connected.
+[05:55:40] Client "Toxa" spawned in server <STEAM_0:0:33704276> (took 49 seconds).
+[05:56:08] Toxa: !squad
+[05:56:15] Client "Мёртвый_Анархист" spawned in server <STEAM_0:0:793300803> (took 582 seconds).
+[05:57:03] Client "KIRKA" connected.
+[05:57:39] Egor: здравствуйте
+[05:57:57] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 54 seconds).
+[05:58:29] Toxa: !squad
+[05:58:47] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[05:58:47] KIRKA suicided!
+[05:59:40] Client "KIRKA" connected.
+[05:59:45] Egor was killed by prop_dynamic
+[06:00:20] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 40 seconds).
+[06:01:02] KIRKA: !squad
+[06:01:37] Toxa: а?
+[06:02:08] Toxa: анти снайпер wall
+[06:02:41] Toxa: !squad
+[06:02:55] TRENCH_ZOMBI: !squad
+[06:03:16] TRENCH_ZOMBI: !squad
+[06:03:33] KIRKA: !squad
+[06:03:44] Vital_NVS: !squad
+[06:03:51] KIRKA was killed by ent_jack_gmod_ezsentry
+[06:03:54] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[06:03:54] KIRKA suicided!
+[06:05:08] Client "солдат" connected.
+[06:06:04] Мёртвый_Анархист: !squad
+[06:06:09] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 61 seconds).
+[06:06:39] Мёртвый_Анархист: !squad
+[06:06:58] солдат: !squad
+[06:07:23] солдат: !squad
+[06:07:32] FRED01: !squad
+[06:07:39] Toxa: ваша?
+[06:07:53] Toxa: thx
+[06:08:15] Мёртвый_Анархист: !squad
+[06:08:25] Мёртвый_Анархист: !squad
+[06:09:39] Vital_NVS: !squad
+[06:09:41] Vital_NVS: !squad
+[06:10:38] Мёртвый_Анархист: !squad
+[06:11:43] Dropped "солдат" from server<STEAM_0:0:845922848>
+[06:11:43] солдат suicided!
+[06:13:15] Toxa: hi
+[06:13:37] Мёртвый_Анархист: !squad
+[06:13:42] Toxa: да я увидел что ты занял ту часть 
+[06:13:51] Toxa: и подумал тут тоже сделать небольшой городок
+[06:13:54] Toxa: в том же стиле
+[06:14:20] Toxa: тут солдат
+[06:14:38] Toxa: проходил и говорил что зомби уже слишком много 
+[06:14:38] TRENCH_ZOMBI: !squad
+[06:14:44] Toxa: :D
+[06:14:49] Toxa: могучая фрака типо
+[06:15:10] Мёртвый_Анархист: !squad
+[06:15:18] FRED01: !squad
+[06:16:15] Мёртвый_Анархист: !motd
+[06:16:51] Мёртвый_Анархист: !squad
+[06:17:14] FRED01: !squad
+[06:17:16] Мёртвый_Анархист: !squad
+[06:19:08] Мёртвый_Анархист: !squad
+[06:23:01] Vital_NVS: !squad
+[06:24:09] Мёртвый_Анархист: !squad
+[06:24:12] Vital_NVS: !squad
+[06:24:54] Vital_NVS: !squad
+[06:26:05] sokolise: нет
+[06:26:15] sokolise: ту негде
+[06:26:40] Vital_NVS: !squad
+[06:28:02] Dropped "beliash" from server<STEAM_0:0:822301453>
+[06:28:02] beliash suicided!
+[06:28:26] Client "beliash" connected.
+[06:28:44] Vital_NVS: !squad
+[06:29:10] Client "beliash" spawned in server <STEAM_0:0:822301453> (took 44 seconds).
+[06:29:15] Мёртвый_Анархист: !motd
+[06:30:12] Vital_NVS: !squad
+[06:31:04] beliash: !squad
+[06:31:07] Egor: !squad
+[06:31:31] Client "iterchiyt" connected.
+[06:32:49] Client "iterchiyt" connected.
+[06:34:14] Client "iterchiyt" connected.
+[06:35:53] Client "P1m" connected.
+[06:37:10] Toxa: !squad
+[06:37:40] Client "Soldier_S.C.A.F" connected.
+[06:42:05] beliash: supply radio: fabricator
+[06:42:11] Client "ZbeR_" connected.
+[06:42:14] beliash: supply radio: fabricator
+[06:45:30] Client "P1m" spawned in server <STEAM_0:0:50414372> (took 577 seconds).
+[06:45:50] Vital_NVS: !squad
+[06:46:50] sokolise: !squad
+[06:48:19] Vital_NVS: !squad
+[06:48:49] Vital_NVS: !squad
+[06:49:42] P1m: !squad
+[06:49:45] P1m: !squad
+[06:49:55] Vital_NVS: !squad
+[06:52:42] Client "ZbeR_" spawned in server <STEAM_0:1:911052919> (took 631 seconds).
+[06:54:15] Мёртвый_Анархист: !squad
+[06:55:59] FRED01: !squad
+[06:56:22] ZbeR_: есть русские?
+[06:57:37] Vital_NVS killed P1m using rust_boltrifle
+[06:57:50] P1m killed Vital_NVS using rust_boltrifle
+[06:59:41] Dropped "ZbeR_" from server<STEAM_0:1:911052919>
+[06:59:41] ZbeR_ suicided!
+[07:01:29] Vital_NVS killed P1m using wep_jack_gmod_hands
+[07:01:44] Dropped "Egor" from server<STEAM_0:0:845226198>
+[07:01:44] Egor suicided!
+[07:01:44] Client "Дядя Богдан" connected.
+[07:02:54] Client "Дядя Богдан" spawned in server <STEAM_0:0:919352780> (took 70 seconds).
+[07:03:14] Дядя Богдан: !squad
+[07:03:21] TRENCH_ZOMBI: !squad
+[07:03:39] Client "Egor" connected.
+[07:03:47] Дядя Богдан: !squad
+[07:04:48] TRENCH_ZOMBI: ЖДЕМ ПОКА ЛЮДИ ПРОКАЧАЮТСЯ ЧУТОК
+[07:05:06] Client "Egor" spawned in server <STEAM_0:0:845226198> (took 87 seconds).
+[07:05:35] Dropped "Vital_NVS" from server<STEAM_0:1:838740470>
+[07:05:35] Vital_NVS suicided!
+[07:05:43] Client "Vital_NVS" connected.
+[07:06:11] Egor: !squad
+[07:06:17] beliash: !squad
+[07:06:23] Dropped "P1m" from server<STEAM_0:0:50414372>
+[07:06:23] P1m suicided!
+[07:06:30] Client "Vital_NVS" spawned in server <STEAM_0:1:838740470> (took 47 seconds).
+[07:06:51] Client "P1m" connected.
+[07:07:13] Client "P1m" spawned in server <STEAM_0:0:50414372> (took 22 seconds).
+[07:07:57] Client "Mr.Matveykus_" connected.
+[07:09:31] Client "Mr.Matveykus_" spawned in server <STEAM_0:1:616448628> (took 94 seconds).
+[07:09:43] Toxa: ММ?
+[07:09:48] TRENCH_ZOMBI: !squad
+[07:09:58] Toxa: ЭТО ХИМКИ НО С ДРУГОЙ СТОРОНЫ МОСТА
+[07:10:01] Mr.Matveykus_: !motd
+[07:10:22] Mr.Matveykus_: !squad
+[07:11:07] Mr.Matveykus_: !squad
+[07:11:28] Vital_NVS: !squad
+[07:11:30] Mr.Matveykus_: !squad
+[07:12:26] P1m: !squad
+[07:12:31] Vital_NVS: !squad
+[07:13:06] Dropped "Mr.Matveykus_" from server<STEAM_0:1:616448628>
+[07:13:06] Mr.Matveykus_ suicided!
+[07:15:14] sokolise: !squad
+[07:15:40] Dropped "P1m" from server<STEAM_0:0:50414372>
+[07:15:40] P1m suicided!
+[07:15:48] sokolise: !squad
+[07:16:02] FRED01: !squad
+[07:16:11] Мёртвый_Анархист: !squad
+[07:16:24] Toxa: !squad
+[07:16:26] FRED01: !squad
+[07:16:29] beliash: !squad
+[07:16:29] Vital_NVS: !squad
+[07:17:26] TRENCH_ZOMBI: я немного отойду
+[07:18:52] Toxa: хмм
+[07:19:02] Toxa: ну можно
+[07:19:23] Dropped "Мёртвый_Анархист" from server<STEAM_0:0:793300803>
+[07:19:23] Мёртвый_Анархист suicided!
+[07:20:27] TRENCH_ZOMBI: !squad
+[07:21:43] Дядя Богдан: !squad
+[07:21:52] Дядя Богдан: !squad
+[07:22:56] Vital_NVS: !squad
+[07:23:03] Vital_NVS: !squad
+[07:23:49] Vital_NVS: !squad
+[07:23:56] Vital_NVS: !squad
+[07:24:34] Client "クセニア" connected.
+[07:24:36] TRENCH_ZOMBI was killed by build_prop
+[07:24:36] Дядя Богдан was killed by build_prop
+[07:24:42] Egor: !motd
+[07:25:04] FRED01 suicided!
+[07:25:05] TRENCH_ZOMBI: АХАХАХАХ
+[07:25:17] Vital_NVS: !squad
+[07:27:03] Client "PoPcat" connected.
+[07:27:33] FRED01: !squad
+[07:27:39] TRENCH_ZOMBI: !squad
+[07:27:42] Dropped "FRED01" from server<STEAM_0:1:767661328>
+[07:27:42] FRED01 suicided!
+[07:27:42] Vital_NVS: !squad
+[07:27:47] Egor: !squad
+[07:28:49] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 106 seconds).
+[07:29:02] Дядя Богдан was killed by build_prop
+[07:29:05] PoPcat: !squad
+[07:29:17] PoPcat: !squad
+[07:29:36] beliash: !squad
+[07:29:41] PoPcat: !squad
+[07:29:42] Vital_NVS: !squad
+[07:29:45] beliash: !squad
+[07:29:48] TRENCH_ZOMBI: !squad
+[07:29:59] sokolise killed PoPcat using tfa_doi_marinebayonet
+[07:30:32] Vital_NVS: !squad
+[07:30:36] TRENCH_ZOMBI: ДА
+[07:30:40] TRENCH_ZOMBI: 5G ВЫШКА
+[07:31:39] TRENCH_ZOMBI: кого???
+[07:31:45] PoPcat: верстак
+[07:31:46] PoPcat: надо
+[07:31:48] Дядя Богдан: !squad
+[07:31:56] PoPcat: А
+[07:32:06] Дядя Богдан: !squad
+[07:32:45] PoPcat: ахахахах
+[07:32:52] TRENCH_ZOMBI: онет
+[07:33:08] Дядя Богдан: !squad
+[07:33:10] PoPcat: разграбление грабницы
+[07:33:18] TRENCH_ZOMBI: я афк немно
+[07:34:38] Дядя Богдан: !squad
+[07:34:45] PoPcat: !squad
+[07:37:09] Client "クセニア" spawned in server <STEAM_0:0:846260107> (took 755 seconds).
+[07:37:12] TRENCH_ZOMBI: !squad
+[07:40:15] クセニア: '
+[07:40:45] クセニア: кто то есть тут?
+[07:42:40] PoPcat was killed by lvs_wheeldrive_dodwillyjeep
+[07:42:47] Client "iterchiyt" spawned in server <STEAM_0:1:927151230> (took 4113 seconds).
+[07:43:36] Vital_NVS: !squad
+[07:43:37] iterchiyt: !squad
+[07:43:49] beliash: !squad
+[07:45:39] クセニア: ?
+[07:45:52] iterchiyt: !squad
+[07:46:11] Dropped "Дядя Богдан" from server<STEAM_0:0:919352780>
+[07:46:11] Дядя Богдан suicided!
+[07:46:44] クセニア: !squad
+[07:49:25] Egor: !squad
+[07:49:49] Egor: !squad
+[07:50:01] Vital_NVS was killed by ent_rus_jsmod_pipe
+[07:52:09] Egor: !squad
+[07:52:51] Dropped "PoPcat" from server<STEAM_0:1:564871456>
+[07:52:51] PoPcat suicided!
+[07:56:25] TRENCH_ZOMBI: !squad
+[07:56:36] TRENCH_ZOMBI: !squad
+[07:56:39] TRENCH_ZOMBI: !squad
+[07:56:41] TRENCH_ZOMBI: !squad
+[07:59:02] iterchiyt: !squad
+[07:59:29] Client "солдат" connected.
+[08:00:20] TRENCH_ZOMBI: !squad
+[08:00:30] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 61 seconds).
+[08:00:55] Toxa: вы что там творите
+[08:00:59] солдат: !squad
+[08:01:05] TRENCH_ZOMBI: я играю в роблокс
+[08:01:06] beliash: !squad
+[08:01:16] солдат: !squad
+[08:01:21] Toxa: ага а у меня текстура стены сдохла
+[08:01:25] TRENCH_ZOMBI: опа
+[08:02:32] TRENCH_ZOMBI: supply radio: car
+[08:02:38] Vital_NVS: !squad
+[08:04:19] beliash: !squad
+[08:04:31] TRENCH_ZOMBI: supply radio: car
+[08:04:35] beliash: !squad
+[08:04:56] солдат: !squad
+[08:08:49] Egor: !squad
+[08:09:03] Client "vvisl" connected.
+[08:09:07] TRENCH_ZOMBI was killed by entityflame
+[08:09:07] солдат: !squad
+[08:11:32] Toxa: с кем
+[08:11:38] TRENCH_ZOMBI: !squad
+[08:11:43] Toxa: !squad
+[08:11:46] TRENCH_ZOMBI: !squad
+[08:11:51] Toxa: ого сколько
+[08:12:08] Toxa: ну можно
+[08:12:39] Client "🟩EXECHACK.CC🟩 #1 CHEAT 6$/FOREVER - PERFECT AIMBOT, CUSTOMIZED ESP, UNDETECT, SUPPORT & UPDATES SINCE 2018.🟩" connected.
+[08:12:42] Client "🟩EXECHACK.CC🟩 #1 CHEAT 6$/FOREVER - PERFECT AIMBOT, CUSTOMIZED ESP, UNDETECT, SUPPORT & UPDATES SINCE 2018.🟩" connected.
+[08:12:45] Client "🟩EXECHACK.CC🟩 #1 CHEAT 6$/FOREVER - PERFECT AIMBOT, CUSTOMIZED ESP, UNDETECT, SUPPORT & UPDATES SINCE 2018.🟩" connected.
+[08:12:48] Client "🟩EXECHACK.CC🟩 #1 CHEAT 6$/FOREVER - PERFECT AIMBOT, CUSTOMIZED ESP, UNDETECT, SUPPORT & UPDATES SINCE 2018.🟩" connected.
+[08:12:56] солдат: f
+[08:13:06] солдат: а
+[08:13:40] Client "maksumkolesnukov022" connected.
+[08:14:09] Egor: !squad
+[08:14:22] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 42 seconds).
+[08:17:02] maksumkolesnukov022: !squad
+[08:17:35] beliash: !squad
+[08:17:51] beliash: !squad
+[08:18:35] maksumkolesnukov022: упс
+[08:19:05] maksumkolesnukov022 cloaked Themself by amount 0
+[08:19:19] Toxa: !squad
+[08:20:08] Egor: !squad
+[08:20:13] TRENCH_ZOMBI to admins: максимка, можешь зомбо в домах заспавнить чуток?
+[08:20:32] Toxa: у нас нету столицы?
+[08:20:46] Egor: !squad
+[08:20:47] солдат: !squad
+[08:20:58] Toxa: втф у меня писало что это кровать
+[08:21:14] クセニア: !squad
+[08:21:21] クセニア: а
+[08:23:32] maksumkolesnukov022 teleported to TRENCH_ZOMBI
+[08:24:37] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_zombie
+[08:24:52] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_zombie
+[08:24:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_zombie
+[08:25:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_poisonzombie
+[08:25:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_poisonzombie
+[08:25:23] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_zombie
+[08:25:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_zombie
+[08:25:41] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_zombie
+[08:26:23] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_antlion
+[08:26:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[08:26:56] Client "[uvc]Andruha" connected.
+[08:26:59] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpopcorn
+[08:27:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpopcorn
+[08:27:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[08:27:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[08:27:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[08:27:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[08:27:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezhealtkit
+[08:27:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_zombie
+[08:27:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_zombie
+[08:27:31] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_zombie
+[08:27:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_zombie
+[08:27:34] beliash: !squad
+[08:28:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_fastzombie
+[08:28:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_fastzombie
+[08:28:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_fastzombie
+[08:29:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:29:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:30:07] Toxa: !squad
+[08:30:39] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:30:55] iterchiyt: !squad
+[08:31:26] maksumkolesnukov022 teleported to TRENCH_ZOMBI
+[08:31:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:31:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:31:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:31:38] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:31:39] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:31:39] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:31:49] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:31:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:31:51] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:31:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:31:57] beliash killed TRENCH_ZOMBI using tfa_doisten
+[08:31:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:31:59] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:32:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:32:20] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:32:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:32:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:32:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:32:30] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:32:39] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:32:47] maksumkolesnukov022 teleported to TRENCH_ZOMBI
+[08:32:57] クセニア: !squad
+[08:33:48] Dropped "クセニア" from server<STEAM_0:0:846260107>
+[08:33:48] クセニア suicided!
+[08:33:48] Dropped "sokolise" from server<STEAM_0:1:121477088>
+[08:33:48] sokolise suicided!
+[08:33:48] Dropped "beliash" from server<STEAM_0:0:822301453>
+[08:33:48] beliash suicided!
+[08:33:50] Client "spinning toilet" connected.
+[08:33:51] Client "sokolise" connected.
+[08:33:57] Client "beliash" connected.
+[08:34:14] Client "クセニア" connected.
+[08:34:43] Dropped "iterchiyt" from server<STEAM_0:1:927151230>
+[08:34:43] iterchiyt suicided!
+[08:34:47] Client "sokolise" spawned in server <STEAM_0:1:121477088> (took 56 seconds).
+[08:34:49] Client "iterchiyt" connected.
+[08:34:49] Client "beliash" spawned in server <STEAM_0:0:822301453> (took 52 seconds).
+[08:34:56] maksumkolesnukov022: !squad
+[08:35:05] Egor: !squad
+[08:35:05] солдат: !squad
+[08:35:09] Dropped "beliash" from server<STEAM_0:0:822301453>
+[08:35:09] beliash suicided!
+[08:35:12] maksumkolesnukov022: окак
+[08:35:18] Client "クセニア" spawned in server <STEAM_0:0:846260107> (took 64 seconds).
+[08:35:53] Client "iterchiyt" spawned in server <STEAM_0:1:927151230> (took 64 seconds).
+[08:35:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:36:00] Egor: !squad
+[08:36:08] Vital_NVS: supply radio: medkits
+[08:36:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:36:25] iterchiyt: !squad
+[08:36:30] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_antlionguard
+[08:36:34] Vital_NVS: supply radio: first-aid kits
+[08:36:40] Egor: !squad
+[08:36:45] Vital_NVS: !squad
+[08:37:03] Dropped "TRENCH_ZOMBI" from server<STEAM_0:1:617631024>
+[08:37:03] TRENCH_ZOMBI suicided!
+[08:37:10] Toxa: окак
+[08:37:10] Client "TRENCH_ZOMBI" connected.
+[08:37:15] Egor: !squad
+[08:37:23] Client "spinning toilet" connected.
+[08:37:26] Client "beliash" connected.
+[08:37:30] Client "dimonozn" connected.
+[08:37:31] Egor: !squad
+[08:37:35] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_antlionguard
+[08:38:15] Client "TRENCH_ZOMBI" spawned in server <STEAM_0:1:617631024> (took 65 seconds).
+[08:38:21] Dropped "クセニア" from server<STEAM_0:0:846260107>
+[08:38:21] クセニア suicided!
+[08:38:26] Vital_NVS: !squad
+[08:38:29] Vital_NVS: !squad
+[08:38:34] Client "beliash" spawned in server <STEAM_0:0:822301453> (took 68 seconds).
+[08:38:48] TRENCH_ZOMBI: !squad
+[08:38:51] Egor: !squad
+[08:38:52] Toxa: !squad
+[08:38:53] Client "spinning toilet" spawned in server <STEAM_0:1:565749064> (took 90 seconds).
+[08:38:54] Client "dimonozn" spawned in server <STEAM_0:1:840837958> (took 84 seconds).
+[08:38:57] sokolise: !squad
+[08:38:58] beliash: !squad
+[08:39:04] Egor: !squad
+[08:39:19] Vital_NVS: supply radio: medkits
+[08:39:26] TRENCH_ZOMBI: !squad
+[08:39:40] beliash: !squad
+[08:39:41] spinning toilet: !squad
+[08:40:28] spinning toilet: !squad
+[08:40:35] TRENCH_ZOMBI: !squad
+[08:40:36] maksumkolesnukov022 teleported to TRENCH_ZOMBI
+[08:40:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_antlionguard
+[08:40:54] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:41:02] dimonozn: !motd
+[08:41:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:41:11] Toxa: zen хедкрабы
+[08:41:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:41:22] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:41:23] Toxa: не
+[08:41:31] spinning toilet: !pchat вы где
+[08:41:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:41:44] TRENCH_ZOMBI: supply radio: global message
+[08:41:49] spinning toilet: !squad
+[08:41:50] TRENCH_ZOMBI: supply radio: global message
+[08:41:51] spinning toilet: !squad
+[08:41:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_pigeon
+[08:41:54] spinning toilet: !squad
+[08:41:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_pigeon
+[08:42:13] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_hunter
+[08:42:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_hunter
+[08:42:20] spinning toilet killed dimonozn using wep_jack_gmod_hands
+[08:42:35] Dropped "dimonozn" from server<STEAM_0:1:840837958>
+[08:42:35] dimonozn suicided!
+[08:42:36] Client "dimonozn" connected.
+[08:42:37] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_hunter
+[08:42:39] iterchiyt: !squad
+[08:42:40] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_hunter
+[08:42:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_hunter
+[08:42:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:42:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[08:43:09] Client "dimonozn" spawned in server <STEAM_0:1:840837958> (took 33 seconds).
+[08:43:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_antlionguard
+[08:43:30] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_rollermine
+[08:43:32] dimonozn: !motd
+[08:43:48] sokolise: что имено
+[08:43:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_rollermine
+[08:43:56] beliash: !squad
+[08:43:57] Toxa: а живут то они где
+[08:44:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_rollermine
+[08:44:14] Toxa: а ну видел там забор
+[08:44:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_rollermine
+[08:44:31] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_rollermine
+[08:45:13] TRENCH_ZOMBI: !squad
+[08:45:44] sokolise: !squad
+[08:46:12] dimonozn: !squad
+[08:46:24] TRENCH_ZOMBI: !squad
+[08:46:29] Client "Gektor_51_RUS" connected.
+[08:46:35] Toxa: они как-то диактивируются?
+[08:46:45] maksumkolesnukov022: только от разрядки
+[08:46:47] beliash: supply radio: tnt
+[08:47:12] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowerbank
+[08:47:12] Toxa: не они так не робят
+[08:47:14] Toxa: я пробовал
+[08:47:15] Egor: supply radio: dynamite
+[08:47:35] Egor: supply radio: tnt
+[08:49:23] maksumkolesnukov022: !squad
+[08:49:31] TRENCH_ZOMBI: !squad
+[08:49:31] maksumkolesnukov022 uncloaked Themself
+[08:49:37] maksumkolesnukov022 stripped weapons from Themself
+[08:49:37] maksumkolesnukov022: !strip maksumkolesnukov022
+[08:49:57] Toxa: нет
+[08:50:05] maksumkolesnukov022: я круче
+[08:50:09] Toxa: :D
+[08:50:24] TRENCH_ZOMBI: !squad
+[08:51:05] Dropped "beliash" from server<STEAM_0:0:822301453>
+[08:51:05] beliash suicided!
+[08:51:07] Client "beliash" connected.
+[08:51:33] Client "Jr_byba" connected.
+[08:51:34] maksumkolesnukov022: как раз в то самое
+[08:51:51] Client "beliash" spawned in server <STEAM_0:0:822301453> (took 44 seconds).
+[08:51:52] maksumkolesnukov022: куда
+[08:51:54] TRENCH_ZOMBI killed солдат using lvs_m4_mow
+[08:51:54] TRENCH_ZOMBI killed iterchiyt using lvs_m4_mow
+[08:51:58] Client "Мёртвый_Анархист" connected.
+[08:51:58] TRENCH_ZOMBI killed Egor using lvs_m4_mow
+[08:52:09] Egor: !squad
+[08:52:13] maksumkolesnukov022 brought dimonozn
+[08:52:16] beliash: !squad
+[08:52:23] Egor: !squad
+[08:52:36] TRENCH_ZOMBI killed солдат using lvs_m4_mow
+[08:52:41] TRENCH_ZOMBI killed Vital_NVS using lvs_m4_mow
+[08:52:48] maksumkolesnukov022 killed iterchiyt using tfa_doispringfield
+[08:53:01] TRENCH_ZOMBI killed Egor using lvs_m4_mow
+[08:53:06] maksumkolesnukov022 was killed by ent_jack_gmod_ezsticknade
+[08:53:51] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 138 seconds).
+[08:53:53] солдат was killed by lvs_m4_mow
+[08:54:03] Dropped "beliash" from server<STEAM_0:0:822301453>
+[08:54:03] beliash suicided!
+[08:54:05] spinning toilet was killed by lvs_m4_mow
+[08:54:12] Dropped "Egor" from server<STEAM_0:0:845226198>
+[08:54:12] Egor suicided!
+[08:54:29] солдат killed солдат
+[08:54:39] Jr_byba: !squad
+[08:54:43] Dropped "солдат" from server<STEAM_0:0:845922848>
+[08:54:43] солдат suicided!
+[08:54:52] Vital_NVS: !squad
+[08:54:52] sokolise: !squad
+[08:54:53] Client "Мёртвый_Анархист" spawned in server <STEAM_0:0:793300803> (took 175 seconds).
+[08:55:18] Vital_NVS: !squad
+[08:55:27] Jr_byba: окак
+[08:55:35] dimonozn killed iterchiyt using tfa_doispringfield_scop
+[08:55:40] iterchiyt: !squad
+[08:55:43] Vital_NVS: !squad
+[08:55:48] Toxa: тут остаешься?
+[08:55:50] Client "Шайтан" connected.
+[08:55:52] Мёртвый_Анархист: !squad
+[08:55:52] Jr_byba: !squad
+[08:55:57] dimonozn: наверно да
+[08:56:09] dimonozn killed iterchiyt using tfa_doispringfield_scop
+[08:56:15] Vital_NVS: !squad
+[08:56:16] maksumkolesnukov022: !squad
+[08:56:21] dimonozn: !squad
+[08:56:22] Dropped "Vital_NVS" from server<STEAM_0:1:838740470>
+[08:56:22] Vital_NVS suicided!
+[08:56:23] Toxa: !squad
+[08:56:25] Jr_byba: таь твоя база?
+[08:56:27] TRENCH_ZOMBI: !squad
+[08:56:28] Dropped "iterchiyt" from server<STEAM_0:1:927151230>
+[08:56:28] iterchiyt suicided!
+[08:56:29] sokolise: да
+[08:56:35] Jr_byba: а что там
+[08:56:44] sokolise: где
+[08:56:50] Client "RusLanConnection" connected.
+[08:56:51] Toxa: что-то от газов быстро развалились
+[08:56:55] maksumkolesnukov022: противники бежали с поля боя 
+[08:57:06] Toxa: тоже было но наш снайпер их убивал
+[08:57:06] Jr_byba: это твоя?
+[08:57:15] Jr_byba: пон
+[08:57:23] Client "benrybenrybenrybenrybenrybenry" connected.
+[08:57:34] Jr_byba: ку
+[08:57:44] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 114 seconds).
+[08:58:17] Шайтан: !squad
+[08:58:23] spinning toilet killed Мёртвый_Анархист using tfa_doispringfield_scop
+[08:58:29] Client "benrybenrybenrybenrybenrybenry" spawned in server <STEAM_0:1:653574667> (took 66 seconds).
+[08:58:42] Шайтан: 'nj rnj&
+[08:58:45] Шайтан: это кто?
+[08:58:49] Мёртвый_Анархист: !squad
+[08:59:12] benrybenrybenrybenrybenrybenry: chto
+[08:59:15] Jr_byba: ку
+[08:59:18] benrybenrybenrybenrybenrybenry: ok
+[08:59:19] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 149 seconds).
+[08:59:23] sokolise: ку
+[08:59:29] benrybenrybenrybenrybenrybenry: !squad
+[09:00:02] Client "богдан." connected.
+[09:00:10] Toxa: !squad
+[09:00:33] Toxa: 5~
+[09:00:37] Шайтан: !squad
+[09:00:51] Toxa: да я там газами закидал и они от них начали умерать
+[09:01:01] RusLanConnection: !squad
+[09:01:03] Jr_byba: смотри как могу
+[09:01:05] Шайтан was killed by ent_jack_gmod_ezsentry
+[09:01:11] Шайтан: !squad
+[09:01:13] Jr_byba suicided!
+[09:01:14] Мёртвый_Анархист was killed by ent_jack_gmod_ezgroundscanner
+[09:01:15] TRENCH_ZOMBI: !squad
+[09:01:26] Jr_byba: ЧТО ЗА ХУЙНЯ????
+[09:01:27] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 85 seconds).
+[09:01:38] Jr_byba: КАК
+[09:01:45] Jr_byba: СУКА КАК???
+[09:01:48] богдан.: !squad
+[09:02:01] богдан.: я фесбой можно мне
+[09:02:14] богдан.: че тут происходит
+[09:02:25] богдан.: !squad
+[09:02:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[09:02:37] богдан.: !squad
+[09:02:54] богдан.: фу древесина для лохов
+[09:03:04] богдан.: руслан давай спаринг
+[09:03:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezharpoon
+[09:03:09] богдан.: подходи
+[09:03:22] Jr_byba: ОООО
+[09:03:29] Jr_byba: РУСЛАН!!!!!!!!!
+[09:03:29] maksumkolesnukov022 killed RusLanConnection using ent_aboot_gmod_ezharpoon
+[09:03:34] богдан.: пожизненное угнетение
+[09:03:39] RusLanConnection sent 1 vehicle into maksumkolesnukov022
+[09:03:41] RusLanConnection killed maksumkolesnukov022 using prop_dynamic
+[09:03:45] Jr_byba: хахахахха
+[09:03:50] Jr_byba killed spinning toilet using ent_aboot_gmod_ezharpoon
+[09:04:00] Client "Redoket" connected.
+[09:04:03] богдан.: !squad
+[09:04:12] Toxa: !squad
+[09:04:22] Мёртвый_Анархист: !squad
+[09:04:25] богдан.: !squad
+[09:04:27] Jr_byba: !squad
+[09:04:35] богдан.: РУСЛАН ГОВОРИТ
+[09:04:39] богдан.: ЧТО
+[09:04:42] Jr_byba: руслан
+[09:04:50] Jr_byba: дай админку
+[09:04:59] богдан.: руслан дай 50р
+[09:05:00] maksumkolesnukov022: буба хочешь бан
+[09:05:06] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 66 seconds).
+[09:05:07] Jr_byba: я уже 1 год жду
+[09:05:14] богдан.: буба ты не достоин
+[09:05:17] Jr_byba: реал
+[09:05:26] богдан.: админы только избранные и богатые
+[09:05:56] богдан.: руслан силой мысли останавливет бубу
+[09:06:03] Jr_byba: ээээ
+[09:06:07] Jr_byba: блять
+[09:06:19] богдан.: ПРЕВРАТИ НАС ВСЕХ В ПОПКОРН
+[09:06:30] Jr_byba: блять
+[09:06:33] Jr_byba: за что
+[09:06:35] богдан.: хочу стать попкорном
+[09:06:40] Jr_byba: сука
+[09:06:49] Jr_byba: ПОМОГИТЕ
+[09:06:56] Jr_byba: ЛЮДИ
+[09:07:01] sokolise killed богдан. using wep_jack_gmod_ezshovel
+[09:07:01] Jr_byba: ПОМОГИТЕ
+[09:07:02] sokolise killed Мёртвый_Анархист using wep_jack_gmod_ezshovel
+[09:07:13] Jr_byba suicided!
+[09:07:14] Jr_byba: НЕЕЕЕ
+[09:07:17] богдан.: РУСЛАН
+[09:07:18] Мёртвый_Анархист killed sokolise using wep_jack_gmod_hands
+[09:07:30] богдан.: у меня руки не видно че делать
+[09:07:33] Jr_byba: пизда...
+[09:07:42] богдан.: русланнн
+[09:07:44] богдан.: что делать
+[09:07:58] богдан.: у меня рук не видно
+[09:08:06] Dropped "богдан." from server<STEAM_0:1:815266334>
+[09:08:06] богдан. suicided!
+[09:08:06] Client "богдан." connected.
+[09:08:08] maksumkolesnukov022: не у мен
+[09:08:12] maksumkolesnukov022: я самый крутой
+[09:08:12] Jr_byba: у ме тоже
+[09:08:17] maksumkolesnukov022 killed Redoket using tfa_doiwelrod
+[09:08:25] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[09:08:25] Шайтан suicided!
+[09:08:31] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 25 seconds).
+[09:08:39] Jr_byba: ИДИ СЮДА
+[09:08:42] богдан.: !squad
+[09:08:42] Client "vasiliy karat" connected.
+[09:08:42] sokolise: лопату отдай
+[09:08:44] Jr_byba killed RusLanConnection using wep_jack_gmod_hands
+[09:09:00] RusLanConnection: !squad
+[09:09:06] Jr_byba: ПОМОГИТЕ
+[09:09:14] богдан.: а не жирно 200 очков то
+[09:09:15] Client "Шайтан" connected.
+[09:09:17] Redoket: !squad
+[09:09:21] богдан.: !squad
+[09:09:21] sokolise killed Мёртвый_Анархист using tfa_doiwebley
+[09:09:26] maksumkolesnukov022: !squad
+[09:09:27] Мёртвый_Анархист: !squad
+[09:09:33] Мёртвый_Анархист: !squad
+[09:09:35] богдан.: !squad
+[09:09:38] богдан.: !squad
+[09:09:46] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 31 seconds).
+[09:09:51] богдан.: мы захватываем эту базу все
+[09:09:57] maksumkolesnukov022: где вал чтобы наматыватся
+[09:10:02] богдан.: supply radio: fulton-crate
+[09:10:10] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 88 seconds).
+[09:10:18] богдан.: навальный офллайн
+[09:10:23] sokolise killed Мёртвый_Анархист using tfa_doiwebley
+[09:10:34] Dropped "Мёртвый_Анархист" from server<STEAM_0:0:793300803>
+[09:10:34] Мёртвый_Анархист suicided!
+[09:10:35] богдан. killed sokolise using tfa_doiwelrod
+[09:10:35] Шайтан: !squad
+[09:10:39] vasiliy karat: !squad
+[09:10:40] TRENCH_ZOMBI: !squad
+[09:10:53] Client "Мёртвый_Анархист" connected.
+[09:11:08] богдан.: !squad
+[09:11:28] Client "Мёртвый_Анархист" connected.
+[09:11:54] Jr_byba: буууу
+[09:12:07] Jr_byba: бро
+[09:12:07] Client "Мёртвый_Анархист" connected.
+[09:12:10] Toxa: !squad
+[09:12:13] Client "[uvc]Andruha" connected.
+[09:12:16] Jr_byba: ты живой
+[09:12:43] Jr_byba: ку
+[09:12:48] Toxa: небыло ни кого
+[09:12:56] Dropped "benrybenrybenrybenrybenrybenry" from server<STEAM_0:1:653574667>
+[09:12:56] benrybenrybenrybenrybenrybenry suicided!
+[09:12:59] Toxa: да небыло
+[09:13:02] Jr_byba: ну что
+[09:13:07] богдан.: !squad
+[09:13:07] Toxa: ХМММ
+[09:13:09] Toxa: ТОЧНО?:
+[09:13:14] богдан.: !squad
+[09:13:17] Jr_byba: админку даш
+[09:13:24] maksumkolesnukov022 teleported to RusLanConnection
+[09:13:35] Jr_byba: я знаю как ней пользоватся
+[09:13:35] vasiliy karat: давай мою ему отдай
+[09:13:39] maksumkolesnukov022: о вася хочешь админку
+[09:13:48] Jr_byba: э
+[09:13:54] Toxa: они с высоты скидываются
+[09:13:58] Jr_byba: умею
+[09:14:02] Client "benrybenrybenrybenrybenrybenry" connected.
+[09:14:08] Jr_byba: тока тут
+[09:14:20] maksumkolesnukov022: смотри буба сдашь на права покажешь в дискорде
+[09:14:24] maksumkolesnukov022: после этого админку дадут
+[09:14:27] богдан.: !squad
+[09:14:42] Jr_byba: у меня нет микро
+[09:14:49] Client "Мёртвый_Анархист" spawned in server <STEAM_0:0:793300803> (took 162 seconds).
+[09:14:50] maksumkolesnukov022: саундпад тоже пойдёт
+[09:14:56] Jr_byba: ок
+[09:15:04] Client "benrybenrybenrybenrybenrybenry" spawned in server <STEAM_0:1:653574667> (took 62 seconds).
+[09:15:10] Jr_byba: хаха
+[09:15:15] богдан.: да выключите турели
+[09:15:19] vasiliy karat: зомби месилово
+[09:15:22] vasiliy karat: !squad
+[09:15:22] RusLanConnection: !squad
+[09:15:29] Jr_byba: го в стеам
+[09:15:35] maksumkolesnukov022: стеам
+[09:15:36] Мёртвый_Анархист: !squad
+[09:15:37] богдан.: турели выключите хоть
+[09:15:40] богдан.: !squad
+[09:15:49] богдан.: вы не добрые очень
+[09:15:56] Jr_byba: у меня ДИСКОРТ НЕ РОБИТ НАХУЙ!!!!!!
+[09:16:06] богдан.: ну ладно
+[09:16:11] Jr_byba: ЕМААААААА
+[09:16:17] богдан.: я у вас стул спиздил
+[09:16:33] Jr_byba: ты теперь старик
+[09:16:37] Toxa: уверен?
+[09:16:42] Jr_byba: э
+[09:16:51] Toxa: когда война начилась 3 пво шки сработало
+[09:17:03] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezdetpack
+[09:17:16] Toxa: Blood ace
+[09:17:16] vasiliy karat: играем без кнопки уууууууууууууууууууууу челендж
+[09:17:20] Toxa: axe
+[09:17:27] Toxa: нет
+[09:17:33] maksumkolesnukov022 killed spinning toilet using ent_jack_gmod_ezdetpack
+[09:17:40] Jr_byba: я теберь чёрный!!!!
+[09:17:42] vasiliy karat: как поднять без кнопки 
+[09:17:45] Client "А ПО ЖОПЕ!?" connected.
+[09:17:52] Jr_byba: я ЧЁРНЫЙ
+[09:17:55] Jr_byba: !squad
+[09:17:58] Toxa: !squad
+[09:18:15] vasiliy karat to admins: ракман опять добрый голос
+[09:18:23] Jr_byba: ЧТО
+[09:18:31] Jr_byba: !squad
+[09:18:34] Toxa: time to rape 
+[09:18:34] maksumkolesnukov022 to admins: волос нейросеть
+[09:18:39] maksumkolesnukov022 to admins: Голос
+[09:18:46] Jr_byba: ЧТО
+[09:18:50] maksumkolesnukov022 cloaked Themself by amount 0
+[09:19:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[09:19:22] богдан.: пошли
+[09:19:23] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[09:19:28] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[09:19:32] Client "А ПО ЖОПЕ!?" spawned in server <STEAM_0:1:557416607> (took 107 seconds).
+[09:19:39] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_rollermine
+[09:19:39] Jr_byba: э
+[09:19:43] Jr_byba: за что
+[09:19:43] богдан.: у тебя сифилис?
+[09:19:46] vasiliy karat: убийство в зет городке
+[09:19:54] Client "Mr_Pyro" connected.
+[09:19:56] богдан.: стреляй в бомжа
+[09:20:02] Jr_byba: нихуя
+[09:20:07] maksumkolesnukov022: эээ это перекати поле было
+[09:20:08] Jr_byba: фокусы
+[09:20:10] Мёртвый_Анархист killed А ПО ЖОПЕ!? using tfa_doiwelrod
+[09:20:24] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztimebomb
+[09:20:24] богдан.: пошли
+[09:20:31] богдан. killed А ПО ЖОПЕ!? using wep_jack_gmod_ezaxe
+[09:20:34] Jr_byba: дааа
+[09:20:41] vasiliy karat: это не местные не стиль местные это другой народ
+[09:20:41] Jr_byba: да да да
+[09:20:45] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 51 seconds).
+[09:20:46] maksumkolesnukov022: винер винер чикен динер
+[09:20:50] vasiliy karat: у нас не на сваях не высокие
+[09:20:51] богдан.: СИЦФИЛИСНЫЕ БОМЖИ
+[09:20:51] А ПО ЖОПЕ!? killed Мёртвый_Анархист using player
+[09:20:58] А ПО ЖОПЕ!? killed богдан. using tfa_doiwelrod
+[09:20:59] Toxa: о нет
+[09:21:06] TRENCH_ZOMBI to admins: ТУТ ПОЗОР ПОСТРОИЛИ
+[09:21:08] maksumkolesnukov022: высокие дома хайфлит
+[09:21:13] maksumkolesnukov022 teleported to TRENCH_ZOMBI
+[09:21:16] maksumkolesnukov022: кого
+[09:21:16] Jr_byba: пон
+[09:21:20] А ПО ЖОПЕ!? killed Мёртвый_Анархист using tfa_doiwelrod
+[09:21:26] Jr_byba: не знаю
+[09:21:30] Jr_byba: ок
+[09:21:30] Mr_Pyro cloaked Themself by amount 0
+[09:21:30] Mr_Pyro cloaked Themself by amount 0
+[09:21:31] Mr_Pyro cloaked Themself by amount 0
+[09:21:31] Mr_Pyro cloaked Themself by amount 0
+[09:21:31] Mr_Pyro cloaked Themself by amount 0
+[09:21:33] А ПО ЖОПЕ!? killed богдан. using tfa_doiwelrod
+[09:21:35] maksumkolesnukov022 to admins: руслан тут ужас бегите сюда
+[09:21:39] RusLanConnection stripped weapons from Themself
+[09:21:39] RusLanConnection: !strip RusLanConnection
+[09:21:39] Мёртвый_Анархист killed А ПО ЖОПЕ!? using tfa_doispringfield_scop
+[09:21:40] Client "[uvc]Andruha" spawned in server <STEAM_0:0:593521421> (took 567 seconds).
+[09:21:42] А ПО ЖОПЕ!?: !squad
+[09:21:47] богдан.: сифилис бегает
+[09:21:54] TRENCH_ZOMBI: !squad
+[09:21:58] богдан.: пошли
+[09:21:59] spinning toilet was killed by build_prop
+[09:22:07] Toxa: ЗАДАВИЛО
+[09:22:10] Jr_byba: ДАЙ БЕНЗИН
+[09:22:13] sokolise killed [uvc]Andruha using wep_jack_gmod_ezshovel
+[09:22:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned NPC npc_headcrab_fast
+[09:22:18] Mr_Pyro: !squad
+[09:22:22] богдан.: а твоя лучше
+[09:22:31] Jr_byba: сюда
+[09:22:40] Jr_byba: СЮДА
+[09:22:50] богдан.: supply radio: fulton-crate
+[09:22:53] Jr_byba: НИХУЯ
+[09:22:55] vasiliy karat: руслан
+[09:22:56] vasiliy karat: на лево
+[09:22:58] vasiliy karat: на холме
+[09:23:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[09:23:01] vasiliy karat: вот
+[09:23:05] vasiliy karat: право
+[09:23:07] Toxa: зря он пришел
+[09:23:07] vasiliy karat: я перепутал
+[09:23:11] Client "kirosH20" connected.
+[09:23:13] spinning toilet was killed by build_prop
+[09:23:17] Jr_byba: хахахах
+[09:23:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[09:23:20] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[09:23:20] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[09:23:27] vasiliy karat: руслан ты невнимательно смотришь
+[09:23:42] Jr_byba: ДАААА
+[09:23:43] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:23:44] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:23:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:23:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:23:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:23:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:23:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:23:48] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:23:48] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:23:56] Jr_byba: НУ ДАВА
+[09:23:56] Mr_Pyro: !squad
+[09:23:59] Jr_byba: ДАВАЙ
+[09:24:05] богдан.: я пойду уран найду сразу
+[09:24:13] Toxa: всм
+[09:24:15] Toxa: все можем
+[09:24:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsatchelcharge
+[09:24:24] maksumkolesnukov022 killed Jr_byba using ent_jack_gmod_ezpowderkeg
+[09:24:29] Redoket: !squad
+[09:24:35] Dropped "benrybenrybenrybenrybenrybenry" from server<STEAM_0:1:653574667>
+[09:24:35] benrybenrybenrybenrybenrybenry suicided!
+[09:24:40] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezhebomb
+[09:24:46] Шайтан killed RusLanConnection using tfa_doim1919
+[09:24:53] spinning toilet: !motd
+[09:24:54] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezhebomb
+[09:24:58] spinning toilet: !squad
+[09:25:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezhebomb
+[09:25:11] Jr_byba: РУСЛАН
+[09:25:15] Mr_Pyro uncloaked Themself
+[09:25:15] Mr_Pyro uncloaked Themself
+[09:25:16] Mr_Pyro uncloaked Themself
+[09:25:20] Mr_Pyro stripped weapons from Themself
+[09:25:20] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezhebomb
+[09:25:24] RusLanConnection: !squad
+[09:25:24] Шайтан killed maksumkolesnukov022 using tfa_doim1919
+[09:25:30] spinning toilet killed Jr_byba using player
+[09:25:30] spinning toilet killed sokolise using player
+[09:25:30] Jr_byba: ТЫ ГДЕ РУСЛАН
+[09:25:34] Jr_byba: ЭЭЭ
+[09:25:34] RusLanConnection: !squad
+[09:25:55] spinning toilet killed А ПО ЖОПЕ!? using player
+[09:25:55] spinning toilet suicided!
+[09:26:01] maksumkolesnukov022 teleported to RusLanConnection
+[09:26:03] Шайтан killed dimonozn using tfa_doim1919
+[09:26:07] TRENCH_ZOMBI: АПОЖОПЕ
+[09:26:09] (TEAM) TRENCH_ZOMBI: СЮДА
+[09:26:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznukerocket
+[09:26:14] Toxa: там страйк можно сбить у тунеля
+[09:26:15] vasiliy karat: понастроют 
+[09:26:15] Jr_byba: где яТЕРКА
+[09:26:20] богдан.: supply radio: fulton-crate
+[09:26:23] Jr_byba: НИХУЯ
+[09:26:30] Jr_byba: ГДЕ ЯДЕРКА
+[09:26:36] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsticknade
+[09:26:43] Jr_byba: ИДИ НАХУЙ
+[09:26:43] maksumkolesnukov022 cloaked Themself by amount 0
+[09:26:47] Шайтан killed Jr_byba using tfa_doim1919
+[09:26:50] maksumkolesnukov022 cloaked Themself by amount 0
+[09:26:54] Jr_byba: зря...
+[09:26:58] RusLanConnection teleported to Jr_byba
+[09:27:03] богдан.: там война
+[09:27:04] богдан.: !squad
+[09:27:04] Dropped "[uvc]Andruha" from server<STEAM_0:0:593521421>
+[09:27:04] [uvc]Andruha suicided!
+[09:27:06] spinning toilet killed vasiliy karat using player
+[09:27:07] Шайтан killed spinning toilet using tfa_doim1919
+[09:27:09] Jr_byba: сори
+[09:27:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezfieldhospital
+[09:27:17] Jr_byba: забыл
+[09:27:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezbattery
+[09:27:20] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezmedsupplies
+[09:27:21] Toxa: 4 хп
+[09:27:22] Toxa: :D
+[09:27:25] Мёртвый_Анархист: !squad
+[09:27:31] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[09:27:31] богдан.: не
+[09:27:35] Jr_byba: незнаю
+[09:27:37] богдан.: зондби нельзя помогать
+[09:27:38] Mr_Pyro: Спасибо!
+[09:27:38] maksumkolesnukov022 to admins: KILL AND RAPE
+[09:27:47] Шайтан killed sokolise using tfa_doim1919
+[09:27:51] Client "[uvc]Andruha" connected.
+[09:28:01] maksumkolesnukov022 to admins: пусть скажет пин код от карточки
+[09:28:06] А ПО ЖОПЕ!? killed spinning toilet using tfa_doisten
+[09:28:09] Мёртвый_Анархист: !squad
+[09:28:21] vasiliy karat: буба беги 
+[09:28:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[09:28:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[09:28:28] TRENCH_ZOMBI: !squad
+[09:28:30] Jr_byba: зделай меня попкорном
+[09:28:31] Client "[uvc]Andruha" spawned in server <STEAM_0:0:593521421> (took 40 seconds).
+[09:28:33] TRENCH_ZOMBI: !squad
+[09:28:35] А ПО ЖОПЕ!? was killed by build_prop
+[09:28:38] spinning toilet was killed by ent_jack_gmod_ezsentry
+[09:28:43] Client "Rackman" connected.
+[09:28:50] maksumkolesnukov022 teleported to RusLanConnection
+[09:28:55] Toxa: хахаах
+[09:28:59] maksumkolesnukov022 uncloaked Themself
+[09:29:03] богдан.: ряльно
+[09:29:04] Jr_byba: ку
+[09:29:08] богдан.: че еще изменилось
+[09:29:09] богдан.: !squad
+[09:29:10] vasiliy karat: понять и простить в следующий раз забанить мат тут запрещенр
+[09:29:22] Client "Rackman" spawned in server <STEAM_0:0:221849271> (took 39 seconds).
+[09:29:22] [uvc]Andruha: 1
+[09:29:24] Jr_byba: спс
+[09:29:29] vasiliy karat: #безматов
+[09:29:29] богдан.: бля
+[09:29:30] RusLanConnection: !squad
+[09:29:33] Jr_byba: ок
+[09:29:34] RusLanConnection: !squad
+[09:29:44] Toxa: так мы и шли же не?
+[09:29:45] vasiliy karat: !squad
+[09:29:48] maksumkolesnukov022: !squad
+[09:29:52] богдан.: надо стены построить
+[09:29:53] Jr_byba: ГДЕ ЯДЕРКА
+[09:29:55] Toxa: пока тебя 3 раза не за рейпили по пути
+[09:29:57] [uvc]Andruha: K
+[09:29:58] sokolise killed spinning toilet using wep_jack_gmod_ezshovel
+[09:30:01] богдан.: внутри гор
+[09:30:06] богдан.: чтобы не заходили
+[09:30:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezherocket
+[09:30:18] RusLanConnection: !squad
+[09:30:22] Jr_byba: тут уже нужен рестарт
+[09:30:34] (TEAM) [uvc]Andruha: jmod_ez_inv
+[09:30:37] vasiliy karat: !squad
+[09:30:47] Jr_byba: гг
+[09:31:11] [uvc]Andruha: как играть
+[09:31:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezroadflare
+[09:31:28] spinning toilet was killed by ent_jack_gmod_ezsentry
+[09:31:31] Jr_byba: я тачку угнал
+[09:31:35] богдан.: норм
+[09:31:36] Jr_byba: ХЕХ
+[09:31:36] богдан.: !squad
+[09:31:44] Jr_byba: можно с вами
+[09:31:46] богдан.: да
+[09:31:46] Jr_byba: ?
+[09:31:48] Jr_byba: !squad
+[09:31:52] богдан.: !squad
+[09:31:53] maksumkolesnukov022: зомби кусай меня
+[09:32:01] Jr_byba: это из химки
+[09:32:03] maksumkolesnukov022: !squad
+[09:32:04] А ПО ЖОПЕ!? killed [uvc]Andruha using lvs_wheeldrive_citroen_type23
+[09:32:09] Toxa: !squad
+[09:32:11] maksumkolesnukov022: ты зомби теперь
+[09:32:17] богдан.: это предупредительный
+[09:32:19] maksumkolesnukov022: тебя укусили всё
+[09:32:22] Mr_Pyro: Бей их парень!
+[09:32:24] Rackman killed vasiliy karat using wep_jack_gmod_hands
+[09:32:52] А ПО ЖОПЕ!? killed sokolise using lvs_wheeldrive_citroen_type23
+[09:32:53] TRENCH_ZOMBI: !squad
+[09:33:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznutrients
+[09:33:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezifakpacket
+[09:33:11] [uvc]Andruha: scrounge
+[09:33:13] Redoket: КУДА
+[09:33:15] Mr_Pyro stripped weapons from Themself
+[09:33:18] TRENCH_ZOMBI killed spinning toilet using tfa_doim1911
+[09:33:21] Jr_byba: нам нужен дерево
+[09:33:22] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[09:33:22] Redoket suicided!
+[09:33:34] [uvc]Andruha: как играть
+[09:33:40] Jr_byba: ок
+[09:33:44] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[09:33:44] vasiliy karat suicided!
+[09:33:45] dimonozn was killed by build_prop
+[09:33:52] RusLanConnection: !squad
+[09:33:54] Jr_byba: ку
+[09:33:58] Jr_byba: ок
+[09:34:07] RusLanConnection: !squad
+[09:34:16] богдан. was killed by lvs_wheeldrive_dodwillyjeep
+[09:34:25] Dropped "[uvc]Andruha" from server<STEAM_0:0:593521421>
+[09:34:25] [uvc]Andruha suicided!
+[09:34:25] богдан.: бывает
+[09:34:25] Мёртвый_Анархист was killed by lvs_wheeldrive_dodwillyjeep
+[09:34:35] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:37] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:38] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:40] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:44] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:47] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:51] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:52] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[09:34:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztimebomb
+[09:35:15] Client "vasiliy karat" connected.
+[09:35:44] богдан. suicided!
+[09:35:44] RusLanConnection: !squad
+[09:35:50] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 35 seconds).
+[09:36:02] RusLanConnection: !squad
+[09:36:06] sokolise: !squad
+[09:36:11] богдан.: схуяли я себя облутать не могу
+[09:36:12] Dropped "dimonozn" from server<STEAM_0:1:840837958>
+[09:36:12] dimonozn suicided!
+[09:36:12] Toxa: ну капец вы реально заразили трупняком
+[09:36:13] maksumkolesnukov022: !squad
+[09:36:14] Dropped "spinning toilet" from server<STEAM_0:1:565749064>
+[09:36:14] spinning toilet suicided!
+[09:36:33] Jr_byba: я шя
+[09:36:37] vasiliy karat: я сам только зашщел
+[09:36:58] богдан.: ащъфхзцафцза
+[09:37:15] vasiliy karat: !squad
+[09:37:25] А ПО ЖОПЕ!?: supply radio: global message
+[09:37:43] богдан.: мы если что арийцы
+[09:37:47] богдан.: не фагготы
+[09:37:56] maksumkolesnukov022: мозге
+[09:38:07] maksumkolesnukov022: хэлуин 365 дней подряд
+[09:38:08] богдан.: да
+[09:38:11] Jr_byba: РУСЛАН
+[09:38:18] богдан.: мы прибыли сюда из агархи
+[09:38:20] vasiliy karat: выбиваем двре
+[09:38:23] maksumkolesnukov022: надо дом приватизировать
+[09:38:35] vasiliy karat: !squad
+[09:38:35] богдан.: мы против ниггеров фагготов и зондби
+[09:38:37] Jr_byba: руслан
+[09:39:00] Jr_byba: почему я не могу себя облотать
+[09:39:05] А ПО ЖОПЕ!?: !squad
+[09:39:12] sokolise: !squad
+[09:39:16] А ПО ЖОПЕ!?: !squad
+[09:39:19] maksumkolesnukov022: там дверь сверху открыта 
+[09:39:20] Toxa: д
+[09:39:24] maksumkolesnukov022: пристройка раст
+[09:39:25] maksumkolesnukov022: подстройка
+[09:39:28] богдан.: !squad
+[09:39:37] Jr_byba: когда ты умер и берёж ресы обратно
+[09:39:38] vasiliy karat: подсадка
+[09:39:40] vasiliy karat: !squad
+[09:39:45] Jr_byba: из трупв
+[09:39:54] maksumkolesnukov022: тут ящик
+[09:40:11] Jr_byba: уря
+[09:40:16] vasiliy karat: открой там замок
+[09:40:24] А ПО ЖОПЕ!?: !squad
+[09:40:40] Mr_Pyro silently slayed Themself
+[09:40:43] Toxa: вы что у дверей стоите?
+[09:40:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztnt
+[09:40:50] maksumkolesnukov022: отойдит от двери
+[09:41:03] богдан.: ок
+[09:41:06] Toxa: на половину
+[09:41:09] Toxa: УЖС
+[09:41:13] Toxa: ОКЕЙ
+[09:41:16] sokolise: !squad
+[09:41:17] Dropped "Мёртвый_Анархист" from server<STEAM_0:0:793300803>
+[09:41:17] Мёртвый_Анархист suicided!
+[09:41:19] RusLanConnection: !squad
+[09:41:24] Toxa: ЩЯ ОТКРОЮ
+[09:41:25] vasiliy karat: !squad
+[09:41:26] maksumkolesnukov022: !squad
+[09:41:29] Client "Мёртвый_Анархист" connected.
+[09:41:30] vasiliy karat: !squad
+[09:41:43] Шайтан: а?
+[09:41:46] sokolise: !squad
+[09:41:49] Шайтан: ты что то говорил:
+[09:41:52] vasiliy karat: местыне приватизируют ящик ура ура
+[09:41:53] maksumkolesnukov022: у тех зомбей 2 милиона денег
+[09:41:54] vasiliy karat: !squad
+[09:41:54] Шайтан: аааааа
+[09:41:59] А ПО ЖОПЕ!?: !squad
+[09:42:00] maksumkolesnukov022: !squad
+[09:42:15] Jr_byba: уря
+[09:42:32] vasiliy karat: почем
+[09:42:33] Jr_byba: зделай фраксию
+[09:42:43] Jr_byba: бро
+[09:42:59] Mr_Pyro: !squad
+[09:43:18] vasiliy karat: с таким рынком не заработаем
+[09:43:25] Mr_Pyro: !squad
+[09:43:31] vasiliy karat: !squad
+[09:43:37] Client "Redoket" connected.
+[09:43:52] Jr_byba: !squad
+[09:43:52] Mr_Pyro: Хм?
+[09:43:58] vasiliy karat: !squad
+[09:44:02] Mr_Pyro: Нет, не в коем случае!
+[09:44:04] Jr_byba: уря
+[09:44:12] Mr_Pyro: Ну
+[09:44:16] Mr_Pyro: Бл
+[09:44:21] Mr_Pyro: А как я должен доказать
+[09:44:24] Mr_Pyro: Предложите
+[09:44:32] Mr_Pyro: ЭТО С КАИХ ПОР
+[09:44:39] vasiliy karat: разбираем
+[09:44:41] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 64 seconds).
+[09:44:45] Mr_Pyro: ОШИБАЕШЬСЯ ПАРЕНЬ
+[09:44:50] богдан.: !squad
+[09:44:54] А ПО ЖОПЕ!? killed RusLanConnection using tfa_doisten
+[09:44:56] А ПО ЖОПЕ!? killed sokolise using tfa_doisten
+[09:44:57] Client "Мёртвый_Анархист" connected.
+[09:44:58] Шайтан: ВЕСЕЛАЯ НАРЕЗКА ДЕТЕЙ
+[09:45:01] Mr_Pyro suicided!
+[09:45:01] Mr_Pyro slayed Themself
+[09:45:02] А ПО ЖОПЕ!? was killed by ent_aboot_gmod_ezshippingcontainer
+[09:45:07] Toxa: ВТФ
+[09:45:12] Toxa: что тут происходит
+[09:45:20] Redoket: !squad
+[09:45:24] Toxa: че за пальба
+[09:45:26] vasiliy karat: какой то пустыны маньяк
+[09:45:38] TRENCH_ZOMBI: !squad
+[09:45:44] Toxa: теперь они владеют этим
+[09:45:51] Client "солдат" connected.
+[09:45:51] vasiliy karat: !squad
+[09:45:53] Toxa: ну так
+[09:46:05] maksumkolesnukov022: ешё коентейнер
+[09:46:28] vasiliy karat was killed by ent_aboot_gmod_ezshippingcontainer
+[09:46:32] Jr_byba killed Redoket using tfa_doienfield
+[09:46:35] Client "KIRKA" connected.
+[09:46:36] Rackman killed Mr_Pyro using tfa_doispringfield_scop
+[09:46:45] TRENCH_ZOMBI killed RusLanConnection using tfa_doim1919
+[09:46:46] TRENCH_ZOMBI killed sokolise using tfa_doim1919
+[09:46:53] vasiliy karat: мы отомстим
+[09:47:01] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 70 seconds).
+[09:47:07] vasiliy karat: впустили а потом растреляли
+[09:47:14] vasiliy karat: пошлите
+[09:47:22] maksumkolesnukov022: ДСАЮСТ
+[09:47:23] Client "Мёртвый_Анархист" spawned in server <STEAM_0:0:793300803> (took 146 seconds).
+[09:47:24] maksumkolesnukov022: ДСАЮТ
+[09:47:25] vasiliy karat: мы так просто
+[09:47:27] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 52 seconds).
+[09:47:27] vasiliy karat: не оставим
+[09:47:38] TRENCH_ZOMBI killed Jr_byba using tfa_doim1919
+[09:47:38] Mr_Pyro: !squad
+[09:47:43] vasiliy karat: а счем они воевать на танке
+[09:47:48] vasiliy karat: с нашим домом
+[09:47:49] Jr_byba: ну сука
+[09:47:51] Mr_Pyro: !squad
+[09:47:52] Мёртвый_Анархист: !squad
+[09:47:53] Мёртвый_Анархист: !squad
+[09:47:55] Мёртвый_Анархист: !squad
+[09:47:57] maksumkolesnukov022: яе нету
+[09:47:59] богдан.: !squad
+[09:47:59] Jr_byba: ЭЭЭЭ
+[09:48:01] maksumkolesnukov022: НЕТУ
+[09:48:03] Rackman killed maksumkolesnukov022 using tfa_doim1911
+[09:48:09] Toxa: supply radio: point-of-dislocation
+[09:48:09] Dropped "солдат" from server<STEAM_0:0:845922848>
+[09:48:09] солдат suicided!
+[09:48:10] TRENCH_ZOMBI: ЗАЩИЩАЙТЕ ЭТИ ХИМКИ
+[09:48:10] Client "солдат" connected.
+[09:48:21] vasiliy karat: да не щас
+[09:48:24] vasiliy karat: щас
+[09:48:25] vasiliy karat: играт
+[09:48:29] KIRKA: !squad
+[09:48:32] Мёртвый_Анархист: !squad
+[09:48:38] Jr_byba: дай лопату
+[09:48:39] vasiliy karat: !squad
+[09:48:44] TRENCH_ZOMBI was killed by ent_aboot_gmod_ezshippingcontainer
+[09:48:48] Jr_byba: !squad
+[09:48:50] Client "Сырный пакетик" connected.
+[09:48:54] vasiliy karat: кто то
+[09:48:56] vasiliy karat: приведите
+[09:48:57] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 47 seconds).
+[09:48:58] Jr_byba: нас уже 8
+[09:48:59] vasiliy karat: их
+[09:49:00] vasiliy karat: пж
+[09:49:01] maksumkolesnukov022 killed Redoket using tfa_doim1919
+[09:49:02] Mr_Pyro: ок
+[09:49:03] vasiliy karat: сюда
+[09:49:04] maksumkolesnukov022 killed Rackman using tfa_doim1919
+[09:49:07] богдан.: !squad
+[09:49:10] maksumkolesnukov022 killed А ПО ЖОПЕ!? using tfa_doim1919
+[09:49:14] maksumkolesnukov022 killed Шайтан using tfa_doim1919
+[09:49:16] vasiliy karat: я щас
+[09:49:19] солдат: !squad
+[09:49:20] Jr_byba: ок
+[09:49:20] Toxa: !squad
+[09:49:34] KIRKA to admins: Это я застрял или пинг ?
+[09:49:41] maksumkolesnukov022 to admins: хз
+[09:49:47] Toxa: гайс
+[09:49:47] богдан.: !squad
+[09:49:53] солдат: !squad
+[09:49:57] Toxa: что за выстрелы
+[09:50:04] Jr_byba: о нет
+[09:50:10] Jr_byba: уних танк
+[09:50:11] RusLanConnection: !squad
+[09:50:17] maksumkolesnukov022: МЫ ЗАХВАТИЛИ ЭТОТ ДОМ
+[09:50:20] Jr_byba: он ушёл
+[09:50:22] богдан.: !squad
+[09:50:26] Toxa killed KIRKA using tfa_doiwebley
+[09:50:36] Toxa: что-то не лучше
+[09:50:40] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[09:50:40] KIRKA suicided!
+[09:50:41] Client "KIRKA" connected.
+[09:50:43] Client "Сырный пакетик" spawned in server <STEAM_0:0:617253467> (took 113 seconds).
+[09:50:47] Jr_byba: это та
+[09:50:49] Toxa: ЧТО ЗА ТАНКИ
+[09:50:49] Jr_byba: да
+[09:50:58] Toxa: ЧТО ПРОИСХОДИТ
+[09:51:02] Jr_byba: жалко
+[09:51:07] vasiliy karat: ало
+[09:51:07] Jr_byba: чтото
+[09:51:09] Мёртвый_Анархист was killed by ent_aboot_gmod_ezshippingcontainer
+[09:51:12] богдан.: !squad
+[09:51:14] vasiliy karat: пошлите
+[09:51:16] Redoket killed Сырный пакетик using lvs_wheeldrive_citroen_type23
+[09:51:18] солдат: !squad
+[09:51:18] солдат: !squad
+[09:51:19] Toxa: А КУДА ЕДЕМ ТО
+[09:51:20] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 39 seconds).
+[09:51:21] солдат: !squad
+[09:51:23] vasiliy karat: с кем они воюют 
+[09:51:24] vasiliy karat: !squad
+[09:51:28] Toxa: зачем
+[09:51:30] Jr_byba: снами
+[09:51:39] Toxa: ТАК ЭТО НАША БАЗА
+[09:51:46] vasiliy karat: мы
+[09:51:47] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[09:51:47] KIRKA suicided!
+[09:51:48] Client "KIRKA" connected.
+[09:51:50] Jr_byba: хуйня блять
+[09:51:56] TRENCH_ZOMBI killed богдан. using tfa_doim1919
+[09:51:59] Client "KIRKA" connected.
+[09:51:59] А ПО ЖОПЕ!?: сдавайтесь нигеры!
+[09:52:04] vasiliy karat: нам нужно немного оружия хотябы минимального
+[09:52:06] maksumkolesnukov022: Я ТУТ ОДИН
+[09:52:09] Jr_byba: го ядерку
+[09:52:12] Jr_byba: рус
+[09:52:13] vasiliy karat: как я понял наши некоторые держут дом
+[09:52:17] Jr_byba: пора...
+[09:52:19] vasiliy karat: а мы должны помоч
+[09:52:23] vasiliy karat: вот керамозавод
+[09:52:25] богдан.: я подорвал им домаэ
+[09:52:27] vasiliy karat: можешь его захватить
+[09:52:30] Jr_byba: ок
+[09:52:34] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 35 seconds).
+[09:52:39] Redoket killed maksumkolesnukov022 using tfa_doi_m16a1
+[09:52:52] Rackman killed Redoket using lvs_m4_mow
+[09:52:54] Шайтан: етам редоксет
+[09:52:57] maksumkolesnukov022: ПОЧЕМУ НАС ТАК МНОГО
+[09:53:01] Сырный пакетик: !squad
+[09:53:07] Шайтан: это апожопе
+[09:53:09] богдан.: ПОШЛИТЕ НА БАЗУ БАНАНИИ
+[09:53:13] богдан.: она в горах
+[09:53:17] Шайтан: да паходу
+[09:53:20] Toxa: вы своего бахнули
+[09:53:21] RusLanConnection: !squad
+[09:53:21] vasiliy karat: сюда
+[09:53:25] Toxa: :D
+[09:53:26] Шайтан: ой =)
+[09:53:26] Jr_byba: го
+[09:53:26] sokolise: это мой дом
+[09:53:26] богдан.: это моя старая база
+[09:53:32] Jr_byba: я знаю рудь
+[09:53:32] богдан.: там можно поселится
+[09:53:39] Сырный пакетик: !squad
+[09:53:39] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[09:53:39] KIRKA suicided!
+[09:53:41] Jr_byba: путь
+[09:53:43] Toxa: ТАК ЗАЧЕМ МЫ НА СВОЮ ЖЕ БАЗУ НАПАЛИ?
+[09:53:50] богдан.: ТАНК
+[09:53:54] Client "KIRKA" connected.
+[09:53:57] богдан.: НА S
+[09:54:03] Шайтан: да мнэ скучнаааа
+[09:54:12] Сырный пакетик was killed by ent_jack_gmod_ezsentry
+[09:54:19] богдан.: руслан
+[09:54:20] vasiliy karat: ресов нет эканомика 
+[09:54:20] Сырный пакетик: !squad
+[09:54:20] vasiliy karat: в 
+[09:54:24] vasiliy karat: отступаем
+[09:54:25] богдан.: добавь треки из безумного макса
+[09:54:36] богдан.: чтобы проитив зонби эпично воювать
+[09:54:36] Redoket killed солдат using tfa_doim1919
+[09:54:47] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 53 seconds).
+[09:54:51] Шайтан killed maksumkolesnukov022 using tfa_doim1911
+[09:54:54] vasiliy karat: ЧУВАК ЗА МАШИНОЙ НА МОСТЕ
+[09:54:55] Мёртвый_Анархист was killed by lvs_wheeldrive_dodwillyjeep
+[09:54:58] Redoket killed Jr_byba using tfa_doim1919
+[09:55:06] Redoket was killed by lvs_wheeldrive_citroen_type23
+[09:55:08] Rackman killed Шайтан using lvs_m4_mow
+[09:55:21] Jr_byba: ПОМОГИТЕ
+[09:55:23] vasiliy karat: НЕ ВЫСОВЫВАЕМСЯ 
+[09:55:24] А ПО ЖОПЕ!? killed Мёртвый_Анархист using lvs_m3_stuart_tb
+[09:55:36] Шайтан: и?
+[09:55:38] maksumkolesnukov022: ТОЧКУ ЧИНИТЕ
+[09:55:43] sokolise: продайе свинец
+[09:55:44] Шайтан: я нихуя зделать не могу
+[09:55:45] vasiliy karat: НАШУ БАЗУ ЗАХВАТИЛИ
+[09:55:47] Шайтан: потому что не пон
+[09:55:48] maksumkolesnukov022: ДАЙТЕ БЕЙСИКОВ НЕМНОГО
+[09:55:50] Шайтан: кого ебашить
+[09:55:53] vasiliy karat: В УКРЫТИЕ
+[09:55:54] Rackman killed sokolise using lvs_m4_mow
+[09:55:57] Jr_byba: ПОМОГИТЕ
+[09:55:58] Mr_Pyro killed Redoket using tfa_doim1919
+[09:55:58] RusLanConnection killed А ПО ЖОПЕ!? using tfa_doienfield
+[09:56:00] Сырный пакетик: !squad
+[09:56:01] богдан.: !squad
+[09:56:09] Jr_byba: Я ЗАСДРЯЛ
+[09:56:19] Redoket: supply radio: medium tank
+[09:56:21] TRENCH_ZOMBI: !squad
+[09:56:25] Jr_byba: РУСЛАН
+[09:56:30] vasiliy karat killed А ПО ЖОПЕ!? using tfa_doienfield
+[09:56:30] Мёртвый_Анархист: !squad
+[09:56:32] Jr_byba: ЭЭЭ
+[09:56:42] Jr_byba: РУСЛАН
+[09:56:47] Jr_byba: ПОМОГИ
+[09:57:00] sokolise: вниз
+[09:57:01] А ПО ЖОПЕ!? killed Мёртвый_Анархист using lvs_m3_stuart_tb
+[09:57:09] солдат killed Сырный пакетик using tfa_doippk
+[09:57:11] vasiliy karat: !squad
+[09:57:12] Rackman killed солдат using tfa_doim1911
+[09:57:20] TRENCH_ZOMBI: !squad
+[09:57:22] Jr_byba: !squad
+[09:57:23] Шайтан killed Мёртвый_Анархист using tfa_doim1919
+[09:57:24] Шайтан killed vasiliy karat using tfa_doim1919
+[09:57:37] Шайтан killed Сырный пакетик using tfa_doim1919
+[09:57:39] TRENCH_ZOMBI: ЗДАВАЙТЕСЬ И ВЫХОДИТЕ
+[09:57:40] Шайтан killed Мёртвый_Анархист using tfa_doim1919
+[09:57:48] maksumkolesnukov022 killed Шайтан using tfa_doippk
+[09:57:49] TRENCH_ZOMBI killed maksumkolesnukov022 using lvs_m3_stuart_tb
+[09:57:50] Jr_byba: НЕЕЕЕЕЕТ
+[09:57:52] Mr_Pyro killed А ПО ЖОПЕ!? using tfa_doim1919
+[09:57:53] vasiliy karat: Я ПРЕДЛОЖИЛ ВАМ ПРЕКРАТИТЬЬ
+[09:57:54] Jr_byba was killed by ent_jack_gmod_ezsticknade
+[09:57:54] vasiliy karat was killed by ent_jack_gmod_ezsticknade
+[09:57:54] TRENCH_ZOMBI killed Mr_Pyro using lvs_m3_stuart_tb
+[09:57:58] Jr_byba: Я ЗАСТРЯЛ
+[09:58:02] солдат: !squad
+[09:58:02] богдан.: !squad
+[09:58:02] Сырный пакетик: пиздец
+[09:58:06] TRENCH_ZOMBI killed Jr_byba using lvs_m3_stuart_tb
+[09:58:06] Сырный пакетик: руслан давай рестарт
+[09:58:08] sokolise: ну и нахуя я стоил это
+[09:58:08] Rackman: supply radio: detpacks
+[09:58:11] Сырный пакетик: сервер умриает чут чут
+[09:58:14] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezfluid_bottler
+[09:58:14] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezaidradio
+[09:58:16] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[09:58:19] солдат: !squad
+[09:58:20] Мёртвый_Анархист killed А ПО ЖОПЕ!? using tfa_doienfield
+[09:58:22] Jr_byba: ЭХ
+[09:58:23] солдат was killed by lvs_m3_stuart_tb
+[09:58:31] Jr_byba: что
+[09:58:36] Сырный пакетик: !squad
+[09:58:37] vasiliy karat: нас выгнали
+[09:58:42] sokolise: это мой дом
+[09:58:58] Jr_byba: атакуй меня
+[09:59:03] Jr_byba: хахах
+[09:59:04] богдан.: ПОШЛИТЕ В ДОМ В ГОРАХ
+[09:59:08] солдат: !squad
+[09:59:08] KIRKA: !squad
+[09:59:09] богдан.: ТАМ СТЕНЫ ЕСТЬТ
+[09:59:09] sokolise: эо мой дом
+[09:59:15] KIRKA: !squad
+[09:59:19] sokolise: я сам его строил
+[09:59:20] TRENCH_ZOMBI: РЕДОКЕТ УБЕЙ МАЛЕНЬКИЙ ТАНК В КОТОРОМ Я 
+[09:59:30] богдан.: !squad
+[09:59:46] Redoket killed Jr_byba using lvs_m4_mow
+[09:59:46] Redoket killed солдат using lvs_m4_mow
+[09:59:46] vasiliy karat: надо ухадить найдем новый дом
+[09:59:55] солдат: !squad
+[10:00:04] Mr_Pyro killed TRENCH_ZOMBI using tfa_doim1919
+[10:00:05] Mr_Pyro killed богдан. using tfa_doim1919
+[10:00:07] Шайтан killed Mr_Pyro using tfa_doim1919
+[10:00:11] Шайтан killed солдат using tfa_doim1919
+[10:00:12] Сырный пакетик: !squad
+[10:00:13] Шайтан killed Jr_byba using tfa_doim1919
+[10:00:24] Mr_Pyro<STEAM_0:1:157056677> spawned vehicle models/nova/airboat_seat.mdl
+[10:00:29] богдан. killed солдат using tfa_doim1919
+[10:00:34] богдан.: ЪЗХФАЩХФЦАХФЗАФЦ
+[10:00:35] Jr_byba: !squad
+[10:00:40] maksumkolesnukov022: нету
+[10:00:41] богдан. killed богдан.
+[10:00:48] солдат killed солдат
+[10:00:48] Сырный пакетик killed Сырный пакетик
+[10:01:05] Rackman killed Мёртвый_Анархист using tfa_doim1911
+[10:01:07] sokolise killed sokolise
+[10:01:23] sokolise: не идите на свет
+[10:01:29] RusLanConnection was killed by entityflame
+[10:01:32] Мёртвый_Анархист killed А ПО ЖОПЕ!? using ent_jack_gmod_eznapalm
+[10:01:33] Toxa was killed by entityflame
+[10:01:33] Мёртвый_Анархист killed солдат using ent_jack_gmod_eznapalm
+[10:01:33] Rackman was killed by entityflame
+[10:01:36] Мёртвый_Анархист killed Redoket using ent_jack_gmod_ezfirehazard
+[10:01:36] Мёртвый_Анархист killed Jr_byba using ent_jack_gmod_ezfirehazard
+[10:01:36] Мёртвый_Анархист killed KIRKA using ent_jack_gmod_ezfirehazard
+[10:01:43] maksumkolesnukov022: МЫ ПРИШЛИ С БРАТКАМИ 
+[10:01:46] maksumkolesnukov022: НАШЛИ КРУТОЙ ДОМ
+[10:01:59] maksumkolesnukov022: К НАМ ПРИШЁЛ ЕГО ВЛАДЕЛЕЦ СКАЗАЛ ЧТО ТАМ НИКТО НЕ ЖИВЁТ
+[10:02:07] maksumkolesnukov022: МЫ ПРИШЛИ ПЕШКОМ И ИНОГДА НА ОСЛАХ
+[10:02:21] maksumkolesnukov022: ОТТУДА
+[10:02:26] RusLanConnection killed RusLanConnection
+[10:02:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[10:02:41] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:02:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:02:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:02:43] Jr_byba: !squad
+[10:02:50] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[10:02:52] sokolise: почему тут дыра в поталке
+[10:02:58] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/garbage_newspaper001a.mdl
+[10:02:58] Сырный пакетик to admins: сделайте голосование на рестарт плиз, ужас уже
+[10:02:59] RusLanConnection teleported to vasiliy karat
+[10:03:01] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezpopcorn
+[10:03:07] Dropped "Мёртвый_Анархист" from server<STEAM_0:0:793300803>
+[10:03:07] Мёртвый_Анархист suicided!
+[10:03:09] RusLanConnection brought Сырный пакетик
+[10:03:18] богдан. to admins: когда вайпэ
+[10:03:23] maksumkolesnukov022 to admins: забаньте пакетика и богдана
+[10:03:30] vasiliy karat: мясорубка на спавне
+[10:03:36] maksumkolesnukov022: ЗДРАСТЕ
+[10:03:36] Rackman to admins: Че за придурок был с огнеметом
+[10:03:51] Redoket to admins: мертвы анархист
+[10:03:53] maksumkolesnukov022: МЫ ИСКАЛИ ГДЕ ПОЖИТЬ И ПОКИДАТЬ КУКУРУЗНЫЕ ЗЁРНА
+[10:03:55] maksumkolesnukov022: ПОД ГУБУ
+[10:04:04] Сырный пакетик: !squad
+[10:04:08] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/garbage_bag001a.mdl
+[10:04:18] maksumkolesnukov022: ПОДКИНУЛИ
+[10:04:18] богдан.: все уже прошло
+[10:04:21] maksumkolesnukov022: ЭЭЭФЭЭЭЭЭ
+[10:04:23] vasiliy karat: война сквотеров
+[10:04:30] vasiliy karat: с домовладельцами
+[10:04:31] солдат killed Redoket using tfa_doim1919
+[10:04:34] богдан.: проверни танк
+[10:04:39] богдан.: я стрелять хочу
+[10:04:40] maksumkolesnukov022: БРАТ ДАВАЙ ДОГОВРИМСЯ БРАТ
+[10:04:45] Jr_byba: не могу
+[10:04:52] maksumkolesnukov022: НУ ЗА ЧТО ТЫ ТАК БРАТ
+[10:04:53] богдан.: как нибудт
+[10:04:57] vasiliy karat was killed by lvs_m4_mow
+[10:05:01] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[10:05:06] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[10:05:16] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezifakpacket
+[10:05:21] KIRKA was killed by lvs_m4_mow
+[10:05:21] Сырный пакетик was killed by lvs_m4_mow
+[10:05:28] Toxa: !squad
+[10:05:33] Rackman: supply radio: global message
+[10:05:39] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezaidradio
+[10:05:41] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezdetpack
+[10:05:43] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:05:54] богдан.: ивент зондби апокалипсис
+[10:05:59] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/metalbucket02a.mdl
+[10:06:05] Сырный пакетик: !squad
+[10:06:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_assault/money.mdl
+[10:06:12] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_assault/money.mdl
+[10:06:15] TRENCH_ZOMBI killed Mr_Pyro using tfa_doim1919
+[10:06:22] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_assault/money.mdl
+[10:06:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_assault/money.mdl
+[10:06:27] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_assault/money.mdl
+[10:06:30] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_assault/money.mdl
+[10:06:31] Jr_byba: !squad
+[10:06:32] богдан.: !squad
+[10:06:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_assault/money.mdl
+[10:06:35] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_assault/money.mdl
+[10:06:38] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_assault/money.mdl
+[10:06:58] богдан.: хомисайд сервер для даунов
+[10:07:03] vasiliy karat: дома которые можно забрать
+[10:07:08] sokolise: нам надо бежать
+[10:07:17] богдан.: руслан
+[10:07:21] богдан.: почему нет перил
+[10:07:29] RusLanConnection: !squad
+[10:07:38] Jr_byba: го уже
+[10:07:39] богдан.: перила это важно
+[10:07:39] sokolise: буджета нхватило
+[10:07:48] KIRKA was killed by ent_jack_gmod_ezsentry
+[10:07:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_italy/orange.mdl
+[10:07:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_italy/bananna.mdl
+[10:08:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned ragdoll models/props_c17/furnituremattress001a.mdl
+[10:08:12] Сырный пакетик: !squad
+[10:08:16] солдат: !squad
+[10:08:18] богдан.: !squad
+[10:08:29] Toxa killed Jr_byba using ent_jack_gmod_ezlandmine
+[10:08:41] maksumkolesnukov022:  УНАС ЕСТЬ КРУТОЙ МЕХАНИК 
+[10:08:42] maksumkolesnukov022: АБОРТМАХЕР
+[10:08:47] vasiliy karat to admins: ракман сколько у вас денег было
+[10:08:49] maksumkolesnukov022: АБОРТМЕХАР
+[10:08:56] Rackman to admins: 2 миллиона
+[10:08:59] maksumkolesnukov022: ВОН ТАМ
+[10:09:00] богдан.: !squad
+[10:09:22] Jr_byba killed А ПО ЖОПЕ!? using lvs_wheeldrive_citroen_type23
+[10:09:30] TRENCH_ZOMBI killed Jr_byba using tfa_doim1919
+[10:09:57] maksumkolesnukov022: ВАЙ ЗАХОДИ БРАТ
+[10:10:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[10:10:18] (csay from RusLanConnection) Дети, запомните, если фракция развалилась - это еще не конец
+[10:10:21] богдан.: стой
+[10:10:24] богдан.: я белый
+[10:10:31] TRENCH_ZOMBI killed Jr_byba using tfa_doim1919
+[10:10:32] богдан.: я хочу жить
+[10:10:42] богдан.: показал*
+[10:10:56] богдан.: куда можно поселится
+[10:11:00] богдан.: чтобы жить
+[10:11:07] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/garbage_bag001a.mdl
+[10:11:10] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:11:10] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:11:12] богдан.: а спасибо
+[10:11:18] maksumkolesnukov022: НУ ПРИВЕТ
+[10:11:28] RusLanConnection: !squad
+[10:11:31] Jr_byba: можно к ним
+[10:11:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_wasteland/prison_bedframe001b.mdl
+[10:11:38] maksumkolesnukov022: ДАВАЙ ЕГО ПОД ШКОНКУ
+[10:11:57] солдат was killed by prop_door_rotating
+[10:12:03] Jr_byba: нихуй
+[10:12:14] богдан.: это труба
+[10:12:18] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[10:12:21] богдан.: я ее в мусоре нашел
+[10:12:22] Сырный пакетик: !squad
+[10:12:24] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:12:24] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:12:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:12:25] RusLanConnection teleported to vasiliy karat
+[10:12:36] maksumkolesnukov022: АФИГЕТЬ ГДЕ ВАЛЫНУ НАШЁЛ
+[10:12:41] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[10:12:41] Redoket suicided!
+[10:12:41] Шайтан killed богдан. using tfa_doisten
+[10:12:46] sokolise: !squad
+[10:12:48] RusLanConnection killed vasiliy karat using wep_jack_gmod_hands
+[10:12:54] Шайтан: ахахахахах
+[10:12:55] Сырный пакетик: !squad
+[10:13:02] богдан.: !squad
+[10:13:15] А ПО ЖОПЕ!? killed KIRKA using tfa_doi_m16a1
+[10:13:15] RusLanConnection: !squad
+[10:13:20] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[10:13:31] Jr_byba killed А ПО ЖОПЕ!? using wep_jack_gmod_hands
+[10:13:33] TRENCH_ZOMBI killed Jr_byba using tfa_doim1919
+[10:13:49] sokolise: !squad
+[10:13:56] Сырный пакетик: !squad
+[10:13:57] богдан.: !squad
+[10:14:04] RusLanConnection: !squad
+[10:14:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:14:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:14:13] RusLanConnection: !squad
+[10:14:22] Сырный пакетик: !squad
+[10:14:22] Шайтан killed солдат using tfa_doisten
+[10:14:25] TRENCH_ZOMBI killed KIRKA using tfa_doim1919
+[10:14:25] KIRKA killed TRENCH_ZOMBI using player
+[10:14:27] богдан.: это мой дом!!!1
+[10:14:28] Шайтан killed maksumkolesnukov022 using tfa_doisten
+[10:14:34] богдан.: спасибо
+[10:14:35] Jr_byba: !squad
+[10:14:40] maksumkolesnukov022 teleported to Mr_Pyro
+[10:14:40] KIRKA: !squad
+[10:14:42] RusLanConnection: !squad
+[10:14:47] RusLanConnection: !squad
+[10:15:09] (TEAM) sokolise: я нашол руины с очень цеными вещами
+[10:15:36] TRENCH_ZOMBI killed Jr_byba using tfa_doi_m16a1
+[10:15:46] TRENCH_ZOMBI killed KIRKA using tfa_doi_m16a1
+[10:15:50] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/furniturebed001a.mdl
+[10:15:51] TRENCH_ZOMBI killed солдат using tfa_doi_m16a1
+[10:16:11] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezbasicparts
+[10:16:11] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_wasteland/prison_bedframe001b.mdl
+[10:16:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_eztoolbox
+[10:16:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_wasteland/prison_bedframe001b.mdl
+[10:16:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_c17/furniturebed001a.mdl
+[10:16:30] богдан.: меня сюда заселил дядя в форме
+[10:16:36] богдан.: показал документы*
+[10:16:39] богдан.: он был гнилой
+[10:16:39] maksumkolesnukov022: утепление
+[10:16:55] Toxa killed Jr_byba using tfa_blast_sjogren
+[10:17:01] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/workspace003.mdl
+[10:17:15] Rackman<STEAM_0:0:221849271> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[10:17:16] солдат killed Toxa using tfa_doi_m16a1
+[10:17:17] Rackman<STEAM_0:0:221849271> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[10:17:22] Rackman<STEAM_0:0:221849271> spawned model models/props_wasteland/laundry_washer001a.mdl
+[10:17:26] TRENCH_ZOMBI killed солдат using tfa_doi_m16a1
+[10:17:34] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezpopcorn
+[10:17:41] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_interiors/furniture_chair03a.mdl
+[10:17:46] RusLanConnection: !squad
+[10:17:46] Jr_byba: о
+[10:18:05] Jr_byba: !squad
+[10:18:24] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/wood_crate001a.mdl
+[10:18:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/metal_paintcan001a.mdl
+[10:18:30] солдат: !squad
+[10:18:31] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezflashbang
+[10:18:33] Toxa: !squad
+[10:18:38] maksumkolesnukov022: это утепление
+[10:18:41] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezflashbang
+[10:18:42] Jr_byba: ок
+[10:18:44] богдан.: !squad
+[10:18:49] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezflashbang
+[10:18:51] TRENCH_ZOMBI: !squad
+[10:18:55] Dropped "Сырный пакетик" from server<STEAM_0:0:617253467>
+[10:18:55] Сырный пакетик suicided!
+[10:18:56] солдат: !squad
+[10:18:56] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezflashbang
+[10:19:01] Jr_byba: !squad
+[10:19:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_lab/monitor01b.mdl
+[10:19:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_lab/citizenradio.mdl
+[10:19:23] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcsnade
+[10:19:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_gasmask
+[10:19:29] TRENCH_ZOMBI killed солдат using tfa_doi_m16a1
+[10:19:34] богдан.: ладно
+[10:19:35] Jr_byba: да
+[10:19:35] солдат: !squad
+[10:19:36] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_c17/furniturecupboard001a.mdl
+[10:19:37] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_c17/furnituredrawer001a.mdl
+[10:19:38] богдан.: там оргия?
+[10:19:43] богдан.: судя по звукам
+[10:19:52] Jr_byba: да
+[10:19:54] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/garbage_bag001a.mdl
+[10:19:57] богдан.: а не жирно
+[10:20:01] солдат: !squad
+[10:20:02] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_nvgs
+[10:20:05] богдан.: кровати себе спавнить
+[10:20:06] (TEAM) sokolise: руслан я внизу
+[10:20:25] (TEAM) sokolise: и у меня танк
+[10:20:31] (TEAM) Jr_byba: ок
+[10:20:31] богдан.: ЭТО КОКС!!!
+[10:20:34] Jr_byba: ок
+[10:20:40] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/furnituretoilet001a.mdl
+[10:20:42] maksumkolesnukov022: МНЕ ПЕРЕДАЛИ
+[10:20:44] Jr_byba: я знаю куда
+[10:20:49] maksumkolesnukov022: НА ТЕБЯ ПОХОЖИЙ
+[10:20:54] Client "Сырный пакетик" connected.
+[10:20:55] RusLanConnection: !squad
+[10:21:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezroadflare
+[10:21:05] (TEAM) sokolise: русла под мост прыгай
+[10:21:08] солдат: !squad
+[10:21:34] богдан.: в камеру его
+[10:21:35] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezaidradio
+[10:21:37] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:21:40] Jr_byba: мда
+[10:21:54] Jr_byba: ЭТО ДА
+[10:21:55] Client "Сырный пакетик" spawned in server <STEAM_0:0:617253467> (took 61 seconds).
+[10:21:56] богдан.: ЖФахдфцХ
+[10:21:59] KIRKA killed KIRKA
+[10:22:02] Jr_byba: ЖАЛЬ ТЕБЯ
+[10:22:04] богдан.: он там смешно ореьт
+[10:22:09] Jr_byba: сори капс
+[10:22:26] Jr_byba: да
+[10:22:28] А ПО ЖОПЕ!? killed солдат using tfa_doim1919
+[10:22:37] Сырный пакетик: !squad
+[10:22:52] sokolise: рядом с танком лежал
+[10:22:53] солдат: !squad
+[10:22:58] богдан.: пей до дна
+[10:23:00] солдат: !squad
+[10:23:03] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezpopcorn
+[10:23:04] Jr_byba: можно в тиму
+[10:23:05] Jr_byba: !squad
+[10:23:09] богдан.: там говно в бутылке
+[10:23:12] Jr_byba: нет
+[10:23:13] богдан.: нет
+[10:23:13] Сырный пакетик: !squad
+[10:23:14] богдан.: ЕТ
+[10:23:17] богдан.: НЕТ
+[10:23:23] RusLanConnection: !squad
+[10:23:24] Jr_byba: нигокда
+[10:23:27] Сырный пакетик: !squad
+[10:23:28] солдат: !squad
+[10:23:29] Jr_byba: что сним?
+[10:23:31] RusLanConnection: !squad
+[10:23:41] sokolise: я знаю где есть взрывчатка
+[10:23:43] солдат: !squad
+[10:23:54] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezstunstick
+[10:23:59] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezwelder
+[10:24:03] Сырный пакетик: !squad
+[10:24:04] солдат was killed by ent_jack_gmod_ezsentry
+[10:24:06] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:24:09] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[10:24:23] vasiliy karat: !squad
+[10:24:27] богдан.: мигрантов не найдено
+[10:24:28] RusLanConnection: !squad
+[10:24:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezflashbang
+[10:24:36] sokolise: я приведу сюда танк
+[10:24:37] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcsnade
+[10:24:40] богдан.: ладно\
+[10:24:44] богдан.: можешь снять очкиъ
+[10:24:51] богдан.: лаадно
+[10:24:57] богдан.: а зачем ему очки
+[10:24:59] солдат was killed by ent_jack_gmod_ezsentry
+[10:25:05] солдат: !squad
+[10:25:12] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezflashbang
+[10:25:18] KIRKA: !squad
+[10:25:20] Сырный пакетик: эт не база
+[10:25:25] Сырный пакетик: я случайн точку захватил
+[10:25:25] Jr_byba: руслан всё будет ок
+[10:25:33] Jr_byba: да
+[10:25:34] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezhealthvial
+[10:25:39] (TEAM) sokolise: танк пуст
+[10:25:42] Jr_byba: ну
+[10:25:44] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_nvgs
+[10:25:48] Jr_byba: да
+[10:25:51] Jr_byba: да да да
+[10:25:52] богдан.: гранаты против мигрантов
+[10:25:54] солдат: !squad
+[10:26:01] vasiliy karat: самое главное чтобы он не стал против нас
+[10:26:09] богдан.: где очки
+[10:26:11] Rackman to admins: Максим сделай себя повыше
+[10:26:15] Rackman to admins: Чут чут
+[10:26:17] maksumkolesnukov022: !menu
+[10:26:19] Rackman was killed by prop_physics
+[10:26:21] богдан.: ИХ НА ТЕБЕ НЕТ
+[10:26:23] богдан.: Я НЕ ВИЖУ
+[10:26:31] богдан.: хорошо
+[10:26:33] vasiliy karat: родной дом
+[10:26:35] богдан.: я тебе верю
+[10:26:36] vasiliy karat: родные стены
+[10:26:37] Jr_byba: что на фигня?
+[10:26:43] maksumkolesnukov022 set the scale for Themself to 2
+[10:26:45] maksumkolesnukov022 set the scale for Themself to 2
+[10:26:45] sokolise: танк без топлива
+[10:26:56] vasiliy karat: открытый?
+[10:26:56] maksumkolesnukov022 to admins: до целочисленного снапается
+[10:26:58] Шайтан: !squad
+[10:27:00] sokolise: да
+[10:27:01] солдат was killed by ent_jack_gmod_ezsentry
+[10:27:05] А ПО ЖОПЕ!?: !squad
+[10:27:08] солдат: !squad
+[10:27:22] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezration
+[10:27:30] maksumkolesnukov022 set the scale for Themself to 1
+[10:27:31] А ПО ЖОПЕ!? killed KIRKA using tfa_doim1919
+[10:27:39] vasiliy karat: можем не продавать пусть лежат на складе и вызвать когда надо
+[10:27:57] Toxa: АЛЕ
+[10:27:58] Toxa: СБЕЖАЛ
+[10:28:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[10:28:02] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[10:28:02] Jr_byba: мне норм без рук
+[10:28:04] богдан.: не деритесь
+[10:28:09] Toxa: РЭКМЕН
+[10:28:10] maksumkolesnukov022: Я ЭЭЭЭ
+[10:28:13] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezpickaxe
+[10:28:14] богдан.: будете дратся убьем обоих
+[10:28:17] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezstunstick
+[10:28:21] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezwelder
+[10:28:24] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezwelder
+[10:28:32] богдан.: очкиэ
+[10:28:36] maksumkolesnukov022: ТОЛЬКО НЕ ОБРАТНО
+[10:28:38] vasiliy karat: кто то продает
+[10:28:39] vasiliy karat: АЛООО
+[10:28:41] богдан.: НАДЕВАЙ ОЧКИ
+[10:28:42] vasiliy karat: ВЗРЫВЧАТКК
+[10:28:43] vasiliy karat: ОСТАВЬТЕ
+[10:28:43] богдан.: И НЕ СНИМАЙ
+[10:28:46] Сырный пакетик: прив!!!
+[10:28:51] RusLanConnection: прием
+[10:28:52] Сырный пакетик: !squad
+[10:28:52] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/fence01a.mdl
+[10:28:53] RusLanConnection: кто там
+[10:28:57] солдат: !squad
+[10:28:59] vasiliy karat: взрывчатка лежит на складе
+[10:29:02] vasiliy karat: не трогаем
+[10:29:04] Jr_byba: ок
+[10:29:06] Client "Tyman0408Ti" connected.
+[10:29:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[10:29:07] RusLanConnection: ало ответьте
+[10:29:08] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezcapacitor
+[10:29:10] RusLanConnection: кто там на радио
+[10:29:11] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:29:11] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:29:13] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:29:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:29:14] Сырный пакетик: я
+[10:29:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:29:14] RusLanConnection: !squad
+[10:29:16] Сырный пакетик: але
+[10:29:16] vasiliy karat: вы откуда
+[10:29:19] vasiliy karat: вы где
+[10:29:21] Сырный пакетик: я на базе у кирки
+[10:29:22] maksumkolesnukov022: ЭТО Я
+[10:29:24] RusLanConnection: !squad
+[10:29:26] Сырный пакетик: и я тут один
+[10:29:29] Сырный пакетик: ну и кирка
+[10:29:30] Сырный пакетик: вы где
+[10:29:31] RusLanConnection: знать бы где это
+[10:29:37] maksumkolesnukov022: Я ТЕБЯ НЕ ВИЖУ
+[10:29:39] KIRKA: !squad
+[10:29:42] богдан.: ПОМОГИТЕ ДОСТАТЬ КОРОБКУ
+[10:29:43] KIRKA: !squad
+[10:29:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:30:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/garbage_bag001a.mdl
+[10:30:05] KIRKA: supply radio: detpacks
+[10:30:11] KIRKA: supply radio: detpacks
+[10:30:15] KIRKA: supply radio: detpacks
+[10:30:20] KIRKA: supply radio: detpacks
+[10:30:23] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezpopcorn
+[10:30:39] Jr_byba: !squad
+[10:30:44] RusLanConnection: так
+[10:30:45] RusLanConnection: !squad
+[10:30:47] vasiliy karat: щас отправим сталь оставим на складе для крафта
+[10:30:55] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsmokenade
+[10:30:55] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsmokenade
+[10:31:06] Сырный пакетик: вы где бл
+[10:31:08] Сырный пакетик: алеу
+[10:31:12] RusLanConnection: под мостом
+[10:31:13] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsmokenade
+[10:31:13] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsmokenade
+[10:31:16] Сырный пакетик: ок бегу
+[10:31:23] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezflashbang
+[10:31:24] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezarmor_glasses
+[10:31:27] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezflashbang
+[10:31:28] Rackman killed солдат using ent_jack_gmod_ezflashbang
+[10:31:33] солдат: !squad
+[10:31:39] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezacorn
+[10:31:40] Jr_byba: блять
+[10:31:43] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezacorn
+[10:31:44] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezacorn
+[10:31:50] KIRKA: !squad
+[10:31:51] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/watermelon01.mdl
+[10:31:53] Jr_byba: хахахах
+[10:31:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/garbage_bag001a.mdl
+[10:32:10] Jr_byba: у меня руки в воздухе
+[10:32:25] RusLanConnection: так
+[10:32:26] богдан.: ЕШЬ
+[10:32:27] RusLanConnection: ну че
+[10:32:29] vasiliy karat: о ящик
+[10:32:30] vasiliy karat: прилетел
+[10:32:37] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:32:37] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:32:38] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezpopcorn
+[10:32:44] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[10:32:54] vasiliy karat: это вин
+[10:33:00] Jr_byba: ДА
+[10:33:01] maksumkolesnukov022: !squad
+[10:33:06] богдан.: ОН МИГРАНТ
+[10:33:06] RusLanConnection: да блиииииииин
+[10:33:08] RusLanConnection: зачем
+[10:33:11] RusLanConnection: щас таскать эту точку
+[10:33:12] солдат: !squad
+[10:33:12] Jr_byba: СМОТРИ
+[10:33:12] Сырный пакетик: она стояла там где то
+[10:33:15] Сырный пакетик: я хз
+[10:33:20] RusLanConnection: елыыы палыыыы...
+[10:33:21] Сырный пакетик: ну можем разобрать
+[10:33:21] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezprojector
+[10:33:23] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[10:33:25] Jr_byba: го тим
+[10:33:41] Jr_byba: покет
+[10:33:41] солдат: !squad
+[10:33:41] богдан.: нужен медпункт
+[10:33:44] Сырный пакетик: ?
+[10:33:47] Jr_byba: го тим
+[10:33:54] RusLanConnection: падем отсюдава
+[10:33:55] Сырный пакетик: мы и так в скваде кент
+[10:33:57] богдан.: чертовы арабы
+[10:33:58] RusLanConnection: !squad
+[10:34:00] Jr_byba: ааа
+[10:34:03] Сырный пакетик: ща я сделаю сканер
+[10:34:03] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[10:34:06] vasiliy karat: возьмите ящик
+[10:34:12] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezration
+[10:34:14] солдат: !squad
+[10:34:15] RusLanConnection: офигеть
+[10:34:15] Jr_byba: ну как
+[10:34:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:34:16] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:34:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:34:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:34:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:34:19] Сырный пакетик: чзх
+[10:34:24] RusLanConnection: пойдем в город
+[10:34:25] RusLanConnection: или куда
+[10:34:26] Сырный пакетик: я не могу сканер сделать
+[10:34:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:34:26] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[10:34:26] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_nvgs
+[10:34:33] Jr_byba: ок
+[10:34:37] солдат: !squad
+[10:34:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/plasticcrate01a.mdl
+[10:34:46] vasiliy karat: можно на угол карты где город вести наступление на дом
+[10:34:56] vasiliy karat: за горами
+[10:34:59] Jr_byba: что там уних
+[10:35:05] vasiliy karat: надо там минимально что нибудь сделать
+[10:35:16] Jr_byba: опа
+[10:35:19] vasiliy karat: ну нас будут выбивать танками снова
+[10:35:23] vasiliy karat: поставим лежак
+[10:35:29] maksumkolesnukov022: НАС СПАСУТ?
+[10:35:31] богдан.: НЕ БЕСИСЬ
+[10:35:37] vasiliy karat: давайте тогда хотябы
+[10:35:37] vasiliy karat: рпг
+[10:35:41] vasiliy karat: щас тут
+[10:35:42] vasiliy karat: сделаем
+[10:35:46] Сырный пакетик: эт наш?
+[10:35:46] (TEAM) sokolise: вы осавили меня
+[10:35:47] Сырный пакетик: ящик
+[10:35:49] Rackman set the hp for Шайтан to 5000
+[10:35:54] богдан.: ЧЕРТ У НИХ БОМБЫ
+[10:36:00] А ПО ЖОПЕ!? killed KIRKA using tfa_doim1919
+[10:36:05] богдан.: ОНИ ПЫТАЮТСЯ СБЕЖАТЬ
+[10:36:19] vasiliy karat: грабим тут
+[10:36:26] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezroadflare
+[10:36:52] богдан.: успокоительный газ
+[10:36:53] vasiliy karat: мы будем везде
+[10:36:57] Сырный пакетик: русл
+[10:36:57] солдат was killed by entityflame
+[10:36:58] богдан.: НЕ ЕБАТСЯ
+[10:37:02] maksumkolesnukov022: Я ВИЖУ
+[10:37:04] maksumkolesnukov022: СТЕНУ С ДЫРОЙ
+[10:37:06] maksumkolesnukov022: ВДАЛЕКЕ
+[10:37:06] Сырный пакетик: сделай колизию сканеру
+[10:37:08] Jr_byba: ку
+[10:37:12] богдан.: СЛЕЗЬ С НЕГО
+[10:37:14] богдан.: АТО УМРЕШЬ
+[10:37:33] vasiliy karat: в плену
+[10:37:34] Сырный пакетик: он зафантомился
+[10:37:43] Сырный пакетик: колизия отключилась
+[10:37:47] Jr_byba: жалко
+[10:37:52] Сырный пакетик: так его заряжать нельзя нормально
+[10:37:53] Toxa: НОВАЯ АПТЕЧКА
+[10:38:03] Шайтан: !squad
+[10:38:04] Rackman<STEAM_0:0:221849271> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[10:38:16] Сырный пакетик: в фантомыне энтити ресы нельзя нормально закидывать
+[10:38:24] Jr_byba: нихуя
+[10:38:28] Jr_byba: уран
+[10:38:33] vasiliy karat: уран
+[10:38:33] Jr_byba: УРАН
+[10:38:35] Сырный пакетик: а, че
+[10:38:39] А ПО ЖОПЕ!? killed KIRKA using tfa_doim1919
+[10:38:46] Jr_byba: УРАН БРО
+[10:38:53] Сырный пакетик: круть
+[10:38:55] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[10:38:55] KIRKA suicided!
+[10:38:57] Шайтан: ТЫ САМ СКАЗАЛ НАВЕСТИ ПОРЯДОК
+[10:39:01] Mr_Pyro: !squad
+[10:39:03] Сырный пакетик: но лучше ща керамику
+[10:39:13] vasiliy karat: сдесь надо полагаца только на себя
+[10:39:19] RusLanConnection: supply radio: truck
+[10:39:30] Jr_byba: я в авк
+[10:39:38] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezdetpack
+[10:39:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezdetpack
+[10:39:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezdetpack
+[10:39:51] Сырный пакетик: нефть рядом есть
+[10:39:53] Toxa: верно
+[10:40:00] Сырный пакетик: перекиньте кто то ресы из одного ящика в другой
+[10:40:07] Сырный пакетик: я ща добычу сделаю
+[10:40:34] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_eztelenade
+[10:40:39] Mr_Pyro: !squad
+[10:40:52] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezwelder
+[10:41:02] maksumkolesnukov022: ДА
+[10:41:08] maksumkolesnukov022: СИНЯЯ ПАЛКА
+[10:41:13] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[10:41:16] Шайтан: БЛЯ БОМБЬЫ
+[10:41:24] Сырный пакетик: пиздец
+[10:41:26] vasiliy karat: самолет
+[10:41:27] Сырный пакетик: ебанные скамеры
+[10:41:37] vasiliy karat: ослонились
+[10:41:39] Toxa: ПОДРЫК
+[10:41:39] TRENCH_ZOMBI killed maksumkolesnukov022 using tfa_doi_m16a1
+[10:41:42] vasiliy karat: мамонты
+[10:41:59] Шайтан: моя кравать
+[10:42:13] богдан.: НЕ БРАТЬ
+[10:42:17] Toxa: ПОДРЫВАЮТ
+[10:42:18] vasiliy karat: нефига
+[10:42:20] vasiliy karat: это откуда
+[10:42:28] Jr_byba: что
+[10:42:31] vasiliy karat: прям там лежало?
+[10:42:34] богдан.: ЗАЧЕМ ТЫ ПОДОБРАД
+[10:42:37] богдан.: ВЫБРАСИ
+[10:42:38] sokolise: да
+[10:42:38] Шайтан: ахах
+[10:42:40] maksumkolesnukov022: ЕЁ У МЕНЯ НЕТ
+[10:42:41] Сырный пакетик: ебать
+[10:42:46] Сырный пакетик: ТАК МЫ ЯДЕРКУ МОЖЕМ ДЕЛАТЬ
+[10:42:46] богдан.: ВЫБРОСИ
+[10:42:48] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezration
+[10:42:48] Jr_byba: го протатим
+[10:42:51] Сырный пакетик: ПРЯМ ЩАС ПО СУТИ
+[10:42:56] vasiliy karat: у них 3 пво
+[10:43:00] Jr_byba: стой
+[10:43:02] vasiliy karat: ненадо
+[10:43:04] Rackman set the hp for Mr_Pyro to 2000
+[10:43:06] sokolise: нужно болше
+[10:43:08] Сырный пакетик: значит надо 4 ядерки
+[10:43:10] vasiliy karat: щас откроется полномаштабная охота на нас
+[10:43:11] Сырный пакетик: хотя
+[10:43:11] maksumkolesnukov022: !squad
+[10:43:15] vasiliy karat: пусть лежит
+[10:43:18] Сырный пакетик: надо ядерный ген сделать
+[10:43:20] Шайтан: хехе
+[10:43:24] Toxa: к клинскому
+[10:43:30] Toxa: камера
+[10:43:31] Toxa: нужна
+[10:43:34] Шайтан: это не нож
+[10:43:37] Шайтан: =+
+[10:43:43] Шайтан: цыц
+[10:43:59] sokolise: ум хуйня для переработки урана стоит сломаная
+[10:44:01] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezmelmet
+[10:44:03] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezsuitbattery
+[10:44:05] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezhealthvial
+[10:44:08] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezration
+[10:44:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_c17/oildrum001.mdl
+[10:44:17] vasiliy karat: щас
+[10:44:18] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[10:44:18] Jr_byba suicided!
+[10:44:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_c17/oildrum001.mdl
+[10:44:31] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_compass
+[10:44:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_c17/oildrum001.mdl
+[10:44:38] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_thermals
+[10:44:53] vasiliy karat: руслан
+[10:44:58] vasiliy karat: наш человек нашел
+[10:45:03] RusLanConnection was killed by ent_jack_aidbox
+[10:45:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:45:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:45:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:45:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:45:13] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:45:14] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:45:18] vasiliy karat: кароче ящик нашел
+[10:45:27] Сырный пакетик: помогите разобрать
+[10:45:36] sokolise: сверху одна
+[10:45:38] богдан.: НЕ ИСПОЛЬЗУЙ МАГИЮ
+[10:45:51] sokolise: я оттуда его припёр
+[10:45:54] богдан.: НИКАКОЙ МАГИИ
+[10:46:03] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcsnade
+[10:46:08] vasiliy karat: где тачки
+[10:46:09] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsmokenade
+[10:46:17] богдан.: !squad
+[10:46:37] vasiliy karat: наступление на дом
+[10:46:38] vasiliy karat: собираемся
+[10:46:50] vasiliy karat: секунду
+[10:47:06] Rackman killed maksumkolesnukov022 using tfa_doi_marinebayonet
+[10:47:08] Шайтан: не ебу
+[10:47:12] Шайтан: все белое
+[10:47:15] Шайтан: или зеленое
+[10:47:18] vasiliy karat: пошлите
+[10:47:21] Шайтан: ну как сказать
+[10:47:27] vasiliy karat: мы должны вернуть то что нам пренадлежит
+[10:47:29] Шайтан: ОХ ЕБАТЬ
+[10:47:44] vasiliy karat: у меня лежак есть так что
+[10:48:07] maksumkolesnukov022: ПАЛКА КРАСНАЯ
+[10:48:09] vasiliy karat: все
+[10:48:11] vasiliy karat: !squad
+[10:48:19] maksumkolesnukov022: ДА
+[10:48:43] Шайтан: я 
+[10:48:45] Шайтан: я
+[10:48:49] Шайтан: я
+[10:48:49] vasiliy karat: водрузим флаг
+[10:48:51] Шайтан: я
+[10:48:53] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezhealthvial
+[10:48:53] Шайтан: я
+[10:48:55] Шайтан: я
+[10:48:57] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:48:57] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:48:57] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:48:57] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:48:58] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:48:58] Шайтан: яяяяяяя
+[10:49:00] Шайтан: я
+[10:49:10] Шайтан: не глотается
+[10:49:10] sokolise: я тут вовал
+[10:49:20] Шайтан: по секрету
+[10:49:24] Шайтан: у меня 5к хп
+[10:49:34] богдан.: ЖРИТЕ
+[10:49:39] богдан.: ЖРИТЕ
+[10:49:47] богдан.: ХАВАЙ
+[10:49:50] богдан.: ПОКОРН
+[10:49:59] богдан.: молодец
+[10:50:03] vasiliy karat: перевернем
+[10:50:16] maksumkolesnukov022: МР ПИРО
+[10:50:18] maksumkolesnukov022: ТЫ СЛИШИШЬ МЕНЯ
+[10:50:22] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_eztelenade
+[10:50:25] maksumkolesnukov022: МЫ ВЫБЕРЕМСЯ
+[10:50:27] vasiliy karat: щас ящик
+[10:50:29] maksumkolesnukov022: Я ТЕБЕ ОБЕЩАЮ
+[10:50:40] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezarmor_longfallboots
+[10:50:40] богдан.: хавай
+[10:50:46] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezarmor_hev
+[10:51:24] Toxa: !squad
+[10:51:31] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:51:31] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:51:32] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:51:32] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:51:36] Шайтан: ноги не одеваются
+[10:51:41] солдат: !squad
+[10:52:03] богдан.: да
+[10:52:11] vasiliy karat: поставим флашг
+[10:52:14] Сырный пакетик: !squad
+[10:52:17] vasiliy karat: на крышу
+[10:52:27] Dropped "Сырный пакетик" from server<STEAM_0:0:617253467>
+[10:52:27] Сырный пакетик suicided!
+[10:52:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props/cs_italy/bananna_bunch.mdl
+[10:52:46] Mr_Pyro set the hp for Themself to 20000
+[10:52:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_eztelenade
+[10:53:16] maksumkolesnukov022: МЫ ВЫБРАЛИСЬ
+[10:53:25] RusLanConnection: прием
+[10:53:27] RusLanConnection: кто слышит
+[10:53:46] RusLanConnection: !squad
+[10:54:02] богдан.: братан
+[10:54:06] RusLanConnection: але
+[10:54:07] богдан.: твои родители
+[10:54:09] RusLanConnection: прием
+[10:54:11] RusLanConnection: кто на связи
+[10:54:11] богдан.: просили передать
+[10:54:16] богдан.: днржи
+[10:54:29] TRENCH_ZOMBI killed maksumkolesnukov022 using tfa_doi_m16a1
+[10:54:31] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_eznutrients
+[10:54:45] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:54:46] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:54:46] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:54:46] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[10:55:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/wood_crate001a.mdl
+[10:55:21] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/wood_crate001a.mdl
+[10:55:23] богдан.: НА КОЙКУ
+[10:55:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned model models/props_junk/wood_crate001a.mdl
+[10:55:36] Шайтан: !squad
+[10:55:38] Rackman<STEAM_0:0:221849271> spawned sent ent_fumo_gmod_ezarmorplate_large
+[10:55:38] Toxa: ой
+[10:55:39] богдан.: НА КОЙКУ
+[10:55:46] А ПО ЖОПЕ!?: ПОМОГИТЕ!
+[10:55:51] А ПО ЖОПЕ!?: Я ПОПКОРН!
+[10:55:56] А ПО ЖОПЕ!?: ОН СХВАТИЛ МЕНЯ!
+[10:55:59] богдан. killed maksumkolesnukov022 using ent_jack_gmod_ezfirehazard
+[10:56:03] Client "Tyman0408Ti" spawned in server <STEAM_0:0:44534269> (took 1617 seconds).
+[10:56:45] Rackman stripped weapons from Themself
+[10:56:45] Rackman: !STRIP Rackman
+[10:56:51] vasiliy karat: это теперь наш дом
+[10:56:53] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eztoolbox
+[10:56:54] Шайтан: слушайте
+[10:56:56] Шайтан: я не за кого
+[10:57:04] Шайтан: но мне нужно укрытие
+[10:57:09] Rackman stripped weapons from Themself
+[10:57:09] Rackman: !strip Rackman
+[10:57:28] Toxa: ПУЛЬ НЕТУ
+[10:57:28] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezgas
+[10:57:35] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[10:57:35] maksumkolesnukov022 suicided!
+[10:57:35] Client "maksumkolesnukov022" connected.
+[10:57:37] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezaxe
+[10:57:42] Шайтан: слушай а броня эта типо реал защищает жостко?
+[10:57:42] (TEAM) sokolise: хелп
+[10:57:44] богдан.: а можно ботиночки поносить
+[10:57:51] vasiliy karat: кто знает
+[10:57:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[10:57:54] Mr_Pyro set the hp for Themself to 2000
+[10:57:55] Mr_Pyro set the hp for Themself to 2000
+[10:57:55] Mr_Pyro set the hp for Themself to 2000
+[10:57:55] Mr_Pyro set the hp for Themself to 2000
+[10:58:05] А ПО ЖОПЕ!? suicided!
+[10:58:12] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 37 seconds).
+[10:58:18] Tyman0408Ti: !squad
+[10:58:40] богдан. killed А ПО ЖОПЕ!? using tfa_doim3greasegun
+[10:58:45] богдан.: блять бомж
+[10:58:54] maksumkolesnukov022 cloaked Themself by amount 0
+[10:59:02] RusLanConnection: ало прием
+[10:59:03] vasiliy karat: можем сделать ядерную ракету или продать
+[10:59:07] vasiliy karat: 50 тысяч
+[10:59:10] солдат: да
+[10:59:16] vasiliy karat: надо за ней
+[10:59:19] sokolise: хз
+[10:59:19] vasiliy karat: солдат воюет
+[10:59:22] vasiliy karat: за родину
+[10:59:29] Шайтан: он тута вроде ходит не?
+[10:59:58] TRENCH_ZOMBI suicided!
+[11:00:25] sokolise: !squad
+[11:00:48] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_gasmask
+[11:00:54] Tyman0408Ti was killed by ent_jack_gmod_ezsentry
+[11:00:57] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_mltorso
+[11:00:58] богдан.: !squad
+[11:01:02] богдан.: стойте
+[11:01:11] богдан.: предлагаю пойти к жителям пустыни 
+[11:01:15] vasiliy karat: это наш народ местных руслан
+[11:01:18] богдан.: и забрать у них мигрантов
+[11:01:21] vasiliy karat: народ не выбирают
+[11:01:22] богдан.: !squad
+[11:01:22] RusLanConnection: але
+[11:01:28] RusLanConnection: кто на связи
+[11:01:43] vasiliy karat: сделаем артилерию
+[11:01:49] богдан.: зфцахзфзцуа
+[11:01:49] А ПО ЖОПЕ!?: СОБЕРИТЕ ТРУПЫ!
+[11:01:49] Toxa: ВТФ
+[11:02:04] vasiliy karat: пошли обратно в дом
+[11:02:16] sokolise killed sokolise
+[11:03:06] богдан.: чттото происходит
+[11:03:09] Client "Redoket" connected.
+[11:03:27] богдан.: у нас топлива хватит?
+[11:03:53] vasiliy karat: 14 тыщ ресов
+[11:03:54] богдан.: его сдезь нет
+[11:03:56] А ПО ЖОПЕ!?: !squad
+[11:04:00] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezpopcorn
+[11:04:00] богдан.: может его уже убили
+[11:04:12] maksumkolesnukov022 teleported to RusLanConnection
+[11:04:15] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 66 seconds).
+[11:04:18] maksumkolesnukov022 cloaked Themself by amount 0
+[11:04:53] Redoket: !squad
+[11:05:07] vasiliy karat: !squad
+[11:05:11] А ПО ЖОПЕ!?: !squad
+[11:05:12] sokolise: я иду к танку
+[11:05:16] солдат: !squad
+[11:05:23] vasiliy karat: тут немного деньг
+[11:05:28] богдан.: вижу солдатов
+[11:05:39] богдан.: огнемет есть
+[11:05:40] vasiliy karat: можем накупить ресов по дешевке и собирать танки
+[11:05:49] (TEAM) sokolise: они нас нашли
+[11:05:55] maksumkolesnukov022 uncloaked Themself
+[11:06:00] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsentry
+[11:06:01] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezsentry
+[11:06:03] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[11:06:04] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[11:06:06] А ПО ЖОПЕ!? was killed by ent_jack_gmod_ezsentry
+[11:06:09] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[11:06:10] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[11:06:13] богдан.: поехали к жителям
+[11:06:18] maksumkolesnukov022: НЕ ИДИ ТУДА
+[11:06:21] Toxa: !squad
+[11:06:21] А ПО ЖОПЕ!?: !squad
+[11:06:21] богдан.: ставлю что они его забрали и прячут
+[11:06:24] Redoket: !squad
+[11:06:28] maksumkolesnukov022: ПОШЛИ К ДРУГОМУ ГОРОДУ
+[11:06:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[11:06:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[11:06:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[11:06:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[11:06:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[11:06:33] maksumkolesnukov022: НАМ ТАМ ПОМОГУТ
+[11:06:36] солдат was killed by ent_jack_gmod_ezsentry
+[11:06:37] maksumkolesnukov022: МР ПИРО
+[11:06:39] vasiliy karat: там танк
+[11:06:40] vasiliy karat: тихо
+[11:06:41] maksumkolesnukov022: ЧТО ОНИ С ТОБОЙ СДЕЛАЛИ
+[11:06:48] Rackman<STEAM_0:0:221849271> spawned model models/props_wasteland/laundry_washer003.mdl
+[11:06:49] maksumkolesnukov022: НЕТ
+[11:06:55] Rackman<STEAM_0:0:221849271> spawned model models/props_wasteland/laundry_washer003.mdl
+[11:07:00] Rackman<STEAM_0:0:221849271> spawned model models/props_wasteland/laundry_washer001a.mdl
+[11:07:02] (TEAM) sokolise: услан танк я заправил но похе они знают где я
+[11:07:04] Rackman<STEAM_0:0:221849271> spawned model models/props_wasteland/laundry_washer001a.mdl
+[11:07:06] Tyman0408Ti suicided!
+[11:07:18] Rackman<STEAM_0:0:221849271> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[11:07:29] vasiliy karat: вам тут не помогут
+[11:07:35] maksumkolesnukov022: У НИХ ЕСТЬ СВОЙ ПСИОПНИК
+[11:07:36] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/workspace003.mdl
+[11:07:43] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/workspace002.mdl
+[11:07:52] богдан.: да
+[11:07:54] maksumkolesnukov022: ТОТ ЧТО НАВЕРХУ
+[11:07:57] maksumkolesnukov022: УПАЛ
+[11:08:00] maksumkolesnukov022: ОН ЛЕТАЕТ
+[11:08:00] богдан.: злые чет
+[11:08:13] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/gravestone_statue001a.mdl
+[11:08:15] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/gravestone_statue001a.mdl
+[11:08:17] RusLanConnection: supply radio: global message
+[11:08:17] богдан.: там выстрелы
+[11:08:28] богдан.: может они его нашли и отстреливают
+[11:08:36] богдан.: это его база
+[11:08:36] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/breendesk.mdl
+[11:08:39] Redoket: !squad
+[11:08:39] sokolise: толива нет
+[11:08:53] Rackman<STEAM_0:0:221849271> spawned vehicle models/nova/chair_office02.mdl
+[11:09:10] Rackman<STEAM_0:0:221849271> spawned model models/props_lab/monitor02.mdl
+[11:09:14] богдан.: че там происходит
+[11:09:15] sokolise: поворотный механизм сломан
+[11:09:15] Шайтан: ЭЭЭ
+[11:09:17] богдан.: бля
+[11:09:18] Шайтан: вы мои?
+[11:09:25] богдан.: едь на базу
+[11:09:25] Mr_Pyro: !squad
+[11:09:28] Шайтан: слыште
+[11:09:30] Шайтан: я ваш
+[11:09:30] богдан.: мы там нужны
+[11:09:32] Шайтан: мутант
+[11:09:32] Rackman<STEAM_0:0:221849271> spawned model models/props_interiors/furniture_shelf01a.mdl
+[11:09:35] Шайтан: БЛЯТЬ
+[11:09:38] Шайтан: ХП СНЕСЛО
+[11:09:38] богдан.: там пускают
+[11:09:40] Шайтан: ВСЕ
+[11:09:45] Шайтан: ТЫ НАХУЯ ПОПКОРНОМ ЗДЕЛАЛ
+[11:09:47] Rackman<STEAM_0:0:221849271> spawned model models/props_interiors/furniture_shelf01a.mdl
+[11:09:52] Шайтан: 44000 примерно
+[11:09:58] Mr_Pyro set the hp for Шайтан to 4400
+[11:09:58] Mr_Pyro set the hp for Шайтан to 4400
+[11:09:58] Mr_Pyro set the hp for Шайтан to 4400
+[11:09:58] vasiliy karat: кто такой раскажи о себе небольшое интервью
+[11:09:59] А ПО ЖОПЕ!? was killed by npc_fastzombie
+[11:10:01] Шайтан: БЛЯТЬ И МАГИЯ
+[11:10:05] Шайтан: да идите наху
+[11:10:07] Rackman<STEAM_0:0:221849271> spawned model models/props_trainstation/trainstation_ornament001.mdl
+[11:10:10] Шайтан: сука
+[11:10:10] Rackman<STEAM_0:0:221849271> spawned model models/props_trainstation/trainstation_ornament001.mdl
+[11:10:13] Rackman<STEAM_0:0:221849271> spawned model models/props_trainstation/trainstation_ornament001.mdl
+[11:10:17] maksumkolesnukov022: ПОШЛИ
+[11:10:17] богдан.: кого
+[11:10:20] Шайтан: у меня все нахуй пропало
+[11:10:24] Шайтан: из за тебя
+[11:10:27] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/breenglobe.mdl
+[11:10:34] sokolise: они конролят низ
+[11:10:35] vasiliy karat: тебе рады в нашем общем доме вступай
+[11:10:35] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/pulleywheels_large01.mdl
+[11:10:37] Шайтан: спасибо блять
+[11:10:41] Toxa: РАКМЕН
+[11:10:44] Toxa: ОНИ ИДУТ
+[11:10:44] богдан.: тебя чуть не слышно в танке
+[11:10:46] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezaidradio
+[11:10:47] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[11:10:47] Шайтан suicided!
+[11:10:48] Tyman0408Ti: !squad
+[11:10:48] Toxa: АААА
+[11:10:50] RusLanConnection: !squad
+[11:10:50] Toxa suicided!
+[11:10:53] vasiliy karat: почему фосфорные гранаты такие дорошгие
+[11:10:53] А ПО ЖОПЕ!?: ХАХАХАХАХХА
+[11:10:56] богдан.: да
+[11:10:58] vasiliy karat: по химии
+[11:10:59] vasiliy karat: !squad
+[11:11:03] vasiliy karat: 30 30
+[11:11:06] vasiliy karat: я бы сделал 30 10
+[11:11:24] А ПО ЖОПЕ!? killed maksumkolesnukov022 using tfa_doisten
+[11:11:27] богдан.: тут танк
+[11:11:42] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/fence03a.mdl
+[11:11:43] sokolise: танк сломан
+[11:11:45] богдан.: чтобы избежать драки
+[11:12:03] vasiliy karat: сделай оружие посмотри там в ящике
+[11:12:03] богдан.: едем на базу кароче
+[11:12:12] богдан.: хъаъфцха
+[11:12:14] vasiliy karat: щас уже пойдем сразу на так называемый бал
+[11:12:17] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/fence03a.mdl
+[11:12:22] vasiliy karat: чтоо удобне
+[11:12:22] богдан.: башню атакуют
+[11:12:23] sokolise: нам нуны снайпрки
+[11:12:26] богдан.: быстрей
+[11:12:38] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztnt
+[11:12:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpowderkeg
+[11:12:42] богдан.: а че так тихо
+[11:12:44] богдан.: справа
+[11:12:47] sokolise: щас
+[11:12:53] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezcapacitor
+[11:12:59] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezcapacitor
+[11:13:06] Tyman0408Ti: !motd
+[11:13:08] богдан.: ТАМ МИГРАНТ
+[11:13:09] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[11:13:18] TRENCH_ZOMBI killed maksumkolesnukov022 using lvs_m4_mow
+[11:13:20] vasiliy karat: тогда в чем проблема
+[11:13:22] vasiliy karat: сделай ОРУЖИЕ
+[11:13:23] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezaidradio
+[11:13:26] А ПО ЖОПЕ!?: !squad
+[11:13:26] богдан.: мигрант уничтожен
+[11:13:36] vasiliy karat: СДЕЛАЙ ШЕСТЕРЕЕЕЕНКИИИ
+[11:13:51] vasiliy karat: НАМ НЕЧЕМ ВООРУЖАТЬ СОЛДАТ
+[11:13:53] sokolise: 1 снайпрку пж
+[11:14:02] maksumkolesnukov022: !squad
+[11:14:03] sokolise:  с прицлом
+[11:14:08] Rackman set the hp for Themself to 200
+[11:14:12] TRENCH_ZOMBI: !squad
+[11:14:22] vasiliy karat: СТОЙ
+[11:14:28] богдан.: поехали
+[11:14:38] Client "qqqqq" connected.
+[11:14:41] А ПО ЖОПЕ!?: supply radio: car
+[11:14:48] А ПО ЖОПЕ!?: РАКМАН!
+[11:14:50] солдат: !squad
+[11:14:51] А ПО ЖОПЕ!?: ЗАКАЖИ МАШИНУ!
+[11:14:54] vasiliy karat: бинокл ест?
+[11:14:54] TRENCH_ZOMBI: ДАВАЙ ПАТРЫ
+[11:14:56] А ПО ЖОПЕ!?: ОЙ НЕ
+[11:14:57] А ПО ЖОПЕ!?: ВСЕ
+[11:15:00] TRENCH_ZOMBI: НЕ ТЕ
+[11:15:03] Mr_Pyro set the hp for Themself to 1500
+[11:15:04] Mr_Pyro set the hp for Themself to 1500
+[11:15:04] TRENCH_ZOMBI: AMMUNITIONS
+[11:15:05] vasiliy karat: соколиз пошли
+[11:15:28] Toxa: Я ВАС ПРИЮТИЛ
+[11:15:33] Toxa: А ВЫ ТАК
+[11:15:35] Toxa: СО МНОЙ
+[11:15:48] vasiliy karat: говори 
+[11:15:52] vasiliy karat: !squad
+[11:15:57] vasiliy karat: говори 
+[11:16:00] vasiliy karat: ВСЕ ЧТО ЗНАЕШЬ
+[11:16:03] богдан.: едем
+[11:16:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[11:16:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:16:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:16:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:16:31] Rackman<STEAM_0:0:221849271> spawned effect models/player/items/humans/graduation_cap.mdl
+[11:16:32] богдан.: танк стоит
+[11:16:33] vasiliy karat: он похоже убежал
+[11:16:40] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:16:46] Rackman<STEAM_0:0:221849271> spawned model models/gibs/hgibs.mdl
+[11:16:54] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/clock01.mdl
+[11:16:56] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/clock01.mdl
+[11:16:58] Rackman<STEAM_0:0:221849271> spawned model models/props_c17/clock01.mdl
+[11:17:02] vasiliy karat: он сбежал
+[11:17:06] vasiliy karat: надо уже идти 
+[11:17:08] А ПО ЖОПЕ!?: !squad
+[11:17:13] vasiliy karat: все
+[11:17:14] vasiliy karat: пошлите
+[11:17:16] maksumkolesnukov022: так и есть
+[11:17:26] Mr_Pyro: !squad
+[11:17:27] maksumkolesnukov022: так точн
+[11:17:32] vasiliy karat: !squad
+[11:17:49] vasiliy karat: вот машина чем как
+[11:18:11] богдан.: какие есть поручения для солдат
+[11:18:19] vasiliy karat: ЭТО ОНИ
+[11:18:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[11:18:24] богдан.: хорошо
+[11:18:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:18:25] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:18:26] vasiliy karat killed TRENCH_ZOMBI using player
+[11:18:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[11:18:40] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezbasicparts
+[11:18:51] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznutrients
+[11:18:52] богдан.: я
+[11:19:00] vasiliy karat killed Toxa using player
+[11:19:13] Redoket: !squad
+[11:19:14] Toxa: ОНИ ИДУТ
+[11:19:15] vasiliy karat: все пошли за нами
+[11:19:37] TRENCH_ZOMBI: Я ЩАС ЗАКАЖУ РЕСЫ
+[11:19:40] TRENCH_ZOMBI: ДЕЛАЙТЕ РАДИО
+[11:19:45] Rackman: У вас есть субьекты?
+[11:19:52] maksumkolesnukov022: приём, никак нет
+[11:19:53] vasiliy karat: я жаболел
+[11:20:03] Rackman: У вас подопотные?
+[11:20:06] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[11:20:08] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_eztoolbox
+[11:20:19] Rackman: Ведите его нашему ученому
+[11:20:24] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezfuel
+[11:20:27] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combinethumper001a.mdl
+[11:20:30] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/combinethumper002.mdl
+[11:20:49] Rackman: К ученому ведите волонтера
+[11:20:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[11:20:56] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[11:20:57] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[11:20:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[11:20:59] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezceramic
+[11:21:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[11:21:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:21:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:21:09] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:21:14] vasiliy karat: те кто спасобен держать оружие
+[11:21:46] Rackman<STEAM_0:0:221849271> spawned model models/props_junk/gascan001a.mdl
+[11:21:51] vasiliy karat: от
+[11:21:57] vasiliy karat: лежак
+[11:22:03] maksumkolesnukov022: опа
+[11:22:24] maksumkolesnukov022: какое же древнее оборудование
+[11:22:31] maksumkolesnukov022: но мы же и с таким поработаем, да?
+[11:22:52] богдан.: supply radio: seed kit
+[11:22:58] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezpowertools
+[11:23:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezbattery
+[11:23:15] maksumkolesnukov022 killed солдат using prop_vehicle_prisoner_pod
+[11:23:31] богдан.: я пока брони нацеплю на танк
+[11:23:46] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_mtorso
+[11:24:00] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[11:24:04] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_schirmmuetze
+[11:24:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:24:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:24:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:24:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[11:24:26] maksumkolesnukov022: наблюдения 
+[11:24:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[11:24:42] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_hrshoulder
+[11:24:43] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_hlshoulder
+[11:24:44] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_slforearm
+[11:24:44] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_srforearm
+[11:24:47] maksumkolesnukov022: подопытные в основном не выживают после пилотерапии
+[11:24:56] vasiliy karat: все
+[11:24:58] maksumkolesnukov022: нет
+[11:24:59] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_hlshoulder
+[11:24:59] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_hrshoulder
+[11:25:02] vasiliy karat: руслан у тебя миномет
+[11:25:13] Toxa: ААА???
+[11:25:13] maksumkolesnukov022: пила даже пилила против лезвия
+[11:25:19] TRENCH_ZOMBI: ГОТОВ НА ОБЛАВУ?
+[11:25:22] vasiliy karat: кстати надо щас купить медиум танк пока деньги не растеряли 
+[11:25:39] Toxa: ДА ЭТО " ХИМКИ НО ДРУГОЕ "
+[11:25:44] (TEAM) sokolise: у них танк
+[11:25:45] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[11:25:48] богдан.: !squad
+[11:25:53] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezifakpacket
+[11:25:58] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezmedkit
+[11:26:00] Toxa: в башню тогда
+[11:26:05] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezhopperhornet
+[11:26:07] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_eztelenade
+[11:26:08] (TEAM) sokolise: мня слышно?
+[11:26:20] Toxa: так я и так пуст
+[11:26:31] Dropped "солдат" from server<STEAM_0:0:845922848>
+[11:26:31] солдат suicided!
+[11:26:32] vasiliy karat: щас надо вылечиться
+[11:26:33] Client "солдат" connected.
+[11:26:35] Toxa: хп же в танке не тратится?
+[11:26:43] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_eztelenade
+[11:26:46] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_eztelenade
+[11:26:48] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_eztelenade
+[11:26:50] Toxa: ЗОМБИ
+[11:26:58] vasiliy karat: ты своими словами ранишь
+[11:27:02] Toxa: едем?
+[11:27:05] maksumkolesnukov022: подопытный не выдержал пилы против лезвия
+[11:27:07] TRENCH_ZOMBI: БОГДАН ГОТОВ?
+[11:27:19] Rackman to admins: Макс заспавни спавнеры зомби быстрых где макс 1 НПС по карте
+[11:27:23] TRENCH_ZOMBI: ЕСЛИ ДА САДИСЬ И ЕДЬ НА НИХ
+[11:27:25] Rackman to admins: Только не много
+[11:27:26] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 53 seconds).
+[11:27:42] maksumkolesnukov022 to admins: есил бы я ещё знал чё за спавнеры
+[11:27:46] солдат: !squad
+[11:27:47] Rackman to admins: NPC tools
+[11:27:48] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezskylantern
+[11:27:52] vasiliy karat: !squad
+[11:27:56] maksumkolesnukov022 cloaked Themself by amount 0
+[11:27:56] maksumkolesnukov022: !cloak ^
+[11:27:56] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezifakpacket
+[11:27:58] vasiliy karat: мы можем
+[11:27:59] vasiliy karat: наступать
+[11:28:02] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezmedsupplies
+[11:28:09] vasiliy karat: я здоров
+[11:28:38] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_eznutrients
+[11:28:45] А ПО ЖОПЕ!?: !squad
+[11:28:54] vasiliy karat: кто то на танк
+[11:29:00] vasiliy karat: кто то минометный расчет с русланом
+[11:29:10] Toxa: меняю
+[11:29:16] vasiliy karat: стой 
+[11:29:16] Rackman set the hp for Themself to 200
+[11:29:19] vasiliy karat: !squad
+[11:29:21] Toxa killed богдан. using ent_jack_gmod_ezfirehazard
+[11:29:26] Rackman: Сотрудники вы слышите меня?
+[11:29:32] vasiliy karat: это где
+[11:29:32] А ПО ЖОПЕ!?: на связи
+[11:30:04] Toxa: ушли?
+[11:30:16] Toxa: я видел недо базу снизу
+[11:30:18] Toxa: на краю карты
+[11:30:20] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_glasses
+[11:30:22] vasiliy karat: на холме у моста
+[11:30:24] Toxa: да там
+[11:30:29] А ПО ЖОПЕ!?: !squad
+[11:30:33] maksumkolesnukov022 to admins: не спавнитс
+[11:30:34] vasiliy karat: руслан дропни
+[11:30:39] А ПО ЖОПЕ!?: ПО ТОЧКЕ!
+[11:30:43] А ПО ЖОПЕ!?: ГАСИТЕ!
+[11:30:45] vasiliy karat: редокет
+[11:30:47] vasiliy karat: обратно
+[11:30:48] Toxa: ВОН
+[11:30:48] Toxa: ОН
+[11:30:48] Rackman to admins: Походу руслан что-то сделал
+[11:30:53] Rackman to admins: Тогда забей
+[11:31:08] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_eztelenade
+[11:31:11] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:11] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_eztelenade
+[11:31:12] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:12] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:13] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:13] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:14] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:15] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:16] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:17] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:17] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:18] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:19] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:21] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:22] богдан.: где блядские посылки
+[11:31:24] TRENCH_ZOMBI killed Redoket using lvs_m4_mow
+[11:31:25] Rackman<STEAM_0:0:221849271> spawned NPC npc_fastzombie
+[11:31:32] vasiliy karat: !squad
+[11:31:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezcombinenade
+[11:31:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezcombinenade
+[11:31:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezcombinenade
+[11:31:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_ezcombinenade
+[11:31:53] vasiliy karat: !squad
+[11:31:59] Mr_Pyro set the hp for Themself to 1500
+[11:32:00] Mr_Pyro set the hp for Themself to 1500
+[11:32:08] vasiliy karat: я буду заряжакт
+[11:32:11] Mr_Pyro set the hp for Themself to 1500
+[11:32:12] Mr_Pyro set the hp for Themself to 1500
+[11:32:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezammo
+[11:32:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezammo
+[11:32:31] Mr_Pyro set the hp for Themself to 1500
+[11:32:48] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[11:32:50] vasiliy karat killed Toxa using player
+[11:33:00] vasiliy karat: минометим
+[11:33:06] vasiliy karat: их базу
+[11:33:06] Rackman: Выйдите на связь
+[11:33:16] vasiliy karat: стой стой
+[11:33:17] vasiliy karat: вот тут
+[11:33:17] Mr_Pyro set the hp for Themself to 1500
+[11:33:43] А ПО ЖОПЕ!?: МАКС!
+[11:34:15] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_sleepingbag
+[11:34:16] maksumkolesnukov022: вторая лаба
+[11:34:18] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_sleepingbag
+[11:34:19] RusLanConnection killed TRENCH_ZOMBI using tfa_doisten
+[11:34:19] Toxa killed vasiliy karat using tfa_doithompsonm1a1
+[11:34:26] RusLanConnection killed Toxa using tfa_doisten
+[11:34:29] Redoket was killed by ent_jack_gmod_ezsentry
+[11:34:43] Rackman: НА СВЯЗЬ
+[11:34:46] Rackman: ВЫЙДИТЕ НА СВЯЗЬ
+[11:34:51] А ПО ЖОПЕ!? killed sokolise using tfa_doithompsonm1a1
+[11:34:55] Rackman: СВЯЩЬ
+[11:34:56] Mr_Pyro set the hp for Themself to 1500
+[11:34:57] Rackman: ВЫЙДИТЕ НА СВЗЯЬ
+[11:35:08] А ПО ЖОПЕ!?: я отбил вторую лабу
+[11:35:53] Toxa killed солдат using tfa_doim1garand
+[11:36:09] Mr_Pyro: !squad
+[11:36:20] Mr_Pyro set the hp for Themself to 1500
+[11:36:27] RusLanConnection killed Toxa using tfa_doisten
+[11:36:34] RusLanConnection: !squad
+[11:36:44] vasiliy karat killed TRENCH_ZOMBI using env_explosion
+[11:36:54] богдан.: ПРИЕМ МОЙ ТАНК БЫЛ УНИЧТОЖЕН МАГИЕЙ СБЕЖАВШЕГО МИГРАНТА
+[11:37:07] богдан.: они вс ена противоположной стороне
+[11:37:12] maksumkolesnukov022 killed RusLanConnection using tfa_doiwelrod
+[11:37:19] богдан.: кто ты
+[11:37:25] А ПО ЖОПЕ!?:  Я СНОВА ЕБУЧИЙ ПОПКРПЕ!ъ
+[11:37:30] А ПО ЖОПЕ!?: ОН ВЗЯЛ МЕНЯ!
+[11:37:32] Toxa killed солдат using tfa_blast_sjogren
+[11:37:33] А ПО ЖОПЕ!?: ПОМОГИТЕ!
+[11:37:34] богдан.: ОНИ ТУТ
+[11:37:36] богдан.: ОНИ ТУТ
+[11:37:39] богдан.: ОНИ ТУТ
+[11:37:39] А ПО ЖОПЕ!?: ОНИ ПОДНИМАЮТСЯ!
+[11:37:41] богдан.: ОНИ ТУТ
+[11:37:43] богдан.: ОНИ ТУТ
+[11:37:48] А ПО ЖОПЕ!?: ОНИ ТУТ!
+[11:37:50] Redoket was killed by ent_jack_gmod_ezsentry
+[11:37:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezcrate
+[11:37:53] А ПО ЖОПЕ!?: ХАХАХАХА
+[11:38:02] vasiliy karat: делайте гранат
+[11:38:12] Mr_Pyro set the hp for Themself to 1500
+[11:38:15] А ПО ЖОПЕ!?: ХАХАХХА
+[11:38:17] vasiliy karat: везде
+[11:38:22] А ПО ЖОПЕ!?: ОНИ БЕСПОМОЩНЫ!
+[11:38:44] TRENCH_ZOMBI killed sokolise using tfa_doim1919
+[11:38:45] А ПО ЖОПЕ!?: ПОМОГИТЕ!!!
+[11:38:48] RusLanConnection: !squad
+[11:38:49] А ПО ЖОПЕ!?: ТОХАА
+[11:38:53] А ПО ЖОПЕ!?: СПАСИ МЕНЯЯ!!
+[11:38:54] Tyman0408Ti killed TRENCH_ZOMBI using ent_jack_gmod_eznapalm
+[11:38:56] Mr_Pyro set the hp for Themself to 1500
+[11:38:57] Mr_Pyro set the hp for Themself to 1500
+[11:39:03] Toxa killed Tyman0408Ti using tfa_blast_sjogren
+[11:39:07] А ПО ЖОПЕ!? suicided!
+[11:39:12] богдан. to admins: отберите у него силу превращать в попкорн, так нихуя не честно
+[11:39:24] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezfloorsentry
+[11:39:26] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezfloorsentry
+[11:39:29] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[11:39:33] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[11:39:34] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[11:39:39] sokolise: идём
+[11:39:39] Mr_Pyro set the hp for Themself to 1500
+[11:39:46] богдан.: ТОХА ДАВАЙ
+[11:39:58] богдан.: А ПО ЖОПЕ ПОМОГИ Я ПОПКОРН
+[11:40:02] А ПО ЖОПЕ!? was killed by ent_jack_gmod_ezsticknade
+[11:40:03] богдан.: СЬЕШЬ ЕГО
+[11:40:14] Mr_Pyro set the hp for Themself to 1500
+[11:40:14] Mr_Pyro set the hp for Themself to 1500
+[11:40:29] А ПО ЖОПЕ!? killed vasiliy karat using tfa_doim3greasegun
+[11:40:33] sokolise: я ри прятал у них рядом с базой взрывку
+[11:40:38] Toxa: RACKMAN У ТЕБЯ ПАТРОНЫ ЕСТЬ?
+[11:40:43] Redoket killed А ПО ЖОПЕ!? using tfa_doithompsonm1a1
+[11:40:53] TRENCH_ZOMBI killed Redoket using lvs_m3_stuart_tb
+[11:40:56] maksumkolesnukov022 killed RusLanConnection using tfa_doiwelrod
+[11:41:09] Mr_Pyro set the hp for Themself to 1500
+[11:41:11] богдан. to admins: СУКА НУ СДЕЛАЙТЕ ЧТОНИБУДЬ Я ПРОСТО ВСЮ ВОЙНУ ПРОПУЩУ ЭТИМ ЕБУИМ ПО�
+[11:41:29] богдан.: ПОМОГИТЕ
+[11:41:36] богдан.: ПОМОГИТЕПОМОГИТЕПОМОГИТЕПОМОГИТЕПОМОГИТЕПОМОГИТЕПОМОГИТЕПОМОГИТ
+[11:41:37] maksumkolesnukov022 brought богдан.
+[11:41:37] maksumkolesnukov022: !bring богдан.
+[11:41:38] (TEAM) богдан.: ПОМОГИТЕ
+[11:41:40] богдан.: ПОМОГИТЕ
+[11:41:46] А ПО ЖОПЕ!? killed vasiliy karat using tfa_doim3greasegun
+[11:41:46] Mr_Pyro set the hp for Themself to 1500
+[11:41:48] Mr_Pyro set the hp for Themself to 1500
+[11:41:49] богдан. suicided!
+[11:41:49] maksumkolesnukov022 slayed богдан.
+[11:41:49] maksumkolesnukov022: !slay богдан.
+[11:41:55] солдат was killed by ent_jack_gmod_ezsticknade
+[11:41:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[11:41:59] Mr_Pyro set the hp for Themself to 1500
+[11:42:07] Mr_Pyro set the hp for Themself to 1500
+[11:42:11] А ПО ЖОПЕ!? killed TRENCH_ZOMBI using tfa_doim3greasegun
+[11:42:12] А ПО ЖОПЕ!? killed Tyman0408Ti using tfa_doim3greasegun
+[11:42:31] Mr_Pyro set the hp for Themself to 1500
+[11:42:31] Mr_Pyro set the hp for Themself to 1500
+[11:42:41] vasiliy karat: с 1 патроном
+[11:42:42] vasiliy karat: вперед
+[11:42:47] vasiliy karat: вроде да
+[11:42:49] vasiliy karat: да
+[11:43:03] sokolise: прием у мня взавчака
+[11:43:09] RusLanConnection killed богдан. using tfa_doienfield
+[11:43:28] Client "tobisol" connected.
+[11:43:34] Tyman0408Ti was killed by ent_jack_gmod_ezifakpacket
+[11:43:38] Mr_Pyro set the hp for Themself to 1500
+[11:43:44] солдат killed богдан. using tfa_doienfield_scop
+[11:43:46] TRENCH_ZOMBI killed солдат using tfa_doi_m16a1
+[11:43:47] maksumkolesnukov022 killed vasiliy karat using tfa_doiwelrod
+[11:43:56] TRENCH_ZOMBI killed RusLanConnection using tfa_doi_m16a1
+[11:44:00] vasiliy karat: \
+[11:44:04] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[11:44:09] Mr_Pyro set the hp for Themself to 1500
+[11:44:13] богдан. killed maksumkolesnukov022 using tfa_doispringfield
+[11:44:18] богдан.: ОН УБИТ
+[11:44:19] А ПО ЖОПЕ!? killed Redoket using tfa_doithompsonm1a1
+[11:44:54] sokolise was killed by ent_jack_gmod_ezsentry
+[11:45:08] Mr_Pyro set the hp for Themself to 1500
+[11:45:08] Mr_Pyro set the hp for Themself to 1500
+[11:45:19] sokolise: мн нужна взывчатка
+[11:45:50] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezcapacitor
+[11:45:52] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[11:45:57] Mr_Pyro set the hp for Themself to 1500
+[11:46:05] TRENCH_ZOMBI killed солдат using tfa_doim1919
+[11:46:21] богдан. suicided!
+[11:46:22] TRENCH_ZOMBI: supply radio: builder kit
+[11:46:23] Mr_Pyro set the hp for Themself to 1500
+[11:46:55] sokolise: !squad
+[11:47:03] Mr_Pyro set the hp for Themself to 1500
+[11:47:04] Redoket killed А ПО ЖОПЕ!? using tfa_doimp40
+[11:47:09] TRENCH_ZOMBI killed Redoket using tfa_doim1919
+[11:47:21] Client "ktamgdenetego" connected.
+[11:47:40] Mr_Pyro set the hp for Themself to 1500
+[11:47:48] TRENCH_ZOMBI killed RusLanConnection using tfa_doim1919
+[11:48:05] Mr_Pyro set the hp for Themself to 1500
+[11:48:05] богдан. killed sokolise using tfa_doisw1917
+[11:48:06] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[11:48:06] RusLanConnection suicided!
+[11:48:07] Client "RusLanConnection" connected.
+[11:48:10] Mr_Pyro killed А ПО ЖОПЕ!? using wep_jack_gmod_ezaxe
+[11:48:15] maksumkolesnukov022 to admins: а чё очки не падают или что
+[11:48:20] Rackman to admins: Хз
+[11:48:30] Mr_Pyro set the hp for Themself to 1500
+[11:48:31] А ПО ЖОПЕ!?: МОБИЛИЗАЦИЮ!
+[11:48:31] Redoket to admins: ЛУТАТЬ ТРУПЫ НЕЛЬЗЯ
+[11:48:41] Redoket to admins: Я НЕ МОГУ
+[11:48:41] TRENCH_ZOMBI killed sokolise using tfa_doim1919
+[11:48:51] vasiliy karat: щас нападю танко
+[11:48:55] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 48 seconds).
+[11:48:58] sokolise: !squad
+[11:48:58] TRENCH_ZOMBI killed солдат using tfa_doim1919
+[11:49:02] А ПО ЖОПЕ!?: МОБИЛИЗИРУЙ!
+[11:49:05] А ПО ЖОПЕ!?: БЫСТРЕЕ РАКМАН!
+[11:49:07] А ПО ЖОПЕ!?: ПРОШУ!
+[11:49:21] RusLanConnection: !squad
+[11:49:23] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezarmor_gasmask
+[11:49:26] vasiliy karat: !squad
+[11:49:26] sokolise: !squad
+[11:49:34] RusLanConnection teleported to vasiliy karat
+[11:49:37] RusLanConnection teleported to vasiliy karat
+[11:49:38] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcsnade
+[11:49:39] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcsnade
+[11:49:40] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcsnade
+[11:49:40] TRENCH_ZOMBI killed Redoket using tfa_doim1919
+[11:49:44] TRENCH_ZOMBI killed Tyman0408Ti using tfa_doim1919
+[11:49:48] sokolise: !squad
+[11:49:49] sokolise: !squad
+[11:49:51] sokolise: !squad
+[11:49:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_adrianhead
+[11:49:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_ltorso
+[11:50:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[11:50:20] Client "ktamgdenetego" spawned in server <STEAM_0:1:615039590> (took 179 seconds).
+[11:50:21] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcsnade
+[11:50:33] Mr_Pyro set the hp for Themself to 1500
+[11:50:33] Mr_Pyro set the hp for Themself to 1500
+[11:50:41] Mr_Pyro set the hp for Themself to 1500
+[11:50:49] TRENCH_ZOMBI killed А ПО ЖОПЕ!? using tfa_doim1919
+[11:50:53] Mr_Pyro set the hp for Themself to 1500
+[11:50:57] RusLanConnection to admins: без зомби они лагают
+[11:50:57] TRENCH_ZOMBI killed Mr_Pyro using tfa_doim1919
+[11:50:58] Mr_Pyro set the hp for Themself to 1500
+[11:51:00] Redoket killed sokolise using tfa_doienfield
+[11:51:10] А ПО ЖОПЕ!?: !squad
+[11:51:22] Toxa killed RusLanConnection using tfa_doi_marinebayonet
+[11:51:27] Dropped "Tyman0408Ti" from server<STEAM_0:0:44534269>
+[11:51:27] Tyman0408Ti suicided!
+[11:51:28] sokolise: низкий постуок
+[11:51:34] А ПО ЖОПЕ!? was killed by ent_jack_gmod_ezsticknade
+[11:51:35] богдан. was killed by ent_jack_gmod_ezsticknade
+[11:51:35] богдан. killed vasiliy karat
+[11:51:39] TRENCH_ZOMBI killed солдат using tfa_doim1919
+[11:51:45] RusLanConnection teleported to vasiliy karat
+[11:51:45] RusLanConnection teleported to vasiliy karat
+[11:51:50] TRENCH_ZOMBI killed Redoket using tfa_doim1919
+[11:51:57] vasiliy karat: не дали пушку
+[11:51:59] Rackman to admins: У меня показывает что 200 хп
+[11:52:03] maksumkolesnukov022 to admins: ++
+[11:52:04] RusLanConnection to admins: сейм
+[11:52:13] vasiliy karat to admins: жетоны не берутся
+[11:52:15] А ПО ЖОПЕ!? killed sokolise using tfa_doispringfield
+[11:52:16] RusLanConnection to admins: ну бьемся до последнего
+[11:52:28] А ПО ЖОПЕ!? killed ktamgdenetego using tfa_doispringfield
+[11:52:36] RusLanConnection to admins: надо сдаться наверное и заново войну объявить
+[11:52:39] Mr_Pyro set the hp for Themself to 50000
+[11:52:39] Mr_Pyro set the hp for Themself to 50000
+[11:52:39] Mr_Pyro set the hp for Themself to 50000
+[11:52:45] vasiliy karat: !squad
+[11:52:50] TRENCH_ZOMBI killed солдат using tfa_doim1919
+[11:52:51] богдан.: НА ГОРЕ
+[11:52:56] А ПО ЖОПЕ!?: УРАААА
+[11:53:01] Mr_Pyro<STEAM_0:1:157056677> spawned sent ent_jack_gmod_ezarmor_radiobackpack
+[11:53:12] Dropped "ktamgdenetego" from server<STEAM_0:1:615039590>
+[11:53:12] ktamgdenetego suicided!
+[11:53:12] vasiliy karat: а
+[11:53:18] sokolise: я смиром пришол
+[11:53:22] богдан. killed солдат using tfa_doithompsonm1a1
+[11:53:32] vasiliy karat: точки востановле
+[11:54:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[11:54:07] maksumkolesnukov022 to admins: битса за столицы тогда?
+[11:54:12] TRENCH_ZOMBI killed А ПО ЖОПЕ!? using lvs_m4_mow
+[11:54:17] RusLanConnection to admins: гвоорю надо войну снова объявить
+[11:54:18] солдат killed Toxa using tfa_doienfield
+[11:54:21] TRENCH_ZOMBI killed солдат using tfa_doim1919
+[11:54:23] RusLanConnection to admins: надо сдаться и снова
+[11:54:25] sokolise: я пришол поговорить
+[11:54:33] богдан.: бля так нечетсно
+[11:54:34] vasiliy karat: !squad
+[11:54:47] богдан. suicided!
+[11:54:53] TRENCH_ZOMBI suicided!
+[11:54:54] vasiliy karat to admins: не могу предложить мир только прекращение огня
+[11:54:59] maksumkolesnukov022: ужс
+[11:55:00] богдан.: ОН ИДЕТ К ТЕБЕ
+[11:55:02] RusLanConnection to admins: ну да
+[11:55:16] sokolise: я оговорить
+[11:55:16] Toxa killed солдат using tfa_doithompsonm1a1
+[11:55:20] Redoket killed Toxa using tfa_doienfield
+[11:55:25] богдан.: а ты кто
+[11:55:34] sokolise: соколис
+[11:55:39] богдан.: зачем тебе сюда
+[11:55:47] А ПО ЖОПЕ!? was killed by ent_jack_gmod_ezsticknade
+[11:55:51] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[11:55:53] Redoket was killed by ent_jack_gmod_ezifakpacket
+[11:55:56] sokolise: устал воевать
+[11:56:09] RusLanConnection killed Toxa using tfa_doimp40
+[11:56:20] богдан. killed sokolise using tfa_blast_sjogren
+[11:56:30] А ПО ЖОПЕ!?: сучка
+[11:56:42] Toxa killed RusLanConnection using tfa_doim3greasegun
+[11:56:50] Toxa killed солдат using tfa_doim3greasegun
+[11:56:56] А ПО ЖОПЕ!?: Я ПОПКОРН!
+[11:56:57] А ПО ЖОПЕ!? suicided!
+[11:56:58] А ПО ЖОПЕ!?: ПОМОГИТИ
+[11:57:19] богдан. suicided!
+[11:57:41] Redoket killed богдан. using tfa_doimp40
+[11:57:42] Redoket was killed by ent_jack_gmod_ezsentry
+[11:57:47] maksumkolesnukov022 was killed by ent_jack_gmod_ezsticknade
+[11:57:47] А ПО ЖОПЕ!? was killed by ent_jack_gmod_ezsticknade
+[11:57:56] Rackman killed TRENCH_ZOMBI using prop_physics
+[11:58:02] А ПО ЖОПЕ!?: МОБИЛИЗАЦИЮ!
+[11:58:17] vasiliy karat: руслан тут такое дело я их продал и купил танк который бабахнул
+[11:58:18] богдан. killed sokolise using tfa_doi_marinebayonet
+[11:58:30] vasiliy karat: но мы зачистили снизу
+[11:58:31] sokolise: !squad
+[11:58:35] А ПО ЖОПЕ!?: ЗАДЕЛАЙТЕ ТУТ ДЫРУ!
+[11:58:36] vasiliy karat: крафтеры
+[11:58:43] солдат killed А ПО ЖОПЕ!? using tfa_doim3greasegun
+[11:58:46] vasiliy karat: нету такой опции
+[11:58:51] vasiliy karat: нет
+[11:58:59] maksumkolesnukov022 killed солдат using tfa_doithompsonm1a1
+[11:59:00] vasiliy karat: дать денги и прекрещение огня
+[11:59:18] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eztoolbox
+[11:59:21] Client "tobisol" spawned in server <STEAM_0:0:845342347> (took 953 seconds).
+[11:59:23] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezbasicparts
+[11:59:29] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezcapacitor
+[11:59:31] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[11:59:46] А ПО ЖОПЕ!? killed vasiliy karat using tfa_doim3greasegun
+[11:59:48] А ПО ЖОПЕ!? killed RusLanConnection using tfa_doim3greasegun
+[12:00:09] tobisol: всем привет?
+[12:00:12] TRENCH_ZOMBI killed Redoket using tfa_doisw1917
+[12:00:15] А ПО ЖОПЕ!? killed солдат using tfa_doim3greasegun
+[12:00:32] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezammo
+[12:00:43] Toxa: ужс
+[12:00:48] Rackman<STEAM_0:0:221849271> spawned sent ent_aboot_gmod_ezcapacitor
+[12:01:14] богдан. killed tobisol using tfa_doispringfield
+[12:01:23] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[12:01:24] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[12:01:35] vasiliy karat: игровая механика давит
+[12:01:40] Rackman<STEAM_0:0:221849271> spawned model models/props_phx/construct/metal_plate2x2.mdl
+[12:01:43] Mr_Pyro set the hp for Themself to 1000
+[12:01:44] Mr_Pyro set the hp for Themself to 10000
+[12:01:45] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_eztelenade
+[12:01:56] Toxa: help me breen
+[12:01:59] Dropped "tobisol" from server<STEAM_0:0:845342347>
+[12:01:59] tobisol suicided!
+[12:02:25] vasiliy karat was killed by ent_jack_gmod_ezpowerbank
+[12:02:28] Toxa suicided!
+[12:02:36] Redoket killed А ПО ЖОПЕ!? using tfa_doienfield
+[12:02:38] Redoket was killed by ent_jack_gmod_ezsticknade
+[12:02:52] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[12:02:52] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[12:02:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[12:02:55] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[12:03:31] Toxa killed TRENCH_ZOMBI using tfa_doim1919
+[12:03:49] Rackman set the hp for Themself to 200
+[12:03:55] А ПО ЖОПЕ!? killed sokolise using tfa_doispringfield
+[12:03:56] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[12:03:57] богдан. was killed by npc_fastzombie
+[12:04:05] sokolise: !squad
+[12:04:17] Rackman to admins: Макс ты невидимый
+[12:04:20] Redoket: !squad
+[12:04:23] maksumkolesnukov022 to admins: реалн?
+[12:04:26] vasiliy karat: скалы
+[12:04:27] maksumkolesnukov022 uncloaked Themself
+[12:04:29] TRENCH_ZOMBI killed sokolise using tfa_doim1919
+[12:04:34] Mr_Pyro to admins: а я то думаю
+[12:04:34] vasiliy karat: калы
+[12:04:37] Rackman: supply radio: gas grenades
+[12:04:44] maksumkolesnukov022 to admins: ПОЗОРОРР
+[12:04:46] Mr_Pyro to admins: что за невидимка меня каждый раз сносит почти фулл
+[12:05:07] Toxa suicided!
+[12:05:08] maksumkolesnukov022: а я думал чё вася меня не замечает
+[12:05:19] maksumkolesnukov022 to admins: а я думал чё вася не зачечает когда я за его спиной
+[12:05:34] Toxa killed солдат using tfa_doithompsonm1a1
+[12:05:49] vasiliy karat: разбери
+[12:05:51] vasiliy karat: на ткань
+[12:05:53] sokolise: штаб забил на вас
+[12:06:02] Client "DISCOPLAZMA" connected.
+[12:06:09] богдан.: ОНИ У СТЕНЫ
+[12:06:10] Client "бугагашенька" connected.
+[12:06:17] богдан.: ТАНК
+[12:06:21] Rackman to admins: Надо что бы штаб че-то сделал, а в афк ненадолго
+[12:06:33] Redoket: !squad
+[12:06:33] Toxa: [p
+[12:06:34] Toxa: хз
+[12:06:41] Redoket: !squad
+[12:07:03] А ПО ЖОПЕ!?: !squad
+[12:07:09] sokolise: !squad
+[12:07:09] богдан.: где танк
+[12:07:14] Toxa: хз
+[12:07:16] vasiliy karat: ТАНК
+[12:07:18] vasiliy karat: ЭТО КОНЕЦ
+[12:07:18] Toxa: я тут в первые
+[12:07:22] sokolise: !squad
+[12:07:23] vasiliy karat: В УКРЫТИЕ
+[12:07:26] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 76 seconds).
+[12:07:30] vasiliy karat: ПЕРЕЖДЕМ
+[12:07:36] vasiliy karat: ПРОЕДЕТ МИМО
+[12:07:52] Rackman to admins: Я вернулся
+[12:07:57] Redoket suicided!
+[12:08:02] Client "DISCOPLAZMA" spawned in server <STEAM_0:0:31766296> (took 120 seconds).
+[12:08:04] Dropped "DISCOPLAZMA" from server<STEAM_0:0:31766296>
+[12:08:04] DISCOPLAZMA suicided!
+[12:08:11] Toxa killed солдат using tfa_doim1919
+[12:08:12] maksumkolesnukov022 killed Redoket using tfa_doithompsonm1a1
+[12:08:14] бугагашенька: !squad
+[12:08:18] vasiliy karat: НА 30
+[12:08:21] vasiliy karat: ИЛИ 40
+[12:08:23] Redoket killed maksumkolesnukov022 using tfa_doienfield
+[12:08:49] Toxa killed RusLanConnection using tfa_doim1919
+[12:08:53] Toxa killed vasiliy karat using tfa_doim1919
+[12:09:00] Toxa was killed by ent_jack_gmod_ezsticknade
+[12:09:00] богдан. was killed by ent_jack_gmod_ezsticknade
+[12:09:04] sokolise: давай второй вар
+[12:09:10] TRENCH_ZOMBI killed солдат using tfa_doim1919
+[12:09:13] vasiliy karat: тебя убиди
+[12:09:15] vasiliy karat: черны экран
+[12:09:16] vasiliy karat: и смерт
+[12:09:33] vasiliy karat: предлагаю 
+[12:09:39] sokolise: второй вариант довай
+[12:09:39] vasiliy karat: руслан пошли 
+[12:09:43] vasiliy karat: уран покапаем
+[12:09:56] богдан. killed бугагашенька using tfa_doim3greasegun
+[12:09:56] vasiliy karat: аааа
+[12:10:00] maksumkolesnukov022 killed RusLanConnection using tfa_doispringfield
+[12:10:00] vasiliy karat: так мы можем все продать
+[12:10:06] vasiliy karat killed maksumkolesnukov022 using tfa_doisw1917
+[12:10:16] богдан.: НА ГОРЕ
+[12:10:28] Redoket killed богдан. using tfa_doim1919
+[12:11:03] Toxa killed Redoket using tfa_doim1919
+[12:11:16] vasiliy karat: щас прийдет бабло
+[12:11:17] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcsnade
+[12:11:18] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcsnade
+[12:11:28] солдат killed TRENCH_ZOMBI using tfa_doienfield
+[12:11:28] vasiliy karat: тащи\
+[12:11:29] vasiliy karat: тащи
+[12:11:30] vasiliy karat: щ
+[12:11:36] sokolise: можно мен просто поговориь?
+[12:11:52] Toxa killed солдат using tfa_doim1919
+[12:12:03] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[12:12:05] Redoket was killed by lvs_wheeldrive_dodkuebelwagen
+[12:12:12] maksumkolesnukov022 killed бугагашенька using tfa_doispringfield
+[12:12:18] vasiliy karat killed maksumkolesnukov022 using tfa_doienfield
+[12:12:44] А ПО ЖОПЕ!?: !squad
+[12:13:00] богдан. killed sokolise using tfa_doienfield_scop
+[12:13:01] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezbucket
+[12:13:21] TRENCH_ZOMBI killed бугагашенька using tfa_doim1919
+[12:13:26] vasiliy karat: взрывчатка дорогая
+[12:13:29] vasiliy karat: лучше
+[12:13:30] vasiliy karat: танк
+[12:13:39] богдан. to admins: как выйграть нам если против нас супермен с бесконечными зп и спавн�
+[12:13:42] vasiliy karat: 70 за штуку
+[12:13:47] vasiliy karat: экономика ресетнули
+[12:14:00] Rackman: Слышно?
+[12:14:02] Rackman: Слышно?
+[12:14:05] Rackman: Слышно?
+[12:14:06] А ПО ЖОПЕ!?: ДА
+[12:14:08] TRENCH_ZOMBI killed солдат using tfa_doim1919
+[12:14:09] А ПО ЖОПЕ!?: АЛЛО
+[12:14:13] бугагашенька: !squad
+[12:14:16] А ПО ЖОПЕ!?: СЛЫШНО?
+[12:14:17] vasiliy karat: !squad
+[12:14:19] Rackman set the hp for Themself to 200
+[12:14:22] Rackman: Ало
+[12:14:24] Rackman: Выйдите на связь
+[12:14:27] А ПО ЖОПЕ!?: АЛЛО
+[12:14:29] sokolise: ало 
+[12:14:30] богдан.: ОНИ ЗА СТЕНОЙ
+[12:14:36] TRENCH_ZOMBI killed sokolise using tfa_doim1919
+[12:14:38] vasiliy karat: ТАНК
+[12:14:40] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbattery
+[12:14:46] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezbasicparts
+[12:14:46] А ПО ЖОПЕ!?: алло
+[12:14:47] А ПО ЖОПЕ!?: АЛЛО
+[12:14:49] maksumkolesnukov022 killed sokolise using lvs_m10_mow
+[12:14:52] А ПО ЖОПЕ!?: КАРМАН
+[12:14:54] А ПО ЖОПЕ!?: РАКМАН
+[12:14:56] А ПО ЖОПЕ!?: АЛЛО
+[12:15:07] А ПО ЖОПЕ!?: ТЫ МЕНЯ СЛЫШИШЬ?
+[12:15:08] А ПО ЖОПЕ!?: АЛЛО
+[12:15:23] vasiliy karat killed maksumkolesnukov022 using lvs_t34_42
+[12:15:23] vasiliy karat killed Toxa using lvs_t34_42
+[12:15:23] Mr_Pyro was killed by ent_jack_gmod_ezsticknade
+[12:16:19] maksumkolesnukov022: БЕЙ ВНУТРЬ ДЫМОВЫМИ
+[12:16:31] RusLanConnection was killed by lvs_m10_mow
+[12:16:32] TRENCH_ZOMBI killed Redoket using lvs_m4_mow
+[12:16:42] TRENCH_ZOMBI killed Redoket using lvs_m4_mow
+[12:16:44] Toxa: ТАНК
+[12:17:00] богдан. was killed by lvs_t34_42
+[12:17:01] TRENCH_ZOMBI killed Redoket using lvs_m4_mow
+[12:17:01] TRENCH_ZOMBI killed Mr_Pyro using lvs_m4_mow
+[12:17:12] Rackman to admins: Надо что бы через какое-то время прилетела вертушка забирать всех на
+[12:17:13] А ПО ЖОПЕ!? killed бугагашенька using tfa_doispringfield
+[12:17:18] vasiliy karat killed Toxa using lvs_t34_42
+[12:17:51] sokolise was killed by lvs_t34_42
+[12:17:51] TRENCH_ZOMBI killed vasiliy karat using lvs_m4_mow
+[12:17:51] TRENCH_ZOMBI killed солдат using lvs_m4_mow
+[12:18:08] sokolise: хуйня на танк
+[12:18:10] Toxa killed RusLanConnection using tfa_doim1919
+[12:18:41] Toxa killed sokolise using tfa_doim1919
+[12:18:48] солдат was killed by entityflame
+[12:18:49] богдан.: где они
+[12:19:01] Toxa was killed by build_prop
+[12:19:05] Dropped "солдат" from server<STEAM_0:0:845922848>
+[12:19:05] солдат suicided!
+[12:19:12] богдан.: !squad
+[12:19:21] Redoket killed TRENCH_ZOMBI using tfa_doim1919
+[12:19:25] Rackman to admins: Кто-то организуйте это, я не могу ведь я играю директора местного
+[12:19:36] Redoket killed Toxa using tfa_doim1919
+[12:19:43] TRENCH_ZOMBI killed Mr_Pyro using tfa_doim1919
+[12:19:44] Redoket killed sokolise using tfa_doim1919
+[12:19:48] Redoket killed TRENCH_ZOMBI using tfa_doim1919
+[12:19:53] maksumkolesnukov022: меня хоть видно?
+[12:19:59] vasiliy karat to admins: местный деректор
+[12:20:00] Redoket killed TRENCH_ZOMBI using tfa_doim1919
+[12:20:08] sokolise: !squad
+[12:20:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[12:20:11] Redoket killed TRENCH_ZOMBI using tfa_doim1919
+[12:20:14] vasiliy karat: !squad
+[12:20:22] maksumkolesnukov022 to admins: когда прилетать?
+[12:20:23] Redoket killed TRENCH_ZOMBI using tfa_doim1919
+[12:20:37] Rackman to admins: Когда хочешь, или по команде руслана
+[12:20:44] Toxa killed Redoket using tfa_doisten
+[12:20:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_helicopter_rebel
+[12:21:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezhebomb
+[12:21:18] TRENCH_ZOMBI killed Mr_Pyro using tfa_doisten
+[12:21:26] Toxa: Я ТОЖЕ
+[12:21:30] богдан. was killed by npc_headcrab_fast
+[12:21:34] Toxa was killed by ent_jack_gmod_ezsticknade
+[12:21:38] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_large
+[12:21:40] А ПО ЖОПЕ!?: пиро мертв!
+[12:21:42] А ПО ЖОПЕ!?: ПИРО МЕРТВ!
+[12:21:46] А ПО ЖОПЕ!?: Я ЛИЧН ОВИДЕЛ ЕГО ТЕЛО!
+[12:21:51] sokolise: ЭЙ
+[12:21:55] А ПО ЖОПЕ!? killed sokolise using tfa_doispringfield
+[12:22:04] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_fumo_gmod_ezarmorplate_small
+[12:22:11] Mr_Pyro set the hp for Themself to 500
+[12:22:12] Mr_Pyro set the hp for Themself to 500
+[12:22:26] А ПО ЖОПЕ!?: РАКМАН, МОБИЛИЗАЦИЯ!
+[12:22:32] Rackman: НЕ МОГУ НЕ ЛИДЕР
+[12:22:41] RusLanConnection killed богдан. using tfa_doithompsonm1a1
+[12:22:45] А ПО ЖОПЕ!?: !squad
+[12:23:03] Rackman to admins: Только о эвакуции стоит сообщить а не просто молча не верте прилетет
+[12:23:03] Toxa killed RusLanConnection using player
+[12:23:10] богдан. killed Redoket using tfa_doispringfield
+[12:23:11] maksumkolesnukov022 to admins: окак
+[12:23:17] RusLanConnection teleported to vasiliy karat
+[12:23:26] vasiliy karat: там столица чтоли
+[12:23:27] vasiliy karat: ща
+[12:23:31] богдан. killed sokolise using tfa_doispringfield
+[12:23:41] богдан. suicided!
+[12:23:41] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_helicopter_rebel
+[12:23:44] Toxa killed Redoket using player
+[12:23:44] Redoket killed Toxa using player
+[12:23:44] sokolise: ВТОЛЁТ БИТТ
+[12:24:01] maksumkolesnukov022 to admins: через 30 сек лечу
+[12:24:12] maksumkolesnukov022 to admins: сделай там типа выход к верту
+[12:24:21] Toxa was killed by build_prop
+[12:24:40] TRENCH_ZOMBI: ПОМОГИТЕ
+[12:24:43] TRENCH_ZOMBI: Я СНИЗУ
+[12:24:53] sokolise: СЛУШАЙ
+[12:25:05] Dropped "богдан." from server<STEAM_0:1:815266334>
+[12:25:05] богдан. suicided!
+[12:25:13] sokolise: прекрастную милодию войны
+[12:25:24] RusLanConnection killed maksumkolesnukov022 using tfa_doienfield
+[12:25:24] Mr_Pyro set the hp for Themself to 500
+[12:25:25] Mr_Pyro set the hp for Themself to 500
+[12:25:39] TRENCH_ZOMBI killed Mr_Pyro using tfa_doim1919
+[12:25:50] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_helicopter_rebel
+[12:25:55] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcrate_uni
+[12:25:56] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcrate_uni
+[12:25:56] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcrate_uni
+[12:25:57] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcrate_uni
+[12:25:58] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezcrate_uni
+[12:26:01] TRENCH_ZOMBI was killed by ent_jack_gmod_ezsticknade
+[12:26:02] А ПО ЖОПЕ!?: С БОМБАМИ ИДУТ!
+[12:26:11] А ПО ЖОПЕ!?: ОНИ РЯДОМ!
+[12:26:14] Redoket killed TRENCH_ZOMBI using tfa_doim1919
+[12:26:18] sokolise: риле?
+[12:26:21] Rackman<STEAM_0:0:221849271> spawned sent ent_jack_gmod_ezflarenade
+[12:26:29] Redoket killed TRENCH_ZOMBI using tfa_doim1919
+[12:26:34] А ПО ЖОПЕ!?: ВСЕ СЮДА!
+[12:26:38] А ПО ЖОПЕ!?: ВЕРТОЛЕТ!
+[12:26:39] vasiliy karat killed maksumkolesnukov022 using tfa_doienfield
+[12:26:45] sokolise: лол
+[12:26:48] maksumkolesnukov022 to admins: да гавно, он слишком хрупкий
+[12:26:50] А ПО ЖОПЕ!?: ОБЕЗОПАСЬТЕ ТЕРРИТОРИЮ!
+[12:26:51] TRENCH_ZOMBI killed RusLanConnection using tfa_doisw1917
+[12:26:52] Redoket killed TRENCH_ZOMBI using tfa_doim1919
+[12:27:02] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent lvs_helicopter_rebel
+[12:27:04] sokolise: пилот анскил
+[12:27:09] Redoket suicided!
+[12:27:17] Mr_Pyro killed Toxa using tfa_doienfield
+[12:27:20] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent sent_conveyor
+[12:27:27] А ПО ЖОПЕ!? killed бугагашенька using tfa_doim1919
+[12:27:31] А ПО ЖОПЕ!? was killed by ent_jack_gmod_ezsticknade
+[12:27:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent sent_conveyor
+[12:27:34] Rackman<STEAM_0:0:221849271> spawned model models/props_combine/breendesk.mdl
+[12:27:48] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent sent_conveyor
+[12:27:50] А ПО ЖОПЕ!? killed Redoket using tfa_doim3greasegun
+[12:28:13] Mr_Pyro killed vasiliy karat using ent_jack_gmod_eztimebomb
+[12:28:15] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent sent_conveyor
+[12:28:29] А ПО ЖОПЕ!? killed sokolise using tfa_doim3greasegun
+[12:28:42] TRENCH_ZOMBI killed Redoket using lvs_m4_mow
+[12:28:42] vasiliy karat: продать
+[12:28:43] vasiliy karat: быстро
+[12:28:44] А ПО ЖОПЕ!? killed Mr_Pyro using tfa_doim3greasegun
+[12:28:47] vasiliy karat: что нибудь взять танк
+[12:28:53] vasiliy karat: химия 100
+[12:29:01] sokolise: пр
+[12:29:09] TRENCH_ZOMBI killed RusLanConnection using lvs_m4_mow
+[12:29:15] Toxa: КУДА
+[12:29:26] maksumkolesnukov022 to admins: а куда
+[12:29:32] Toxa killed Redoket using tfa_doithompsonm1a1
+[12:29:33] Rackman to admins: А ВСЕ ТИПО УЛЕТЕЛИ
+[12:29:39] Toxa: они улетели
+[12:29:40] vasiliy karat: кредит возьмем
+[12:29:40] Rackman granted god mode upon Themself
+[12:29:41] TRENCH_ZOMBI killed Mr_Pyro using lvs_m4_mow
+[12:29:42] Rackman cloaked Themself by amount 0
+[12:29:42] vasiliy karat: и поехали
+[12:29:42] Toxa killed sokolise using tfa_doithompsonm1a1
+[12:29:46] Rackman cloaked Themself by amount 0
+[12:29:48] Rackman granted god mode upon Themself
+[12:30:02] TRENCH_ZOMBI killed sokolise using lvs_m4_mow
+[12:30:09] Rackman to admins: Я типо эвакуирован
+[12:30:12] А ПО ЖОПЕ!? killed бугагашенька using tfa_doim3greasegun
+[12:30:12] maksumkolesnukov022 was killed by ent_jack_gmod_ezsticknade
+[12:30:12] RusLanConnection was killed by ent_jack_gmod_ezsticknade
+[12:30:12] Mr_Pyro was killed by ent_jack_gmod_ezsticknade
+[12:30:12] А ПО ЖОПЕ!? was killed by ent_jack_gmod_ezsticknade
+[12:30:12] vasiliy karat was killed by ent_jack_gmod_ezsticknade
+[12:30:22] Rackman granted god mode upon Themself
+[12:30:25] vasiliy karat: авария
+[12:30:25] Rackman cloaked Themself by amount 0
+[12:30:27] maksumkolesnukov022: окак
+[12:30:41] А ПО ЖОПЕ!? killed Redoket using tfa_doispringfield
+[12:30:47] maksumkolesnukov022: а почему музыка продолжаетс
+[12:30:54] А ПО ЖОПЕ!?: !squad
+[12:30:56] Mr_Pyro killed maksumkolesnukov022 using tfa_doienfield
+[12:31:02] RusLanConnection was killed by build_prop
+[12:31:07] Mr_Pyro killed А ПО ЖОПЕ!? using tfa_doienfield
+[12:31:35] Redoket suicided!
+[12:31:40] А ПО ЖОПЕ!?: !squad
+[12:31:41] Toxa: окак
+[12:31:46] maksumkolesnukov022 killed sokolise using lvs_wheeldrive_dodwillyjeep
+[12:31:50] sokolise: победа
+[12:31:55] (csay from Rackman) Директор и двое сотрудников успели эвакуироваться
+[12:31:56] Client "pipa" connected.
+[12:32:04] (TEAM) TRENCH_ZOMBI: але блять
+[12:32:05] vasiliy karat: берите танки
+[12:32:06] vasiliy karat: и поехали
+[12:32:06] Mr_Pyro was killed by ent_jack_gmod_ezsticknade
+[12:32:07] А ПО ЖОПЕ!?: !squad
+[12:32:11] (csay from Rackman) Все остальные оставлены на произвол судьбы
+[12:32:13] TRENCH_ZOMBI: нечестно сука
+[12:32:19] Rackman teleported to RusLanConnection
+[12:32:35] Toxa: !squad
+[12:32:38] А ПО ЖОПЕ!?: !squad
+[12:33:03] бугагашенька: УРА ПОКАЗАТЕЛЬНЫЙ РАСТРЕЛЛ ОСТАВШИХСЯ
+[12:33:14] бугагашенька: лол
+[12:33:36] Redoket<STEAM_0:1:545449619> spawned sent prop_ww_flag
+[12:33:48] бугагашенька: СТООЙ
+[12:33:50] бугагашенька: МЛЯ ЛАДВ
+[12:33:51] maksumkolesnukov022 killed Redoket using tfa_doithompsonm1a1
+[12:34:38] Toxa: ладно 
+[12:34:50] Toxa: но мы зато эвакуировали пару сотрудников
+[12:35:04] Toxa: так лутание не работает
+[12:35:06] vasiliy karat to admins: ну чето сегодня вро ваще баг
+[12:35:09] Toxa: жетоны не забирались
+[12:35:11] Toxa: хз 
+[12:35:22] бугагашенька: ЭТО НЕ ЛАГИ А СЛОУМО
+[12:35:26] Dropped "Toxa" from server<STEAM_0:0:33704276>
+[12:35:26] Toxa suicided!
+[12:35:29] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezhebomb
+[12:35:32] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsatchelcharge
+[12:35:42] бугагашенька: круто
+[12:35:48] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezsatchelcharge
+[12:36:42] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[12:36:48] maksumkolesnukov022 cloaked Themself by amount 0
+[12:36:58] Redoket<STEAM_0:1:545449619> spawned sent prop_ww_door
+[12:36:59] Redoket<STEAM_0:1:545449619> spawned sent prop_ww_flag
+[12:37:16] Redoket was killed by ent_jack_gmod_ezfalloutparticle
+[12:37:20] Mr_Pyro was killed by ent_jack_gmod_ezfalloutparticle
+[12:37:20] maksumkolesnukov022 was killed by ent_jack_gmod_ezfalloutparticle
+[12:37:35] maksumkolesnukov022 to admins: кажись реактор придавило
+[12:37:58] sokolise killed TRENCH_ZOMBI using tfa_doienfield
+[12:38:00] vasiliy karat: f 'n
+[12:38:11] vasiliy karat: жалко я думал это
+[12:38:13] Redoket<STEAM_0:1:545449619> spawned sent prop_ww_flag
+[12:38:19] vasiliy karat: стены
+[12:38:53] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpopcorn
+[12:38:57] RusLanConnection killed RusLanConnection
+[12:39:03] TRENCH_ZOMBI killed sokolise using tfa_doim1919
+[12:39:10] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezpopcorn
+[12:39:38] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_aboot_gmod_eztelenade
+[12:39:56] Rackman teleported to RusLanConnection
+[12:41:01] vasiliy karat: из окна смотрел
+[12:41:04] vasiliy karat: за нами
+[12:41:14] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[12:41:17] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[12:41:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[12:41:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[12:41:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[12:41:19] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[12:42:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmbhg
+[12:42:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmbhg
+[12:42:33] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezmbhg
+[12:43:20] TRENCH_ZOMBI: ПИЗДА
+[12:43:30] vasiliy karat: сцена из акиры где всех убивают
+[12:43:32] А ПО ЖОПЕ!?: !squad
+[12:43:39] vasiliy karat: нет
+[12:43:40] maksumkolesnukov022 teleported to vasiliy karat
+[12:43:51] vasiliy karat: й
+[12:44:06] Dropped "А ПО ЖОПЕ!?" from server<STEAM_0:1:557416607>
+[12:44:06] А ПО ЖОПЕ!? suicided!
+[12:44:14] TRENCH_ZOMBI to admins: ЭТО БЫЛО ЗРЯ
+[12:44:24] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_eznutrients
+[12:44:32] бугагашенька: и щас танк тупо уносит
+[12:44:34] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+[12:44:36] maksumkolesnukov022<STEAM_0:1:440267723> spawned sent ent_jack_gmod_ezifakpacket
+
+
+
+[12:46:05] New map: gm_sro
+[12:46:18] Client "бугагашенька" connected.
+[12:46:26] Client "Mr_Pyro" connected.
+[12:46:34] Client "бугагашенька" connected.
+[12:46:47] Client "TRENCH_ZOMBI" connected.
+[12:47:00] Client "Mr_Pyro" spawned in server <STEAM_0:1:157056677> (took 34 seconds).
+[12:47:03] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 29 seconds).
+[12:47:27] Client "TRENCH_ZOMBI" spawned in server <STEAM_0:1:617631024> (took 40 seconds).
+[12:48:29] Mr_Pyro: вав
+[12:48:32] Dropped "Mr_Pyro" from server<STEAM_0:1:157056677>
+[12:48:32] Mr_Pyro suicided!
+[13:00:28] бугагашенька: лады пока я спать удачи!!!
+[13:00:37] TRENCH_ZOMBI: покеда
+[13:00:39] TRENCH_ZOMBI: удачи
+[13:00:42] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[13:00:42] бугагашенька suicided!
+[13:00:43] TRENCH_ZOMBI: :D
+[13:00:53] Dropped "TRENCH_ZOMBI" from server<STEAM_0:1:617631024>
+[13:00:53] TRENCH_ZOMBI suicided!
+[13:50:49] Client "♀n4n0mir[A]cle♀" connected.
+[14:02:11] Client "♀n4n0mir[A]cle♀" spawned in server <STEAM_0:0:19976655> (took 682 seconds).
+[14:32:46] ♀n4n0mir[A]cle♀: есть кто нибудь??
+[14:37:16] ♀n4n0mir[A]cle♀: !help
+[14:37:20] ♀n4n0mir[A]cle♀: /help
+[14:39:18] Dropped "♀n4n0mir[A]cle♀" from server<STEAM_0:0:19976655>
+[14:39:18] ♀n4n0mir[A]cle♀ suicided!
+[16:13:33] Client "Cevi" connected.
+[16:13:41] Client "Cevi" connected.
+[16:15:07] Client "Cevi" spawned in server <STEAM_0:1:646314188> (took 86 seconds).
+[17:07:41] Dropped "Cevi" from server<STEAM_0:1:646314188>
+[17:07:41] Cevi suicided!
+[20:41:33] Client "Cevi" connected.
+[20:43:15] Client "Cevi" spawned in server <STEAM_0:1:646314188> (took 102 seconds).
+[20:48:02] Cevi: supply radio: fulton-crate
+[20:51:58] Cevi: supply radio: fulton-crate
+[21:25:43] Dropped "Cevi" from server<STEAM_0:1:646314188>
+[21:25:43] Cevi suicided!
+[22:12:13] Client "солдат" connected.
+[22:13:02] Client "солдат" spawned in server <STEAM_0:0:845922848> (took 49 seconds).
+[22:17:53] Client "benrybenrybenrybenrybenrybenry" connected.
+[22:18:42] Client "benrybenrybenrybenrybenrybenry" spawned in server <STEAM_0:1:653574667> (took 49 seconds).
+[22:23:38] benrybenrybenrybenrybenrybenry: привет
+[22:23:48] benrybenrybenrybenrybenrybenry: тут везде трупны
+[22:23:56] benrybenrybenrybenrybenrybenry: я не смогу придти
+[22:24:01] benrybenrybenrybenrybenrybenry: закопай их пожалуйста
+[22:24:03] benrybenrybenrybenrybenrybenry: а
+[22:24:08] benrybenrybenrybenrybenrybenry: ну такое решение
+[22:24:10] benrybenrybenrybenrybenrybenry: пойдет
+[22:24:43] benrybenrybenrybenrybenrybenry: нифигасибе
+[22:25:08] benrybenrybenrybenrybenrybenry: посылку открыть?
+[22:29:46] benrybenrybenrybenrybenrybenry: давай я по чату
+[22:29:56] benrybenrybenrybenrybenrybenry: ну ладно
+[22:30:01] benrybenrybenrybenrybenrybenry: я просто не могу пофиксить
+[22:35:22] солдат: supply radio: make loan
+[22:38:09] солдат: supply radio: drill
+[22:43:04] benrybenrybenrybenrybenrybenry was killed by ent_jack_gmod_ezrefinery
+<Logging continued in "data/ulx_logs/10-31-25.txt">

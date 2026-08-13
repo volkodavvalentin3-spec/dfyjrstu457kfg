@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "props/metal_damaged_a"
+	"$bumpmap" "props/metal_damaged_n"
+	"$surfaceprop" "Metal"
+	"$nocull" "1"					
+
+	"$phong" "1"						
+	"$phongboost"	"1" 		
+	"$phongexponent" "300"	
+	"$phongfresnelranges"	"[0.3 1 4]" 
+}

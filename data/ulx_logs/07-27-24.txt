@@ -1,0 +1,715 @@
+[18:51:06] New map: rp_cscdesert_v2-1
+[18:56:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[18:57:03] Server is shutting down/changing levels.
+
+
+
+[19:01:59] New map: rp_cscdesert_v2-1
+[19:02:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[19:03:47] Client "Bot01" connected.
+[19:03:47] Client "Bot01" spawned in server <BOT> (took 131 seconds).
+[19:03:50] RusLanConnection brought Bot01
+[19:03:57] RusLanConnection brought Bot01
+[19:07:56] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[19:07:58] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001_explosive.mdl
+[19:08:05] Server is shutting down/changing levels.
+
+
+
+[19:10:36] New map: rp_cscdesert_v2-1
+[19:10:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_sleepingbag
+[19:15:22] Server is shutting down/changing levels.
+
+
+
+[19:15:35] New map: rp_cscdesert_v2-1
+[19:18:02] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_f_rp
+[19:18:23] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_f
+[19:18:49] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[19:19:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[19:19:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprimitivebench
+[19:19:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfabricator
+[19:19:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaugerdrill
+[19:20:21] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_2a36
+[19:20:53] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_53k
+[19:25:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[19:26:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[19:27:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[19:31:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[19:35:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodkuebelwagen
+[19:37:19] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_fortifications/sandbags_corner1.mdl
+[19:37:27] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_fortifications/sandbags_line2_tall.mdl
+[19:37:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodkuebelwagen
+[19:38:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodkuebelwagen
+[19:38:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[19:40:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[19:42:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_aft
+[19:42:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_gallant
+[19:45:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[19:45:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_transmission_automatic
+[19:46:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_gauge
+[19:46:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezwelder
+[19:46:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezarmor_weldingmask
+[19:47:48] Server is shutting down/changing levels.
+
+
+
+[19:48:01] New map: rp_cscdesert_v2-1
+[19:51:18] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodwillyjeep_mg
+[19:51:45] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_aft
+[19:51:51] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_gallant
+[19:51:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_spire
+[19:51:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_freeman
+[19:51:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_obrien
+[19:51:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_gravekeeper
+[19:51:54] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_highlander
+[19:51:54] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_knave
+[19:51:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_actaeon
+[19:51:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_ixion
+[19:51:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_xiphos
+[19:51:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_percutio
+[19:51:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_gemini
+[19:53:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[19:54:37] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m_rp
+[19:55:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_t34_57
+[19:56:45] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[19:57:36] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_pak40
+[19:58:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:59:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:59:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:59:02] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:59:04] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_missile
+[19:59:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_flak
+[19:59:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezstunstick
+[19:59:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezpounder
+[20:01:09] Server is shutting down/changing levels.
+
+
+
+[20:01:22] New map: rp_cscdesert_v2-1
+[20:02:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_ixion
+[20:03:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_spire
+[20:03:54] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_gallant
+[20:04:12] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_gallant
+[20:05:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[20:05:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[20:06:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[20:06:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[20:08:51] Client "василий каратаев" connected.
+[20:11:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[20:12:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodsherman
+[20:13:46] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 295 seconds).
+[20:14:10] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[20:14:12] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_gallant
+[20:16:55] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[20:17:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[20:17:49] RusLanConnection suicided!
+[20:18:28] Client "василий каратаев" connected.
+[20:19:02] Client "василий каратаев" spawned in server <STEAM_0:0:814052183> (took 34 seconds).
+[20:19:05] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[20:20:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_ezchair
+[20:20:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_compass
+[20:20:57] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_2a36
+[20:21:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[20:21:31] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_53k
+[20:21:37] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_m30
+[20:21:39] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_m30
+[20:22:15] Dropped "василий каратаев" from server<STEAM_0:0:814052183>
+[20:22:28] Server is shutting down/changing levels.
+
+
+
+[20:22:40] New map: rp_cscdesert_v2-1
+[20:22:47] RusLanConnection<STEAM_0:0:238810681> spawned model models/cranes/crane_frame.mdl
+[20:22:56] RusLanConnection<STEAM_0:0:238810681> spawned sent sw_bm1417m
+[20:23:16] Server is shutting down/changing levels.
+
+
+
+[20:23:28] New map: rp_cscdesert_v2-1
+[20:23:45] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodspaehwagen
+[20:23:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz250
+[20:24:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketpod
+[20:24:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketpod
+[20:24:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:24:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:24:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:24:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:24:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:24:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:24:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:25:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[20:25:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[20:28:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztorpedo
+[20:28:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsmallbomb
+[20:29:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[20:29:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:31:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:31:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:31:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:32:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:32:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:32:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:32:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:32:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:32:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:32:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:32:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:33:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:33:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:34:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:34:11] Server is shutting down/changing levels.
+
+
+
+[20:35:03] New map: rp_cscdesert_v2-1
+[20:35:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:35:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:35:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:35:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:35:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:35:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezherocket
+[20:35:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketpod
+[20:36:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz250
+[20:37:33] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001.mdl
+[20:39:40] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001_explosive.mdl
+[20:39:40] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001_explosive.mdl
+[20:39:40] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001_explosive.mdl
+[20:39:40] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001_explosive.mdl
+[20:39:41] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001_explosive.mdl
+[20:39:41] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001_explosive.mdl
+[20:39:41] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/oildrum001_explosive.mdl
+[20:39:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[20:40:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezcombinenade
+[20:40:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfragnade
+[20:40:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[20:41:05] Server is shutting down/changing levels.
+
+
+
+[20:41:17] New map: rp_cscdesert_v2-1
+[20:41:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz250
+[20:41:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfragnade
+[20:41:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketpod
+[20:42:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[20:42:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[20:44:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[20:44:40] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[20:44:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbigbomb
+[20:44:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezrocketmotor
+[20:45:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezwarmine
+[20:45:31] RusLanConnection<STEAM_0:0:238810681> spawned NPC npc_metropolice
+[20:45:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[20:46:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[20:46:12] Client "Bot01" connected.
+[20:46:12] Client "Bot01" spawned in server <BOT> (took 306 seconds).
+[20:46:12] Client "Bot02" connected.
+[20:46:12] Client "Bot02" spawned in server <BOT> (took 306 seconds).
+[20:46:12] Bot01 suicided!
+[20:46:12] Client "Bot03" connected.
+[20:46:12] Client "Bot03" spawned in server <BOT> (took 306 seconds).
+[20:46:12] Bot02 suicided!
+[20:46:12] Client "Bot04" connected.
+[20:46:12] Client "Bot04" spawned in server <BOT> (took 306 seconds).
+[20:46:12] Bot03 suicided!
+[20:46:13] Client "Bot05" connected.
+[20:46:13] Client "Bot05" spawned in server <BOT> (took 307 seconds).
+[20:46:13] Bot04 suicided!
+[20:46:13] Client "Bot06" connected.
+[20:46:13] Client "Bot06" spawned in server <BOT> (took 307 seconds).
+[20:46:13] Bot05 suicided!
+[20:46:13] Client "Bot07" connected.
+[20:46:13] Client "Bot07" spawned in server <BOT> (took 307 seconds).
+[20:46:13] Bot06 suicided!
+[20:46:13] Client "Bot08" connected.
+[20:46:13] Client "Bot08" spawned in server <BOT> (took 307 seconds).
+[20:46:13] Bot07 suicided!
+[20:46:13] Client "Bot09" connected.
+[20:46:13] Client "Bot09" spawned in server <BOT> (took 307 seconds).
+[20:46:13] Bot08 suicided!
+[20:46:13] Client "Bot10" connected.
+[20:46:13] Client "Bot10" spawned in server <BOT> (took 307 seconds).
+[20:46:13] Bot09 suicided!
+[20:46:14] Client "Bot11" connected.
+[20:46:14] Client "Bot11" spawned in server <BOT> (took 308 seconds).
+[20:46:14] Bot10 suicided!
+[20:46:14] Client "Bot12" connected.
+[20:46:14] Client "Bot12" spawned in server <BOT> (took 308 seconds).
+[20:46:14] Bot11 suicided!
+[20:46:14] Client "Bot13" connected.
+[20:46:14] Client "Bot13" spawned in server <BOT> (took 308 seconds).
+[20:46:14] Bot12 suicided!
+[20:46:14] Bot13 suicided!
+[20:46:14] Client "Bot14" connected.
+[20:46:14] Client "Bot14" spawned in server <BOT> (took 308 seconds).
+[20:46:14] Bot01 suicided!
+[20:46:14] Bot14 suicided!
+[20:46:14] Client "Bot15" connected.
+[20:46:14] Client "Bot15" spawned in server <BOT> (took 308 seconds).
+[20:46:14] Bot02 suicided!
+[20:46:14] Bot15 suicided!
+[20:46:15] Bot03 suicided!
+[20:46:15] Bot04 suicided!
+[20:46:15] Bot05 suicided!
+[20:46:15] Bot06 suicided!
+[20:46:15] Bot07 suicided!
+[20:46:15] Bot08 suicided!
+[20:46:16] Bot09 suicided!
+[20:46:16] Bot10 suicided!
+[20:46:16] Bot11 suicided!
+[20:46:16] Bot12 suicided!
+[20:46:16] Bot13 suicided!
+[20:46:16] Bot01 suicided!
+[20:46:16] Bot14 suicided!
+[20:46:16] Bot02 suicided!
+[20:46:17] Bot15 suicided!
+[20:46:17] Bot03 suicided!
+[20:46:17] Bot04 suicided!
+[20:46:17] Bot05 suicided!
+[20:46:17] Bot06 suicided!
+[20:46:18] Bot07 suicided!
+[20:46:18] Bot08 suicided!
+[20:46:18] Bot09 suicided!
+[20:46:18] Bot10 suicided!
+[20:46:18] Bot11 suicided!
+[20:46:19] Bot12 suicided!
+[20:46:19] Bot13 suicided!
+[20:46:19] Bot01 suicided!
+[20:46:19] Bot14 suicided!
+[20:46:20] Bot02 suicided!
+[20:46:21] Bot15 suicided!
+[20:46:22] Bot03 suicided!
+[20:46:23] Bot04 suicided!
+[20:46:24] Bot05 suicided!
+[20:46:25] Bot06 suicided!
+[20:46:27] Bot07 suicided!
+[20:46:28] Bot08 suicided!
+[20:46:30] Bot09 suicided!
+[20:46:31] Bot10 suicided!
+[20:46:31] Bot11 suicided!
+[20:46:32] Bot12 suicided!
+[20:46:32] Bot13 suicided!
+[20:46:33] Bot01 suicided!
+[20:46:35] Bot14 suicided!
+[20:46:36] Bot02 suicided!
+[20:46:38] Bot15 suicided!
+[20:46:40] Bot03 suicided!
+[20:46:41] Bot04 suicided!
+[20:46:42] Bot05 suicided!
+[20:46:44] Bot06 suicided!
+[20:46:45] Bot07 suicided!
+[20:46:48] Bot08 suicided!
+[20:46:49] Bot09 suicided!
+[20:46:50] Bot10 suicided!
+[20:46:52] Bot11 suicided!
+[20:46:52] Bot12 suicided!
+[20:46:54] Bot13 suicided!
+[20:46:56] Bot01 suicided!
+[20:46:58] Bot14 suicided!
+[20:47:00] Bot02 suicided!
+[20:47:01] Bot15 suicided!
+[20:47:03] Bot03 suicided!
+[20:47:05] Bot04 suicided!
+[20:47:08] Bot05 suicided!
+[20:47:10] Bot06 suicided!
+[20:47:12] Bot07 suicided!
+[20:47:14] Bot08 suicided!
+[20:47:14] Bot09 suicided!
+[20:47:16] Bot10 suicided!
+[20:47:17] Bot11 suicided!
+[20:47:18] Bot12 suicided!
+[20:47:21] Bot13 suicided!
+[20:47:24] Bot01 suicided!
+[20:47:28] Bot14 suicided!
+[20:47:30] Bot02 suicided!
+[20:47:32] Bot15 suicided!
+[20:47:34] Bot03 suicided!
+[20:47:35] Bot04 suicided!
+[20:47:35] Bot05 suicided!
+[20:47:36] Bot06 suicided!
+[20:47:36] Bot07 suicided!
+[20:47:36] Bot08 suicided!
+[20:47:36] Bot09 suicided!
+[20:47:36] Bot10 suicided!
+[20:47:36] Bot11 suicided!
+[20:47:37] Bot12 suicided!
+[20:47:37] Bot13 suicided!
+[20:47:37] Bot01 suicided!
+[20:47:37] Bot14 suicided!
+[20:47:37] Bot02 suicided!
+[20:47:37] Bot15 suicided!
+[20:47:37] Bot03 suicided!
+[20:47:37] Bot04 suicided!
+[20:47:38] Bot05 suicided!
+[20:47:38] Bot06 suicided!
+[20:47:38] Bot07 suicided!
+[20:47:38] Bot08 suicided!
+[20:47:38] Bot09 suicided!
+[20:47:38] Bot10 suicided!
+[20:47:38] Bot11 suicided!
+[20:47:38] Bot12 suicided!
+[20:47:39] Bot13 suicided!
+[20:47:39] Bot01 suicided!
+[20:47:39] Bot14 suicided!
+[20:47:39] Bot02 suicided!
+[20:47:39] Bot15 suicided!
+[20:47:39] Bot03 suicided!
+[20:47:40] Bot04 suicided!
+[20:47:40] Bot05 suicided!
+[20:47:40] Bot06 suicided!
+[20:47:40] Bot07 suicided!
+[20:47:40] Bot08 suicided!
+[20:47:40] Bot09 suicided!
+[20:47:40] Bot10 suicided!
+[20:47:40] Bot11 suicided!
+[20:47:41] Bot12 suicided!
+[20:47:41] Bot13 suicided!
+[20:47:41] Bot01 suicided!
+[20:47:41] Bot14 suicided!
+[20:47:41] Bot02 suicided!
+[20:47:41] Bot15 suicided!
+[20:47:41] Bot03 suicided!
+[20:47:42] Bot04 suicided!
+[20:47:42] Bot05 suicided!
+[20:47:42] Bot06 suicided!
+[20:47:42] Bot07 suicided!
+[20:47:42] Bot08 suicided!
+[20:47:42] Bot09 suicided!
+[20:47:42] Bot10 suicided!
+[20:47:42] Bot11 suicided!
+[20:47:43] Bot12 suicided!
+[20:47:43] Bot13 suicided!
+[20:47:43] Bot01 suicided!
+[20:47:43] Bot14 suicided!
+[20:47:44] Bot02 suicided!
+[20:47:44] Bot15 suicided!
+[20:47:44] Bot03 suicided!
+[20:47:44] Bot04 suicided!
+[20:47:44] Bot05 suicided!
+[20:47:44] Bot06 suicided!
+[20:47:44] Bot07 suicided!
+[20:47:44] Bot08 suicided!
+[20:47:44] Bot09 suicided!
+[20:47:44] Bot10 suicided!
+[20:47:45] Bot11 suicided!
+[20:47:45] Bot12 suicided!
+[20:47:45] Bot13 suicided!
+[20:47:45] Bot01 suicided!
+[20:47:45] Bot14 suicided!
+[20:47:45] Bot02 suicided!
+[20:47:45] Bot15 suicided!
+[20:47:46] Bot03 suicided!
+[20:47:46] Bot04 suicided!
+[20:47:46] Bot05 suicided!
+[20:47:46] Bot06 suicided!
+[20:47:46] Bot07 suicided!
+[20:47:46] Bot08 suicided!
+[20:47:46] Bot09 suicided!
+[20:47:47] Bot10 suicided!
+[20:47:47] Bot11 suicided!
+[20:47:47] Bot12 suicided!
+[20:47:47] Bot13 suicided!
+[20:47:47] Bot01 suicided!
+[20:47:47] Bot14 suicided!
+[20:47:48] Bot02 suicided!
+[20:47:48] Bot15 suicided!
+[20:47:48] Bot03 suicided!
+[20:47:48] Bot04 suicided!
+[20:47:48] Bot05 suicided!
+[20:47:48] Bot06 suicided!
+[20:47:48] Bot07 suicided!
+[20:47:48] Bot08 suicided!
+[20:47:49] Bot09 suicided!
+[20:47:49] Bot10 suicided!
+[20:47:49] Bot11 suicided!
+[20:47:49] Bot12 suicided!
+[20:47:50] Bot13 suicided!
+[20:47:50] Bot01 suicided!
+[20:47:50] Bot14 suicided!
+[20:47:50] Bot02 suicided!
+[20:47:50] Bot15 suicided!
+[20:47:50] Bot03 suicided!
+[20:47:50] Bot04 suicided!
+[20:47:51] Bot05 suicided!
+[20:47:51] Bot06 suicided!
+[20:47:51] Bot07 suicided!
+[20:47:52] Bot08 suicided!
+[20:47:52] Bot09 suicided!
+[20:47:52] Bot10 suicided!
+[20:47:52] Bot11 suicided!
+[20:47:52] Bot12 suicided!
+[20:47:52] Bot13 suicided!
+[20:47:52] Bot01 suicided!
+[20:47:52] Bot14 suicided!
+[20:47:52] Bot02 suicided!
+[20:47:53] Bot15 suicided!
+[20:47:53] Bot03 suicided!
+[20:47:53] Bot04 suicided!
+[20:47:53] Bot05 suicided!
+[20:47:53] Bot06 suicided!
+[20:47:53] Bot07 suicided!
+[20:47:53] Bot08 suicided!
+[20:47:53] Bot09 suicided!
+[20:47:53] Bot10 suicided!
+[20:47:54] Bot11 suicided!
+[20:47:54] Bot12 suicided!
+[20:47:54] Bot13 suicided!
+[20:47:54] Bot01 suicided!
+[20:47:54] Bot14 suicided!
+[20:47:54] Bot02 suicided!
+[20:47:54] Bot15 suicided!
+[20:47:54] Bot03 suicided!
+[20:47:55] Bot04 suicided!
+[20:47:55] Bot05 suicided!
+[20:47:55] Bot06 suicided!
+[20:47:55] Bot07 suicided!
+[20:47:55] Bot08 suicided!
+[20:47:56] Bot09 suicided!
+[20:47:56] Bot10 suicided!
+[20:47:56] Bot11 suicided!
+[20:47:56] Bot12 suicided!
+[20:47:56] Bot13 suicided!
+[20:47:56] Bot01 suicided!
+[20:47:56] Bot14 suicided!
+[20:47:56] Bot02 suicided!
+[20:47:57] Bot15 suicided!
+[20:47:57] Bot03 suicided!
+[20:47:57] Bot04 suicided!
+[20:47:57] Bot05 suicided!
+[20:47:57] Bot06 suicided!
+[20:47:57] Bot07 suicided!
+[20:47:58] Bot08 suicided!
+[20:47:58] Bot09 suicided!
+[20:47:58] Bot10 suicided!
+[20:47:58] Bot11 suicided!
+[20:47:58] Bot12 suicided!
+[20:47:58] Bot13 suicided!
+[20:47:58] Bot01 suicided!
+[20:47:58] Bot14 suicided!
+[20:47:58] Bot02 suicided!
+[20:47:59] Bot15 suicided!
+[20:47:59] Bot03 suicided!
+[20:47:59] Bot04 suicided!
+[20:47:59] Bot05 suicided!
+[20:47:59] Bot06 suicided!
+[20:48:00] Bot07 suicided!
+[20:48:00] Bot08 suicided!
+[20:48:00] Bot09 suicided!
+[20:48:00] Bot10 suicided!
+[20:48:00] Bot11 suicided!
+[20:48:00] Bot12 suicided!
+[20:48:00] Bot13 suicided!
+[20:48:00] Bot01 suicided!
+[20:48:01] Bot14 suicided!
+[20:48:01] Bot02 suicided!
+[20:48:01] Bot15 suicided!
+[20:48:01] Bot03 suicided!
+[20:48:01] Bot04 suicided!
+[20:48:02] Bot05 suicided!
+[20:48:02] Bot06 suicided!
+[20:48:02] Bot07 suicided!
+[20:48:02] Bot08 suicided!
+[20:48:02] Bot09 suicided!
+[20:48:02] Bot10 suicided!
+[20:48:02] Bot11 suicided!
+[20:48:02] Bot12 suicided!
+[20:48:02] Bot13 suicided!
+[20:48:03] Bot01 suicided!
+[20:48:03] Bot14 suicided!
+[20:48:03] Bot02 suicided!
+[20:48:03] Bot15 suicided!
+[20:48:03] Bot03 suicided!
+[20:48:03] Bot04 suicided!
+[20:48:04] Bot05 suicided!
+[20:48:04] Bot06 suicided!
+[20:48:04] Bot07 suicided!
+[20:48:04] Bot08 suicided!
+[20:48:04] Bot09 suicided!
+[20:48:04] Bot10 suicided!
+[20:48:04] Bot11 suicided!
+[20:48:04] Bot12 suicided!
+[20:48:05] Bot13 suicided!
+[20:48:05] Bot01 suicided!
+[20:48:05] Bot14 suicided!
+[20:48:05] Bot02 suicided!
+[20:48:05] Bot15 suicided!
+[20:48:05] Bot03 suicided!
+[20:48:06] Bot04 suicided!
+[20:48:06] Bot05 suicided!
+[20:48:06] Bot06 suicided!
+[20:48:06] Bot07 suicided!
+[20:48:06] Bot08 suicided!
+[20:48:06] Bot09 suicided!
+[20:48:06] Bot10 suicided!
+[20:48:06] Bot11 suicided!
+[20:48:07] Bot12 suicided!
+[20:48:07] Bot13 suicided!
+[20:48:07] Bot01 suicided!
+[20:48:07] Bot14 suicided!
+[20:48:07] RusLanConnection brought Bot02
+[20:48:07] Bot15 suicided!
+[20:48:08] Bot03 suicided!
+[20:48:08] Bot04 suicided!
+[20:48:08] Bot05 suicided!
+[20:48:08] Bot06 suicided!
+[20:48:08] Bot07 suicided!
+[20:48:08] Bot08 suicided!
+[20:48:08] Bot09 suicided!
+[20:48:08] Bot10 suicided!
+[20:48:09] Bot11 suicided!
+[20:48:09] Bot12 suicided!
+[20:48:09] RusLanConnection brought Bot13
+[20:48:09] Bot01 suicided!
+[20:48:10] Bot14 suicided!
+[20:48:10] RusLanConnection brought Bot13,Bot15
+[20:48:10] Bot03 suicided!
+[20:48:10] Bot04 suicided!
+[20:48:11] Bot05 suicided!
+[20:48:11] Bot06 suicided!
+[20:48:11] Bot07 suicided!
+[20:48:11] Bot08 suicided!
+[20:48:11] Bot09 suicided!
+[20:48:12] Bot10 suicided!
+[20:48:13] Bot11 suicided!
+[20:48:14] RusLanConnection brought Bot12
+[20:48:14] RusLanConnection brought Bot12
+[20:48:14] RusLanConnection brought Bot12
+[20:48:14] RusLanConnection brought Bot12
+[20:48:14] RusLanConnection brought Bot12
+[20:48:15] Bot01 suicided!
+[20:48:16] RusLanConnection brought Bot12
+[20:48:16] RusLanConnection brought Bot12
+[20:48:16] RusLanConnection brought Bot12
+[20:48:16] RusLanConnection brought Bot12
+[20:48:16] RusLanConnection brought Bot12
+[20:48:17] Bot14 suicided!
+[20:48:18] Bot03 suicided!
+[20:48:19] Bot04 suicided!
+[20:48:19] Bot05 suicided!
+[20:48:20] Bot06 suicided!
+[20:48:20] Bot07 suicided!
+[20:48:21] Bot08 suicided!
+[20:48:23] Bot09 suicided!
+[20:48:24] Bot10 suicided!
+[20:48:29] Bot11 suicided!
+[20:48:32] Bot01 suicided!
+[20:48:34] Bot14 suicided!
+[20:48:35] Bot03 suicided!
+[20:48:36] Bot04 suicided!
+[20:48:37] Bot05 suicided!
+[20:48:37] Bot06 suicided!
+[20:48:39] Bot07 suicided!
+[20:48:41] Bot08 suicided!
+[20:48:43] Bot09 suicided!
+
+
+
+[20:49:54] New map: rp_cscdesert_v2-1
+[20:53:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_flametank
+[20:57:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[20:59:51] RusLanConnection suicided!
+[21:02:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgeothermalgenerator
+[21:10:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfurnace
+[21:10:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m_rp
+[21:15:20] Server is shutting down/changing levels.
+
+
+
+[21:15:44] New map: rp_cscdesert_v2-1
+[21:18:54] Server is shutting down/changing levels.
+
+
+
+[21:19:06] New map: rp_cscdesert_v2-1
+[21:21:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgoldore
+[21:21:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfurnace
+[21:22:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate
+[21:23:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_sleepingbag
+[21:26:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[21:27:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:29:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezglass
+[21:29:30] RusLanConnection was killed by func_rotating
+[21:29:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfragnade
+[21:29:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfragnade
+[21:29:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfragnade
+[21:30:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlandmine
+[21:31:14] RusLanConnection killed RusLanConnection
+[21:31:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[21:34:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:34:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:34:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:34:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:34:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:34:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:34:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:34:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:36:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:37:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:37:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:37:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:37:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:37:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:37:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:37:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfirework
+[21:38:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezroadflare
+[21:38:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezflashbang
+[21:40:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[22:01:03] Server is shutting down/changing levels.
+
+
+
+[22:01:16] New map: gm_micronations
+[22:03:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[22:03:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:05:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_wespe
+[22:06:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz2c
+[22:08:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz3f
+[22:09:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:09:57] RusLanConnection suicided!
+[22:10:43] RusLanConnection suicided!
+[22:11:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:11:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[22:14:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_actaeon
+[22:15:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_knave
+[22:22:06] Server is shutting down/changing levels.
+
+
+
+[22:22:23] New map: gm_micronations
+[22:24:16] Server is shutting down/changing levels.
+
+
+
+[22:24:26] New map: gm_micronations
+[22:25:38] Server is shutting down/changing levels.
+
+
+
+[22:25:49] New map: gm_micronations
+[22:30:57] Server is shutting down/changing levels.
+
+
+
+[22:31:08] New map: gm_micronations
+[22:32:06] Server is shutting down/changing levels.
+
+
+
+[22:32:17] New map: gm_micronations
+[23:16:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgroundscanner
+[23:16:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgroundscanner
+[23:23:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+<Logging continued in "data/ulx_logs/07-28-24.txt">

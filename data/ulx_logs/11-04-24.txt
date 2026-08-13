@@ -1,0 +1,1151 @@
+[17:07:51] New map: bf_arid
+[17:13:27] Server is shutting down/changing levels.
+
+
+
+[17:13:55] New map: bf_arid
+[17:14:58] Client "RusLanConnection" connected.
+[17:15:19] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 21 seconds).
+[17:16:57] RusLanConnection<STEAM_0:0:238810681> spawned sent gb_bomb_mk82
+[17:17:28] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/blu/tanks/sherman.mdl
+[17:17:30] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/blu/tanks/sherman.mdl
+[17:17:58] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/blu/tanks/leopard2a7.mdl
+[17:18:13] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/gredwitch/t34/t34_1941.mdl
+[17:20:57] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/gredwitch/t34/t34_1941.mdl
+[17:21:21] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/vehicles_shelby/tanks/markv/markv.mdl
+[17:22:42] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/gredwitch/t95/t95.mdl
+[17:22:44] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/gredwitch/t14calliope/t14calliope.mdl
+[17:24:25] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/gredwitch/t35/t35.mdl
+[17:25:05] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/gredwitch/m4a3e2/m4a3e2.mdl
+[17:25:59] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/gredwitch/m16/m16.mdl
+[17:26:15] RusLanConnection<STEAM_0:0:238810681> spawned vehicle models/gredwitch/kv2/kv2.mdl
+[17:28:20] Server is shutting down/changing levels.
+
+
+
+[17:28:44] New map: bf_arid
+[17:31:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[17:31:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[17:31:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_br
+[17:32:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ssr
+[17:32:34] Server is shutting down/changing levels.
+
+
+
+[17:32:55] New map: bf_arid
+[17:34:02] Server is shutting down/changing levels.
+
+
+
+[17:41:32] New map: bf_arid
+[17:41:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_bar
+[17:42:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[17:42:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_lac
+[17:42:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_jmod_ezweapon_annabelle
+[17:42:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_lac
+[17:43:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bt7
+[17:43:34] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz742
+[17:43:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_base
+[17:43:45] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_su14_2
+[17:44:51] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_dodtiger
+[17:44:54] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:45:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[17:46:18] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_zis3
+[17:46:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_75mle1897
+[17:46:40] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_sa34
+[17:46:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[17:47:05] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_b1bis_axis
+[17:49:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_b1bis
+[17:49:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bmw_r75_upd
+[17:53:23] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_infantry
+[17:53:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_infantry
+[17:53:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_infantry
+[17:53:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_infantry
+[17:53:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_infantry
+[17:53:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_infantry
+[17:53:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_infantry
+[17:53:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_infantry
+[17:53:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_sdkfz251_infantry
+[17:53:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:32] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:32] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:32] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:32] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[17:53:37] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodsherman
+[17:53:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[17:56:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[17:56:10] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[17:56:10] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[17:56:48] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_m10
+[17:56:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodsherman
+[17:56:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[17:58:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[17:58:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[17:58:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[17:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[17:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[17:59:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:03:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[18:03:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[18:03:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:03:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:03:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:03:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:03:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[18:03:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezexplosives
+[18:03:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[18:03:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezprecparts
+[18:03:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[18:03:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[18:04:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[18:04:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[18:04:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[18:04:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[18:04:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[18:04:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[18:04:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[18:04:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[18:04:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[18:04:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[18:04:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[18:04:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[18:06:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[18:06:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[18:06:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[18:06:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[18:06:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[18:09:09] Client "vasya karata" connected.
+[18:10:31] Client "vasya karata" spawned in server <STEAM_0:0:814052183> (took 82 seconds).
+[18:10:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[18:10:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[18:10:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[18:11:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[18:11:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknade
+[18:11:18] RusLanConnection suicided!
+[18:11:18] RusLanConnection killed vasya karata using ent_jack_gmod_ezsticknade
+[18:11:36] RusLanConnection teleported to vasya karata
+[18:12:16] vasya karata: СДЕЛЙА СПАВНЕРЫ БЕЗ МЕДКИТОВ
+[18:12:23] vasya karata: ЧТОБЫ ПОСТАВИЛ
+[18:12:24] vasya karata: И ВСЕ
+[18:12:27] vasya karata: ПУСТЬ ЛОМАЮТ
+[18:15:05] vasya karata: КОГДА УМЕР НА СРО И ТЕБЯ ОГРАБИЛИ
+[18:15:27] vasya karata: ТАК КРУЧЕ
+[18:16:43] Client "Chupacabr" connected.
+[18:18:19] vasya karata: Я ЛЮБЛЮ ПЛЫВИСКИ
+[18:18:24] RusLanConnection: Я ЛЮБЛЮ ПЛЫВИСКИ
+[18:19:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgroundscanner
+[18:19:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[18:19:32] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 169 seconds).
+[18:20:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsteel
+[18:20:19] vasya karata: ЭТО ПРОГРЕСИВНАЯ ИДЕЯ МНОГО КТО НЕ ПОЙМЕТ
+[18:20:41] vasya karata: !MENU
+[18:20:51] RusLanConnection teleported to Chupacabr
+[18:20:51] vasya karata: !mENU
+[18:20:55] RusLanConnection teleported to vasya karata
+[18:20:57] RusLanConnection brought Chupacabr
+[18:21:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfurnace
+[18:21:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfurnace
+[18:22:28] vasya karata: ВСЯКАЯ СТАЛЬ
+[18:22:40] vasya karata: ГРУПА ИЗ Э 4 ЧЕЛОВЕК ПРОСТО НА СКРАУНДЖИТ
+[18:22:45] vasya karata: ИМ НАФИГ НЕНАДА ВАЩА БУР
+[18:22:48] vasya karata: И ПЕЧКИ ПРОСТ
+[18:23:42] vasya karata: НЕ ИЗ НАШЕЙ ФРАКЦИИ
+[18:24:25] Chupacabr: там вроде vtf  нада
+[18:25:52] Chupacabr killed vasya karata using wep_jack_gmod_flintlockmusket
+[18:26:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaugerdrill
+[18:28:08] Chupacabr killed vasya karata using wep_jack_gmod_flintlockmusket
+[18:29:12] Chupacabr killed vasya karata using wep_jack_gmod_flintlockmusket
+[18:29:46] vasya karata<STEAM_0:0:814052183> spawned NPC npc_rollermine
+[18:32:03] vasya karata<STEAM_0:0:814052183> spawned NPC npc_rollermine
+[18:32:27] vasya karata<STEAM_0:0:814052183> spawned NPC npc_metropolice
+[18:32:28] Chupacabr was killed by npc_metropolice
+[18:32:56] Chupacabr was killed by npc_rollermine
+[18:33:51] Chupacabr was killed by npc_rollermine
+[18:34:58] Chupacabr killed vasya karata using wep_jack_gmod_flintlockmusket
+[18:35:13] vasya karata: ПРОСТО В ПРИТЫК НЕ УБИЛ
+[18:35:17] vasya karata<STEAM_0:0:814052183> spawned NPC npc_stalker
+[18:35:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaugerdrill
+[18:35:36] vasya karata<STEAM_0:0:814052183> spawned NPC npc_metropolice
+[18:35:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[18:35:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[18:35:52] vasya karata<STEAM_0:0:814052183> spawned NPC npc_combine_s
+[18:35:54] Chupacabr killed vasya karata using wep_jack_gmod_flintlockmusket
+[18:36:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_cabr
+[18:36:52] Chupacabr killed vasya karata using weapon_shotgun
+[18:37:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[18:37:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[18:37:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[18:37:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[18:37:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[18:37:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[18:38:19] Chupacabr killed vasya karata using weapon_shotgun
+[18:38:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[18:38:51] RusLanConnection teleported to vasya karata
+[18:38:54] RusLanConnection teleported to Chupacabr
+[18:39:31] vasya karata froze Chupacabr
+[18:40:05] vasya karata: ЧТО С УРОНОМ
+[18:40:12] Chupacabr: я зафрижег
+[18:40:13] vasya karata unfroze Chupacabr
+[18:40:17] vasya karata: НИГЕР
+[18:40:28] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_mrl
+[18:40:38] RusLanConnection teleported to vasya karata
+[18:40:45] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_hl2_rebel_hunter
+[18:40:46] Chupacabr killed vasya karata using npc_grenade_frag
+[18:40:48] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_hl2_civilian_prewargolf
+[18:40:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodkuebelwagen_mg
+[18:40:53] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_mrl
+[18:41:16] Chupacabr killed vasya karata using weapon_shotgun
+[18:41:52] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_amr
+[18:42:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[18:42:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[18:42:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[18:42:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[18:42:14] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_mgl
+[18:42:31] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[18:42:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_aboot_gmod_ezshippingcontainer
+[18:42:48] Chupacabr was killed by ent_jack_gmod_ezprojectilenade
+[18:43:00] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_flb
+[18:43:04] Chupacabr killed vasya karata using wep_jack_gmod_blunderbuss
+[18:43:38] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_ssr
+[18:43:43] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[18:43:44] vasya karata was killed by ent_jack_gmod_ezprojectilenade
+[18:43:56] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_ssr
+[18:44:01] vasya karata was killed by ent_jack_gmod_ezprojectilenade
+[18:44:08] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_ssr
+[18:44:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedkit
+[18:44:47] Chupacabr killed vasya karata using wep_jack_gmod_ssr
+[18:44:57] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[18:45:10] vasya karata killed Chupacabr using wep_jack_gmod_pocketpistol
+[18:46:15] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaxe
+[18:46:38] vasya karata killed Chupacabr using wep_jack_gmod_ezaxe
+[18:47:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaugerdrill
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_lab/jar01b.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/xqm/airplanewheel1.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_lab/monitor01b.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/xqm/airplanewheel1.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate075.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_lab/monitor02.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_lab/reciever01a.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnitureshelf001b.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_lab/monitor02.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/mechanics/wheels/wheel_smooth_18r.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/trappropeller_lever.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_junk/propane_tank001a.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_lab/clipboard.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_canal/mattpipe.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned vehicle models/nova/airboat_seat.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/trappropeller_lever.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_junk/popcan01a.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate075.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_junk/popcan01a.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/mechanics/wheels/wheel_smooth_18r.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/xqm/airplanewheel1.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnitureshelf001b.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_canal/mattpipe.mdl
+[18:47:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_junk/popcan01a.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_borealis/door_wheel001a.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/squad/sf_bars/sf_bar1.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/squad/sf_bars/sf_bar1.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_junk/popcan01a.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/mechanics/wheels/wheel_smooth_18r.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnitureshelf001b.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_canal/mattpipe.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_junk/cardboard_box004a.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_canal/mattpipe.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnitureshelf001a.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/xqm/airplanewheel1.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned vehicle models/nova/airboat_seat.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/computer01_keyboard.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_lab/reciever01d.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/furnituredrawer001a_chunk03.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_lab/monitor02.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_lab/clipboard.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_lab/jar01b.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/mechanics/wheels/wheel_smooth_18r.mdl
+[18:47:57] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/tools_wrench01a.mdl
+[18:48:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[18:48:15] vasya karata: ЕДУ НА МЕТАЛАЛОМ
+[18:48:19] vasya karata: ТОЕСТО НА ПЛАСТИК
+[18:48:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[18:48:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[18:48:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_fumo_gmod_cratepack
+[18:48:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[18:49:15] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[18:49:16] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[18:49:47] Chupacabr: нада их хл пилу
+[18:49:53] Chupacabr: из хл пилу
+[18:50:03] vasya karata<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezpowertools
+[18:50:05] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[18:50:30] vasya karata: ОНО ЛОМАЕТ ЧТООО
+[18:50:41] vasya karata: А ВО
+[18:50:52] vasya karata: ТРУБА
+[18:50:54] vasya karata: СИНИЕ ДЕТАИ
+[18:51:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_flametank
+[18:51:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_phx/misc/iron_beam1.mdl
+[18:51:56] vasya karata<STEAM_0:0:814052183> spawned model models/xqm/cylinderx1.mdl
+[18:51:56] vasya karata<STEAM_0:0:814052183> spawned model models/xqm/cylinderx1.mdl
+[18:51:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/trappropeller_lever.mdl
+[18:51:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/trappropeller_lever.mdl
+[18:51:56] vasya karata<STEAM_0:0:814052183> spawned model models/xqm/cylinderx1.mdl
+[18:51:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_wasteland/laundry_cart002.mdl
+[18:51:56] vasya karata<STEAM_0:0:814052183> spawned model models/xqm/cylinderx1.mdl
+[18:51:56] vasya karata<STEAM_0:0:814052183> spawned model models/props_c17/suitcase001a.mdl
+[18:52:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[18:52:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[18:52:28] vasya karata: РИЛИ ПО АРИД С ТАКОЙ ХОДИТЬ
+[18:52:30] vasya karata: КАК БОМЖ 
+[18:52:53] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznutrients
+[18:52:54] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedsupplies
+[18:54:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate075.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate075.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate075.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate075.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate075.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate075.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate075.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate075.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05x05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate4x4.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05x05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate05.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:24] vasya karata<STEAM_0:0:814052183> spawned model models/hunter/plates/plate.mdl
+[18:54:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_flametank
+[18:54:52] vasya karata: НЕТ СЕКРЕТКИ
+[18:54:56] vasya karata: ПОД РАЗБОР
+[18:55:19] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[18:56:02] vasya karata: НАДОЕЛО
+[18:56:04] Chupacabr: ты что наделол
+[18:56:13] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_revolver
+[18:56:19] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_car
+[18:56:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_flametank
+[18:57:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_car
+[18:57:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_shotrevolver
+[18:59:28] Chupacabr was killed by entityflame
+[19:00:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:01:41] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[19:02:39] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:04:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[19:04:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[19:04:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[19:07:17] RusLanConnection teleported to vasya karata
+[19:07:34] Client "RostislavPraviySector" connected.
+[19:10:35] Client "RostislavPraviySector" spawned in server <STEAM_0:1:736260981> (took 181 seconds).
+[19:11:13] RusLanConnection teleported to RostislavPraviySector
+[19:11:45] RusLanConnection teleported to RostislavPraviySector
+[19:13:29] RusLanConnection: playermodel_selector 
+[19:13:45] RostislavPraviySector: впа
+[19:15:38] RusLanConnection: jmod_ez_inv 
+[19:15:52] RostislavPraviySector: авы
+[19:26:49] Client "BriceMashiro" connected.
+[19:26:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[19:26:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[19:26:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[19:26:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[19:26:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[19:26:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmedsupplies
+[19:28:08] vasya karata: ПРИВЕТ
+[19:28:18] vasya karata: ВЧЕРА ЛЮДЕЙ ПО ТЕЛЕФОНУ ОБМАНЫВАЛ
+[19:28:29] vasya karata: С РУСЛАНОМ
+[19:28:33] vasya karata: НАС 4 БЫЛО
+[19:29:51] RusLanConnection teleported vasya karata
+[19:29:57] vasya karata suicided!
+[19:30:48] RusLanConnection brought RostislavPraviySector
+[19:33:20] RusLanConnection: jmod_ez_econ
+[19:33:33] RostislavPraviySector: FD
+[19:37:53] vasya karata: Я ЛЮБЛЮ ПЛЫВИСКИ
+[19:39:48] Client "pojn87" connected.
+[19:42:31] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 163 seconds).
+[19:44:27] pojn87: !Clans
+[19:45:39] pojn87: !menu
+[19:45:49] Dropped "pojn87" from server<STEAM_0:1:490319581>
+[19:45:50] Client "pojn87" connected.
+[19:46:11] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 21 seconds).
+[19:46:46] pojn87 to vasya karata: какая команда для кланов
+[19:46:58] (TEAM) vasya karata: КНОПКА Ф4
+[19:47:08] vasya karata: !MENU
+[19:47:25] vasya karata to pojn87: F4
+[19:47:41] pojn87 to vasya karata: sapsino
+[19:47:44] pojn87 to vasya karata: spasibo
+[19:50:06] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedsupplies
+[19:50:23] vasya karata: ВО
+[19:53:53] vasya karata: ГЕОТЕРМАЛ
+[19:56:34] Client "BriceMashiro" connected.
+[19:58:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpickaxe
+[19:59:58] Client "BriceMashiro" connected.
+[20:01:02] vasya karata: РУСЛАН ОКАЗАЛСЯ БЫСТРЕЕ
+[20:01:15] vasya karata: ТЕПЕРЬ НЕНУЖНО ПЕРЕПЛАВТЯТЬ
+[20:01:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammobox_bppc
+[20:01:16] vasya karata: РЕСЫ
+[20:01:19] vasya karata: ОНИ СРАЗУ 
+[20:01:21] vasya karata: ВЫКАПЫВАЮТСЯ
+[20:01:25] vasya karata: САМОРОДКАМИ
+[20:01:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_bar
+[20:02:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[20:02:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezweapon_ar
+[20:03:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezpowerbank
+[20:03:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezworkbench
+[20:03:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsfg
+[20:04:23] RusLanConnection: fkt
+[20:04:25] RusLanConnection: але
+[20:04:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaidradio
+[20:04:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[20:04:41] RusLanConnection: але
+[20:04:48] RusLanConnection: прием
+[20:04:54] RostislavPraviySector: GHBTV
+[20:04:58] vasya karata: АЛЕ
+[20:04:59] RostislavPraviySector: прием
+[20:04:59] RusLanConnection: прием
+[20:05:02] RusLanConnection: отличчно
+[20:05:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[20:05:35] vasya karata: ЗАРАБОТАЕМ НЕМНОГО ДЕНЕГ
+[20:05:41] vasya karata: ПОСТАВИМ ТАМ В УЩЕЛЬЕ МИНЫ
+[20:05:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[20:06:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[20:06:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[20:06:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_gmod_ezpowerline
+[20:06:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_gmod_ezpowerline
+[20:06:46] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_gmod_ezpowerline
+[20:07:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezaugerdrill
+[20:07:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[20:07:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[20:07:22] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[20:07:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[20:07:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[20:08:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:09:04] vasya karata: В УЩЕЛЕ
+[20:10:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:10:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:11:21] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:12:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:13:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:14:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:14:40] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:14:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:15:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:15:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[20:16:09] vasya karata: ДАВАЙ
+[20:16:51] vasya karata: А Я НЕЗНАЮ ЧО ОН НЕ РАБИТ
+[20:17:19] vasya karata: ВО
+[20:17:38] vasya karata: НА МЕДЬ ШЛО ВСЕ
+[20:18:23] vasya karata killed pojn87 using player
+[20:20:17] vasya karata: НЕТ
+[20:20:49] vasya karata: БУДУТ ГРАНАТОМЕТЫ
+[20:25:11] vasya karata: МЫ САМИ КОГО ХОЧ УБЬЕМ
+[20:27:42] vasya karata: У НАС ГРАНАТАМЕТНЫЕ ТУРЕЛИ!
+[20:28:02] vasya karata: АРАБА НА КОЛЕНКЕ
+[20:28:06] vasya karata: ПРОДАЛ
+[20:28:10] vasya karata: ДА НЕ ТО
+[20:28:17] vasya karata: АРАБЫ НА КОЛЕНКЕ ГРАНАТЫ СДЕЛАЛМИ \
+[20:28:31] vasya karata: НУ А ЧЕ ИМ ДЕЛАТЬ ТО ИЩО
+[20:29:03] vasya karata: ВОДА?Ъ
+[20:29:27] vasya karata: ВРЕШ НЕТ ВОДЫ
+[20:29:44] vasya karata: ТУТ МЕД
+[20:29:53] vasya karata: КОПЕР
+[20:29:59] vasya karata: В АМЕРИКЕ
+[20:30:14] vasya karata: ТРАМП
+[20:30:21] vasya karata: МОЙ ШТАТ КРАСНЫЕ
+[20:30:33] vasya karata: ЭТО КОТОРЫЕ ЗА НЕГРОВ ВОЕВАЛИ
+[20:30:47] vasya karata: НУ А Я ПРО ЧТО
+[20:30:51] vasya karata: ЧТОБЫ НЕГРЫ ОСТАЛИСЬ
+[20:30:55] vasya karata: ДА КРАСН
+[20:31:04] vasya karata: У МЕНЯ
+[20:31:06] vasya karata: НА ГАЗОНЕ
+[20:31:13] vasya karata: ЗНАЛ
+[20:31:49] vasya karata: МОЖНО ПОЗВАТЬ
+[20:32:14] vasya karata: ТЫ НЕ ВИДЕЛ ВИДЕО РАНЬШЕ СНИМАЛИ
+[20:32:24] vasya karata: ГДЕ ГОРОД ЛАБИРИНТ
+[20:32:31] vasya karata: А ЕСЛИ КУЧЕ
+[20:32:33] vasya karata: НУ ВСЕ ТОГДА
+[20:32:39] vasya karata: НУ ТАМ ЯДЕРНЫХ ВОЙН НЕБЫЛО СНЯТО
+[20:32:41] vasya karata: НО ОНИ БЫЛИ
+[20:33:12] vasya karata: ЭТО МОЕГО ДРУГА РАЗБОМБИЛИ
+[20:33:15] vasya karata: НУ ТАК ЕМУ И НАДО
+[20:33:31] vasya karata: ЗНАЮ У МЕНЯ ДРУГ СКИНХЕД
+[20:33:44] vasya karata: НОРМАЛЬНО
+[20:33:52] vasya karata: ЕСТЬ МОДЕЛКИ В СТИМЕ?
+[20:34:18] vasya karata: ПОПРОСИ РУСЛАНА ОН ПОМОЖЕТ
+[20:34:19] vasya karata: ЗНАЮ
+[20:34:49] vasya karata: ПРИКОЛ
+[20:35:09] vasya karata: ЧУРКИ
+[20:35:28] vasya karata: Я ЩАС
+[20:41:31] vasya karata: НЕФТЬ РЯДОМ ЕСТ?
+[20:42:28] vasya karata: ОНИ ЧУЧУТЬ ВИДНЫ
+[20:42:36] vasya karata: О КРУТО РАДАР
+[20:42:38] vasya karata: ВИДИТ
+[20:42:41] vasya karata: МИНЫ
+[20:43:31] vasya karata: ПОМОЕМУ УЖЕ
+[20:43:48] vasya karata: ЗНАЧИТ КРАФТИЬ
+[20:44:14] vasya karata: ТАНК АММО
+[20:47:31] vasya karata: 2221 9550
+[20:47:35] vasya karata: ПОПРОБУЙ
+[20:48:18] vasya karata: ЖЕСТЬ 
+[20:48:21] vasya karata: ОТДАЧА
+[20:49:44] Dropped "RostislavPraviySector" from server<STEAM_0:1:736260981>
+[20:51:23] vasya karata<STEAM_0:0:814052183> spawned sent lvs_trailer_sa34
+[20:51:29] vasya karata<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[20:51:41] pojn87: Я ПОЕСТЬ ОТОЙДУ
+[20:51:43] vasya karata: СТОИТ ЛИ ДЕЛАТЬ
+[20:51:47] vasya karata: ПРОТИВОТАНКУВУ
+[20:52:31] vasya karata killed pojn87 using lvs_trailer_sa34
+[20:52:51] vasya karata suicided!
+[20:54:50] vasya karata suicided!
+[20:55:11] vasya karata<STEAM_0:0:814052183> spawned sent ent_rus_spawnbase
+[20:55:17] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedsupplies
+[20:55:19] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedsupplies
+[20:55:22] vasya karata suicided!
+[20:55:30] vasya karata suicided!
+[20:55:37] vasya karata suicided!
+[20:56:37] vasya karata suicided!
+[20:56:58] vasya karata suicided!
+[20:57:31] vasya karata suicided!
+[20:57:55] vasya karata suicided!
+[20:58:32] RusLanConnection teleported to vasya karata
+[20:58:39] vasya karata: 5 МИНУТ НЕ ДОЖДАЛСЯ
+[20:58:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsentry
+[20:59:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[20:59:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:00:25] vasya karata<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider
+[21:00:44] vasya karata<STEAM_0:0:814052183> spawned sent lvs_trailer_75mle1897
+[21:00:48] vasya karata: ААА ВООО
+[21:00:53] vasya karata: НЕ ТУ СМОТРЕЛИ
+[21:01:06] vasya karata<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[21:01:18] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[21:01:49] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[21:01:49] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[21:02:00] vasya karata: ЧТОООО
+[21:02:27] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[21:02:27] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[21:02:27] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezifakpacket
+[21:02:40] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[21:03:23] vasya karata suicided!
+[21:04:09] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezshovel
+[21:04:41] pojn87 was killed by ent_jack_gmod_ezsentry
+[21:04:57] vasya karata was killed by ent_jack_gmod_ezsentry
+[21:05:08] RusLanConnection was killed by ent_jack_gmod_ezsentry
+[21:05:09] vasya karata was killed by ent_jack_gmod_ezsentry
+[21:05:16] RusLanConnection teleported to vasya karata
+[21:05:19] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedsupplies
+[21:05:21] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmedsupplies
+[21:05:27] pojn87 was killed by ent_jack_gmod_ezsentry
+[21:05:29] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezmunitions
+[21:05:33] vasya karata killed RusLanConnection using env_explosion
+[21:05:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[21:05:40] RusLanConnection teleported to vasya karata
+[21:05:51] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[21:06:00] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[21:06:54] vasya karata: Я ЧЕЛОВЕК КОТОРЫЙ МОЖЕТ ГОВОРИТЬ НЕТ
+[21:07:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsentry
+[21:07:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbattery
+[21:07:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[21:07:21] vasya karata was killed by ent_jack_gmod_ezsentry
+[21:07:29] RusLanConnection was killed by ent_jack_gmod_ezsentry
+[21:07:37] RusLanConnection teleported to vasya karata
+[21:07:41] vasya karata: А ВС
+[21:07:55] vasya karata: ОНА МАЛО
+[21:07:57] vasya karata: НАНОСТ
+[21:08:04] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[21:08:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[21:08:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[21:08:24] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[21:08:24] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[21:08:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[21:08:40] RusLanConnection killed vasya karata using lvs_trailer_75mle1897
+[21:08:40] RusLanConnection killed pojn87 using lvs_trailer_75mle1897
+[21:10:18] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[21:10:34] pojn87 was killed by ent_jack_gmod_ezsentry
+[21:11:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_flak
+[21:11:37] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_pak40
+[21:12:35] RusLanConnection killed vasya karata using wep_jack_gmod_pas
+[21:12:49] pojn87 killed RusLanConnection using wep_jack_gmod_pas
+[21:13:21] RusLanConnection teleported to pojn87
+[21:13:47] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:14:27] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:14:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:15:05] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_compressor
+[21:15:10] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_transmission_automatic
+[21:15:17] vasya karata: ТАЧКА НА ПРОКАЧКУ
+[21:15:19] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_turbo
+[21:16:21] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:16:50] vasya karata<STEAM_0:0:814052183> spawned model models/maxofs2d/companion_doll.mdl
+[21:16:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:16:59] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[21:17:07] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[21:17:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:18:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:18:13] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbeartrap
+[21:18:31] vasya karata<STEAM_0:0:814052183> spawned model models/maxofs2d/lamp_projector.mdl
+[21:18:44] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:18:54] Dropped "pojn87" from server<STEAM_0:1:490319581>
+[21:19:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:21:12] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[21:21:33] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_bm13
+[21:21:37] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_rp_b1bis_axis
+[21:22:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:22:34] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknade
+[21:22:41] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:23:10] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[21:23:30] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_fiat_621
+[21:23:33] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_citroen_type23
+[21:23:41] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezatmine
+[21:24:17] vasya karata killed vasya karata
+[21:24:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:24:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm31
+[21:24:34] vasya karata<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[21:24:45] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezatmine
+[21:25:58] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[21:25:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm31
+[21:26:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:26:26] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezlandmine
+[21:26:44] vasya karata<STEAM_0:0:814052183> spawned model models/chairs/armchair.mdl
+[21:26:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:27:07] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[21:27:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:27:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:27:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:27:09] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:27:38] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eznuke_small
+[21:27:46] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezrocketmotor
+[21:27:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:28:02] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:28:22] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdetpack
+[21:28:28] vasya karata suicided!
+[21:29:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:29:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:29:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:32:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:32:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezgas
+[21:32:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[21:33:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_wespe
+[21:34:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:34:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:34:46] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:35:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:35:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:35:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:38:06] Client "pojn87" connected.
+[21:38:12] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:38:18] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:38:34] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 28 seconds).
+[21:41:13] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:43:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:43:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:44:41] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:45:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:45:33] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:45:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:46:12] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:46:34] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:46:47] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:46:55] vasya karata: ПОГРЕШНОСТ
+[21:47:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:47:09] vasya karata: А
+[21:47:13] vasya karata: В ОЧРЕД
+[21:47:17] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezdynamite
+[21:47:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:47:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:47:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:47:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:48:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:48:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:48:40] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_t34_43
+[21:48:49] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:48:56] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodhalftrack_us
+[21:49:02] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:49:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:50:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:50:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:50:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:51:02] vasya karata killed pojn87 using lvs_wheeldrive_dodhalftrack_us
+[21:51:49] vasya karata killed RusLanConnection using lvs_wheeldrive_dodhalftrack_us
+[21:52:03] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:52:16] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:52:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:52:54] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:53:21] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[21:53:23] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[21:53:33] RusLanConnection set the hp for Everyone to 100
+[21:53:46] RusLanConnection teleported to vasya karata
+[21:53:47] vasya karata<STEAM_0:0:814052183> spawned sent ent_aboot_gmod_ezshippingcontainer
+[21:53:49] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[21:53:50] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[21:53:50] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[21:53:50] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[21:53:59] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezworkbench
+[21:54:05] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfabricator
+[21:54:09] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowerbank
+[21:54:12] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaugerdrill
+[21:54:13] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezaugerdrill
+[21:54:18] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowerbank
+[21:54:19] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowerbank
+[21:54:20] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowerbank
+[21:54:21] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezpowerbank
+[21:54:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:25] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:28] vasya karata<STEAM_0:0:814052183> spawned sent ent_rus_gmod_ezpowerline
+[21:54:31] vasya karata<STEAM_0:0:814052183> spawned sent ent_rus_gmod_ezpowerline
+[21:54:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_jsmod_pipe
+[21:54:37] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[21:54:38] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[21:54:39] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[21:54:40] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[21:54:41] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[21:54:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlfg
+[21:54:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlfg
+[21:54:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlfg
+[21:54:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlfg
+[21:54:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlfg
+[21:54:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlfg
+[21:54:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlfg
+[21:54:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezlfg
+[21:54:51] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:54:56] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:54:59] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:04] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:07] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:55:15] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:18] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:22] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:25] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:30] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:33] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:37] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:39] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:42] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:44] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:55:46] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[21:56:36] vasya karata<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider
+[21:56:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:56:55] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:57:35] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[21:57:54] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[21:58:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:58:43] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:58:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:58:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:58:48] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[21:58:50] vasya karata<STEAM_0:0:814052183> spawned model models/maxofs2d/thruster_projector.mdl
+[21:59:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[22:01:16] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_lab/blastdoor001c.mdl
+[22:02:10] vasya karata: ДА
+[22:02:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[22:02:56] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:03:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[22:03:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[22:03:32] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:04:21] vasya karata<STEAM_0:0:814052183> spawned sent lvs_trailer_75mle1897
+[22:04:22] vasya karata<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider
+[22:04:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[22:04:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[22:04:24] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:04:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[22:04:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmunitions
+[22:04:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[22:04:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[22:04:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[22:04:42] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:04:44] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:04:46] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:06:23] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:06:27] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezplastic
+[22:06:28] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:06:32] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:06:35] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[22:06:43] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:06:56] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[22:06:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[22:07:47] vasya karata: ЭТО СМЕРТЕЛЬНО
+[22:07:55] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbasicparts
+[22:07:59] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_eztoolbox
+[22:08:07] RusLanConnection teleported to pojn87
+[22:08:31] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:09:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[22:09:49] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:10:20] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[22:10:33] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:10:47] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[22:10:48] vasya karata was killed by lvs_trailer_schneider
+[22:11:17] vasya karata<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider
+[22:11:21] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:11:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[22:12:10] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:12:54] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:13:08] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:13:27] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:13:45] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:13:56] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:14:07] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:14:21] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:14:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[22:14:33] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[22:14:35] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:14:50] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:15:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[22:15:32] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:15:39] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[22:15:53] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:16:04] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:16:09] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:17:05] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:17:21] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_pz1bison
+[22:17:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodsherman
+[22:17:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:17:55] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:18:21] vasya karata<STEAM_0:0:814052183> spawned sent lvs_trailer_75mle1897
+[22:18:29] vasya karata<STEAM_0:0:814052183> spawned sent lvs_trailer_schneider
+[22:18:40] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_su14_2
+[22:18:46] vasya karata<STEAM_0:0:814052183> spawned sent lvs_trailer_75mle1897
+[22:18:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_t35
+[22:18:51] pojn87 killed vasya karata using lvs_renaultft_m
+[22:19:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_b1bis_axis
+[22:19:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:19:20] vasya karata: А ЕЩЕ НА НЕМ СВАСТОН
+[22:19:30] Dropped "pojn87" from server<STEAM_0:1:490319581>
+[22:19:30] vasya karata: А ЕЩЕ СВАСТОН
+[22:19:31] Client "pojn87" connected.
+[22:19:54] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 23 seconds).
+[22:20:01] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_rp_b1bis
+[22:20:28] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:20:44] vasya karata<STEAM_0:0:814052183> spawned sent lvs_renaultft_m
+[22:22:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodsherman
+[22:22:15] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:22:19] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[22:22:33] vasya karata killed RusLanConnection using lvs_wheeldrive_rp_b1bis
+[22:23:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:23:03] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:23:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:23:47] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:24:25] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_rp_b1bis
+[22:24:34] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:24:37] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_b1bis
+[22:24:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_b1bis_axis
+[22:25:23] vasya karata: АХТУНГ ПАНЗЕР!
+[22:25:30] vasya karata: КНИГА ТАКАЯ ЕСТЬ
+[22:25:33] vasya karata: ВОЕНАЯ
+[22:26:13] pojn87 was killed by lvs_wheeldrive_rp_b1bis
+[22:26:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_t35_1939
+[22:33:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_uc_bren
+[22:33:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_uc_bren
+[22:34:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodhalftrack_us
+[22:34:34] RusLanConnection teleported to vasya karata
+[22:34:40] vasya karata: СЮДА
+[22:34:42] vasya karata: КОРДИНАТЫ
+[22:35:04] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_b1bis
+[22:35:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_b1bis_axis
+[22:35:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_rp_b1bis_axis
+[22:36:23] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[22:38:02] vasya karata: ЧЕ ТАМ ЧЕ ТАМ
+[22:38:27] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[22:38:28] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[22:38:28] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[22:39:25] vasya karata: ООО
+[22:39:27] vasya karata: ОНО УБИЛО
+[22:39:37] vasya karata: ВЫ ВИДИТИ?
+[22:39:38] vasya karata: ОНО
+[22:39:42] vasya karata: МАШИНЫ УБИВАЕТ
+[22:39:51] vasya karata: ЖЕСТЬ
+[22:39:54] vasya karata: РЕАЛЬНО САПЕРНЫЙ
+[22:40:32] vasya karata<STEAM_0:0:814052183> spawned sent lvs_trailer_75mle1897
+[22:41:00] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:41:09] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:41:19] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:41:25] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:41:32] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[22:41:45] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:41:45] Dropped "pojn87" from server<STEAM_0:1:490319581>
+[22:41:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:41:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:42:00] vasya karata: ПО КАСАТЕЛЬНОЙ
+[22:42:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:42:05] vasya karata: В МАН ОФ ВАР ТАК ЖЕ НЕУБИЛО БЫ
+[22:42:08] vasya karata: О
+[22:42:09] vasya karata: НИГА
+[22:42:13] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:42:13] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezstickynade
+[22:42:17] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:42:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:42:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:42:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:42:37] Client "pojn87" connected.
+[22:42:41] RusLanConnection killed vasya karata
+[22:43:00] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_pz1munition
+[22:43:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[22:43:14] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_t70
+[22:43:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:43:20] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:43:23] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:43:28] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_pz1bison
+[22:43:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:43:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsticknadebundle
+[22:44:02] Client "pojn87" spawned in server <STEAM_0:1:490319581> (took 85 seconds).
+[22:45:19] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[22:45:46] vasya karata: НИЧЕГО НЕ ОСТАЛОСЬ
+[22:45:49] vasya karata: ОТ ТУРЕЛ
+[22:45:52] vasya karata: С ПЕСКО
+[22:46:10] vasya karata killed RusLanConnection using lvs_bomb
+[22:46:35] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_pz1jager
+[22:46:38] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_pz1jager
+[22:47:02] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_sherman_firefly
+[22:47:29] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_wespe
+[22:48:29] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodkuebelwagen_mg
+[22:49:23] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_su14_2
+[22:50:52] vasya karata killed RusLanConnection using lvs_bomb
+[22:51:07] vasya karata killed pojn87 using lvs_bomb
+[22:51:07] vasya karata killed RusLanConnection using lvs_bomb
+[22:51:57] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_t35
+[22:52:21] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_bm13
+[22:52:30] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_gaz_aaa_4m
+[22:52:40] vasya karata killed pojn87 using lvs_wheeldrive_gaz_aaa_4m
+[22:53:38] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[22:53:52] vasya karata killed pojn87 using lvs_wheeldrive_gaz_aaa_4m
+[22:54:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[22:54:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[22:54:17] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[22:54:30] vasya karata killed pojn87 using lvs_wheeldrive_gaz_aaa_4m
+[22:54:51] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[22:55:06] vasya karata killed RusLanConnection using lvs_wheeldrive_gaz_aaa_4m
+[22:56:52] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodkuebelwagen_mg
+[22:57:15] vasya karata: НУ КАК ТАК 
+[22:57:22] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[22:57:39] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgas
+[22:58:14] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodwillyjeep_mg
+[22:58:16] vasya karata: ВО
+[22:58:22] vasya karata: АМЕРИКАНЦЫ ДЕЛАЛИ НА СОВЕТЭ
+[22:58:38] vasya karata: ЗВУК ОСТООЙН
+[22:58:40] vasya karata killed RusLanConnection using lvs_wheeldrive_dodwillyjeep_mg
+[22:59:00] vasya karata: ТАК ПОЕХАЛИ
+[22:59:06] vasya karata: РАЗ ЕДЕТСЯ
+[22:59:50] vasya karata<STEAM_0:0:814052183> spawned model models/chairs/armchair.mdl
+[22:59:54] pojn87 killed vasya karata using lvs_wheeldrive_dodwillyjeep_mg
+[23:01:21] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezgas
+[23:01:51] pojn87: /me кинул зи
+[23:02:29] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[23:02:36] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[23:02:39] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:03:27] vasya karata: НАНАФИГ
+[23:03:30] vasya karata: РАЗДАВИЛ
+[23:03:39] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[23:03:41] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezfuel
+[23:04:16] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[23:04:19] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:04:23] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:04:26] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:04:29] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:04:32] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:04:35] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:04:39] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[23:04:41] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:04:47] vasya karata<STEAM_0:0:814052183> spawned sent item_healthkit
+[23:04:48] vasya karata<STEAM_0:0:814052183> spawned sent item_healthkit
+[23:04:49] vasya karata<STEAM_0:0:814052183> spawned sent item_healthkit
+[23:04:49] vasya karata<STEAM_0:0:814052183> spawned sent item_healthkit
+[23:05:42] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:05:43] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:05:48] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:05:52] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:05:54] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:05:57] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsand
+[23:06:03] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezsentry
+[23:06:08] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezbattery
+[23:06:11] vasya karata<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezammo
+[23:06:26] vasya karata<STEAM_0:0:814052183> spawned sent lvs_wheeldrive_dodkuebelwagen_mg
+[23:11:58] RusLanConnection teleported to vasya karata
+[23:12:06] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[23:12:30] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:12:43] vasya karata<STEAM_0:0:814052183> spawned NPC npc_metropolice
+[23:12:46] vasya karata<STEAM_0:0:814052183> spawned NPC npc_metropolice
+[23:13:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:13:05] vasya karata: НАСТОЯЩИ РЕБЕЛ
+[23:13:12] vasya karata<STEAM_0:0:814052183> spawned NPC npc_metropolice
+[23:13:38] vasya karata<STEAM_0:0:814052183> spawned NPC npc_combine_s
+[23:13:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[23:13:51] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:13:53] vasya karata: ПТЪ
+[23:13:56] RusLanConnection killed vasya karata using lvs_trailer_schneider
+[23:13:56] vasya karata: ПТ ПУШКУ
+[23:14:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[23:14:01] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_75mle1897
+[23:14:23] vasya karata: УРОН ПТ
+[23:14:25] vasya karata: ПУШКУ
+[23:14:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_schneider
+[23:14:32] vasya karata: ОНА ДОЛГО КОВЫРЯЕТ
+[23:14:43] vasya karata: И МОЖЕТ НЕ ПРОБИТЬ СПЕРВЫЙ ТАНК
+[23:14:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_75mle1897
+[23:14:48] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[23:15:08] vasya karata: ЩА
+[23:15:15] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[23:15:22] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[23:15:29] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[23:15:34] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[23:15:40] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[23:15:43] RusLanConnection killed pojn87 using lvs_renaultft_m
+[23:15:49] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammocrate
+[23:16:00] vasya karata: МОЖЕТ
+[23:16:01] vasya karata: МАГАЗИГ
+[23:16:05] vasya karata: МАГАЗИН НА ТРИ
+[23:16:09] vasya karata: ПАТОРОНА ПУШЕ
+[23:16:13] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:16:16] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:16:24] vasya karata: ОК
+[23:16:40] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[23:16:42] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[23:16:42] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[23:16:42] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[23:16:42] vasya karata<STEAM_0:0:814052183> spawned sent lvs_item_ammo
+[23:16:54] vasya karata: ВСЕТАКИ
+[23:17:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:18:36] vasya karata<STEAM_0:0:814052183> spawned sent item_healthkit
+[23:18:37] vasya karata<STEAM_0:0:814052183> spawned sent item_healthkit
+[23:18:45] vasya karata: 100
+[23:18:47] vasya karata: ОЧ ДАЛЕКО
+[23:18:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:18:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:18:59] vasya karata: УЖЕ БЛИЖЕ НО СТО
+[23:19:01] RusLanConnection killed vasya karata using lvs_trailer_75mle1897
+[23:19:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_wheeldrive_dodtiger
+[23:19:48] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:20:16] RusLanConnection teleported vasya karata
+[23:20:19] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:20:27] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:20:37] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:20:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[23:22:31] RusLanConnection<STEAM_0:0:238810681> spawned sent item_healthkit
+[23:22:31] RusLanConnection<STEAM_0:0:238810681> spawned sent item_healthkit
+[23:22:31] RusLanConnection<STEAM_0:0:238810681> spawned sent item_healthkit
+[23:22:31] RusLanConnection<STEAM_0:0:238810681> spawned sent item_healthkit
+[23:22:31] RusLanConnection<STEAM_0:0:238810681> spawned sent item_healthkit
+[23:22:32] RusLanConnection<STEAM_0:0:238810681> spawned sent item_healthkit
+[23:22:32] RusLanConnection<STEAM_0:0:238810681> spawned sent item_healthkit
+[23:22:40] pojn87 killed RusLanConnection using lvs_renaultft_m
+[23:22:49] RusLanConnection teleported to vasya karata
+[23:22:57] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_75mle1897
+[23:23:01] RusLanConnection killed vasya karata using player
+[23:23:04] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:23:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_ammo
+[23:23:44] pojn87 killed RusLanConnection using lvs_renaultft_m
+[23:26:45] Dropped "vasya karata" from server<STEAM_0:0:814052183>
+[23:26:49] Server is shutting down/changing levels.

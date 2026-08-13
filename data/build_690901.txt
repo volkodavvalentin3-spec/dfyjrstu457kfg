@@ -1,0 +1,2605 @@
+{
+	"build": {
+		"477": {
+			"childs": [
+				453
+			],
+			"pos": "[7184.6895 -977.7917 899.7798]",
+			"skin": 1,
+			"id": 477,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/roof03.mdl",
+			"support": false,
+			"typ": 5
+		},
+		"503": {
+			"childs": [
+				411
+			],
+			"pos": "[6864.4287 -677.9742 699.6932]",
+			"skin": 1,
+			"id": 503,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/windowthin03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"505": {
+			"childs": [],
+			"pos": "[6632.4399 -1120.4142 653.3021]",
+			"skin": 0,
+			"id": 505,
+			"ang": "{0 -175 0}",
+			"model": "models/jmod_construction/vasily_bust.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"504": {
+			"childs": [
+				27,
+				503
+			],
+			"pos": "[6864.4287 -677.9742 827.6932]",
+			"skin": 1,
+			"id": 504,
+			"ang": "{-0 180 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"507": {
+			"childs": [],
+			"pos": "[6628.6411 -1069.7556 653.3021]",
+			"skin": 0,
+			"id": 507,
+			"ang": "{0 -180 0}",
+			"model": "models/jmod_construction/vasily_bust.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"506": {
+			"childs": [
+				527
+			],
+			"pos": "[6617.6172 -1031.7048 653.3021]",
+			"skin": 0,
+			"id": 506,
+			"ang": "{0 -151 0}",
+			"model": "models/jmod_construction/vasily_bust.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"509": {
+			"childs": [],
+			"pos": "[6733.3379 -1160.662 653.3021]",
+			"skin": 0,
+			"id": 509,
+			"ang": "{0 -180 0}",
+			"model": "models/jmod_construction/vasily_bust.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"508": {
+			"childs": [],
+			"pos": "[6636.7559 -1152.7468 653.3021]",
+			"skin": 0,
+			"id": 508,
+			"ang": "{0 -180 0}",
+			"model": "models/jmod_construction/vasily_bust.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"511": {
+			"childs": [],
+			"pos": "[6698.1938 -1124.0107 653.3021]",
+			"skin": 0,
+			"id": 511,
+			"ang": "{0 -180 0}",
+			"model": "models/jmod_construction/vasily_bust.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"510": {
+			"childs": [],
+			"pos": "[6656.5503 -1188.6331 653.3021]",
+			"skin": 0,
+			"id": 510,
+			"ang": "{0 -180 0}",
+			"model": "models/jmod_construction/vasily_bust.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"515": {
+			"childs": [
+				460
+			],
+			"pos": "[6459.6157 -851.2405 729.0881]",
+			"skin": 0,
+			"id": 515,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/windowthin01.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"388": {
+			"childs": [],
+			"pos": "[8438.958 -1340.4321 589.85]",
+			"skin": 0,
+			"id": 388,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"389": {
+			"childs": [
+				432
+			],
+			"pos": "[7184.689 -849.7918 763.6298]",
+			"skin": 0,
+			"id": 389,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"390": {
+			"childs": [
+				391
+			],
+			"pos": "[8626.8086 -1084.632 461.95]",
+			"skin": 0,
+			"id": 390,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"391": {
+			"childs": [
+				552
+			],
+			"pos": "[8498.9082 -1084.6321 461.95]",
+			"skin": 0,
+			"id": 391,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"525": {
+			"childs": [
+				529
+			],
+			"pos": "[6445.7407 -1116.9098 647.0509]",
+			"skin": 0,
+			"id": 525,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor02.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"384": {
+			"childs": [
+				386
+			],
+			"pos": "[6924.4287 -422.0742 571.7932]",
+			"skin": 0,
+			"id": 384,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament03.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"199": {
+			"childs": [
+				471,
+				188
+			],
+			"pos": "[6491.3579 -1370.5983 611.3773]",
+			"skin": 0,
+			"id": 199,
+			"ang": "{0 90 0}",
+			"model": "models/jmod_construction/windowbig02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"531": {
+			"childs": [
+				530
+			],
+			"pos": "[6385.7407 -989.0098 675.0009]",
+			"skin": 0,
+			"id": 531,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"396": {
+			"childs": [
+				383,
+				388
+			],
+			"pos": "[8438.958 -1212.5321 589.85]",
+			"skin": 0,
+			"id": 396,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"397": {
+			"childs": [
+				387
+			],
+			"pos": "[7180.2285 -482.0243 699.6932]",
+			"skin": 0,
+			"id": 397,
+			"ang": "{0 -90 0}",
+			"model": "models/jmod_construction/wall05.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"398": {
+			"childs": [
+				224,
+				229
+			],
+			"pos": "[6924.4287 -482.0243 699.6932]",
+			"skin": 0,
+			"id": 398,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/windowthin04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"539": {
+			"childs": [],
+			"pos": "[7031.8418 -99.3694 575.7145]",
+			"skin": 2,
+			"id": 539,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/doorframe01.mdl",
+			"support": true,
+			"typ": 3
+		},
+		"392": {
+			"childs": [
+				569,
+				548
+			],
+			"pos": "[7052.3286 -362.1242 699.6932]",
+			"skin": 0,
+			"id": 392,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"543": {
+			"childs": [],
+			"pos": "[7153.1621 21.4677 575.944]",
+			"skin": 0,
+			"id": 543,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/windowthin01.mdl",
+			"support": true,
+			"typ": 3
+		},
+		"545": {
+			"childs": [],
+			"pos": "[7230.457 -93.4056 536.46]",
+			"skin": 0,
+			"id": 545,
+			"ang": "{-0.013 0.0001 0.0048}",
+			"model": "models/jmod_construction/halfwall01.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"547": {
+			"childs": [],
+			"pos": "[7361.7637 45.6791 576]",
+			"skin": 1,
+			"id": 547,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/windowthin01.mdl",
+			"support": true,
+			"typ": 3
+		},
+		"549": {
+			"childs": [
+				291
+			],
+			"pos": "[6884.8027 -11.2446 515.8934]",
+			"skin": 0,
+			"id": 549,
+			"ang": "{-89.8468 -176.3991 -64.5253}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"405": {
+			"childs": [],
+			"pos": "[6165.9512 -1079.8462 579.051]",
+			"skin": 0,
+			"id": 405,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/fence01.mdl",
+			"support": true,
+			"typ": 1
+		},
+		"193": {
+			"childs": [
+				458
+			],
+			"pos": "[6271.7656 -723.3405 473.188]",
+			"skin": 0,
+			"id": 193,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament04.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"26": {
+			"childs": [
+				284
+			],
+			"pos": "[7395.1504 -1828.6646 544.9393]",
+			"skin": 0,
+			"id": 26,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament05.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"206": {
+			"childs": [
+				286
+			],
+			"pos": "[7523.0503 -1828.6643 741.0394]",
+			"skin": 2,
+			"id": 206,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/roof03.mdl",
+			"support": false,
+			"typ": 5
+		},
+		"401": {
+			"support": false,
+			"id": 401,
+			"door": {
+				"skin": 7,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe04.mdl",
+			"childs": [
+				398,
+				412
+			],
+			"pos": "[7052.3286 -482.0243 699.6932]",
+			"skin": 0,
+			"ang": "{0 -90 0}",
+			"typ": 3
+		},
+		"207": {
+			"childs": [],
+			"pos": "[8072.7729 -1352.642 572.95]",
+			"skin": 0,
+			"id": 207,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/stair01.mdl",
+			"support": true,
+			"typ": 4
+		},
+		"563": {
+			"childs": [],
+			"pos": "[6844.7769 -284.3604 515.6762]",
+			"skin": 1,
+			"id": 563,
+			"ang": "{89.7177 1.5712 -124.2684}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"412": {
+			"childs": [
+				551,
+				401
+			],
+			"pos": "[7180.2285 -549.9742 759.6432]",
+			"skin": 0,
+			"id": 412,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor03.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"413": {
+			"childs": [
+				163,
+				464,
+				465
+			],
+			"pos": "[6924.4287 -805.8743 571.7932]",
+			"skin": 0,
+			"id": 413,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament03.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"569": {
+			"childs": [
+				385
+			],
+			"pos": "[6924.4287 -362.0742 787.5932]",
+			"skin": 0,
+			"id": 569,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"571": {
+			"childs": [
+				572
+			],
+			"pos": "[8626.8086 -1024.682 589.85]",
+			"skin": 0,
+			"id": 571,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"408": {
+			"childs": [
+				290,
+				556
+			],
+			"pos": "[7180.2285 -609.9243 699.6932]",
+			"skin": 0,
+			"id": 408,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"409": {
+			"childs": [
+				462
+			],
+			"pos": "[7052.3286 -677.9742 631.7432]",
+			"skin": 0,
+			"id": 409,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor03.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"203": {
+			"support": false,
+			"id": 203,
+			"door": {
+				"skin": 1,
+				"model": "models/props_c17/door01_left.mdl"
+			},
+			"model": "models/jmod_construction/doorframe02.mdl",
+			"childs": [
+				205,
+				197
+			],
+			"pos": "[7463.1001 -1700.7645 672.8394]",
+			"skin": 0,
+			"ang": "{0 180 0}",
+			"typ": 3
+		},
+		"411": {
+			"childs": [
+				413
+			],
+			"pos": "[6924.4287 -677.9742 631.7432]",
+			"skin": 0,
+			"id": 411,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor03.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"419": {
+			"childs": [
+				434
+			],
+			"pos": "[7184.6895 -1037.7417 703.6797]",
+			"skin": 1,
+			"id": 419,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"418": {
+			"childs": [
+				419
+			],
+			"pos": "[7124.7388 -977.7917 703.6797]",
+			"skin": 1,
+			"id": 418,
+			"ang": "{0 180 0}",
+			"model": "models/jmod_construction/windowsmall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"201": {
+			"childs": [
+				227
+			],
+			"pos": "[7523.0503 -1640.8146 672.8394]",
+			"skin": 0,
+			"id": 201,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/windowbig02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"416": {
+			"childs": [],
+			"pos": "[7184.6895 -977.7917 575.7797]",
+			"skin": 0,
+			"id": 416,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament02.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"423": {
+			"childs": [
+				427
+			],
+			"pos": "[7056.6895 -977.7917 763.6298]",
+			"skin": 0,
+			"id": 423,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"213": {
+			"childs": [
+				181
+			],
+			"pos": "[7884.8228 -1352.642 700.85]",
+			"skin": 0,
+			"id": 213,
+			"ang": "{0 180 0}",
+			"model": "models/jmod_construction/windowthin03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"421": {
+			"childs": [
+				448,
+				416
+			],
+			"pos": "[7244.6396 -977.7917 703.6797]",
+			"skin": 1,
+			"id": 421,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"420": {
+			"childs": [
+				180
+			],
+			"pos": "[6267.8984 -855.9385 606.3279]",
+			"skin": 2,
+			"id": 420,
+			"ang": "{0 -148 0}",
+			"model": "models/jmod_construction/fence02.mdl",
+			"support": false,
+			"typ": 1
+		},
+		"427": {
+			"childs": [],
+			"pos": "[6996.6895 -977.7917 831.5798]",
+			"skin": 0,
+			"id": 427,
+			"ang": "{0 180 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"215": {
+			"childs": [
+				214
+			],
+			"pos": "[7952.2725 -750.7524 563.95]",
+			"skin": 0,
+			"id": 215,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament04.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"425": {
+			"childs": [
+				417
+			],
+			"pos": "[7312.6895 -977.7917 763.6298]",
+			"skin": 0,
+			"id": 425,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"424": {
+			"childs": [
+				433,
+				428
+			],
+			"pos": "[7184.6895 -1105.7917 763.6298]",
+			"skin": 0,
+			"id": 424,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"431": {
+			"childs": [
+				430
+			],
+			"pos": "[7124.6899 -849.7918 831.5798]",
+			"skin": 0,
+			"id": 431,
+			"ang": "{0 180 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"209": {
+			"childs": [],
+			"pos": "[7445.8901 -1747.2566 609.9706]",
+			"skin": 0,
+			"id": 209,
+			"ang": "{0 143 0}",
+			"model": "models/jmod_construction/vasily_bust.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"429": {
+			"childs": [
+				449
+			],
+			"pos": "[7372.6895 -977.7917 831.5798]",
+			"skin": 0,
+			"id": 429,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"428": {
+			"childs": [],
+			"pos": "[7184.6895 -1165.7917 831.5798]",
+			"skin": 0,
+			"id": 428,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"435": {
+			"childs": [
+				422
+			],
+			"pos": "[7244.6895 -1105.7917 831.5798]",
+			"skin": 0,
+			"id": 435,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"211": {
+			"childs": [],
+			"pos": "[7823.7349 -580.3544 531.63]",
+			"skin": 1,
+			"id": 211,
+			"ang": "{81.0277 -0.9573 0}",
+			"model": "models/jmod_construction/fence01.mdl",
+			"support": false,
+			"typ": 1
+		},
+		"433": {
+			"childs": [
+				423
+			],
+			"pos": "[7056.6895 -1037.7917 831.5798]",
+			"skin": 0,
+			"id": 433,
+			"ang": "{0 -90 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"432": {
+			"childs": [
+				451
+			],
+			"pos": "[7056.6895 -917.7917 831.5798]",
+			"skin": 0,
+			"id": 432,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"221": {
+			"childs": [
+				561
+			],
+			"pos": "[8626.8086 -1340.432 461.95]",
+			"skin": 0,
+			"id": 221,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"220": {
+			"childs": [
+				379
+			],
+			"pos": "[7944.7729 -1292.692 700.85]",
+			"skin": 0,
+			"id": 220,
+			"ang": "{0 90 0}",
+			"model": "models/jmod_construction/windowthin03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"223": {
+			"childs": [
+				203
+			],
+			"pos": "[7523.0503 -1700.7645 544.9394]",
+			"skin": 0,
+			"id": 223,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament05.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"222": {
+			"childs": [
+				219,
+				162
+			],
+			"pos": "[7345.4824 -1229.75 544.8883]",
+			"skin": 0,
+			"id": 222,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"217": {
+			"childs": [],
+			"pos": "[7139.8047 -136.5502 664.4263]",
+			"skin": 0,
+			"id": 217,
+			"ang": "{-0.2233 0.0009 -0.0099}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"219": {
+			"childs": [],
+			"pos": "[7283.8838 -1229.4111 629.1696]",
+			"skin": 0,
+			"id": 219,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/barricade01.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"167": {
+			"childs": [
+				158,
+				466
+			],
+			"pos": "[6787.8027 -901.4269 460.4208]",
+			"skin": 0,
+			"id": 167,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"166": {
+			"childs": [
+				213
+			],
+			"pos": "[7944.7729 -1352.642 572.95]",
+			"skin": 0,
+			"id": 166,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"165": {
+			"childs": [
+				508,
+				511,
+				476,
+				505,
+				510
+			],
+			"pos": "[6659.8022 -1157.3269 648.2708]",
+			"skin": 0,
+			"id": 165,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"200": {
+			"childs": [
+				195
+			],
+			"pos": "[6551.3081 -1430.5481 611.3773]",
+			"skin": 0,
+			"id": 200,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/doorframe02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"164": {
+			"childs": [
+				509
+			],
+			"pos": "[6787.8027 -1157.3269 648.2708]",
+			"skin": 0,
+			"id": 164,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"202": {
+			"childs": [
+				228
+			],
+			"pos": "[7624.5513 -1080.4036 544.9385]",
+			"skin": 0,
+			"id": 202,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/ramp03.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"163": {
+			"childs": [
+				280,
+				158
+			],
+			"pos": "[6915.7026 -901.4269 556.3208]",
+			"skin": 0,
+			"id": 163,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/halframp01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"434": {
+			"childs": [
+				454
+			],
+			"pos": "[7124.6895 -1105.7917 831.5798]",
+			"skin": 0,
+			"id": 434,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"162": {
+			"childs": [],
+			"pos": "[7473.3823 -1229.75 544.8883]",
+			"skin": 0,
+			"id": 162,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"551": {
+			"childs": [
+				557,
+				412
+			],
+			"pos": "[7180.2285 -609.9742 787.5932]",
+			"skin": 0,
+			"id": 551,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"161": {
+			"childs": [
+				223
+			],
+			"pos": "[7523.0503 -1828.6646 544.9393]",
+			"skin": 0,
+			"id": 161,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament05.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"561": {
+			"childs": [
+				570,
+				566
+			],
+			"pos": "[8754.709 -1340.432 461.95]",
+			"skin": 0,
+			"id": 561,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"535": {
+			"childs": [],
+			"pos": "[6505.0806 -1300.481 715.3322]",
+			"skin": 0,
+			"id": 535,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/pillar02.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"557": {
+			"childs": [
+				551,
+				555
+			],
+			"pos": "[7120.2285 -549.9742 787.5932]",
+			"skin": 0,
+			"id": 557,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"175": {
+			"childs": [],
+			"pos": "[7099.2368 -1178.6738 711.5238]",
+			"skin": 0,
+			"id": 175,
+			"ang": "{0 90 0}",
+			"model": "models/jmod_construction/wall05.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"183": {
+			"childs": [
+				281
+			],
+			"pos": "[7099.2368 -1298.5737 711.5238]",
+			"skin": 0,
+			"id": 183,
+			"ang": "{0 -90 0}",
+			"model": "models/jmod_construction/wall05.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"174": {
+			"childs": [
+				165,
+				506,
+				507
+			],
+			"pos": "[6659.8022 -1029.3269 648.2708]",
+			"skin": 0,
+			"id": 174,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"430": {
+			"childs": [
+				450
+			],
+			"pos": "[7184.6895 -789.7917 831.5798]",
+			"skin": 0,
+			"id": 430,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"173": {
+			"childs": [],
+			"pos": "[6573.6406 -989.0098 459.2009]",
+			"skin": 0,
+			"id": 173,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament02.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"351": {
+			"childs": [
+				548,
+				30
+			],
+			"pos": "[7180.2285 -362.1242 787.6932]",
+			"skin": 0,
+			"id": 351,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"172": {
+			"childs": [
+				200
+			],
+			"pos": "[6491.3579 -1430.5481 483.4773]",
+			"skin": 0,
+			"id": 172,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament05.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"402": {
+			"childs": [
+				401,
+				351,
+				554
+			],
+			"pos": "[7052.3286 -422.0742 759.6432]",
+			"skin": 0,
+			"id": 402,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor01.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"422": {
+			"childs": [
+				425,
+				426
+			],
+			"pos": "[7184.6895 -977.7917 763.6298]",
+			"skin": 0,
+			"id": 422,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor02.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"512": {
+			"childs": [
+				514
+			],
+			"pos": "[6459.6157 -851.2405 601.0881]",
+			"skin": 0,
+			"id": 512,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/windowthin01.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"170": {
+			"childs": [],
+			"pos": "[6939.3628 -1701.955 586.8162]",
+			"skin": 0,
+			"id": 170,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament02.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"230": {
+			"childs": [],
+			"pos": "[7944.7729 -1412.5919 700.85]",
+			"skin": 0,
+			"id": 230,
+			"ang": "{0 -90 0}",
+			"model": "models/jmod_construction/windowthin03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"169": {
+			"childs": [],
+			"pos": "[6445.7407 -1116.9098 459.2009]",
+			"skin": 0,
+			"id": 169,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament02.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"27": {
+			"childs": [],
+			"pos": "[6864.4287 -677.9742 915.6932]",
+			"skin": 0,
+			"id": 27,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"168": {
+			"childs": [
+				157,
+				174
+			],
+			"pos": "[6787.8027 -1029.3269 588.3208]",
+			"skin": 0,
+			"id": 168,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"410": {
+			"childs": [],
+			"pos": "[6065.27 -1475.9011 581.8607]",
+			"skin": 0,
+			"id": 410,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/fence01.mdl",
+			"support": true,
+			"typ": 1
+		},
+		"187": {
+			"childs": [
+				156
+			],
+			"pos": "[7099.2368 -1238.6238 583.6238]",
+			"skin": 0,
+			"id": 187,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament03.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"403": {
+			"childs": [
+				555,
+				554
+			],
+			"pos": "[6924.4287 -422.0742 759.6432]",
+			"skin": 0,
+			"id": 403,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor01.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"533": {
+			"childs": [
+				516,
+				513
+			],
+			"pos": "[6389.772 -933.0085 717.2192]",
+			"skin": 0,
+			"id": 533,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/pillar02.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"354": {
+			"childs": [],
+			"pos": "[8626.8086 -1212.532 461.95]",
+			"skin": 0,
+			"id": 354,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"464": {
+			"childs": [
+				463,
+				413
+			],
+			"pos": "[6931.229 -868.6952 704.9331]",
+			"skin": 0,
+			"id": 464,
+			"ang": "{0 -89 0}",
+			"model": "models/jmod_construction/fence01.mdl",
+			"support": false,
+			"typ": 1
+		},
+		"180": {
+			"childs": [
+				192
+			],
+			"pos": "[6271.7656 -851.2405 473.188]",
+			"skin": 0,
+			"id": 180,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament04.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"387": {
+			"childs": [
+				394,
+				290
+			],
+			"pos": "[7180.2285 -422.0742 571.7932]",
+			"skin": 0,
+			"id": 387,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament03.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"181": {
+			"childs": [
+				220
+			],
+			"pos": "[7944.7729 -1352.642 760.8]",
+			"skin": 0,
+			"id": 181,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor01.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"394": {
+			"childs": [
+				393
+			],
+			"pos": "[7240.1787 -422.0742 699.6932]",
+			"skin": 0,
+			"id": 394,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"178": {
+			"childs": [
+				226,
+				26
+			],
+			"pos": "[7395.1504 -1700.7645 544.9394]",
+			"skin": 0,
+			"id": 178,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament05.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"513": {
+			"childs": [
+				512
+			],
+			"pos": "[6399.6655 -911.1906 601.0881]",
+			"skin": 0,
+			"id": 513,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/windowthin01.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"179": {
+			"childs": [
+				191
+			],
+			"pos": "[6399.6655 -723.3405 601.0881]",
+			"skin": 0,
+			"id": 179,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament04.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"556": {
+			"childs": [
+				394,
+				406,
+				553
+			],
+			"pos": "[7240.229 -549.9742 787.5932]",
+			"skin": 2,
+			"id": 556,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/halfwall01.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"176": {
+			"childs": [
+				194
+			],
+			"pos": "[6428.9448 -1491.6714 611.7585]",
+			"skin": 0,
+			"id": 176,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/pillar03.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"375": {
+			"childs": [],
+			"pos": "[7072.8379 56.67 663.9162]",
+			"skin": 0,
+			"id": 375,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"177": {
+			"childs": [
+				170
+			],
+			"pos": "[6939.3628 -1701.955 458.9161]",
+			"skin": 0,
+			"id": 177,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament02.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"189": {
+			"childs": [],
+			"pos": "[6553.9028 -1368.2399 611.7585]",
+			"skin": 0,
+			"id": 189,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/pillar03.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"190": {
+			"childs": [],
+			"pos": "[6549.8052 -1492.5258 611.7585]",
+			"skin": 0,
+			"id": 190,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/pillar03.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"395": {
+			"childs": [
+				396
+			],
+			"pos": "[8438.958 -1084.6321 589.85]",
+			"skin": 0,
+			"id": 395,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"191": {
+			"childs": [
+				193
+			],
+			"pos": "[6399.6655 -723.3405 473.188]",
+			"skin": 0,
+			"id": 191,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament04.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"381": {
+			"childs": [
+				390
+			],
+			"pos": "[8754.709 -1084.632 461.95]",
+			"skin": 0,
+			"id": 381,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"188": {
+			"childs": [],
+			"pos": "[6430.9756 -1368.1941 611.7585]",
+			"skin": 0,
+			"id": 188,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/pillar03.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"383": {
+			"childs": [
+				354
+			],
+			"pos": "[8498.9082 -1212.5321 461.95]",
+			"skin": 0,
+			"id": 383,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"382": {
+			"childs": [
+				409,
+				224
+			],
+			"pos": "[7052.3286 -549.9742 571.7932]",
+			"skin": 0,
+			"id": 382,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament03.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"385": {
+			"childs": [
+				403,
+				384
+			],
+			"pos": "[6924.4287 -362.1242 699.6932]",
+			"skin": 0,
+			"id": 385,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"537": {
+			"childs": [
+				533
+			],
+			"pos": "[6445.7407 -989.0098 783.2009]",
+			"skin": 0,
+			"id": 537,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/roof02.mdl",
+			"support": false,
+			"typ": 5
+		},
+		"379": {
+			"childs": [
+				207,
+				230
+			],
+			"pos": "[8004.7231 -1352.642 700.85]",
+			"skin": 0,
+			"id": 379,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"514": {
+			"childs": [
+				515
+			],
+			"pos": "[6399.6655 -911.1906 729.0881]",
+			"skin": 0,
+			"id": 514,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/windowthin01.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"406": {
+			"childs": [],
+			"pos": "[7240.1787 -549.9742 699.6932]",
+			"skin": 0,
+			"id": 406,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"184": {
+			"childs": [
+				187
+			],
+			"pos": "[7099.2368 -1238.6238 455.7238]",
+			"skin": 0,
+			"id": 184,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament03.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"417": {
+			"childs": [
+				418
+			],
+			"pos": "[7184.689 -917.8417 703.6797]",
+			"skin": 1,
+			"id": 417,
+			"ang": "{0 90 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"524": {
+			"childs": [
+				531
+			],
+			"pos": "[6385.7905 -1116.9098 587.1009]",
+			"skin": 0,
+			"id": 524,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/windowsmall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"526": {
+			"childs": [
+				524
+			],
+			"pos": "[6445.7407 -989.0098 647.0509]",
+			"skin": 0,
+			"id": 526,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor02.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"528": {
+			"childs": [
+				534
+			],
+			"pos": "[6445.7407 -1244.9098 647.0509]",
+			"skin": 0,
+			"id": 528,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor04.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"530": {
+			"childs": [
+				528
+			],
+			"pos": "[6385.7407 -1116.9098 675.0009]",
+			"skin": 0,
+			"id": 530,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"532": {
+			"childs": [
+				535
+			],
+			"pos": "[6445.7407 -1304.9098 675.0009]",
+			"skin": 0,
+			"id": 532,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"534": {
+			"childs": [
+				536
+			],
+			"pos": "[6390.9141 -1293.7264 715.3322]",
+			"skin": 0,
+			"id": 534,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/pillar02.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"536": {
+			"childs": [
+				538
+			],
+			"pos": "[6445.7407 -1244.9098 783.2009]",
+			"skin": 1,
+			"id": 536,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/roof02.mdl",
+			"support": false,
+			"typ": 5
+		},
+		"538": {
+			"childs": [
+				537
+			],
+			"pos": "[6445.7407 -1116.9098 783.2009]",
+			"skin": 2,
+			"id": 538,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/roof02.mdl",
+			"support": false,
+			"typ": 5
+		},
+		"540": {
+			"childs": [
+				375
+			],
+			"pos": "[7072.8379 56.67 575.9162]",
+			"skin": 0,
+			"id": 540,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/wall01.mdl",
+			"support": true,
+			"typ": 3
+		},
+		"542": {
+			"childs": [],
+			"pos": "[7139.8916 -136.5766 575.9346]",
+			"skin": 0,
+			"id": 542,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/windowbig01.mdl",
+			"support": true,
+			"typ": 3
+		},
+		"544": {
+			"childs": [],
+			"pos": "[7218.3833 134.0141 575.9708]",
+			"skin": 0,
+			"id": 544,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/windowsmall01.mdl",
+			"support": true,
+			"typ": 3
+		},
+		"546": {
+			"childs": [],
+			"pos": "[7375.1582 -135.5128 575.9904]",
+			"skin": 1,
+			"id": 546,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/windowthin01.mdl",
+			"support": true,
+			"typ": 3
+		},
+		"548": {
+			"childs": [
+				402
+			],
+			"pos": "[7052.3286 -362.0742 787.5932]",
+			"skin": 0,
+			"id": 548,
+			"ang": "{0 90 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"550": {
+			"childs": [
+				221
+			],
+			"pos": "[8626.8086 -1400.382 589.85]",
+			"skin": 0,
+			"id": 550,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"552": {
+			"childs": [
+				395,
+				571
+			],
+			"pos": "[8498.9082 -1024.6821 589.85]",
+			"skin": 0,
+			"id": 552,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/windowsmall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"281": {
+			"childs": [
+				175
+			],
+			"pos": "[7099.2368 -1238.6238 779.7238]",
+			"skin": 1,
+			"id": 281,
+			"ang": "{0 90 0}",
+			"model": "models/jmod_construction/roof01.mdl",
+			"support": false,
+			"typ": 5
+		},
+		"282": {
+			"childs": [
+				283
+			],
+			"pos": "[7583.0005 -1828.6646 672.8394]",
+			"skin": 0,
+			"id": 282,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/wall02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"283": {
+			"childs": [
+				161
+			],
+			"pos": "[7523.0503 -1888.6145 672.8394]",
+			"skin": 0,
+			"id": 283,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/wall02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"284": {
+			"childs": [
+				206
+			],
+			"pos": "[7395.1504 -1888.6145 672.8394]",
+			"skin": 0,
+			"id": 284,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/wall02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"285": {
+			"childs": [],
+			"pos": "[7335.2002 -1828.6646 672.8394]",
+			"skin": 0,
+			"id": 285,
+			"ang": "{0 180 0}",
+			"model": "models/jmod_construction/windowbig02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"286": {
+			"childs": [
+				278
+			],
+			"pos": "[7395.1504 -1828.6646 741.0394]",
+			"skin": 2,
+			"id": 286,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/roof03.mdl",
+			"support": false,
+			"typ": 5
+		},
+		"566": {
+			"childs": [
+				381
+			],
+			"pos": "[8754.709 -1212.532 461.95]",
+			"skin": 0,
+			"id": 566,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"467": {
+			"childs": [],
+			"pos": "[6719.3589 -1545.6267 560.7647]",
+			"skin": 0,
+			"id": 467,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament04.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"570": {
+			"childs": [],
+			"pos": "[8754.709 -1400.382 589.85]",
+			"skin": 0,
+			"id": 570,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"572": {
+			"childs": [],
+			"pos": "[8686.7588 -1084.632 589.85]",
+			"skin": 0,
+			"id": 572,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"195": {
+			"childs": [
+				196
+			],
+			"pos": "[6491.3579 -1490.498 611.3773]",
+			"skin": 0,
+			"id": 195,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/wall02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"516": {
+			"childs": [
+				159,
+				525
+			],
+			"pos": "[6385.7905 -989.0098 587.1009]",
+			"skin": 0,
+			"id": 516,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/windowsmall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"194": {
+			"childs": [
+				199,
+				190
+			],
+			"pos": "[6491.3579 -1430.5481 679.5773]",
+			"skin": 0,
+			"id": 194,
+			"ang": "{0 90 0}",
+			"model": "models/jmod_construction/roof03.mdl",
+			"support": false,
+			"typ": 5
+		},
+		"278": {
+			"childs": [
+				201
+			],
+			"pos": "[7395.1504 -1700.7645 741.0394]",
+			"skin": 2,
+			"id": 278,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/roof01.mdl",
+			"support": false,
+			"typ": 5
+		},
+		"192": {
+			"childs": [],
+			"pos": "[6399.6655 -851.2405 473.188]",
+			"skin": 0,
+			"id": 192,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament04.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"527": {
+			"childs": [
+				526
+			],
+			"pos": "[6573.6406 -989.0098 647.0509]",
+			"skin": 0,
+			"id": 527,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor03.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"231": {
+			"childs": [],
+			"pos": "[7333.5049 -1646.1089 673.2206]",
+			"skin": 0,
+			"id": 231,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/pillar03.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"204": {
+			"childs": [
+				209,
+				285
+			],
+			"pos": "[7395.1504 -1768.7144 672.8394]",
+			"skin": 0,
+			"id": 204,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/wall02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"529": {
+			"childs": [
+				532
+			],
+			"pos": "[6385.7407 -1244.9098 675.0009]",
+			"skin": 0,
+			"id": 529,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"291": {
+			"childs": [
+				569
+			],
+			"pos": "[6864.4785 -422.0742 787.6932]",
+			"skin": 0,
+			"id": 291,
+			"ang": "{0 -180 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"290": {
+			"childs": [
+				382,
+				408,
+				397
+			],
+			"pos": "[7180.2285 -549.9742 571.7932]",
+			"skin": 0,
+			"id": 290,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament03.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"289": {
+			"childs": [
+				562
+			],
+			"pos": "[8498.9082 -1340.4321 461.95]",
+			"skin": 0,
+			"id": 289,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"466": {
+			"childs": [
+				465,
+				163
+			],
+			"pos": "[6796.4287 -805.8743 571.7932]",
+			"skin": 0,
+			"id": 466,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/stair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"205": {
+			"childs": [
+				231
+			],
+			"pos": "[7395.1504 -1640.8146 632.8394]",
+			"skin": 0,
+			"id": 205,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/halfwall02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"386": {
+			"childs": [
+				392
+			],
+			"pos": "[7052.3286 -422.0742 571.7932]",
+			"skin": 0,
+			"id": 386,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament03.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"414": {
+			"childs": [
+				409,
+				463
+			],
+			"pos": "[7052.3286 -805.8743 571.7932]",
+			"skin": 0,
+			"id": 414,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament03.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"461": {
+			"childs": [
+				557,
+				408
+			],
+			"pos": "[7115.6416 -676.1642 704.8831]",
+			"skin": 1,
+			"id": 461,
+			"ang": "{0 1 0}",
+			"model": "models/jmod_construction/fence01.mdl",
+			"support": false,
+			"typ": 1
+		},
+		"393": {
+			"childs": [
+				402,
+				30
+			],
+			"pos": "[7180.2285 -362.1242 699.6932]",
+			"skin": 0,
+			"id": 393,
+			"ang": "{0 90 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"449": {
+			"childs": [
+				421
+			],
+			"pos": "[7312.6895 -917.7917 831.5798]",
+			"skin": 0,
+			"id": 449,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"197": {
+			"childs": [
+				204
+			],
+			"pos": "[7523.0503 -1700.7645 741.0394]",
+			"skin": 2,
+			"id": 197,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/roof01.mdl",
+			"support": false,
+			"typ": 5
+		},
+		"555": {
+			"childs": [
+				397,
+				398
+			],
+			"pos": "[7052.3286 -482.0742 787.5932]",
+			"skin": 0,
+			"id": 555,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"426": {
+			"childs": [
+				455
+			],
+			"pos": "[7190.8071 -982.7099 831.911]",
+			"skin": 0,
+			"id": 426,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/pillar01.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"228": {
+			"childs": [],
+			"pos": "[7496.6514 -1080.4036 544.9385]",
+			"skin": 0,
+			"id": 228,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"214": {
+			"childs": [],
+			"pos": "[8080.1724 -750.7524 563.95]",
+			"skin": 0,
+			"id": 214,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament04.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"280": {
+			"childs": [
+				168
+			],
+			"pos": "[6787.8027 -901.4269 588.3208]",
+			"skin": 0,
+			"id": 280,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/ramp01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"229": {
+			"childs": [
+				403,
+				384
+			],
+			"pos": "[6864.4785 -422.0742 699.6932]",
+			"skin": 0,
+			"id": 229,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/wall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"159": {
+			"childs": [
+				173,
+				169
+			],
+			"pos": "[6445.7407 -989.0098 459.2009]",
+			"skin": 0,
+			"id": 159,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament02.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"196": {
+			"childs": [
+				176
+			],
+			"pos": "[6431.4077 -1430.5481 611.3773]",
+			"skin": 0,
+			"id": 196,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/wall02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"158": {
+			"childs": [],
+			"pos": "[6915.7026 -901.4269 460.4208]",
+			"skin": 0,
+			"id": 158,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"562": {
+			"childs": [
+				550
+			],
+			"pos": "[8498.9082 -1400.3821 589.85]",
+			"skin": 0,
+			"id": 562,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/doorframe03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"157": {
+			"childs": [
+				167
+			],
+			"pos": "[6787.8027 -1029.3269 460.4208]",
+			"skin": 0,
+			"id": 157,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament01.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"415": {
+			"childs": [],
+			"pos": "[6796.5288 -549.9742 571.7932]",
+			"skin": 0,
+			"id": 415,
+			"ang": "{-0 180 0}",
+			"model": "models/jmod_construction/ramp03.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"156": {
+			"childs": [
+				183
+			],
+			"pos": "[7039.2866 -1238.6238 711.5238]",
+			"skin": 0,
+			"id": 156,
+			"ang": "{0 180 0}",
+			"model": "models/jmod_construction/wall05.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"554": {
+			"childs": [
+				291
+			],
+			"pos": "[6924.4287 -482.0742 787.5932]",
+			"skin": 0,
+			"id": 554,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"450": {
+			"childs": [
+				452
+			],
+			"pos": "[7244.6895 -849.7918 831.5798]",
+			"skin": 0,
+			"id": 450,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"451": {
+			"childs": [
+				477
+			],
+			"pos": "[7184.6895 -849.7917 891.5298]",
+			"skin": 0,
+			"id": 451,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"399": {
+			"childs": [],
+			"pos": "[6026.5825 -998.3435 581.4266]",
+			"skin": 1,
+			"id": 399,
+			"ang": "{-0.3819 -0.0022 -0.347}",
+			"model": "models/jmod_construction/fence02.mdl",
+			"support": false,
+			"typ": 1
+		},
+		"448": {
+			"childs": [
+				424
+			],
+			"pos": "[7312.6895 -1037.7917 831.5798]",
+			"skin": 0,
+			"id": 448,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/wall04.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"454": {
+			"childs": [
+				431
+			],
+			"pos": "[7056.6895 -977.7917 891.5298]",
+			"skin": 0,
+			"id": 454,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"455": {
+			"childs": [
+				456
+			],
+			"pos": "[7191.6816 -980.2248 960.1923]",
+			"skin": 0,
+			"id": 455,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/pillar02.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"452": {
+			"childs": [
+				429
+			],
+			"pos": "[7312.6895 -977.7917 891.5298]",
+			"skin": 0,
+			"id": 452,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"453": {
+			"childs": [
+				435
+			],
+			"pos": "[7184.6895 -1105.7917 891.5298]",
+			"skin": 0,
+			"id": 453,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor07.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"458": {
+			"childs": [
+				420
+			],
+			"pos": "[6238.1533 -728.7938 606.3279]",
+			"skin": 0,
+			"id": 458,
+			"ang": "{0 176 0}",
+			"model": "models/jmod_construction/fence01.mdl",
+			"support": false,
+			"typ": 1
+		},
+		"459": {
+			"childs": [
+				179,
+				478
+			],
+			"pos": "[6342.0493 -718.1235 734.228]",
+			"skin": 1,
+			"id": 459,
+			"ang": "{0 180 0}",
+			"model": "models/jmod_construction/fence01.mdl",
+			"support": false,
+			"typ": 1
+		},
+		"456": {
+			"childs": [
+				457
+			],
+			"pos": "[7195.4492 -979.9886 1088.4735]",
+			"skin": 0,
+			"id": 456,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/pillar03.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"457": {
+			"childs": [],
+			"pos": "[7195.9946 -981.0237 1153.5048]",
+			"skin": 0,
+			"id": 457,
+			"ang": "{0 -170 0}",
+			"model": "models/jmod_construction/vasily_bust.mdl",
+			"support": false,
+			"typ": 6
+		},
+		"462": {
+			"childs": [
+				414,
+				389,
+				461
+			],
+			"pos": "[7115.6528 -806.4188 704.9331]",
+			"skin": 1,
+			"id": 462,
+			"ang": "{0 1 0}",
+			"model": "models/jmod_construction/fence01.mdl",
+			"support": false,
+			"typ": 1
+		},
+		"463": {
+			"childs": [
+				464,
+				414
+			],
+			"pos": "[7029.4634 -867.3751 704.9331]",
+			"skin": 0,
+			"id": 463,
+			"ang": "{0 -89 0}",
+			"model": "models/jmod_construction/fence01.mdl",
+			"support": false,
+			"typ": 1
+		},
+		"460": {
+			"childs": [
+				459
+			],
+			"pos": "[6406.3496 -782.1857 734.228]",
+			"skin": 1,
+			"id": 460,
+			"ang": "{0 -89 0}",
+			"model": "models/jmod_construction/fence01.mdl",
+			"support": false,
+			"typ": 1
+		},
+		"224": {
+			"childs": [
+				382,
+				415
+			],
+			"pos": "[6924.4287 -549.9742 571.7932]",
+			"skin": 0,
+			"id": 224,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament03.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"227": {
+			"childs": [
+				282
+			],
+			"pos": "[7583.0005 -1700.7645 672.8394]",
+			"skin": 0,
+			"id": 227,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/wall02.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"30": {
+			"childs": [
+				556,
+				351,
+				406
+			],
+			"pos": "[7240.1787 -422.0742 787.6932]",
+			"skin": 0,
+			"id": 30,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/halfwall03.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"226": {
+			"childs": [],
+			"pos": "[7267.1504 -1700.7645 544.9395]",
+			"skin": 0,
+			"id": 226,
+			"ang": "{0 180 0}",
+			"model": "models/jmod_construction/stair02.mdl",
+			"support": true,
+			"typ": 4
+		},
+		"465": {
+			"childs": [
+				504,
+				466
+			],
+			"pos": "[6863.0591 -797.597 704.9331]",
+			"skin": 2,
+			"id": 465,
+			"ang": "{0 -179 0}",
+			"model": "models/jmod_construction/fence02.mdl",
+			"support": false,
+			"typ": 1
+		},
+		"470": {
+			"childs": [
+				472,
+				467
+			],
+			"pos": "[6719.3589 -1545.6267 688.6647]",
+			"skin": 0,
+			"id": 470,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament04.mdl",
+			"support": false,
+			"typ": 2
+		},
+		"471": {
+			"childs": [
+				468,
+				189
+			],
+			"pos": "[6591.3589 -1417.7267 620.7147]",
+			"skin": 0,
+			"id": 471,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor04.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"468": {
+			"childs": [
+				469
+			],
+			"pos": "[6719.3589 -1417.7267 560.7647]",
+			"skin": 0,
+			"id": 468,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/foundament04.mdl",
+			"support": true,
+			"typ": 2
+		},
+		"469": {
+			"childs": [
+				470
+			],
+			"pos": "[6719.3589 -1417.7267 688.7647]",
+			"skin": 0,
+			"id": 469,
+			"ang": "{-0 -180 0}",
+			"model": "models/jmod_construction/lstair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"474": {
+			"childs": [
+				475
+			],
+			"pos": "[6591.3589 -1545.6267 876.5148]",
+			"skin": 0,
+			"id": 474,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"475": {
+			"childs": [],
+			"pos": "[6591.3589 -1545.6267 944.5148]",
+			"skin": 0,
+			"id": 475,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/lstair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"472": {
+			"childs": [
+				474,
+				473
+			],
+			"pos": "[6719.3589 -1545.6267 816.6647]",
+			"skin": 0,
+			"id": 472,
+			"ang": "{-0 90 0}",
+			"model": "models/jmod_construction/lstair01.mdl",
+			"support": false,
+			"typ": 4
+		},
+		"473": {
+			"childs": [],
+			"pos": "[6591.3589 -1545.6267 748.6147]",
+			"skin": 0,
+			"id": 473,
+			"ang": "{0 0 0}",
+			"model": "models/jmod_construction/floor05.mdl",
+			"support": false,
+			"typ": 7
+		},
+		"478": {
+			"childs": [],
+			"pos": "[6399.6655 -723.3405 797.188]",
+			"skin": 0,
+			"id": 478,
+			"ang": "{-0 -90 0}",
+			"model": "models/jmod_construction/roof02.mdl",
+			"support": false,
+			"typ": 5
+		},
+		"553": {
+			"childs": [],
+			"pos": "[7286.5518 -394.0227 567.2889]",
+			"skin": 2,
+			"id": 553,
+			"ang": "{34.7453 174.6127 -90.1198}",
+			"model": "models/jmod_construction/halfwall01.mdl",
+			"support": false,
+			"typ": 3
+		},
+		"476": {
+			"childs": [
+				164
+			],
+			"pos": "[6721.9053 -1034.8138 684.5521]",
+			"skin": 0,
+			"id": 476,
+			"ang": "{0 180 0}",
+			"model": "models/jmod_construction/barricade03.mdl",
+			"support": false,
+			"typ": 6
+		}
+	},
+	"count": 220
+}

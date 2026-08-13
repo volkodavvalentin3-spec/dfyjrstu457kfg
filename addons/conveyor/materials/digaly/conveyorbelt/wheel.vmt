@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$envmap env_cubemap
+	$basetexture "digaly/conveyorbelt/inner_steel"
+}

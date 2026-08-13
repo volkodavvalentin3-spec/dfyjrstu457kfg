@@ -1,0 +1,13 @@
+{
+  "title": "[LVS] | Renault FT Series",
+  "type": "vehicle",
+  "tags": [
+    "fun",
+    "roleplay",
+    "realism"
+  ],
+  "ignore": [
+    ".gitattributes",
+    ".gitignore"
+  ]
+}

@@ -1,0 +1,122 @@
+<Logging continued from "data/ulx_logs/11-12-25.txt">
+[00:43:22] Client "kudalev" connected.
+[00:43:59] Client "kudalev" spawned in server <STEAM_0:0:21670625> (took 37 seconds).
+[00:54:01] Dropped "kudalev" from server<STEAM_0:0:21670625>
+[00:54:01] kudalev suicided!
+[02:05:16] Client "Kerchinsky" connected.
+[02:06:04] Client "Kerchinsky" spawned in server <STEAM_0:1:591953064> (took 48 seconds).
+[02:11:35] Client "Tra ta ta" connected.
+[02:12:13] Client "Tra ta ta" spawned in server <STEAM_0:0:27371200> (took 38 seconds).
+[02:17:23] Tra ta ta: /me выполнил воинское приветствие
+[02:24:18] (TEAM) Tra ta ta: 'jmod_ez_inv' на I или любую другую.
+[02:24:46] Tra ta ta: 'jmod_ez_inv' на I
+[02:32:36] Dropped "Tra ta ta" from server<STEAM_0:0:27371200>
+[02:32:36] Tra ta ta suicided!
+[03:22:24] Client "EXEFA" connected.
+[03:33:54] Client "EXEFA" spawned in server <STEAM_0:0:713165443> (took 690 seconds).
+[03:35:53] Client "KULER" connected.
+[03:37:01] Client "KULER" spawned in server <STEAM_0:0:736080205> (took 68 seconds).
+[03:39:05] Dropped "KULER" from server<STEAM_0:0:736080205>
+[03:39:05] KULER suicided!
+[03:49:18] Dropped "EXEFA" from server<STEAM_0:0:713165443>
+[03:49:18] EXEFA suicided!
+[03:54:03] Kerchinsky was killed by ent_jack_gmod_ezaugerdrill
+[04:16:27] Client "Egorik" connected.
+[04:17:42] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 75 seconds).
+[04:30:53] Egorik: йоу
+[04:31:01] Egorik: твой же верт?
+[04:31:05] Kerchinsky: нет
+[04:31:07] Egorik: а
+[04:31:17] Egorik: нуу я тогда на место верну ;)
+[04:33:30] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[04:33:30] Egorik suicided!
+[04:42:10] Dropped "Kerchinsky" from server<STEAM_0:1:591953064>
+[04:42:10] Kerchinsky suicided!
+[05:43:50] Client "sekta" connected.
+[05:54:49] Client "sekta" spawned in server <STEAM_0:0:57939554> (took 659 seconds).
+[05:58:19] Dropped "sekta" from server<STEAM_0:0:57939554>
+[05:58:19] sekta suicided!
+[07:05:39] Client "kudalev" connected.
+[07:06:16] Client "kudalev" spawned in server <STEAM_0:0:21670625> (took 37 seconds).
+[07:12:03] Dropped "kudalev" from server<STEAM_0:0:21670625>
+[07:12:03] kudalev suicided!
+[07:30:01] Client "Egorik" connected.
+[07:31:02] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 61 seconds).
+[07:34:53] Egorik: !motd
+[07:35:21] Client "Tockerheh" connected.
+[07:36:08] Client "Tockerheh" spawned in server <STEAM_0:0:409939021> (took 47 seconds).
+[07:56:27] Egorik killed Tockerheh using rust_boltrifle
+[07:56:51] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[07:56:51] Egorik suicided!
+[07:57:17] Client "Egorik" connected.
+[07:58:06] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 49 seconds).
+[08:02:24] Tockerheh killed Egorik using tfa_doig43
+[08:04:18] Egorik: supply radio: fulton-crate
+[08:04:54] Egorik: supply radio: fulton-crate
+[08:13:09] Tockerheh: supply radio: first-aid kits
+[08:14:15] (TEAM) Egorik: ЫЫ
+[08:16:42] Tockerheh: supply radio: fulton-crate
+[08:25:30] Client "ObriVik | Prime" connected.
+[08:44:16] Tockerheh killed Egorik using tfa_doig43
+[08:46:26] Client "Yumi" connected.
+[08:56:04] Egorik: supply radio: fulton-crate
+[08:59:21] Client "камень" connected.
+[09:00:02] Client "Мятний геро#н" connected.
+[09:00:36] Client "камень" spawned in server <STEAM_0:0:625517352> (took 75 seconds).
+[09:02:21] Client "Мятний геро#н" spawned in server <STEAM_0:1:532225263> (took 139 seconds).
+[09:02:49] Dropped "Мятний геро#н" from server<STEAM_0:1:532225263>
+[09:02:49] Мятний геро#н suicided!
+[09:06:34] Client "Мятний геро#н" connected.
+[09:07:33] Client "Мятний геро#н" spawned in server <STEAM_0:1:532225263> (took 59 seconds).
+[09:07:56] Dropped "Мятний геро#н" from server<STEAM_0:1:532225263>
+[09:07:56] Мятний геро#н suicided!
+[09:09:26] Client "Мятний геро#н" connected.
+[09:09:48] камень: !motd
+[09:10:24] Client "Мятний геро#н" spawned in server <STEAM_0:1:532225263> (took 58 seconds).
+[09:10:46] Dropped "Мятний геро#н" from server<STEAM_0:1:532225263>
+[09:10:46] Мятний геро#н suicided!
+[09:16:16] Client "Мятний геро#н" connected.
+[09:16:22] Client "Мятний геро#н" connected.
+[09:17:24] Client "Мятний геро#н" spawned in server <STEAM_0:1:532225263> (took 62 seconds).
+[09:17:45] Dropped "Мятний геро#н" from server<STEAM_0:1:532225263>
+[09:17:45] Мятний геро#н suicided!
+[09:20:39] Client "Мятний геро#н" connected.
+[09:21:37] Client "Doomed" connected.
+[09:21:38] Client "Мятний геро#н" spawned in server <STEAM_0:1:532225263> (took 59 seconds).
+[09:21:59] Dropped "Мятний геро#н" from server<STEAM_0:1:532225263>
+[09:21:59] Мятний геро#н suicided!
+[09:23:09] Client "Doomed" spawned in server <STEAM_0:0:632892963> (took 92 seconds).
+[09:26:42] Dropped "Doomed" from server<STEAM_0:0:632892963>
+[09:26:42] Doomed suicided!
+[09:30:27] Egorik killed камень using tfa_doik98_scop
+[09:39:26] камень: !motd
+[09:39:32] камень: jmod_ez_econ
+[09:40:44] Egorik killed Tockerheh using tfa_doik98_scop
+[09:40:49] Egorik killed камень using tfa_doik98_scop
+[09:50:06] Client "PoPcat" connected.
+[09:51:22] Client "PoPcat" spawned in server <STEAM_0:1:564871456> (took 76 seconds).
+[09:54:34] PoPcat: здарова
+[09:54:35] Egorik killed Tockerheh using tfa_doik98_scop
+[09:54:36] PoPcat: чё  как
+[09:55:26] PoPcat: здарова
+[09:55:43] PoPcat: а ты кто?
+[09:56:00] PoPcat: мб у тебя трогой ник был
+[09:56:06] PoPcat: ааа
+[09:56:18] PoPcat: нет не знаю
+[09:56:32] PoPcat: а ты меня помнишь
+[09:56:38] PoPcat: круто
+[09:56:55] PoPcat: а чё у вас тут происходит
+[09:57:13] PoPcat: да у меня лагает пиздец
+[09:57:43] Dropped "PoPcat" from server<STEAM_0:1:564871456>
+[09:57:43] PoPcat suicided!
+[10:18:51] Dropped "камень" from server<STEAM_0:0:625517352>
+[10:18:51] камень suicided!
+[10:33:20] Tockerheh killed Egorik using tfa_doik98_scop
+[10:33:45] Egorik killed Tockerheh using tfa_doim1912
+[10:39:20] Egorik killed Tockerheh using env_explosion
+[10:44:09] Dropped "Tockerheh" from server<STEAM_0:0:409939021>
+[10:44:09] Tockerheh suicided!
+[10:44:15] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[10:44:15] Egorik suicided!
+[10:57:27] Client "Моль" connected.
+<Logging continued in "data/ulx_logs/11-14-25.txt">

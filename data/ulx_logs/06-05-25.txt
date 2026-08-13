@@ -1,0 +1,1275 @@
+<Logging continued from "data/ulx_logs/06-04-25.txt">
+[00:13:45] Client "BATON" connected.
+[00:25:31] Client "tima" connected.
+[00:25:45] Client "nikita..." connected.
+[00:26:41] Client "nikita..." spawned in server <STEAM_0:0:804487108> (took 56 seconds).
+[00:26:46] Client "tima" spawned in server <STEAM_0:0:816724119> (took 75 seconds).
+[00:57:38] nikita... suicided!
+[01:10:48] tima killed nikita... using wep_jack_gmod_ezpickaxe
+[01:25:46] nikita...: прости
+[01:37:32] Client "YASSINGNEER" connected.
+[01:37:58] Client "☾☆ SoleRug ☾☆" connected.
+[01:37:58] nikita...: supply radio: fulton-crate
+[01:41:03] Client "krilz" connected.
+[01:42:44] Client "krilz" spawned in server <STEAM_0:1:89998932> (took 101 seconds).
+[02:00:23] (TEAM) tima: ш
+[02:01:14] tima: г
+[02:01:49] nikita... was killed by ent_jack_gmod_ezfalloutparticle
+[02:01:59] krilz was killed by ent_jack_gmod_ezfalloutparticle
+[02:02:47] nikita... was killed by ent_jack_gmod_ezfalloutparticle
+[02:02:53] krilz was killed by ent_jack_gmod_ezfalloutparticle
+[02:03:46] nikita... was killed by ent_jack_gmod_ezfalloutparticle
+[02:03:51] krilz was killed by ent_jack_gmod_ezfalloutparticle
+[02:04:39] krilz was killed by ent_jack_gmod_ezfalloutparticle
+[02:04:48] nikita... was killed by ent_jack_gmod_ezfalloutparticle
+[02:05:30] krilz was killed by ent_jack_gmod_ezfalloutparticle
+[02:06:15] nikita... was killed by ent_jack_gmod_ezfalloutparticle
+[02:14:15] krilz killed tima using lvs_wheeldrive_dodhalftrack_us
+[02:15:11] Dropped "tima" from server<STEAM_0:0:816724119>
+[02:15:11] tima suicided!
+[02:21:39] Client "klinskoe za 200" connected.
+[02:21:48] Dropped "nikita..." from server<STEAM_0:0:804487108>
+[02:21:48] nikita... suicided!
+[02:23:15] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 96 seconds).
+[02:23:54] Client "t0mat025" connected.
+[02:24:33] Client "t0mat025" spawned in server <STEAM_0:1:872564014> (took 39 seconds).
+[02:42:56] Client "Шайтан" connected.
+[02:43:57] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 61 seconds).
+[02:47:44] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[02:47:44] Шайтан suicided!
+[02:47:56] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[02:47:56] klinskoe za 200 suicided!
+[02:57:06] Client "ego" connected.
+[03:23:04] Client "kosmokot" connected.
+[03:26:39] Client "kosmokot" connected.
+[03:27:28] Client "kosmokot" spawned in server <STEAM_0:0:41186306> (took 49 seconds).
+[03:27:42] Dropped "kosmokot" from server<STEAM_0:0:41186306>
+[03:27:42] kosmokot suicided!
+[03:27:43] Client "kosmokot" connected.
+[03:28:18] Client "kosmokot" spawned in server <STEAM_0:0:41186306> (took 35 seconds).
+[03:28:54] kosmokot was killed by ent_jack_gmod_ezsentry
+[03:36:12] Client "maksumkolesnukov022" connected.
+[03:36:45] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 33 seconds).
+[03:36:59] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[03:36:59] maksumkolesnukov022 suicided!
+[03:37:00] Client "maksumkolesnukov022" connected.
+[03:37:20] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 20 seconds).
+[03:37:28] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[03:37:28] maksumkolesnukov022 suicided!
+[03:37:29] Client "maksumkolesnukov022" connected.
+[03:37:50] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 21 seconds).
+[03:38:01] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[03:38:01] maksumkolesnukov022 suicided!
+[03:38:02] Client "maksumkolesnukov022" connected.
+[03:38:22] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 20 seconds).
+[03:42:19] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[03:42:19] maksumkolesnukov022 suicided!
+[03:42:19] Client "maksumkolesnukov022" connected.
+[03:42:40] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 21 seconds).
+[03:43:41] Client "klinskoe za 200" connected.
+[03:43:48] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[03:43:48] maksumkolesnukov022 suicided!
+[03:44:19] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 38 seconds).
+[03:50:18] klinskoe za 200: БУ
+[03:50:21] klinskoe za 200: привет
+[03:50:27] klinskoe za 200: >:]
+[03:50:31] klinskoe za 200: так там турели
+[03:50:37] klinskoe za 200: и два тигра
+[03:50:44] (TEAM) klinskoe za 200: нуууу
+[03:50:47] klinskoe za 200: очень круто
+[03:50:54] klinskoe za 200: но я бы лстерегался огнеметчиков
+[03:50:57] klinskoe za 200: вместе с ПВО
+[03:51:01] klinskoe za 200: ну да
+[03:51:03] klinskoe za 200: еть
+[03:51:07] klinskoe za 200: да
+[03:51:12] klinskoe za 200: крутышка
+[03:51:20] klinskoe za 200: ПРОДАЙ ВСЁ
+[03:51:21] klinskoe za 200: не
+[03:51:28] klinskoe za 200: я устал от яжерок
+[03:51:31] klinskoe za 200: нк бывает
+[03:51:39] klinskoe za 200: ой бе
+[03:51:45] klinskoe za 200: не хочу к нему
+[03:51:50] klinskoe za 200: не знаюю
+[03:51:54] klinskoe za 200: побегаю подумаю
+[03:52:01] klinskoe za 200: О КАК
+[03:52:07] klinskoe za 200: не надо
+[03:52:11] klinskoe za 200: бывает
+[04:27:36] Client "Allkot5" connected.
+[04:28:18] Client "Allkot5" spawned in server <STEAM_0:0:616036288> (took 42 seconds).
+[04:32:18] Allkot5 was killed by ent_jack_gmod_ezsentry
+[04:37:03] Allkot5 was killed by ent_jack_gmod_ezsentry
+[04:37:42] Allkot5 was killed by ent_jack_gmod_ezsentry
+[04:38:41] Allkot5 was killed by ent_jack_gmod_ezsentry
+[04:39:24] Allkot5 was killed by ent_jack_gmod_ezsentry
+[04:40:15] Allkot5 was killed by ent_jack_gmod_ezsentry
+[04:40:26] Dropped "Allkot5" from server<STEAM_0:0:616036288>
+[04:40:26] Allkot5 suicided!
+[04:41:59] t0mat025 killed krilz using ent_jack_gmod_ezchlorineparticle
+[04:52:07] krilz was killed by lvs_helicopter_cod_ah6
+[04:54:27] krilz suicided!
+[04:58:46] Client "tima" connected.
+[04:59:45] krilz suicided!
+[04:59:45] t0mat025 was killed by lvs_wheeldrive_dodwillyjeep
+[04:59:46] Client "tima" spawned in server <STEAM_0:0:816724119> (took 60 seconds).
+[05:01:03] t0mat025 killed krilz using tfa_doik98_scop
+[05:01:14] Dropped "krilz" from server<STEAM_0:1:89998932>
+[05:01:14] krilz suicided!
+[05:15:17] Client "Soldier_S.C.A.F" connected.
+[05:22:14] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 417 seconds).
+[05:26:14] Soldier_S.C.A.F: здаров
+[05:26:23] Soldier_S.C.A.F: да норм
+[05:26:27] Soldier_S.C.A.F: с пк у тебя как
+[05:26:36] Soldier_S.C.A.F: мм
+[05:27:05] Soldier_S.C.A.F: м-да конечно прикольный котедж
+[05:27:25] Soldier_S.C.A.F: но щяс спокойно орудиями можно сносить
+[05:27:47] Soldier_S.C.A.F: а смысл
+[05:27:53] Soldier_S.C.A.F: карта так-то херня
+[05:28:21] Soldier_S.C.A.F: ладно может после сменры карты зайду
+[05:28:28] Soldier_S.C.A.F: смены*
+[05:28:48] Client "ReDecart" connected.
+[05:29:00] Soldier_S.C.A.F: если что можешь меня придупредить если будешь еще на сервере
+[05:29:23] Soldier_S.C.A.F was killed by trigger_hurt
+[05:29:25] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[05:29:25] Soldier_S.C.A.F suicided!
+[05:29:29] Client "ReDecart" spawned in server <STEAM_0:0:760626996> (took 41 seconds).
+[05:30:57] Dropped "kosmokot" from server<STEAM_0:0:41186306>
+[05:30:57] kosmokot suicided!
+[05:38:13] t0mat025 suicided!
+[05:38:17] Dropped "t0mat025" from server<STEAM_0:1:872564014>
+[05:38:17] t0mat025 suicided!
+[05:42:45] Client "nikita..." connected.
+[05:43:43] Client "nikita..." spawned in server <STEAM_0:0:804487108> (took 58 seconds).
+[05:46:26] (TEAM) nikita...: не ну нахер
+[05:46:29] Dropped "nikita..." from server<STEAM_0:0:804487108>
+[05:46:29] nikita... suicided!
+[05:57:05] tima: supply radio: fulton-crate
+[06:09:11] Dropped "ReDecart" from server<STEAM_0:0:760626996>
+[06:09:11] ReDecart suicided!
+[06:28:37] Client "A_N_G _E_L2" connected.
+[06:30:42] Client "Chupacabr" connected.
+[06:31:39] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 57 seconds).
+[06:34:29] klinskoe za 200 to admins: можно новую карту? я наелся :[
+[06:35:02] Chupacabr: !menu
+[06:35:11] (csay from Chupacabr) скоро
+[06:36:48] (TEAM) tima: ш
+[06:37:43] (TEAM) tima: ш
+[06:42:05] Chupacabr: !menu
+[06:42:16] Chupacabr started a votemap for gm_sro_mountain_field
+[06:42:19] klinskoe za 200 voted for: Yes
+[06:42:19] Chupacabr voted for: Yes
+[06:42:28] tima voted for: Yes
+[06:42:28] Vote results: Option 'Yes' won, changemap pending approval. (3/3)
+[06:42:31] Chupacabr voted for: Yes
+[06:42:31] Chupacabr approved the votemap
+[06:42:31] Server is shutting down/changing levels.
+
+
+
+[06:42:54] New map: gm_sro_mountain_field
+[06:42:55] Client "tima" connected.
+[06:43:35] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 48 seconds).
+[06:43:44] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 57 seconds).
+[06:43:57] Client "tima" spawned in server <STEAM_0:0:816724119> (took 62 seconds).
+[06:48:46] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[06:48:46] Chupacabr suicided!
+[07:00:40] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[07:00:40] klinskoe za 200 suicided!
+[07:11:44] Client "простофиля228" connected.
+[07:12:38] tima: н
+[07:15:43] Client "gloryy" connected.
+[07:26:50] Client "aria" connected.
+[07:31:55] Client "Soldier_S.C.A.F" connected.
+[07:34:50] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 175 seconds).
+[07:37:09] Client "arturperson" connected.
+[07:37:24] Client "aria" connected.
+[07:38:36] Client "aria" spawned in server <STEAM_0:0:562682124> (took 72 seconds).
+[07:39:32] Client "arikberegovenko" connected.
+[07:42:24] Client "arikberegovenko" connected.
+[07:42:33] Client "Fin." connected.
+[07:43:31] Dropped "tima" from server<STEAM_0:0:816724119>
+[07:43:31] tima suicided!
+[07:44:55] Client "Fin." spawned in server <STEAM_0:0:555900608> (took 142 seconds).
+[07:45:59] Client "arikberegovenko" connected.
+[07:47:11] Client "arikberegovenko" spawned in server <STEAM_0:1:913955895> (took 72 seconds).
+[07:55:01] Soldier_S.C.A.F: нет спасибо
+[07:55:23] Dropped "arikberegovenko" from server<STEAM_0:1:913955895>
+[07:55:23] arikberegovenko suicided!
+[07:58:16] Client "бугагашенька" connected.
+[07:58:49] Client "бугагашенька" spawned in server <STEAM_0:1:711216595> (took 33 seconds).
+[08:00:03] Fin.: radio: fuel
+[08:00:09] Fin.: radio:fuel
+[08:00:20] Fin.: supply radio: fuel
+[08:01:04] Fin.: aid radio: fuel
+[08:02:26] Fin.: radio: water
+[08:02:34] Fin.: supply radio: water
+[08:02:41] Fin.: supply radio: armor
+[08:02:48] Fin.: radio: armor
+[08:05:20] Client "t0mat025" connected.
+[08:06:01] Client "t0mat025" spawned in server <STEAM_0:1:872564014> (took 41 seconds).
+[08:07:13] Soldier_S.C.A.F: я здесь
+[08:07:18] Soldier_S.C.A.F: вам что-то нужно?
+[08:07:30] Soldier_S.C.A.F: мм я сам по себе
+[08:09:41] бугагашенька: да
+[08:09:45] бугагашенька: щас я афк 5 сек
+[08:09:53] бугагашенька: давай
+[08:10:01] бугагашенька: 4 золота
+[08:10:11] бугагашенька: спс
+[08:10:13] бугагашенька: удачи
+[08:12:57] aria: we cant speek ru
+[08:14:42] Client "klinskoe za 200" connected.
+[08:15:33] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 51 seconds).
+[08:16:14] бугагашенька: йоу
+[08:16:22] бугагашенька: алоу?
+[08:16:33] бугагашенька: купите арбуз
+[08:16:40] бугагашенька: в подарок 
+[08:16:47] (TEAM) бугагашенька: 114 резины
+[08:17:00] бугагашенька: купи арбуз
+[08:17:10] бугагашенька: в подарок 100 резины
+[08:17:27] бугагашенька: вы говорить умеете?
+[08:17:33] Fin.: нет, спасибо
+[08:17:39] бугагашенька: а че
+[08:17:47] бугагашенька: как я вижу
+[08:17:58] бугагашенька: вы новички и в игре полный ноль кажись
+[08:18:22] Fin.: нет, мы просто смотрим вокруг
+[08:18:29] бугагашенька: в смысле?
+[08:18:51] Fin.: мы знаем, что делать
+[08:19:14] бугагашенька: как я понимаю в джимоде вы знаете кое че но вот на сервере
+[08:19:19] бугагашенька: стоп...
+[08:19:27] бугагашенька: tem c00lkids
+[08:19:30] бугагашенька: знаете?
+[08:19:53] Fin.: нет
+[08:20:13] бугагашенька: мдамс
+[08:20:33] Fin.: что?
+[08:20:37] бугагашенька: крч
+[08:20:41] бугагашенька: у вас сталь есть?
+[08:21:02] Fin.: да
+[08:21:06] бугагашенька: сколько
+[08:21:16] бугагашенька: 4
+[08:21:24] Fin.: 5
+[08:21:28] Client "OUTSIDER" connected.
+[08:22:26] aria: Брат, мы иранцы.
+[08:22:51] бугагашенька: вот вам подарок
+[08:23:13] aria: Спасибо.
+[08:23:22] бугагашенька: вы через переводчик разговариваете?
+[08:23:42] Fin.: да
+[08:23:50] бугагашенька: какой язык
+[08:24:00] aria: Да, это очень сложно, но это хорошо.
+[08:24:26] t0mat025 was killed by ent_aboot_gmod_ezshippingcontainer
+[08:24:31] бугагашенька: я буду говорить на вашем языке штоб вы понимали меня, а вы на моем язы�
+[08:24:52] Fin.: lets go with english if its ok
+[08:24:57] Client "iz085705" connected.
+[08:25:00] бугагашенька: ok
+[08:25:55] Fin.: do you know why we cant use the radio
+[08:26:04] Soldier_S.C.A.F: кто это?
+[08:26:32] Soldier_S.C.A.F: нет у меня пока хватает по припасам
+[08:26:43] Soldier_S.C.A.F: и вам
+[08:27:27] бугагашенька: I'm leaving now, so I'll give you a couple of tips,
+[08:27:34] Fin.: ok thanks 
+[08:27:40] бугагашенька: 1-make a scanner to look for ore underground, when you find STEEL, WATER, OIL, - 3 main resources, put a base there,
+[08:27:52] бугагашенька: 2-don't build near the spawn
+[08:27:59] бугагашенька: 3-if you have any questions, write in the chat /motd and you'll see everything there, good luck!
+[08:28:06] Fin.: ok thanks!
+[08:28:11] Fin.: good luck
+[08:28:20] aria: thanks
+[08:28:26] Fin.: /motd
+[08:28:38] бугагашенька: you need to press F4 to open the "teams" or "squads" menu
+[08:28:47] Fin.: Ah ok thanks
+[08:28:59] бугагашенька: create your team, then you can use the radio
+[08:29:12] Fin.: alright thank you
+[08:29:44] aria: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:29:56] Fin.: /motd 
+[08:30:38] бугагашенька: lastly, when you create a squad on the left there will be 
+[08:30:46] бугагашенька: 1-strength of your faction, usually it is 100, if it falls to 0 your squad will be disbanded and you will lose,
+[08:30:51] бугагашенька: (it is impossible to lose here, your country will simply collapse)
+[08:31:10] бугагашенька: more help?
+[08:31:12] Fin.: ok thanks for the tips
+[08:31:19] Fin.: i think we are good for now
+[08:31:23] Fin.: /motd 
+[08:31:43] Fin.: this command doesnt work 
+[08:31:48] бугагашенька: recruit people and watch the guide from the server creator,
+[08:31:57] бугагашенька: /motd
+[08:32:11] бугагашенька: idn
+[08:32:23] бугагашенька: 1 cek
+[08:32:42] бугагашенька: /menu
+[08:32:43] klinskoe za 200: ВЫХРДИ
+[08:32:51] klinskoe za 200: СКОЛЬКО Я ЕЩЕ КРИЧАТЬ ТУТ БУДУ
+[08:32:59] бугагашенька: /motd
+[08:33:04] бугагашенька: /modt
+[08:33:07] Soldier_S.C.A.F: кто это?
+[08:33:12] klinskoe za 200: клинское
+[08:33:18] Soldier_S.C.A.F: чего вам
+[08:33:29] klinskoe za 200: узнать кто тут
+[08:33:29] бугагашенька: I don't know, log in again and you should have the start window and information
+[08:33:31] klinskoe za 200: :]
+[08:33:44] Fin.: Oh ok Thanks 
+[08:33:48] klinskoe za 200: у меня есть интересная информация
+[08:33:50] бугагашенька: good luck! find people/pros and learn!
+[08:33:58] klinskoe za 200: я знаю где уран
+[08:34:05] Soldier_S.C.A.F: мне это не интересно
+[08:34:10] klinskoe za 200: ну как хочешь
+[08:34:34] Fin.: Я ЛЮБЛЮ ПЛЫВИСКИ
+[08:35:32] Client "OUTSIDER" spawned in server <STEAM_0:0:502099106> (took 844 seconds).
+[08:36:11] бугагашенька: ЙООООУ!
+[08:36:24] klinskoe za 200: попробуй
+[08:36:26] klinskoe za 200: копнуть
+[08:36:35] klinskoe za 200: у тебя таже фигнч
+[08:36:38] бугагашенька: ага
+[08:36:42] klinskoe za 200: ну емае
+[08:36:42] бугагашенька: че с сервером
+[08:36:45] klinskoe za 200: не знаю
+[08:36:49] klinskoe za 200: опят накодил
+[08:36:52] бугагашенька: Я ВСЕ ВИЖУ
+[08:36:55] klinskoe za 200: да
+[08:37:00] klinskoe za 200: вот так вот
+[08:37:12] klinskoe za 200: короче
+[08:37:13] бугагашенька: идем базу делать?
+[08:37:14] klinskoe za 200: прикол
+[08:37:20] (TEAM) klinskoe za 200: я знаю где уран
+[08:37:23] бугагашенька: у нас арабы где кста
+[08:37:40] (TEAM) бугагашенька: уф уф уф
+[08:37:42] klinskoe za 200: >:]
+[08:38:01] klinskoe za 200: таак
+[08:38:02] бугагашенька: я нашел сканер
+[08:38:04] klinskoe za 200: да
+[08:38:08] klinskoe za 200: сканер неработпет
+[08:38:09] бугагашенька: идем делать сканер и искать мето для базы
+[08:38:12] бугагашенька: да...
+[08:38:22] klinskoe za 200: <:[
+[08:38:31] бугагашенька: :_(
+[08:38:33] (TEAM) klinskoe za 200: тогда
+[08:38:42] klinskoe za 200: щас экономику глянем
+[08:38:43] (TEAM) бугагашенька: сининький
+[08:38:48] бугагашенька: идем
+[08:38:51] бугагашенька: т*
+[08:39:01] бугагашенька: удачи
+[08:39:06] (TEAM) klinskoe za 200: экономика воняет
+[08:39:15] бугагашенька: а ресы пропадают
+[08:39:15] Soldier_S.C.A.F: кто это?
+[08:39:18] klinskoe za 200: я поищк вольфрам
+[08:39:19] klinskoe za 200: да
+[08:39:24] (TEAM) klinskoe za 200: черенз время
+[08:39:25] бугагашенька: на
+[08:39:26] бугагашенька: бери
+[08:39:32] бугагашенька: закладка
+[08:39:36] Soldier_S.C.A.F: хм
+[08:39:36] klinskoe za 200: ага
+[08:39:39] Soldier_S.C.A.F: ну привет
+[08:39:53] бугагашенька: говорит нашел
+[08:39:57] бугагашенька: а вот где неизвесно
+[08:40:23] OUTSIDER: !motd
+[08:40:55] klinskoe za 200: НАШЕЛ
+[08:40:58] (TEAM) бугагашенька: ппц
+[08:41:03] бугагашенька: надо звать админа
+[08:41:07] бугагашенька: я ебал
+[08:41:10] klinskoe za 200: чупаку
+[08:41:14] klinskoe za 200: он тут наговил
+[08:41:24] бугагашенька: мдамс
+[08:41:35] бугагашенька: а тот челик
+[08:41:36] бугагашенька: кста
+[08:41:42] бугагашенька: пришел с какой-то базы
+[08:41:45] бугагашенька: сокре евсего
+[08:41:46] бугагашенька: 4
+[08:41:52] klinskoe za 200: кто знает
+[08:41:56] бугагашенька: я хз
+[08:42:00] бугагашенька: АФК
+[08:43:18] бугагашенька: эх блять
+[08:43:29] бугагашенька: эт чче получаеться
+[08:43:33] бугагашенька: уран и энергия будет
+[08:43:40] бугагашенька: а куда ту энергию девать
+[08:43:41] бугагашенька: хз
+[08:43:47] klinskoe za 200: ну
+[08:43:52] klinskoe za 200: вот такая вот фигня
+[08:43:56] klinskoe za 200: :/
+[08:44:22] klinskoe za 200: короче я так понял
+[08:44:28] klinskoe za 200: будет бомж ивент лол
+[08:44:29] OUTSIDER to admins: помогите пожалуйста
+[08:44:32] бугагашенька: угу
+[08:44:37] бугагашенька: тот чел синий
+[08:44:40] бугагашенька: либо заказал
+[08:44:43] klinskoe za 200: заказал
+[08:44:45] бугагашенька: либо он тут 
+[08:44:50] бугагашенька: фабрикатор зделал
+[08:45:10] klinskoe za 200: а чтоб такое что он "сделал" фабрик не нужен
+[08:45:32] бугагашенька: у него броня фабрикаторская
+[08:45:46] klinskoe za 200: легкая броня НЕ из фабрика
+[08:45:59] бугагашенька: так там была легко-средняя
+[08:46:01] бугагашенька: гений
+[08:46:14] klinskoe za 200: тогда заказал второй наборчик
+[08:46:21] klinskoe za 200: с броней лидера
+[08:46:26] бугагашенька: блять почему не 3 а?
+[08:46:32] бугагашенька: или 4
+[08:46:34] klinskoe za 200: ну кто его знает
+[08:47:10] бугагашенька: уф уф уфик
+[08:47:27] (TEAM) бугагашенька: юлять
+[08:47:36] бугагашенька: ну тут стальъ
+[08:47:38] бугагашенька: вода
+[08:47:39] бугагашенька: уран
+[08:47:40] бугагашенька: ну
+[08:47:46] бугагашенька: кое как но пойдет
+[08:47:49] klinskoe za 200: жить можно
+[08:47:52] бугагашенька: согласен
+[08:47:57] бугагашенька: ток все у спавна...
+[08:48:04] klinskoe za 200: та пойег
+[08:48:07] klinskoe za 200: пофег
+[08:48:11] Soldier_S.C.A.F: вам помочь?
+[08:48:47] Soldier_S.C.A.F: нет
+[08:49:18] Soldier_S.C.A.F: ну как сказать...
+[08:49:23] (TEAM) бугагашенька: НУ
+[08:49:25] бугагашенька: КАКОГО
+[08:49:28] Soldier_S.C.A.F: просто проп который только разбирать
+[08:49:29] klinskoe za 200: БЛЯЯЯЯ
+[08:49:37] Soldier_S.C.A.F: ах
+[08:49:37] klinskoe za 200: фух
+[08:49:39] бугагашенька: ЧЕ ОНО НОРМАЛЬНО ВВЕРХ ВЫЛЕЗТИ НЕ МОЖЕТ
+[08:49:42] klinskoe za 200: неа
+[08:49:42] Soldier_S.C.A.F: грузовой самолет
+[08:49:53] Soldier_S.C.A.F: наверное припасы захватывал
+[08:50:02] Soldier_S.C.A.F: кстати
+[08:50:15] Soldier_S.C.A.F: не забудь сделать базовые запчасти 
+[08:50:29] Soldier_S.C.A.F: basic parts
+[08:50:38] Soldier_S.C.A.F: ресурсы
+[08:50:53] Soldier_S.C.A.F: и делай ящик инструментов
+[08:50:59] Soldier_S.C.A.F: да
+[08:51:32] Soldier_S.C.A.F: ну
+[08:51:40] бугагашенька: прям тут?
+[08:51:40] Soldier_S.C.A.F: alt+e
+[08:51:54] Soldier_S.C.A.F: и да
+[08:52:10] Soldier_S.C.A.F: желательно изучи JMOD и еще сервер
+[08:52:32] Soldier_S.C.A.F: ладно
+[08:52:38] (TEAM) klinskoe za 200: дану
+[08:52:41] klinskoe za 200: тут так себе
+[08:52:41] Soldier_S.C.A.F: удачи вам
+[08:52:48] бугагашенька: че
+[08:52:57] klinskoe za 200: ну место само
+[08:53:02] (TEAM) klinskoe za 200: ресы тут классные
+[08:53:09] бугагашенька: ну сталь
+[08:53:10] бугагашенька: вода
+[08:53:12] бугагашенька: нефть
+[08:53:18] klinskoe za 200: но хотелось бы на возвышенности
+[08:53:35] бугагашенька: серебро?
+[08:53:37] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[08:53:37] Soldier_S.C.A.F suicided!
+[08:53:45] klinskoe za 200: серебро всегда дешевое
+[08:53:46] бугагашенька: вау
+[08:53:49] бугагашенька: пох
+[08:54:37] бугагашенька: хых4
+[08:55:34] klinskoe za 200: золото подорожало
+[08:55:57] OUTSIDER: в
+[08:56:08] OUTSIDER: пиздец
+[08:57:48] OUTSIDER: !drop
+[08:57:50] OUTSIDER: /drop
+[08:59:47] OUTSIDER: /ooc как оружие выкинуть?
+[08:59:51] бугагашенька: ого
+[09:01:43] OUTSIDER: !motd
+[09:04:33] OUTSIDER: !dropweapon
+[09:05:43] OUTSIDER to admins: как выкинуть оружие из руки?
+[09:07:36] бугагашенька: БЛЯТЬ ЧЕ ТЫ ТАМ ЗА 
+[09:07:44] бугагашенька: УРАН ГОТОВЫЙ ПРОДАЕШ ИЛИ ЧЕ
+[09:07:47] бугагашенька: КАКОГО
+[09:07:52] klinskoe za 200: золотишко
+[09:07:53] бугагашенька: Я В АХУЕ 200К
+[09:07:55] (TEAM) klinskoe za 200: :0
+[09:07:58] бугагашенька: :0
+[09:08:01] (TEAM) klinskoe za 200: :)
+[09:08:02] бугагашенька: афиг
+[09:08:08] бугагашенька: у меня идейка
+[09:08:20] бугагашенька: >:)
+[09:10:08] бугагашенька: хы
+[09:10:15] бугагашенька: закажи фабрикатор
+[09:11:08] klinskoe za 200: скучно ужас
+[09:11:11] бугагашенька: я пошел к нашим "арабам
+[09:11:16] бугагашенька: ариа и фин
+[09:11:20] klinskoe za 200: окей
+[09:11:25] бугагашенька: кинь им запров а вльянс если хочеш
+[09:11:28] klinskoe za 200: не не
+[09:11:36] бугагашенька: ТУТ ВОДА ЕСЛИ ЧЕ
+[09:11:41] бугагашенька: ОК?ъ
+[09:12:24] бугагашенька: огоу
+[09:12:38] бугагашенька: переместилися
+[09:12:41] бугагашенька: красавцы
+[09:13:47] бугагашенька: Я СВОЙ
+[09:13:54] бугагашенька: совй!
+[09:14:04] бугагашенька: ok
+[09:14:09] бугагашенька: sorry
+[09:14:13] (TEAM) aria: hi
+[09:14:16] бугагашенька: joku
+[09:14:18] aria: hi
+[09:14:27] бугагашенька: gut
+[09:14:35] бугагашенька: look
+[09:14:55] OUTSIDER: hi
+[09:15:02] бугагашенька: 5 cek
+[09:15:04] бугагашенька: wait
+[09:15:24] бугагашенька: This server has a "MADNESS" mechanic
+[09:16:16] бугагашенька: if you kill someone or there is an explosion or something like that you "remember" the last war, it will pass in time, just a 
+[09:16:25] бугагашенька: just a small problem
+[09:16:47] бугагашенька: ?
+[09:17:05] бугагашенька: bug
+[09:17:12] бугагашенька: look
+[09:17:20] бугагашенька: tru 
+[09:17:30] бугагашенька: stop
+[09:17:40] aria: ok
+[09:17:46] aria: why?
+[09:17:49] бугагашенька: We have a bug at our base where when you dig with a pickaxe the walls disappear
+[09:17:58] бугагашенька: IDK
+[09:18:13] бугагашенька: a gift for you
+[09:18:37] aria: wow thanx
+[09:18:41] бугагашенька: guess how much money we have
+[09:18:56] бугагашенька: 245.730
+[09:19:19] бугагашенька: my teammate found gold
+[09:20:14] бугагашенька: and... they don't usually talk about it... URANIUM. (we don't tell other factions about it for fear of attack, because 
+[09:20:21] бугагашенька: (WE'RE AFRAID YOU'LL START A NUCLEAR PROGRAM!)
+[09:20:44] бугагашенька: Why don't you make a big container?
+[09:20:54] OUTSIDER: !motd
+[09:21:18] бугагашенька: 700 stell=1 big container
+[09:21:52] бугагашенька: 1 container-40000 maks material
+[09:22:02] бугагашенька: here ist 3000
+[09:22:03] OUTSIDER: алло
+[09:22:30] бугагашенька: there is no "threat" on the server yet
+[09:23:28] aria: yey
+[09:23:30] бугагашенька: you are lucky, sometimes there are either too few players and it is boring, or too many and it lags
+[09:23:44] aria was killed by ent_aboot_jsmod_ezcrate_fulton
+[09:23:52] aria: i did
+[09:24:03] бугагашенька: ist normal
+[09:24:32] бугагашенька: lol
+[09:24:37] Client "Belios" connected.
+[09:25:13] (TEAM) бугагашенька: I think you need to make a main base, people come to the server, not necessarily good ones like me
+[09:25:56] бугагашенька: I can show "SQUARE" for the base
+[09:26:19] aria: hi
+[09:26:22] бугагашенька: hi
+[09:26:40] бугагашенька: here
+[09:27:12] бугагашенька: you can make walls here, I can probably show you how if you find ceramics
+[09:27:58] бугагашенька: sorry, but sometimes I either don't understand you completely or I can't listen to your answer, write in the chat, it will be 
+[09:28:07] бугагашенька: write in the chat, it will be more convenient
+[09:28:21] Fin.: my friend that died can he get his items back
+[09:29:04] бугагашенька: yeah just take your hand and press right mouse button+E
+[09:29:41] Fin.: ok thanks and yes we know how to make walls we just do trial and error
+[09:29:50] Fin.: if we dont understand
+[09:30:28] бугагашенька: trial and error, classic,
+[09:30:34] Client "krava33" connected.
+[09:30:35] Fin.: yes 
+[09:30:40] Client "krava33" connected.
+[09:30:47] Client "krava33" connected.
+[09:30:50] бугагашенька: How did you come across this server?
+[09:31:26] Fin.: me and my friend were always fans of jmod survival and we played on our own
+[09:31:56] Fin.: it became stale after sometime and we looked for a server and couldnt find any server until now
+[09:32:25] Fin.: and we discovered this yesterday so now we are here
+[09:32:37] бугагашенька: t became stale after sometime and we looked for a server and couldnt find any server until now
+[09:32:43] бугагашенька: не
+[09:32:49] бугагашенька: sorru
+[09:32:58] бугагашенька: wow, what are you in the right place
+[09:33:33] Fin.: we like this server its pretty cool 
+[09:34:00] Fin.: and you helping us out made it 100 times easier and better
+[09:34:56] бугагашенька: the creator of this server pays like 1000 dollars for the host, or in other words for the server
+[09:35:08] Fin.: damn
+[09:35:09] Client "Belios" spawned in server <STEAM_0:1:27608924> (took 632 seconds).
+[09:35:34] бугагашенька: lol
+[09:35:40] бугагашенька: MAGIK
+[09:35:45] Fin.: lol
+[09:35:48] aria: nice
+[09:36:08] бугагашенька: MAGIC BARREL!
+[09:36:12] aria: supply radio: fulton-crate
+[09:36:20] бугагашенька: sorru
+[09:36:29] бугагашенька: y*
+[09:36:40] бугагашенька: turn it on
+[09:37:22] бугагашенька: Well, I'll go, good luck to you!
+[09:37:28] Fin.: ok goodluck
+[09:38:07] бугагашенька: ЧУВАААААААААААААААААААААААААААААААААААААААААААААААААААААААААААА
+[09:38:18] бугагашенька: ЧУВААААААААААААААААААААААААААААААААААААААААААК
+[09:38:28] klinskoe za 200: ЧУВААААААААААААК
+[09:38:30] бугагашенька: ЧУВААААААААААК
+[09:38:31] klinskoe za 200: че там
+[09:38:36] бугагашенька: норм все
+[09:38:41] бугагашенька: обяснил им все по немногу
+[09:38:46] бугагашенька: они в том квадрате
+[09:38:51] klinskoe za 200: круто
+[09:38:55] бугагашенька: мы друзья
+[09:38:58] бугагашенька: такс
+[09:39:01] klinskoe za 200: ништяк
+[09:39:19] бугагашенька: жаль што вода не добывалась
+[09:41:21] бугагашенька: БЛЯТЬ
+[09:43:25] бугагашенька: мдамсь
+[09:43:58] бугагашенька: А КАК
+[09:44:03] бугагашенька: ппц
+[09:44:36] бугагашенька: познакомся с этими 4
+[09:44:42] бугагашенька: Омериканцами
+[09:44:47] klinskoe za 200: ща
+[09:44:47] бугагашенька: с помощью звуков
+[09:44:49] бугагашенька: давай
+[09:44:52] klinskoe za 200: >:]
+[09:44:55] бугагашенька: гимн ОМЕРИКИ
+[09:45:01] бугагашенька: идэм
+[09:45:21] бугагашенька: О
+[09:46:03] Fin.: hello!
+[09:46:09] aria: hello!
+[09:46:12] бугагашенька: hi
+[09:46:19] Fin.: whats up?
+[09:46:22] klinskoe za 200: nice
+[09:46:30] бугагашенька: this is my friend, I just wanted to introduce you
+[09:46:37] klinskoe za 200: :]
+[09:46:37] Fin.: oh nice to meet you
+[09:46:42] бугагашенька: включи гимн китая
+[09:46:45] klinskoe za 200: same
+[09:47:03] aria: lets goooooooooo
+[09:47:25] Fin.: banger
+[09:47:29] klinskoe za 200: yep
+[09:47:50] klinskoe za 200: little present
+[09:47:54] Fin.: oh thanks
+[09:47:57] klinskoe za 200: smoke grenage 
+[09:48:16] Fin.: no please take it
+[09:48:17] klinskoe za 200: its yours :]
+[09:48:24] klinskoe za 200: we already have 200k
+[09:48:29] Fin.: ok then
+[09:48:33] klinskoe za 200: u need it more
+[09:48:53] Fin.: oh thanks 
+[09:49:00] klinskoe za 200: and when u are die, corpse can rot
+[09:49:05] (TEAM) klinskoe za 200: so be accurate
+[09:49:15] klinskoe za 200: u can bury them tho
+[09:49:22] klinskoe za 200: with shovel
+[09:49:23] Fin.: Oo i didnt know that
+[09:49:29] klinskoe za 200: yep
+[09:49:32] Fin.: thanks 
+[09:49:36] klinskoe za 200: there is a lot of mechanics
+[09:49:43] klinskoe za 200: but today is
+[09:49:50] klinskoe za 200: server is kinda broken
+[09:49:54] Fin.: i see
+[09:50:03] бугагашенька: ГОЙДА
+[09:50:08] Fin.: our car disappeard too
+[09:50:24] klinskoe za 200: i think your friend salvaged it
+[09:50:39] klinskoe za 200: or my frien did it
+[09:50:42] Fin.: salvaged what?
+[09:50:45] klinskoe za 200: a car
+[09:50:50] klinskoe za 200: with toolbox
+[09:50:53] Fin.: no it didnt dropout
+[09:50:59] klinskoe za 200: 0_0
+[09:50:59] Fin.: we bought it
+[09:51:05] klinskoe za 200: oh
+[09:51:08] Fin.: yes
+[09:51:13] klinskoe za 200: damn
+[09:51:17] klinskoe za 200: thats bad
+[09:51:24] Fin.: yes but it was ok we made our money back
+[09:51:31] klinskoe za 200: nice
+[09:51:40] Fin.: we now have 40K
+[09:51:47] klinskoe za 200: zamn
+[09:51:48] бугагашенька: ЧУВААААААААААААААААААААААААААААААААААААААААААААААААААК
+[09:51:55] Fin.: DAMN
+[09:52:01] aria: what the heeeeeeeeeeeeeeeeeeeeeeeelllllllllll
+[09:52:03] klinskoe za 200: nice
+[09:52:12] Fin.: you guys are very generouse
+[09:52:16] Fin.: we are grateful
+[09:52:19] klinskoe za 200: :]
+[09:52:42] aria: thanx
+[09:53:14] (TEAM) klinskoe za 200: if u want a physgun
+[09:53:22] klinskoe za 200: u need to build a workbench
+[09:53:31] Fin.: we are on it yes
+[09:53:38] Fin.: we will do so
+[09:53:43] klinskoe za 200: great
+[09:53:54] Fin.: again thanks you for helping us out
+[09:53:59] klinskoe za 200: np
+[09:54:22] klinskoe za 200: there is main goal to make an interesting situations
+[09:54:37] klinskoe za 200: how creator of the server say
+[09:54:42] Fin.: oh 
+[09:54:44] бугагашенька: how do you like the idea of ​​you becoming America? usually on the server they build countries or something like that,
+[09:55:06] Fin.: let me talk to my friend over there
+[09:55:10] klinskoe za 200: alr
+[09:55:13] бугагашенька: ОК
+[09:55:46] Fin.: ok we thought about it
+[09:55:55] Fin.: we will be jamaica
+[09:56:04] бугагашенька: cool
+[09:56:09] klinskoe za 200: nice
+[09:56:37] Fin.: oh lets go
+[09:57:13] Fin.: oh thanks for your help 
+[09:57:15] OUTSIDER: help
+[09:57:28] OUTSIDER: supply radio
+[09:57:34] OUTSIDER: supply radio : help
+[09:57:45] OUTSIDER: supply radio : help
+[09:57:48] OUTSIDER: supply radio : help
+[09:57:58] бугагашенька: I think it's easier to put a wooden table at the back so that the resources that fall on the floor don't interfere with buildi
+[09:58:00] OUTSIDER: !help
+[09:58:02] OUTSIDER: !motd
+[09:58:13] Fin.: good idea
+[09:58:28] бугагашенька: lol
+[09:58:34] Fin.: lmao
+[09:58:38] бугагашенька: wood=stell
+[09:58:44] Fin.: makes sense
+[09:58:47] aria: How is the weather in Russia?
+[09:59:17] бугагашенька: I don't know what the weather is like, I'm from Ukraine and now I'm in Germany
+[09:59:31] aria: wow!
+[09:59:32] Fin.: oh ok
+[09:59:37] aria: thats nice
+[09:59:50] Fin.: i hope the war there stops 
+[10:00:04] aria: Did you see Chernobyl???????
+[10:00:12] бугагашенька: the war didn't affect me at all
+[10:00:18] бугагашенька: no
+[10:00:22] aria: oh
+[10:00:35] Fin.: thats good i hope it never does affect anyone anymore
+[10:00:51] aria: How is life in Ukraine now?
+[10:01:02] Fin.: he means germany
+[10:01:08] aria: oh
+[10:01:14] бугагашенька: I think I'll go, develop, make a fabricator and experiment lol, study the game!
+[10:01:20] Client "maksumkolesnukov022" connected.
+[10:01:31] Fin.: ok do thanks for your help
+[10:01:40] aria: wow car!
+[10:01:41] klinskoe za 200: hi again
+[10:01:44] klinskoe za 200: yep
+[10:01:52] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 32 seconds).
+[10:01:56] klinskoe za 200: this one didnt disapeared
+[10:02:01] бугагашенька: I don't know how life is in Ukraine at the moment, I've been in Germany for a year now, so in my opinion Germany is better tha
+[10:02:05] Client "пися" connected.
+[10:02:12] Fin.: yes maybe ours was bugged
+[10:02:25] бугагашенька: Okay, I'll go, I have to go, good luck!
+[10:02:31] бугагашенька: wow
+[10:02:33] Fin.: well i hope it keeps that way
+[10:02:35] OUTSIDER: пиздец
+[10:02:39] Fin.: good luck and thanks again
+[10:02:45] klinskoe za 200: :]
+[10:02:45] maksumkolesnukov022: физганом надо
+[10:02:50] бугагашенька: будем дрифтить?
+[10:02:51] OUTSIDER: нету
+[10:02:56] klinskoe za 200: да ну
+[10:02:57] maksumkolesnukov022: верстак т2 сделай
+[10:03:00] Client "пися" spawned in server <STEAM_0:0:625517352> (took 55 seconds).
+[10:03:03] бугагашенька: дай я порулю
+[10:03:04] OUTSIDER: не ебу как
+[10:03:07] maksumkolesnukov022: или закажи по радио
+[10:03:14] maksumkolesnukov022: там билд кит
+[10:03:15] OUTSIDER: тут фрака надо
+[10:03:21] maksumkolesnukov022: фракцию сделай тогда
+[10:03:24] OUTSIDER: как
+[10:03:29] maksumkolesnukov022: ф4
+[10:03:56] maksumkolesnukov022: сначала фултон закажи
+[10:04:12] maksumkolesnukov022: ты видос вообще смотрел?
+[10:04:19] maksumkolesnukov022: бебра
+[10:04:28] maksumkolesnukov022: это кредит не надо
+[10:04:36] maksumkolesnukov022: да
+[10:04:50] maksumkolesnukov022: тебя руслан забанит 
+[10:04:59] maksumkolesnukov022: админ
+[10:05:07] бугагашенька: усе
+[10:05:12] klinskoe za 200: классненько
+[10:05:19] бугагашенька: закажи еще машину
+[10:05:24] бугагашенька: а не
+[10:05:27] maksumkolesnukov022: вот так про руслана не надо, он взломает провайдера и зайдёт чисто те�
+[10:05:29] бугагашенька: лады заказывай
+[10:05:30] maksumkolesnukov022: тебя забанить
+[10:05:33] бугагашенька: и нефть надо
+[10:05:37] бугагашенька: 100 будет достаточно
+[10:05:48] klinskoe za 200: я надеюсь это не америкшек стреляли
+[10:05:51] Client "akeno." connected.
+[10:05:52] Client "Im tired of this plan" connected.
+[10:06:07] maksumkolesnukov022: ну у тебя же физган есть 
+[10:06:12] maksumkolesnukov022: закажи фултон
+[10:06:12] бугагашенька: разбираем старую
+[10:06:17] бугагашенька: ок?
+[10:06:18] maksumkolesnukov022: там он бесплатный
+[10:06:20] maksumkolesnukov022: FREE
+[10:06:37] klinskoe za 200: не могу
+[10:06:39] klinskoe za 200: :/
+[10:06:40] maksumkolesnukov022: эээ
+[10:06:42] maksumkolesnukov022: ну нету пока
+[10:06:45] бугагашенька: лозенинг
+[10:06:50] klinskoe za 200: а
+[10:06:55] klinskoe za 200: АХАХ
+[10:06:59] maksumkolesnukov022: щас будем делать трейдинг
+[10:07:08] klinskoe za 200: СИДИ
+[10:07:26] maksumkolesnukov022: фракцию
+[10:07:33] бугагашенька: угусики
+[10:07:35] maksumkolesnukov022: оружие и броня у нас будет
+[10:07:39] бугагашенька: топливоу
+[10:07:42] klinskoe za 200: угусуки
+[10:07:43] бугагашенька: нефть еще нужно
+[10:07:59] бугагашенька: 100 хватит
+[10:08:02] maksumkolesnukov022: а откуда ещё
+[10:08:14] maksumkolesnukov022: щас будем эээ инвестиции
+[10:08:22] klinskoe za 200: на всякий 200 взял
+[10:08:27] klinskoe za 200: все равно не дорого
+[10:08:33] бугагашенька: угу
+[10:08:55] maksumkolesnukov022: да
+[10:09:37] maksumkolesnukov022: тут крч цена меняется и можно инвестировать в драгметаллы 
+[10:10:03] maksumkolesnukov022: он 7к стоит
+[10:10:07] maksumkolesnukov022: руслан загавнаедил
+[10:10:12] бугагашенька: пойдет
+[10:10:30] maksumkolesnukov022: СРО геймплей
+[10:10:49] бугагашенька: ящик....
+[10:10:55] maksumkolesnukov022: пупсик
+[10:11:25] klinskoe za 200: ИНОШОПОТЯНЕ
+[10:11:36] бугагашенька: ЕДЄМ
+[10:11:42] klinskoe za 200: стоп
+[10:11:44] klinskoe za 200: а
+[10:11:46] klinskoe za 200: показать
+[10:11:48] бугагашенька: им
+[10:11:49] klinskoe za 200: поехали
+[10:11:49] бугагашенька: да
+[10:11:50] бугагашенька: едем
+[10:11:51] maksumkolesnukov022: переезжать надо
+[10:11:57] maksumkolesnukov022: чё реально
+[10:12:01] maksumkolesnukov022: ну давай их щас депнем
+[10:12:12] maksumkolesnukov022: щас мы в оружие вложимся
+[10:12:19] Fin.: hi mate
+[10:12:23] klinskoe za 200: check this out!
+[10:12:26] maksumkolesnukov022: нам бы огромный контейнер
+[10:12:30] maksumkolesnukov022: он 40к вмещает
+[10:12:32] бугагашенька: скажи штоб он сел
+[10:12:34] Fin.: what are these?
+[10:12:34] бугагашенька: ты тоже
+[10:12:40] бугагашенька: соундпат вруби и поедем
+[10:12:43] klinskoe za 200: sit down 
+[10:13:01] бугагашенька: КУДА
+[10:13:35] бугагашенька: АХАХПХАХПАХПХАХПАХП
+[10:13:39] бугагашенька: БЛЯТЬ
+[10:13:44] klinskoe za 200: damn
+[10:13:50] Fin.: that was fun as hell 
+[10:13:54] бугагашенька: sorry
+[10:13:59] Fin.: nah it was cool
+[10:14:03] klinskoe za 200: :]
+[10:14:14] бугагашенька: >^)
+[10:14:16] Fin.: ok we need some help
+[10:14:26] Belios: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:14:39] бугагашенька: e нас
+[10:14:40] бугагашенька: 1
+[10:14:43] бугагашенька: мы разьебалися
+[10:14:46] бугагашенька: 2
+[10:14:52] бугагашенька: тот бомж ОМЕРИКАНЕЦ
+[10:15:23] бугагашенька: ГОЙДА
+[10:15:27] maksumkolesnukov022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:15:32] пися: Я ЛЮБЛЮ ПЛЫВИСКИ
+[10:15:40] maksumkolesnukov022: аутсайдер ф2 нажми
+[10:15:49] OUTSIDER killed бугагашенька using tfa_doim1carbine
+[10:15:49] бугагашенька: м?
+[10:15:52] бугагашенька: ЭХ
+[10:15:53] бугагашенька: БЛЯТЬ
+[10:16:03] OUTSIDER killed бугагашенька using tfa_doim1carbine
+[10:16:05] бугагашенька: нахуя
+[10:16:06] бугагашенька: идиоты
+[10:16:47] бугагашенька: взрываем
+[10:16:48] бугагашенька: базу
+[10:16:48] бугагашенька: да
+[10:19:08] Client "Im tired of this plan" spawned in server <STEAM_0:0:169368676> (took 796 seconds).
+[10:20:39] бугагашенька: война?
+[10:22:09] бугагашенька: ахуенно
+[10:22:41] maksumkolesnukov022: мне кажется просто на сервере радар сломан
+[10:22:42] Belios:  'jmod_ez_inv'
+[10:22:47] klinskoe za 200: можешь рюкзак радиста скинуть?
+[10:24:02] бугагашенька: ДА НУ МЛЯ
+[10:25:04] бугагашенька: я закажу кар
+[10:25:32] Client "Chupacabr" connected.
+[10:25:45] maksumkolesnukov022: uh
+[10:25:47] maksumkolesnukov022: russian?
+[10:25:52] maksumkolesnukov022: ладно
+[10:26:08] бугагашенька: крч
+[10:26:10] Client "Chupacabr" spawned in server <STEAM_0:1:63230461> (took 38 seconds).
+[10:26:11] бугагашенька: они переместилися
+[10:26:15] бугагашенька: я их искать
+[10:26:23] бугагашенька: че
+[10:26:25] Client "Durka" connected.
+[10:26:29] бугагашенька: а ну окєєй
+[10:26:30] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgroundscanner
+[10:26:30] Dropped "Fin." from server<STEAM_0:0:555900608>
+[10:26:30] Fin. suicided!
+[10:26:32] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbattery
+[10:26:41] бугагашенька: бл
+[10:26:51] maksumkolesnukov022: эээ я щас крч разрабу написал радар реально поломан
+[10:26:55] maksumkolesnukov022: ща зайдёт починит
+[10:27:10] maksumkolesnukov022: щас у руслана интернета нет
+[10:27:27] maksumkolesnukov022: а, ну да
+[10:27:29] maksumkolesnukov022: чупак поломал
+[10:27:37] maksumkolesnukov022: щас должен починить гавно
+[10:27:40] (TEAM) Im tired of this plan: АЛО
+[10:27:51] Im tired of this plan: я без микуро
+[10:27:55] maksumkolesnukov022: не мой
+[10:28:11] Im tired of this plan: убить
+[10:28:37] Im tired of this plan: немец
+[10:28:44] Im tired of this plan: готовимся
+[10:28:48] Im tired of this plan: готовимся!!
+[10:29:17] Client "Durka" spawned in server <STEAM_0:0:882065317> (took 172 seconds).
+[10:29:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgroundscanner
+[10:29:25] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbattery
+[10:29:27] maksumkolesnukov022: ОН ТУт
+[10:29:33] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezpickaxe
+[10:29:41] бугагашенька: гении
+[10:29:43] бугагашенька: да
+[10:29:46] бугагашенька: я просто пришел
+[10:29:52] бугагашенька: мда-уж
+[10:30:00] бугагашенька: хахахпа
+[10:30:03] бугагашенька: ві про того?
+[10:30:03] Im tired of this plan: сори
+[10:30:07] бугагашенька: ?
+[10:30:14] бугагашенька: понятно
+[10:30:22] Im tired of this plan: азвахъхъваззхъва
+[10:30:31] бугагашенька: окей
+[10:30:40] бугагашенька: будете еще стрелять собью,
+[10:30:42] бугагашенька: и вам удачки!
+[10:30:53] бугагашенька: не
+[10:30:55] (TEAM) бугагашенька: вы 
+[10:31:02] бугагашенька: про того который в моей команде?
+[10:31:13] бугагашенька: ок
+[10:31:20] бугагашенька: да
+[10:31:27] бугагашенька: окей
+[10:31:31] бугагашенька: прсото
+[10:31:33] бугагашенька: прикол
+[10:31:46] бугагашенька: за друга
+[10:31:58] бугагашенька: просто ты кое кому дорогу перешол, н оне всему скваду
+[10:32:34] Belios killed Chupacabr using wep_jack_gmod_ezaxe
+[10:32:42] бугагашенька killed Belios using lvs_wheeldrive_dodkuebelwagen
+[10:32:48] бугагашенька: садимся
+[10:32:54] бугагашенька: СВЯЗИ
+[10:33:02] бугагашенька killed Belios using lvs_wheeldrive_dodkuebelwagen
+[10:33:05] бугагашенька: да
+[10:33:14] maksumkolesnukov022: золото растёт в цене
+[10:33:40] бугагашенька: крч
+[10:33:42] бугагашенька: 2 новости
+[10:33:47] бугагашенька: 1 хорошая 2 плохая
+[10:33:52] бугагашенька: 1-я знаю где они
+[10:33:57] бугагашенька: 2-у них золотоу
+[10:34:12] Belios killed Chupacabr using wep_jack_gmod_ezaxe
+[10:34:14] бугагашенька: щас
+[10:34:29] Belios killed Chupacabr using wep_jack_gmod_ezaxe
+[10:34:48] Belios killed Chupacabr using wep_jack_gmod_ezaxe
+[10:35:01] Belios killed Chupacabr using wep_jack_gmod_ezaxe
+[10:35:56] maksumkolesnukov022: чупак пытается починить гавно
+[10:36:16] Belios killed Chupacabr using wep_jack_gmod_ezaxe
+[10:36:31] maksumkolesnukov022: кирку убирай, всё пока ломается из-за оптимизаций
+[10:36:33] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezpickaxe
+[10:36:58] Belios killed Chupacabr using wep_jack_gmod_ezaxe
+[10:37:33] бугагашенька: я тут
+[10:40:16] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezpickaxe
+[10:40:34] maksumkolesnukov022: нам нужна столица
+[10:40:40] OUTSIDER: bind "I" "jmod_ez_inv"
+[10:40:51] Dropped "Belios" from server<STEAM_0:1:27608924>
+[10:40:51] Belios suicided!
+[10:40:54] maksumkolesnukov022: рубить пендосов
+[10:41:04] Im tired of this plan: /bind i jmod_ez_inv
+[10:41:25] бугагашенька: я крч думаю ливать, думаю вернусь возможно, скучно просто
+[10:41:41] бугагашенька: ок
+[10:41:50] бугагашенька: вы про тех которые 
+[10:41:56] бугагашенька: я янашел
+[10:42:01] бугагашенька: или тех "пендосов?
+[10:42:02] maksumkolesnukov022: столица наша
+[10:42:05] maksumkolesnukov022: ГОРОД ЧЛЕНОВ
+[10:42:12] maksumkolesnukov022: вот написнао
+[10:42:12] бугагашенька: ТЛКВМОМ
+[10:42:15] бугагашенька: ?
+[10:42:33] бугагашенька: ТЫ ЛЮБИШ КОГДА ВОЛОСАТЫЕ МУЖИКИ ОБМАЗЫВАЮТЬСЯ МАСЛОМ?
+[10:42:47] maksumkolesnukov022: всё чупак починил кирку руда отображается
+[10:44:05] maksumkolesnukov022: аутсайдер дай физган на время
+[10:44:20] бугагашенька: лады удачи
+[10:44:26] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[10:44:26] klinskoe za 200 suicided!
+[10:44:33] бугагашенька: мда-уж
+[10:44:36] бугагашенька: куда
+[10:44:36] Client "krilz" connected.
+[10:44:43] бугагашенька: киргиза позови
+[10:45:07] бугагашенька: я пойду
+[10:45:11] бугагашенька: да
+[10:45:15] Client "klinskoe za 200" connected.
+[10:45:16] (TEAM) Durka: зыз
+[10:45:46] бугагашенька: СУКА КАК ПЕРЕЙТИ
+[10:45:54] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 39 seconds).
+[10:46:15] Client "krilz" spawned in server <STEAM_0:1:89998932> (took 99 seconds).
+[10:47:40] бугагашенька: лады удачи
+[10:47:43] бугагашенька: щас
+[10:47:51] бугагашенька: чувак
+[10:47:55] бугагашенька: стой
+[10:48:00] бугагашенька: да
+[10:48:07] maksumkolesnukov022: ну вы хотя бы координаты вводите
+[10:48:08] бугагашенька: если не согласиться умреш
+[10:48:11] бугагашенька: а эт ты
+[10:48:12] бугагашенька: да
+[10:48:15] бугагашенька: кул
+[10:48:18] бугагашенька: удачи!
+[10:48:23] klinskoe za 200: DURKA
+[10:48:27] klinskoe za 200: разьери стенку
+[10:48:30] maksumkolesnukov022: птср
+[10:48:33] бугагашенька: !motd
+[10:48:42] maksumkolesnukov022: так у кого галюники жрите
+[10:48:42] klinskoe za 200: СКОЛЬКО Я УЖЕ ОРУ ТУТ :SOB:
+[10:49:07] Dropped "Im tired of this plan" from server<STEAM_0:0:169368676>
+[10:49:07] Im tired of this plan suicided!
+[10:50:22] бугагашенька: QJJJJJJJJJJJJJJJE
+[10:50:29] бугагашенька: ЙОООООООУ
+[10:50:31] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezgroundscanner
+[10:50:34] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezbattery
+[10:50:34] бугагашенька: дарова
+[10:50:36] бугагашенька: не
+[10:50:39] (TEAM) бугагашенька: я ливаю
+[10:50:47] бугагашенька: пришел вам помочь
+[10:50:50] бугагашенька: словом
+[10:50:58] maksumkolesnukov022: опана информация разведка 
+[10:52:32] maksumkolesnukov022: газ у немцев
+[10:53:57] maksumkolesnukov022: ну чупак починил ресурсы
+[10:54:01] maksumkolesnukov022: можно уже копать 
+[10:54:01] aria was killed by ent_aboot_jsmod_ezcrate_fulton
+[10:54:02] maksumkolesnukov022: и сканером
+[10:54:04] бугагашенька: я тут
+[10:54:11] бугагашенька: вы где
+[10:54:16] maksumkolesnukov022: тут
+[10:54:19] бугагашенька: во
+[10:54:20] бугагашенька: крч
+[10:54:22] бугагашенька: слушайте
+[10:54:32] бугагашенька: вы то извинитесь перед нашим сквадом
+[10:54:32] maksumkolesnukov022: внимание тут важная инфа
+[10:54:36] бугагашенька: за кое че
+[10:54:37] бугагашенька: ок?
+[10:54:42] бугагашенька: подарок или чет типо
+[10:54:58] бугагашенька: tem koillkid
+[10:55:02] бугагашенька: чет типо того
+[10:55:06] бугагашенька: кулкидс
+[10:55:07] бугагашенька: не
+[10:55:13] пися: supply radio: dynamite
+[10:55:16] пися: supply radio: dynamite
+[10:55:19] пися: supply radio: dynamite
+[10:55:20] бугагашенька: подарочек?
+[10:55:22] aria killed Chupacabr using wep_jack_gmod_ezpickaxe
+[10:55:23] пися: supply radio: dynamite
+[10:55:31] пися: supply radio: dynamite
+[10:55:36] бугагашенька: вы нас взорвать хотите?
+[10:55:41] пися: supply radio: dynamite
+[10:55:47] klinskoe za 200 killed krilz using tfa_doisw1917
+[10:55:51] бугагашенька: угу "туго
+[10:56:06] aria killed Chupacabr using wep_jack_gmod_ezpickaxe
+[10:56:23] Dropped "aria" from server<STEAM_0:0:562682124>
+[10:56:23] aria suicided!
+[10:56:27] бугагашенька: вы нас ТОЧНО не хотиет атаковать?
+[10:56:48] бугагашенька: арта это атака
+[10:56:50] бугагашенька: гении
+[10:56:55] бугагашенька: противотанковую ставте
+[10:57:17] maksumkolesnukov022: а мы будем типа они на танке и пробовать кластером их сбить
+[10:57:36] maksumkolesnukov022: киев геймплей
+[10:57:45] бугагашенька: лады
+[10:57:55] бугагашенька: окей
+[10:57:59] бугагашенька: это не мне говорите
+[10:58:02] бугагашенька: а  ему
+[10:58:15] бугагашенька: клинское за 2000
+[10:58:17] бугагашенька: 200
+[10:58:19] бугагашенька: он был
+[10:58:22] бугагашенька: он ливнул
+[10:58:23] бугагашенька: просто
+[10:58:25] бугагашенька: да
+[10:58:34] бугагашенька: ес
+[10:58:42] бугагашенька: радио
+[10:58:46] бугагашенька: уже не получиться
+[10:58:51] бугагашенька: щас говорите
+[10:59:06] бугагашенька: окей, щас говори штоб потерпели
+[10:59:33] maksumkolesnukov022: не мы наверное
+[10:59:36] maksumkolesnukov022: мы не у спавна
+[10:59:42] maksumkolesnukov022: спавн за горой
+[10:59:50] maksumkolesnukov022: неа
+[11:00:03] бугагашенька: давай говори про подарок то
+[11:00:51] klinskoe za 200 to admins: ЧУПАКА ОБЪЯСНИ КРИЛЗУ ЧТО ГРИФ=ПЛОХО
+[11:01:49] бугагашенька: все
+[11:01:56] бугагашенька: извините што нагнетал
+[11:02:04] бугагашенька: у меня 3 С4 в кармане просто было
+[11:02:09] бугагашенька: на всякий
+[11:02:10] бугагашенька: ну
+[11:02:12] бугагашенька: удачи!
+[11:02:20] бугагашенька: ну да
+[11:02:25] бугагашенька: да не
+[11:02:26] бугагашенька: я так
+[11:02:29] бугагашенька: я п"полечу"
+[11:02:37] бугагашенька suicided!
+[11:02:40] Dropped "бугагашенька" from server<STEAM_0:1:711216595>
+[11:02:40] бугагашенька suicided!
+[11:02:50] Chupacabr<STEAM_0:1:63230461> spawned sent ent_aboot_gmod_ezcrowbar
+[11:02:57] Chupacabr: !menu
+[11:03:04] Chupacabr ignited Themself for 300 seconds
+[11:03:07] Chupacabr granted god mode upon Themself
+[11:03:13] klinskoe za 200 killed krilz using tfa_doisw1917
+[11:03:20] Chupacabr set Themself's speeds to 400 and 0
+[11:03:23] Chupacabr set Themself's speeds to 400 and 500
+[11:03:27] Chupacabr: !menu
+[11:03:29] Chupacabr set Themself's speeds to 400 and 500
+[11:03:52] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezifakpacket
+[11:03:59] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_eznutrients
+[11:04:16] Chupacabr suicided!
+[11:06:35] klinskoe za 200: можешь
+[11:06:38] klinskoe za 200: да
+[11:09:32] maksumkolesnukov022: f
+[11:09:33] maksumkolesnukov022: а
+[11:09:46] maksumkolesnukov022: чё?
+[11:09:59] maksumkolesnukov022: ну покупать не надо его
+[11:10:05] krilz suicided!
+[11:10:15] maksumkolesnukov022: скажи в чат, я тебя плохо слышу
+[11:10:22] maksumkolesnukov022: да
+[11:10:43] maksumkolesnukov022: не обязательно, на гитхабе есть крякнутая версия которая нормально р
+[11:10:57] krilz: пиздец
+[11:11:14] krilz: надо кнопку тригера ставить дальше от кнопки в перёд
+[11:11:16] klinskoe za 200: sybau :heartbroken:
+[11:12:59] krilz: скорее мы прикол зделаем ))))))))))))))))))))))))))))))))))))))
+[11:13:07] Durka: киррил
+[11:13:14] Durka: только попробуй
+[11:13:24] krilz: бл вы теперьвсе мои шутки за правду щитать будете
+[11:13:27] krilz: я
+[11:13:45] klinskoe za 200: sybau krilz
+[11:14:24] krilz: а кого грухнули
+[11:15:32] maksumkolesnukov022: открой
+[11:15:37] krilz: ну можно ходь дверь зделать
+[11:15:49] krilz: а то я заебался через хеч каравты забиратся
+[11:16:27] Client "nikita..." connected.
+[11:16:47] пися: пися
+[11:16:50] пися: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:16:52] maksumkolesnukov022: Я ЛЮБЛЮ ПЛЫВИСКИ
+[11:17:08] krilz: ну всё эти заборы меня заебали
+[11:17:11] maksumkolesnukov022: ебать вы припарковались
+[11:17:34] krilz: а в обратку как
+[11:17:37] Client "nikita..." spawned in server <STEAM_0:0:804487108> (took 70 seconds).
+[11:18:00] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:18:30] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:18:42] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:19:08] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:19:08] nikita...: здасте
+[11:19:24] maksumkolesnukov022: эээ, щас сделаем паровой
+[11:19:30] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:19:57] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:20:32] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:20:38] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:21:41] Durka killed krilz using ent_jack_gmod_ezpumpjack
+[11:22:44] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:22:50] maksumkolesnukov022: это не я
+[11:23:09] maksumkolesnukov022: урана у нас нема тоже
+[11:23:18] maksumkolesnukov022: у нас нефти дохуя
+[11:24:20] maksumkolesnukov022: ну, он с нами общается
+[11:24:55] maksumkolesnukov022: сними радио, не будем мешать
+[11:26:54] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:27:03] maksumkolesnukov022: оффшорный банк
+[11:27:23] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:27:48] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezpickaxe
+[11:28:53] Chupacabr teleported to maksumkolesnukov022
+[11:28:53] Chupacabr: !goto maksumkolesnukov022
+[11:28:57] Chupacabr: ты где апал
+[11:29:00] maksumkolesnukov022: тута
+[11:29:00] Chupacabr granted god mode upon Themself
+[11:29:00] Chupacabr: !god
+[11:29:31] klinskoe za 200: коплю 200хп
+[11:29:35] klinskoe za 200: >:}
+[11:29:51] maksumkolesnukov022: ну чё
+[11:29:54] klinskoe za 200: FLUID BOTTLER ГРОМКИЙ НИЧЕ НЕ СЛЫШУ
+[11:30:11] Durka: jrfr
+[11:30:22] Durka: кулкид в рб перебрался
+[11:30:29] klinskoe za 200: да
+[11:30:37] (TEAM) klinskoe za 200: в гмод
+[11:30:43] nikita... was killed by ent_jack_gmod_ezfalloutparticle
+[11:30:58] maksumkolesnukov022: неважно
+[11:31:02] maksumkolesnukov022: главное что копает
+[11:31:11] maksumkolesnukov022: вон уже кожа облезла
+[11:31:13] maksumkolesnukov022: от радиации
+[11:31:23] nikita... was killed by ent_jack_gmod_ezfalloutparticle
+[11:31:33] maksumkolesnukov022: это чупак
+[11:32:07] Client "Allkot5" connected.
+[11:32:22] nikita... was killed by ent_jack_gmod_ezfalloutparticle
+[11:32:32] klinskoe za 200:  ДУРАК БЛЯТЬ
+[11:33:12] klinskoe za 200: Я НЕ ДЛЯ ЭТОГО 174 ХП КОПИЛ
+[11:33:56] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezpickaxe
+[11:34:05] klinskoe za 200: НУ ТАК
+[11:34:07] klinskoe za 200: ЭТО УРАН
+[11:34:10] maksumkolesnukov022: уже всё копать нечего тут
+[11:34:13] klinskoe za 200 killed Durka using tfa_doisw1917
+[11:34:16] Dropped "Durka" from server<STEAM_0:0:882065317>
+[11:34:16] Durka suicided!
+[11:34:18] klinskoe za 200: удас
+[11:34:21] klinskoe za 200: e;fc
+[11:34:25] Chupacabr: уран прчему то озибку вызвает
+[11:34:25] klinskoe za 200 killed krilz using tfa_doimg34
+[11:34:56] maksumkolesnukov022: да просто сам этот рендер как говно сделал
+[11:34:57] krilz was killed by ent_jack_gmod_ezfalloutparticle
+[11:34:58] maksumkolesnukov022: через пнг
+[11:35:00] maksumkolesnukov022: джек гавнаел
+[11:35:08] klinskoe za 200: КТО УГОДНО
+[11:35:11] Client "Allkot5" spawned in server <STEAM_0:0:616036288> (took 184 seconds).
+[11:35:15] klinskoe za 200: НО ОН ЛИДЕР?
+[11:35:18] klinskoe za 200: ГГ Я ЛИВАЮ
+[11:35:27] nikita... was killed by ent_jack_gmod_ezfalloutparticle
+[11:35:36] Dropped "krilz" from server<STEAM_0:1:89998932>
+[11:35:36] krilz suicided!
+[11:35:44] Dropped "nikita..." from server<STEAM_0:0:804487108>
+[11:35:44] nikita... suicided!
+[11:36:04] (TEAM) Allkot5: где ты?
+[11:36:04] maksumkolesnukov022: а 
+[11:36:14] maksumkolesnukov022: эта штука тоже радиоактивна
+[11:37:11] Chupacabr: не
+[11:37:23] Chupacabr: просто не везде почикал WriteTable
+[11:37:56] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[11:37:56] klinskoe za 200 suicided!
+[11:38:57] maksumkolesnukov022: та норм ща стены толстые
+[11:39:36] Chupacabr suicided!
+[11:39:40] maksumkolesnukov022: ты 2 реактора хочешь?
+[11:42:15] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_wheeldrive_bmw_r75_upd
+[11:43:42] maksumkolesnukov022: а второй куда емае
+[11:43:47] maksumkolesnukov022: одного хватает
+[11:43:57] Chupacabr<STEAM_0:1:63230461> spawned model models/props_c17/furnitureshelf001b.mdl
+[11:45:02] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:45:02] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:45:02] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:45:03] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:45:03] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:45:03] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:45:03] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:45:03] Chupacabr<STEAM_0:1:63230461> spawned sent ent_jack_gmod_ezdynamite
+[11:45:52] maksumkolesnukov022: любой
+[11:45:57] Chupacabr<STEAM_0:1:63230461> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[11:45:58] Chupacabr<STEAM_0:1:63230461> spawned model models/props_debris/metal_panel02a.mdl
+[11:46:33] Chupacabr<STEAM_0:1:63230461> spawned sent lvs_wheeldrive_bmw_r75_upd
+[11:48:45] Dropped "Chupacabr" from server<STEAM_0:1:63230461>
+[11:48:45] Chupacabr suicided!
+[11:51:48] maksumkolesnukov022: ну 
+[11:51:54] maksumkolesnukov022: почти полные банки все
+[11:54:33] maksumkolesnukov022: вроде он
+[11:57:22] maksumkolesnukov022: ну, у нас уже такой есть
+[11:59:53] maksumkolesnukov022: эээ я крч тут а афк постою важный созвон с русланом конекшеном
+[12:11:11] Client "denchikslez11" connected.
+[12:23:27] Allkot5: Есть кто?
+[12:23:45] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[12:23:45] maksumkolesnukov022 suicided!
+[12:23:47] Allkot5: я просто узнать хотел , заселено ли здесь
+[12:27:09] Client "denchikslez11" spawned in server <STEAM_0:0:614977140> (took 958 seconds).
+[12:28:11] Dropped "denchikslez11" from server<STEAM_0:0:614977140>
+[12:28:11] denchikslez11 suicided!
+[12:28:58] Client "nikita..." connected.
+[12:30:20] Client "nikita..." spawned in server <STEAM_0:0:804487108> (took 82 seconds).
+[12:30:36] Dropped "nikita..." from server<STEAM_0:0:804487108>
+[12:30:36] nikita... suicided!
+[12:33:36] OUTSIDER suicided!
+[12:38:30] Dropped "Allkot5" from server<STEAM_0:0:616036288>
+[12:38:30] Allkot5 suicided!
+[12:45:12] Client "Derkoletus" connected.
+[12:48:09] Dropped "OUTSIDER" from server<STEAM_0:0:502099106>
+[12:48:09] OUTSIDER suicided!
+[12:49:01] Client "Derkoletus" spawned in server <STEAM_0:1:616629252> (took 229 seconds).
+[13:05:23] Dropped "Derkoletus" from server<STEAM_0:1:616629252>
+[13:05:23] Derkoletus suicided!
+[13:12:24] t0mat025 killed пися using lvs_renaultft_m
+[13:16:42] t0mat025: 1
+[13:16:45] t0mat025: 2
+[13:16:49] t0mat025: 3
+[13:17:44] пися killed t0mat025 using lvs_wheeldrive_dodtiger
+[13:17:55] пися killed t0mat025 using ent_jack_gmod_ezboundingmine
+[13:18:41] пися suicided!
+[13:23:32] t0mat025 suicided!
+[13:29:16] пися: supply radio: medkits
+[13:30:11] t0mat025: сломай забор
+[13:30:15] t0mat025: сломай забор
+[13:33:25] t0mat025 killed пися using tfa_doiwebley
+[13:33:27] пися killed t0mat025 using ent_jack_gmod_eztimebomb
+[13:33:38] Dropped "t0mat025" from server<STEAM_0:1:872564014>
+[13:33:38] t0mat025 suicided!
+[13:33:40] Dropped "пися" from server<STEAM_0:0:625517352>
+[13:33:40] пися suicided!
+[14:18:25] Client "Durka" connected.
+[14:19:44] Client "Durka" spawned in server <STEAM_0:0:882065317> (took 79 seconds).
+[14:21:05] Dropped "Durka" from server<STEAM_0:0:882065317>
+[14:21:05] Durka suicided!
+[21:14:32] Client "klinskoe za 200" connected.
+[21:15:35] Client "klinskoe za 200" spawned in server <STEAM_0:1:617631024> (took 63 seconds).
+[21:50:20] Dropped "klinskoe za 200" from server<STEAM_0:1:617631024>
+[21:50:20] klinskoe za 200 suicided!
+[22:18:07] Client "Шайтан" connected.
+[22:19:09] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 62 seconds).
+[22:21:52] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[22:21:52] Шайтан suicided!
+[22:42:26] Client "krilz" connected.
+[22:44:31] Client "krilz" spawned in server <STEAM_0:1:89998932> (took 125 seconds).
+[23:09:09] krilz was killed by ent_aboot_jsmod_ezcrate_fulton
+[23:09:42] Client "Allkot5" connected.
+[23:10:07] Client "outwrld66" connected.
+[23:10:27] Client "Allkot5" spawned in server <STEAM_0:0:616036288> (took 45 seconds).
+[23:23:30] Dropped "Allkot5" from server<STEAM_0:0:616036288>
+[23:23:30] Allkot5 suicided!
+[23:24:49] krilz: bloxwich
+<Logging continued in "data/ulx_logs/06-06-25.txt">

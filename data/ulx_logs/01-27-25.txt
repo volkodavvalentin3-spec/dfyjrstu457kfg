@@ -1,0 +1,107 @@
+<Logging continued from "data/ulx_logs/01-26-25.txt">
+[00:00:58] Client "Cassius" connected.
+[00:01:18] Client "Cassius" connected.
+[00:28:25] Client "historia" connected.
+[00:29:08] Client "historia" spawned in server <STEAM_0:0:574251481> (took 43 seconds).
+[00:29:10] Dropped "historia" from server<STEAM_0:0:574251481>
+[00:29:10] historia suicided!
+[00:29:15] Client "Noamen Tab" connected.
+[00:29:47] Client "Noamen Tab" spawned in server <STEAM_0:1:99161363> (took 32 seconds).
+[00:31:23] Noamen Tab: Я ЛЮБЛЮ ПЛЫВИСКИ
+[00:33:03] Noamen Tab: Я ЛЮБЛЮ ПЛЫВИСКИ
+[01:11:50] Client "Soldier_S.C.A.F" connected.
+[01:15:04] Noamen Tab was killed by ent_rus_jsmod_pipe
+[01:17:23] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 333 seconds).
+[01:18:56] Soldier_S.C.A.F: Я ЛЮБЛЮ ПЛЫВИСКИ
+[01:19:39] Noamen Tab was killed by ent_rus_jsmod_pipe
+[01:23:11] vasiliy karat: supply radio: plastic
+[01:34:45] Client "titoha555" connected.
+[01:35:27] Client "Mr_BreadL" connected.
+[01:40:48] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_c17/furniturecouch001a.mdl
+[01:40:54] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezacorn
+[01:41:27] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_junk/watermelon01.mdl
+[01:41:30] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezacorn
+[01:41:42] vasiliy karat<STEAM_0:0:814052183> spawned model models/props_junk/shoe001a.mdl
+[01:42:53] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezwater
+[02:02:10] Client "TRALL" connected.
+[02:20:18] Client "Cassius" connected.
+[02:26:24] Client "esqueletogeto" connected.
+[02:36:36] Client "Egg" connected.
+[02:41:12] Noamen Tab: supply radio: mini bounding mines
+[02:41:56] Noamen Tab: supply radio: mini bounding mines
+[02:49:36] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[02:49:36] Soldier_S.C.A.F suicided!
+[03:05:06] Client "stolbokov" connected.
+[03:13:52] vasiliy karat: supply radio: basic parts
+[03:18:20] Client "JediDennis" connected.
+[03:22:44] Client "LEXA" connected.
+[03:23:57] Client "adiOS" connected.
+[03:27:13] Client "adiOS" spawned in server <STEAM_0:0:41186306> (took 196 seconds).
+[03:35:26] vasiliy karat was killed by ent_jack_gmod_ezwinch
+[03:45:48] Noamen Tab killed adiOS using ent_jack_gmod_ezatmine
+[04:02:42] vasiliy karat: supply radio: explosives
+[04:02:53] vasiliy karat: supply radio: explosives
+[04:14:40] Client "33" connected.
+[04:19:31] vasiliy karat: supply radio: explosives
+[04:20:50] adiOS: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:21:00] adiOS: Я ЛЮБЛЮ ПЛЫВИСКИ
+[04:29:17] vasiliy karat: supply radio: precision parts
+[04:30:08] Noamen Tab killed Noamen Tab
+[04:41:30] Noamen Tab killed vasiliy karat using wep_aboot_jmod_akm
+[04:43:49] Noamen Tab: supply radio: fulton-crate
+[04:43:54] Noamen Tab: supply radio: fulton-crate
+[05:04:25] adiOS was killed by lvs_helicopter_rebel
+[05:09:27] Noamen Tab: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:09:27] Noamen Tab: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:09:27] Noamen Tab: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:09:28] Noamen Tab: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:09:28] Noamen Tab: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:09:28] Noamen Tab: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:11:51] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezarmor_munitionbackpack
+[05:12:07] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_rocketlauncher
+[05:12:20] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_pocketpistol
+[05:12:31] vasiliy karat<STEAM_0:0:814052183> spawned sent ent_jack_gmod_ezweapon_machinepistol
+[05:14:23] adiOS: Я ЛЮБЛЮ ПЛЫВИСКИ
+[05:16:29] Dropped "vasiliy karat" from server<STEAM_0:0:814052183>
+[05:16:29] vasiliy karat suicided!
+[05:44:33] Noamen Tab suicided!
+[05:59:23] Dropped "adiOS" from server<STEAM_0:0:41186306>
+[05:59:23] adiOS suicided!
+[06:07:34] Client "beliavfedor" connected.
+[06:08:31] Client "beliavfedor" spawned in server <STEAM_0:1:41659573> (took 57 seconds).
+[06:09:35] beliavfedor: playermodel_selecto
+[06:15:44] Dropped "beliavfedor" from server<STEAM_0:1:41659573>
+[06:15:44] beliavfedor suicided!
+[06:25:37] Client "Израильский Tорч" connected.
+[06:26:10] Client "Израильский Tорч" spawned in server <STEAM_0:1:209584784> (took 33 seconds).
+[06:35:22] Noamen Tab killed Израильский Tорч
+[06:45:47] Client "Кастрюля" connected.
+[06:47:15] Noamen Tab killed Израильский Tорч using wep_aboot_jmod_akm
+[06:47:23] Client "Кастрюля" spawned in server <STEAM_0:1:763473999> (took 96 seconds).
+[06:47:57] Кастрюля: Я ЛЮБЛЮ ПЛЫВИСКИ
+[06:49:37] Кастрюля: Я не Перри Утконос чтобы трипиздить
+[06:49:40] Noamen Tab killed Кастрюля using wep_aboot_jmod_akm
+[06:51:07] Client "Бандюган" connected.
+[06:52:10] Noamen Tab killed Кастрюля using ent_jack_gmod_ezboundingmine
+[06:57:37] Кастрюля: я уже 
+[06:57:50] Кастрюля: там уже мой труп
+[06:58:31] Кастрюля: невидимый
+[06:59:40] Noamen Tab killed Кастрюля
+[06:59:43] Noamen Tab killed Израильский Tорч
+[06:59:44] Noamen Tab killed Noamen Tab
+[07:00:04] Dropped "Noamen Tab" from server<STEAM_0:1:99161363>
+[07:00:04] Noamen Tab suicided!
+[07:00:06] Dropped "Израильский Tорч" from server<STEAM_0:1:209584784>
+[07:00:06] Израильский Tорч suicided!
+[07:05:09] Dropped "Кастрюля" from server<STEAM_0:1:763473999>
+[07:05:09] Кастрюля suicided!
+[08:20:34] Client "Шайтан" connected.
+[08:21:12] Client "Шайтан" spawned in server <STEAM_0:1:520448863> (took 38 seconds).
+[08:25:01] Dropped "Шайтан" from server<STEAM_0:1:520448863>
+[08:25:01] Шайтан suicided!
+[15:53:49] Client "Noamen Tab" connected.
+[15:54:36] Client "Noamen Tab" spawned in server <STEAM_0:1:99161363> (took 47 seconds).
+[15:58:00] Dropped "Noamen Tab" from server<STEAM_0:1:99161363>
+[15:58:00] Noamen Tab suicided!
+[15:58:38] Client "Hako" connected.
+<Logging continued in "data/ulx_logs/01-28-25.txt">

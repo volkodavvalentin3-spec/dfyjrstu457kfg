@@ -1,0 +1,829 @@
+<Logging continued from "data/ulx_logs/11-13-25.txt">
+[00:17:48] Client "kudalev" connected.
+[00:18:23] Client "kudalev" spawned in server <STEAM_0:0:21670625> (took 35 seconds).
+[00:36:34] Dropped "kudalev" from server<STEAM_0:0:21670625>
+[00:36:34] kudalev suicided!
+[03:43:29] Client "sokolise" connected.
+[03:46:18] Client "sokolise" spawned in server <STEAM_0:1:121477088> (took 169 seconds).
+[03:48:06] sokolise: jmod_ez_inv
+[04:03:35] Client "kudalev" connected.
+[04:04:12] Client "kudalev" spawned in server <STEAM_0:0:21670625> (took 37 seconds).
+[04:06:09] Dropped "kudalev" from server<STEAM_0:0:21670625>
+[04:06:09] kudalev suicided!
+[04:06:30] Client "kudalev" connected.
+[04:07:04] Client "kudalev" spawned in server <STEAM_0:0:21670625> (took 34 seconds).
+[04:09:12] Dropped "kudalev" from server<STEAM_0:0:21670625>
+[04:09:12] kudalev suicided!
+[04:26:38] Client "KULER" connected.
+[04:26:44] Client "Egorik" connected.
+[04:27:33] Client "KULER" spawned in server <STEAM_0:0:736080205> (took 55 seconds).
+[04:28:00] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 76 seconds).
+[04:38:13] Dropped "KULER" from server<STEAM_0:0:736080205>
+[04:38:13] KULER suicided!
+[04:45:10] sokolise suicided!
+[04:48:16] Dropped "sokolise" from server<STEAM_0:1:121477088>
+[04:48:16] sokolise suicided!
+[04:48:48] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[04:48:48] Egorik suicided!
+[04:51:29] Client "Egorik" connected.
+[04:53:21] Client "Egorik" connected.
+[04:53:52] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 31 seconds).
+[05:04:29] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[05:04:29] Egorik suicided!
+[05:11:11] Client "Citizen" connected.
+[05:18:44] Client "Citizen" spawned in server <STEAM_0:0:634439299> (took 453 seconds).
+[05:41:34] Dropped "Citizen" from server<STEAM_0:0:634439299>
+[05:41:34] Citizen suicided!
+[06:19:16] Client "GreenPixel11" connected.
+[06:20:06] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 50 seconds).
+[06:26:57] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[06:26:57] GreenPixel11 suicided!
+[06:35:58] Client "Egorik" connected.
+[06:38:18] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 140 seconds).
+[06:49:25] Client "眼镜控" connected.
+[07:04:20] Client "Py6aShk@" connected.
+[07:05:09] Client "Py6aShk@" spawned in server <STEAM_0:1:639545012> (took 49 seconds).
+[07:06:13] Py6aShk@ killed Egorik using wep_jack_gmod_hands
+[07:07:48] Py6aShk@ killed Egorik using wep_jack_gmod_ezaxe
+[07:08:37] Py6aShk@ killed Egorik using wep_jack_gmod_ezaxe
+[07:08:53] Py6aShk@ killed Egorik using wep_jack_gmod_ezaxe
+[07:11:35] Py6aShk@ killed Egorik using rust_boltrifle
+[07:11:55] Py6aShk@ killed Egorik using rust_boltrifle
+[07:12:39] Py6aShk@ killed Egorik using rust_boltrifle
+[07:13:58] Py6aShk@ killed Egorik using rust_boltrifle
+[07:14:39] Py6aShk@ killed Egorik using wep_jack_gmod_hands
+[07:16:54] Py6aShk@ killed Egorik using rust_eoka
+[07:17:15] Py6aShk@ killed Egorik using wep_jack_gmod_ezaxe
+[07:18:40] Egorik killed Py6aShk@ using rust_boltrifle
+[07:19:05] Egorik killed Py6aShk@ using rust_boltrifle
+[07:19:49] Egorik killed Py6aShk@ using rust_boltrifle
+[07:20:08] Py6aShk@ killed Egorik using rust_boltrifle
+[07:20:54] Egorik killed Py6aShk@ using rust_boltrifle
+[07:21:18] Py6aShk@ killed Egorik using wep_jack_gmod_ezaxe
+[07:21:36] Py6aShk@ killed Egorik using rust_boltrifle
+[07:21:59] Py6aShk@ killed Egorik using wep_jack_gmod_ezaxe
+[07:22:45] Egorik killed Py6aShk@ using wep_jack_gmod_hands
+[07:23:54] Egorik killed Py6aShk@ using rust_boltrifle
+[07:24:53] Py6aShk@ killed Egorik using rust_boltrifle
+[07:25:35] Egorik killed Py6aShk@ using rust_boltrifle
+[07:25:52] Egorik killed Py6aShk@ using rust_boltrifle
+[07:26:37] Client "RusLanConnection" connected.
+[07:26:39] Egorik killed Py6aShk@ using rust_boltrifle
+[07:27:10] Py6aShk@ killed Egorik using rust_boltrifle
+[07:28:41] Client "rty000pro" connected.
+[07:29:20] Client "rty000pro" spawned in server <STEAM_0:1:593166516> (took 39 seconds).
+[07:30:40] Egorik killed Py6aShk@ using rust_boltrifle
+[07:30:57] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 260 seconds).
+[07:31:17] Egorik killed RusLanConnection using rust_boltrifle
+[07:32:15] Egorik killed Py6aShk@ using rust_boltrifle
+[07:32:27] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[07:33:15] Egorik killed Py6aShk@ using rust_boltrifle
+[07:33:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[07:34:20] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[07:34:42] RusLanConnection kicked all bots from the server
+[07:34:43] RusLanConnection spawned 17 bots
+[07:34:43] Client "Bot01" connected.
+[07:34:43] Client "Bot01" spawned in server <BOT> (took 160892 seconds).
+[07:34:43] Client "Bot02" connected.
+[07:34:43] Client "Bot02" spawned in server <BOT> (took 160892 seconds).
+[07:34:43] Client "Bot03" connected.
+[07:34:43] Client "Bot03" spawned in server <BOT> (took 160892 seconds).
+[07:34:43] Client "Bot04" connected.
+[07:34:43] Client "Bot04" spawned in server <BOT> (took 160892 seconds).
+[07:34:43] Client "Bot05" connected.
+[07:34:43] Client "Bot05" spawned in server <BOT> (took 160892 seconds).
+[07:34:43] Client "Bot06" connected.
+[07:34:43] Client "Bot06" spawned in server <BOT> (took 160892 seconds).
+[07:34:43] Client "Bot07" connected.
+[07:34:43] Client "Bot07" spawned in server <BOT> (took 160892 seconds).
+[07:34:43] Client "Bot08" connected.
+[07:34:43] Client "Bot08" spawned in server <BOT> (took 160892 seconds).
+[07:34:43] Client "Bot09" connected.
+[07:34:43] Client "Bot09" spawned in server <BOT> (took 160892 seconds).
+[07:34:44] Client "Bot10" connected.
+[07:34:44] Client "Bot10" spawned in server <BOT> (took 160893 seconds).
+[07:34:44] Client "Bot11" connected.
+[07:34:44] Client "Bot11" spawned in server <BOT> (took 160893 seconds).
+[07:34:44] Client "Bot12" connected.
+[07:34:44] Client "Bot12" spawned in server <BOT> (took 160893 seconds).
+[07:34:44] Client "Bot13" connected.
+[07:34:44] Client "Bot13" spawned in server <BOT> (took 160893 seconds).
+[07:34:44] Client "Bot14" connected.
+[07:34:44] Client "Bot14" spawned in server <BOT> (took 160893 seconds).
+[07:34:44] Client "Bot15" connected.
+[07:34:44] Client "Bot15" spawned in server <BOT> (took 160893 seconds).
+[07:34:44] Client "Bot16" connected.
+[07:34:44] Client "Bot16" spawned in server <BOT> (took 160893 seconds).
+[07:34:44] Client "Bot17" connected.
+[07:34:44] Client "Bot17" spawned in server <BOT> (took 160893 seconds).
+[07:34:50] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[07:34:51] Py6aShk@ killed Bot15 using wep_jack_gmod_ezaxe
+[07:34:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[07:35:06] Py6aShk@ killed Bot01 using wep_jack_gmod_ezaxe
+[07:35:13] RusLanConnection kicked all bots from the server
+[07:35:13] Dropped "Bot01" from server<BOT>
+[07:35:13] Bot01 suicided!
+[07:35:13] Dropped "Bot02" from server<BOT>
+[07:35:13] Bot02 suicided!
+[07:35:13] Dropped "Bot03" from server<BOT>
+[07:35:13] Bot03 suicided!
+[07:35:13] Dropped "Bot04" from server<BOT>
+[07:35:13] Bot04 suicided!
+[07:35:13] Dropped "Bot05" from server<BOT>
+[07:35:13] Bot05 suicided!
+[07:35:13] Dropped "Bot06" from server<BOT>
+[07:35:13] Bot06 suicided!
+[07:35:13] Dropped "Bot07" from server<BOT>
+[07:35:13] Bot07 suicided!
+[07:35:13] Dropped "Bot08" from server<BOT>
+[07:35:13] Bot08 suicided!
+[07:35:13] Dropped "Bot09" from server<BOT>
+[07:35:13] Bot09 suicided!
+[07:35:13] Dropped "Bot10" from server<BOT>
+[07:35:13] Bot10 suicided!
+[07:35:13] Dropped "Bot11" from server<BOT>
+[07:35:13] Bot11 suicided!
+[07:35:13] Dropped "Bot12" from server<BOT>
+[07:35:13] Bot12 suicided!
+[07:35:13] Dropped "Bot13" from server<BOT>
+[07:35:13] Bot13 suicided!
+[07:35:13] Dropped "Bot14" from server<BOT>
+[07:35:13] Bot14 suicided!
+[07:35:13] Dropped "Bot15" from server<BOT>
+[07:35:13] Bot15 suicided!
+[07:35:13] Dropped "Bot16" from server<BOT>
+[07:35:13] Bot16 suicided!
+[07:35:13] Dropped "Bot17" from server<BOT>
+[07:35:13] Bot17 suicided!
+[07:35:53] Egorik killed Py6aShk@ using rust_boltrifle
+[07:36:24] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_m
+[07:36:26] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_renaultft_h
+[07:36:48] Py6aShk@ killed Egorik using rust_boltrifle
+[07:37:48] Egorik killed Py6aShk@ using rust_boltrifle
+[07:38:36] Py6aShk@ killed Egorik using rust_boltrifle
+[07:39:53] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_pz38t_mow
+[07:39:59] Py6aShk@ killed Egorik using rust_boltrifle
+[07:40:41] Egorik: !motd
+[07:40:54] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[07:41:33] Py6aShk@ killed rty000pro using rust_boltrifle
+[07:42:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[07:42:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[07:42:22] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_jpz4_mow
+[07:43:06] rty000pro killed Py6aShk@ using wep_jack_gmod_hands
+[07:44:42] Py6aShk@ killed rty000pro using rust_boltrifle
+[07:45:38] Client "FRED01" connected.
+[07:45:43] Py6aShk@ killed rty000pro using wep_jack_gmod_ezaxe
+[07:47:39] Client "Tockerheh" connected.
+[07:47:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_su100_tb
+[07:47:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_su85_tb
+[07:48:03] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_su100_tb
+[07:48:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_su100_tb
+[07:48:11] rty000pro killed Py6aShk@ using tfa_doienfield_scop
+[07:48:22] Client "Tockerheh" spawned in server <STEAM_0:0:409939021> (took 43 seconds).
+[07:48:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eztoolbox
+[07:48:39] RusLanConnection stripped weapons from Themself
+[07:48:39] RusLanConnection: !strip RusLanConnection
+[07:48:48] Py6aShk@ killed Tockerheh using rust_boltrifle
+[07:49:56] Client "FRED01" spawned in server <STEAM_0:1:767661328> (took 258 seconds).
+[07:50:10] rty000pro killed Py6aShk@ using tfa_doienfield_scop
+[07:50:34] Py6aShk@ killed FRED01 using rust_boltrifle
+[07:51:28] Py6aShk@ killed FRED01 using wep_jack_gmod_hands
+[07:51:49] rty000pro to admins: Руслан это ты развлекаешся с оружием?
+[07:52:11] Dropped "Py6aShk@" from server<STEAM_0:1:639545012>
+[07:52:11] Py6aShk@ suicided!
+[07:52:48] Tockerheh: supply radio: fulton-crate
+[07:53:22] Tockerheh: supply radio: fulton-crate
+[07:53:44] Egorik: !motd
+[07:55:19] Tockerheh: supply radio: make loan
+[07:57:52] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_concussionmissile
+[07:57:55] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_concussionmissile
+[07:57:58] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_concussionmissile
+[07:57:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_concussionmissile
+[07:57:59] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_concussionmissile
+[07:58:03] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_flak
+[07:58:20] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_item_racingtires
+[07:58:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_trailer_pak40
+[07:58:49] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[07:58:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezbasicparts
+[07:59:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_pouch
+[07:59:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezarmor_backpack
+[07:59:12] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:03:09] Client "Bigbarsik223" connected.
+[08:04:15] Egorik: supply radio: builder kit
+[08:05:07] Client "Bigbarsik223" spawned in server <STEAM_0:0:652203298> (took 118 seconds).
+[08:06:31] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:07:00] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:07:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:07:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:07:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:07:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:08:36] Client "Toxa" connected.
+[08:09:57] Client "Toxa" spawned in server <STEAM_0:0:33704276> (took 81 seconds).
+[08:10:57] Toxa: хмм
+[08:10:59] Toxa: говно
+[08:11:08] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:13:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezcrate_uni
+[08:15:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:32:04] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_junk/glassbottle01a.mdl
+[08:32:31] Bigbarsik223: rjhjxt z gjitk nfr rfr crexyj
+[08:32:42] Bigbarsik223: crexyj
+[08:32:53] Bigbarsik223: ybrjuj ytn yf cythdfrt
+[08:33:01] Bigbarsik223: ybxtuj ltkfnm
+[08:33:17] Bigbarsik223: ye crexyf ,kznm
+[08:33:24] Client "богдан." connected.
+[08:33:24] Bigbarsik223: ye xt gjltkfnm
+[08:33:54] Bigbarsik223: kexit yf pjv,b d rc 1.6 gjqle
+[08:34:10] Bigbarsik223: b,j crexyj buhfnm ofc
+[08:34:31] Bigbarsik223: z yt evt. gj he heccrb gbcfnm nfr rfr ytne heccrjq hfccrkflrb
+[08:34:49] Bigbarsik223: yfpth dfv utythfnjh&&&
+[08:34:58] rty000pro: NS PFT,FK GBIB YJHVFKMYJ ,KZNM
+[08:35:02] Bigbarsik223: b dff,ot hg yy ,eltn
+[08:35:12] Bigbarsik223: nfr rfr ytn buhjrjd
+[08:35:46] Bigbarsik223: явуыо щч щсрутн ысргсртщ
+[08:36:07] rty000pro to admins: Алё дурка, у нас здесь ебануты белеберду говорит
+[08:36:12] Bigbarsik223: слнчрщ
+[08:36:20] rty000pro: зутшы
+[08:36:23] RusLanConnection teleported to rty000pro
+[08:36:25] Bigbarsik223: pltcm jxtym crexyj
+[08:36:36] Bigbarsik223: nen vfkj buhhrjd
+[08:36:40] RusLanConnection returned Themself to their original position
+[08:36:42] Bigbarsik223: b jxtym crexyj
+[08:36:53] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 209 seconds).
+[08:36:55] Bigbarsik223: kexit gjqle buhfnm d pjv,b rc 1.6
+[08:37:07] Toxa: nfr yt crexfqnt b ljltkfqnt ,fpe
+[08:37:08] Bigbarsik223: jxty, crexyj
+[08:37:13] Toxa: b dct ,eltn jr
+[08:37:16] Bigbarsik223: z nt,z yt gjybvf.
+[08:37:25] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_rebel
+[08:37:29] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:37:31] Toxa: gjybvftim
+[08:38:06] Bigbarsik223: blb yf[eq
+[08:38:30] Bigbarsik223: xnj nb ltkftim
+[08:38:35] Bigbarsik223: pf
+[08:38:41] Bigbarsik223: pfxtv
+[08:38:45] Bigbarsik223: z yt gjybvfy.
+[08:38:48] rty000pro killed Bigbarsik223 using tfa_doienfield_scop
+[08:39:09] Bigbarsik223 killed rty000pro using tfa_doi_marinebayonet
+[08:39:09] FRED01 killed Bigbarsik223 using tfa_doi_marinebayonet
+[08:39:24] rty000pro killed Bigbarsik223 using wep_jack_gmod_ezshovel
+[08:39:34] FRED01 killed Bigbarsik223 using tfa_doi_marinebayonet
+[08:39:36] rty000pro killed FRED01 using wep_jack_gmod_ezaxe
+[08:39:48] rty000pro killed Bigbarsik223 using wep_jack_gmod_ezaxe
+[08:39:55] Bigbarsik223 killed rty000pro using tfa_doi_marinebayonet
+[08:40:03] Bigbarsik223 killed FRED01 using tfa_doi_marinebayonet
+[08:40:10] rty000pro killed Bigbarsik223 using wep_jack_gmod_ezaxe
+[08:40:20] Bigbarsik223 killed FRED01 using tfa_doi_marinebayonet
+[08:40:23] rty000pro killed Bigbarsik223 using wep_jack_gmod_ezaxe
+[08:40:31] Bigbarsik223 killed FRED01 using tfa_doi_marinebayonet
+[08:40:32] Bigbarsik223 killed rty000pro using tfa_doi_marinebayonet
+[08:40:41] Bigbarsik223 killed FRED01 using tfa_doi_marinebayonet
+[08:40:46] rty000pro killed Bigbarsik223 using wep_jack_gmod_ezshovel
+[08:41:09] Client "Jr_byba" connected.
+[08:41:52] Client "Сырный пакетик" connected.
+[08:42:30] Dropped "Bigbarsik223" from server<STEAM_0:0:652203298>
+[08:42:30] Bigbarsik223 suicided!
+[08:43:07] богдан.: ты живой?
+[08:43:20] Client "Сырный пакетик" spawned in server <STEAM_0:0:617253467> (took 88 seconds).
+[08:43:24] RusLanConnection froze богдан.
+[08:43:24] Client "Jr_byba" spawned in server <STEAM_0:1:152546935> (took 135 seconds).
+[08:43:27] RusLanConnection unfroze богдан.
+[08:43:31] богдан.: ладно ладно
+[08:43:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:44:04] FRED01: supply radio: seed kit
+[08:44:33] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:44:36] RusLanConnection was killed by lvs_helicopter_rebel
+[08:44:43] богдан.: ого
+[08:45:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:45:35] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:46:47] богдан.: мне кажется нужен какойнибудт вертолет специально под бомбы
+[08:47:18] богдан.: маленький без вооружения
+[08:47:24] богдан.: этот большой слишком
+[08:47:42] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[08:47:44] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:47:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:48:14] Jr_byba: re
+[08:48:17] Jr_byba: ку
+[08:49:09] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[08:49:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:49:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:50:31] rty000pro was killed by build_prop
+[08:51:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:51:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:52:50] Jr_byba: ку
+[08:53:01] Jr_byba: что
+[08:53:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell
+[08:53:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell
+[08:53:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell
+[08:53:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell
+[08:53:05] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell
+[08:53:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell
+[08:53:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[08:53:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[08:53:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[08:53:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[08:53:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[08:53:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezmortarshell_smoke
+[08:53:07] Jr_byba: ку
+[08:53:10] Jr_byba: пон
+[08:53:17] Jr_byba: уран есть,
+[08:53:20] Jr_byba: ?
+[08:53:27] Jr_byba: эх
+[08:53:37] (TEAM) Jr_byba: я
+[08:53:46] Jr_byba: я люблю ядерки
+[08:53:55] Jr_byba: ну да
+[08:54:02] Jr_byba: ок
+[08:54:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:54:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:54:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:54:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:54:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:54:11] Jr_byba: что
+[08:54:18] Jr_byba: какой репорт
+[08:54:47] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[08:54:53] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:54:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:54:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:55:04] Jr_byba: кен
+[08:55:06] Jr_byba: rtry
+[08:55:11] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:55:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:55:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:55:21] Jr_byba: а что там пройсзодит
+[08:55:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:55:28] Jr_byba: пон
+[08:55:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:55:34] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:55:37] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:55:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:55:42] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:55:42] Jr_byba: помогай
+[08:55:47] богдан.: ты че тут
+[08:56:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[08:56:02] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezsand
+[08:56:04] богдан.: почему тебя бомбит руслан
+[08:56:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:56:14] Jr_byba: это лучше чем аптечка
+[08:56:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:56:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:56:15] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:56:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:56:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:56:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:56:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:56:16] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:56:26] богдан.: она не взорвется
+[08:56:31] богдан.: разобрать можно
+[08:56:50] богдан.: лбля тут еще
+[08:57:08] Client "krilz" connected.
+[08:57:20] Jr_byba: MEDIC
+[08:57:21] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezclusterbomb
+[08:57:26] Jr_byba: MEDIC
+[08:57:26] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:57:28] Jr_byba: MEDIC
+[08:57:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:57:35] богдан.: строй стены
+[08:57:38] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:57:39] богдан.: быстрее
+[08:57:41] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:57:45] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:57:49] Jr_byba: я всё сожрал
+[08:57:50] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:57:54] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezhebomb
+[08:57:58] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfougasse
+[08:57:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[08:58:03] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[08:58:05] богдан. to admins: когда вайп
+[08:58:06] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[08:58:10] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[08:58:12] Jr_byba: где вода?
+[08:58:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[08:58:24] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[08:58:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[08:58:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[08:58:36] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezchlorinebomb
+[08:58:54] богдан.: а за что разбомбили то
+[08:58:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+[08:59:01] Toxa: за проверку
+[08:59:05] богдан.: какую
+[08:59:10] Toxa: на fps
+[08:59:12] Jr_byba: я СУМАЖЕДЗИ ДЖЕЙ
+[08:59:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznutrients
+[08:59:16] богдан.: круто
+[08:59:16] Jr_byba: ВГРАЛОЫФВПАИЛ ЫВПРОА
+[08:59:22] богдан.: а вайп когда
+[08:59:25] Jr_byba: ЫПВРАИВГРЫАЫ
+[08:59:32] Toxa: так тут же и так пусто
+[08:59:40] Jr_byba: ВЫГАФНЫОВПАОВА
+[08:59:41] богдан.: на горе огромная база
+[08:59:46] богдан.: и мусорно
+[08:59:47] Toxa: да пустая она
+[08:59:52] богдан.: ну ладно
+[08:59:55] Jr_byba: ок
+[08:59:55] Client "яя не гитлир" connected.
+[09:00:03] богдан.: тогда я ее займу
+[09:00:13] богдан.: только как до туда добратся
+[09:00:14] Toxa: если сможешь залесть то бери
+[09:00:23] богдан.: не смогу наверное
+[09:00:52] Jr_byba: гвыарт ываепогывкап
+[09:01:34] Jr_byba: гывпагнваплп
+[09:01:38] Jr_byba: вырпаит ваопварывапрвоап
+[09:01:41] богдан.: что тут у вас
+[09:01:42] Jr_byba: пон
+[09:01:52] Jr_byba: а за что
+[09:01:52] богдан.: жаль мало играет
+[09:01:54] Client "яя не гитлир" spawned in server <STEAM_0:0:845922848> (took 119 seconds).
+[09:02:02] Jr_byba: не 
+[09:02:18] Jr_byba: а что он тебя бил по базе
+[09:02:19] богдан.: 24 игрока 2 недели назад
+[09:02:25] Jr_byba: пон
+[09:02:34] богдан.: а щас меньше 10 это скучновато
+[09:02:50] Dropped "яя не гитлир" from server<STEAM_0:0:845922848>
+[09:02:50] яя не гитлир suicided!
+[09:02:54] богдан.: в субботу обычно много играет
+[09:02:59] Jr_byba: блять
+[09:03:01] Jr_byba: вагрпфингыврмоиупкеровипаерпоывап
+[09:03:28] богдан.: это я
+[09:03:33] Jr_byba: сорян
+[09:03:47] богдан.: я принц великой сирии
+[09:03:57] богдан.: сын башара ассада
+[09:04:17] богдан.: меня послали сюда чтобы всех грабить и убивать
+[09:05:04] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_rus_spawnbase
+[09:05:13] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezceramic
+[09:05:14] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezceramic
+[09:05:27] богдан.: ладно я пошел
+[09:05:31] богдан.: завтра зайду
+[09:05:40] Dropped "богдан." from server<STEAM_0:1:815266334>
+[09:05:40] богдан. suicided!
+[09:08:11] Egorik killed Tockerheh using ent_aboot_gmod_ezshippingcontainer
+[09:10:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezceramic
+[09:10:32] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezceramic
+[09:11:08] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_m4_mow
+[09:16:23] Сырный пакетик to admins: руслан вытащи плиз верстак из под земли
+[09:16:44] Client "Raviolii" connected.
+[09:19:33] Jr_byba: я вернулся
+[09:21:27] RusLanConnection teleported to Toxa
+[09:23:34] Jr_byba: что
+[09:25:50] Jr_byba: где он?
+[09:26:01] Jr_byba: ыварпивырпорывкап
+[09:26:22] Jr_byba: я добрый
+[09:26:38] Jr_byba: я не руслан
+[09:26:47] Jr_byba: а где он?
+[09:26:57] Jr_byba: хмм
+[09:27:07] Jr_byba: ок
+[09:27:49] Jr_byba: ема
+[09:28:34] Jr_byba: фред
+[09:28:38] Jr_byba: это что
+[09:28:48] Jr_byba: а где рулан?
+[09:28:56] Jr_byba: *руслан
+[09:29:53] Jr_byba: ПОЛИТЕЛИ
+[09:30:04] Jr_byba: AYA
+[09:30:06] Jr_byba: YAY
+[09:30:20] Jr_byba: не
+[09:30:26] Jr_byba: го там
+[09:30:32] Jr_byba: se
+[09:30:36] Jr_byba: se
+[09:30:38] Jr_byba: SE
+[09:30:47] Jr_byba: НЕТ
+[09:31:06] Jr_byba: оно в т
+[09:31:08] Jr_byba: n
+[09:31:37] Jr_byba: на лево
+[09:32:15] Jr_byba: го сюда
+[09:32:24] (TEAM) Jr_byba: не
+[09:32:32] Jr_byba: ВОТ
+[09:33:20] Jr_byba: блять
+[09:33:25] Jr_byba: щя
+[09:33:29] Jr_byba: помогу
+[09:34:23] Jr_byba: ой
+[09:34:34] Jr_byba: ок
+[09:34:48] Jr_byba: всё
+[09:34:51] Jr_byba: стоп
+[09:35:00] Jr_byba: дай руль
+[09:35:47] Jr_byba: хахахахаха
+[09:36:20] Jr_byba: ку
+[09:36:32] Jr_byba: о сырный покетик
+[09:36:57] Jr_byba: дай
+[09:37:25] Jr_byba: да
+[09:37:27] Jr_byba: ок
+[09:38:24] Jr_byba: 1 и2
+[09:38:25] Jr_byba: 1
+[09:38:28] Jr_byba: и 2
+[09:40:57] Jr_byba: рту
+[09:41:15] Jr_byba: РТУ
+[09:41:51] Jr_byba: Я ртудь и серебро нашёл
+[09:42:54] Jr_byba: Э
+[09:45:19] Сырный пакетик to admins: тут чут чут уран в горе заспавнился, можете плиз его поставить норма�
+[09:45:46] Сырный пакетик to admins: а не не над, все норм
+[09:48:12] FRED01: supply radio: seed kit
+[09:48:24] (TEAM) Jr_byba: щя
+[09:49:08] Jr_byba: ну что
+[09:49:17] Jr_byba: ХАХАХАХА
+[09:50:03] Jr_byba: хаахахахахха
+[09:50:10] Jr_byba: провет
+[09:50:46] Jr_byba: вух
+[09:50:52] Jr_byba: всё норм
+[09:51:24] Jr_byba: фред
+[09:51:33] Jr_byba:  Я ЛЕТАЮ
+[09:56:08] Jr_byba: КУ
+[09:56:25] Jr_byba: БУ
+[09:56:50] Jr_byba: ЩЯ
+[09:56:59] Jr_byba: люди
+[09:57:06] Jr_byba: смотрите
+[09:59:09] Сырный пакетик suicided!
+[09:59:10] Jr_byba: у них всё норм
+[10:00:22] Jr_byba: я личю
+[10:01:56] Tockerheh was killed by ent_fumo_gmod_ezutilitycrate
+[10:04:45] Jr_byba: ку
+[10:05:01] Jr_byba: го помогу
+[10:05:17] Jr_byba: да не
+[10:06:34] Jr_byba: пошли
+[10:07:08] Jr_byba: го на мой
+[10:10:31] Jr_byba: где оно?
+[10:10:56] Jr_byba: эй
+[10:11:03] Jr_byba: ГДЕ
+[10:11:20] Jr_byba: где моё тело
+[10:11:38] Jr_byba: или дай физган
+[10:12:02] Jr_byba: дай физ ган
+[10:12:11] Jr_byba: спс
+[10:14:03] Jr_byba: всё
+[10:14:07] Jr_byba: ку
+[10:14:19] Jr_byba: да так 
+[10:14:24] Jr_byba: помог
+[10:14:27] Client "KIRKA" connected.
+[10:14:38] Jr_byba: ресы перенести
+[10:14:55] Jr_byba: им
+[10:14:57] rty000pro: \
+[10:15:20] Client "KIRKA" spawned in server <STEAM_0:0:589372958> (took 53 seconds).
+[10:15:26] Jr_byba: хмм
+[10:15:42] Jr_byba: тут нужна дыра
+[10:17:05] Jr_byba: где он
+[10:17:50] Jr_byba: блять
+[10:18:03] KIRKA killed Toxa using tfa_doig43
+[10:18:03] Jr_byba: вы дибилы
+[10:18:40] Jr_byba: кирка
+[10:19:09] Jr_byba: кирка
+[10:19:18] Jr_byba: кирка
+[10:19:23] Jr_byba: сюда
+[10:19:39] Egorik was killed by ent_jack_gmod_ezrtg
+[10:19:59] Jr_byba: оооо
+[10:20:47] Egorik was killed by ent_jack_gmod_ezrtg
+[10:21:51] Jr_byba: всё
+[10:22:04] Jr_byba: фред
+[10:22:11] Jr_byba: всё
+[10:22:14] Jr_byba: пошли
+[10:22:26] Jr_byba: это что?
+[10:22:49] Jr_byba: мдв
+[10:22:51] Jr_byba: мда
+[10:23:24] Jr_byba: щя
+[10:26:38] Jr_byba: всё
+[10:26:45] Jr_byba: зделал
+[10:27:13] Jr_byba: это не всё
+[10:27:21] Jr_byba: а стены
+[10:28:52] Jr_byba: что это?
+[10:29:44] FRED01 was killed by build_prop
+[10:30:24] Jr_byba: помогай
+[10:30:45] Jr_byba: чел
+[10:30:49] Jr_byba: вот
+[10:34:38] Jr_byba: ку
+[10:34:44] Jr_byba: помогай
+[10:35:02] Jr_byba: ну ты и ленивый
+[10:35:23] Jr_byba: ок
+[10:41:05] Jr_byba: что
+[10:42:01] KIRKA was killed by lvs_wheeldrive_dodwillyjeep
+[10:43:16] Jr_byba: кирка
+[10:43:30] Jr_byba: блять
+[10:43:32] Jr_byba: кмрка
+[10:43:36] Jr_byba: кирка
+[10:43:56] Jr_byba: я смогу полетать
+[10:44:00] Jr_byba: кирка
+[10:44:31] FRED01 was killed by entityflame
+[10:44:36] rty000pro killed KIRKA using tfa_doienfield_scop
+[10:45:03] Jr_byba: а хуй тебе
+[10:45:35] Jr_byba: э дай
+[10:46:18] Jr_byba: вырапмысрвоаипывгарпмровалп
+[10:46:26] Jr_byba: авпр иарпср
+[10:46:55] Jr_byba: фыкпемироывапяа
+[10:47:16] KIRKA: на гору слева
+[10:47:31] KIRKA: где баща
+[10:48:17] KIRKA: выше
+[10:48:31] Jr_byba: ну сука
+[10:48:38] Сырный пакетик: supply radio: fulton-crate
+[10:48:42] Сырный пакетик: supply radio: fulton-crate
+[10:52:36] Jr_byba: НЕТ
+[10:52:40] Toxa: а?
+[10:52:42] (TEAM) KIRKA: Наеьал
+[10:52:47] Jr_byba: ку
+[10:52:48] KIRKA: Не крут
+[10:52:48] Toxa: я тольк пришел
+[10:52:50] Toxa: и тут
+[10:52:54] KIRKA: Наебал
+[10:52:54] Toxa: поджек
+[10:53:16] KIRKA: полетели
+[10:53:26] Jr_byba: кирка
+[10:53:30] KIRKA: ПОЛЕТЕЛИ
+[10:53:35] KIRKA: БЛЯТТ 
+[10:53:46] KIRKA: впаро
+[10:53:51] KIRKA: тула
+[10:54:08] KIRKA: вправр
+[10:54:13] KIRKA: туда
+[10:54:48] Jr_byba: БЛЯТЬ
+[10:54:48] Egorik was killed by entityflame
+[10:54:53] Jr_byba killed KIRKA using ent_jack_gmod_eznapalm
+[10:54:59] Jr_byba: СУКА ДИБИЛ
+[10:55:00] Toxa: сгорел на работе
+[10:55:02] Jr_byba: СУКА
+[10:55:07] Jr_byba: ТЫ ИДИОТ
+[10:55:10] Dropped "KIRKA" from server<STEAM_0:0:589372958>
+[10:55:10] KIRKA suicided!
+[10:55:17] Jr_byba: ЭТО ВСЁ КИРКА
+[10:56:05] Jr_byba: полители
+[10:56:15] Toxa: из листов
+[10:56:16] Jr_byba: смотри
+[10:56:16] Toxa: металла
+[10:56:54] Jr_byba: фиганские фокусы
+[10:57:16] Toxa: капец там трупов
+[10:57:27] Jr_byba: где
+[10:57:30] Toxa: у вас на базе
+[10:57:33] Jr_byba: пон
+[10:58:40] Jr_byba: КИРКА НАХУЙ ИДИОТ
+[10:58:49] Jr_byba: НУ
+[11:02:10] Toxa to admins: ека пипец как много lua ошибок вызывает
+[11:02:25] Jr_byba: НЕ знаю
+[11:03:02] Jr_byba: что
+[11:03:07] Jr_byba: ок
+[11:03:47] Jr_byba: дай ник всех нормальных
+[11:04:09] Jr_byba: которых можно прорустить
+[11:04:12] Jr_byba: что
+[11:04:18] Jr_byba: ое
+[11:04:20] Jr_byba: ок
+[11:04:49] Jr_byba: а что там
+[11:04:56] Jr_byba: ааа
+[11:04:57] Jr_byba: щя
+[11:08:56] RusLanConnection teleported to Toxa
+[11:09:07] Jr_byba: а почему я охраник а не тоха
+[11:09:18] Jr_byba: уранжик
+[11:09:22] Jr_byba: эээ
+[11:10:04] Сырный пакетик suicided!
+[11:10:07] Dropped "Сырный пакетик" from server<STEAM_0:0:617253467>
+[11:10:07] Сырный пакетик suicided!
+[11:11:04] Jr_byba: а почему тоха ужёл
+[11:11:08] Toxa: я тут
+[11:11:39] Jr_byba: норм?
+[11:11:49] Jr_byba: что
+[11:11:54] Tockerheh was killed by ent_rus_spawnbase
+[11:12:06] Jr_byba: о
+[11:12:09] Jr_byba: руслан
+[11:12:17] Jr_byba: руслан
+[11:12:27] Jr_byba: тоха
+[11:12:29] Toxa: мммм
+[11:12:36] Jr_byba: это руслан?
+[11:12:41] Toxa: наверно
+[11:13:21] Jr_byba: руслан
+[11:13:26] Jr_byba: пожли
+[11:13:31] Jr_byba: руслан
+[11:13:43] Jr_byba: где лопата
+[11:14:20] Jr_byba: руслан
+[11:14:24] Jr_byba: очнись
+[11:14:30] Jr_byba: ааа
+[11:14:45] Jr_byba: он там свесток прокачивает
+[11:15:28] rty000pro: supply radio: global message
+[11:16:41] Client "LonePlayer022" connected.
+[11:16:49] Jr_byba: тоха
+[11:16:54] Jr_byba: иди сюда
+[11:17:43] Client "LonePlayer022" spawned in server <STEAM_0:1:597586443> (took 62 seconds).
+[11:18:23] Jr_byba: у тебя оружие опаснее
+[11:18:25] RusLanConnection teleported to LonePlayer022
+[11:18:30] Toxa: определенно
+[11:19:13] Jr_byba: кароч
+[11:19:18] Jr_byba: тоха
+[11:19:45] Jr_byba: ты просто спрашиваеш имя и пропускаеш
+[11:20:03] Jr_byba: ну или растрел 
+[11:20:06] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[11:20:06] RusLanConnection suicided!
+[11:20:07] Jr_byba: или нет?
+[11:20:38] Jr_byba: теперь тоха охраник
+[11:20:46] Jr_byba: ХЗАЗАЗАЗА
+[11:20:54] Toxa: ужс
+[11:20:59] Jr_byba: да т2х2
+[11:21:01] Jr_byba: э
+[11:21:01] Toxa: я знаю как можно сделать
+[11:23:01] Jr_byba: ты хто
+[11:23:10] LonePlayer022: Раб Руслана
+[11:23:15] Jr_byba: ааа
+[11:23:27] Jr_byba: ты в лаборатуру
+[11:25:07] Jr_byba: lone
+[11:25:46] FRED01: supply radio: first-aid kits
+[11:26:10] Jr_byba: lone
+[11:26:15] Jr_byba: gjikb
+[11:26:17] Jr_byba: go
+[11:29:53] Jr_byba: го я
+[11:30:01] Jr_byba: о
+[11:30:49] rty000pro: /C/PROGRAMMS/TEST_COLLIDER_SYSTEM.EXE START CHECK_ALL
+[11:31:47] rty000pro: /C/PROGRAMMS/START_1.EXE START
+[11:33:37] rty000pro: /C/PROGRAMMS/STAGE_1_START.EXE START
+[11:35:29] Dropped "Jr_byba" from server<STEAM_0:1:152546935>
+[11:35:29] Jr_byba suicided!
+[11:35:49] (TEAM) Tockerheh: i
+[11:36:52] LonePlayer022 was killed by ent_jack_gmod_ezprimitivebench
+[11:36:55] FRED01 was killed by ent_jack_gmod_ezprimitivebench
+[11:37:00] rty000pro: /C/PROGRAMMS/EMERGENCY_STOP_SYSTEM.EXE START
+[11:37:10] Toxa was killed by ent_jack_gmod_ezprimitivebench
+[11:37:39] FRED01 was killed by ent_jack_gmod_ezprimitivebench
+[11:38:43] Client "Sargent Leander [∑≠⍙]" connected.
+[11:40:42] LonePlayer022 killed Egorik using lvs_wheeldrive_citroen_type23
+[11:41:09] Client "Sargent Leander [∑≠⍙]" spawned in server <STEAM_0:1:430553355> (took 146 seconds).
+[11:41:19] Toxa: a
+[11:41:27] Toxa: ГАЙС 
+[11:43:51] Client "Pari" connected.
+[11:44:38] Client "Pari" spawned in server <STEAM_0:1:454182924> (took 47 seconds).
+[11:45:20] FRED01: ну мы принимаем наши ошибки и испрамим
+[11:45:48] Dropped "Toxa" from server<STEAM_0:0:33704276>
+[11:45:48] Toxa suicided!
+[11:46:15] Sargent Leander [∑≠⍙]: bind jmod_ez_inv i
+[11:46:59] Sargent Leander [∑≠⍙]: playermodel_selector 
+[11:47:15] Sargent Leander [∑≠⍙]: playermodel_selector 
+[11:49:00] Dropped "LonePlayer022" from server<STEAM_0:1:597586443>
+[11:49:00] LonePlayer022 suicided!
+[11:54:13] Dropped "rty000pro" from server<STEAM_0:1:593166516>
+[11:54:13] rty000pro suicided!
+[11:54:23] Dropped "FRED01" from server<STEAM_0:1:767661328>
+[11:54:23] FRED01 suicided!
+[11:54:43] Egorik: supply radio: point-of-dislocation
+[11:58:14] Sargent Leander [∑≠⍙]: supply radio: fulton-crate
+[11:58:50] Sargent Leander [∑≠⍙]: supply radio: fulton-crate
+[11:59:26] Tockerheh killed Egorik using tfa_doim1912
+[11:59:59] Egorik killed Tockerheh using tfa_doisw1917
+[12:00:48] Egorik killed Tockerheh using tfa_doisw1917
+[12:01:11] Egorik killed Tockerheh using tfa_doisw1917
+[12:04:17] Egorik killed Tockerheh using tfa_doippk
+[12:05:02] Egorik killed Tockerheh using tfa_doippk
+[12:05:27] Egorik killed Tockerheh using tfa_doi_marinebayonet
+[12:10:42] Egorik killed Tockerheh using tfa_doippk
+[12:10:47] Dropped "Pari" from server<STEAM_0:1:454182924>
+[12:10:47] Pari suicided!
+[12:11:13] Client "Pari" connected.
+[12:11:48] Client "Pari" spawned in server <STEAM_0:1:454182924> (took 35 seconds).
+[12:12:48] Egorik killed Pari using tfa_doik98_scop
+[12:14:37] Pari killed Egorik using tfa_doippk
+[12:16:36] Sargent Leander [∑≠⍙]: supply radio: truck
+[12:16:45] Sargent Leander [∑≠⍙]: supply radio: truck
+[12:16:49] Sargent Leander [∑≠⍙]: supply radio: truck
+[12:17:29] Sargent Leander [∑≠⍙]: supply radio: truck
+[12:17:53] Tockerheh killed Sargent Leander [∑≠⍙] using tfa_doispringfield_scop
+[12:19:40] Egorik killed Tockerheh using tfa_doisw1917
+[12:19:52] Dropped "Tockerheh" from server<STEAM_0:0:409939021>
+[12:19:52] Tockerheh suicided!
+[12:26:43] Sargent Leander [∑≠⍙]: bind jmod_ez_inv i3328
+[12:37:40] Sargent Leander [∑≠⍙]: XAXAX why
+[12:37:44] Sargent Leander [∑≠⍙]: you killed me
+[12:37:48] Sargent Leander [∑≠⍙]: why nice?
+[12:38:21] Egorik: i have a nuce
+[12:38:48] Egorik: but i can't use
+[12:39:31] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[12:39:31] Egorik suicided!
+[12:57:12] Dropped "Sargent Leander [∑≠⍙]" from server<STEAM_0:1:430553355>
+[12:57:12] Sargent Leander [∑≠⍙] suicided!
+[12:57:23] Dropped "Pari" from server<STEAM_0:1:454182924>
+[12:57:23] Pari suicided!
+[13:04:20] Client "RusLanConnection" connected.
+[13:06:28] Client "afromen" connected.
+[13:06:49] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 149 seconds).
+[13:09:57] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezammo
+
+
+
+[13:15:39] New map: gm_sro
+[13:16:22] Client "RusLanConnection" connected.
+[13:17:00] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 38 seconds).
+[13:18:19] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_stuka
+[13:18:43] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_stuka
+[13:18:52] RusLanConnection suicided!
+[13:19:00] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_bf109
+[13:19:56] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_ezfuel
+[13:20:24] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_yak4
+[13:20:28] Client "afromen" connected.
+[13:20:34] RusLanConnection killed RusLanConnection
+[13:22:13] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_stuka
+[13:22:14] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_stuka
+[13:22:34] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/shelfunit01a.mdl
+[13:23:07] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_stuka
+[13:23:10] Client "afromen" spawned in server <STEAM_0:0:630661310> (took 162 seconds).
+[13:23:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/shelfunit01a.mdl
+[13:23:25] RusLanConnection<STEAM_0:0:238810681> spawned model models/props_c17/shelfunit01a.mdl
+[13:24:11] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_helicopter_cod_ah6
+[13:24:31] RusLanConnection<STEAM_0:0:238810681> spawned sent lvs_plane_stuka
+[13:26:30] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[13:28:28] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[13:29:07] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[13:29:39] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[13:30:01] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[13:33:59] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[13:37:49] Dropped "afromen" from server<STEAM_0:0:630661310>
+[13:37:49] afromen suicided!
+[13:57:30] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[13:57:30] RusLanConnection suicided!
+[13:58:09] Client "RusLanConnection" connected.
+[13:58:58] Client "RusLanConnection" spawned in server <STEAM_0:0:238810681> (took 49 seconds).
+[13:59:19] RusLanConnection<STEAM_0:0:238810681> spawned sent ent_jack_gmod_eznukerocket
+[14:01:50] Dropped "RusLanConnection" from server<STEAM_0:0:238810681>
+[14:01:50] RusLanConnection suicided!
+<Logging continued in "data/ulx_logs/11-15-25.txt">

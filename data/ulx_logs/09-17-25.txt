@@ -1,0 +1,1107 @@
+<Logging continued from "data/ulx_logs/09-16-25.txt">
+[01:05:01] Client "Egorik" connected.
+[01:06:19] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 78 seconds).
+[01:10:19] Egorik: !motd
+[01:36:29] Egorik suicided!
+[02:16:15] Client "Soldier_S.C.A.F" connected.
+[02:21:11] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 296 seconds).
+[02:21:46] Soldier_S.C.A.F: !menu
+[02:30:32] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[02:30:32] Soldier_S.C.A.F suicided!
+[02:37:25] Egorik killed Egorik
+[02:56:12] Egorik was killed by lvs_helicopter_cod_ah6
+[03:02:55] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[03:02:55] Egorik suicided!
+[03:19:31] Client "maksumkolesnukov022" connected.
+[03:20:14] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 43 seconds).
+[03:27:48] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[03:27:48] maksumkolesnukov022 suicided!
+[03:34:30] Client "maksumkolesnukov022" connected.
+[03:34:35] Client "vasiliy karat" connected.
+[03:35:07] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 37 seconds).
+[03:35:55] Client "vasiliy karat" spawned in server <STEAM_0:0:814052183> (took 80 seconds).
+[03:36:10] vasiliy karat: !menu
+[03:36:15] vasiliy karat changed the map to gm_sro
+[03:36:15] Server is shutting down/changing levels.
+
+
+
+[03:36:26] New map: gm_sro
+[03:36:55] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 35 seconds).
+[03:42:42] Client "Egorik" connected.
+[03:43:30] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 48 seconds).
+[03:44:35] maksumkolesnukov022: да не
+[03:44:40] maksumkolesnukov022: ало керамика где
+[03:53:09] maksumkolesnukov022: а где
+[03:53:17] Egorik: улетел
+[03:53:21] Egorik: наверное
+[03:53:48] Egorik: для батарей солнечных медь нужна
+[03:53:51] Egorik: если чо
+[03:53:57] maksumkolesnukov022: её дофига ещё
+[03:53:57] Egorik: все не продавай
+[03:54:01] Egorik: а ну да
+[03:54:02] Egorik: вижу
+[03:59:06] Client "Soldier_S.C.A.F" connected.
+[04:00:46] Client "Soldier_S.C.A.F" spawned in server <STEAM_0:0:83299777> (took 100 seconds).
+[04:08:05] Soldier_S.C.A.F: здарова
+[04:08:07] maksumkolesnukov022: ку
+[04:08:11] Soldier_S.C.A.F: чтоб понимали
+[04:08:14] Soldier_S.C.A.F: я вот там
+[04:08:19] Soldier_S.C.A.F: нашёл уран
+[04:08:28] Soldier_S.C.A.F: а ещё для себя воду
+[04:08:44] Soldier_S.C.A.F: так что
+[04:08:55] Soldier_S.C.A.F: выскажем это как дружественное предложение?
+[04:09:14] Soldier_S.C.A.F: я блогодарен
+[04:14:09] Egorik: тут нефть 
+[04:14:11] Egorik: вроде
+[04:14:13] maksumkolesnukov022: да, видел
+[04:14:26] Egorik: сам построишь или мне?
+[04:14:38] maksumkolesnukov022: там надо чут чут разобрать фундамент, ща
+[04:16:58] Client "богдан." connected.
+[04:17:03] Egorik: электричество на батареях юудем?
+[04:17:28] maksumkolesnukov022: чувак скорее всего реактор будет делать 
+[04:17:30] maksumkolesnukov022: от него запитаемс
+[04:17:35] Egorik: о кайф
+[04:18:49] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 111 seconds).
+[04:20:55] Egorik: !motd
+[04:24:28] maksumkolesnukov022: там кнопка есть в верстаке
+[04:24:33] maksumkolesnukov022: чтобы сразу все из инвентаря
+[04:24:40] Egorik: аааа
+[04:24:43] Egorik: оооо
+[04:24:46] Egorik: классс
+[04:24:58] maksumkolesnukov022: и оно быстро все
+[04:28:20] Egorik: электричество бы
+[04:28:28] maksumkolesnukov022: дерева много
+[04:28:38] Egorik: паровую?
+[04:28:41] maksumkolesnukov022: да
+[04:29:04] Soldier_S.C.A.F: этот
+[04:29:09] Soldier_S.C.A.F: я пока уран добываю
+[04:29:10] Egorik: а там воды один раз налил и всё?
+[04:29:15] maksumkolesnukov022: воду не надо
+[04:29:17] Soldier_S.C.A.F: у меня такой вопрос
+[04:29:34] Soldier_S.C.A.F: может свои реакторы совместим в одной постройке?
+[04:30:01] maksumkolesnukov022: можно, мы бы хотели от вас запитать наш штаб
+[04:30:13] Soldier_S.C.A.F: ебать отлетело
+[04:30:27] Soldier_S.C.A.F: ну ладно
+[04:30:38] Soldier_S.C.A.F: я тогда запланирую постройку на горе
+[04:30:43] Soldier_S.C.A.F: а дальше решим
+[04:30:44] maksumkolesnukov022: окей
+[04:31:43] Client "GreenPixel11" connected.
+[04:32:25] Client "GreenPixel11" spawned in server <STEAM_0:1:121013768> (took 42 seconds).
+[04:37:14] Egorik: нужно нефть обработать
+[04:37:17] maksumkolesnukov022: да
+[04:40:55] богдан. suicided!
+[04:45:59] Egorik: СТРОИТЕЛЬ ИЗ ТЕБЯ ОXРЕНИТЕЛЬНЫЙ
+[04:46:07] Egorik: вау
+[04:46:07] Soldier_S.C.A.F: бывает
+[04:46:09] Client "Southern Metalci" connected.
+[04:46:11] Soldier_S.C.A.F: кароч
+[04:46:17] Soldier_S.C.A.F: тут урана на два реактора
+[04:46:35] Soldier_S.C.A.F: я ещё и площядь для реакторов сделал
+[04:46:42] Soldier_S.C.A.F: у меня идея там такая
+[04:46:49] Soldier_S.C.A.F: каркас и внешние стены
+[04:46:56] Soldier_S.C.A.F: для большей изоляции
+[04:47:22] Soldier_S.C.A.F: ну пока я пошёл зданием заниматся
+[04:47:26] Soldier_S.C.A.F: а вы реакторами
+[04:52:25] Soldier_S.C.A.F: а че
+[04:52:30] Soldier_S.C.A.F: реакторы ещё не строили?
+[04:52:37] maksumkolesnukov022: ресурсы вот, на месте поставим
+[04:52:51] Soldier_S.C.A.F: я там почти всё построил
+[04:55:22] Soldier_S.C.A.F: ладно вы пока занимайтесь там
+[04:55:28] Soldier_S.C.A.F: а я себе денег наскрунжу
+[04:55:40] Egorik: блин где воды взять?
+[04:55:54] Soldier_S.C.A.F: рядом с ураном есть вода
+[04:56:26] Egorik: а ее ведром или киркой брать?
+[04:56:37] Soldier_S.C.A.F: киркой и установками
+[04:56:43] Soldier_S.C.A.F: ведром если ток водоемы
+[05:00:06] Soldier_S.C.A.F: оу
+[05:00:07] Soldier_S.C.A.F: уже
+[05:02:52] Client "Вялый Карандаш" connected.
+[05:03:20] Soldier_S.C.A.F: а вабще можно одним энергоблоками обойтись
+[05:03:26] Soldier_S.C.A.F: а то будет баг с ЛЭП
+[05:06:33] Soldier_S.C.A.F: так
+[05:06:39] Soldier_S.C.A.F: скоро включать надо будет
+[05:07:19] Soldier_S.C.A.F: чтож!
+[05:07:24] Soldier_S.C.A.F: я пошёл включать реакторы
+[05:07:55] maksumkolesnukov022: секунду
+[05:07:58] maksumkolesnukov022: надо подключить
+[05:08:05] Client "Вялый Карандаш" connected.
+[05:08:13] Soldier_S.C.A.F: я тебе протяну!
+[05:08:28] Soldier_S.C.A.F: всё
+[05:08:32] Soldier_S.C.A.F: кабель там снизу
+[05:08:33] maksumkolesnukov022: странно что не могу к чужим подключать
+[05:08:43] Soldier_S.C.A.F: ебать рофол
+[05:10:48] maksumkolesnukov022: приём
+[05:11:29] maksumkolesnukov022: санитары, приём
+[05:12:49] maksumkolesnukov022: приём
+[05:12:50] Soldier_S.C.A.F: але!
+[05:12:59] Soldier_S.C.A.F: я тут на связи. ответьте!
+[05:13:14] Soldier_S.C.A.F: прием! я вас слушаю
+[05:13:20] богдан.: приве
+[05:13:23] maksumkolesnukov022: реактор активен?
+[05:13:38] Soldier_S.C.A.F: да реакторы будут щяс готовы
+[05:13:58] maksumkolesnukov022: уведомите после включения
+[05:14:07] Soldier_S.C.A.F: хорошо
+[05:14:18] maksumkolesnukov022: спасибо, конец связи
+[05:14:28] Soldier_S.C.A.F: реакторы включу через пару минут. канец связи
+[05:14:29] GreenPixel11: supply radio: pump jack
+[05:14:49] maksumkolesnukov022: ещё немного и будет ядерпанк
+[05:14:57] maksumkolesnukov022: на замену стимпанка
+[05:15:05] Egorik: имба
+[05:15:09] Client "Redoket" connected.
+[05:15:15] maksumkolesnukov022: а зачем ещё труба
+[05:15:19] maksumkolesnukov022: можно к одной всё
+[05:15:25] Egorik: а
+[05:15:50] Client "Redoket" spawned in server <STEAM_0:1:545449619> (took 41 seconds).
+[05:15:52] maksumkolesnukov022: и теперь можно напрямую подключать
+[05:15:54] maksumkolesnukov022: к контейнерам
+[05:16:07] Egorik: и работает?
+[05:16:09] maksumkolesnukov022: да
+[05:16:15] Soldier_S.C.A.F: ало! соседи
+[05:16:19] maksumkolesnukov022: приём
+[05:16:24] Soldier_S.C.A.F: уже хорошая новость
+[05:16:31] Soldier_S.C.A.F: ай
+[05:16:35] Soldier_S.C.A.F: не слышит наверное
+[05:17:19] Egorik: а как по радио говорить:
+[05:17:21] Egorik: ?
+[05:17:26] maksumkolesnukov022: просто в чат рядом с радио
+[05:17:26] Soldier_S.C.A.F: просто рядом
+[05:17:31] Soldier_S.C.A.F: фух
+[05:17:31] Egorik: а
+[05:17:33] Egorik: кайф
+[05:17:37] Soldier_S.C.A.F: в общем энергия пошла
+[05:17:40] maksumkolesnukov022: пока энергии не получали
+[05:17:45] Client "PoPcat" connected.
+[05:17:46] Client "PoPcat" connected.
+[05:17:48] Soldier_S.C.A.F: хм странно
+[05:18:00] Soldier_S.C.A.F: да нет
+[05:18:10] Soldier_S.C.A.F: у вас энергия на установках полная
+[05:18:19] maksumkolesnukov022: это было от павербанка запитано
+[05:18:25] Soldier_S.C.A.F: так и есть
+[05:18:32] Soldier_S.C.A.F: как энергоблоки включил
+[05:18:37] Soldier_S.C.A.F: реакторы сразу заработали
+[05:18:43] Soldier_S.C.A.F: и чуть радиацией не поджарился
+[05:19:34] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_gazm1
+[05:19:36] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_gazm1
+[05:19:45] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_horch
+[05:19:46] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_gazm1
+[05:20:26] Soldier_S.C.A.F: а что
+[05:20:38] Soldier_S.C.A.F: вроде работает
+[05:20:52] maksumkolesnukov022: хм
+[05:21:00] Soldier_S.C.A.F: че там
+[05:21:04] maksumkolesnukov022: полные
+[05:21:17] Soldier_S.C.A.F: оу
+[05:21:22] Redoket: драсте
+[05:21:26] Soldier_S.C.A.F: здраствуйте..
+[05:21:28] Redoket: мі делігація
+[05:21:36] Redoket: с планеті нібіру
+[05:21:51] Redoket: давайте обсудім 
+[05:22:08] Soldier_S.C.A.F: ЭТО НЕ ТО
+[05:22:12] Redoket: ой
+[05:22:18] Soldier_S.C.A.F: ВАС ЩЯС РАДИАЦИЕЙ УБЬЕТ
+[05:22:28] Redoket: та не нормаліно
+[05:22:53] Redoket: челівік
+[05:22:56] Soldier_S.C.A.F: да?
+[05:23:03] Redoket: ні ві
+[05:23:05] Redoket: дрігій
+[05:23:07] Soldier_S.C.A.F: а
+[05:23:15] Egorik: а войс по радио не работает?
+[05:23:17] maksumkolesnukov022: не
+[05:23:20] Egorik: а жаль
+[05:23:44] Egorik: опа
+[05:23:44] maksumkolesnukov022: чё машина в снегу 
+[05:23:46] maksumkolesnukov022: в пустыне
+[05:23:46] Redoket: чілівікі
+[05:23:54] Egorik: че такая модная
+[05:23:57] Redoket: гові лі ві прідать 
+[05:24:10] Redoket: сво
+[05:24:16] maksumkolesnukov022: сво
+[05:24:46] Redoket: адай
+[05:24:56] Redoket: еп
+[05:25:08] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[05:25:10] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[05:25:11] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[05:25:13] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezfuel
+[05:25:20] Redoket: пете
+[05:25:23] Redoket: тейте
+[05:25:25] Redoket: пейте
+[05:25:27] maksumkolesnukov022: нет
+[05:25:33] Redoket: ті віпьешь
+[05:26:01] Redoket: пей
+[05:26:11] Redoket: пей
+[05:26:17] Redoket: ті не попіл
+[05:26:33] Redoket: ті умрешь жестоко
+[05:26:38] Redoket: еслі не попешь
+[05:26:50] Redoket: пей
+[05:27:01] Redoket: пей
+[05:27:04] Redoket: пей
+[05:27:05] Redoket: пе
+[05:27:19] maksumkolesnukov022: ало верни
+[05:27:21] maksumkolesnukov022: коллизию
+[05:27:28] Redoket: єто магія
+[05:27:38] Redoket: мпей
+[05:27:39] Redoket: пей
+[05:27:41] Redoket: аей
+[05:27:43] Redoket: ПЕЙ
+[05:27:45] Redoket: ПЕЙ
+[05:27:47] Redoket: ПЕЙ
+[05:27:49] Redoket: ПЕЙ
+[05:28:02] Redoket: ПЕЙ
+[05:28:05] Redoket: ПЕЙ
+[05:28:07] Redoket: ПЕЙ
+[05:28:14] Redoket: ТІ НЕ ПЬ'ШЬ
+[05:28:22] Redoket: ВСО
+[05:28:27] Redoket: ТЕПЕР
+[05:28:36] Redoket: ТІ НЕ БУДЕШ ПОРАБОЩОН 
+[05:28:40] Redoket: НІБІРУ
+[05:28:44] Redoket: БУДЬ СВО
+[05:28:45] Redoket: БОДЕН
+[05:28:49] maksumkolesnukov022: егорик подойди 
+[05:29:00] maksumkolesnukov022: отведай
+[05:29:06] Egorik: ммм
+[05:29:27] maksumkolesnukov022: думаю пока достаточно добывать нефть
+[05:29:27] maksumkolesnukov022: 5к
+[05:30:08] Redoket<STEAM_0:1:545449619> spawned sent ent_rus_spawnbase
+[05:30:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezcrate
+[05:30:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:30:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:30:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:30:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:30:34] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:30:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:30:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:30:41] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:30:41] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:30:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:30:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_eztoolbox
+[05:33:58] Redoket<STEAM_0:1:545449619> spawned sent lvs_trailer_schneider
+[05:34:09] Redoket<STEAM_0:1:545449619> spawned sent lvs_trailer_schneider_new
+[05:34:25] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezcrate
+[05:34:27] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:28] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:31] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:35] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:42] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:42] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:45] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:34:46] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:36:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:37:01] maksumkolesnukov022: 200 безвозмездно
+[05:37:05] Soldier_S.C.A.F: спасибо
+[05:37:58] Egorik: прищло время военнизации
+[05:38:06] Egorik: на всякий
+[05:38:10] maksumkolesnukov022: факт
+[05:38:26] Soldier_S.C.A.F: в войну сильно втягиватся не буду
+[05:38:38] Soldier_S.C.A.F: разве что личить. и проводить санитарию на трупах
+[05:39:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezcrate
+[05:39:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:41] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:41] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:45] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:45] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:45] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:47] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:50] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezceramic
+[05:39:57] maksumkolesnukov022: от павербанка запитывать есть смысл только радио
+[05:40:05] maksumkolesnukov022: остальное реактор может
+[05:40:09] Egorik: гуд
+[05:40:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:38] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:39] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:48] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:49] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:49] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:51] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:51] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:51] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:40:55] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:41:26] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezcrate
+[05:41:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:41:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:41:32] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:41:36] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:41:37] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:41:37] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:41:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:41:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:41:40] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:41:43] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:42:23] Soldier_S.C.A.F: ребят
+[05:42:27] Client "Вялый Карандаш" spawned in server <STEAM_0:0:544526162> (took 2062 seconds).
+[05:42:29] Soldier_S.C.A.F: у меня не одного так щяс логало?
+[05:42:38] maksumkolesnukov022: да это редокет артой балуется
+[05:42:48] Soldier_S.C.A.F: химикатами?
+[05:42:56] maksumkolesnukov022: артиллерией
+[05:43:19] Soldier_S.C.A.F: а не слишком ли скорострельно?
+[05:43:46] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodtiger
+[05:43:59] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:00] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:01] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:02] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:02] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:03] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:03] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:04] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:04] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:05] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:06] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:07] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:09] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezexplosives
+[05:44:14] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:14] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:15] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:16] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:17] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:17] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:18] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:19] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:20] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:21] Redoket<STEAM_0:1:545449619> spawned sent ent_jack_gmod_ezbasicparts
+[05:44:56] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodtiger
+[05:44:56] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodtiger
+[05:44:57] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodtiger
+[05:44:59] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodtiger
+[05:45:00] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodtiger
+[05:45:01] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodtiger
+[05:45:47] maksumkolesnukov022: так ну смари, щас всё максимально мирно
+[05:46:02] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_pz1bison
+[05:46:23] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:27] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:28] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:29] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:29] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:31] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:34] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:34] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:35] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:42] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:43] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:45] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:47] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:48] Redoket<STEAM_0:1:545449619> spawned sent lvs_m3_stuart_tb
+[05:46:51] maksumkolesnukov022: во фракцию вступаешь, делашь логистику ресурсов, крафтишь вещи
+[05:46:56] maksumkolesnukov022: можно в дипломатию
+[05:47:05] maksumkolesnukov022: ф4
+[05:47:14] maksumkolesnukov022: жа
+[05:47:15] maksumkolesnukov022: да
+[05:47:18] maksumkolesnukov022: Ностова
+[05:47:50] maksumkolesnukov022: да много чего можно
+[05:48:20] maksumkolesnukov022: щас крутой план добыть керамику и сделать крышу форта
+[05:48:32] maksumkolesnukov022: и делать военную мощь
+[05:48:41] maksumkolesnukov022: да там я уже бур поставил, ща проведём
+[05:48:47] maksumkolesnukov022: медь нерентабельна уже
+[05:49:08] maksumkolesnukov022: ооо карандаш, щас повезём медикаменты госпиталю
+[05:49:29] maksumkolesnukov022: щас машинку закажу, туда ящик и погрузим
+[05:49:31] maksumkolesnukov022: и отвезём
+[05:50:02] maksumkolesnukov022: алт е
+[05:50:18] Redoket<STEAM_0:1:545449619> spawned sent lvs_wheeldrive_dodtiger
+[05:50:21] Redoket<STEAM_0:1:545449619> spawned sent lvs_m4_mow
+[05:50:23] maksumkolesnukov022: альт е когда в руках оружие
+[05:50:23] Redoket<STEAM_0:1:545449619> spawned sent lvs_t34_42
+[05:50:27] maksumkolesnukov022: на ящик
+[05:50:33] Redoket<STEAM_0:1:545449619> spawned sent lvs_t60
+[05:50:48] maksumkolesnukov022: пока что да
+[05:51:18] maksumkolesnukov022: да
+[05:51:22] Вялый Карандаш was killed by lvs_wheeldrive_citroen_type23
+[05:51:28] Soldier_S.C.A.F: нихуя себе...
+[05:51:43] maksumkolesnukov022: приземлилась круто
+[05:52:02] Soldier_S.C.A.F: я из санитаров
+[05:52:07] maksumkolesnukov022: это кому щас повезём гуманитарку
+[05:52:13] Soldier_S.C.A.F: ну
+[05:52:16] Soldier_S.C.A.F: людей лечить
+[05:52:31] Soldier_S.C.A.F: ладно я пока основу построю
+[05:55:02] Soldier_S.C.A.F: здраствуйте!
+[05:55:09] Soldier_S.C.A.F: да
+[05:55:15] maksumkolesnukov022: печально будет
+[05:55:16] Soldier_S.C.A.F: пока основа делается
+[05:55:22] Soldier_S.C.A.F: ого!
+[05:55:36] Soldier_S.C.A.F: так конфликт только не устрайвовайте
+[05:55:51] maksumkolesnukov022: это санитарам
+[05:55:56] Soldier_S.C.A.F: спасибо
+[05:56:05] Soldier_S.C.A.F: с обоих щедрая награда
+[05:56:33] maksumkolesnukov022: да так неинтерест
+[05:56:33] богдан.: привет
+[05:56:38] maksumkolesnukov022: ааа трубы
+[05:56:49] богдан.: я знаю
+[05:56:54] богдан.: но пока нету урана
+[05:57:12] богдан.: а у тебя есть реактор?
+[05:57:16] Client "Сёма Яношик" connected.
+[05:57:22] богдан.: ну если хочешь то можно
+[05:57:33] maksumkolesnukov022: да
+[05:57:43] maksumkolesnukov022: хороший вопрос
+[05:59:12] maksumkolesnukov022: нету
+[05:59:37] Soldier_S.C.A.F: это уран
+[05:59:37] maksumkolesnukov022: это уран
+[05:59:45] Soldier_S.C.A.F: мм
+[05:59:50] Soldier_S.C.A.F: есть куда его применять
+[05:59:56] Soldier_S.C.A.F: на реакторы
+[06:00:05] Soldier_S.C.A.F: а так же на ядерные ресурсы
+[06:00:07] maksumkolesnukov022: да я там чинил
+[06:00:08] Soldier_S.C.A.F: и в ядерки
+[06:01:19] maksumkolesnukov022: скрафтить
+[06:01:44] maksumkolesnukov022: да
+[06:02:14] maksumkolesnukov022: инвентарь
+[06:02:16] maksumkolesnukov022: !motd
+[06:02:23] Вялый Карандаш: !motd
+[06:02:41] maksumkolesnukov022: да отвезли
+[06:02:45] maksumkolesnukov022: там медикаменты еду
+[06:02:47] богдан.: все
+[06:02:50] maksumkolesnukov022: да
+[06:03:00] богдан.: я тебе еще чегонибудь скину
+[06:03:31] maksumkolesnukov022: ну да
+[06:04:02] maksumkolesnukov022: сканером можно искать
+[06:04:16] maksumkolesnukov022: в дискорде есть гайд
+[06:04:24] Вялый Карандаш: !motd
+[06:04:38] Client "ЯДЕРНЫЙ ТУБЕРКУЛ" connected.
+[06:05:21] maksumkolesnukov022: будет работать только на земле
+[06:05:22] maksumkolesnukov022: почве
+[06:07:29] Soldier_S.C.A.F: вы там что-то добываете?
+[06:07:41] Soldier_S.C.A.F: мм
+[06:07:46] maksumkolesnukov022: уже
+[06:07:50] Soldier_S.C.A.F: ну ладно
+[06:08:22] maksumkolesnukov022: да брал
+[06:10:09] maksumkolesnukov022: эээ
+[06:10:11] maksumkolesnukov022: не видел
+[06:12:04] maksumkolesnukov022: на е?
+[06:12:18] maksumkolesnukov022: а, руками
+[06:12:20] maksumkolesnukov022: свеп руки
+[06:12:33] maksumkolesnukov022: машинку заказали
+[06:12:51] maksumkolesnukov022: да тут по трубе
+[06:13:56] GreenPixel11 killed GreenPixel11
+[06:14:51] Egorik: здрасте
+[06:14:55] Egorik: как поживаете
+[06:14:57] богдан.: здраствуйте
+[06:15:00] богдан.: нормально
+[06:15:13] Egorik: торговля какая нибудь интересует?
+[06:15:20] богдан.: пока нет
+[06:15:25] Egorik: оки
+[06:15:34] Egorik: если что еще может заеду
+[06:17:05] maksumkolesnukov022: да пусть
+[06:17:25] Soldier_S.C.A.F was killed by build_prop
+[06:18:49] maksumkolesnukov022: да
+[06:19:35] maksumkolesnukov022: ИВАН ЗОЛО
+[06:19:35] Soldier_S.C.A.F: оу?
+[06:19:55] maksumkolesnukov022: эээ
+[06:20:07] maksumkolesnukov022: вон то здание на горе
+[06:20:12] maksumkolesnukov022: там их два
+[06:20:52] Dropped "GreenPixel11" from server<STEAM_0:1:121013768>
+[06:20:52] GreenPixel11 suicided!
+[06:22:04] maksumkolesnukov022: да
+[06:22:08] Вялый Карандаш: /setmodel @ models/player/matveicher/soldier_player_blck.mdl
+[06:22:16] Вялый Карандаш: /setmodel @ models/player/matveicher/soldier_player_blck.mdl
+[06:22:32] Вялый Карандаш: /ammo @ 100
+[06:22:33] Вялый Карандаш: /strip @
+[06:22:34] Вялый Карандаш: /slay @
+[06:22:35] Вялый Карандаш: /slay @
+[06:23:03] maksumkolesnukov022: не
+[06:23:44] maksumkolesnukov022: тулбокс
+[06:24:06] maksumkolesnukov022: только осторожно, ничего в воздухе не создай
+[06:24:26] maksumkolesnukov022: типа всему нужна опора
+[06:24:50] maksumkolesnukov022: там у тебя два тула
+[06:24:55] maksumkolesnukov022: тулбокс и билд
+[06:25:04] maksumkolesnukov022: билд
+[06:25:16] maksumkolesnukov022: и там на R
+[06:26:33] maksumkolesnukov022: Jmod
+[06:26:36] maksumkolesnukov022: и ланрп гайд
+[06:26:39] maksumkolesnukov022: который в ф2
+[06:28:04] Dropped "Redoket" from server<STEAM_0:1:545449619>
+[06:28:04] Redoket suicided!
+[06:30:33] maksumkolesnukov022: тут скраунж зона
+[06:30:37] maksumkolesnukov022: где щас стои
+[06:32:36] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[06:32:36] Egorik suicided!
+[06:34:12] maksumkolesnukov022: там аптечки расставлены по базе
+[06:34:16] maksumkolesnukov022: алт е на них
+[06:34:22] maksumkolesnukov022: белые
+[06:34:26] maksumkolesnukov022: красный крест
+[06:36:44] maksumkolesnukov022: щас чёта онлайна нет, в основном человек 12 играет
+[06:37:00] maksumkolesnukov022: да
+[06:39:03] Soldier_S.C.A.F: че как тут у вас
+[06:39:09] Soldier_S.C.A.F: мм
+[06:39:11] богдан. was killed by ent_jack_aidbox
+[06:39:13] Soldier_S.C.A.F: ладно я пока отойду
+[06:39:28] Soldier_S.C.A.F: может че интересное придумаю
+[06:40:12] богдан.: ПОМОГИТЕ
+[06:41:25] богдан. to admins: ПОМОГИТЕ
+[06:42:28] богдан.: ДА БЛЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯТЬ
+[06:42:52] богдан.: ПОМОГИТЕ
+[06:42:54] богдан.: ПОМОГИТЕ
+[06:42:56] богдан.: ПОМОГИТЕ
+[06:42:59] богдан.: ПОМОГИТЕ
+[06:43:01] богдан.: ПОМОГИТЕ
+[06:43:09] богдан.: ПОМОГИТЕПОМОГИТЕПОМОГИТЕПОМОГИТЕПОМОГИТЕПОМОГИТЕПОМОГИТЕПОМОГИТ
+[06:43:47] maksumkolesnukov022: шифт, но не у всего работает
+[06:43:48] богдан.: /kill
+[06:45:00] maksumkolesnukov022: шифт
+[06:45:17] maksumkolesnukov022: шифт зажимаешь когда строишь полы
+[06:46:04] Dropped "богдан." from server<STEAM_0:1:815266334>
+[06:46:04] богдан. suicided!
+[06:46:09] maksumkolesnukov022: это долго сносить
+[06:46:10] Client "krilz" connected.
+[06:46:13] Client "богдан." connected.
+[06:46:39] Client "богдан." spawned in server <STEAM_0:1:815266334> (took 26 seconds).
+[06:47:02] Dropped "богдан." from server<STEAM_0:1:815266334>
+[06:47:02] богдан. suicided!
+[06:48:07] maksumkolesnukov022: plates
+[06:48:22] maksumkolesnukov022: ещё на шифт вращаешь и аккуратно подгоняешь куда надо
+[06:48:32] Вялый Карандаш was killed by build_prop
+[06:48:58] Client "krilz" spawned in server <STEAM_0:1:89998932> (took 168 seconds).
+[06:49:06] Soldier_S.C.A.F: я тут
+[06:49:24] Soldier_S.C.A.F: а че там мало людей вабще?
+[06:49:31] maksumkolesnukov022: вообще без понятия
+[06:49:48] maksumkolesnukov022: а это уже баг, увы
+[06:53:55] Soldier_S.C.A.F: здарова
+[06:54:03] Soldier_S.C.A.F: мм
+[06:54:22] krilz: !motd
+[06:54:23] Soldier_S.C.A.F: пиксельс играл
+[06:54:49] Soldier_S.C.A.F: догонишь меня
+[06:54:53] krilz: да
+[06:57:08] maksumkolesnukov022: да
+[06:59:26] maksumkolesnukov022: деревянные горят
+[06:59:41] maksumkolesnukov022: те, что не стекло и не дерево
+[06:59:44] Soldier_S.C.A.F: а
+[06:59:47] Soldier_S.C.A.F: соседи просто
+[06:59:50] Soldier_S.C.A.F: а так
+[07:00:06] Soldier_S.C.A.F: да уж
+[07:00:30] Soldier_S.C.A.F: ну как видишь по кресту
+[07:00:36] Soldier_S.C.A.F: это больница
+[07:00:52] Soldier_S.C.A.F: там производная
+[07:02:16] maksumkolesnukov022: не
+[07:03:22] Soldier_S.C.A.F: оу?
+[07:03:34] Soldier_S.C.A.F: что именно
+[07:04:01] Soldier_S.C.A.F: а
+[07:04:08] Soldier_S.C.A.F: это демоническое ядро
+[07:04:17] Soldier_S.C.A.F: нет
+[07:04:20] Soldier_S.C.A.F: он в ваниле есть
+[07:04:22] Soldier_S.C.A.F: но!
+[07:04:27] Soldier_S.C.A.F: кучу радиации излучает
+[07:04:38] Soldier_S.C.A.F: нуу
+[07:04:56] Soldier_S.C.A.F: +оно жигает всё радиацией
+[07:05:17] Soldier_S.C.A.F: ну область поражения у него норм
+[07:05:20] Soldier_S.C.A.F: а так
+[07:05:23] Soldier_S.C.A.F: только как оружие
+[07:05:48] Soldier_S.C.A.F: ВОТ ЭТО РОФОЛС
+[07:05:53] Soldier_S.C.A.F: я сам не знал
+[07:06:17] Soldier_S.C.A.F: это итак было в ваниле
+[07:06:23] Soldier_S.C.A.F: но
+[07:06:28] Soldier_S.C.A.F: не в русском виде
+[07:06:51] Soldier_S.C.A.F: правда вайп какой-то слабый....
+[07:07:46] maksumkolesnukov022: да пусть видят
+[07:09:14] maksumkolesnukov022: да
+[07:09:39] maksumkolesnukov022: afk
+[07:11:26] Soldier_S.C.A.F: какая?
+[07:11:35] Soldier_S.C.A.F: хм щяс
+[07:11:56] Soldier_S.C.A.F: medic 07
+[07:12:38] Client "if young metro dont trust you" connected.
+[07:13:16] Soldier_S.C.A.F: нет
+[07:14:17] Soldier_S.C.A.F: ебать
+[07:14:36] Soldier_S.C.A.F: блин
+[07:14:41] Soldier_S.C.A.F: как-то скучно стало
+[07:15:03] Soldier_S.C.A.F: итак было
+[07:15:14] Soldier_S.C.A.F: хм
+[07:15:22] Soldier_S.C.A.F: щяс у меня 7 вечера 
+[07:15:27] Soldier_S.C.A.F: как думаешь
+[07:15:34] Soldier_S.C.A.F: народ будет или нет?
+[07:15:52] Client "аврора" connected.
+[07:16:01] Soldier_S.C.A.F: ладно пока покушаю 
+[07:16:14] Soldier_S.C.A.F: это жестко
+[07:16:19] Soldier_S.C.A.F: а он че?
+[07:16:23] Soldier_S.C.A.F: их применял
+[07:17:38] Soldier_S.C.A.F: ебать
+[07:17:45] Soldier_S.C.A.F: блин
+[07:17:58] Soldier_S.C.A.F: я даже "акломатор" пытался построить
+[07:18:00] Soldier_S.C.A.F: из ЗВ
+[07:18:27] Soldier_S.C.A.F: интересно конечно
+[07:18:38] Soldier_S.C.A.F: но я командой отключил рендер веревок
+[07:19:03] Soldier_S.C.A.F: rope_rendersolid 0
+[07:19:14] Client "BoxOfNoobs" connected.
+[07:19:18] Soldier_S.C.A.F: для оптимизации((
+[07:20:49] Soldier_S.C.A.F: хм
+[07:20:53] Soldier_S.C.A.F: даже вот подумал
+[07:21:01] Soldier_S.C.A.F: надо будет как нибудь референс делать\
+[07:21:07] Soldier_S.C.A.F: на атаку титанов
+[07:21:22] Soldier_S.C.A.F: вот взять кусок карты
+[07:21:30] Soldier_S.C.A.F: и оградить 50 метровыми стенами
+[07:21:50] Soldier_S.C.A.F: да)
+[07:21:55] Soldier_S.C.A.F: но это смотря как
+[07:22:03] Soldier_S.C.A.F: а так
+[07:22:14] Soldier_S.C.A.F: реализация эльдийцев норм идея
+[07:22:22] Soldier_S.C.A.F: хотя
+[07:22:41] Soldier_S.C.A.F: просто я задумался так
+[07:22:59] Soldier_S.C.A.F: после того как пересмотрел все 4 сезона
+[07:23:12] Soldier_S.C.A.F: что именно?
+[07:24:41] Soldier_S.C.A.F: вес распределять надо
+[07:25:22] Client "if young metro dont trust you" spawned in server <STEAM_0:0:625834710> (took 764 seconds).
+[07:25:25] Soldier_S.C.A.F: а мне так уже интересно стало
+[07:25:28] Soldier_S.C.A.F: вот че будет
+[07:25:39] Soldier_S.C.A.F: если коробку скрафчу на фабрикаторе
+[07:27:00] Soldier_S.C.A.F: кароч
+[07:27:13] Soldier_S.C.A.F: я понял почему коробка делает в фабрикаторе
+[07:27:18] if young metro dont trust you: ку
+[07:27:23] maksumkolesnukov022: ку
+[07:27:26] Soldier_S.C.A.F: её тупо убрали из столика и верстака
+[07:27:29] if young metro dont trust you: что тут делать надо?
+[07:27:39] maksumkolesnukov022: ф2 нажми, я афк
+[07:27:39] Soldier_S.C.A.F: мм
+[07:27:45] if young metro dont trust you: !motd
+[07:28:00] krilz: !motd
+[07:28:11] Вялый Карандаш: !motd
+[07:28:13] Вялый Карандаш: !motd
+[07:28:14] Вялый Карандаш: !motd
+[07:28:15] Вялый Карандаш: !motd
+[07:28:19] Soldier_S.C.A.F: !motd
+[07:28:23] Soldier_S.C.A.F: !motd
+[07:29:46] if young metro dont trust you: лол
+[07:30:40] if young metro dont trust you: !motd
+[07:31:24] if young metro dont trust you: jmod_ez_inv
+[07:31:25] if young metro dont trust you: !jmod_ez_inv
+[07:31:37] if young metro dont trust you: !motd
+[07:31:57] if young metro dont trust you: свывафывфыв
+[07:32:02] if young metro dont trust you: !motd
+[07:33:50] if young metro dont trust you: не
+[07:35:14] Client "KoLiN HN" connected.
+[07:36:20] krilz: !motd
+[07:36:20] Вялый Карандаш: !motd
+[07:36:37] krilz: jmod_ez_inv
+[07:37:22] if young metro dont trust you: привет
+[07:37:26] Soldier_S.C.A.F: здраствуйте
+[07:37:33] if young metro dont trust you: как начинать свое выживание?
+[07:37:43] Soldier_S.C.A.F: ох
+[07:37:58] Soldier_S.C.A.F: лучше знаешь
+[07:38:08] Soldier_S.C.A.F: надо первым делом изучать аддон JMOD
+[07:38:22] if young metro dont trust you: понял спасибо
+[07:38:23] Soldier_S.C.A.F: тут на этом сервере тебе будет сложновато
+[07:38:29] Soldier_S.C.A.F: и да
+[07:38:31] Soldier_S.C.A.F: скажу так
+[07:38:35] Soldier_S.C.A.F: сервер годный
+[07:38:41] Soldier_S.C.A.F: хоть и онлайн тут малый
+[07:38:50] Soldier_S.C.A.F: но бывает и по 20 человек
+[07:39:04] Вялый Карандаш: !motd
+[07:39:07] if young metro dont trust you: а в чем смысл?
+[07:39:08] krilz: !motd
+[07:39:16] if young metro dont trust you: типо фракции создавать?
+[07:39:18] if young metro dont trust you: !motd
+[07:39:20] Soldier_S.C.A.F: развивать свою фракцию
+[07:39:24] if young metro dont trust you: !motd
+[07:39:30] Soldier_S.C.A.F: делать идеи,историю
+[07:39:54] Soldier_S.C.A.F: чтож
+[07:39:58] Soldier_S.C.A.F: а мне уходить надо
+[07:41:45] Client "BoxOfNoobs" spawned in server <STEAM_0:1:711922940> (took 1351 seconds).
+[07:42:48] Client "аврора" spawned in server <STEAM_0:1:228235406> (took 1616 seconds).
+[07:44:04] Soldier_S.C.A.F: ОЙ
+[07:44:11] Soldier_S.C.A.F: Я ЩЯС ОБОСРУСЬ!!
+[07:44:18] if young metro dont trust you killed аврора using tfa_doimp40
+[07:44:20] Soldier_S.C.A.F suicided!
+[07:44:49] Soldier_S.C.A.F: ладно уж
+[07:44:56] Soldier_S.C.A.F: я просто на последок решил так уйти
+[07:44:58] Soldier_S.C.A.F: чтож
+[07:45:01] Soldier_S.C.A.F: пока ребят!
+[07:45:39] Soldier_S.C.A.F suicided!
+[07:45:39] Dropped "Soldier_S.C.A.F" from server<STEAM_0:0:83299777>
+[07:45:39] Soldier_S.C.A.F suicided!
+[07:48:44] Dropped "if young metro dont trust you" from server<STEAM_0:0:625834710>
+[07:48:44] if young metro dont trust you suicided!
+[07:49:37] аврора killed maksumkolesnukov022 using wep_jack_gmod_hands
+[07:54:49] maksumkolesnukov022: я не знаю
+[07:55:01] Client "Хищный анус" connected.
+[07:55:04] maksumkolesnukov022: а, аврора какой-то
+[07:55:08] maksumkolesnukov022: руками забил
+[07:55:37] maksumkolesnukov022: не знаю
+[07:56:11] Client "Хищный анус" spawned in server <STEAM_0:1:125235601> (took 70 seconds).
+[07:56:27] Вялый Карандаш killed аврора using tfa_doimp40
+[07:57:02] maksumkolesnukov022: птср
+[07:57:14] maksumkolesnukov022: он появляется от пуль, получаемого урона, смерти
+[07:57:15] maksumkolesnukov022: бомб
+[07:57:35] Client "ПОРАШЕР" connected.
+[07:57:47] maksumkolesnukov022: за базой последите
+[07:57:53] maksumkolesnukov022: да
+[07:58:09] BoxOfNoobs: zzzjkkzzzjz
+[07:58:10] maksumkolesnukov022: аль е
+[07:58:15] maksumkolesnukov022: двери открывать закрывать
+[07:58:18] BoxOfNoobs: yes
+[07:58:20] BoxOfNoobs: chut chut
+[07:58:27] BoxOfNoobs: maybe
+[07:58:36] BoxOfNoobs: я из рф.
+[07:59:05] Хищный анус: по воздуху, драсте
+[07:59:11] Хищный анус: а вы откуда?
+[07:59:19] Хищный анус: Из империи?
+[07:59:26] Хищный анус: А..
+[07:59:40] Хищный анус: За мной походу поехал
+[07:59:46] Хищный анус: Но я уже тут
+[07:59:58] Хищный анус: я оповещу по вертолету
+[08:00:09] Client "akimsyiro97" connected.
+[08:00:18] Хищный анус: ключи же есть
+[08:00:31] Хищный анус: поищу его 
+[08:01:28] Хищный анус: были другие?
+[08:01:31] Хищный анус: нихуя ты
+[08:01:43] Хищный анус: а вот мой
+[08:01:44] Хищный анус: пенис
+[08:02:02] (TEAM) Вялый Карандаш: у нас кто-то?
+[08:02:03] Хищный анус: но фракции всего две..
+[08:02:09] Вялый Карандаш: !motd
+[08:02:44] Хищный анус: кто там
+[08:03:06] Хищный анус: вы кто?
+[08:04:13] Хищный анус: какие-то симптомы проявлялись у вас в последнее время?
+[08:04:29] аврора: /me исполнил воинское приветствие!
+[08:04:39] Хищный анус: Мы не в армии..
+[08:04:40] krilz: /me выполнил воинское приветствие
+[08:04:49] Хищный анус: Ощущаете себя здоровым?
+[08:05:04] аврора: да
+[08:05:12] Хищный анус: Контактировали в последнее время с трупамИ?
+[08:05:18] аврора: нет
+[08:05:23] Хищный анус: С ураном? Газами?
+[08:05:26] аврора: нет
+[08:05:36] Хищный анус: але а схуяли он зараженный
+[08:05:40] Хищный анус: он ваще здоровее нас
+[08:06:00] Хищный анус: короче это
+[08:06:05] Хищный анус: хавай пальмовые листья
+[08:06:08] Хищный анус: ща дам
+[08:06:31] Хищный анус: мне нужны 
+[08:06:34] Хищный анус: аптекульки
+[08:07:09] Хищный анус: бля
+[08:07:12] maksumkolesnukov022: а на проём прицеливаешься
+[08:07:15] maksumkolesnukov022: и нажимаешь
+[08:07:16] Хищный анус: ща здоровый станет нездоровым нахуй
+[08:07:26] Хищный анус: ты застрял?
+[08:07:28] Хищный анус: нельзя
+[08:07:38] Хищный анус: бери
+[08:07:44] аврора: а как
+[08:07:51] Хищный анус: в инвентаре grab
+[08:07:51] maksumkolesnukov022: ну и поставил
+[08:07:59] Хищный анус: а бля
+[08:08:07] аврора: инвентарь есть
+[08:08:15] Хищный анус: как оффнуть
+[08:08:18] Хищный анус: а
+[08:08:23] Хищный анус: хазмат?
+[08:08:44] Хищный анус: у тебя моделька какая-то не медицинская
+[08:09:17] Хищный анус killed аврора using tfa_doim1911
+[08:09:19] Хищный анус: он умер
+[08:09:24] Хищный анус: от трупного вируса
+[08:09:24] Client "FRED01" connected.
+[08:09:41] аврора: я кста кому то в углу ебало поправил
+[08:09:46] аврора: непомню кому
+[08:10:34] Client "akimsyiro97" spawned in server <STEAM_0:0:441707877> (took 625 seconds).
+[08:10:45] krilz: supply radio: truck
+[08:11:11] Хищный анус: ебать
+[08:11:13] Хищный анус: 3600
+[08:11:26] аврора: ограбить вас
+[08:11:26] Хищный анус: ебать ты ставил эти хуйни
+[08:11:36] Вялый Карандаш killed аврора using tfa_doimp40
+[08:11:44] Хищный анус: кто там
+[08:11:44] maksumkolesnukov022: повесит его
+[08:11:58] Хищный анус: а
+[08:12:03] Хищный анус: я
+[08:12:21] Хищный анус: я ему в голову прописал
+[08:12:23] maksumkolesnukov022: подержи под этой
+[08:12:31] Хищный анус: я не шарю за медицину, ты кого во мне нашёл
+[08:12:42] maksumkolesnukov022: да поровнее держи
+[08:12:45] maksumkolesnukov022: вон та точка
+[08:12:51] Хищный анус: то что я поставил медицинскую модельку не значит что я пиздатый меди�
+[08:13:09] akimsyiro97 killed BoxOfNoobs using wep_jack_gmod_hands
+[08:13:27] Хищный анус: ебать ты воду раскдидал
+[08:13:46] Dropped "akimsyiro97" from server<STEAM_0:0:441707877>
+[08:13:46] akimsyiro97 suicided!
+[08:13:50] Хищный анус: я предлагаю прописывать свинец
+[08:14:21] аврора: ребята чот вы душноватые
+[08:14:36] Хищный анус: а нахуй подсумки нужны?
+[08:14:37] maksumkolesnukov022: это он ещё нас называет
+[08:14:46] Хищный анус: а)
+[08:14:46] maksumkolesnukov022: пришёл нуб без фракции начал херню творить
+[08:14:52] maksumkolesnukov022: это его просто руслан не увидел
+[08:14:53] Хищный анус: представил это в жизни
+[08:14:59] Вялый Карандаш killed аврора using tfa_doimp40
+[08:15:05] Хищный анус: пойду искать зараженных
+[08:15:11] Хищный анус: на вертике
+[08:15:20] аврора: я хотел наверх запрыгнуть но тут уебанский паркур
+[08:15:27] maksumkolesnukov022: да смысл, людей уже не будет наверное сегодня нормальных
+[08:15:53] аврора: врачи не такие душные были
+[08:15:58] maksumkolesnukov022: выброси основное
+[08:15:59] maksumkolesnukov022: да
+[08:16:04] maksumkolesnukov022: бекспейс
+[08:16:13] maksumkolesnukov022: не
+[08:17:07] Вялый Карандаш killed аврора using tfa_doik98_scop
+[08:17:15] аврора: я удары отробатывал
+[08:17:30] maksumkolesnukov022: ща парашут хочу
+[08:18:01] maksumkolesnukov022: а ну подберите
+[08:18:25] maksumkolesnukov022: пониже
+[08:18:41] maksumkolesnukov022: во
+[08:19:14] аврора: ели попал
+[08:19:21] maksumkolesnukov022: можешь высоко над базой?
+[08:19:28] Хищный анус: будет
+[08:19:45] Хищный анус: это максимум
+[08:19:48] maksumkolesnukov022: вдв с неба привет
+[08:19:49] Хищный анус: Десантируся
+[08:19:49] аврора: я в толчке прячусь
+[08:20:22] аврора: трубы не я ломал
+[08:20:38] аврора: ток жёлтый и зелён
+[08:20:54] аврора: жёлт распелил зелён хз случайно
+[08:21:09] аврора: трубы к буру не ломал
+[08:21:21] аврора: а что мне делать тут
+[08:21:39] аврора: я пришёл по веселится а не душится
+[08:21:49] аврора: да мосинка поебота
+[08:21:50] maksumkolesnukov022: да сёдня людей нет для норм замеса
+[08:22:24] Вялый Карандаш was killed by lvs_wheeldrive_citroen_type23
+[08:22:41] maksumkolesnukov022: мы вообще планируем вернуть старую систему
+[08:22:48] maksumkolesnukov022: что сервер по договорённости запускается
+[08:22:49] Хищный анус: а ты мой вертолёт
+[08:22:50] Хищный анус: бля
+[08:22:58] аврора: а  типо рп но чел по стенке идёт
+[08:23:02] Хищный анус: кого?
+[08:24:19] аврора: а дом незлья но двери открыты
+[08:25:03] аврора: говорю гавно паркур
+[08:25:17] аврора: вспомнил
+[08:25:26] аврора: я этого убил
+[08:25:50] аврора: это не база
+[08:26:06] Хищный анус: есть
+[08:26:10] Хищный анус: ща посажу птичку
+[08:26:15] Хищный анус: бля
+[08:26:17] Хищный анус: подтолкни
+[08:26:21] Хищный анус: застряла
+[08:26:35] maksumkolesnukov022: волшебник
+[08:27:07] maksumkolesnukov022: сегодня уже не будут наверное
+[08:27:16] аврора: о ифак
+[08:27:23] Хищный анус: а я
+[08:27:26] maksumkolesnukov022: иногда чёт тип такого происходит
+[08:27:27] maksumkolesnukov022: https://www.youtube.com/watch?v=BTdFWQq7jdU
+[08:27:27] Хищный анус: у подъёма
+[08:27:45] Хищный анус: принимай так тогда
+[08:27:46] maksumkolesnukov022: видос по ссылке
+[08:27:46] Хищный анус: лови
+[08:27:52] Хищный анус: а
+[08:27:54] Хищный анус: тут был
+[08:27:55] maksumkolesnukov022: ссылку скопируй
+[08:27:56] аврора: пака дерьмо 2 тира
+[08:28:05] Хищный анус: бля
+[08:28:30] Хищный анус: ебать
+[08:28:32] Хищный анус: упакованное мрт
+[08:28:42] maksumkolesnukov022: упакуй обратно
+[08:28:43] maksumkolesnukov022: чё будет
+[08:28:45] аврора killed BoxOfNoobs using wep_jack_gmod_hands
+[08:28:53] maksumkolesnukov022: упакуй в коробку
+[08:29:00] аврора: как лутать 
+[08:29:05] maksumkolesnukov022: там в контейнере 
+[08:29:07] maksumkolesnukov022: берите
+[08:29:07] Хищный анус: базовые материалы
+[08:29:20] Хищный анус: я тебе аппарат жизнеобеспечения отключу
+[08:29:23] Хищный анус: щас
+[08:29:43] Хищный анус: тут маринуются максимы
+[08:29:47] аврора: нафиг оно
+[08:29:56] Хищный анус: бля
+[08:29:57] maksumkolesnukov022: блен
+[08:29:59] Хищный анус: онсамо
+[08:30:05] maksumkolesnukov022: а чё если разрядить 
+[08:30:10] Хищный анус: хех
+[08:31:09] аврора: мб бинда нет
+[08:31:10] Хищный анус: а катюшу вырезали?
+[08:31:21] maksumkolesnukov022: да 
+[08:31:22] Хищный анус: которая
+[08:31:23] maksumkolesnukov022: вырезали
+[08:31:25] Хищный анус: бля
+[08:31:25] Client "Shyber" connected.
+[08:31:28] Хищный анус: обидно
+[08:31:33] аврора: установка?
+[08:31:37] Хищный анус: я вчера хотел сделать артиллерийский полк
+[08:31:45] maksumkolesnukov022: типа надо придумать чтобы у каждой нации своя вариация
+[08:31:45] Хищный анус: пиздишь
+[08:31:55] Хищный анус: не пиздишь
+[08:31:59] аврора: я мёртв
+[08:32:00] Хищный анус: трупный вирус
+[08:32:03] Вялый Карандаш killed аврора using tfa_doimp40
+[08:32:06] аврора: всё
+[08:32:16] Хищный анус: я в машине застрял бляяя
+[08:32:16] аврора: я тоже был заражён просто
+[08:32:28] аврора: ладно удачи я пошёл
+[08:32:30] Dropped "аврора" from server<STEAM_0:1:228235406>
+[08:32:30] аврора suicided!
+[08:32:31] Хищный анус: погнали к нам
+[08:32:35] Хищный анус: в мрт вылечишься
+[08:32:38] Хищный анус: бля я от тебя заразился
+[08:34:05] Хищный анус: от него не умирают
+[08:34:12] Хищный анус: ну
+[08:34:15] Хищный анус: там до 1 хп всего
+[08:34:46] Хищный анус: есть иммунитет?
+[08:34:50] Хищный анус: походу крилз забрал
+[08:35:03] Хищный анус: да
+[08:35:05] Хищный анус: я себя хилил
+[08:35:12] Хищный анус: у тебя пишет типо
+[08:35:17] Хищный анус: бустинг иммунитет систем
+[08:35:32] Хищный анус: fgsdf
+[08:35:39] Хищный анус: Я теперь рх
+[08:35:53] Хищный анус: я тебя колю всем подряд
+[08:36:00] Хищный анус: урааа
+[08:36:06] Хищный анус: до смерти
+[08:36:17] Хищный анус: свисточек
+[08:36:20] Хищный анус: 6 слот
+[08:36:29] Client "if young metro dont trust you" connected.
+[08:36:45] Хищный анус: можешь оставить
+[08:36:50] Хищный анус: не против если кину в вас гранату?
+[08:36:57] Хищный анус: бля
+[08:37:21] Хищный анус: это сигналка
+[08:37:29] Хищный анус: в окно давай
+[08:38:08] Хищный анус: привет сосиска
+[08:38:16] Хищный анус: как ты себя заминировал
+[08:38:31] Client "if young metro dont trust you" spawned in server <STEAM_0:0:625834710> (took 122 seconds).
+[08:38:38] Хищный анус: походу уже истратилась
+[08:38:47] Хищный анус: надо новую делать
+[08:38:56] Хищный анус: ох
+[08:38:58] Client "FRED01" connected.
+[08:38:59] Client "FRED01" connected.
+[08:39:02] Хищный анус: ты еще не играл когда тут 20 онлайна
+[08:39:07] Хищный анус: и три фракции по 6-7 человек
+[08:39:10] Client "FRED01" connected.
+[08:39:11] Хищный анус: политика
+[08:39:12] if young metro dont trust you: !motd
+[08:39:14] Хищный анус: хаос
+[08:39:15] Хищный анус: войны
+[08:39:16] Хищный анус: ядерки
+[08:39:18] Хищный анус: вар тандер
+[08:39:22] Хищный анус: вот тогда охуенно
+[08:39:28] Хищный анус: по выходным дай бог
+[08:39:37] Хищный анус: да
+[08:39:44] Хищный анус: и когда руслан добавляет что-то
+[08:39:52] Хищный анус: летающий МРТ..
+[08:39:58] krilz was killed by ent_jack_gmod_ezcrate_uni
+[08:40:01] Хищный анус: он сдохъ
+[08:40:02] Хищный анус: ахахаха
+[08:40:06] Хищный анус: ой
+[08:40:08] Хищный анус: я новый лидер
+[08:40:09] Dropped "krilz" from server<STEAM_0:1:89998932>
+[08:40:09] krilz suicided!
+[08:43:44] Dropped "Хищный анус" from server<STEAM_0:1:125235601>
+[08:43:44] Хищный анус suicided!
+[08:43:55] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[08:43:55] maksumkolesnukov022 suicided!
+[08:46:08] Dropped "Вялый Карандаш" from server<STEAM_0:0:544526162>
+[08:46:08] Вялый Карандаш suicided!
+[08:46:33] if young metro dont trust you: /ooc а тут каждый раз нужно создавать фракцию?
+[08:46:46] if young metro dont trust you: /o jmod_ez_inv
+[08:57:59] Dropped "BoxOfNoobs" from server<STEAM_0:1:711922940>
+[08:57:59] BoxOfNoobs suicided!
+[09:10:01] Client "XKaizen80" connected.
+[09:43:18] Client "FRED01" connected.
+[09:46:04] Client "FRED01" spawned in server <STEAM_0:1:767661328> (took 166 seconds).
+[09:53:56] FRED01 was killed by lvs_wheeldrive_citroen_type23
+[10:02:51] Client "Egorik" connected.
+[10:03:33] Client "Altaiec" connected.
+[10:03:41] Dropped "FRED01" from server<STEAM_0:1:767661328>
+[10:03:41] FRED01 suicided!
+[10:04:14] Client "Egorik" spawned in server <STEAM_0:1:714427023> (took 83 seconds).
+[10:08:45] if young metro dont trust you: !motd
+[10:11:16] if young metro dont trust you: /ooc как базу строить
+[10:11:23] if young metro dont trust you: /o вы
+[10:14:11] if young metro dont trust you: ку
+[10:26:42] if young metro dont trust you: !motd
+[10:33:09] if young metro dont trust you was killed by build_prop
+[10:42:32] Client "cebep1723" connected.
+[10:43:58] Client "cebep1723" spawned in server <STEAM_0:0:564053535> (took 86 seconds).
+[10:47:30] cebep1723<STEAM_0:0:564053535> changed their name to c͔̪̿̅̌͢ẹ̩͒̑b̻̄e̟̹̭͂̅̓p͍̣̦̱̀̈́̊͠1̥̩͉̽͆̎72̮̘̮͂͋̀3̙̤̹̤̄̃͆̊
+[10:47:53] c͔̪̿̅̌͢ẹ̩͒̑b̻̄e̟̹̭͂̅̓p͍̣̦̱̀̈́̊͠1̥̩͉̽͆̎72̮̘̮͂͋̀3̙̤̹̤̄̃͆̊<STEAM_0:0:564053535> changed their name to c͔̪̿̅̌͢ẹ̩͒̑b̻̄e̟̹̭͂̅̓p͍̣̦̱̀̈́̊͠1
+[10:48:13] c͔̪̿̅̌͢ẹ̩͒̑b̻̄e̟̹̭͂̅̓p͍̣̦̱̀̈́̊͠1<STEAM_0:0:564053535> changed their name to c͔̪̿̅̌͢ẹ̩͒̑b̻̄e̟̹̭͂̅̓p͍̣̦̱̀̈́̊͠
+[10:48:51] Dropped "if young metro dont trust you" from server<STEAM_0:0:625834710>
+[10:48:51] if young metro dont trust you suicided!
+[10:54:12] Egorik was killed by ent_fumo_gmod_ezutilitycrate
+[10:54:30] c͔̪̿̅̌͢ẹ̩͒̑b̻̄e̟̹̭͂̅̓p͍̣̦̱̀̈́̊͠: s̵̶̢̛̠̹̤̗̮͎̞̱̄̀ͫ̌͆ͦ̋ͪ̕͟͞͠ĕ̃͋͋̄̒͌͒́҉̵̡̢̤̟̹̤̭͓͎̲͠͝͞r̴̷̋̓ͬ̂̀͌ͤ̒͜͞͏�
+[10:54:35] c͔̪̿̅̌͢ẹ̩͒̑b̻̄e̟̹̭͂̅̓p͍̣̦̱̀̈́̊͠: s̵̶̢̛̠̹̤̗̮͎̞̱̄̀ͫ̌͆ͦ̋ͪ̕͟͞͠ĕ̃͋͋̄̒͌͒́҉̵̡̢̤̟̹̤̭͓͎̲͠͝͞r̴̷̋̓ͬ̂̀͌ͤ̒͜͞͏�
+[10:54:37] c͔̪̿̅̌͢ẹ̩͒̑b̻̄e̟̹̭͂̅̓p͍̣̦̱̀̈́̊͠: s̵̶̢̛̠̹̤̗̮͎̞̱̄̀ͫ̌͆ͦ̋ͪ̕͟͞͠ĕ̃͋͋̄̒͌͒́҉̵̡̢̤̟̹̤̭͓͎̲͠͝͞r̴̷̋̓ͬ̂̀͌ͤ̒͜͞͏�
+[10:54:39] c͔̪̿̅̌͢ẹ̩͒̑b̻̄e̟̹̭͂̅̓p͍̣̦̱̀̈́̊͠: s̵̶̢̛̠̹̤̗̮͎̞̱̄̀ͫ̌͆ͦ̋ͪ̕͟͞͠ĕ̃͋͋̄̒͌͒́҉̵̡̢̤̟̹̤̭͓͎̲͠͝͞r̴̷̋̓ͬ̂̀͌ͤ̒͜͞͏�
+[10:59:28] c͔̪̿̅̌͢ẹ̩͒̑b̻̄e̟̹̭͂̅̓p͍̣̦̱̀̈́̊͠<STEAM_0:0:564053535> changed their name to c̴̴̷̸̸̗̺̠̪̗͙̜͍͐̈̽͗ͭͬ̅͆͢͟͡ȇ̸̴̡̓ͣ̊̈́̑̆̎̕͏̸̷͓̣͈̬͖̝̻̟͝b̵̡ͭ̑́͗ͤ̿ͩ̊͘͜͏̛
+[11:00:21] c̴̴̷̸̸̗̺̠̪̗͙̜͍͐̈̽͗ͭͬ̅͆͢͟͡ȇ̸̴̡̓ͣ̊̈́̑̆̎̕͏̸̷͓̣͈̬͖̝̻̟͝b̵̡ͭ̑́͗ͤ̿ͩ̊͘͜͏̛<STEAM_0:0:564053535> changed their name to c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡
+[11:03:19] Client "Altaiec" connected.
+[11:06:26] Client "Altaiec" connected.
+[11:11:16] c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡: ȟ̘el͎̠̾̍ĺ̪̟͕̗̇̾̏ó̥͚͕̖̊̊̌
+[11:12:42] Client "Altaiec" connected.
+[11:13:09] c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡: H̞͍͍̻͗́̍͞e'͖̖͔̔̾͘s͔͑ ̡͔̋̏h̯̽̆͜ẹ̃r̘̖̼̣̹̓̀́̽͡e̢͓͙͎̔̋̊́.̦̘̘̏̽̂
+[11:15:41] c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡: f̮̬͙̊̾̈u͖̟͑͞c͉̰̓̎ǩ̙ ̥͎͙̀̂͌ỹ͙o̩̮͐̓u̺̚
+[11:16:10] c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡ was killed by ent_jack_gmod_ezfalloutparticle
+[11:18:28] Egorik killed c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡ using tfa_doispringfield_scop
+[11:20:09] Egorik was killed by ent_jack_gmod_ezfalloutparticle
+[11:21:18] Egorik: !motd
+[11:26:14] c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡ killed Egorik using tfa_doim1911
+[11:28:23] Client "NICE TRY SCAMMER" connected.
+[11:29:03] c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡: hi nigger
+[11:29:08] Egorik killed c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡ using tfa_doispringfield_scop
+[11:32:57] Egorik killed c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡ using tfa_doithompsonm1a1
+[11:34:03] c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡: slyish ti blyat
+[11:34:11] c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡: idi naxui
+[11:35:42] c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡: i need heal
+[11:36:09] Egorik killed c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡ using tfa_doithompsonm1a1
+[11:38:23] Egorik killed c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡ using tfa_doithompsonm1a1
+[11:39:42] Dropped "Egorik" from server<STEAM_0:1:714427023>
+[11:39:42] Egorik suicided!
+[11:39:47] Dropped "c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡" from server<STEAM_0:0:564053535>
+[11:39:47] c̙̀ē̡̹̫̋͊͊͟b̛͍͍̹͑͛ep̡̛͎̮̫̅̏͡ suicided!
+[11:47:24] Client "Altaiec" spawned in server <STEAM_0:0:635489994> (took 2082 seconds).
+[12:57:52] Altaiec killed Altaiec
+[13:04:55] Client "rebel" connected.
+[13:18:33] Dropped "Altaiec" from server<STEAM_0:0:635489994>
+[13:18:33] Altaiec suicided!
+[14:29:16] Client "maksumkolesnukov022" connected.
+[14:29:53] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 37 seconds).
+[14:33:29] maksumkolesnukov022 killed maksumkolesnukov022
+[14:33:34] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[14:33:34] maksumkolesnukov022 suicided!
+[14:42:17] Client "maksumkolesnukov022" connected.
+[14:42:46] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 29 seconds).
+[14:45:39] maksumkolesnukov022 killed maksumkolesnukov022
+[14:45:42] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[14:45:42] maksumkolesnukov022 suicided!
+[15:00:54] Client "maksumkolesnukov022" connected.
+[15:01:29] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 35 seconds).
+[15:04:27] maksumkolesnukov022: !votemap
+[15:15:44] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[15:15:44] maksumkolesnukov022 suicided!
+
+
+
+[15:16:35] New map: gm_sro
+[15:16:44] Server is shutting down/changing levels.
+
+
+
+[15:17:07] New map: gm_sro_isle
+[15:17:36] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 29 seconds).
+[15:25:13] maksumkolesnukov022 was killed by trigger_hurt
+[15:25:17] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[15:25:17] maksumkolesnukov022 suicided!
+[15:45:17] Client "maksumkolesnukov022" connected.
+[15:45:43] Client "maksumkolesnukov022" spawned in server <STEAM_0:1:440267723> (took 26 seconds).
+[15:58:13] Dropped "maksumkolesnukov022" from server<STEAM_0:1:440267723>
+[15:58:13] maksumkolesnukov022 suicided!
+[21:30:07] Client "krilz" connected.
+[21:31:24] Client "krilz" spawned in server <STEAM_0:1:89998932> (took 77 seconds).
+[22:26:43] Dropped "krilz" from server<STEAM_0:1:89998932>
+[22:26:43] krilz suicided!
+<Logging continued in "data/ulx_logs/09-18-25.txt">
