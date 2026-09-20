@@ -1,6 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture	models/aboot/ezgrinder01
-	$surfaceprop	metal
-	$detail	detail\metal_detail_01
-}

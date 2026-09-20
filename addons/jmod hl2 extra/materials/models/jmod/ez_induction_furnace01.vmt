@@ -1,5 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture	models/jmod/ez_induction_furnace01
-	$detail detail\metal_detail_01
-}

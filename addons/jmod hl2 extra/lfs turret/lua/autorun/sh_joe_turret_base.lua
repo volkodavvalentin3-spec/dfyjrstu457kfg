@@ -1,1 +1,0 @@
-Joe_Turret_Base = Joe_Turret_Base or {}

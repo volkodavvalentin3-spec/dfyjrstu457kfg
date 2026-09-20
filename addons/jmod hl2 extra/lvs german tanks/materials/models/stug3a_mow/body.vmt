@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models\stug3a_mow\body"
-	
-	"$alphatest" "1"
-}
