@@ -1,8 +1,0 @@
-{
-	"BoneOffset": [
-		"[3.75 8.5938 2]",
-		"{176.5938 180 29.75}"
-	],
-	"Bone": "ValveBiped.Bip01_Spine",
-	"Model": "models/khrcw2/doipack/w_m1carbine.mdl"
-}

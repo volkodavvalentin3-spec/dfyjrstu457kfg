@@ -1,8 +1,0 @@
-{
-	"BoneOffset": [
-		"[2.125 6.25 -2.75]",
-		"{82.8438 -2.4375 14.25}"
-	],
-	"Bone": "ValveBiped.Bip01_R_Thigh",
-	"Model": "models/khrcw2/doipack/w_welrod.mdl"
-}

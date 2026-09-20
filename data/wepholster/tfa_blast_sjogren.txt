@@ -1,8 +1,0 @@
-{
-	"BoneOffset": [
-		"[4.875 14.0625 1.875]",
-		"{176.5938 180 29.75}"
-	],
-	"Bone": "ValveBiped.Bip01_Spine",
-	"Model": "models/weapons/w_shot_sjogren.mdl"
-}

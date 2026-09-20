@@ -1,8 +1,0 @@
-; List of maps that are either included in the votemap command or excluded from it
-; Make sure to set votemapMapmode in config.txt to what you want.
-gm_micronations
-gm_sro
-gm_sro_duststorm
-gm_sro_highcliffs
-gm_sro_mountain_field
-gm_whiten

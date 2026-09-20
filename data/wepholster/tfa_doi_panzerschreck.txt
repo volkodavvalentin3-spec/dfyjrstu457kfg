@@ -1,8 +1,0 @@
-{
-	"BoneOffset": [
-		"[5.9688 10.125 4.6562]",
-		"{180 176.375 23.5}"
-	],
-	"Bone": "ValveBiped.Bip01_Spine",
-	"Model": "models/weapons/tfa_doi/w_panzerschreck.mdl"
-}

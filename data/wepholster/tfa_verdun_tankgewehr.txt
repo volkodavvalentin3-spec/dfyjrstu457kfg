@@ -1,8 +1,0 @@
-{
-	"BoneOffset": [
-		"[4.2188 20 6.7812]",
-		"{180 176.375 23.5}"
-	],
-	"Bone": "ValveBiped.Bip01_Spine",
-	"Model": "models/weapons/w_verdun_tankgewehr.mdl"
-}
